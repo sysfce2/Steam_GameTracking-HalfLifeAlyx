@@ -10,5 +10,3 @@ ProcessToolAssetInfo
 FixUCS2
 
 CreateCommit "Update" "$1"
-
-echo "HL:A Done"

@@ -1,99 +1,407 @@
 maps/custom_character.vmap
+- GAME: hlvr_addons/custom_character/maps/custom_character.vpk
+- CONTENT: hlvr_addons/custom_character/maps/custom_character.vmap
+- INPUT: hlvr_addons/custom_character/lightmaptexturearg.txt (crc 0)
+- INPUT: hlvr_addons/custom_character/maps/custom_character.vmap (crc 3736021639)
+- REF: materials/dev/reflectivity_30.vmat
+- REF: materials/tools/toolsnavattribute.vmat
+- REF: scripts/vscripts/follow_player.lua
+- REF: models/biped_standard/biped_standard.vmdl
+- REF: materials/wood/wood_construction_hs.vmat
+- REF: models/industrial/industrial_stairs_96a.vmdl
+- REF: materials/tools/toolstrigger.vmat
+- REF: models/props/debris/debris_pile_med_c.vmdl
+- REF: models/props/debris/debris_pile_med_b.vmdl
+- REF: models/props/debris/debris_pile_med_d.vmdl
+- REF: models/props/debris/debris_pile_med_e.vmdl
+- REF: models/props/debris/debris_pile_med_a.vmdl
+- REF: models/props/debris_pile_small_pile_1.vmdl
+- REF: models/props/dust_pile_1.vmdl
+- REF: models/props/cinder_blocks_pile_1.vmdl
+- REF: models/props/brick_pile_1_small.vmdl
+- REF: models/props/plastic_crate_01.vmdl
+- REF: models/industrial/tire_001.vmdl
+- REF: models/props_silo/tire1.vmdl
+- REF: models/props/cardboard_box_1.vmdl
+- REF: models/props/cardboard_box_1_small.vmdl
+- REF: models/props/cardboard_box_3.vmdl
+- REF: models/props/cardboard_box_4.vmdl
+- REF: models/props/barrel_plastic_1.vmdl
+- REF: models/industrial/industrial_chemical_barrel_02.vmdl
+- SPECIAL DEPENDENCY: Map Compiler Version "CompileMap"
+- SPECIAL DEPENDENCY: Texture Compiler Version "CompileTexture"
+- SPECIAL DEPENDENCY: Texture Compiler Version Mip None "CompileTexture"
+- SPECIAL DEPENDENCY: World Node Compiler Version "CompileWorldNode"
+- SPECIAL DEPENDENCY: Entity Lump Compiler Version "CompileEntityLump"
+- SPECIAL DEPENDENCY: World Compiler Version "CompileWorld"
+- SPECIAL DEPENDENCY: Model Compiler Version "CompileModel"
+- SPECIAL DEPENDENCY: Mesh Compiler Version "CompileRenderMesh"
+- SPECIAL DEPENDENCY: Collision Mesh Compiler Version "CompileVPhysXData"
+- SPECIAL DEPENDENCY: Manifest Compiler Version "CompileResourceManifest"
+
 animgraphs/biped_standard.vanmgrph
+- GAME: hlvr_addons/custom_character/animgraphs/biped_standard.vanmgrph_c
+- CONTENT: hlvr_addons/custom_character/animgraphs/biped_standard.vanmgrph
+- INPUT: hlvr_addons/custom_character/animgraphs/biped_standard.vanmgrph (crc 3880910964)
+- SPECIAL DEPENDENCY: KV3 Compiler Version "CompileAnimgraph"
+
 models/biped_standard/biped_standard.vmdl
+- GAME: hlvr_addons/custom_character/models/biped_standard/biped_standard.vmdl_c
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/biped_standard.vmdl
+- INPUT: hlvr_addons/custom_character/models/biped_standard/biped_standard.vmdl (crc 1084296619)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walke.dmx (crc 2583028842)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkn.dmx (crc 3964640167)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkne.dmx (crc 2038230794)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walknw.dmx (crc 3436478672)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walks.dmx (crc 2716535099)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkse.dmx (crc 1851114903)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walksw.dmx (crc 1651498760)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkw.dmx (crc 1408067403)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/idle.dmx (crc 3157952677)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/rune.dmx (crc 1306745549)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runn.dmx (crc 2168197300)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runne.dmx (crc 3488452291)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runnw.dmx (crc 4049136595)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runs.dmx (crc 3063828842)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runse.dmx (crc 631232476)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runsw.dmx (crc 2747852973)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runw.dmx (crc 1148156087)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_180.dmx (crc 4245523530)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_45.dmx (crc 3230047763)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_90.dmx (crc 944798097)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_180.dmx (crc 2278175572)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_45.dmx (crc 3241165261)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_90.dmx (crc 2409667567)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walke.dmx (crc 1541571075)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkn.dmx (crc 3791287761)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkne.dmx (crc 933041233)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walknw.dmx (crc 1499470891)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walks.dmx (crc 2131857793)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkse.dmx (crc 1160345673)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walksw.dmx (crc 3452363136)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkw.dmx (crc 2492053708)
+- INPUT: hlvr_addons/custom_character/models/biped_standard/dmx/mesh/biped_standard_model.dmx (crc 259616168)
+- REF: materials/dev/gray_50.vmat
+- REF: animgraphs/biped_standard.vanmgrph
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/biped_standard_model.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/idle.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walke.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walkn.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walkne.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walknw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walks.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walkse.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walksw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/walkw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_left_45.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_left_90.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_left_180.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_right_45.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_right_90.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/turn_right_180.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walke.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walkn.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walkne.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walknw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walks.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walkse.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walksw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/crouch_walkw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/rune.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runn.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runne.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runnw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runs.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runse.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runsw.ma
+- RELATED: hlvr_addons/custom_character/models/biped_standard/maya/animations/runw.ma
+- SPECIAL DEPENDENCY: ModelDoc Compiler Version "CompileModel"
+
 models/biped_standard/dmx/animation/crouch_walke.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walke.dmx
+
 models/biped_standard/dmx/animation/crouch_walkn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkn.dmx
+
 models/biped_standard/dmx/animation/crouch_walkne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkne.dmx
+
 models/biped_standard/dmx/animation/crouch_walknw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walknw.dmx
+
 models/biped_standard/dmx/animation/crouch_walks.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walks.dmx
+
 models/biped_standard/dmx/animation/crouch_walkse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkse.dmx
+
 models/biped_standard/dmx/animation/crouch_walksw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walksw.dmx
+
 models/biped_standard/dmx/animation/crouch_walkw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/crouch_walkw.dmx
+
 models/biped_standard/dmx/animation/idle.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/idle.dmx
+
 models/biped_standard/dmx/animation/rune.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/rune.dmx
+
 models/biped_standard/dmx/animation/runn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runn.dmx
+
 models/biped_standard/dmx/animation/runne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runne.dmx
+
 models/biped_standard/dmx/animation/runnw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runnw.dmx
+
 models/biped_standard/dmx/animation/runs.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runs.dmx
+
 models/biped_standard/dmx/animation/runse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runse.dmx
+
 models/biped_standard/dmx/animation/runsw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runsw.dmx
+
 models/biped_standard/dmx/animation/runw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/runw.dmx
+
 models/biped_standard/dmx/animation/turn_left_180.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_180.dmx
+
 models/biped_standard/dmx/animation/turn_left_45.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_45.dmx
+
 models/biped_standard/dmx/animation/turn_left_90.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_left_90.dmx
+
 models/biped_standard/dmx/animation/turn_right_180.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_180.dmx
+
 models/biped_standard/dmx/animation/turn_right_45.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_45.dmx
+
 models/biped_standard/dmx/animation/turn_right_90.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/turn_right_90.dmx
+
 models/biped_standard/dmx/animation/walke.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walke.dmx
+
 models/biped_standard/dmx/animation/walkn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkn.dmx
+
 models/biped_standard/dmx/animation/walkne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkne.dmx
+
 models/biped_standard/dmx/animation/walknw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walknw.dmx
+
 models/biped_standard/dmx/animation/walks.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walks.dmx
+
 models/biped_standard/dmx/animation/walkse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkse.dmx
+
 models/biped_standard/dmx/animation/walksw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walksw.dmx
+
 models/biped_standard/dmx/animation/walkw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animation/walkw.dmx
+
 models/biped_standard/dmx/animations/crouch_walke.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walke.dmx
+
 models/biped_standard/dmx/animations/crouch_walkn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walkn.dmx
+
 models/biped_standard/dmx/animations/crouch_walkne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walkne.dmx
+
 models/biped_standard/dmx/animations/crouch_walknw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walknw.dmx
+
 models/biped_standard/dmx/animations/crouch_walks.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walks.dmx
+
 models/biped_standard/dmx/animations/crouch_walkse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walkse.dmx
+
 models/biped_standard/dmx/animations/crouch_walksw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walksw.dmx
+
 models/biped_standard/dmx/animations/crouch_walkw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/crouch_walkw.dmx
+
 models/biped_standard/dmx/animations/idle.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/idle.dmx
+
 models/biped_standard/dmx/animations/rune.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/rune.dmx
+
 models/biped_standard/dmx/animations/runn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runn.dmx
+
 models/biped_standard/dmx/animations/runne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runne.dmx
+
 models/biped_standard/dmx/animations/runnw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runnw.dmx
+
 models/biped_standard/dmx/animations/runs.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runs.dmx
+
 models/biped_standard/dmx/animations/runse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runse.dmx
+
 models/biped_standard/dmx/animations/runsw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runsw.dmx
+
 models/biped_standard/dmx/animations/runw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/runw.dmx
+
 models/biped_standard/dmx/animations/turn_left_180.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_left_180.dmx
+
 models/biped_standard/dmx/animations/turn_left_45.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_left_45.dmx
+
 models/biped_standard/dmx/animations/turn_left_90.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_left_90.dmx
+
 models/biped_standard/dmx/animations/turn_right_180.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_right_180.dmx
+
 models/biped_standard/dmx/animations/turn_right_45.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_right_45.dmx
+
 models/biped_standard/dmx/animations/turn_right_90.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/turn_right_90.dmx
+
 models/biped_standard/dmx/animations/walke.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walke.dmx
+
 models/biped_standard/dmx/animations/walkn.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walkn.dmx
+
 models/biped_standard/dmx/animations/walkne.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walkne.dmx
+
 models/biped_standard/dmx/animations/walknw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walknw.dmx
+
 models/biped_standard/dmx/animations/walks.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walks.dmx
+
 models/biped_standard/dmx/animations/walkse.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walkse.dmx
+
 models/biped_standard/dmx/animations/walksw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walksw.dmx
+
 models/biped_standard/dmx/animations/walkw.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/animations/walkw.dmx
+
 models/biped_standard/dmx/mesh/biped_standard_model.dmx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/dmx/mesh/biped_standard_model.dmx
+
 models/biped_standard/fbx/animations/crouch_walke.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walke.fbx
+
 models/biped_standard/fbx/animations/crouch_walkn.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walkn.fbx
+
 models/biped_standard/fbx/animations/crouch_walkne.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walkne.fbx
+
 models/biped_standard/fbx/animations/crouch_walknw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walknw.fbx
+
 models/biped_standard/fbx/animations/crouch_walks.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walks.fbx
+
 models/biped_standard/fbx/animations/crouch_walkse.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walkse.fbx
+
 models/biped_standard/fbx/animations/crouch_walksw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walksw.fbx
+
 models/biped_standard/fbx/animations/crouch_walkw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/crouch_walkw.fbx
+
 models/biped_standard/fbx/animations/idle.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/idle.fbx
+
 models/biped_standard/fbx/animations/rune.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/rune.fbx
+
 models/biped_standard/fbx/animations/runn.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runn.fbx
+
 models/biped_standard/fbx/animations/runne.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runne.fbx
+
 models/biped_standard/fbx/animations/runnw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runnw.fbx
+
 models/biped_standard/fbx/animations/runs.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runs.fbx
+
 models/biped_standard/fbx/animations/runse.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runse.fbx
+
 models/biped_standard/fbx/animations/runsw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runsw.fbx
+
 models/biped_standard/fbx/animations/runw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/runw.fbx
+
 models/biped_standard/fbx/animations/turn_left_180.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_left_180.fbx
+
 models/biped_standard/fbx/animations/turn_left_45.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_left_45.fbx
+
 models/biped_standard/fbx/animations/turn_left_90.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_left_90.fbx
+
 models/biped_standard/fbx/animations/turn_right_180.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_right_180.fbx
+
 models/biped_standard/fbx/animations/turn_right_45.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_right_45.fbx
+
 models/biped_standard/fbx/animations/turn_right_90.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/turn_right_90.fbx
+
 models/biped_standard/fbx/animations/walke.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walke.fbx
+
 models/biped_standard/fbx/animations/walkn.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walkn.fbx
+
 models/biped_standard/fbx/animations/walkne.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walkne.fbx
+
 models/biped_standard/fbx/animations/walknw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walknw.fbx
+
 models/biped_standard/fbx/animations/walks.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walks.fbx
+
 models/biped_standard/fbx/animations/walkse.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walkse.fbx
+
 models/biped_standard/fbx/animations/walksw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walksw.fbx
+
 models/biped_standard/fbx/animations/walkw.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/animations/walkw.fbx
+
 models/biped_standard/fbx/mesh/biped_standard.fbx
+- CONTENT: hlvr_addons/custom_character/models/biped_standard/fbx/mesh/biped_standard.fbx
+
 addoninfo.txt
+- GAME: hlvr_addons/custom_character/addoninfo.txt
+
