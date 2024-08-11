@@ -1,183 +1,56 @@
-						
-																				r
-	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	[	\	]	^	_	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	
-	!	%	-	
-	%	%	+	+	+	+	2	2	@	@	8	8	?	?
-	*	*	*	*	*	*	*	
-	/	'	
-	4	2	6
-	@8|$0t
-	A	A	A
-	D9ppt
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- A^A\_
- A^A]A\
- A^A]A\_^
- A^_^
- A^_^][
- A_A]A\
- A_A]A\_^
- A_A^A\
- A_A^A\_^
- A_A^A\_^][
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^]
- A_A^^
- A_A^_
- A_A^_^]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Copyright (C) 2016 and later: Unicode, Inc. and others. License & terms of use: http://www.unicode.org/copyright.html 
- H3E H3E
- Hc|$hE
- Lc	H
- LcI8H
  Standard Time
  Type Descriptor'
  delete
  delete[]
- new[]
- r	A#
- t(<#t
- tDE3
+ new
  throw(
- vJH+
  volatile
-!"$%'
-!"$%'/
-!"&&(
-!"&&(01(((
-!$*);^-/
-!,X< w
-!>6'Y
-!D$(H
-!D$8I
-!D$HH
-!T$$@
-!This program cannot be run in DOS mode.
-!\$ H
-!\$@I
-!w;Hc
-!|$8H
-!|$8L
-"$%'/1')'
-"H;D$Pt
 "e?<<<<<<l?
 #!V!W!"!&!r%!%#%%%'%)%c%e%g%C%<!"%$%&%(%*%+%-%/%1%3%5%7%9%;%=%?%A%D%F%H%J%K%L%M%N%O%R%U%X%[%^%_%`%a%b%d%f%h%i%j%k%l%m%o%s%+!,!
-##!!((
-###!!(
-#HcD$xH;
-#L$hA
-#t%E3
-$	$	$	$	$	$	$	$	$	$	$	$	$	$	$	$	$	\
-$	$	$	$	$	$	$	$	$	$	$	$	$	*
-$%'/1')'
-$)CE9Hlu
-$1D;eg
-$;T$h
-$D!D$
-$D9\$0
+#\n#\n#\n#\n#\n#\n#\n
+#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n
+#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n
+#\n#\n#\n#\n#\n#\n#\nB
+#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r
 $Ib?s
-$fA9z
-$uMA;
-$~ Ic
+$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t\\r$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t$\t*
 %%ALIAS
 %%Parent
 %%ParentIsRoot
-%'/1'
-%'/1J
-%'/1S
-%'/1V
-%+1.1f
-%D8d$@t
-%GoU?*
-%LcS`
-%fD;G
 &?PPPPPPP?
-'	/	7	
-'/1')L
-'<Tu@A
-'u}E8H
+&Sgw
 ( 8PX
 ('8PW
-(01((M
-(A_A^A]A\_^][
-(D$ @
-(D$ H
-(D$ f
-(D$0H
-(D$0f
-(D$0fA
-(D$@H
-(D$PL9t$0t6H
-(D$pf
-(T?j?Y
+(\v(\v(\v(\v(\v(\v(\v
+(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v
 (null)
-(t$ H
-(t$0A
-(t$0H
-(t$PH
-(t$`H
-(|$ H
-(|$03
-(|$@H
-(|$pL
-)>6{1n
-)D$`H
-)t$ I
-)t$0H
-)t$@3
-)t$@E
-){(D8s,
-)|$ H
-)|$4H
-)|B?d!
-*	*	*	*	-	*	*	*	*	-	*	*	*	*	-	*	*	*	*	-	*	
-*	*	*	-	*	*	
-*	*	-	*	-	-	6	-	6	*	*	*	*	*	W	*	-	0	0	3	<	0	0	]	]	]	]	
-*D;d$8~D@
+)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n
+)yIx
 *NULL*
 *NULL* 
 *StO9>T
-+A ;A
-+D$PD
-+HcC(;C
-+M<7>
-+f)>0'
-+h->|
-+l$xH
-+u>D;
-,%_>?
+*\t*\t*\t*\t-\t*\t*\t*\t*\t-\t*\t*\t*\t*\t-\t*\t*\t*\t*\t-\t*\t
+*\t*\t*\t-\t*\t*\t
+*\t*\t-\t*\t-\t-\t6\t-\t6\t*\t*\t*\t*\t*\tW\t*\t-\t0\t0\t3\t<\t0\t0\t]\t]\t]\t]\t
++\n.\n1\n4\n7\n:\n
 ,,,,,,,,7/7,--..
-,-<2w
-,/<-w
-,0<	w
-,0<	w!A
-,0<	wGA
-,0<6w/H
 ,<ellipsis>
-,AHcD$PI
-,AfE;
 ,HR>O
-,I<%w
+,\r3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f
 ,swaplfnl
 -BH>t
--D	c0
-..om?
-.<(+|&
-.>PJ;I:qE>
+-VXW
+.>\rfJBGo
 .?AUCapitalizationContextSink@LocaleDisplayNamesImpl@icu_58@@
 .?AVAppendable@icu_58@@
 .?AVBMPSet@icu_58@@
@@ -299,222 +172,74 @@ $~ Ic
 .?AVpairNode@@
 .?AVpcharNode@@
 .?AVtype_info@@
-.i?0@I
-.pdata
-.text
+.dat
 .xJ>Hf
 /2GG>!B
-/>58d%
-/D8N]~.L
+/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nh\nh\nh\nk\nk\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nP\nP\ne\nG\nG\nG\nG\nG\nG\nG\ne\ne\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\nh\n
 0123456789
 0123456789ABCDEF<>-
 0123456789abcdef
-0><[cZUg^>
-0A^A]_
-0A^_^
-0A_A\_
-0A_A]A\
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^A]_]
-0A_A^]
-0A_A^_
-0A_A^_^]
-0A__]
+0BTT
+0CUV
+0E>X
 0X8b?~
-0fD9b
 0iN>/
-0t{A+
-1	9	z
 1#IND
 1#INF
 1#QNAN
 1#SNAN
+11Y@
 18030
-1<.	/>:
+1\t9\tz
 2'a)b+k-r
+2\n0~s
+2\r2\ra
+2\r5\r8\r;\r>\rA\rD\rG\rK\rP\rT\rW\rZ\r]\r`\rc\rf\ri\rl\ro\rs\rx\r}\r
+2\vp~s
 2_3ae4lmy:
-2irTf
-2irTfA
-2irTu5
-3	9	=	F
+37>k
 3>N;kU
 3>fvw
+3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f3\f
 3c4e5g6i0]1_2a
-49;uX
-4;YL|
-4Bf;u
-4HcFxE
-4HfE;
-4rf;3u<@
-5;{||49{|}
-5?6A7C8E9G001<2B3N4=4
-5S6U7W8Y9[0I1K2M3O4Q
-6D9.~
-6D;Q,|
+51>W
+58.1
+5\r]\t?\t?\t?\t?\t9\t?\t?\tQ\t?\t?\t<\tH\tN\tN\tN\tN\tN\tQ\t9\tE\t9\t9\t9\t0\t0\t9\t9\t9\t9\t9\t9\tT\tT\tT\tT\tT\tT\tT\tT\tT\tT\t9\t9\t9\t9\t9\t9\t9\t9\t9\t9\t<\t0\t9\t0\t9\t0\tK\tB\tK\tB\tZ\tZ\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\ti\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\tl\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\to\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tr\tr\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\tu\tu\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\tx\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t{\t~\t
+5\v6K6
+5p2T
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-77-,,66
-79t$0
-7D;QL|
-7D;QT|
-7E;J,|
-7E;S,|
-7L;3u
-8 uhA
-8$u*E
-8*u;I
-8*uEI
-8.u3H
-80tWD
-8;D$`
-8?u$H
-8@tJH
-8@tKH
-8@u<H
-8A_A^A]A\_^[]
-8A_A^A]A\_^][
-8D$0t
-8D$0u
-8D$@u
-8D$`t
-8D$`u"A
-8D;IL|
-8D;QL|
-8D;QT|
-8D;YL|
-8Jt/A
-8L$8t
-8L$@t
-8L$@uhD
-8T$ tZ
-8Xu6H
-8Zu H
-8\$0t
-8\$Lt
-8\$Pt&
-8]8}KD
-8_	tvA9]
-8_^][
+7>I0
+7?GX
+7~xh
+8\v5\v9\v=\vAK5KE
 8ke?;
-9	t	H
-9	tGH
-92irTu
-9?uP3
-9A uBL
-9Ax}3HcQ|H
-9D$4u?L
-9D$D~1
-9D$`t
-9E;S,|
-9MPtX
-9T$\}
-9T$|}
-9Tri2t
-9Triet
-9UPth@
-9\$ ~	H
-9\$0u
-9\$8t
-9\$dt
-9\$duMH
+8waw
+9>70
+9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f
+9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\fx
 9b9c9d9e9f9g
-9eirTu
-9l$@~
-9l$`||~
-9s0}0H
-9t$8~
-9t$@~
-9u@u	H
-9yX~63
-9{h},H
-9|$(~Q
-9|$(~Z
-9|$hH
-:2irTu
-:<<@@=
-:>)*	v
-:>t6k'
-:@t&E
-:eirT
-;-u,H
-;.u1L
-;:u#H
-;:uNH
-;A<}m
-;D$0}oH
-;D$h}afA
-;E }$
-;H9>&X
-;L$ |
-;McF$H
-;S0~3
-;T$hts
-;\$ t
-;\$ |
-;\$p|
-;t$ |
-;t$(|
-;t$x}4D
-;|$ |
-;|$(|
-;|$p}
-<	w	@
-<	w*M
-< t;<	t7
-<!r	L
-<$uu0H
-<.tB<@t>@
-<.tD<@t@@
-<.tZA
-</w;H
-<1~-<3~ <4t5<5t
-<>#n2
-<?u7H
-<?w	D
-<?w$I
-<?w0D
-<?w:A
-<?w>D
-<?wOA
-<?w_A
-<?wfA
-<?wkA
-<?woA
-<?wqA
-<@HcC
-<@u2I
-<BfD;}
-<Cu%A
-<Gf9/t;A
-<XuKH
-<_uoH
-<`t'!U
+:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v
+;\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n>\n8\n5\nH
+<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f<\f
 <ellipsis>
-<fD;W
-<htr<jtb<lt6<tt&<wt
-<ow-@8k,u'
 <unknown>
-<whHc
-<~s&A
-<~sQA
-<~w8@
+=87M
+=\n@\nC\nF\nI\nL\n
+=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v
+=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v@\v
+=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v=\v@\v@\v
+=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v@\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v
+=\v@\vD\vI\vM\vP\vS\vV\vY\v\\v_\vb\ve\vh\vk\vn\vq\vt\vw\vz\v}\v
+=cQ6
+=e2m
 =imb;D
->-u?H
->@|.L
->fD9w
->fD9{
+>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r>\r
+>cQ6
 >jtm}S
-?-u.H;
-?-u8H
-?-uZH
-?-uhH
-?.u%2
 ?7zQ6$
-?:kP<
 ??0?$MaybeStackArray@D$0CI@@icu_58@@AEAA@AEBV01@@Z
 ??0?$MaybeStackArray@D$0CI@@icu_58@@QEAA@XZ
 ??0Appendable@icu_58@@QEAA@AEBV01@@Z
@@ -1014,8 +739,6 @@ $~ Ic
 ??_UUMemory@icu_58@@SAPEAX_K@Z
 ??_VUMemory@icu_58@@SAXPEAX@Z
 ?Append@CheckedArrayByteSink@icu_58@@UEAAXPEBDH@Z
-?Cu0f9w
-?D8d$@
 ?Flush@ByteSink@icu_58@@UEAAXXZ
 ?GetAppendBuffer@ByteSink@icu_58@@UEAAPEADHHPEADHPEAH@Z
 ?GetAppendBuffer@CheckedArrayByteSink@icu_58@@UEAAPEADHHPEADHPEAH@Z
@@ -1023,7 +746,6 @@ $~ Ic
 ?NumberOfBytesWritten@CheckedArrayByteSink@icu_58@@QEBAHXZ
 ?Overflowed@CheckedArrayByteSink@icu_58@@QEBACXZ
 ?PREFIX_DELIMITER@ICUServiceKey@icu_58@@1_WB
-?QY^&
 ?R0I?
 ?Reset@CheckedArrayByteSink@icu_58@@UEAAAEAV12@XZ
 ?TRANSFORM_NONE@DictionaryData@icu_58@@2HB
@@ -1056,7 +778,6 @@ $~ Ic
 ?_putNew@UnifiedCache@icu_58@@AEBAXAEBVCacheKeyBase@2@PEBVSharedObject@2@W4UErrorCode@@AEAW45@@Z
 ?_registerMaster@UnifiedCache@icu_58@@AEBAXPEBVCacheKeyBase@2@PEBVSharedObject@2@@Z
 ?_runEvictionSlice@UnifiedCache@icu_58@@AEBAXXZ
-?_t	D8?
 ?_toPattern@UnicodeSet@icu_58@@AEBAAEAVUnicodeString@2@AEAV32@C@Z
 ?acceptsListener@ICUService@icu_58@@MEBACAEBVEventListener@2@@Z
 ?add@BytesTrieBuilder@icu_58@@QEAAAEAV12@VStringPiece@2@HAEAW4UErrorCode@@@Z
@@ -1392,7 +1113,6 @@ $~ Ic
 ?extract@UnicodeString@icu_58@@QEBAXHHPEA_WH@Z
 ?extractBetween@UnicodeString@icu_58@@QEBAXHHPEA_WH@Z
 ?extractBetween@UnicodeString@icu_58@@UEBAXHHAEAV12@@Z
-?fD9a
 ?f`Y4
 ?fallback@ICUServiceKey@icu_58@@UEAACXZ
 ?fallback@LocaleKey@icu_58@@UEAACXZ
@@ -2079,9 +1799,11 @@ $~ Ic
 ?push@UVector64@icu_58@@QEAA_J_JAEAW4UErrorCode@@@Z
 ?put@Hashtable@icu_58@@QEAAPEAXAEBVUnicodeString@2@PEAXAEAW4UErrorCode@@@Z
 ?puti@Hashtable@icu_58@@QEAAHAEBVUnicodeString@2@HAEAW4UErrorCode@@@Z
+?qBJ
 ?quickCheck@FilteredNormalizer2@icu_58@@UEBA?AW4UNormalizationCheckResult@@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?quickCheck@Normalizer@icu_58@@SA?AW4UNormalizationCheckResult@@AEBVUnicodeString@2@W4UNormalizationMode@@AEAW4UErrorCode@@@Z
 ?quickCheck@Normalizer@icu_58@@SA?AW4UNormalizationCheckResult@@AEBVUnicodeString@2@W4UNormalizationMode@@HAEAW4UErrorCode@@@Z
+?rAj
 ?reInitializeFactories@ICUService@icu_58@@MEAAXXZ
 ?readNodeValue@UCharsTrie@icu_58@@CAHPEB_WH@Z
 ?readValue@BytesTrie@icu_58@@CAHPEBEH@Z
@@ -2343,22 +2065,10 @@ $~ Ic
 ?updateVisibleIDs@SimpleFactory@icu_58@@UEBAXAEAVHashtable@2@AEAW4UErrorCode@@@Z
 ?updateVisibleIDs@SimpleLocaleKeyFactory@icu_58@@UEBAXAEAVHashtable@2@AEAW4UErrorCode@@@Z
 ?uscript_getSampleUnicodeString_58@@YA?AVUnicodeString@icu_58@@W4UScriptCode@@@Z
-?v	H;2
-?v	I;
 ?validateArgumentName@MessagePattern@icu_58@@SAHAEBVUnicodeString@2@@Z
 ?validateFallbackLocale@ICULocaleService@icu_58@@IEBAAEBVUnicodeString@2@XZ
 ?valueResult@BytesTrie@icu_58@@CA?AW4UStringTrieResult@@H@Z
 ?valueResult@UCharsTrie@icu_58@@CA?AW4UStringTrieResult@@H@Z
-?w)Ic
-?w*Hc
-?w-Ic
-?w.Ic
-?w0Ic
-?w1Ic
-?wSfA
-?wZfA
-?w_fA
-?wcfA
 ?write@BytesTrieBuilder@icu_58@@AEAAHPEBDH@Z
 ?write@BytesTrieBuilder@icu_58@@EEAAHH@Z
 ?write@UCharsTrieBuilder@icu_58@@AEAAHPEB_WH@Z
@@ -2374,161 +2084,51 @@ $~ Ic
 ?writeValueAndFinal@UCharsTrieBuilder@icu_58@@EEAAHHC@Z
 ?writeValueAndType@BytesTrieBuilder@icu_58@@EEAAHCHH@Z
 ?writeValueAndType@UCharsTrieBuilder@icu_58@@EEAAHCHH@Z
-@.00cfg
-@.data
-@.gfids
-@.idata
-@.reloc
-@8,9u
-@848u
-@89t&
-@8<)u
-@8k,t
-@8k,u
-@8k,ua
-@8k>u
-@8l$!t
-@8l$0
-@8l$8t
-@8l$8t0M;
-@8l$@t{A
-@8l$Ht
-@8l$XtXA;
-@8xxt
-@8xxu
-@8yPt/
-@8|$Pt
-@8|$^t
-@8|$`t
-@8}4t	H
-@<>spA
-@>%>b
-@A^_^
-@A^_^][
-@A_A]A\_^
-@A_A^A\
-@A_A^A\_]
-@A_A^A\_^[]
-@A_A^A]A\_^]
-@A_A^]
-@A_A^_
-@A_A^_^]
-@A__^
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAUAVAWH
-@SVWAVH
-@SVWH
-@UATAUAVAWH
-@UAVAWH
-@USVWATAUAVAWH
-@USVWATAUAWH
-@USVWATAVAWH
-@USVWAUAVAWH
-@USVWAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWH
-@b;zO]
-@r'D8{ 
-A	D	o
-A	E	K	F
-A 9A$uh
-A 9A(s
-A H+A
-A H9A
-A HcH
-A fD9S
-A$HcZ
-A(HcS(H
-A03>A|
-A84.u
-A86taH
-A89A0~_H
-A8D$b
-A8}?u
-A9T$lu
-A:(uiI
-A;	t:3
-A;7~!A;
-A;8~yD
-A;B$t>A
-A;B4|
-A;F }'E
-A;S$}
-A;x,|
-A<9Ap|
-A<9Ap}
-A>l$/
+?ysB
+@\fiRnXp
+@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n
+@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n
+@\n@\n@\n@\n@\nx
+@\nmBnHp
+@\v7\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v7\v=\v=\v=\v=\v=\v=\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v7\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v7\v=\v=\v=\v=\v=\v=\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v7\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v:\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v=\v@\v@\v@\v@\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vC\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\v
+@\v@\v@\v@\v@\v@\v@\v
+@\v@\v@\v@\v@\v@\v@\v@\v
+@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v=\v
+@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v=\v=\v=\v=\v
+@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v@\v=\v=\v=\v7\v=\v=\v=\v=\v=\v=\v
 A>pP&
-A?<(w
-AA,A$
-AA< t(<#t
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ADVAPI32.dll
-AHcD$PI
-AIcJ<I
-AK5KE
+AHex
 AK>(v
 ALetter
 AOSCCCD>PEFL;;HHKIIIJ
-APA+P
 ASCII
 ASCII_Hex_Digit
-ATAUAVH
-ATAUAWH
-ATAVAWH
+ATAR
+ATBL
 ATerm
-AUAVAWH
-AX9A\u`
-A^A\_
-A^A\_^]
-A^A]A\
-A^_^[
-A^_^[]
-A^_^][
-A_<]w
-A_A]A\_]
-A_A]A\_^[]
-A_A^A\
-A_A^A\^]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]A\
-A_A^A]A\]
-A_A^A]A\^
-A_A^A]A\_
-A_A^A]A\_][
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_^
-A_A^A]_^[]
-A_A^]
-A_A^_
-A_A^_^[]
-A_A^_^]
-A_A^_^][
-A__^[]
+A\rA\rA\rA\rA\rA\rA\rA\rA\r
+A\rI\rQ\rY\rA
+A\tD\to
+A\tE\tK\tF
+AaHe
 Above
 Above_Left
 Above_Right
 Access violation - no RTTI data!
 Adlam
+Adlm
 Aegean_Numbers
+Afak
 African_Feh
 African_Noon
 African_Qaf
+Aghb
+Ahom
 Alaph
 Alchemical
 Alchemical_Symbols
+Alef
 Alpha
 Alphabetic
 Alphabetic_PF
@@ -2544,6 +2144,7 @@ AppPolicyGetShowDeveloperDiagnostic
 AppPolicyGetThreadInitializationType
 AppPolicyGetWindowingModel
 April
+Arab
 Arabic
 Arabic_Ext_A
 Arabic_Extended_A
@@ -2560,6 +2161,8 @@ Arabic_Sup
 Arabic_Supplement
 AreFileApisANSI
 Armenian
+Armi
+Armn
 Arrows
 Assigned
 Attached_Above
@@ -2567,34 +2170,33 @@ Attached_Above_Right
 Attached_Below
 Attached_Below_Left
 Attempted a typeid of nullptr pointer!
-AuBfD9Q
 August
-AuthE
 Avestan
-B#D+D$ M;
-B0fB94@s	A
-B849u
-B8<)u
-B8\(8
-B8\(9
-BC?>6t9^	c:>
-BE;Z$}
+Avst
+BC?>6t9^\tc:>
 BF>^G
 BOCU-1
 Bad dynamic_cast!
 Bad read pointer - no RTTI data!
+Bali
 Balinese
+Bamu
 Bamum
 Bamum_Sup
 Bamum_Supplement
 Basic_Latin
+Bass
 Bassa_Vah
 Batak
+Batk
 Below
 Below_Left
 Below_Right
+Beng
 Bengali
+Beth
 Bhaiksuki
+Bhks
 Bidi_C
 Bidi_Class
 Bidi_Control
@@ -2603,48 +2205,32 @@ Bidi_Mirrored
 Bidi_Mirroring_Glyph
 Bidi_Paired_Bracket
 Bidi_Paired_Bracket_Type
+Blis
 Block
 Block_Elements
+Bopo
 Bopomofo
 Bopomofo_Ext
 Bopomofo_Extended
 Boundary_Neutral
 Box_Drawing
+Brah
 Brahmi
+Brai
 Braille
 Braille_Patterns
 Break_After
 Break_Before
 Break_Both
 Break_Symbols
+Bugi
 Buginese
+Buhd
 Buhid
 Burushaski_Yeh_Barree
 Byzantine_Music
 Byzantine_Musical_Symbols
-C	fE;
-C H9G u
-C HcB
-C HcF
-C HcS(L
-C yFL
-C(D;@
-C(H9G(u
-C,, <Zw
-C,9C(|
-C0+C4H
-C0+C4LcC4Hc
-C0HcK(
-C0HcS(D
-C4;Cht6L
-C5R?	
-C84/u
-C847u
-C8<(u
-C:L'b
-C@D9x
-CA,A$
-CA< t(<#t
+C5R?\t
 CCC10
 CCC103
 CCC107
@@ -2683,7 +2269,6 @@ CCC36
 CCC84
 CCC91
 CESU-8
-CHH9AHu9HcA(;A
 CJK_Compat
 CJK_Compat_Forms
 CJK_Compat_Ideographs
@@ -2710,15 +2295,18 @@ CJK_Unified_Ideographs_Extension_D
 CJK_Unified_Ideographs_Extension_E
 CL:>8
 CODEPOINTS
-CPHcT$pH
+CSel
+CWCF
+CWCM
 CWD>~3
 CWKCF
-C_<>w!
-C`D9ux
+Cakm
 Canadian_Aboriginal
 Canadian_Syllabics
 Canonical
 Canonical_Combining_Class
+Cans
+Cari
 Carian
 Carriage_Return
 Case_Folding
@@ -2727,21 +2315,21 @@ Case_Sensitive
 Cased
 Cased_Letter
 Caucasian_Albanian
-CfD9;t
-Ch+ClH
 Chakma
+Cham
 Changes_When_Casefolded
 Changes_When_Casemapped
 Changes_When_Lowercased
 Changes_When_NFKC_Casefolded
 Changes_When_Titlecased
 Changes_When_Uppercased
+Cher
 Cherokee
 Cherokee_Sup
 Cherokee_Supplement
 Circle
+Cirt
 Close
-CloseHandle
 Close_Parenthesis
 Close_Punctuation
 Combining_Diacritical_Marks
@@ -2756,7 +2344,6 @@ Common_Indic_Number_Forms
 Common_Separator
 Comp_Ex
 CompareStringEx
-CompareStringW
 Compat
 Compat_Jamo
 Complex_Context
@@ -2765,6 +2352,7 @@ Connector_Punctuation
 Contingent_Break
 Control
 Control_Pictures
+Copt
 Coptic
 Coptic_Epact_Numbers
 CorExitProcess
@@ -2772,11 +2360,7 @@ Counting_Rod
 Counting_Rod_Numerals
 Countries
 Countries%short
-CreateEventW
-CreateFileA
-CreateFileMappingW
-CreateFileW
-CuBfD9Q
+Cprt
 Cuneiform
 Cuneiform_Numbers
 Cuneiform_Numbers_And_Punctuation
@@ -2798,282 +2382,16 @@ Cyrillic_Extended_C
 Cyrillic_Sup
 Cyrillic_Supplement
 Cyrillic_Supplementary
-D W?{W
-D!`PH
-D!l$`H
-D!l$x@
-D!|$0A
-D!|$4I
-D#L$`H
-D#\$hA
-D#|$(E3
-D$ A;
-D$ A;D$
-D$ D!t$ H
-D$ E3
-D$ E9
-D$ E;
-D$ Hc
-D$ f;
-D$ fA;n
-D$ u	D
-D$"H+
-D$$A9G
-D$$E3
-D$$p	
-D$(A;
-D$(D+
-D$(D9
-D$(D;
-D$(E3
-D$(H9
-D$(H;
-D$(Hc
-D$(L+
-D$(L9
-D$(f;
-D$,A;F
-D$,D:
-D$,f;
-D$-fD
-D$0A+
-D$0A;
-D$0D;
-D$0E3
-D$0H!L$ H
-D$0H#
-D$0H+
-D$0H;
-D$0H;C
-D$0L+
-D$0f;
-D$0fD
-D$49C
-D$4;G(
-D$4A;G
-D$4E3
-D$4f;
-D$89|$4
-D$8A+
-D$8D8
-D$8D8(
-D$8D8t$8u_H
-D$8D8|$1t<@
-D$8D9T$0
-D$8D;L$ 
-D$8E3
-D$8H;
-D$8HcJ
-D$8HcO(H
-D$8L9
-D$8f;
-D$@9.
-D$@D+
-D$@D;
-D$@E3
-D$@H+
-D$@H;
-D$@H;C
-D$@Hc
-D$@Lc
-D$@M+
-D$@f;
-D$@fD
-D$AH;
-D$AL+
-D$BE3
-D$Bt 
-D$DD;
-D$DE3
-D$H93
-D$H9D$ s"
-D$H;D$X
-D$HD"
-D$HE3
-D$HE;
-D$Hf;
-D$P I
-D$P93
-D$P;k$|
-D$PA9E|u@H
-D$PD;
-D$PE3
-D$PE9
-D$PE9'
-D$PH+
-D$PH;
-D$PI;
-D$PIc
-D$PL;
-D$Pf;
-D$Px-H
-D$THcD$TH
-D$X!t$PH
-D$XA+
-D$XA9
-D$XD!t$0A
-D$XE3
-D$XE9
-D$XH9D$Ht,H
-D$XH=
-D$XHc
-D$XIc
-D$XL+
-D$Xf;
-D$`;E
-D$`@(
-D$`A;
-D$`D90}
-D$`E+
-D$`E3
-D$`H+
-D$`H;
-D$`Ic
-D$`L!L$ 
-D$`L;
-D$`L;D$p
-D$`f;
-D$hA+
-D$hA9
-D$hA;
-D$hD9/
-D$hD;
-D$hE3
-D$hE9
-D$hE:
-D$hH;
-D$hHc
-D$hIc
-D$hf;
-D$lD;
-D$lfD9r
-D$pA9
-D$pE3
-D$pH+
-D$pIc
-D$pL;
-D$pMcy
-D$pf;
-D$pfD
-D$x@(
-D$xE3
-D$xH;
-D$xHc
-D$xf;
-D$xfD
-D+AHH
-D+I0H
-D+d$$H
-D+d$(D+
-D+d$(H
-D+d$0E+
-D+d$8H
-D08@t	
-D8(t[H
-D8.tnH
-D82u&H
-D85cC
-D85kC
-D86u$A
-D88tT3
-D8<7u
-D8?t	H
-D8?u`
-D8G@t
-D8L$b
-D8L$bt-H
-D8N@u
-D8N@~r
-D8N]u
-D8PZu
-D8Q[u
-D8T$Pt
-D8_pt%A
-D8`Xt
-D8aHt
-D8d$0
-D8d$@t
-D8d$Xt
-D8l$L
-D8l$Xt
-D8l$ht
-D8l$pt(
-D8t$8t
-D8t$Ht
-D8t$Ht#H
-D8t$XuJ
-D8|$@t
-D9	vlH
-D9'tb
-D9/~)3
-D9@I+
-D9EwI
-D9F ~*3
-D9L$`
-D9OTt
-D9\$0
-D9\$0u7
-D9\$@
-D9_hu
-D9_hu:
-D9_lu;D9_hu5E9
-D9aX~KM
-D9d$ 
-D9d$ ~
-D9d$$
-D9d$@
-D9eoH
-D9ewA
-D9gX~3M
-D9l$0
-D9t$0
-D9t$4t
-D9t$@
-D9t$@u
-D9t$Du
-D9t$Ht2
-D9t$P
-D9t$`~2H
-D9uoL
-D9|$0
-D9|$0~
-D9|$8
-D9|$8~
-D9|$@
-D9|$@~
-D9|$@~"H
-D:D$ 
+Cyrl
+Cyrs
 D:\v\csgos1\thirdpartycode\v8\v8\out.gn\x64.release\icuuc.dll.pdb
-D;Ex|
-D;F t
-D;F |
-D;G$t
-D;I4}&L
-D;I<|
-D;T$4
-D;d$8
-D;d$@~
-D;d$D~
-D;l$@
-D;uw}
-D;|$0
-D<P0I
-DD$XD
-DD$XH
 DEFAULT
-DKXHcK@H
-DL$XL
-DT$X3
-DT$h3
-D\$$H
-D\$8H
-D\$HH
-D\$HJ
-D\$XH
-D\$xH
+D\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\nA\nA\nA\nD\nD\nD\n
+D\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\v<\vi
 Da4bJdPf
 Da6gbl
 Dalath_Rish
+Dash
 Dash_Punctuation
 DataVersion
 December
@@ -3081,9 +2399,9 @@ Decimal
 Decimal_Number
 Decomposition_Type
 Default_Ignorable_Code_Point
-DeleteCriticalSection
 Deprecated
 Deseret
+Deva
 Devanagari
 Devanagari_Ext
 Devanagari_Extended
@@ -3099,36 +2417,25 @@ Domino_Tiles
 Double_Above
 Double_Below
 Double_Quote
+Dsrt
 Dual_Joining
+Dupl
 Duployan
-E	>	M	U	n
-E H9E
-E+BHH
-E0    
-E9>~C
-E9Hlu
-E9hHt
-E: u"L
-E:l$ft'Hc
-E;A,|
-E;H,|
-E;P,|
-E;Z$}	A
 E>nEA
-EE8,$u/;
-EL$D@2
-EP*?@
-EP;C|
+ET5>
+EURO
+E[\rn?gc
 E_Base
 E_Base_GAZ
 E_Modifier
 Early_Dynastic_Cuneiform
 East_Asian_Width
-Eg@8}
-EgfE;
+Egyd
+Egyh
+Egyp
 Egyptian_Hieroglyphs
+Elba
 Elbasan
-ElfD9c
 Emoji
 Emoji_Modifier
 Emoji_Modifier_Base
@@ -3143,9 +2450,8 @@ Enclosed_CJK_Letters_And_Months
 Enclosed_Ideographic_Sup
 Enclosed_Ideographic_Supplement
 Enclosing_Mark
-EnterCriticalSection
 EnumSystemLocalesEx
-EnumSystemLocalesW
+Ethi
 Ethiopic
 Ethiopic_Ext
 Ethiopic_Ext_A
@@ -3160,121 +2466,72 @@ EventRegister
 EventSetInformation
 EventUnregister
 EventWriteTransfer
+ExE\n
 Exclamation
-ExitProcess
 Extend
 ExtendNumLet
 Extender
-E|$PH
-F(D8l$pt
-F,IcN,I
 F>qUxv
-F@A9X
-FXD9'
+FEMh\f
+F\nN\nT\nF
 Fallback
 False
 Farsi_Yeh
 February
+FfW?
 Final
 Final_Punctuation
 Final_Semkath
-FindClose
-FindFirstFileExA
-FindFirstFileExW
-FindNextFileA
-FindNextFileW
 First_Strong_Isolate
 FlsAlloc
 FlsFree
 FlsGetValue
 FlsSetValue
-FlushFileBuffers
+Font
 Format
 Fraction
-FreeEnvironmentStringsW
-FreeLibrary
 Friday
-Ft4D+
 Full_Composition_Exclusion
 Fullwidth
-G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	G	N	
-G )_(H
-G 9H8t5
-G 9P8t
-G(B+D
-G,9F,u
-G<9G0}
+G>US
 G?NQB
 GB18030
-GPL9 
-G`Hcp
+G\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tG\tN\t
 Gamal
 General_Category
 General_Category_Mask
 General_Punctuation
-Genu3
+Geok
 Geometric_Shapes
 Geometric_Shapes_Ext
 Geometric_Shapes_Extended
+Geor
 Georgian
 Georgian_Sup
 Georgian_Supplement
-GetACP
 GetActiveWindow
-GetCPInfo
-GetCommandLineA
-GetCommandLineW
-GetConsoleCP
-GetConsoleMode
-GetCurrentProcess
-GetCurrentProcessId
-GetCurrentThread
-GetCurrentThreadId
 GetDateFormatEx
-GetDateFormatW
 GetEnabledXStateFeatures
-GetEnvironmentStringsW
-GetFileType
-GetGeoInfoW
 GetLastActivePopup
-GetLastError
 GetLocaleInfoEx
-GetLocaleInfoW
-GetModuleFileNameA
-GetModuleFileNameW
-GetModuleHandleExW
-GetModuleHandleW
-GetOEMCP
-GetProcAddress
-GetProcessHeap
 GetProcessWindowStation
-GetStartupInfoW
-GetStdHandle
-GetStringTypeW
-GetSystemTimeAsFileTime
 GetSystemTimePreciseAsFileTime
-GetThreadLocale
 GetTimeFormatEx
-GetTimeFormatW
-GetTimeZoneInformation
-GetUserDefaultLCID
 GetUserDefaultLocaleName
-GetUserGeoID
 GetUserObjectInformationW
-GetVersionExW
 GetXStateFeaturesMask
-GhH;G u
-GhNc,
+Glag
 Glagolitic
 Glagolitic_Sup
 Glagolitic_Supplement
+Glue
 Glue_After_Zwj
+Goth
 Gothic
-Gp9Fpu
-GpD9t$ 
 Gr_Base
 Gr_Ext
 Gr_Link
+Gran
 Grantha
 Grapheme_Base
 Grapheme_Cluster_Break
@@ -3284,114 +2541,19 @@ Greek
 Greek_And_Coptic
 Greek_Ext
 Greek_Extended
+Grek
 Gujarati
+Gujr
 Gurmukhi
-H SVWH
-H UATAUAVAWH
-H UVWATAUAVAWH
-H WATAUAVAWH
-H f9q
-H uH@
-H!D$ E
-H!D$ I
-H!D$@
-H!T$0D
-H!l$0L
-H!s(!s0
-H!s`!sh
-H!t$0D
-H!x 2
-H#D$xH
-H+AHI;
-H+D$`H
-H+F +N
-H+G8H
-H+O H;
-H+Q x
-H+Q xHHcA
-H0fD9
-H9(tAH
-H9A u
-H9A u`H9AHuZ
-H9AHt
-H9D$0u
-H9D$8t
-H9D$@t
-H9D$Ht
-H9D$PuCI
-H9D$`~gI
-H9D$pt
-H9D$pu
-H9G(u
-H9IXu
-H9K8u
-H9L$0
-H9L$Ht
-H9L$Ht?H
-H9L$Pt!L
-H9L$x
-H9M@s
-H9Q r
-H9Y u)
-H9Y8u
-H9\$0H
-H9\$P
-H9\$PH
-H9\$hH
-H9i0u
-H9l$X}XD
-H9p t]
-H9r u
-H9rHu
-H9s(t
-H9sht	H9
-H9|$Hu
-H9|$P
-H;C u
-H;C |#H;C
-H;C ~
-H;C ~&H;C
-H;Cpu
-H;Cp|
-H;D$ }
-H;D$Pu
-H;D$`
-H;K |
-H;K(t
-H;O(t
-H;O(u
-H;Q ttD
-H;Q u
-H;Q |!H;Q
-H;Q |0HcA
-H;Q |pH;Q
-H;Q ~wH;Q
-H;S,|
-H;\$Pt
-H;l$@|
-H;l$`|
-H;o0I
-H;s |,HcC(;C,}#H
-H;s(u
-H;t$0t
-H;t$Pt
-H;|$ t
-H;|$P}13
-H;|$Xt
-H;|$`t
-H;|$h
-HA_A^A]A\_^[]
-HH9/u
+Guru
 HH:mm:ss
-H[><y5
-H[H9t$@s
-H_^[]
-H_^][
 Half_And_Full_Forms
 Half_Marks
 Halfwidth
 Halfwidth_And_Fullwidth_Forms
 Hamza_On_Heh_Goal
+Hanb
+Hang
 Hangul
 Hangul_Compatibility_Jamo
 Hangul_Jamo
@@ -3399,94 +2561,39 @@ Hangul_Jamo_Extended_A
 Hangul_Jamo_Extended_B
 Hangul_Syllable_Type
 Hangul_Syllables
+Hani
+Hano
+Hans
+Hant
 Hanunoo
+Hatr
 Hatran
-Hc	H+
-HcA H
-HcA(;A
-HcA<H
-HcApH
-HcAxM
-HcB I
-HcC(;C
-HcC8H
-HcD$@
-HcD$@A
-HcD$TH
-HcD$pM
-HcE@M
-HcG(H
-HcH<H
-HcI8H
-HcK M
-HcK(H
-HcK8H
-HcK@D
-HcL$ 
-HcL$$;
-HcL$$H
-HcL$0L;
-HcL$@3
-HcL$@H
-HcL$XH
-HcL$xH
-HcMhM
-HcO,H
-HcO4H
-HcQ(H
-HcS4L
-HcS|B
-HcT$(Hc
-HcT$8H
-HcT$D
-HcT$L
-HcY4Mc
-Hc\$$H
-Hc\$(D+
-Hc\$@
-Hc\$@M
-Hc]`M
-Hck(H
-Hcl$0L;
-HcsLE
-Hcw`H
-Hc|$ 
-Hc|$ H
-Hc|$ I
-HeapAlloc
-HeapFree
-HeapReAlloc
-HeapSize
+Hebr
 Hebrew
 Hebrew_Letter
 Heh_Goal
+Heth
 Hex_Digit
-Hf;L$H
-HfD;G
 High_PU_Surrogates
 High_Private_Use_Surrogates
 High_Surrogates
+Hira
 Hiragana
+Hluw
+Hmng
+Hrkt
+Hung
 Hyphen
-H|A9N|u
-H}*M;
-I LcA
-I+7M+7H
-I96t4H
-I96t:H
-I96tn
-I9M0f
-I9\$ ~@H
-I9~`uX
 ICUDATA
 ICUDATA-
 ICU_DATA
 ICU_TIMEZONE_FILES_DIR
+IDSB
+IDST
 IDS_Binary_Operator
 IDS_Trinary_Operator
 ID_Continue
 ID_Start
-IHD9Ip~
 IND)ind)
 INITY
 IPA_Ext
@@ -3498,13 +2605,8 @@ ISO_2022,locale=ja,version=
 ISO_2022,locale=ko,version=0
 ISO_2022_JP
 ISO_Comment
-Ic@$I
-Ic@(A;@,}
-IcB$I
-IcC$H+
-IcJ$I
-IcJ4I
-IcM H
+I\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vI\vd
+Ideo
 Ideographic
 Ideographic_Description_Characters
 Ideographic_Symbols
@@ -3513,56 +2615,46 @@ Ig3g8h@k^lfm
 Il?333333c?
 Imperial_Aramaic
 Indic_Number_Forms
+Inds
 Infix_Numeric
 Inherited
+Init
 Initial
 Initial_Punctuation
-InitializeCriticalSection
-InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
-InitializeSListHead
-InitializeSecurityDescriptor
 Inscriptional_Pahlavi
 Inscriptional_Parthian
 Inseparable
 Inseperable
 InstalledLocales
-InterlockedFlushSList
-InterlockedPushEntrySList
 Iota_Subscript
-IsDebuggerPresent
-IsProcessorFeaturePresent
-IsValidCodePage
-IsValidLocale
 IsValidLocaleName
 Isolated
-J0+J4
-J0A+J4
-J9W(|c
-JA;B4|
+Ital
+JIPS
+Jamo
 Jamo_Ext_A
 Jamo_Ext_B
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
+Java
 Javanese
 Join_C
 Join_Causing
 Join_Control
 Joining_Group
 Joining_Type
+Jpan
+July
+June
+Jurc
 JxJxJ
-K VWATAVAWH
-K$HcC
-K&>.yC
-K(HcK(H
-K(fD9y
-K0+K4
-K0;K4u
+K4K4
 K4K<KDKLKTK\KdKlKtK,
-KERNEL32.dll
-KLcS@M
-KXHcS8
+KEIS
 Kaithi
+Kali
+Kana
 Kana_Sup
 Kana_Supplement
 Kana_Voicing
@@ -3570,183 +2662,44 @@ Kanbun
 Kangxi
 Kangxi_Radicals
 Kannada
+Kaph
 Katakana
 Katakana_Ext
 Katakana_Or_Hiragana
 Katakana_Phonetic_Extensions
 Kayah_Li
-Kf;\$xrIf;\$|s
+Keys
 Khaph
+Khar
 Kharoshthi
 Khmer
 Khmer_Symbols
+Khmr
+Khoj
 Khojki
 Khudawadi
+Knda
 Knotted_Heh
-K~Je#>!
-L!L$@E3
-L!L$PL
-L!d$PD
-L!l$x3
-L$ !D$ L
-L$ A;
-L$ D+
-L$ D;
-L$ E3
-L$ H3
-L$ H;
-L$ Hc
-L$ Hi
-L$ I;
-L$ L;
-L$ SH
-L$ SUVWH
-L$ UVWATAUAVAWH
-L$ VWAVH
-L$ WH
-L$ fA
-L$ fE9)u(H
-L$ fff
-L$ t!D
-L$ |+L;
-L$$E3
-L$&8\$&t-8Y
-L$(;L$,u@E;
-L$(A+
-L$(A;
-L$(E3
-L$(H+
-L$(H3
-L$(H;
-L$(f9\$H|
-L$,fE
-L$0;L$ u:E;
-L$0A9
-L$0A;
-L$0D9?t
-L$0E3
-L$0E;
-L$0H3
-L$0H;
-L$0Hc
-L$0Lc
-L$0fD
-L$0fH
-L$0fI
-L$4E3
-L$4E;
-L$8A9/~
-L$8E3
-L$8H3
-L$8H;
-L$8Hc
-L$8HcF0H
-L$8L;T$(s
-L$8M;
-L$8eH
-L$8f9_
-L$8fC
-L$8fD
-L$<+L$4
-L$<+L$H
-L$<E3
-L$<t.H
-L$@*K
-L$@;L$T
-L$@@"
-L$@A9
-L$@D+
-L$@E3
-L$@H+
-L$@H3
-L$@H;
-L$@Hc
-L$@Ic
-L$@Lct$PA
-L$@Mc
-L$@t!D
-L$@uU
-L$HD+OxD
-L$HE3
-L$HH3
-L$HH;
-L$HH;L$p|
-L$HfD
-L$LE3
-L$PA9
-L$PE3
-L$PH+
-L$PH3
-L$PHi
-L$PLc
-L$PfD
-L$X9k$~~
-L$XE3
-L$XH+
-L$Xf9Y
-L$XfA
-L$`A9
-L$`E3
-L$`H3
-L$`Ic
-L$`Lc
-L$dL;
-L$h8T$Q
-L$hD+
-L$hE:
-L$hH3
-L$hIc
-L$hfD
-L$lE3
-L$pE3
-L$pH3
-L$pLc
-L$pf;D$xs1
-L$xA9	~
-L$xD9)
-L$xD;
-L$xH3
-L)t$@M
-L+A L;
-L0AI;
-L9"u&
-L97t5H
-L97taH
-L98u&H
-L9:t?
-L9>te
-L9Ap}*H
-L9L$h
-L9d$p
-L9gPt`L9g`tZH
-L9g`t~H
-L9i`t
-L9k`u
-L9l$X
-L9l$p
-L9qp|	L
-L9shuNA
-L9{ u
-L9{(u.
-L;K(r
-L;O(r
-L;T$(s
-L;W(r
-L;d$H
-L;u(r
-L;|$h
-L;~(s2fA
+Kore
+Kpel
+Kthi
+L>ev
 L?UUUUUUU?
 LCIDToLocaleName
 LCMapStringEx
-LCMapStringW
-LCx@8o
 LOCALE
 LVT_Syllable
 LV_Syllable
+LWG>
+LWW>
+L\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vL\vg
 Lamadh
+Lana
 Languages
 Languages%short
+Laoo
+Latf
+Latg
 Latin
 Latin_1
 Latin_1_Sup
@@ -3763,47 +2716,24 @@ Latin_Extended_B
 Latin_Extended_C
 Latin_Extended_D
 Latin_Extended_E
-Lc0u'D
-LcA<A
-LcA<E3
-LcA@H
-LcB(D;B,}
-LcB(D;B,}*H
-LcC$H
-LcC<H
-LcC\H
-LcD$(I
-LcD$PH
-LcFpL
-LcG@H
-LcI,3
-LcI8L
-LcK8A
-LcT$TD
-LcT$`M
-Lc\$`M
-Lcc(3
-Lcd$HA
-Lcl$`
-Lct$PL
-Lct$\
-LcuwE3
-Lc|$$
-Lc|$L
-Lc|$l
+Latn
 Lead_Canonical_Combining_Class
 Leading_Jamo
-LeaveCriticalSection
+Left
 Left_Joining
 Left_To_Right
 Left_To_Right_Embedding
 Left_To_Right_Isolate
 Left_To_Right_Override
+Lepc
 Lepcha
 Letter
 Letter_Number
 Letterlike_Symbols
+Limb
 Limbu
+Lina
+Linb
 Line_Break
 Line_Feed
 Line_Separator
@@ -3811,35 +2741,30 @@ Linear_A
 Linear_B
 Linear_B_Ideograms
 Linear_B_Syllabary
-Lj[;>
-LoadLibraryA
-LoadLibraryExW
+Lisu
 LocaleNameToLCID
 LocateXStateFeature
 Logical_Order_Exception
+Loma
 Low_Surrogates
 Lower
 Lowercase
 Lowercase_Letter
 Lowercase_Mapping
+Lyci
 Lycian
+Lydi
 Lydian
-M H1E
-M(f95
-M+BHH
-M9.tqA
-M9/t,
-M;C(r
-M;U(u
 MM/dd/yy
-MPH;K(r
-MT$(D;
 Mahajani
+Mahj
 Mahjong
 Mahjong_Tiles
 Malayalam
+Mand
 Mandaic
 Mandatory_Break
+Mani
 Manichaean
 Manichaean_Aleph
 Manichaean_Ayin
@@ -3868,25 +2793,32 @@ Manichaean_Twenty
 Manichaean_Waw
 Manichaean_Yodh
 Manichaean_Zayin
-MapViewOfFile
+Marc
 March
 Marchen
+Mark
+Math
 Math_Alphanum
 Math_Operators
 Math_Symbol
 Mathematical_Alphanumeric_Symbols
 Mathematical_Operators
+Maya
 Maybe
 Medial
+Meem
 Meetei_Mayek
 Meetei_Mayek_Ext
 Meetei_Mayek_Extensions
+Mend
 Mende_Kikakui
+Merc
+Mero
 Meroitic_Cursive
 Meroitic_Hieroglyphs
 MessageBoxA
 MessageBoxW
-Mgu/;
+Miao
 MidLetter
 MidNum
 MidNumLet
@@ -3902,27 +2834,33 @@ Miscellaneous_Symbols
 Miscellaneous_Symbols_And_Arrows
 Miscellaneous_Symbols_And_Pictographs
 Miscellaneous_Technical
+Mlym
+Modi
 Modifier_Letter
 Modifier_Letters
 Modifier_Symbol
 Modifier_Tone_Letters
 Monday
+Mong
 Mongolian
 Mongolian_Sup
 Mongolian_Supplement
+Moon
+Mroo
+Mtei
+Mult
 Multani
-MultiByteToWideChar
 Music
 Musical_Symbols
-Mwf9\$X|
 Myanmar
 Myanmar_Ext_A
 Myanmar_Ext_B
 Myanmar_Extended_A
 Myanmar_Extended_B
-M|9H|u
+Mymr
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
 NChar
@@ -3938,36 +2876,46 @@ NFKC_Quick_Check
 NFKD_Inert
 NFKD_QC
 NFKD_Quick_Check
+NQ?s
+NULL
 Nabataean
+Name
+Narb
 Narrow
+Nbat
 Neutral
 New_Tai_Lue
+Newa
 Newline
 Next_Line
+Nkgb
+Nkoo
 No_Block
 No_Joining_Group
 Nobreak
 Non_Joining
 Noncharacter_Code_Point
+None
 Nonspacing_Mark
 Nonstarter
+Noon
 Not_Applicable
 Not_Reordered
 November
+Nshu
 Nukta
 Number
 Number_Forms
 Numeric
 Numeric_Type
 Numeric_Value
-O<9w=H
-O@f9\$H|
-OF>;^
 OLetter
+OZQ%
 October
-OfE;DF
+Ogam
 Ogham
 Ol_Chiki
+Olck
 Old_Hungarian
 Old_Italic
 Old_North_Arabian
@@ -3975,11 +2923,16 @@ Old_Permic
 Old_Persian
 Old_South_Arabian
 Old_Turkic
+Open
 Open_Punctuation
 Optical_Character_Recognition
 Oriya
+Orkh
 Ornamental_Dingbats
+Orya
 Osage
+Osge
+Osma
 Osmanya
 Other
 Other_Letter
@@ -3987,23 +2940,11 @@ Other_Neutral
 Other_Number
 Other_Punctuation
 Other_Symbol
-OutputDebugStringA
-OutputDebugStringW
 Overlay
-P	D!t$ 
-P	S	V	Y	
-P A_A^A]
-P HcK@
-P LcC(D;C,}RH
-P>q_Y~
-P@<	t
-PA^_^
-PA_A]A\_^[]
-PA_A^A]A\_^]
-PE;X$}	A
 PINYIN
 PREEURO
 Pahawh_Hmong
+Palm
 Palmyrene
 Paragraph_Separator
 Pat_Syn
@@ -4011,16 +2952,23 @@ Pat_WS
 Pattern_Syntax
 Pattern_White_Space
 Pau_Cin_Hau
-PfE9Q
+Pauc
+Perm
+Phag
 Phags_Pa
 Phaistos
 Phaistos_Disc
+Phli
+Phlp
+Phlv
+Phnx
 Phoenician
 Phonetic_Ext
 Phonetic_Ext_Sup
 Phonetic_Extensions
 Phonetic_Extensions_Supplement
 Playing_Cards
+Plrd
 Pop_Directional_Format
 Pop_Directional_Isolate
 Postfix_Numeric
@@ -4028,33 +2976,25 @@ Prefix_Numeric
 Prepend
 Private_Use
 Private_Use_Area
+Prti
 Psalter_Pahlavi
 Punctuation
-Q H+Q
-Q$;Q } H
-Q0;Q4|
 Q5rHg,>
-Q8H9Q
-Q8H;S8uCH
-QH;A8~	
+QAf?
 QMark
-QRich
+Qaac
+Qaai
+Qaph
 Qi$nS
-QueryPerformanceCounter
 Quotation
 Quotation_Mark
-R9s|u
 REORDER_CODE
 RG_KEY_VALUE
-RLA!rHA
+RSDS
+R\vp~s
 Radical
-RaiseException
-RegCloseKey
-RegOpenKeyExA
-RegQueryValueExA
 Regional_Indicator
 Rejang
-ResetEvent
 Returns %d.
 Returns %d.  Status = %d.
 Returns %d.  Status = %p.
@@ -4067,56 +3007,44 @@ Right_To_Left
 Right_To_Left_Embedding
 Right_To_Left_Isolate
 Right_To_Left_Override
+Rjng
 RoInitialize
 RoUninitialize
 Rohingya_Yeh
-RtlCaptureContext
-RtlLookupFunctionEntry
-RtlPcToFileHeader
-RtlUnwindEx
-RtlVirtualUnwind
+Roro
+Rumi
 Rumi_Numeral_Symbols
 Runic
-S	W	F
-S$;S }
-S,fA+
-S0;S4|
-S0Lcm
-S0Lcu
-S8Lcm
-S8Lcu
-S;\$0tH
+Runr
+S9>H
 S>$hkDh$h>[2
-S@HcE
+SCSU
 SContinue
 SNAN)
 SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
 SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GMT
 SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones
 SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones\
-SPHcB
-SPHcJ
 STROKE
 STUVWXYZ
 STerm
-SUVWATAUAVAWH
-SUVWATAUAVAWL
-SUVWATAVAWH
-SUVWAVH
-SUVWH
-SX;:|	;z
-SX;:~
-SX;:~D;z
 SYSTEM\CurrentControlSet\Control\TimeZoneInformation\
+S\tW\tF
+S\vY\v_\vg\vl\vw
 Sadhe
 Samaritan
+Samr
+Sara
+Sarb
 Saturday
+Saur
 Saurashtra
 Script
 Script_Extensions
 Scripts
 Scripts%short
 Scripts%stand-alone
+Seen
 Segment_Separator
 Segment_Starter
 Semkath
@@ -4126,35 +3054,33 @@ Sentence_Break
 Sentence_Terminal
 Separator
 September
-SetConsoleCtrlHandler
-SetEnvironmentVariableA
-SetEnvironmentVariableW
-SetEvent
-SetFilePointerEx
-SetLastError
-SetSecurityDescriptorDacl
-SetStdHandle
 SetThreadStackGuarantee
-SetUnhandledExceptionFilter
+Sgnw
 Sharada
 Shavian
+Shaw
 Shift-JIS
+Shin
 Shorthand_Format_Controls
+Shrd
+Sidd
 Siddham
 SignWriting
 Simple_Case_Folding
 Simple_Lowercase_Mapping
 Simple_Titlecase_Mapping
 Simple_Uppercase_Mapping
+Sind
 Single_Quote
+Sinh
 Sinhala
 Sinhala_Archaic_Numbers
-Sleep
 Small
 Small_Form_Variants
 Small_Forms
 Sn:o@pFqJr
 Soft_Dotted
+Sora
 Sora_Sompeng
 Space
 Space_Separator
@@ -4165,6 +3091,7 @@ Specials
 Square
 Straight_Waw
 SunMonTueWedThuFriSat
+Sund
 Sundanese
 Sundanese_Sup
 Sundanese_Supplement
@@ -4191,79 +3118,16 @@ Supplementary_Private_Use_Area_B
 Surrogate
 Sutton_SignWriting
 Swash_Kaf
+Sylo
 Syloti_Nagri
 Symbol
+Syrc
+Syre
 Syriac
 Syriac_Waw
+Syrj
+Syrn
 SystemFunction036
-T$ D+
-T$ E3
-T$ I+
-T$ f;
-T$$HcD$0L;
-T$(A+
-T$(A9
-T$(D+
-T$(D;
-T$(f;
-T$0A#
-T$0D+
-T$0E+
-T$0E3
-T$0f;
-T$0t	
-T$8E3
-T$8Hc
-T$8HcD$ H
-T$8I;
-T$8f;
-T$:E3
-T$@!\$@
-T$@A9
-T$@D9.
-T$@E3
-T$@H+
-T$@f;
-T$DE3
-T$HE3
-T$HH;
-T$Hf;
-T$PE+
-T$PE3
-T$PH+
-T$PH3
-T$PHc
-T$PL+
-T$PL;
-T$Pf;
-T$PfD
-T$Pt@
-T$XD;
-T$XE3
-T$XH;
-T$XI;
-T$Xf;
-T$X~ML
-T$`D8p
-T$`E3
-T$`Hc
-T$`Ic
-T$`LcC
-T$`f;
-T$`fD
-T$h@8*t"H
-T$hD+
-T$hE3
-T$hE;
-T$hf;
-T$pE3
-T$pI;
-T$pf;
-T$pkD$x<
-T$xE3
-T$xH;
-T$xf;
-TKXHcK@H
 TUUUU
 T_CString_int64ToString_58
 T_CString_integerToString_58
@@ -4271,47 +3135,58 @@ T_CString_stringToInteger_58
 T_CString_toLowerCase_58
 T_CString_toUpperCase_58
 Tagalog
+Tagb
 Tagbanwa
+Tags
 Tai_Le
 Tai_Tham
 Tai_Viet
 Tai_Xuan_Jing
 Tai_Xuan_Jing_Symbols
+Takr
 Takri
+Tale
+Talu
 Tamil
+Taml
+Tang
 Tangut
 Tangut_Components
+Tavt
 Teh_Marbuta
 Teh_Marbuta_Goal
+Telu
 Telugu
+Teng
+Term
 Terminal_Punctuation
-TerminateProcess
+Teth
+Tfng
+Tglg
+Thaa
 Thaana
+Thai
 Thursday
 Tibetan
+Tibt
 Tifinagh
 TimeZoneKeyName
+Tirh
 Tirhuta
 Titlecase_Letter
 Titlecase_Mapping
-TlsAlloc
-TlsFree
-TlsGetValue
-TlsSetValue
+ToCP
 Trail_Canonical_Combining_Class
 Trailing_Jamo
 Transparent
 Transport_And_Map
 Transport_And_Map_Symbols
+True
 Tuesday
 Types
 Types%short
-U	E9.
-U8D8;A
-U8Hc|$DN
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
+UCAS
 UCAS_Ext
 UCNV_FROM_U_CALLBACK_ESCAPE_58
 UCNV_FROM_U_CALLBACK_SKIP_58
@@ -4321,13 +3196,9 @@ UCNV_TO_U_CALLBACK_ESCAPE_58
 UCNV_TO_U_CALLBACK_SKIP_58
 UCNV_TO_U_CALLBACK_STOP_58
 UCNV_TO_U_CALLBACK_SUBSTITUTE_58
-UHA9<$
 UIdeo
 UNKNOWN
 US-ASCII
-USVWATAUAVAWH
-USVWATAUAWH
-USVWAVH
 UTF-16
 UTF-16,version=1
 UTF-16,version=2
@@ -4342,13 +3213,6 @@ UTF-7
 UTF-8
 UTF-EBCDIC
 UUUUUU
-UVATAVAWH
-UVWATAUAVAWH
-UVWAVAWH
-UWATAUAWH
-UWATAVAWH
-UWAVH
-UWAWH
 U_AMBIGUOUS_ALIAS_WARNING
 U_ARGUMENT_TYPE_MISMATCH
 U_BAD_VARIABLE_DEFINITION
@@ -4489,39 +3353,21 @@ U_USING_FALLBACK_WARNING
 U_VARIABLE_RANGE_EXHAUSTED
 U_VARIABLE_RANGE_OVERLAP
 U_ZERO_ERROR
+Ugar
 Ugaritic
 Unassigned
-UnhandledExceptionFilter
 Unicode_1_Name
 Unified_Canadian_Aboriginal_Syllabics
 Unified_Canadian_Aboriginal_Syllabics_Extended
 Unified_Ideograph
 Unknown
 Unknown exception
-UnmapViewOfFile
 Upper
 Uppercase
 Uppercase_Letter
 Uppercase_Mapping
-V(D+U
-V0A_A^A]A\_^
-V6E>`"(5
-V8HcL$@H
-VATAUAVAWH
-VAVAWH
-VD$Pf
 VS_Sup
-VT$PD
-VUUUA
-VUUUUUUUI+
-VWATAUAVAWL
-VWATAUAVH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUH
-VWAVH
-VWAWH
+Vaii
 Variants
 Variation_Selector
 Variation_Selectors
@@ -4529,116 +3375,126 @@ Variation_Selectors_Supplement
 Vedic_Ext
 Vedic_Extensions
 Version
+Vert
 Vertical
 Vertical_Forms
 Virama
+Visp
 Vowel_Jamo
-WATAUAVAW
-WATAUAVAWH
-WATAVH
-WATAWH
-WAUAVH
-WAVAWH
 WSpace
 WaNd?
-WaitForSingleObject
+Wara
 Warang_Citi
 Wednesday
 White_Space
-WideCharToMultiByte
+Wide
+Wole
 Word_Break
 Word_Joiner
-WriteConsoleW
-WriteFile
-X UVWATAVH
-X0A_A^
+X/4B
+XIDC
+XIDS
 XID_Continue
 XID_Start
-XfE9Q
+Xpeo
+Xsux
+Y8a:
 Y>kX>M
-YD$@f
 Yeh_Barree
 Yeh_With_Tail
-YfE9q
 Yi_Radicals
 Yi_Syllables
+Yiii
 Yijing
 Yijing_Hexagram_Symbols
+Ym9n
+Yudh
 Yudh_He
-Z93~BI
 ZWSpace
+ZZZZ
 Z\>z8
+Zain
 Zhain
-Zod(^?
+Zinh
+Zmth
+Zsye
+Zsym
+Zxxx
+Zyyy
+Zzzz
 [*ncd>0
 [BOGUS Trace Function Number]
 [BOGUS UErrorCode]
+[\n^\na\nd\ng\nj\n=
+[\t5\n5?6A7C8E9G001<2B3N4=4
 [aOni*{
 [oTphu
 [thunk]:
-\	_	b	
-\$ D8d$,t
-\$ E3
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATAVAWH
-\$ VWATAUAWH
-\$ WH
-\$$A;
-\$(E3
-\$(L+
-\$0@"
-\$0D+
-\$0E3
-\$0H;
-\$0Hc
-\$0eH
-\$1D+
-\$8D8l$8t
-\$8E3
-\$8H;
-\$8I+
-\$8I;
-\$@D+
-\$@E3
-\$@H+
-\$@H;
-\$@f9
-\$@fD
-\$HE3
-\$P+D$ H
-\$P+D$ Hi
-\$PE3
-\$PM;
-\$PfD
-\$`D8
-\$gm?
-\$xE3
-\u 9l$x}
+\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f9\f
+\f@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n
+\fB\rR\r@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n@\n
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f \r
+\f\t\f\t\f\t\f\t\f\t\f\t\f\t\f\t\f\t\f\t
+\f\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r
+\fpGU
+\fp\vPGU
+\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+\n \n!\n"\n#\n$\n%\n&\n'\n(\n)\n*\n+\n,\n-\n.\n/\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n;\n<\n=\n>\n?\n@\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\n[\n\\n]\n^\n_\n`\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\nk\nl\nm\nn\no\np\nq\nr\ns\nt\nu\nv\nw\nx\ny\nz\n{\n|\n}\n~\n
+\n#\n#\n#\n#\n#\n#\n#\n
+\n&\n&\n \n \n \n \n \n \n \n \n \n
+\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n
+\n)\n1\n@\nE\n8\nM\nM\nM\nM\nM\nM\nM\nM\nU\n]\n
+\nM\nM\nM\nM\nM\nM\nM\nM\n
+\nN\fN\fN\fN\fN\fN\fN\fN\fN\fN\fN\fN\fN\f<
+\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\t
+\n\t\n\n\n\v\n\f\n\r\n
+\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v\n\v
+\nf\fl\fi\fe\re\re\re\re\re\r
+\nh?oT
+\ni\nd\nl\ng\nw\nj\ne\n
+\nicuuc.dll
+\nk>oB
+\ns\vs\vs\vs\vy\v
+\r#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n
+\r#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\nB
+\r#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n)\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n/\n,\n2\n/\n/\n/\n/\n/\n/\n/\n/\n\r
+\r#\n#\n#\n#\n#\n#\n#\nB
+\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r#\r
+\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r\v\r
+\t \t!\t"\t#\t$\t%\t&\t'\t(\t)\t*\t+\t,\t-\t.\t/\t0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t:\t;\t<\t=\t>\t?\t@\tA\tB\tC\tD\tE\tF\tG\tH\tI\tJ\tK\tL\tM\tN\tO\tP\tQ\tR\tS\tT\tU\tV\tW\tX\tY\tZ\t[\t\\t]\t^\t_\t`\ta\tb\tc\td\te\tf\tg\th\ti\tj\tk\tl\tm\tn\to\tp\tq\tr\ts\tt\tu\tv\tw\tx\ty\tz\t{\t|\t}\t~\t
+\t%\t%\t+\t+\t+\t+\t2\t2\t@\t@\t8\t8\t?\t?
+\t*\t*\t*\t*\t*\t*\t*\t
+\t5\n5S6U7W8Y9[0I1K2M3O4Q
+\tQ\fQ\fQ\fJ\rJ\rJ\rM\rM\rJ\rM\rM\rJ\rJ\rM\r
+\tW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\fW\f<
+\t\t\t\n\t\v\t\f\t\r\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tr
+\tcQr
+\ti3i
+\tkE>fvw
+\tuTv
 \u00a3
 \u00a5
 \u20a4
 \u20a8
 \u20b9
-\uQA+
 \ufe69
 \uff04
 \uffe5
-]	?	?	?	?	9	?	?	Q	?	?	<	H	N	N	N	N	N	Q	9	E	9	9	9	0	0	9	9	9	9	9	9	T	T	T	T	T	T	T	T	T	T	9	9	9	9	9	9	9	9	9	9	<	0	9	0	9	0	K	B	K	B	Z	Z	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	i	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	o	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	r	r	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	u	u	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	{	~	
-]	]	]	]	`	]	]	]	]	`	]	]	]	]	`	]	]	]	]	`	]	]	]	]	]	]	]	]	]	]	]	]	`	
-]	]	]	`	]	]	]	]	<
-])6M>&
-]>)2X
-]`fD9K
-]p;]x
-]p;]x}
-]um8L$@ugD
+\v+\v+\v+\v+\v+\v"\v.\v4\v4\v4\v(\v(\v(\v1\v%\v%\v%\v%\v%\v
+\v4\v4\v4\v4\v4\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v+\v+\v4\v4\v4\v(\v(\v4\v4\v4\v4\v4\v4\v4\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v4\v4\v4\v4\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v+\v+\v+\v+\v+\v+\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v(\v
+\v;\v3\v3\v3\v<\v<\v<\v<\v
+\vA03>A|
+\vPGU
+\vR\v]\fZ\f`\f]\fZ\fP\rS\rS\rS\r
+\v\v777
+\vpGU
+]\t]\t]\t]\t`\t]\t]\t]\t]\t`\t]\t]\t]\t]\t`\t]\t]\t]\t]\t`\t]\t]\t]\t]\t]\t]\t]\t]\t]\t]\t]\t]\t`\t
+]\t]\t]\t`\t]\t]\t]\t]\t<
 ^<V7w
 ^RfN>
-^fD9(H
 _POSIX
+_\fb\fe\fh\fk\fn\f
 __based(
 __cdecl
 __clrcall
@@ -4656,23 +3512,11 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
 _oD>Kg
-` AUAVAWH
-` AVAWD
-` AVLc
-` AWL
-` UAVAWH
-`+!]?
-`.rdata
-`:#@'="
-`A^_^
-`A_A^A]A\_^]
-`A_A^_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -4687,7 +3531,6 @@ _oD>Kg
 `eh vector vbase copy constructor iterator'
 `generic-class-parameter-
 `generic-method-parameter-
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -4701,7 +3544,6 @@ _oD>Kg
 `omni callsig'
 `placement delete closure'
 `placement delete[] closure'
-`r>9n
 `scalar deleting destructor'
 `string'
 `template static data member constructor helper'
@@ -4709,10 +3551,8 @@ _oD>Kg
 `template-parameter
 `template-type-parameter-
 `typeof'
-`uXA;@0}
 `udt returning'
 `unknown ecsu'
-`uuD;I0}
 `vbase destructor'
 `vbtable'
 `vcall'
@@ -4726,13 +3566,21 @@ _oD>Kg
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
+a$gE
+a$iS
 a$imj
+a$l9
+a$si
+a$sq
+a$v1
 a*b2s
+a0bz
 a0e4i
 a0eJi
 a0pRu
 a2ePi
 a4bPgVn
+a6>r
 a6b)c
 a6b>s
 a6eXshy
@@ -4757,10 +3605,17 @@ a\mxp
 a`c1e/n-o
 abcdefghi
 abcdefghijklmnopqrstuvwxyz
+abic
+aceU
+ace_
 ached
 acingmark5l
+acos
 acterrecognition
+adaK
+adaM
 adcanonic
+adhO
 adiansyllabicsc
 adicalU
 adicals
@@ -4770,15 +3625,18 @@ aext*
 af_ZA
 agana
 agolitic
+ahli
 aiksuki
 ailcanonic
 ailue
 airedbracket
 akana
 akanaL
+alac
 alcombiningclass
 alfmarks
 alfwidth% 
+ali)
 allform
 alnotation
 alnum
@@ -4786,9 +3644,11 @@ alorderexceptionK
 alse! 
 alsymbols
 alterpahlavi
+alue
 am_ET
 amedh
 amentaldingbats
+amo\
 anagari>
 andatorybreak-
 andpunctuation
@@ -4796,7 +3656,9 @@ anese
 angeswhen
 anmarX
 ansportandmap
+anwa
 anwa{
+anya
 apped
 ar_AE
 ar_BH
@@ -4819,36 +3681,46 @@ aractercodepointQ
 arangciti
 aratiE
 archaicnumbers
+are;
+area
 ariants
 aritan
 aritic
 arkSf
+arks
 arksforsymbolsw
 arn_CL
 arree}mln
 art-lojban
 art_LOJBAN
 as_IN
+ase5
 asefolding
 aseqr
 ashkafma.e8h
 ashtra
+asin
 assigned!n
 assigned#n
 ataean
+atan
 atan2
 atb|t
 ateusesurrogates
+athO
+athe
 athoperators
 athrish/
 athsymbols
 atjamo
 attribute
 aultig
+avah
 awhhmong
 ayalamO
 ayalamU
 aybe% 
+ayin
 ayingcards
 az_AZ
 az_AZ_CYRL
@@ -4862,18 +3734,21 @@ b4mNx&
 b7i(l)n+
 b:fJr
 b>mFx6
-b?^Cy
 bDm^x.
+bRtF
+b\nb\nb\nb\nb\nb\nb\nb\nb\nb\nN
 b^c0eHl
 ba_RU
 bad allocation
 bad array new length
 basan
+base
 bataean
 bcpTypeAlias
 be_BY
 betic!
 bg_BG
+bic8
 biguous#$
 bin_NG
 biningmark
@@ -4883,8 +3758,9 @@ bn_BD
 bn_IN
 bo_BT
 bo_CN
+bool
 boundaries
-bp(=>?g
+bove
 br_FR
 brew7a
 brewletter=a
@@ -4895,18 +3771,14 @@ bs_Cyrl_BA
 bs_Latn
 bs_Latn_BA
 buddhist
-c	k	s	%
-c [1>H'
-c(>\,
-c0&>`
 c0k6l
+c0sb
 c2n<o"
 c4dWenf
 c6eFp1t2
 c:fXp,
 c<j^s
 c?FA@s}
-cAMDD
 cDlln~t
 cPlht
 cTmtp
@@ -4917,15 +3789,16 @@ calendar
 caseL
 case\
 casianalbanian
+ceil
 cel-gaulish
-cf9\$H|
-cf;\$praf;\$ts
 cferi
 chaean
+char
 char 
 char16_t
 char32_t
 characters
+chen
 chr_US
 cials
 cii#d
@@ -4957,6 +3830,7 @@ const
 const 
 contextTransforms
 control
+cosh
 criptionalpa
 critic/
 criticals.
@@ -4968,29 +3842,13 @@ currency
 currency symbol
 currencyNumericCodes
 cy_GB
-d$ D8d$<t
-d$ E3
-d$(A+
-d$(A^
-d$(A_
-d$(D+
-d$(f#
-d$0A_A^
-d$0D;d$@
-d$0E3
-d$HE3
-d$HL;
-d$PHcD$ A
-d$PLc
-d$PM;
-d$`9>
-d$hwhLct$TA
 d(n<sA<
 d.n2o
 d3l5o6
-d;y$v9H
+d8L2
 d<gLn
 d?000000`?
+dRL>
 da_DK
 danese
 dash punctuation
@@ -5011,40 +3869,46 @@ de__PHONEBOOK
 decimal digit number
 default
 dekikakui
+deo[
 deograms
 deographicsup
 deographs
 dfhjs
+dham
 dianaboriginalq
 dictionaries
 difier
 digit
 digit;
 direct
+disc
 double
 drawing
 dsb_DE
 dv_MV
 dz_BT
-e	h	k	
+e#f5
+e$i9
+e$io
+e$rO
+e$to
 e+000
-e-f;o(
-e0A_A^A]A\]
-e0A_A^]
 e0f6s
 e6l9u,
 e7iIo9
-e8A_A^A]A\_^[]
 e8iHo
 e=iKo?
 e>i~o
 e>jHoNu
 e>l[oFsEuF
 e>sdu
-eE8J[~ZH
+eF>t
 eJmfp
 eKgLw
 eLK(w
+eTv(
+e\ne\ne\ne\ne\ne\nG\ne\ne\nJ\nJ\nJ\nJ\nJ\nJ\nJ\nJ\nJ\nM\nJ\n\\n\\n_\nh\nV\nS\n\\nY\nh\n
+ea2h
 eblzo
 echnical
 ectorpunctuation
@@ -5053,10 +3917,10 @@ efixnumericMJ
 eftjoining'$
 egmentseparator1n
 eiform
-eirTA
 ekikakui
 el_GR
 el_GR_PREEURO
+elow
 ematicala
 ementa
 en-GB-oed
@@ -5090,6 +3954,7 @@ en_US_POSIX
 en_VI
 en_ZA
 en_ZW
+ence
 enclosing mark
 end punctuation
 ended
@@ -5103,8 +3968,8 @@ enpunctuationIf
 ensions
 ensions+
 ensitivee
-entiA
 entstarters
+enty
 enum 
 eographic=>
 eographs
@@ -5112,13 +3977,16 @@ epactnumbers
 eparator'
 epend7(
 eralpunctuationq
+eret
 eret3
 erited#d
 erlay#
+erm#
 erm3<
 erminalg
 erminator)
 ersedpea
+ert@
 es@collation=traditional
 es_419
 es_AR
@@ -5145,6 +4013,7 @@ es_US
 es_UY
 es_VE
 es__TRADITIONAL
+escr
 esentationforms
 esets
 estan
@@ -5166,190 +4035,33 @@ extended
 extension
 extensions
 extern "C" 
-f!S=H
-f+D$Pf
-f+D$`fA
-f+D$xfA
-f0LcV(E
 f0n6q
 f4n>tBy"
-f9)u H
-f9)uTH
-f9+w$
-f9+w@
-f9,Au
-f9,Ju
-f9,PI
-f9,Xu
-f9,pu
-f9,~u
-f93v1
-f94Bu
-f94Hs
-f94Ju"H
-f9<Ju
-f9<Pt?I
-f9<Pu
-f9<iu
-f9=	I
-f9=JJ
-f9D$T
-f9T$T
-f9TD\t5
-f9TL\t5
-f9U0|
-f9W(|
-f9\$X|
-f9\$h|
-f9]h|
-f9_X|
-f9t$bu
-f9y8|	
-f9|$^t&f
-f9|$`t
-f9|L\tj
 f:iJs
-f;,Js
-f;0sB
-f;D$4w
-f;L$8r
-f;L$8s
-f;L$<r
-f;L$<s
-f;L$@
-f;L$@s
-f;L$D
-f;L$Ds
-f;L$L
-f;L$Ls
-f;L$T
-f;L$Tr
-f;L$\
-f;\$$
-f;\$$r
-f;\$$s
-f;\$(s
-f;\$,
-f;\$,r
-f;\$0
-f;\$4
-f;\$4r
-f;\$8s
-f;\$<
-f;\$<s
-f;\$@s
-f;\$D
-f;\$Ds
-f;\$H
-f;\$L
-f;\$Ls
-f;\$P
-f;\$Ts
-f;\$X
-f;\$\s
-f;\$`
-f;\$ds
-f;\$xs
-f;\$xs	D
-f;\$|s
 f<ipl
-fA9,@u
-fA9,@uKA
-fA9,Au
-fA94Nt
-fA94Ou
-fA94nu
-fA96tdH
-fA9<Bu
-fA9<I
-fA9<\u
-fA9Sv
-fA9Svu73
-fA;TF
-fB9,Hs
-fB9,Hv
-fB9,Nu
-fB94@s	A
-fB94Ou
-fB94ZtfD
-fB94ht	H
-fB9<@u
-fB9<@}eH
-fB9<Bu
-fB9<Hu
-fB;,Hv
-fC9,Xu
-fC94wu
-fC9<hu
-fD9	t
-fD9	t	H
-fD9	t(I
-fD9	tvH
-fD9 t
-fD9 tMH
-fD9 u
-fD9!t
-fD9!u
-fD9!u7A
-fD9$Hu
-fD9,Au
-fD90t
-fD93w$
-fD94CtVA
-fD94Fu
-fD94pt	H
-fD96u
-fD97t
-fD97u
-fD99t
-fD99u
-fD9;u
-fD9<Au
-fD9<Ou;E
-fD9<Xu
-fD9?t
-fD9?t&
-fD9?u
-fD9D$Tug
-fD9T$ t.
-fD9e0|
-fD9ov
-fD9t$b
-fD9{0|	
-fD;\$Ps.L
-fE9$Nu	H
-fE9$nu
-fE90u
-fE94@u
-fE94Av^A
-fE94xuO
-fE98t'
-fE9:I
-fE;LG
-fE;LW
-fF9<qu
-fF;L0
-fF;T0
-fG9$Ou
-fJBGo
+fAiM
+fD>b
+fWi?
 f[iYoOr$sI
 fa_AF
 fa_IR
+fabs
+feFm
 ffFdDf[
 ff_Latn
 ff_Latn_SN
 ff_NG
-fffff
-ffffff
-fffffff
 fi_FI
 fi_FI_PREEURO
+fier
 fil_PH
 final punctuation
 fkccasefolded
 float
 floor
+fmod
 fo_FO
+font
 fore+
 format
 fr_015
@@ -5373,12 +4085,12 @@ fr_ML
 fr_RE
 fr_SN
 frexp
+from
 ftdottedW
 fter)
 fttoright 
 fuv_NG
 fy_NL
-g	k	s	w	F
 g$iCD
 g6ghhli
 g6iRk
@@ -5386,6 +4098,7 @@ g:lrt
 gDhJlNs
 gXi~k
 gZllr
+g\tk\ts\tw\tF
 ga_IE
 ga_IE_PREEURO
 ganaI
@@ -5397,9 +4110,6 @@ gbats
 gd_GB
 geannumbers
 generic-type-
-gfffA
-gfffL
-gfffffffH
 ghttoleft"
 gian9
 gianZ
@@ -5407,6 +4117,7 @@ gionalindicator9
 gionalindicator;
 gionalindicatoro
 git%"
+git3
 gl_ES
 gl_ES_PREEURO
 gmodifierletters-
@@ -5420,43 +4131,49 @@ grapheme
 graphicC
 gsw_FR
 gu_IN
-h UAVAWH
-h VWAVH
+h$s3
+h0'D
 h2oBs
 h6lLnXr
 h8lJu
 h>1my
 h>lPu
-hA_A^A]A\_^[]
 hBiTn
 hJhHnNrvv
 h]f{fBgzh
-h_^][
 ha_Latn
 ha_Latn_NG
 habeticp
 halaP
+hame
 hanumericsymbols
+harQ
 haw_US
 he_IL
 hematicalsymbols
 hemical
+her!
 herneutral5e
 hexagramsymbols
 hi_IN
 hi__DIRECT
+hiki
 hingyayeh
 hiopic^
 hitespacew
+hqws
 hr_BA
 hr_HR
 hsb_DE
 hsymbol
 hu_HU
+huta
 hy_AM
 h|hTi
 i#l4m
-i(A9wHt
+i$lg
+i$r3
+i$ra
 i*l1s
 i,k0y
 i-ami
@@ -5475,10 +4192,13 @@ i-tsu
 i8n@t
 i:oDr
 i<lDnHtVy
-iRnXp
+iac;
 iacriticalmarks.
+ial/
+ial3
 iationselectors
 ibb_NG
+ibm-
 ibm-1041_P100-1995
 ibm-1088_P100-1995
 ibm-1363_P110-1997
@@ -5503,35 +4223,41 @@ icudt58l-brkitr
 icudt58l-curr
 icudt58l-lang
 icudt58l-region
-icuuc.dll
 icuver
 id_ID
 ide+"
+ideC
 idtha
 iedideograph[
+ient
 ieroglyphs
 ifiedcanadianabo
 ig_NG
+ight
 ightjoining)*
+igit
 ii_CN
 iistJu
 iksuki
 ility
 illic2
+imel
 imiro
 inagh
 inalpunctuationY
 inaryoperatorE>
 inaryoperatorG
 indicnumberforms
-ineIA
 inese
 ingentbreak/
 inhau
 ining
 iningmark3ajb/jkl0
+init
 initial punctuation
 inity
+ink9
+int 
 iptioncharacters
 irror
 is_IS
@@ -5545,13 +4271,13 @@ itespace_
 ithtail
 itialpunctuation
 itialpunctuationY
+itic
 itiona
 itivee
 itlecased
 itlecaseletter'
 itlecaseletter1
 itlecasemapping
-iu+-,
 iu_Cans
 iu_Cans_CA
 iu_Latn
@@ -5561,28 +4287,29 @@ ivateuseCa,cMdGeK
 iw_IL
 ixnumericA
 j<rhs
-j>>A?1
-j?V()
-j?{$*
+j\tA\nk
 ja_JP
 ja_JP_TRADITIONAL
+jang
+jani
 japanese
+jips
 jisx-212
 jklmnopqr
 k/o0r!u
 k<o@u
+k=yI
 kLnPrvu
 kXltn
-k[o#o<rLv
 ka_GE
 kathi
+keis
 keyMap
 keyTypeData
 keyTypePattern
 keyValue
 kk_KZ
 kl_GL
-klfD9k
 km_KH
 kn_IN
 known
@@ -5594,45 +4321,10 @@ ks_Arab_IN
 ks_Deva_IN
 ks_IN
 ksc_5601
-ku;A;
+kta/
 ky_KG
 l!l2m8nDv
-l$ A9(
-l$ E3
-l$ VWATAUAVAWH
-l$ VWATAUAWH
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAVH
-l$ VWAWH
-l$ WAVAWH
-l$$A94$
-l$$E3
-l$(E3
-l$0E3
-l$8D9D$$
-l$8I;
-l$@A9
-l$@E3
-l$HA;
-l$HA_A^A]A\_^
-l$HD;
-l$PA;
-l$PA_A^A]A\_^
-l$PD;
-l$PD;v
-l$PH+
-l$XIc
-l$\f9j
-l$`E3
-l$`E9o
-l$`Lcl$pA;
-l$ht,E3
-l$pH9\$0t
-l$pHc
 l$r7$
-l$xHc
-l$xfD
 l2t4v
 l4m:r@u
 l4m@sft
@@ -5649,21 +4341,28 @@ lRtVv^x
 la_IT
 languages
 lated1
+lavi
 layout
 lb_LU
+lccc
 lctevg
 ldexp
 lead surrogate
+left
+let7
+leth
 letter number
 letter#
 lettersandmonths
 lexcontextQ
 likelySubtags
+line
 line separator
 lines
 listPattern
 ljapanesestarterk
 llaneous
+lle}
 llic1
 lo_LA
 locale=
@@ -5671,6 +4370,9 @@ localeDisplayPattern
 locale_getKeywordsStart_58
 log10
 log10f
+logf
+logu
+long
 long 
 loose
 lose% 
@@ -5684,30 +4386,35 @@ lusterbreak
 lv_LV
 lvariant
 l|r4r2sZxvz
-m	p	v	}	p	
-m)o(t'u#*
+m$uA
 m.n4s
 m.n6s
 m.nJt
 m0n:y"
 m8qFu
 m:slt
+m?H7
 m@rXu
 mAo(t1u%`
-mBnHp
-mHcS(H
+mG4>
 mQm3o(pir5
+m\nXo
+m\np\ns\nv\nG
 m_m:nHszv
+many
 mapTimezones
 mapping
 marbutat
+mask
 math symbol
 matical
 maticaloperators
 mbedding7
 mbedding=
+mber
 mberforms{
 mbiguous#&
+mbol
 mbols
 meric
 meric'
@@ -5717,6 +4424,7 @@ mericG
 metaZones
 mi_NZ
 middle
+mino
 mk_MK
 ml_IN
 mmonseparator-
@@ -5727,11 +4435,14 @@ mn_Mong
 mn_Mong_CN
 mn_Mong_MN
 mni_IN
+modf
 modifier letter
 modifier symbol
 mofo+
 moh_CA
+mon!
 mpex3a.c
+mple
 mr_IN
 ms_BN
 ms_MY
@@ -5739,7 +4450,6 @@ mt_MT
 mukhiC
 my_MM
 myrene
-n#o$r%
 n%s't)u
 n.n,r>tVu!
 n03>Pu
@@ -5765,6 +4475,7 @@ nclosingmark
 nclosingmark/
 nctuation1
 ndcoptic1
+nded
 ndeda
 ndformatcontrols
 ndfullforms
@@ -5781,10 +4492,12 @@ nertk
 nertm
 nerto
 nertq
+nese
 neseparator
 neseparator;cDd
 nfcinert
 nfdinert
+nfkc
 nfkc_cf
 nfkcinert
 nfkdinert
@@ -5812,6 +4525,7 @@ no_NO
 no_NO_NY
 non spacing mark
 noncharacter
+none
 noowb
 norablecodepoint+*
 normal
@@ -5821,7 +4535,7 @@ nspacingmark
 nspacingmark-
 nspacingmarkC
 nstarterE
-ntelE
+ntha
 ntingrod
 ntrol#
 ntrol%
@@ -5832,11 +4546,16 @@ numeralsymbols
 numlet/B
 nvsQs>t\w
 nwriting
+o!\vr9v\fv3x*z
+o$qA
 o(oWp4u
 o,uPy
 o0p6t
+o2u&
 o9o2t
 o=oZpvuzy
+o>rL
+o?GS
 oFoHrtt
 oI>O7
 obwQ4
@@ -5844,7 +4563,7 @@ oc_FR
 ockelements
 ode1name
 odifier
-odifier?	nJn4oDs`u
+odifier?\tnJn4oDs`u
 odifierG
 odifiers
 ographic
@@ -5862,15 +4581,16 @@ omofo
 ompat
 ompatibilityjamo
 ompositiontype
+one!\rn
 oneletters
 oneticextensions
+onic
 onical#
 onjoining!(
 ontinue=.
 ontinue?
 ontinuea
 ontrolIf
-opL9gP
 operator
 operator "" 
 opic7
@@ -5878,13 +4598,15 @@ oqodr
 or_IN
 orhiragana
 ormatA
+orms
 orsymbolsw
 ortharabian
+ose%
+osep
 osepunctuation
 osepunctuationK
 oshthi
 ositionexclusion3
-ot$ H
 otationOh{hPi
 otationmarkS
 other
@@ -5895,29 +4617,19 @@ other symbol
 oticons
 otinagri
 ottedhehK
-out of memory swapping %u unames.icu tokens
+out of memory swapping %u unames.icu tokens\n
 outharabian
+owM&
 oweljamo%"
 owercased
 owercasemapping
-p AWH
-p AWM
-p WATAUAVAWH
-p WATAVH
-p WAVAWH
+ows}
+oyan
 p,p6sTt
 p-p6sVt
 p0t6u
 p:uny
-pA^_]
-pA^_^[]
-pA^_^][
-pA_A^A\_^[]
-pA_A^A\_^][
-pA_A^A]A\_^]
-pH;|$P}-H
 pKpFrzs
-p`D9mP
 pa_Arab_PK
 pa_IN
 pa_PK
@@ -5926,11 +4638,13 @@ pace_
 pap_AN
 paragraph separator
 parator
+pat%
 pattern
 patterns
 pdirectional
 pen#$
 per5aFcRedfrl
+per\
 perators
 percaseletter#
 percaseletter%
@@ -5944,7 +4658,9 @@ pl_PL
 plement
 plement%
 ployan
+pool
 posix
+powf
 ppercased
 ppercasemapping
 print
@@ -5960,10 +4676,9 @@ ptianhieroglyphs
 ptsandsubscriptss
 public: 
 punct
-q(A9mHt
-q(t L;
-q0D;r0uN
 qS>g?h3
+qa\g
+qs6t
 qu_BO
 qu_EC
 qu_PE
@@ -5973,28 +4688,10 @@ qut_GT
 quz_BO
 quz_EC
 quz_PE
-qxL9qPuRA
-r	Vr.>T
-r	f9Q
-r!f9K
-r#f;\$ts
-r&f;\$ts
 r(v0w
-r1A8A
-r5fD;C
 r5rDsdu
-r7f;\$l
-r8A8A
-r9D8v
-r:f;\$l
-r<f;L$|
-r<f;L$|r
-rKf;\$d
-rLf;L$tr
-rNf;\$d
-rPf;L$t
-r\f;L$lr
-r_f;\$\
+r\fo\fo\ff\ff\ff\ff\ff\ff\f?
+r\tVr.>T
 r_rFs
 rable?
 radicals
@@ -6009,13 +4706,14 @@ ransparent+c#d@jVl&
 rashtra
 rasompeng
 rati?
-rbf;\$\
+rc@2
 rcle'
 rdbreak
-rdf;L$l
 rdjoiner]
+reak
 reak7
 recated-
+reek
 rencysymbolsu
 renthesisi
 res_countArrayItems_58
@@ -6048,12 +4746,15 @@ rgroup
 riacwawo
 riationselectori
 rican
+rics
 right
 riginalsyllabicsb
+riot
 riotsyllabary
 ritan
-rlf;L$dr
+rlyd
 rm_CH
+rmat
 rmat%
 rmat'
 rmatA
@@ -6062,46 +4763,36 @@ ro_MD
 ro_RO
 rokee`
 rokes
+rol?
+root
 root-en-es-pt-zh-ja-ko-de-fr-it-ar+he+fa+ru-nl-pl-th-tr-
 ropean
 roshthi
+roup
+row5
 rrencysymbol
 rrencysymbolS 
 rriagereturn5
 rrogate
 rrogateE
 rrogateS
-rrow)
+rrow)\rn
 rrows
-rsf;\$T
 rsiyeh
 rststrongisolateGaNb
+rtAD
+rtha
 ru_MD
 ru_RU
-rvf;\$T
+rue#\nk[o#o<rLv
 rw_RW
-rxf;L$d
 rys[t;u
-r|f;L$\r
-s +t$h
-s @8s
-s H+t$XH
-s HcS$E
-s WATAUAVAWH
-s!f;C
-s"f;C
-s*fD;C
 s,t0w
-s2fD9ovuA
-s4+sP+
-s:I9\
-sH9A umH9AHug
-sI+w(
+s8t*
 sIsHuxw
-sPL;s0u
-sXHcS\L
 sa_IN
 sah_RU
+scan
 script
 sd_Deva_IN
 sd_IN
@@ -6115,7 +4806,6 @@ segstart
 sentence
 separator
 separator9cSkUmQ
-sffD;W
 sgn-be-fr
 sgn-be-nl
 sgn-ch-de
@@ -6125,6 +4815,7 @@ shpunctuation
 shpunctuationG
 si_LK
 signed 
+sinh
 sk_SK
 sl_SI
 sma_NO
@@ -6144,6 +4835,7 @@ sompeng
 space
 space separator
 sq_AL
+sqrt
 sr_Cyrl
 sr_Cyrl_BA
 sr_Cyrl_CS
@@ -6157,29 +4849,23 @@ sr_Latn_RS
 sr_SP_CYRL
 sr_SP_LATN
 sr_YU_CYRILLIC
-ssfD;C
-stCD;
-stQD;
-stZD;
-st[D;
 st_ZA
-staE;
+stan
 standard
 start
 start punctuation
 stasianwidth
 states
 static 
-stbE;
-stcE;
 std::nullptr_t
 std::nullptr_t 
-stdE;
 stfixnumericK
+stos
 strict
 stroke
 struct 
 stuvwxyz
+sup$
 supplement
 supplementalData
 surrogate
@@ -6191,121 +4877,20 @@ swaplfnl
 syllable+
 symbols
 syr_SY
-t	@8{`u
-t	A97
-t"<.u
 t"t8wLy
-t#H9/u
-t#HcD$4A
-t#HcS
-t$ <`
-t$ A;
-t$ D+
-t$ E3
-t$ UH
-t$ UWATAVAWH
-t$ UWAUAVAWH
-t$ UWAVH
-t$ UWAWH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$(A_
-t$(D+
-t$(E3
-t$(I;
-t$(f;
-t$0E3
-t$4@:
-t$8A94$~	H
-t$8D+
-t$8D9&
-t$8H+
-t$8H;S
-t$8fD
-t$@92
-t$@A90
-t$@A;
-t$@A_A^A]A\_
-t$@E3
-t$@f;
-t$HE2
-t$HE3
-t$HH;S
-t$HHc
-t$PA9
-t$PfD9r
-t$SE3
-t$XE3
-t$`D+
-t$`D;
-t$`E+
-t$`E3
-t$`Hc
-t$hD8
-t$hD9
-t$hD9D$<~
-t$hHc
-t$pL;
-t$pu2A;
-t$xIc
-t$xfD
-t$xu]3
-t%@8t$,t
-t%fD9
-t&D8d$@t
-t&HcS
-t&fA9H
-t'HcS
-t'fE9
-t(A8(t
-t(D8R
-t(LcC(H
-t)HcK8H
-t*<,u
-t*HcS
-t+f9C
-t-HcC`H
-t.HcS
-t2A9;
-t391w
-t3A92
-t3fA9I
-t5LcF
-t6f;C
-t99\$0
-t=fE;
-t>@8{,v
-t?H95
-t@fA9
-tAD93
-tDLcC
-tEH9q u?H9qHu9
-tFH9	uAE
-tHx	A
-tOH9=
-tOHcK
-tPH9q uJH9qHuD
-tQHcE@L
-tQfD9 tK
-tSf91tNH
-tU){(
-tVf91tQH
-tVf9L$TuO
-t`H91u
-t`~5I
 ta_IN
 ta_LK
 takana'
 talic
 talic]
+tanh
+tani
+tano
 tapplicable!&
 tartc`
 tarts
 tasubscript
-tbD9>
-tbH9q u\H9qHuV
-tc@8{,v
+tccc
 te_IN
 teimayek
 template-parameter-
@@ -6321,6 +4906,7 @@ th_TH_TRADITIONAL
 ther!
 ther!cLedg
 thian
+thic
 thsymbolQ
 ti_ER
 ti_ET
@@ -6333,15 +4919,11 @@ timezoneTypes
 tinagri
 title
 titlecase letter
-tkH9i8u'
 tk_TM
 tlecasemapping
-tnHcO@
 tn_BW
 tn_ZA
-tnfD;G
 tonsignwriting
-tqD8D$1u
 tr_TR
 traditional
 trail surrogate
@@ -6350,66 +4932,16 @@ trl?B
 trolpictures
 ts_ZA
 tt_RU
+tter
 tternumber5
-tuD8L$Au
-tvHcG
-tyfD9 tsH
+type
 typeAlias
 typeMap
-tzf;F
 tzm_Arab_MA
 tzm_Latn
 tzm_Latn_DZ
 tzm_Tfng_MA
-t{H9/tQL
-t{H9M
-t}y&L
-u	H!B
-u D;A@|
-u";o t
-u"E;Y
-u"HcMHH
-u$f9B
-u&D;A
-u&E;A
-u*f9J
-u+A8A
-u+H9Y
-u-H9Q
-u-f;3
-u.A8;|	A
-u.H9>uBA
-u.f;Q
-u/8P	u*
-u/D8]
-u/fA;
-u0A;H
-u0A_A^A]A\_^][
-u0E;H
-u1!D$0H
-u2A8A
-u2D;I
-u3HcH<H
-u49+}0H
-u4D9'u4H
-u4D9~
-u59\$Xt/
-u6f9L$T
-u9!\$0
-u99+}5H
-u9H;{
-u9HcL$0L;
-u:Hcy@H
-u?H;{
-u@fE9
-uAiD$@
-uCD9eou
-uDH!C
-uFM9/tA
-uID8o
-uPI91tK
-uRD8]
-uTD9{h~
+u\fu\fT
 u_UCharsToChars_58
 u_austrcpy_58
 u_austrncpy_58
@@ -6607,6 +5139,7 @@ ubidi_writeReverse_58
 ubiditransform_close_58
 ubiditransform_open_58
 ubiditransform_transform_58
+uble
 ublequoteA
 ublock_getCode_58
 ubrk_close_58
@@ -6629,11 +5162,10 @@ ubrk_refreshUText_58
 ubrk_safeClone_58
 ubrk_setText_58
 ubrk_setUText_58
-ubrk_swap(): RBBI Data header is invalid.
-ubrk_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized
-ubrk_swap(): too few bytes (%d after ICU Data header) for break data.
+ubrk_swap(): RBBI Data header is invalid.\n
+ubrk_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized\n
+ubrk_swap(): too few bytes (%d after ICU Data header) for break data.\n
 ubrk_swap_58
-ucD9~
 ucache_compareKeys_58
 ucache_deleteKey_58
 ucache_hashKeys_58
@@ -6663,12 +5195,12 @@ ucasemap_utf8FoldCase_58
 ucasemap_utf8ToLower_58
 ucasemap_utf8ToTitle_58
 ucasemap_utf8ToUpper_58
-uchar_swapNames(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as unames.icu
-uchar_swapNames(): too few bytes (%d after header) for unames.icu
-uchar_swapNames(): too few bytes (%d after header) for unames.icu algorithmic range %u
-uchar_swapNames(): unknown type %u of algorithmic range %u
-uchar_swapNames(prefix string of algorithmic range %u) failed
-uchar_swapNames(token strings) failed
+uchar_swapNames(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as unames.icu\n
+uchar_swapNames(): too few bytes (%d after header) for unames.icu algorithmic range %u\n
+uchar_swapNames(): too few bytes (%d after header) for unames.icu\n
+uchar_swapNames(): unknown type %u of algorithmic range %u\n
+uchar_swapNames(prefix string of algorithmic range %u) failed\n
+uchar_swapNames(token strings) failed\n
 uchar_swapNames_58
 ucln_cleanupOne_58
 ucln_registerCleanup_58
@@ -6744,21 +5276,21 @@ ucnv_setFromUCallBack_58
 ucnv_setSubstChars_58
 ucnv_setSubstString_58
 ucnv_setToUCallBack_58
-ucnv_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not recognized as an ICU .cnv conversion table
-ucnv_swap(): error swapping converter name
-ucnv_swap(): too few bytes (%d after header) for an ICU .cnv conversion table
-ucnv_swap(): too few bytes (%d after headers) for an ICU MBCS .cnv conversion table
-ucnv_swap(): too few bytes (%d after headers) for an ICU MBCS .cnv conversion table with extension data
-ucnv_swap(): unknown conversionType=%d!=UCNV_MBCS
-ucnv_swap(): unsupported MBCS output type 0x%x
-ucnv_swap(): unsupported _MBCSHeader.version %d.%d
-ucnv_swap(): unsupported combination of makeconv --small with SBCS
-ucnv_swapAliases().swapInvChars(charset names) failed
-ucnv_swapAliases().uprv_sortArray(%u items) failed
-ucnv_swapAliases(): data format %02x.%02x.%02x.%02x (format version %02x) is not an alias table
-ucnv_swapAliases(): table of contents contains unsupported number of sections (%u sections)
-ucnv_swapAliases(): too few bytes (%d after header) for an alias table
-ucnv_swapAliases(): unable to allocate memory for sorting tables (max length: %u)
+ucnv_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not recognized as an ICU .cnv conversion table\n
+ucnv_swap(): error swapping converter name\n
+ucnv_swap(): too few bytes (%d after header) for an ICU .cnv conversion table\n
+ucnv_swap(): too few bytes (%d after headers) for an ICU MBCS .cnv conversion table with extension data\n
+ucnv_swap(): too few bytes (%d after headers) for an ICU MBCS .cnv conversion table\n
+ucnv_swap(): unknown conversionType=%d!=UCNV_MBCS\n
+ucnv_swap(): unsupported MBCS output type 0x%x\n
+ucnv_swap(): unsupported _MBCSHeader.version %d.%d\n
+ucnv_swap(): unsupported combination of makeconv --small with SBCS\n
+ucnv_swapAliases().swapInvChars(charset names) failed\n
+ucnv_swapAliases().uprv_sortArray(%u items) failed\n
+ucnv_swapAliases(): data format %02x.%02x.%02x.%02x (format version %02x) is not an alias table\n
+ucnv_swapAliases(): table of contents contains unsupported number of sections (%u sections)\n
+ucnv_swapAliases(): too few bytes (%d after header) for an alias table\n
+ucnv_swapAliases(): unable to allocate memory for sorting tables (max length: %u)\n
 ucnv_swapAliases_58
 ucnv_swap_58
 ucnv_toAlgorithmic_58
@@ -6774,10 +5306,10 @@ ucnvsel_open_58
 ucnvsel_selectForString_58
 ucnvsel_selectForUTF8_58
 ucnvsel_serialize_58
-ucnvsel_swap(): data format %02x.%02x.%02x.%02x is not recognized as UConverterSelector data
-ucnvsel_swap(): format version %02x is not supported
-ucnvsel_swap(): too few bytes (%d after header) for UConverterSelector data
-ucnvsel_swap(): too few bytes (%d after header) for all of UConverterSelector data
+ucnvsel_swap(): data format %02x.%02x.%02x.%02x is not recognized as UConverterSelector data\n
+ucnvsel_swap(): format version %02x is not supported\n
+ucnvsel_swap(): too few bytes (%d after header) for UConverterSelector data\n
+ucnvsel_swap(): too few bytes (%d after header) for all of UConverterSelector data\n
 ucol_close
 ucol_getLocale
 ucol_getSortKey
@@ -6788,16 +5320,16 @@ ucol_openFromShortString
 ucol_strcoll
 ucol_strcollIter
 ucol_strcollUTF8
-ucol_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not recognized as collation data
-ucol_swap(formatVersion=3): endianness %d or charset %d does not match the swapper
-ucol_swap(formatVersion=3): magic 0x%08x or format version %02x.%02x is not a collation binary
-ucol_swap(formatVersion=3): too few bytes (%d after header) for collation data
-ucol_swap(formatVersion=4): too few bytes (%d after header) for collation data
-ucol_swap(formatVersion=4): unknown data at IX_RESERVED10_OFFSET
-ucol_swap(formatVersion=4): unknown data at IX_RESERVED18_OFFSET
-ucol_swap(formatVersion=4): unknown data at IX_RESERVED8_OFFSET
-ucol_swapInverseUCA(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not an inverse UCA collation file
-ucol_swapInverseUCA(): too few bytes (%d after header) for inverse UCA collation data
+ucol_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not recognized as collation data\n
+ucol_swap(formatVersion=3): endianness %d or charset %d does not match the swapper\n
+ucol_swap(formatVersion=3): magic 0x%08x or format version %02x.%02x is not a collation binary\n
+ucol_swap(formatVersion=3): too few bytes (%d after header) for collation data\n
+ucol_swap(formatVersion=4): too few bytes (%d after header) for collation data\n
+ucol_swap(formatVersion=4): unknown data at IX_RESERVED10_OFFSET\n
+ucol_swap(formatVersion=4): unknown data at IX_RESERVED18_OFFSET\n
+ucol_swap(formatVersion=4): unknown data at IX_RESERVED8_OFFSET\n
+ucol_swapInverseUCA(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not an inverse UCA collation file\n
+ucol_swapInverseUCA(): too few bytes (%d after header) for inverse UCA collation data\n
 ucol_swapInverseUCA_58
 ucol_swap_58
 ucurr_countCurrencies_58
@@ -6831,14 +5363,14 @@ udata_readInt32_58
 udata_setAppData_58
 udata_setCommonData_58
 udata_setFileAccess_58
-udata_swapDataHeader(): header size mismatch - headerSize %d infoSize %d length %d
-udata_swapDataHeader(): initial bytes do not look like ICU data
+udata_swapDataHeader(): header size mismatch - headerSize %d infoSize %d length %d\n
+udata_swapDataHeader(): initial bytes do not look like ICU data\n
 udata_swapDataHeader_58
 udata_swapInvStringBlock_58
-udict_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as dictionary data
-udict_swap(): too few bytes (%d after header) for all of dictionary data
-udict_swap(): too few bytes (%d after header) for dictionary data
-udict_swap(): unknown trie type!
+udict_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as dictionary data\n
+udict_swap(): too few bytes (%d after header) for all of dictionary data\n
+udict_swap(): too few bytes (%d after header) for dictionary data\n
+udict_swap(): unknown trie type!\n
 udict_swap_58
 ueafterzwjA
 ueafterzwjI
@@ -6852,8 +5384,6 @@ uenum_openUCharStringsEnumeration_58
 uenum_reset_58
 uenum_unextDefault_58
 uenum_unext_58
-uf!T$(H!T$ 
-ufD8|$2u_D8|$0uX
 ug_Arab_CN
 ug_CN
 uhash_close_58
@@ -6924,7 +5454,6 @@ uiter_setUTF16BE_58
 uiter_setUTF8_58
 uk_UA
 ukhiA
-ulD8L$x
 uldn_close_58
 uldn_getContext_58
 uldn_getDialectHandling_58
@@ -7013,9 +5542,8 @@ umtx_condSignal_58
 umtx_condWait_58
 umtx_lock_58
 umtx_unlock_58
-unHcL$D
 unames
-unames/makeTokenMap() finds variant character 0x%02x used (input charset family %d)
+unames/makeTokenMap() finds variant character 0x%02x used (input charset family %d)\n
 unassigned
 unctuation
 unctuationO
@@ -7045,9 +5573,9 @@ unorm2_normalize_58
 unorm2_openFiltered_58
 unorm2_quickCheck_58
 unorm2_spanQuickCheckYes_58
-unorm2_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as Normalizer2 data
-unorm2_swap(): too few bytes (%d after header) for Normalizer2 data
-unorm2_swap(): too few bytes (%d after header) for all of Normalizer2 data
+unorm2_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as Normalizer2 data\n
+unorm2_swap(): too few bytes (%d after header) for Normalizer2 data\n
+unorm2_swap(): too few bytes (%d after header) for all of Normalizer2 data\n
 unorm2_swap_58
 unorm_compare_58
 unorm_concatenate_58
@@ -7062,7 +5590,7 @@ unsigned
 uppercase letter
 upplement
 uprv_aestrncpy_58
-uprv_asciiFromEbcdic() string[%d] contains a variant character in position %d
+uprv_asciiFromEbcdic() string[%d] contains a variant character in position %d\n
 uprv_asciitolower_58
 uprv_calloc_58
 uprv_ceil_58
@@ -7071,14 +5599,14 @@ uprv_compareEBCDICPropertyNames_58
 uprv_compareInvEbcdicAsAscii_58
 uprv_convertToLCID_58
 uprv_convertToPosix_58
-uprv_copyEbcdic() string[%] contains a variant character in position %d
-uprv_copyFromAscii() string[%d] contains a variant character in position %d
+uprv_copyEbcdic() string[%] contains a variant character in position %d\n
+uprv_copyFromAscii() string[%d] contains a variant character in position %d\n
 uprv_deleteUObject_58
 uprv_dl_close_58
 uprv_dl_open_58
 uprv_dlsym_func_58
 uprv_eastrncpy_58
-uprv_ebcdicFromAscii() string[%d] contains a variant character in position %d
+uprv_ebcdicFromAscii() string[%d] contains a variant character in position %d\n
 uprv_ebcdicFromAscii_58
 uprv_ebcdicToLowercaseAscii_58
 uprv_ebcdictolower_58
@@ -7144,7 +5672,6 @@ upvec_getRow_58
 upvec_getValue_58
 upvec_open_58
 upvec_setValue_58
-ur9:t
 ur_IN
 ur_PK
 ures_close_58
@@ -7189,18 +5716,18 @@ ures_openNoDefault_58
 ures_openU_58
 ures_open_58
 ures_resetIterator_58
-ures_swap().swapArray16(16-bit units[%d]) failed
-ures_swap().udata_swapInvStringBlock(keys[%d]) failed
-ures_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not a resource bundle
-ures_swap(): resource top %d exceeds bundle length %d
-ures_swap(): too few bytes (%d after header) for a resource bundle
-ures_swap(): too few indexes for a 1.1+ resource bundle
-ures_swap(): unable to allocate memory for sorting tables (max length: %d)
-ures_swap(): unable to allocate memory for tracking resources
-ures_swapResource(array res=%08x)[%d].recurse(%08x) failed
-ures_swapResource(root res=%08x) failed
-ures_swapResource(table res=%08x).uprv_sortArray(%d items) failed
-ures_swapResource(table res=%08x)[%d].recurse(%08x) failed
+ures_swap().swapArray16(16-bit units[%d]) failed\n
+ures_swap().udata_swapInvStringBlock(keys[%d]) failed\n
+ures_swap(): data format %02x.%02x.%02x.%02x (format version %02x.%02x) is not a resource bundle\n
+ures_swap(): resource top %d exceeds bundle length %d\n
+ures_swap(): too few bytes (%d after header) for a resource bundle\n
+ures_swap(): too few indexes for a 1.1+ resource bundle\n
+ures_swap(): unable to allocate memory for sorting tables (max length: %d)\n
+ures_swap(): unable to allocate memory for tracking resources\n
+ures_swapResource(array res=%08x)[%d].recurse(%08x) failed\n
+ures_swapResource(root res=%08x) failed\n
+ures_swapResource(table res=%08x).uprv_sortArray(%d items) failed\n
+ures_swapResource(table res=%08x)[%d].recurse(%08x) failed\n
 ures_swap_58
 urkic
 urrogates
@@ -7280,13 +5807,14 @@ uset_span_58
 uset_toPattern_58
 usets
 ushaskiyehbarree
+usic
 usprep_close_58
 usprep_openByType_58
 usprep_open_58
 usprep_prepare_58
-usprep_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as StringPrep .spp data
-usprep_swap(): too few bytes (%d after header) for StringPrep .spp data
-usprep_swap(): too few bytes (%d after header) for all of StringPrep .spp data
+usprep_swap(): data format %02x.%02x.%02x.%02x (format version %02x) is not recognized as StringPrep .spp data\n
+usprep_swap(): too few bytes (%d after header) for StringPrep .spp data\n
+usprep_swap(): too few bytes (%d after header) for all of StringPrep .spp data\n
 usprep_swap_58
 ustr_hashCharsN_58
 ustr_hashICharsN_58
@@ -7329,6 +5857,7 @@ utf32be
 utf32le
 utf32oppositeendian
 utf32platformendian
+utf8
 utf8_appendCharSafeBody_58
 utf8_back1SafeBody_58
 utf8_countTrailBytes_58
@@ -7382,8 +5911,6 @@ utrie_swap_58
 utrie_unserializeDummy_58
 utrie_unserialize_58
 uts46
-uvH;Q tpD
-uwE8H	uqA
 uzKs@>
 uz_Cyrl
 uz_Cyrl_UZ
@@ -7393,10 +5920,7 @@ uz_UZ
 uz_UZ_CYRILLIC
 uz_UZ_CYRL
 uz_UZ_LATN
-u~fD9g
-v.f9F
 v2!L.2
-v3x*z
 v_vhw
 variant
 ve_ZA
@@ -7404,73 +5928,28 @@ ven_ZA
 verride9
 verride?
 version=
+vert
 vi_VN
 virtual 
-vjfA9
+void
 void 
 volatile
 volatile 
-v}`[>
-w	f;Q
-w#;]xt
-w'fA;P
-w)tB;
-w.fE;f
-wafD9#rHH;
-wcfD9;sJH;
 wchar_t
-wefD9#rLH;
+wer)
 wercaseletter%e(i<l%
 wercaseletter)c=e(iBl)
-wgfA;
+wide
 windowsZones
 wline9f?f@gNhpk
-wnD;s
-wnLct$LL
 wo_SN
+word
 wsurrogates
-wtf;K
-wufE;J
-x ATAUAV
-x ATAUAVAW3
-x ATAUAVAWD
-x ATAUAVAWE3
-x ATAUAVAWH
-x ATAUAVAWL
-x ATAUAVH
-x ATAUAWH
-x ATAVAWE3
-x ATAVAWH
-x ATAVAWL
-x AUAVAWH
-x AUAVAWL
-x AUAVL
-x AVAW3
-x AVAWE3
-x AVAWHc
-x AVAWL
-x AVE
-x AVE3
-x AVH
-x AVHcA
-x AVI
-x AVL
-x AWH
-x UATAUAVAWH
-x UAVAWH
 x!l6m<nvo
 x!n`o
 x!r(sPt1
-x+~	H
 x0y6z
-x4D;Y
-xA_A^A]A\_^[]
-xA_A^A]A\_^][
-xA_A^_^][
-xHHcO
-xWI96tRI
-xXI96tSI
-x_^][
+xT?V
 xdigit
 xh_ZA
 xpxxxx
@@ -7479,16 +5958,11 @@ xtended
 xtg-x-cel-gaulish
 xtline[
 xwpwpp
-y	Pu0A
-y>fE9
-yA*t	H
-yB*t	H
-yBNu'
-yP9>~
-y\PD>!
+yaGc
 yllabary
 yllable)
 yllables
+ymbo
 ymbol
 ymbolU
 ymbolW
@@ -7501,10 +5975,10 @@ yprivateusearea
 yrene
 yy!i8m<s
 y{zY{9|
-zY;>u:m	
 z^L~no
 zantinemusic
 zaonhehgoal=
+zero
 zh-guoyu
 zh-hakka
 zh-min
@@ -7540,99 +6014,10 @@ zh_XIANG
 zh_YUE
 zoneinfo64
 zu_ZA
-{ ATAVAWH
-{ AVH
-{0} ({1})
-{0}, {1}
-{0}={1}
-{8HcK8H
-{<+uD
 {ABCDEFGHI
-{`Hc]HE
 {abcdefghi
-{f;\$hryf;\$ls
-{fD9s
 {flat}
 {for 
-|$ ;7vpD
-|$ ;Q
-|$ ATAVAWH
-|$ AVH
-|$ AWH
-|$ D+
-|$ E3
-|$ H+
-|$ H;
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ fA
-|$ s1
-|$(A^
-|$(E3
-|$(Hc
-|$0A^A]
-|$0A_A^
-|$0D9u
-|$0HcA
-|$0I;
-|$0Mc
-|$0fE9
-|$4E3
-|$4},
-|$89^
-|$8;3
-|$8A^A]A\
-|$8A_A^A\
-|$8E3
-|$8Ic
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$@E+
-|$@H;
-|$@tDI
-|$HE;
-|$Hf;
-|$HfD
-|$PE3
-|$PLc
-|$XE3
-|$XHcU
-|$\.u
-|$^.u
-|$`;^ 
-|$`CI
-|$`ss
-|$pA+
-|$pD9D$0~*H
-|$pE3
-|$pH;
-|$pL;
-|$xE3
-|%H+W H
-|2HcG
-|SL;d$ }GH
-|ZA;P
-|]L;l$(}QH
-|b=})>
-} D9L
-})I;^
-})LcA
-}*I;\$
 }JKLMNOPQR
-}^D;O
-}`;~`u8
-}jHcA
 }jklmnopqr
-}uuA;
-~ $s%r
-~"f9|L\
-~'HcD$0H
-~+A8(t&H
-~0D8l$pu
-~3fD9_
-~@fD9
 ~stuvwxyz
-~w1Ic
-~wCD:

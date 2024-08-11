@@ -1,16 +1,5 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
- 9(X`
- A_A^_
- vJH+
 %i %i %i %i
-%s FAILED with error %x
-&8Drw^
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$@H
-(|$@H
-,|%)v
+%s FAILED with error %x\n
 .?AV?$CBaseAppSystem@VIMediaFoundation@@@@
 .?AV?$CTier0AppSystem@VIMediaFoundation@@@@
 .?AV?$CTier1AppSystem@VIMediaFoundation@@$0A@@@
@@ -40,10 +29,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -54,59 +43,23 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-200527195938Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
 7^d[L
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-9_p~$
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-?5zlO
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-@.data
-@.tls
-@A_A^A\
-@A_A^A]A\_
-@SAVH
-@UAVAWH
-@USVWH
-A8H	P(
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAVAWH
-A_A^A]A\]
-A_A^]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 AcquireSRWLockExclusive
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
@@ -116,11 +69,8 @@ AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
-C-yh/
 CGlobalConfigValueRegistry::HookUpConfigValue
 CMemAllocSystemInitialize
 COLORCORRECTION_VERSION_1
@@ -128,31 +78,23 @@ COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl Ea
 CSchemaRegistration::RegisterAllModuleData
 CoInitializeEx
 CoUninitialize
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigurationSystem_001
 ConnectInterfaces
 CreateInterface
-D$0H3L$0H3
-D$<9T$0wE9T$4w?9T$8w9;
 DebugTextureInfo001
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
-E0C07
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
 EventSystem001
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FlattenedSerializersVersion001
 FontManager_001
-GRegisterConfigValue: Unknown error constructing config value "%s"!
+GCTL
+GRegisterConfigValue: Unknown error constructing config value "%s"!\n
 GSFailure
 GameResourceServiceClientV001
 GameResourceServiceServerV001
@@ -164,10 +106,7 @@ GetDefaultMiniDumpTypeFlags
 GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
-H0F08
-H1D$0
 HammerMapLoader001
-HcH<H
 HelpSystem_001
 HostStateMgr001
 IQuickTime001
@@ -176,18 +115,12 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 KERNEL32.dll
 KeyValueCache001
-L$ fI
-L$0E3
-L$@E3
-L$@H1D$0
 LOG_GENERAL
-LcA<E3
-LcCPH
 Localize_001
 LoggingSystem_IsChannelEnabled
 LoggingSystem_RegisterLoggingChannel
@@ -228,7 +161,7 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -242,6 +175,7 @@ PostProcessingSystem_001
 PropertyEditorSystem_001
 QueryPerformanceCounter
 QueuedLoaderVersion001
+RSDS
 Release
 ReleaseSRWLockExclusive
 RenderDevice003
@@ -281,7 +215,6 @@ Source2Server001
 Source2ServerSerializers002
 StatsService_001
 SteamAudio001
-T$0E3
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
@@ -289,7 +222,6 @@ ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-UATAUAVAWH
 UserInfoChangeService_001
 VApplication001
 VAvi001
@@ -329,41 +261,22 @@ V_atoi
 V_qsort_s
 V_snprintf
 V_sscanf
-Valve0
-Valve1
 VisBuilder_001
-WATAUAVAWH
-WAVAWH
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
-\$ WH
-\$8;>
-\$HHc
 _V_SetExtension
-`.rdata
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\tier1\configvalue.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c:\buildslave\hlvr_rel_win64\build\src\valve_wmf\Retail\win64\valve_wmf.pdb
 error
-ffffff
 g_pMemAlloc
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
-k0i0$
-l$0Hc
-m0k0$
 ole32.dll
-p0n05
-p1f3q>
 p6auds
 pAudioTypeIn->SetGUID( MF_MT_MAJOR_TYPE, MFMediaType_Audio )
 pAudioTypeIn->SetGUID( MF_MT_SUBTYPE, MFAudioFormat_PCM )
@@ -392,18 +305,6 @@ purecall
 qH264
 qYUY2
 qvids
-sP}\s
-t$ WH
-t$8E3
-t9H9=f~
 tier0.dll
-u	@8=]y
-v0t08
 valve_wmf
 valve_wmf.dll
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x0v0$
-z0x0:
-|$`Lc

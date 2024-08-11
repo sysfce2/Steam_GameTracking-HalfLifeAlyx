@@ -1,32 +1,7 @@
-	?fromUcs4@QString@@SA?AV1@PEBIH@Z
-	?fromUnicode@QTextCodec@@QEBA?AVQByteArray@@AEBVQString@@@Z
-	?fromUnicode@QTextEncoder@@QEAA?AVQByteArray@@AEBVQString@@@Z
-	?fromUnicode@QTextEncoder@@QEAA?AVQByteArray@@PEBVQChar@@H@Z
-	?indexIn@QRegExp@@QEBAHAEBVQString@@HW4CaretMode@1@@Z
-	?indexOf@QString@@QEBAHAEBVQLatin1String@@HW4CaseSensitivity@Qt@@@Z
-	?indexOf@QString@@QEBAHVQChar@@HW4CaseSensitivity@Qt@@@Z
-	?insert@QString@@QEAAAEAV1@HAEBV1@@Z
-	?insert@QString@@QEAAAEAV1@HPEBVQChar@@H@Z
-	?isChar@QXmlUtils@@SA_NVQChar@@@Z
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- !"=======================#$========%&&''((((=========================)*+&&''((((=============================,,--((((========.=====/012345678==((==========9==:;<<<<<
- A\^]
- A\_^
- A\_^][
- A]A\_
- A]A\_H
- A^A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
@@ -38,20 +13,14 @@
  delete
  delete[]
  encoding='
- new[]
+ new
  standalone='no'
  standalone='yes'
- t?D9
  throw(
  volatile
  xmlns
  xmlns:
  xmlns="
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
 " encoding="
 " standalone="no"?>
 " standalone="yes"?>
@@ -62,37 +31,17 @@
 #document
 #document-fragment
 #text
-$I+6H
+$\n?isEmpty@QString@@QEBA_NXZ
 %.16g
 %1 is an invalid PUBLIC identifier.
 %1 is an invalid encoding name.
 %1 is an invalid processing instruction name.
-&#10;
-&#13;
-&#34;
-&#38;
-&#60;
-&#xd;
+%\n?isEmpty@QStringRef@@QEBA_NXZ
 &amp;
 &apos;
 &quot;
-(A]A\^]
-(D$ H
-(D$@H
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$0H
-(t$@D
-)t$0f
-)t$@E
-*H;.t
+*\n?isEncName@QXmlUtils@@SA_NAEBVQString@@@Z
 , but got '
-, or 
 ,<ellipsis>
 -64OS
 .?AVQBuffer@@
@@ -140,89 +89,25 @@ $I+6H
 .?AVoverflow_error@std@@
 .?AVruntime_error@std@@
 .?AVtype_info@@
-.pdata
-.text
-/L9\$ t
-0A\_^
-0A\_^][
-0A]A\_
-0A]A\_^[
-0A]A\_^]
-0A^A]A\
-0A^A]A\_^
-0A^A]A\_^][
-0A^][
-0A_A^A\_^
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-1C,H;
-3333333
-7;|$0t,
-8"u H
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8D$8t
-8Ft0A
-8H9}HtjH
-8H9}PtqH
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9HcD$XA
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
+2\n0L
+2\vpL
+2\vpP
+9\f?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+:\r?qsnprintf@@YAHPEAD_KPEBDZZ
 <!DOCTYPE 
 <!ENTITY 
 <!NOTATION 
 <![CDATA[
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
 <?xml
 <?xml version="
 <?xml version="1.0" encoding="
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <ellipsis>
 <unknown>
-<z~$<A|
-=====
-========
-=========
-==============
-========================
->	?grow@QVectorData@@SAHHHH_N@Z
+>\t?grow@QVectorData@@SAHHHH_N@Z
 ??0?$QVector@VQXmlStreamAttribute@@@@QEAA@AEBV0@@Z
 ??0?$QVector@VQXmlStreamAttribute@@@@QEAA@H@Z
 ??0?$QVector@VQXmlStreamAttribute@@@@QEAA@HAEBVQXmlStreamAttribute@@@Z
@@ -520,7 +405,6 @@ $I+6H
 ??_7QXmlSimpleReader@@6B@
 ??_7QXmlStreamEntityResolver@@6B@
 ??_FQXmlParseException@@QEAAXXZ
-?CuND8g
 ?DTDHandler@QXmlSimpleReader@@UEBAPEAVQXmlDTDHandler@@XZ
 ?EndOfData@QXmlInputSource@@2GB
 ?EndOfDocument@QXmlInputSource@@2GB
@@ -763,30 +647,17 @@ $I+6H
 ?isEmpty@?$QVector@VQXmlStreamAttribute@@@@QEBA_NXZ
 ?isEmpty@QDomNamedNodeMap@@QEBA_NXZ
 ?isEmpty@QDomNodeList@@QEBA_NXZ
-?isEmpty@QString@@QEBA_NXZ
-?isEmpty@QStringRef@@QEBA_NXZ
-?isEncName@QXmlUtils@@SA_NAEBVQString@@@Z
 ?isEndDocument@QXmlStreamReader@@QEBA_NXZ
 ?isEndElement@QXmlStreamReader@@QEBA_NXZ
 ?isEntity@QDomNode@@QEBA_NXZ
 ?isEntityReference@QDomNode@@QEBA_NXZ
 ?isEntityReference@QXmlStreamReader@@QEBA_NXZ
-?isLetter@QXmlUtils@@SA_NVQChar@@@Z
-?isNCName@QXmlUtils@@SA_NAEBVQString@@@Z
-?isNCName@QXmlUtils@@SA_NAEBVQStringRef@@@Z
-?isNameChar@QXmlUtils@@SA_NVQChar@@@Z
 ?isNotation@QDomNode@@QEBA_NXZ
 ?isNull@QDomImplementation@@QEAA_NXZ
 ?isNull@QDomNode@@QEBA_NXZ
-?isNull@QString@@QEBA_NXZ
-?isNull@QStringRef@@QEBA_NXZ
-?isOpen@QIODevice@@QEBA_NXZ
 ?isProcessingInstruction@QDomNode@@QEBA_NXZ
 ?isProcessingInstruction@QXmlStreamReader@@QEBA_NXZ
-?isPublicID@QXmlUtils@@SA_NAEBVQString@@@Z
-?isSequential@QIODevice@@UEBA_NXZ
 ?isSharedWith@?$QVector@VQXmlStreamAttribute@@@@QEBA_NAEBV1@@Z
-?isSpace@QChar@@QEBA_NXZ
 ?isStandaloneDocument@QXmlStreamReader@@QEBA_NXZ
 ?isStartDocument@QXmlStreamReader@@QEBA_NXZ
 ?isStartElement@QXmlStreamReader@@QEBA_NXZ
@@ -800,13 +671,9 @@ $I+6H
 ?lastChild@QDomNode@@QEBA?AV1@XZ
 ?lastChildElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z
 ?lastIndexOf@?$QVector@VQXmlStreamAttribute@@@@QEBAHAEBVQXmlStreamAttribute@@H@Z
-?latin1@QLatin1String@@QEBAPEBDXZ
-?left@QString@@QEBA?AV1@H@Z
-?length@QByteArray@@QEBAHXZ
 ?length@QDomCharacterData@@QEBAIXZ
 ?length@QDomNamedNodeMap@@QEBAIXZ
 ?length@QDomNodeList@@QEBAIXZ
-?length@QString@@QEBAHXZ
 ?length@QXmlAttributes@@QEBAHXZ
 ?lexicalHandler@QXmlSimpleReader@@UEBAPEAVQXmlLexicalHandler@@XZ
 ?lineNumber@QDomNode@@QEBAHXZ
@@ -814,13 +681,9 @@ $I+6H
 ?lineNumber@QXmlStreamReader@@QEBA_JXZ
 ?localName@QDomNode@@QEBA?AVQString@@XZ
 ?localName@QXmlAttributes@@QEBA?AVQString@@H@Z
-?makeDecoder@QTextCodec@@QEBAPEAVQTextDecoder@@XZ
-?makeEncoder@QTextCodec@@QEBAPEAVQTextEncoder@@V?$QFlags@W4ConversionFlag@QTextCodec@@@@@Z
 ?malloc@?$QVector@VQXmlStreamAttribute@@@@AEAAPEAUQVectorData@@H@Z
 ?message@QXmlParseException@@QEBA?AVQString@@XZ
-?metaObject@QBuffer@@UEBAPEBUQMetaObject@@XZ
 ?mid@?$QVector@VQXmlStreamAttribute@@@@QEBA?AV1@HH@Z
-?mid@QString@@QEBA?AV1@HH@Z
 ?name@QDomAttr@@QEBA?AVQString@@XZ
 ?name@QDomDocumentType@@QEBA?AVQString@@XZ
 ?name@QXmlStreamAttribute@@QEBA?AVQStringRef@@XZ
@@ -837,7 +700,6 @@ $I+6H
 ?namespaceUri@QXmlStreamNamespaceDeclaration@@QEBA?AVQStringRef@@XZ
 ?namespaceUri@QXmlStreamReader@@QEBA?AVQStringRef@@XZ
 ?next@QXmlInputSource@@UEAA?AVQChar@@XZ
-?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
 ?nextSibling@QDomNode@@QEBA?AV1@XZ
 ?nextSiblingElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z
 ?nodeName@QDomNode@@QEBA?AVQString@@XZ
@@ -856,15 +718,12 @@ $I+6H
 ?nodeType@QDomProcessingInstruction@@QEBA?AW4NodeType@QDomNode@@XZ
 ?nodeType@QDomText@@QEBA?AW4NodeType@QDomNode@@XZ
 ?nodeValue@QDomNode@@QEBA?AVQString@@XZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
 ?normalize@QDomNode@@QEAAXXZ
 ?notationDecl@QXmlDefaultHandler@@UEAA_NAEBVQString@@00@Z
 ?notationDeclarations@QXmlStreamReader@@QEBA?AV?$QVector@VQXmlStreamNotationDeclaration@@@@XZ
 ?notationName@QDomEntity@@QEBA?AVQString@@XZ
 ?notationName@QXmlStreamEntityDeclaration@@QEBA?AVQStringRef@@XZ
 ?notations@QDomDocumentType@@QEBA?AVQDomNamedNodeMap@@XZ
-?number@QString@@SA?AV1@HH@Z
-?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?ownerDocument@QDomNode@@QEBA?AVQDomDocument@@XZ
 ?ownerElement@QDomAttr@@QEBA?AVQDomElement@@XZ
 ?parentNode@QDomNode@@QEBA?AV1@XZ
@@ -875,8 +734,6 @@ $I+6H
 ?popContext@QXmlNamespaceSupport@@QEAAXXZ
 ?pop_back@?$QVector@VQXmlStreamAttribute@@@@QEAAXXZ
 ?pop_front@?$QVector@VQXmlStreamAttribute@@@@QEAAXXZ
-?pos@QBuffer@@UEBA_JXZ
-?position@QStringRef@@QEBAHXZ
 ?position@QXmlStreamStringRef@@QEBAHXZ
 ?prefix@QDomNode@@QEBA?AVQString@@XZ
 ?prefix@QXmlNamespaceSupport@@QEBA?AVQString@@AEBV2@@Z
@@ -886,7 +743,6 @@ $I+6H
 ?prefixes@QXmlNamespaceSupport@@QEBA?AVQStringList@@AEBVQString@@@Z
 ?prefixes@QXmlNamespaceSupport@@QEBA?AVQStringList@@XZ
 ?prepend@?$QVector@VQXmlStreamAttribute@@@@QEAAXAEBVQXmlStreamAttribute@@@Z
-?previousNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
 ?previousSibling@QDomNode@@QEBA?AV1@XZ
 ?previousSiblingElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z
 ?processName@QXmlNamespaceSupport@@QEBAXAEBVQString@@_NAEAV2@2@Z
@@ -903,18 +759,10 @@ $I+6H
 ?pushContext@QXmlNamespaceSupport@@QEAAXXZ
 ?push_back@?$QVector@VQXmlStreamAttribute@@@@QEAAXAEBVQXmlStreamAttribute@@@Z
 ?push_front@?$QVector@VQXmlStreamAttribute@@@@QEAAXAEBVQXmlStreamAttribute@@@Z
-?qFree@@YAXPEAX@Z
-?qHash@@YAIAEBVQString@@@Z
 ?qName@QXmlAttributes@@QEBA?AVQString@@H@Z
-?qRealloc@@YAPEAXPEAX_K@Z
-?qWarning@@YAXPEBDZZ
-?qsnprintf@@YAHPEAD_KPEBDZZ
-?qt_metacall@QBuffer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QBuffer@@UEAAPEAXPEBD@Z
 ?qualifiedName@QXmlStreamAttribute@@QEBA?AVQStringRef@@XZ
 ?qualifiedName@QXmlStreamReader@@QEBA?AVQStringRef@@XZ
 ?raiseError@QXmlStreamReader@@QEAAXAEBVQString@@@Z
-?read@QIODevice@@QEAA_JPEAD_J@Z
 ?readData@QBuffer@@MEAA_JPEAD_J@Z
 ?readElementText@QXmlStreamReader@@QEAA?AVQString@@W4ReadElementTextBehaviour@1@@Z
 ?readElementText@QXmlStreamReader@@QEAA?AVQString@@XZ
@@ -1147,131 +995,21 @@ $I+6H
 ?writeStartElement@QXmlStreamWriter@@QEAAXAEBVQString@@@Z
 ?writeTextElement@QXmlStreamWriter@@QEAAXAEBVQString@@00@Z
 ?writeTextElement@QXmlStreamWriter@@QEAAXAEBVQString@@0@Z
-@$A9@ |wA
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@A\_^
-@A\_^[]
-@A\_^][
-@A]A\]
-@A]A\_
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A^A]A\_^
-@A^A]A\_^[]
-@A_A^A]A\_
-@A_A^A]A\_^]
-@SUAVH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAUH
-@USVWATH
-@USVWH
-@UVATAUH
-@UVATH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@VWATAUAVH
-@VWATH
-@WATAUH
-A1E,M;
-A1EHH
-A9	u<A
-A9	uxA
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-AH ujL
-AHH9AP
-ATAUAVH
 ATTLIST
-A\_^][
-A]A\]
-A]A\_
-A]A\_^[]
-A]A\_^]
-A]A\_^][
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 April
 Attribute redefined.
 August
-B(I9A(u
-C$A9C |
-C(HcC(H
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtXml4.pdb
 CDATA
-CH ugA
 Calling appendChild() on a null node does nothing.
-ChHcKp
-ChHcKpH
 Characters
 Comment
 CorExitProcess
-Cx9G(t
-CxA9E(t
-D$$;H
-D$%;H
-D$&8\$&t-8X
-D$(E3
-D$0fA
-D$8D+A
-D$8E3
-D$8H;D$@t
-D$8HcH
-D$8fA
-D$DE3
-D$PL9oXt
-D$XE3
-D$`:H
-D$p H
-D$pnH
-D8$;u
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8t$ t
-D9d$ 
-D;+t1
 DOCTYPE
 December
 DecodePointer
 DeleteCriticalSection
-E(H9u0u
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-EH ugA
 ELEMENT
 EMPTY
 ENTIT
@@ -1286,19 +1024,13 @@ EnterCriticalSection
 Entity '%1' not declared.
 EntityReference
 EnumSystemLocalesA
-ExD;p
 ExitProcess
 Expected 
 Expected character data.
 Extra content at end of document.
-F0H9~(u
-F0HcH
-FH ugA
 FIXED
-FX2GX$
 FatalAppExitA
 February
-FhHcNp
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -1306,13 +1038,6 @@ FlsSetValue
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G0Hc	H
-GH uRIc
-GH uXL
-GH ugA
-GH uhA
-GH ulL
-GH uqL
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -1343,50 +1068,9 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-GhH;X
-GhH;x
-Gp;Cp
-GpH;X
-GpHcOpH
-H(H9J(u
-H+M0x
-H+_PH
-H91tZH
-H99t5H
-H99t7H
-H9L$Xt'H
-H9u(u
-H9~(u
-H9~0u
-H;^ht0H
-H;_ t
-H;_ t%
-H;_ u
 HH:mm:ss
-HcA`H
-HcApH
-HcB`H
-HcB`H+
-HcC H
-HcC`H
-HcD$HH
-HcF`H
-HcG`H
-HcH<H
-HcK(L
-HcKpH
-HcL$HH
-HcL$hH
-HcO H
-HcQpH
-HcS(H
-HcT$HH
-HcT$HI
-HcT$hH
-HcV(H
-Hct$@H
-Hc}lH
-Hc~lH
+HMXB
+H\n?isLetter@QXmlUtils@@SA_NVQChar@@@Z
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -1394,15 +1078,9 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-I94$tt
 IDREF
 IDREFS
-IHI9L$Pu
 IMPLIED
-IcH I
-IcM(H
-IcqHH
-IcqHI
 Illegal namespace declaration.
 InitializeCriticalSectionAndSpinCount
 Invalid
@@ -1418,31 +1096,9 @@ IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
 January
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ ;Y
-L$ E3
-L$ H3
-L$ SUVWH
-L$ VH
-L$ WH
-L$0<`t
-L$0H;
-L$8H3
-L$@;|
-L$@E3
-L$HH3
-L$PH3
-L$X@"
-L$XE3
-L$`H3
-L$h;(H
-L$hD; H
-L$pH3
-L$xD; H
-L$xD;(H
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -1451,46 +1107,29 @@ LC_MONETARY
 LC_NUMERIC
 LC_TIME
 LEMENT
-LcA(H
-LcA<E3
-LcD$HM
-LcF(K
-Lc\$HI
-Lc\$hJ
-LcklM
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
 MTOKEN
 March
-Mc,$E
-McflM
 MessageBoxW
 Monday
 MultiByteToWideChar
 NDATA
 NDATA in parameter entity declaration.
+NKeb
 NMTOKEN
 NMTOKENS
 NOTATION
 NTITY
+NULL
 Namespace prefix '%1' not declared
 NoToken
 Norwegian-Nynorsk
 November
-O0HcQ
 OTATION
 October
 Opening and ending tag mismatch.
-P3G,H
-PA\_^
-PA\_^][
-PA]A\_^]
-PA^A]A\_^][
-PA_A^A]A\_^]
 PCDATA
 PUBLIC
 PUBLIC 
@@ -1506,26 +1145,22 @@ QtXml4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
 REQUIRED
+RSDS
+R\v?makeDecoder@QTextCodec@@QEBAPEAVQTextDecoder@@XZ
 RaiseException
 Recursive entity detected.
 Reference to external entity '%1' in attribute value.
 Reference to unparsed entity '%1'.
-RichsU
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S	?hasFailure@QTextDecoder@@QEBA_NXZ
-SUVWATAUAVH
-SUVWATAUH
-SUVWATH
-SUVWH
-SVWATAUAVAWH
-SVWATAUH
-SVWATH
+S;uD
 SYSTEM
 SYSTEM 
+S\t?hasFailure@QTextDecoder@@QEBA_NXZ
+S\v?makeEncoder@QTextCodec@@QEBAPEAVQTextEncoder@@V?$QFlags@W4ConversionFlag@QTextCodec@@@@@Z
 Saturday
 September
 Sequence ']]>' not allowed in content.
@@ -1540,67 +1175,58 @@ StartDocument
 StartElement
 Sunday
 SystemFunction036
-T$(HcB
-T$(u:D
-T$0A;
-T$0E3
-T$8Hc
-T$PE3
-T$`D;
-T$pD;
 TerminateProcess
 The standalone pseudo attribute must appear after the encoding.
 Thursday
 Tuesday
-U(HcB
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUAVAWH
-USVWH
 UTF-8
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 Unexpected '
 Unexpected character '%1' in public id literal.
 UnhandledExceptionFilter
 Unknown exception
 Unknown feature %s
 Unsupported XML version.
-VWATAUAVH
-VWATH
-WATAUAVAWH
-WATAUH
-WATAVH
+W\n?isNCName@QXmlUtils@@SA_NAEBVQString@@@Z
 Wednesday
 WideCharToMultiByte
 WriteFile
 XML declaration not at start of document.
-X_^[]
-[ t	H
-[0-9]
+X\n?isNCName@QXmlUtils@@SA_NAEBVQStringRef@@@Z
+Y\n?isNameChar@QXmlUtils@@SA_NVQChar@@@Z
+Y\r?qt_metacall@QBuffer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 [CDATA[
-[a-zA-Z]
 [thunk]:
-\$ UVWATAUAVAWH
-\$ WH
-\$0H;
-\$8L3
-\$8fA
-\$@D+i
-\$@H;
-\$HH;
-\$PfD
-\$`E3
-\$`Ic
-\$`fD
-\$xI;
-]@@8}@L
+\f?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?number@QString@@SA?AV1@HH@Z
+\f?pos@QBuffer@@UEBA_JXZ
+\f?position@QStringRef@@QEBAHXZ
+\f?previousNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?qFree@@YAXPEAX@Z
+\f?qHash@@YAIAEBVQString@@@Z
+\n?isSequential@QIODevice@@UEBA_NXZ
+\n?isSpace@QChar@@QEBA_NXZ
+\n\v?latin1@QLatin1String@@QEBAPEBDXZ
+\r?qRealloc@@YAPEAXPEAX_K@Z
+\r?qWarning@@YAXPEBDZZ
+\r?qt_metacast@QBuffer@@UEAAPEAXPEBD@Z
+\r?read@QIODevice@@QEAA_JPEAD_J@Z
+\t?fromUcs4@QString@@SA?AV1@PEBIH@Z
+\t?fromUnicode@QTextCodec@@QEBA?AVQByteArray@@AEBVQString@@@Z
+\t?fromUnicode@QTextEncoder@@QEAA?AVQByteArray@@AEBVQString@@@Z
+\t?fromUnicode@QTextEncoder@@QEAA?AVQByteArray@@PEBVQChar@@H@Z
+\t?indexIn@QRegExp@@QEBAHAEBVQString@@HW4CaretMode@1@@Z
+\t?indexOf@QString@@QEBAHAEBVQLatin1String@@HW4CaseSensitivity@Qt@@@Z
+\t?indexOf@QString@@QEBAHVQChar@@HW4CaseSensitivity@Qt@@@Z
+\t?insert@QString@@QEAAAEAV1@HAEBV1@@Z
+\t?insert@QString@@QEAAAEAV1@HPEBVQChar@@H@Z
+\t?isChar@QXmlUtils@@SA_NVQChar@@@Z
+\v?left@QString@@QEBA?AV1@H@Z
+\v?length@QByteArray@@QEBAHXZ
+\v?length@QString@@QEBAHXZ
+\v?mid@QString@@QEBA?AV1@HH@Z
 ]]]]><![CDATA[>
-]hHc}pH
 ^<\?xml\s+(version\s*=\s*((['"])[-a-zA-Z0-9_.:]+\3))?\s*(encoding\s*=\s*((['"])[A-Za-z][-a-zA-Z0-9_.]*\6))?\s*\?>
 __based(
 __cdecl
@@ -1618,14 +1244,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
-` AUH
-`.rdata
-`A\_]
-`A]A\_^]
-`A^A]A\_^[]
-`A^A]A\_^][
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1676,12 +1294,14 @@ america
 american
 american english
 american-english
+apos
 australian
 bad exception
 belgian
+bool
 britain
-c AUH
 canadian
+char
 char 
 china
 chinese
@@ -1697,17 +1317,11 @@ cointerface
 const
 const 
 czech
-d	?hasShrunk@QHashData@@QEAAXXZ
-d$ UH
-d$0t5
-d$8E3
-d$8H+
+d\t?hasShrunk@QHashData@@QEAAXXZ
 dddd, MMMM dd, yyyy
 double
 dutch-belgian
 e+000
-eHIcD$
-ePIcD$
 elementById() is not implemented and will always return a null node.
 encoding
 encoding declaration or standalone declaration expected while reading the XML declaration
@@ -1738,11 +1352,6 @@ error triggered by consumer
 extern "C" 
 external parsed general entity reference not allowed in DTD
 external parsed general entity reference not allowed in attribute value
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
-fffffff
 float
 french-belgian
 french-canadian
@@ -1753,12 +1362,8 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
-gfffffffH+
-gfffffffI
-gfffffffL+
 great britain
+h\n?isNull@QString@@QEBA_NXZ
 holland
 hong-kong
 http://trolltech.com/xml/features/report-start-end-entity
@@ -1767,18 +1372,15 @@ http://www.w3.org/2000/xmlns/
 http://www.w3.org/XML/1998/namespace
 http://xml.org/sax/features/namespace-prefixes
 http://xml.org/sax/features/namespaces
+i\n?isNull@QStringRef@@QEBA_NXZ
+int 
 internal general entity reference not allowed in DTD
 invalid name for processing instruction
 irish-english
 italian-swiss
-l$ D!
-l$ VWATAVAWH
-l$ WH
-l$(LcnlL
-l$@@2
-l$@E3
-l$HD)h
+kU'9
 letter is expected
+long
 long 
 more than one document type definition
 new-zealand
@@ -1786,10 +1388,8 @@ no error occurred
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
+o\n?isOpen@QIODevice@@QEBA_NXZ
 operator
-p WATAUAVAWH
-p WATAUH
-pA^A]A\_^[]
 portuguese-brazilian
 pr china
 pr-china
@@ -1797,9 +1397,8 @@ private:
 protected: 
 public: 
 puerto-rico
+quot
 recursive entities
-s WATAUAVAWH
-s\HcL$HH
 short
 short 
 signed 
@@ -1834,59 +1433,10 @@ std::nullptr_t
 struct 
 swedish-finland
 swiss
-t D;`
-t D;a
-t H;AHt
-t$ @80
-t$ ATH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$@3EH
-t$@H9
-t$@H91u"
-t$D;i
-t$HfA
-t$PH;
-t$PH;]
-t$XIc
-t$\Ic
-t'D;a
-t'ffffff
-t*HcO
-t/fff
-t0<@t
-t0H9E
-t0ffff
-tDffff
-tGfff
-tO<_t<<$t8<<t4<>t0<-t,<a|
 tag mismatch
-tb<A|M<P
 template-parameter-
 tier0.dll
-tmfffff
-tnLcV
 trinidad & tobago
-u	A!A
-u"E9Q t
-u#HcE
-u#HcF
-u'D;x
-u1fff
-u5E9Q t
-u5HcE
-u8HcE
-u@HcF
-uC<<u?
-uHHcF
-uNM9u
-uPHcF
-uQI91tLH
-u_D9u
-uh<<ud
-umHcE
 unexpected character
 unexpected end of file
 union 
@@ -1899,40 +1449,16 @@ version
 version expected while reading the XML declaration
 version='
 virtual 
+void
 void 
 volatile
 volatile 
 wchar_t
 wrong value for standalone declaration
-x ATAUAVH
-x ATAUAWH
-x ATH
-xA_A^A]A\_^[]
-x_^][
 xmlns
 z?aUY
+z\n?isPublicID@QXmlUtils@@SA_NAEBVQString@@@Z
 zc%C1
-zux!l$ E3
 {flat}
 {for 
-|$ ATAUAVH
-|$ ATH
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$0Hc
-|$0t#H
-|$8HcF
-|$@-D
-|$@-H
-|$@H99u
-|$@H99u"
-|$HfA
-|$PH99u"
-|$Xff
-};ffff
-}HHcA(L
-}Pfff
-~/8\$vt)H
-~ID;c
+|\v?metaObject@QBuffer@@UEBAPEBUQMetaObject@@XZ

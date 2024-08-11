@@ -1,9 +1,4 @@
-	!s99
-	?indexOf@QString@@QEBAHAEAVQRegExp@@H@Z
-	?installEventFilter@QObject@@QEAAXPEAV1@@Z
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
- %41g
  (?setColumnWidth@QTableView@@QEAAXHH@Z
  (repeat)
  ?palette@QWidget@@QEBAAEBVQPalette@@XZ
@@ -12,30 +7,11 @@
  ?parent@QStandardItemModel@@UEBA?AVQModelIndex@@AEBV2@@Z
  ?parentWidget@QAction@@QEBAPEAVQWidget@@XZ
  ?parentWidget@QWidget@@QEBAPEAV1@XZ
- A]_^][
- A^][
- A^_]
- A^_^
- A_A^A\
- A_A^A\][
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_H
- A_A^A]A\_^]
- A_A^_
- A_^]
- A__]
- A__^
  DOUBLE_CLICK
- Hc9H
- HcyH3
- Lcq83
  PRESS
  RELEASE
  REPEAT
- [%1]
- vJH+
-!hn7!
+!\r?canFetchMore@QSortFilterProxyModel@@UEBA_NAEBVQModelIndex@@@Z
 "?qt_metacall@QPushButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QSortFilterProxyModel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QSplitter@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -52,8 +28,6 @@
 "?qt_metacall@QWidgetAction@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacast@QAction@@UEAAPEAXPEBD@Z
 "?qt_metacast@QDialog@@UEAAPEAXPEBD@Z
-"pA3Q
-#%3[%2] %1
 #+?setModel@QListWidget@@EEAAXPEAVQAbstractItemModel@@@Z
 #?qt_metacast@QHBoxLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
@@ -69,15 +43,13 @@ $?reload@QTextBrowser@@UEAAXXZ
 $?removeAction@QWidget@@QEAAXPEAVQAction@@@Z
 $?removeColumns@QSortFilterProxyModel@@UEAA_NHHAEBVQModelIndex@@@Z
 $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
+$\r?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
 %+?setModel@QTableView@@UEAAXPEAVQAbstractItemModel@@@Z
 %/?size@QWidget@@QEBA?AVQSize@@XZ
-%1	%2
 %1 -> %2 (%3)
-%1 = '%2'
 %1 [W = %2, C = %3, Instance = %4, Mode = %5]
-%1 children: 
-%1 properties: 
-%1: %2
+%1 children: \n
+%1 properties: \n
 %?removeRows@QSortFilterProxyModel@@UEAA_NHHAEBVQModelIndex@@@Z
 %?removeRows@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 %?resizeEvent@QTextEdit@@MEAAXPEAVQResizeEvent@@@Z
@@ -89,11 +61,11 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 %?rowCount@QStandardItemModel@@UEBAHAEBVQModelIndex@@@Z
 %f %f %f %f
 %i %i %i %i
-%s.%s
-%s: string format requested %d chars
+%lld
+%llu
+%s: string format requested %d chars\n
 &"?qt_metacall@QAction@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 &+?setModel@QTableWidget@@EEAAXPEAVQAbstractItemModel@@@Z
-&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsAboutToBeRemoved@QListView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsInserted@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsInserted@QListView@@MEAAXAEBVQModelIndex@@HH@Z
@@ -111,21 +83,13 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 &?selectionChanged@QTableView@@MEAAXAEBVQItemSelection@@0@Z
 &?selectionCommand@QAbstractItemView@@MEBA?AV?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@AEBVQModelIndex@@PEBVQEvent@@@Z
 &?selectionStart@QTextCursor@@QEBAHXZ
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-'":|;
+&\v?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 '#?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
-',=?k
 '-?setStatusTip@QWidget@@QEAAXAEBVQString@@@Z
 '?setAcceptRichText@QTextEdit@@QEAAX_N@Z
 '?setBrush@QPainter@@QEAAXAEBVQBrush@@@Z
 '?setBrush@QPalette@@QEAAXW4ColorGroup@1@W4ColorRole@1@AEBVQBrush@@@Z
-( %1, %2 )
 ( %1, %2, %3, %4% )
-(*%s*), 
 (8?visualRect@QListView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
 (?setColumnCount@QStandardItemModel@@QEAAXH@Z
 (?setColumnCount@QTableWidget@@QEAAXH@Z
@@ -136,22 +100,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 (?setDefaultAction@QToolButton@@QEAAXPEAVQAction@@@Z
 (?setDefaultSectionSize@QHeaderView@@QEAAXH@Z
 (?setDefaultWidget@QWidgetAction@@QEAAXPEAVQWidget@@@Z
-(A_A\_[
-(A_A\_^][
-(A_A^
-(A_A^A]A\
-(A_A^_^][
-(D$0H
-(D$`H
 (None)
-(f*^[0
-(t$ H
-(t$ L
-(t$0H
-(t$@H
-(|$0H
-(|$@D
-(|$@H
 )</font></p>
 )?setEditTriggers@QAbstractItemView@@QEAAXV?$QFlags@W4EditTrigger@QAbstractItemView@@@@@Z
 )?setEnabled@QWidget@@QEAAX_N@Z
@@ -164,23 +113,12 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 )?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z
 )?setHeaderData@QSortFilterProxyModel@@UEAA_NHW4Orientation@Qt@@AEBVQVariant@@H@Z
 )?setHeaderData@QStandardItemModel@@UEAA_NHW4Orientation@Qt@@AEBVQVariant@@H@Z
-)D$0H
-)t$ H
-)t$ I
-)t$0L
-)t$@%
-)t$PH
-)t$pE
-)t$pH
-)|$@L
-)|$pD
 * Rehandling active codes
 * { font-size: 10px }
 *#?qt_metacast@QLineEdit@@UEAAPEAXPEBD@Z
 *'?setActiveAction@QMenu@@QEAAXPEAVQAction@@@Z
 **?setIcon@QAbstractButton@@QEAAXAEBVQIcon@@@Z
 *8?visualRect@QTableView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
-*9Z9N
 *?setHorizontalHeaderLabels@QStandardItemModel@@QEAAXAEBVQStringList@@@Z
 *?setHorizontalHeaderLabels@QTableWidget@@QEAAXAEBVQStringList@@@Z
 *?setItemWidget@QListWidget@@QEAAXPEAVQListWidgetItem@@PEAVQWidget@@@Z
@@ -198,15 +136,9 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 +?setPlainText@QTextEdit@@QEAAXAEBVQString@@@Z
 +?setPointSize@QFont@@QEAAXH@Z
 +?setPos@QCursor@@SAXHH@Z
-+A$Hc
-+B$Hc
-+C$Hc
-+F$Hc
-+G$Hc
-+Xt@(
-+o'q)}
++\f?objectName@QObject@@QEBA?AVQString@@XZ
++inf
 ,#?qt_metacast@QListWidget@@UEAAPEAXPEBD@Z
-,0<	w
 ,?setSelection@QListView@@MEAAXAEBVQRect@@V?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@@Z
 ,?setSelection@QTableView@@MEAAXAEBVQRect@@V?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@@Z
 ,?setSelectionBehavior@QAbstractItemView@@QEAAXW4SelectionBehavior@1@@Z
@@ -215,8 +147,6 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ,?setSortingEnabled@QTableView@@QEAAX_N@Z
 ,?setSource@QTextBrowser@@UEAAXAEBVQUrl@@@Z
 ,?setSourceModel@QSortFilterProxyModel@@UEAAXPEAVQAbstractItemModel@@@Z
-,W5y+
-,u*Ic>A;~
 - Add Active Code: %s
 - Remove Active Code: %s
 -*?setIcon@QMenu@@QEAAXAEBVQIcon@@@Z
@@ -233,6 +163,8 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 -?setToolTip@QTableWidgetItem@@QEAAXAEBVQString@@@Z
 -?setToolTip@QWidget@@QEAAXAEBVQString@@@Z
 -?setUnderline@QFont@@QEAAX_N@Z
+-avx
+-inf
 -sse2
 -sse3
 -sse4
@@ -345,6 +277,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
@@ -358,12 +291,11 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
@@ -375,6 +307,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 /?standardIconImplementation@QWindowsXPStyle@@IEBA?AVQIcon@@W4StandardPixmap@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
 /?startDrag@QAbstractItemView@@MEAAXV?$QFlags@W4DropAction@Qt@@@@@Z
 /?startDrag@QListView@@MEAAXV?$QFlags@W4DropAction@Qt@@@@@Z
+/\v?addMenu@QMenu@@QEAAPEAVQAction@@PEAV1@@Z
 0#?qt_metacast@QMenu@@UEAAPEAXPEBD@Z
 00000000-0000-0000-0000-000000000000
 0?staticMetaObject@QAction@@2UQMetaObject@@B
@@ -383,31 +316,11 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 0?staticMetaObject@QTextEdit@@2UQMetaObject@@B
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
 0?staticMetaObject@QWindowsXPStyle@@2UQMetaObject@@B
-0A\_]
-0A^A\_
-0A^^[
-0A^_[
-0A^_^
-0A_A]A\_]
-0A_A]]
-0A_A^A\
-0A_A^A\_^][
-0A_A^A]A\]
-0A_A^A]_^
-0A_A^]
-0A_A^^
-0A_A^^H
-0A_A^_
-0A__]
-0A__^
-0D8aDt
-0w0c1
 0x%016llX
+0x%p
 0x%p = %s '%s'
-0}0i1
 1*?setIcon@QTableWidgetItem@@QEAAXAEBVQIcon@@@Z
 1/?sizeHint@QAbstractScrollArea@@UEBA?AVQSize@@XZ
-130801120000Z
 1?statusTip@QAction@@QEBA?AVQString@@XZ
 1?styleChange@QWidget@@MEAAXAEAVQStyle@@@Z
 1?styleSheet@QWidget@@QEBA?AVQString@@XZ
@@ -428,54 +341,28 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 1setFilterWildcard(QString)
 2,?setReadOnly@QLineEdit@@QEAAX_N@Z
 2.?setVisible@QDialog@@UEAAX_N@Z
-210429000000Z
-211007000000Z
-220323000000Z
-220329000000Z
-220506232042Z0/
-241009235959Z0a1
 2?supportedDropActions@QListWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QSortFilterProxyModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QStandardItemModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
 2?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z
 2?text@QAction@@QEBA?AVQString@@XZ
 2?text@QLineEdit@@QEBA?AVQString@@XZ
 2?textCursor@QTextEdit@@QEBA?AVQTextCursor@@XZ
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
 2OnDownPressed()
 2aboutToShow()
 2anchorClicked(QUrl)
 2clicked()
 2focusChanged( QWidget *, QWidget * )
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
 2textChanged()
 2textChanged(QString)
 2triggered()
-2xJK7*L
 3-?setStretchLastSection@QHeaderView@@QEAAX_N@Z
 3/?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ
 30?staticMetaObject@QDialog@@2UQMetaObject@@B
-330314235959Z0L1
-33333333H+
-360428235959Z0i1
-370322235959Z0c1
-380115120000Z0b1
 38?warning@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z
 3?toolTip@QAction@@QEBA?AVQString@@XZ
-3mq+<
 4,?setReadOnly@QTextEdit@@QEAAX_N@Z
-5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
-6*f(_
 63?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
-6I]Dc
-6OB,n_
-6lyZk
 7%?reset@QAbstractItemView@@UEAAXXZ
 7)?setFamily@QFont@@QEAAXAEBVQString@@@Z
-70503
 7?type@QStandardItem@@UEBAHXZ
 7?updateGeometries@QListView@@MEAAXXZ
 7?updateGeometries@QTableView@@MEAAXXZ
@@ -485,7 +372,6 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 7?verticalScrollbarAction@QAbstractItemView@@MEAAXH@Z
 7?verticalScrollbarAction@QTableView@@MEAAXH@Z
 7?verticalScrollbarValueChanged@QAbstractItemView@@MEAAXH@Z
-7HcD$P
 8?viewOptions@QListView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewOptions@QTableView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewportEvent@QAbstractItemView@@MEAA_NPEAVQEvent@@@Z
@@ -496,26 +382,6 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 8?windowActivationChange@QWidget@@MEAAX_N@Z
 8?write@QStandardItem@@UEBAXAEAVQDataStream@@@Z
 8?write@QTableWidgetItem@@UEBAXAEAVQDataStream@@@Z
-8A_A\
-8A_A^
-8A_A^A]A\_^[]
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
-9)~vH
-92~tH
-99C }
-99~-H
-99~CH
-99~DH
-99~HH
-9C |K
-9Q8u	D9AHu
-9Y(~@
-9_p~$
-9iP~TE3
-9k8u&H
-9|$0~<H
-:Hc{h;{xu
 :help
 :help_ref
 :name_ref
@@ -523,26 +389,13 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 :shorthelp_ref
 ;"?qt_metacall@QDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ;/?sizeHint@QDialog@@UEBA?AVQSize@@XZ
-;A ~W
-;D$0u
-;D$@@
-;D$`u
-;L$0u
-;l$0|
-;w u	H
-;|$@|
-<	u"H
 <!-- schema 
 <%?reset@QListView@@UEAAXXZ
 <(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>
 <-?setStyle@QFont@@QEAAXW4Style@1@@Z
-</%1>
 </font>
 </font><br>
-</h2>
-<0:08
 <3?timerEvent@QListView@@MEAAXPEAVQTimerEvent@@@Z
-<< none >>
 <NONE>
 <NULL>
 <a href='%1'>%2</a>
@@ -559,8 +412,6 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 <td align='right'><font color=orange>[%s]</font></td>
 <unconnected>
 =*?setIconSize@QToolBar@@QEAAXAEBVQSize@@@Z
-=rIQU
->Mp$d
 ?.?setVisible@QWidget@@UEAAX_N@Z
 ?3?timerEvent@QMenu@@MEAAXPEAVQTimerEvent@@@Z
 ??0QAction@@QEAA@PEAVQObject@@@Z
@@ -701,68 +552,21 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@PEADV?$CUtlMemory@PEADH@@@@@Z
 ?V_UnicodeLength@@YAHPEBD@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-?accept@QDialog@@UEAAXXZ
-?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QToolBar@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QToolButton@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
-?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
-?activateWindow@QWidget@@QEAAXXZ
-?activeModalWidget@QApplication@@SAPEAVQWidget@@XZ
-?activePopupWidget@QApplication@@SAPEAVQWidget@@XZ
-?activeWindow@QApplication@@SAPEAVQWidget@@XZ
-?addAction@QToolBar@@QEAAPEAVQAction@@AEBVQIcon@@AEBVQString@@PEBVQObject@@PEBD@Z
-?addAction@QWidget@@QEAAXPEAVQAction@@@Z
 ?addGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
-?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
-?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
-?addMenu@QMenu@@QEAAPEAVQAction@@PEAV1@@Z
-?addSpacing@QBoxLayout@@QEAAXH@Z
-?addStretch@QBoxLayout@@QEAAXH@Z
-?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QSplitter@@QEAAXPEAVQWidget@@@Z
-?alphaF@QColor@@QEBANXZ
 ?append@?$QVector@VQPoint@@@@QEAAXAEBVQPoint@@@Z
 ?append@QListData@@QEAAPEAPEAXXZ
 ?append@QString@@QEAAAEAV1@AEBV1@@Z
-?appendRow@QStandardItemModel@@QEAAXAEBV?$QList@PEAVQStandardItem@@@@@Z
 ?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
 ?arg@QString@@QEBA?AV1@NHDHAEBVQChar@@@Z
 ?arg@QString@@QEBA?AV1@_JHHAEBVQChar@@@Z
 ?arg@QString@@QEBA?AV1@_KHHAEBVQChar@@@Z
-?atEnd@QTextCursor@@QEBA_NXZ
-?backward@QTextBrowser@@UEAAXXZ
-?beep@QApplication@@SAXXZ
-?beginEditBlock@QTextCursor@@QEAAXXZ
 ?blockSignals@QObject@@QEAA_N_N@Z
-?blue@QColor@@QEBAHXZ
-?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
 ?buddy@QAbstractItemModel@@UEBA?AVQModelIndex@@AEBV2@@Z
-?buddy@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
 ?canFetchMore@QAbstractItemModel@@UEBA_NAEBVQModelIndex@@@Z
-?canFetchMore@QSortFilterProxyModel@@UEBA_NAEBVQModelIndex@@@Z
-?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
-?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QSplitter@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QToolBar@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QToolButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
-?checkStateSet@QAbstractButton@@MEAAXXZ
-?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QSplitter@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QToolBar@@MEAAXPEAVQChildEvent@@@Z
 ?children@QObject@@QEBAAEBV?$QList@PEAVQObject@@@@XZ
-?clear@QListWidget@@QEAAXXZ
-?clear@QMenu@@QEAAXXZ
-?clear@QStandardItemModel@@QEAAXXZ
 ?clone@QStandardItem@@UEBAPEAV1@XZ
 ?clone@QTableWidgetItem@@UEBAPEAV1@XZ
 ?close@QWidget@@QEAA_NXZ
@@ -961,7 +765,6 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ?isIndexHidden@QListView@@MEBA_NAEBVQModelIndex@@@Z
 ?isIndexHidden@QTableView@@MEBA_NAEBVQModelIndex@@@Z
 ?isNull@QTextCursor@@QEBA_NXZ
-?isWidgetType@QObject@@QEBA_NXZ
 ?item@QListWidget@@QEBAPEAVQListWidgetItem@@H@Z
 ?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z
 ?itemData@QAbstractProxyModel@@UEBA?AV?$QMap@HVQVariant@@@@AEBVQModelIndex@@@Z
@@ -993,9 +796,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ?mapSelectionToSource@QSortFilterProxyModel@@UEBA?AVQItemSelection@@AEBV2@@Z
 ?mapToGlobal@QWidget@@QEBA?AVQPoint@@AEBV2@@Z
 ?mapToSource@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
-?match@QAbstractItemModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
 ?match@QSortFilterProxyModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
-?matchedLength@QRegExp@@QEBAHXZ
 ?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ
 ?mergeCharFormat@QTextCursor@@QEAAXAEBVQTextCharFormat@@@Z
 ?metaObject@QDialog@@UEBAPEBUQMetaObject@@XZ
@@ -1079,15 +880,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ?nextCheckState@QAbstractButton@@MEAAXXZ
 ?nextCheckState@QToolButton@@MEAAXXZ
 ?nextInFocusChain@QWidget@@QEBAPEAV1@XZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
-?objectName@QObject@@QEBA?AVQString@@XZ
 ?openUrl@QDesktopServices@@SA_NAEBVQUrl@@@Z
-?parent@QObject@@QEBAPEAV1@XZ
-?path@QUrl@@QEBA?AVQString@@XZ
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
-?qFree@@YAXPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?registerType@QMetaType@@SAHPEBDP6AXPEAX@ZP6APEAXPEBX@Z@Z
 ?removeGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
 ?revert@QAbstractItemModel@@UEAAXXZ
@@ -1114,72 +907,7 @@ $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
 ?trimmed@QString@@QEBA?AV1@XZ
 ?userType@QVariant@@QEBAHXZ
 ?vmdlkeys0
-@.data
-@.tls
-@8-L:
-@81u/H
-@85T,
-@8s0u
-@8sDt
-@8sDu
-@8sDu'E3
-@A^A]A\
-@A^A]A\^]
-@A^_^][
-@A_A^A\_^
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^A]A\_^]
-@A_A^[
-@A_A^^
-@A_A^_
-@Lc:E3
-@Lcqh3
-@SAVAWH
-@SAVH
-@SUAVH
-@SUVH
-@SUVWATAVAWH
-@SUVWH
-@SUWH
-@SVAVH
-@SVWAUAVAWH
-@SVWH
-@SWAVH
-@UATAUAVAWH
-@UATAUAWH
-@UAUAWH
-@UAUH
-@UAVAWH
-@UAWH
-@USAVH
-@USAWH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAWH
-@USVWH
-@USWH
-@UVAWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@UWAVH
-@UWAWH
-@VAVAWH
-@WATAVH
-@WATH
 A'?setAlignment@QTextOption@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-A(I;E
-A+F$D
-A+G$E
-A0I;E
-A8H	P(
-A;@`}
-A;A`}
-A;Q`}
-A;oP|
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
 AE_CL_ADD_PARTICLE_EFFECT_CP
@@ -1214,39 +942,15 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVAWH
-ATAUAVH
-ATAVH
-ATAWH
-AVAWH
-A]A\_^]
-A^A\_^[]
-A^A]A\][
-A^A]A\_]
-A^A]^]
-A^A]_^[]
-A_A]A\]
-A_A^A\_]
-A_A^A\_^[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]^]
-A_A^A]_^[
-A_A^]
-A_A^^
-A_A^_
-A__^[]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 About...
 AbsolutePoseControl
 AcquireSRWLockExclusive
 Active Window Widget
 AddLayer
 Address
-AjEB#AZ
 Align
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -1278,7 +982,7 @@ AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
-Attempting to register the command %s for context %s multiple times
+Attempting to register the command %s for context %s multiple times\n
 Attribute.%s.%s
 AutoLayer
 B,?setRenderHint@QPainter@@QEAAXW4RenderHint@1@_N@Z
@@ -1306,8 +1010,7 @@ Bad header: unrecognized encoding id
 BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
-Begin mouse capture [%i]: %s
-Bellevue1
+Begin mouse capture [%i]: %s\n
 BenchmarkService001
 BentNormalData
 BinaryProperties_GetValue
@@ -1318,21 +1021,17 @@ BlendLayerPoseParam
 BlendList
 BodyGroup
 BodyGroupChoice
+Bone
 Break
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-C(D94(
-C(I;A
-C09C u
-C0I;A
-C8H!o
 CAnimMotorList
 CAnimMovementManager
 CAuthPhysJoint
 CGlobalConfigValueRegistry::HookUpConfigValue
 CGlobalHotkeyCommands
-CInputBindManager::HandleInputCode recursion depth got too deep.
+CInputBindManager::HandleInputCode recursion depth got too deep.\n
 CKV3FormatManager::RegisterFormatConversion
 CMemAllocSystemInitialize
 COLLISION_MODE_INITIAL_TRACE_DOWN
@@ -1363,9 +1062,9 @@ CQTabbedStyle
 CQTextEditSuppressShortcuts
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<char const *,struct CQInputBindEditor::BindingContextInfo_t *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,struct CQInputBindEditor::BindingContextInfo_t *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,struct CQInputBindEditor::BindingContextInfo_t *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
 CUtlString::FormatV
 C_INIT_AddVectorToVector
@@ -1458,6 +1157,7 @@ Cannot Edit Help
 Cannot follow asset reference - no tools.
 Cannot register same format from/to a KV3 conversion (from '%s' to '%s')
 CapToggle
+Caps
 Children
 Class
 Clear History
@@ -1471,9 +1171,9 @@ Command.%s.%s
 CommandLine
 CommandProcedure
 CommandProcedureList
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -1481,100 +1181,12 @@ Context
 Context Name:
 Courier
 CreateInterface
+Ctrl
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D$ !>;
-D$ E3
-D$ H;
-D$ N&B:H
-D$ P-
-D$ d=
-D$ r|
-D$(@8;t
-D$(E3
-D$(H;
-D$(Hc
-D$0E3
-D$0H3L$0H3
-D$0I;
-D$0mp
-D$0r|
-D$0t?
-D$8+C$H
-D$8A;
-D$8E3
-D$8H;
-D$8HcH
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@E3
-D$@Lc
-D$@mp
-D$@r|
-D$BE3
-D$DE3
-D$FE3
-D$HE3
-D$HH;
-D$P"ZF
-D$PE3
-D$PIc
-D$Pk@_aH
-D$Pmp
-D$RE3
-D$VIc
-D$XE3
-D$XH;
-D$ZE3
-D$`@2
-D$`E#
-D$`E3
-D$`H;
-D$`Ll
-D$`r|
-D$dE3
-D$hE3
-D$p 69
-D$p<L{
-D$pHK8
-D$pL;
-D$x*>
-D+D$dA
-D+L$`E
 D3?timerEvent@QTableView@@MEAAXPEAVQTimerEvent@@@Z
-D8*u A
-D8-!{
-D8-!~
-D8-#x
-D8-$n
-D8-&}
-D8-4o
-D8-=p
-D8-Nq
-D8-[r
-D8-fv
-D8-hs
-D8-kl
-D8-kt
-D8-ry
-D8-s|
-D8-t{
-D8-t~
-D8-uu
-D8-u}
-D8-vx
-D8-xm
-D8-zw
-D8-{z
-D80u$H
-D8?tnH
 D8?wheelEvent@QAbstractScrollArea@@MEAAXPEAVQWheelEvent@@@Z
-D8kDu
-D9u@~AA
-D;C }
-D;xP|
-D;|$P
-D;}P|
+DEMO
 Debug Focus Widget
 Debug Widget Under Mouse
 DebugTextureInfo001
@@ -1583,23 +1195,16 @@ DebugWidgetUnderMouse
 DebugWidgetWithFocus
 Decompression failure
 Default
-DigiCert Inc1
-DigiCert Timestamp 2022 - 20
-DigiCert Trusted Root G40
-DigiCert, Inc.1$0"
-DigiCert, Inc.1;09
-DigiCert, Inc.1A0?
 DisableThreadLibraryCalls
 Discard your changes to this help entry?
 Discard?
 DotaCardGameClient_001
 Double-register of KV3 conversion (from '%s' to '%s')
+Down
 DynamicConfigList
-E(HcH
 E-?setStyleSheet@QWidget@@QEAAXAEBVQString@@@Z
-E;~(H
-ERROR: Failed to open file for key bindings:
-ERROR: Failed to read key bindings from:
+ERROR: Failed to open file for key bindings:\n%1\n
+ERROR: Failed to read key bindings from:\n%1\n
 EXEC-BEGIN (UNSUPRESSED): %s
 EXEC-BEGIN-MODIFIER: %s
 EXEC-BEGIN: %s
@@ -1615,12 +1220,10 @@ Edit this help entry
 EditorDynamicConfig
 Element.%s
 EmptyAnim
-End mouse capture [%i] due to hidden widget
-End mouse capture [%i]: %s
+End mouse capture [%i] due to hidden widget\n
+End mouse capture [%i]: %s\n
 EngineServiceMgr001
 Enter
-Eo9Gt
-Eo;Gt
 EventSystem001
 Expanding
 Expected "="after member '%s'
@@ -1641,13 +1244,13 @@ Expected type of next member
 Expected value or ']'
 F.?setWeight@QFont@@QEAAXH@Z
 F3?timerEvent@QTextEdit@@MEAAXPEAVQTimerEvent@@@Z
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 Failed to assign bool literal value
-Failed to find help file '%s' - new help will be written to '%s'
-Failed to find help file '%s' and no search paths found. Help changes will not be written to disk.
-Failed to find mod help file '%s' (%s) - new help will be written to '%s'
-Failed to load bindings (%s)
-Failed to load help file '%s'.
+Failed to find help file '%s' - new help will be written to '%s'\n
+Failed to find help file '%s' and no search paths found. Help changes will not be written to disk.\n
+Failed to find mod help file '%s' (%s) - new help will be written to '%s'\n
+Failed to load bindings (%s)\n
+Failed to load help file '%s'.\n
 File:
 Filter:
 Find:
@@ -1664,15 +1267,13 @@ FocusChainDebug_Toggle
 FocusChanged(QWidget*,QWidget*)
 FontManager_001
 Friendly Name:
-G	?handler@QVariant@@1PEBUHandler@1@EB
 G3?timerEvent@QToolButton@@MEAAXPEAVQTimerEvent@@@Z
+GAME
 GAMECONSOLE
 GAMEROOT
-GL$XL
+GCTL
 GSFailure
-GT$XA
-GT$XH
-G\$hH
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -1691,61 +1292,9 @@ GetSystemMetrics
 GetSystemTimeAsFileTime
 GlobalHotkeys
 GlobalTopLevel
-H UAVH
-H UVAUAVH
 H)?setFilterCaseSensitivity@QSortFilterProxyModel@@QEAAXW4CaseSensitivity@Qt@@@Z
-H+\$h+
-H+\$hIc<$H
-H1D$0
-H9,8t
-H9.u?H
-H97t<
-H9k0H
-H9k@H
-H9l$@t
-H9u8t	H
-H9uot	H
-H;\$P|
-HA^A]A\_
-HA_A\
-HH]Qn
 HIGHDPI
 HammerMapLoader001
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc;;{
-Hc>;~
-HcA$H
-HcC$H
-HcD$ H
-HcD$8H
-HcD$XH
-HcD$`H
-HcH<H
-HcI(H
-HcIpH
-HcK ;
-HcKx;
-HcL$ 
-HcL$ H
-HcL$$
-HcL$(
-HcL$P;
-HcMhE3
-HcS@H
-HcT$8IcA
-Hc\$0
-Hc\$@;\$Pu
-Hc]P;]`u
-Hc^8;^Hu
-HckHL
-Hcn(;n8u
-Hcw(;w8u	H
-Hc|$4H
-Hc}PL
-Hc}h;}xu
 Help Display
 Help Editing Disabled!
 Help Editor
@@ -1756,9 +1305,8 @@ HelpSystem
 HelpSystem_001
 HelpSystem_AssociatedContextPointer
 HelpSystem_AssociatedHelpId
+Home
 HostStateMgr001
-Ht4<Xu[
-I A+I
 I!?pos@QCursor@@SA?AVQPoint@@XZ
 IBindTarget
 IHelpChangeListener
@@ -1772,9 +1320,7 @@ IKRigBug
 IKRigSimple
 IQuickTime001
 IToolFrameListener
-Ic4$A;t$
 Ignored
-Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
 IkLockLocal
 InitializeSListHead
 Input Binding Error
@@ -1796,7 +1342,7 @@ InsertItalic
 InsertLink
 InsertUnderlined
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 Invalid compressed buffer size
 Invalid data for member '%s'
@@ -1806,60 +1352,25 @@ Invalid member name '%s'
 InvokeCommand()
 InvokeMiniDumpHandler
 J)?setFilterKeyColumn@QSortFilterProxyModel@@QEAAXH@Z
-J>@G_
 K#?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z
 K/?sizeHint@QLabel@@UEBA?AVQSize@@XZ
 KERNEL32.dll
+KL2H
 KV Conditional Evaluation Error
 Key Bindings
 KeyState
 KeyState[%1]
 KeyValueCache001
-KeyValues Error: %s in file %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues Error: %s in file %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-K}*n:	
-L$ SH
-L$ SWATAWH
-L$ UAVAWH
-L$ USWATAUAVAWH
-L$ WH
-L$ fI
-L$ u*
-L$(fI
-L$0E3
-L$0H;
-L$@E3
-L$@H1D$0
-L$TE3
-L$pE3
 L/?sizeHint@QLineEdit@@UEBA?AVQSize@@XZ
-L9d$ t
-L9d$@t
-L9d$Pt
-L9d$Xt
-L9egt	H
-L9gXu
-L9m(t	H
-L9mot	H
-L9t$`t
-L9u`t	H
-L9ugt	H
-L9{8u
-L?n(Zy&
 LINUX
 LMouse
 LMouseDoubleClick
 LOG_GENERAL
 LOWVIOLENCE
-Lc3D;s
-LcA<E3
-LcCPH
-LcL$`H
-LcT$p3
-Lc\$XH
-Lcl$ A
-Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
+Left
 Line %d at "%s": %s
 Line %d: %s
 Line %d: Invalid literal value "%s"
@@ -1873,8 +1384,6 @@ LoggingSystem_RegisterLoggingChannel
 LrwcE
 M8?wheelEvent@QMenu@@MEAAXPEAVQWheelEvent@@@Z
 MATCHFRAMEWORK_001
-MB(iVR
-MLc3D;s
 MMouse
 MMouseDoubleClick
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
@@ -1887,14 +1396,8 @@ MapListService_001
 MaterialUtils_001
 MathLib_Init
 Maximum
-Mc>Hc
-McGHH
-McJlM
-McXlM
 MeshSystem001
 MeshUtils001
-Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
-Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0>
 MinSize
 MinSizeHint
 Minimum
@@ -1904,7 +1407,8 @@ Mouse4
 Mouse4DoubleClick
 Mouse5
 Mouse5DoubleClick
-N&B:H
+NULL
+Name
 NavSystem001
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -1926,6 +1430,16 @@ No Widget Under Mouse @(%1,%2)
 No active help entry to edit.
 No valid format conversion from '%s' to '%s'
 NoPoseControl
+Num0
+Num1
+Num2
+Num3
+Num4
+Num5
+Num6
+Num7
+Num8
+Num9
 NumAdd
 NumDec
 NumDiv
@@ -1934,8 +1448,7 @@ NumMul
 NumSub
 NumToggle
 O'?setAlternatingRowColors@QAbstractItemView@@QEAAX_N@Z
-O(t(H
-O8+G$
+O\f?backward@QTextBrowser@@UEAAXXZ
 Offset
 OnAbout()
 OnAnchorClicked(QUrl)
@@ -1944,20 +1457,14 @@ OnEditButtonClicked()
 OnEditTextChanged()
 OnShowDocumentationWebpage()
 OnShowKeyBindings()
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 P/?sizeHint@QMenu@@UEBA?AVQSize@@XZ
 P8?wheelEvent@QTextEdit@@MEAAXPEAVQWheelEvent@@@Z
-P8I9D$
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA\][
-PA_A]]
-PA_A^A]A\]
-PA_A^]
-PAq=?Mp#
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -1975,7 +1482,8 @@ PanoramaUIClient001
 PanoramaUIEngine001
 ParticleSystemMgr003
 PerformHelpAction(QString)
-Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+PgDn
+PgUp
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
 PhysicsBoneMarkup
@@ -2002,6 +1510,7 @@ Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
 Plat_UUIDFromString
 Plat_UUIDToString
+Po5H
 Position
 PostProcessingSystem_001
 Preferred
@@ -2012,7 +1521,6 @@ PreviewPreset
 PreviewPresetList
 Properties
 PropertyEditorSystem_001
-Pz}b!
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
 QIcon
 QToolBar { border: 0px }
@@ -2022,6 +1530,7 @@ QueryPerformanceCounter
 QueuedLoaderVersion001
 RMouse
 RMouseDoubleClick
+RSDS\fzx
 RecursiveLoadFromBuffer:  got EOF instead of keyname
 RecursiveLoadFromBuffer:  got NULL key
 RecursiveLoadFromBuffer:  got conditional between key and value
@@ -2029,7 +1538,7 @@ RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
 Reference Help (from code/fgd):
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Release
 ReleaseSRWLockExclusive
@@ -2048,23 +1557,10 @@ ResourceSystem013
 Right
 RtlUnwindEx
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
+S+Ot
 S,?setRgb@QColor@@QEAAXHHHH@Z
-S0Q0O
-SA|X=G
 SSE and SSE2 are required.
-SUATAUAVH
-SUATAUH
-SUATAVAWH
-SUATH
-SUAVH
-SUAWH
-SUVWATAWH
-SUVWAUH
-SUVWAVAWH
-SUVWAVH
-SUVWH
-SVATAUH
-SWAVH
+Save
 SceneSystem_002
 SceneUtils_001
 SchemaSystem_001
@@ -2084,6 +1580,7 @@ ShowAllCommandsPopup
 ShowConsole
 ShowFullHelpForBindableCommandUnderMouse
 ShowInputDebugger
+Size
 SizePolicy
 SleepConditionVariableSRW
 SmoothLoop
@@ -2111,18 +1608,6 @@ SteamAudio001
 Stylesheet
 Subtract
 SwitchToEngineWindow
-T$ E3
-T$ Ic
-T$ Lc
-T$0E3
-T$8+G$A
-T$8+G$H
-T$8E3
-T$@+G$A
-T$@E3
-T$@Hc
-T$PE3
-T$pE3
 TestFormatA
 TestFormatB
 TestFormatC
@@ -2143,30 +1628,12 @@ Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
 U#?qt_metacast@QSortFilterProxyModel@@UEAAPEAXPEBD@Z
 U/?sizeHint@QPushButton@@UEBA?AVQSize@@XZ
-UATAUAVAWH
-UAUAWH
-UAVAWH
 UNKNOWN
 UPDATE_STRING_TOKEN_DATABASE
 USER32.dll
-USVWATAUAVAWH
-USVWAUAVH
-USVWH
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVAUAVAWH
-UVAVH
-UVAWH
-UVWATAUAVAWH
-UWATAUAVH
-UWATAUAWH
-UWATAVAWH
-UWAVH
-UWAWH
 Unable to determine buffer encoding.
 Unexpected end of file
-Unknown helpsystem action '%s'
+Unknown helpsystem action '%s'\n
 Unrecognized flag name '%s'
 Unrecognized type '%d'
 Unresolved object reference '%s'
@@ -2174,7 +1641,6 @@ UpdateButtonStatusFromAction()
 UpdateMenu()
 User-Edited Help Override:
 UserInfoChangeService_001
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -2207,10 +1673,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
 V_GetErrno
 V_GetRtSupportFunctions
 V_IsAbsolutePath
@@ -2237,84 +1699,86 @@ V_strtoui64
 V_vscprintf
 V_vsnprintf
 V_vsnprintfSize
-V_~]	,
-Valve Corp.0
-Valve Corp.1
 Vis:0 
 Vis:1 
 VisBuilder_001
 Visit Developer Help URL
 W!?pos@QWidget@@QEBA?AVQPoint@@XZ
-WATAUAVAWH
-WATAUAVH
-WAVAWH
 WIN32
 WINDOWS
 WINXP
+W\f?beep@QApplication@@SAXXZ
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
-Washington1
+Warning:  %s = '%s' is infinite, clamping value.\n
 WeightList
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
-X WAVAWH
-XA]A\][
-XA]A\^[
-X_^][
+X360
+X\v?addSpacing@QBoxLayout@@QEAAXH@Z
 Y#?qt_metacast@QSplitter@@UEAAPEAXPEBD@Z
-Y9"SD
 Yes - Discard Changes
-[%1] %2
+Z\v?addStretch@QBoxLayout@@QEAAXH@Z
 ['?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
-[K]taM?
 [NoWidget]
-\$ ATAVAWH
-\$ H;
-\$ Hi
-\$ Ic
-\$ UH
-\$ UVAWH
-\$ UVWH
-\$ UWATH
-\$ WAVAWH
-\$ WH
-\$(Hc|$ H
-\$(L#
-\$0E3
-\$0L+
-\$8;>
-\$8Hc
-\$8fD
-\$@Hc
-\$HHc
-\$Hta
 \%?resize@QWidget@@QEAAXAEBVQSize@@@Z
 \/?sizeHint@QSplitter@@UEBA?AVQSize@@XZ
+\\f?parent@QObject@@QEBAPEAV1@XZ
+\f?atEnd@QTextCursor@@QEBA_NXZ
+\f?blue@QColor@@QEBAHXZ
+\f?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
+\f?buddy@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?qFree@@YAXPEAX@Z
+\n2?supportedDropActions@QSortFilterProxyModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\n?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QToolBar@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QToolButton@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\n?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
+\n?activateWindow@QWidget@@QEAAXXZ
+\n?activeModalWidget@QApplication@@SAPEAVQWidget@@XZ
+\n?activePopupWidget@QApplication@@SAPEAVQWidget@@XZ
+\n?activeWindow@QApplication@@SAPEAVQWidget@@XZ
+\n?addAction@QToolBar@@QEAAPEAVQAction@@AEBVQIcon@@AEBVQString@@PEBVQObject@@PEBD@Z
+\n?addAction@QWidget@@QEAAXPEAVQAction@@@Z
+\n?isWidgetType@QObject@@QEBA_NXZ
+\nCwf\r
+\r&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
+\r2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\r?checkStateSet@QAbstractButton@@MEAAXXZ
+\r?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QSplitter@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QToolBar@@MEAAXPEAVQChildEvent@@@Z
+\r?clear@QListWidget@@QEAAXXZ
+\r?clear@QMenu@@QEAAXXZ
+\r?clear@QStandardItemModel@@QEAAXXZ
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\t?indexOf@QString@@QEBAHAEAVQRegExp@@H@Z
+\t?installEventFilter@QObject@@QEAAXPEAV1@@Z
+\v2?supportedDropActions@QStandardItemModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\v?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+\v?alphaF@QColor@@QEBANXZ
+\v?appendRow@QStandardItemModel@@QEAAXAEBV?$QList@PEAVQStandardItem@@@@@Z
 ] ?paintEvent@QFrame@@MEAAXPEAVQPaintEvent@@@Z
 ]#?qt_metacast@QStandardItemModel@@UEAAPEAXPEBD@Z
 ]$?question@QMessageBox@@SAHPEAVQWidget@@AEBVQString@@1111HH@Z
 ]%?resize@QWidget@@QEAAXHH@Z
 ],?setRootIndex@QListView@@UEAAXAEBVQModelIndex@@@Z
-]E+*y%Cw
-]J<0"0i3
-]~h*|
 ^,?setRootIndex@QTableView@@UEAAXAEBVQModelIndex@@@Z
 ^8?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ
 _V_ExtractFilePath
 _V_strncat
 _V_strncmp
 _V_strncpy
+_\r?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
 __oldschema_object_name
 __temp_unserialization_member__
 _class
-_gUT^
 _test_conversion_counter
 `*?setItalic@QFont@@QEAAX_N@Z
-`.rdata
-`A_A^A]A\_[]
-`LcA H
 a"?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ai_model_info
 allowstatic
@@ -2346,6 +1810,7 @@ blendamount
 blockLOS
 body_type
 bold text
+bone
 bone_name
 bone_names
 bonemerge
@@ -2354,6 +1819,7 @@ break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 burst_randomize
 burst_scale
 c ?paintEvent@QLineEdit@@MEAAXPEAVQPaintEvent@@@Z
@@ -2386,17 +1852,7 @@ control_point
 create_particle
 d ?paintEvent@QListView@@MEAAXPEAVQPaintEvent@@@Z
 d#?qt_metacast@QSyntaxHighlighter@@UEAAPEAXPEBD@Z
-d$ UAVAWH
-d$ fC
-d$(E3
-d$0E3
-d$8E3
 d$?raise@QWidget@@QEAAXXZ
-d$HHc
-d$XHc
-d$XL9
-d$hE2
-d$hE3
 d%?resizeEvent@QAbstractItemView@@MEAAXPEAVQResizeEvent@@@Z
 d&?screenGeometry@QDesktopWidget@@QEBA?BVQRect@@PEBVQWidget@@@Z
 d/?sizeHint@QToolButton@@UEBA?AVQSize@@XZ
@@ -2413,7 +1869,6 @@ dmg.fire
 duration
 dynamic_interaction
 e*?setItem@QTableWidget@@QEAAXHHPEAVQTableWidgetItem@@@Z
-e,>~^
 edit_this_entry
 ehandle
 emitFromWorld
@@ -2431,87 +1886,63 @@ explosive_damage
 explosive_radius
 f*?setItemData@QAbstractProxyModel@@UEAA_NAEBVQModelIndex@@AEBV?$QMap@HVQVariant@@@@@Z
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
+f\f?beginEditBlock@QTextCursor@@QEAAXXZ
 faceMergeAngle
 false
-ffffff
 filesystem_stdio
 force
 format
 frame
 friction
 g ?paintEvent@QMenu@@MEAAXPEAVQPaintEvent@@@Z
+g\v?match@QAbstractItemModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
 g_pMemAlloc
 game_class
 game_keys
 generic
+glow
 gravity
 h#?qt_metacast@QTableView@@UEAAPEAXPEBD@Z
 h'?setAutoRaise@QToolButton@@QEAAX_N@Z
 h*?setItemData@QStandardItemModel@@UEAA_NAEBVQModelIndex@@AEBV?$QMap@HVQVariant@@@@@Z
 h8?widgetAt@QApplication@@SAPEAVQWidget@@AEBVQPoint@@@Z
-h8gnk
-hA^A\
+h\f?path@QUrl@@QEBA?AVQString@@XZ
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 handindex
 headtype
 health
 health_override
+help
 helpAction
 help_ref
 helpsystem
 helpsystem.dll
 helpsystem:foo
 helpsystemaction
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0X
-http://ocsp.digicert.com0\
-http://www.digicert.com/CPS0
 hurt_me
 hurt_them
 i#?qt_metacast@QTableWidget@@UEAAPEAXPEBD@Z
+i\r?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
 ikdata
 ikrig
 invert_orientation
 is_debris
 italic text
-jj@0HK4
-k ;k0u
+j\v?matchedLength@QRegExp@@QEBAHXZ
 k ?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z
-k HcKX;
 k,?setRowCount@QTableWidget@@QEAAXH@Z
-k0i0$
 k7?update@QWidget@@QEAAXXZ
-k89k ~MH
-k@_aH
-l$ 9Q
-l$ AVH
-l$ D9l$0|LH
-l$ VAVAWH
-l$ VH
-l$ VWAVH
-l$ WH
-l$(E3
-l$0H+
-l$0H9_
-l$0Hc
-l$0Ic
-l$8HcO
-l$@E3
-l$@HcJ
-l$HfA
-l$XA+
-l$XE3
-l$`HcJ
-l$pIc~
-l$tE3
-l$xE3
 l%?resizeEvent@QDialog@@MEAAXPEAVQResizeEvent@@@Z
-l(	4M0qI4l
 l.?setWindowFlags@QWidget@@QEAAXV?$QFlags@W4WindowType@Qt@@@@@Z
 l/?sizeHintForColumn@QAbstractItemView@@UEBAHH@Z
+l\r?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
+lang
 last_sniff
+lcQe
 length
 localize
 lockRotationAlpha
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
@@ -2519,6 +1950,8 @@ looping
 m#?qt_metacast@QTextBrowser@@UEAAPEAXPEBD@Z
 m,?setRowHeight@QTableView@@QEAAXHH@Z
 m/?sizeHintForColumn@QTableView@@MEBAHH@Z
+mXr4
+m\r?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
 m_Bindings
 m_Bone
 m_ChainData
@@ -2650,6 +2083,7 @@ material
 maxHullVertices
 maxVerticesPerHull
 max_angle
+mesh
 meshes
 min_angle
 model_name
@@ -2684,20 +2118,23 @@ modeldoc8
 modeldoc9
 multiplayer_break
 n0?staticMetaObject@QLineEdit@@2UQMetaObject@@B
+n\f"pA3Q
+name
 name_ref
 nav_attribute_avoid
 nav_data
+null
 numsegments
 o.?setWindowIcon@QWidget@@QEAAXAEBVQIcon@@@Z
+o\r?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
+o\v?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 origin_max_delta
 origin_relative
 p"?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 p#?qt_metacast@QTextEdit@@UEAAPEAXPEBD@Z
 p)?setFocus@QWidget@@QEAAXW4FocusReason@Qt@@@Z
 p/?sizeHintForRow@QAbstractItemView@@UEBAHH@Z
-pA__]
 pPrevFocusWidget,pCurrentFocusWidget
-pQ?IU
 parent_bone
 particle
 particles/
@@ -2739,6 +2176,7 @@ sequence_number
 shapeType
 shorthelp
 shorthelp_ref
+size
 source_filename
 spawn_motion_disabled
 speed
@@ -2755,58 +2193,10 @@ stop_on_seq_change
 studio
 suppress
 surface_prop
-t$ A;
-t$ AVH
-t$ AWH
-t$ Mc
-t$ UH
-t$ UWATAUAVH
-t$ UWAVH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$ t4A
-t$(A;
-t$(E3
-t$(ff
-t$0D9t$@|LH
-t$0H;
-t$0Hc^
-t$0Hcsp;
-t$4Hc
-t$8Hc
-t$8HcE
-t$8Ic
-t$8Ic~
-t$8Mc
-t$8f#
-t$@Hc
-t$DHc
-t$HD8{
-t$PE3
-t$XE3
-t$XHcB
-t$`D8
-t$`Hc
-t$`I;
-t$`t	H
-t$hL9ewt	H
-t*D8#t
-t+IcA
-t.@8:t)
-t.A88t)
-t.LcA
-t/@8u
-t/D83t*
-t/HcT$8I
 t0?staticMetaObject@QMenu@@2UQMetaObject@@B
-t0@87t+
-t0@8;t+
-t0D8;t+
-t9H9=
-t]<-u
 test_angles_relative
 testgrid.vmat
+text
 texturescale
 tier0.dll
 tokens
@@ -2830,35 +2220,28 @@ tools/keybindings/global_key_bindings.txt
 tools/keybindings/helpsystem_key_bindings.txt
 tools:images/common/icon_info_sm.png
 tools:images/valve_style/dock_close_button.png
-trD8(tmH
-tu+K$3
+true
 turn_rate
-u	@8=5
 u ?paintEvent@QTableView@@MEAAXPEAVQPaintEvent@@@Z
 u"?qt_metacall@QListWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 u)?setFocusPolicy@QWidget@@QEAAXW4FocusPolicy@Qt@@@Z
 u/?sizePolicy@QWidget@@QEBA?AVQSizePolicy@@XZ
-u98D$`u;H
-u:Hc^
-uAHc^
-uDHc^
-uMHcE
-uT<0uP
-uWHcE
-ufHcE
-unHcy
+u\r?changeEvent@QSplitter@@MEAAXPEAVQEvent@@@Z
+u\v?addWidget@QSplitter@@QEAAXPEAVQWidget@@@Z
 underlined text
 uniform_burst
 use_additional_offset
 v ?paintEvent@QTextBrowser@@MEAAXPEAVQPaintEvent@@@Z
 v#?qt_metacast@QToolBar@@UEAAPEAXPEBD@Z
-v=Y]Bv
 value
 vanmgrph
 version
+vmat
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -2888,28 +2271,18 @@ vpcf9
 vr_carry_type
 vsnap
 vstdlib.dll
-w ;w0u
 w ?paintEvent@QTextEdit@@MEAAXPEAVQPaintEvent@@@Z
 w7?updateEditorData@QAbstractItemView@@MEAAXXZ
 width
-www.digicert.com1!0
-x	HcQ
 x ?paintEvent@QToolBar@@MEAAXPEAVQPaintEvent@@@Z
-x!HcI
-x!HcK
-x";C }
 x#?qt_metacast@QToolButton@@UEAAPEAXPEBD@Z
 x7?updateEditorGeometries@QAbstractItemView@@MEAAXXZ
-x><\#g
-xMHcQ
-xRHcQ
-x]~\6
-x_^][
-xuJE3
+x\r?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
 y ?paintEvent@QToolButton@@MEAAXPEAVQPaintEvent@@@Z
 y"?qt_metacall@QMenu@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 y'?setBackground@QTextFormat@@QEAAXAEBVQBrush@@@Z
 y3?toPlainText@QTextEdit@@QEBA?AVQString@@XZ
+y\r?changeEvent@QToolBar@@MEAAXPEAVQEvent@@@Z
 yaw_end
 yaw_start
 z%?resizeEvent@QSplitter@@MEAAXPEAVQResizeEvent@@@Z
@@ -2918,43 +2291,13 @@ z:KCAuthPhysBody
 {+?setOpenExternalLinks@QTextBrowser@@QEAAX_N@Z
 {-?setText@QAbstractButton@@QEAAXAEBVQString@@@Z
 {YIN?
-{un'%
-{}[]()=&, 	
-{}[]=, 	
-|$ A;
-|$ ATAVAWH
-|$ AVH
-|$ E3
-|$ UATAUAVAWH
-|$ UH
-|$0;}`u
-|$0E3
-|$0Hc
-|$0Ic
-|$0fff
-|$8).H
-|$89X
-|$@Hc
-|$@t	3
-|$HHc7;w
-|$HIc@
-|$PA;^ u
-|$PHc
-|$XIc
-|$`@2
-|$`Lc
-|$`ff
-|$`t	H
-|$hA+
-|$xH;
+{\r?changeEvent@QToolButton@@MEAAXPEAVQEvent@@@Z
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
-|Lu?c
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 }(?setCursorPosition@QLineEdit@@QEAAXH@Z
 }+?setOpenLinks@QTextBrowser@@QEAAX_N@Z
-}IE).>
-}LuHO
-}_t!H
-~!A;~
 ~#?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
 ~-?setText@QAction@@QEAAXAEBVQString@@@Z
-~t&LN
+~\n?accept@QDialog@@UEAAXXZ

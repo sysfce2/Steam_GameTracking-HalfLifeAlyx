@@ -1,59 +1,27 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- 9(X`
- A^][
- A^_^
- A_A^A\
- A_A^A]A\^
- A_A^A]A\_
- A_A^_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- new[]
- tDE3
- vJH+
-!,X< w
-!>6'Y
+ new
 #base
 #base is NULL 
 #include
 #include is NULL 
+%lld
 %s%c%04i%02i%02i-%02i%02i%02i-%s
 %s%cbug.txt
-%s: string format requested %d chars
-&YA1L
+%s: string format requested %d chars\n
+&Sgw
 ( 8PX
-(*%s*), 
-(A_A^
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
 (null)
-(o:R	
-(t$ H
-(t$PH
-)>6{1n
-)t$ H
-)t$pH
 *StO9>T
-+C$Hc
-+M<7>
-+f)>0'
-+h->|
-,/<-w
-,0<	w
-,I<%w
-,|%)v
 .00cfg
 .?AVCBugReporter@@
 .?AVCDefaultKeyValuesErrorSpew@@
@@ -76,12 +44,12 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -92,229 +60,90 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A^^[
-0A^_[
-0A^_^
-0A_A^A\
-0A_A^A]A\_^]
-0A_A^_
-0A_A^_^]
 0iN>/
-0v0b1
 1#IND
 1#QNAN
 1#SNAN
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
-200527200706Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+11Y@
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-80tWD
-8A_A^A]A\_^][
-99C }
-9C |K
-9t$Xt
 ;1#INF
-;=u~H
-;A ~W
-;C ~M
-;D$@@
-;H9>&X
-<	w	@
-< t;<	t7
 <<Invalid>>
 <NULL>
-<htr<jtb<lt6<tt&<wt
+=87M
+=cQ6
 =imb;D
+>cQ6
 >jtm}S
-?*u8H
-?5zlO
 ?7zQ6$
-?:kP<
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?DevMsg@@YAXPEBDZZ
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?UUUUUU
 ?f`Y4
-@.data
-@.gfids
-@.tls
-@8t$p@
-@8|$^t
-@>%>b
-@A^A]A\
-@A^_^
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^_
-@Lc:E3
-@SAVH
-@SUAVH
-@SUVWATAUAVAWH
-@SUVWH
-@SVAVH
-@SVWH
-@SWAVH
-@UATAUAVAWH
-@UATAVH
-@USVWATAUAVAWH
-@USVWAUAVAWH
-@UVWATAUAVAWH
-@VWAVH
-@b;zO]
-@fE9|
-A81t@@8r
-A84.u
-A86taH
-A8Zxt
-A;@X}
-A;BX}
-A;RX}
+?qBJ
+?ysB
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-ATAVAWH
-AVAWH
-A^A\]
-A^_^[]
-A_A^A\
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]_^[]
-A_A^^
-A_A^_
-A_A^_^]
 April
 AreFileApisANSI
+Area
 August
-AuthE
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
 Bad expression token: %c
-Bellevue1
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BugReporter005
 Build
-C-yh/
-C847u
-C8<(u
-CA< t(<#t
 CMemAllocSystemInitialize
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<class CUtlSymbol,class CUtlVector<class CUtlSymbol,class CUtlMemory<class CUtlSymbol,int> > *,unsigned short,bool (__cdecl*)(class CUtlSymbol const &,class CUtlSymbol const &)>::Node_t,unsigned short,class CUtlMap<class CUtlSymbol,class CUtlVector<class CUtlSymbol,class CUtlMemory<class CUtlSymbol,int> > *,unsigned short,bool (__cdecl*)(class CUtlSymbol const &,class CUtlSymbol const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlSymbol,class CUtlVector<class CUtlSymbol,class CUtlMemory<class CUtlSymbol,int> > *,unsigned short,bool (__cdecl*)(class CUtlSymbol const &,class CUtlSymbol const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
 CUtlString::FormatV
 Category
 CloseHandle
 CompareStringEx
 CompareStringW
-Conditional Error: %s
+Conditional Error: %s\n
 Console
 CorExitProcess
 CreateDirectoryW
 CreateEventW
 CreateFileW
 CreateInterface
-D$ E3
-D$(H;
-D$49C
-D$8+C$H
-D$8A;
-D$8L9
-D$@E3
-D$@H+
-D$@H;G
-D$HE3
-D$P I
-D$PA#
-D$PH+
-D$PHc
-D$PI;
-D$`E#
-D$`E3
-D$`H;
-D(8Ht}
-D08@t	
-D18 t
-D82u&H
-D88Ht!
-D88Hte
-D8d$ht
-D8l$ht
-D8t$Ht
-D98Ht;H
-D9|$ 
-D<P0I
-DD$$H
+DEMO
 December
 DeleteCriticalSection
 Description
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DriverInfo
-E+BHI
-E0C07
-E;~(H
-EP*?@
+ET5>
 EnterCriticalSection
 ExitProcess
+FEMh\f
 February
 FindClose
 FindFirstFileExA
@@ -328,7 +157,7 @@ FreeEnvironmentStringsW
 FreeLibrary
 Friday
 GAMECONSOLE
-Genu3
+GCTL
 GetACP
 GetCPInfo
 GetCommandLineA
@@ -354,94 +183,53 @@ GetStartupInfoW
 GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
-H!D$ E
-H!T$0D
-H0F08
-H95kd
-H97t<
-HA_A]A\_^[
 HH:mm:ss
 HIGHDPI
-H_^][
-Hc/;o
-Hc7;w
-Hc;;{
-HcG(H
-HcH<H
-HcS@H
-Hc]`M
-Hc_0L
-Ht)I;
-I96t4H
 InitializeConditionVariable
 InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
 InitializeSListHead
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
 January
-K&>.yC
+July
+June
 KERNEL32.dll
 KV Conditional Evaluation Error
-KeyValues Error: %s in file %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues Error: %s in file %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-K~Je#>!
-L$ SH
-L$ SVWH
-L$ UVWATAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$&@8t$&t0@8q
-L$(E3
-L$0H;
-L$8H3
-L$8Lc
-L$8f;
-L$@H3
-L$DE3
-L$HH3
-L$Hf;
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L;5Te
+L>ev
 LCMapStringEx
 LCMapStringW
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
-Lc3D;s
-Lc7D;w
-LcA<E3
-LcT$p3
 LeaveCriticalSection
 Level
 LevelOwners
-Lj[;>
 LoadFromBuffer: expected '{', found '%s'
 LoadLibraryExW
 LocaleNameToLCID
 LoggingSystem_IsChannelEnabled
-M H1E
 MM/dd/yy
 March
+Misc
 Monday
 MultiByteToWideChar
 NAN(IND)
 NAN(SNAN)
+NULL
 Names
 November
-O(t(H
+OZQ%
 October
 OptionsFile
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orientation
 Owner
 POSIX
@@ -473,10 +261,7 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
-S,, <Zw
-SUVWATAUAVAWH
-SVATAUH
-SVWATAUAWH
+S9>H
 Saturday
 Savegame
 Screenshot
@@ -492,9 +277,6 @@ SleepConditionVariableCS
 Source2
 Submitter
 Sunday
-T$ A;
-T$ Lc
-T$PD+
 TUUUU
 TerminateProcess
 ThreadSleep
@@ -505,24 +287,11 @@ TlsFree
 TlsGetValue
 TlsSetValue
 Tuesday
-T{;TvBT
-UATAUAVAWH
-USVWATAUAVAWH
-USVWAVH
-USVWH
 UTF-16LEUNICODE
 UTF-8
 UUUUUU
-UVWATAUAVAWH
-UVWAVAWH
-UWAVH
 UnhandledExceptionFilter
-V6E>`"(5
-VATAUAVAWH
-VAVAWH
 VBaseFileSystem011
-VWATAVAW
-VWAVH
 V_AddBackSlashesToSpecialChars
 V_GetErrno
 V_SetErrno
@@ -534,10 +303,6 @@ V_strlower_fast
 V_strtod
 V_strtoi64
 V_vsnprintfSize
-Valve0
-Valve1
-WATAUAVAWH
-WAVAWH
 WIN32
 WINDOWS
 WINXP
@@ -548,21 +313,12 @@ Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-Wu4E3
-XA]A\^[
+X/4B
+X360
 [aOni*{
-\$ E3
-\$ H;
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ WH
-\$0E3
-\$0H;
-\$@@8=e
-\$@H;
-\$@f;
 \\bugbait.valvesoftware.com\bugsub\config.txt
+\tcQr
+\tkE>fvw
 ^<V7w
 _V_strncat
 _V_strncmp
@@ -580,8 +336,6 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-`.rdata
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -592,7 +346,6 @@ __vectorcall
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -620,151 +373,47 @@ __vectorcall
 `virtual displacement map'
 abcdefghijklmnopqrstuvwxyz
 alt_config
-bp(=>?g
 bug_directory
 bugreporter repository
 bugreporter_filequeue
 bugreporter_filequeue.dll
-c [1>H'
-c(>\,
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\public\tier1\utlrbtree.h
 c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\bugreporter_filequeue\Retail\win64\bugreporter_filequeue.pdb
-cAMDD
 config_file
-d$ fC
+d8L2
 dddd, MMMM dd, yyyy
 e+000
-e0A_A^A]A\]
-e8A_A^A]A\_^[]
+eF>t
 eLK(w
-entiA
 error
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-ffffff
-fffffff
 g_pMemAlloc
-gfffA
-gfffffffH
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
-ineIA
+h0'D
 invalid_parameter
-iu+-,
-k0i0$
-l$ 9Q
-l$ AVH
-l$ E3
-l$ VWATAVAWH
-l$ WAVAWH
-l$8H+
-l$XE3
+k=yI
 log10
-m0k0$
+mG4>
+m\nXo
 n03>Pu
 nan(ind)
 nan(snan)
 netmask
 network
-ntelE
 obwQ4
 operator
 operator "" 
-ot$ H
-p AWH
-p0n05
-p1f3q>
+owM&
 purecall
-r	Vr.>T
-r:D8v
+r\tVr.>T
 resource/bugreporter.res
 restrict(
-s WAVAWH
-s4+sP+
 source2
-stfE;
-stgE;
-t!McY
-t"<.u
-t$ AVH
-t$ E3
-t$ UH
-t$ WAVAWH
-t$ WH
-t$(I;
-t$0+A$t
-t$0H;
-t$0Hc
-t$8H+
-t$@Hc
-t$PHc
-t$x;_@u
-tPH95
-tY@8p
 tier0.dll
-tu+K$3
-u3HcH<H
-uMHcE
-uT<0uP
-uf!T$(H!T$ 
 username
 uzKs@>
-v0t08
 v2!L.2
 vmc.com
 vstdlib.dll
-w1fA;
-wSfA;
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x A;@X}
-x ATAVAWH
-x AV3
-x AVH
-x AWH
-x*D;0}%H
-x0v0$
-xRHcQ
-xWI96tRI
 xpxxxx
-xuJE3
-y\PD>!
-z0x0:
-|$ ATAVAWH
-|$ AVH
-|$ E3
-|$ UATAUAVAWH
-|$(A^
-|$(I;
-|$0fff
-|$0s-
-|$8;3
-|$@-D
-|$@-H
-|$@H;
-|$@Hc
-|$@L;
-|$@t	3
-|$PA;^ u
-|$PE3
-|$XHc
-|$XL;
-|$\.u
-|$`Ic
-|$`ff
-|b=})>
-};fD;
-}QfA;
-}]fD;
-}_t!H
-~ $s%r

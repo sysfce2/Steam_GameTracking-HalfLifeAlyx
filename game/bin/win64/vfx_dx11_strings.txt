@@ -1,99 +1,48 @@
-						
-								
-																																																																																												
-		%.*s
-	 ();,
-	 The lexer was matching from line %d, offset %d, which
-	 This indicates a poorly specified lexer RULE
-	 or unterminated input element such as: "STRING["]
-	%.*s
-	%s at offset %d, 
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
-      
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
-           Found size %d!
-    near %s
-  expected one of : 
+           Found size %d!\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
  (Start: 
- 9(X`
- : Extraneous input - expected %s ...
- : Extraneous input - expected <EOF>
+ : Extraneous input - expected %s ...\n
+ : Extraneous input - expected <EOF>\n
  : Extraneous input...
- : Missing %s 
- : Missing <EOF>
- : Missing token (%d)...
- : cannot match to any predicted input...
+ : Missing %s \n
+ : Missing <EOF>\n
+ : Missing token (%d)...\n
+ : cannot match to any predicted input...\n
  : error %d : %s
- : expected %s ...
- : expected <EOF>
- : missing elements...
+ : expected %s ...\n
+ : expected <EOF>\n
+ : missing elements...\n
  : packoffset( c%d.%c ) 
- : syntax error...
- : syntax not recognized...
- : unexpected input...
- A]A\_^[
- A^A\]
- A^A\_
- A^][
- A^_[
- A^_]
- A^_^
- A^_^[]
- A_A^A\
- A_A^A\_]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^]
- A_A^]H
- A_A^^
- A_A^_
- A_A^_H
- A_][
- A_][H
- A_^]
- A_^]H
- A__]
+ : syntax error...\n
+ : syntax not recognized...\n
+ : unexpected input...\n  expected one of : 
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- HcyHH
  LinePos:
  Type Descriptor'
- [ %s ] 
  delete
  delete[]
- new[]
- tDE3
- vJH+
-!>6'Y
+ new
 #define
-#define %s (%s.%s)
+#define %s (%s.%s)\n
 #include
 #line
 #line 1 "
 #undef
 $Globals
-%s %s%s : register( c%d );
-%s %s;
-%s %s[ %d ];
+%s %s%s : register( c%d );\n
+%s %s[ %d ];\n
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
+%s allocation count overflow( %llu > %llu )\n
 %s() isn't a known function.
-%s: %s
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s[line %d:%d] 
 %s\%s%s_%08X%08X%08X%08X.vshadercache
-&YA1H
-&YA1I
-&YA1L
-', type<
 'AppendStructuredBuffer'
 'BindlessTexture2D'
 'Buffer'
@@ -173,119 +122,89 @@ $Globals
 'textureCUBE'
 'textureCube'
 'typedef'
-'u?Hc
 'uint'
 'uniform'
 'vector'
 'void'
 'volatile'
-(A^^][
-(A_A^
-(A_A^A]A\_^][
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
 (channel = 
-(end of input).
-(o:R	
-(t$ H
-(t$0H
-(t$@H
-(t$PH
-)>6{1n
-)D$ D
-)fA;]
-)t$ H
-*** ERROR! VS input struct member "%s" is missing semantic annotation!
-*** Error compiling expression for attribute "%s": %s
-*** Error compiling expression for attribute "%s": Expressions on attributes can't use 'this'
-*** Error compiling expression for render state %s: %s
-*** Error compiling expression for variable "%s": %s
-*** Error masking unused parts! Equal sign not found after token "%s"! (line %d)
-*** Error masking unused parts! Unknown text found. This is usually caused by a '{' or '}' not tabbed properly or an invalid declaration at the global scope. (line %d):
-*** Error parsing annotations! Unknown register set for %s!
-*** Error! "%s" can only use Default%d!
-*** Error! "%s" can only use Range%d!
-*** Error! Attribute "%s": cannot bind to variable "%s" because it is dynamic!
-*** Error! Attribute "%s": cannot bind to variable "%s" due to type mismatch!
-*** Error! Bindless Texture "%s" is not created with CreateTexture2DWithoutSampler and does not have an attribute.
-*** Error! Compiled expression for attribute "%s" is not constant at compile time.
-*** Error! Compiled expression for attribute "%s" is too long.
-*** Error! Default setting for "%s" cannot be parsed!
-*** Error! External cbuffer %s not allowed in static descriptor set.
-*** Error! Input color space for "%s" cannot be parsed!
-*** Error! Invalid Channel() annotation. Mip algorithm requires at least one input texture arg in texture %s
-*** Error! Invalid Channel() annotation. Missing output color channel info for texture %s
-*** Error! Invalid channel name %c in texture %s
-*** Error! Invalid color channel %s in texture %s
-*** Error! Invalid data type for sampler state annotation %s: Must be string
-*** Error! Invalid file ending string definition for %s!
-*** Error! Invalid hull shader input patch size definition
-*** Error! Invalid input texture definition for %s. Missing input color space annotation.
-*** Error! Invalid input texture definition for %s. Missing minimum precision annotation.
-*** Error! Invalid input texture type for %s
-*** Error! Invalid output format %s in texture %s
-*** Error! Invalid render attribute definition for %s
-*** Error! Invalid render state data type
-*** Error! Invalid render state definition for %s
-*** Error! Minimum precision for "%s" cannot be parsed!
-*** Error! Missing or invalid Channel() annotation in texture %s
-*** Error! Missing output texture format for texture %s. Texture variable must either have a Source()/Attribute() annotation or texture processing annotations.
-*** Error! Multiply defined render state "%s"
-*** Error! Only one basic data type allowed in external constant buffer %s (either all float, all int, or all bool)
-*** Error! PatchSize() specification missing in hull shader
-*** Error! Range setting for "%s" cannot be parsed!
-*** Error! Render state %s is only allowed in %s
-*** Error! Sampler %s is inside a descriptor set and has to be immutable. However, sampler state %s is dynamic.
-*** Error! SrgbRead value must be true or false
-*** Error! Texture %s must have only one Source(), Attribute() or Expression() annotation or texture processing annotations.
-*** Error! Texture attribute "%s": "%s" is not a shader variable!
-*** Error! Texture channel %c appears in multiple channel definitions in texture %s
-*** Error! Texture ending string "%s" for "%s" does not start with the '_' character!
-*** Error! Texture ending string for "%s" cannot be parsed!
-*** Error! Too many channels in channel specification "%s" for texture %s
-*** Error! Too many input textures specified for %s
-*** Error! Undeclared input texture %s referenced in texture %s
-*** Error! Unknown UiType "%s" for %s!
-*** Error! Unknown render state %s
-*** Error! Unknown variable type for %s!
-*** Error! Unsupported input color space %s for texture "%s"
-*** Error! UvScaleVar( %s ) on texture %s isn't referencing an existing variable.
-*** Error! VS input struct semantic annotation for "%s" cannot be parsed!
-*** Error! Value for "%s" cannot be parsed!
-*** Error! Value for attribute "%s" cannot be parsed!
-*** Error! Value for hull shader input patch size cannot be parsed!
-*** Error! Variable "%s" format must be %s with size %d to match the expected source format for source "%s"!
-*** Error! Variable "%s" has an annotation string "%s" this is longer than %d characters!
-*** Error! Variable "%s" uses too many register elements! Found %d but only supports %d!
-*** Error! Variable referenced by UvScaleVar( %s ) on texture %s must be a float or int or vector type.
-*** Error! Variable type doesn't match register type for %s!
-*** Expression in render state cannot use 'this'
-*** Feature source "%s" on bool variable "%s" must stay in the range 0..1!
-*** Feature source "%s" on variable "%s" can only be set to an int, bool or float!
-*** Unknown source "%s" on variable "%s"!
-*** VfxReadAndPrepForDynamicShaderCompileMaterialEditor(1021): Error opening file "%s"!
-*** VfxReadAndPrepForDynamicShaderCompileMaterialEditor(1031): Error masking unused parts for "%s"!
-***Error! Variable %s is not an input texture
+(end of input).\n\t This indicates a poorly specified lexer RULE\n\t or unterminated input element such as: "STRING["]\n
+*** ERROR! VS input struct member "%s" is missing semantic annotation!\n
+*** Error compiling expression for attribute "%s": %s\n
+*** Error compiling expression for attribute "%s": Expressions on attributes can't use 'this'\n
+*** Error compiling expression for render state %s: %s\n
+*** Error compiling expression for variable "%s": %s\n
+*** Error masking unused parts! Equal sign not found after token "%s"! (line %d)\n
+*** Error parsing annotations! Unknown register set for %s!\n
+*** Error! "%s" can only use Default%d!\n
+*** Error! "%s" can only use Range%d!\n
+*** Error! Attribute "%s": cannot bind to variable "%s" because it is dynamic!\n
+*** Error! Attribute "%s": cannot bind to variable "%s" due to type mismatch!\n
+*** Error! Bindless Texture "%s" is not created with CreateTexture2DWithoutSampler and does not have an attribute.\n
+*** Error! Compiled expression for attribute "%s" is not constant at compile time.\n
+*** Error! Compiled expression for attribute "%s" is too long.\n
+*** Error! Default setting for "%s" cannot be parsed!\n
+*** Error! External cbuffer %s not allowed in static descriptor set.\n
+*** Error! Input color space for "%s" cannot be parsed!\n
+*** Error! Invalid Channel() annotation. Mip algorithm requires at least one input texture arg in texture %s\n
+*** Error! Invalid Channel() annotation. Missing output color channel info for texture %s\n
+*** Error! Invalid channel name %c in texture %s\n
+*** Error! Invalid color channel %s in texture %s\n
+*** Error! Invalid data type for sampler state annotation %s: Must be string\n
+*** Error! Invalid file ending string definition for %s!\n
+*** Error! Invalid hull shader input patch size definition\n
+*** Error! Invalid input texture definition for %s. Missing input color space annotation.\n
+*** Error! Invalid input texture definition for %s. Missing minimum precision annotation.\n
+*** Error! Invalid input texture type for %s\n
+*** Error! Invalid output format %s in texture %s\n
+*** Error! Invalid render attribute definition for %s\n
+*** Error! Invalid render state data type\n
+*** Error! Invalid render state definition for %s\n
+*** Error! Minimum precision for "%s" cannot be parsed!\n
+*** Error! Missing or invalid Channel() annotation in texture %s\n
+*** Error! Missing output texture format for texture %s. Texture variable must either have a Source()/Attribute() annotation or texture processing annotations.\n
+*** Error! Multiply defined render state "%s"\n
+*** Error! Only one basic data type allowed in external constant buffer %s (either all float, all int, or all bool)\n
+*** Error! PatchSize() specification missing in hull shader\n
+*** Error! Range setting for "%s" cannot be parsed!\n
+*** Error! Render state %s is only allowed in %s\n
+*** Error! Sampler %s is inside a descriptor set and has to be immutable. However, sampler state %s is dynamic.\n
+*** Error! SrgbRead value must be true or false\n
+*** Error! Texture %s must have only one Source(), Attribute() or Expression() annotation or texture processing annotations.\n
+*** Error! Texture attribute "%s": "%s" is not a shader variable!\n
+*** Error! Texture channel %c appears in multiple channel definitions in texture %s\n
+*** Error! Texture ending string "%s" for "%s" does not start with the '_' character!\n
+*** Error! Texture ending string for "%s" cannot be parsed!\n
+*** Error! Too many channels in channel specification "%s" for texture %s\n
+*** Error! Too many input textures specified for %s\n
+*** Error! Undeclared input texture %s referenced in texture %s\n
+*** Error! Unknown UiType "%s" for %s!\n
+*** Error! Unknown render state %s\n
+*** Error! Unknown variable type for %s!\n
+*** Error! Unsupported input color space %s for texture "%s"\n
+*** Error! UvScaleVar( %s ) on texture %s isn't referencing an existing variable.\n
+*** Error! VS input struct semantic annotation for "%s" cannot be parsed!\n
+*** Error! Value for "%s" cannot be parsed!\n
+*** Error! Value for attribute "%s" cannot be parsed!\n
+*** Error! Value for hull shader input patch size cannot be parsed!\n
+*** Error! Variable "%s" format must be %s with size %d to match the expected source format for source "%s"!\n
+*** Error! Variable "%s" has an annotation string "%s" this is longer than %d characters!\n
+*** Error! Variable "%s" uses too many register elements! Found %d but only supports %d!\n
+*** Error! Variable referenced by UvScaleVar( %s ) on texture %s must be a float or int or vector type.\n
+*** Error! Variable type doesn't match register type for %s!\n
+*** Expression in render state cannot use 'this'\n
+*** Feature source "%s" on bool variable "%s" must stay in the range 0..1!\n
+*** Feature source "%s" on variable "%s" can only be set to an int, bool or float!\n
+*** Unknown source "%s" on variable "%s"!\n
+*** VfxReadAndPrepForDynamicShaderCompileMaterialEditor(1021): Error opening file "%s"!\n\n
+*** VfxReadAndPrepForDynamicShaderCompileMaterialEditor(1031): Error masking unused parts for "%s"!\n\n
+***Error! Variable %s is not an input texture\n
 *.vshadercache
 *StO9>T
-+C$Hc
-+F$Hc
-+F,Hc
-+G$Hc
-+G,Hc
-+M<7>
-+f)>0'
-+fA;]
-+h->|
-+wBHc
-, at <EOF>
 , at offset %d
 , near %s
-,/<-w
-,0<	v
-,0<	w
-,|%)v
 -Stop: 
+-avx
 -end of input-(
 -memory-
 -sse2
@@ -323,12 +242,12 @@ $Globals
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -339,93 +258,43 @@ $Globals
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A_A^A\
-0A_A^A]A\_
-0A_A^_
-0A_A^_^]
 0iN>/
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
+0x%X
+11Y@
 1:1: Tokens : ( T__18 | T__19 | T__20 | T__21 | T__22 | T__23 | T__24 | T__25 | T__26 | T__27 | T__28 | T__29 | T__30 | T__31 | T__32 | T__33 | T__34 | T__35 | T__36 | T__37 | T__38 | T__39 | T__40 | T__41 | BOOLLITERAL | ID | INTEGERLITERAL | HEXINTEGERLITERAL | FLOATLITERAL | COMMENT | WS );
 1:1: Tokens : ( T__22 | T__23 | T__24 | T__25 | T__26 | T__27 | T__28 | T__29 | T__30 | T__31 | T__32 | T__33 | T__34 | T__35 | T__36 | T__37 | T__38 | T__39 | T__40 | T__41 | T__42 | T__43 | T__44 | T__45 | T__46 | T__47 | T__48 | T__49 | T__50 | T__51 | T__52 | T__53 | T__54 | T__55 | T__56 | T__57 | T__58 | T__59 | T__60 | T__61 | T__62 | T__63 | T__64 | T__65 | T__66 | T__67 | T__68 | T__69 | T__70 | T__71 | T__72 | T__73 | T__74 | T__75 | T__76 | T__77 | T__78 | T__79 | T__80 | T__81 | T__82 | T__83 | T__84 | T__85 | T__86 | T__87 | T__88 | T__89 | T__90 | T__91 | T__92 | T__93 | T__94 | T__95 | T__96 | T__97 | T__98 | T__99 | T__100 | T__101 | T__102 | T__103 | T__104 | T__105 | T__106 | T__107 | T__108 | T__109 | T__110 | T__111 | T__112 | T__113 | T__114 | T__115 | T__116 | CONSTANT_REGISTER | PACK_OFFSET | VECTOR_TYPE | MATRIX_TYPE | STATIC | ID | INTEGERLITERAL | FLOATLITERAL | STRINGLITERAL | WS | LINE | PRAGMA | UNKNOWN );
-1<.	/>:
-200527200002Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+7#\n`9xE
 79:1: element : ( struct_decl | function_definition | variable_definition[ false ] | constant_buffer | type_def | bindless_constant_def | auto_bindless_texture2d_binding | semicolon= ';' );
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-82Ck=9
-8A_A]_^
-9)~(H
-9)~.H
-99C }
-99~-H
-99~BH
-9C |K
-9Y`~.
-9w ~%
-9w8~$
-9w8~&f
-9wP~#f
-9wP~R3
-9wh~$f
-9y`~q
-: lexer error %d :
-;#t @
-;A ~W
-;C ~M
-;G(uRH
-;H9>&X
-;_0}*
-<	w	@
-< t;<	t7
+: lexer error %d :\n\t%s at offset %d, 
 <DOWN>
 <EOF>
 <EOR>
 <invalid>
 <missing 
 <no text for the token>
-=	 ();,
-====> 
+=\t ();,\n\r<>
+=cQ6
 =imb;D
+>cQ6
 >jtm}S
-?5zlO
 ?7zQ6$
-?:kP<
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?CUtlString::FormatV
 ?ComposeFileName@CBufferString@@QEAAPEBDPEBD0D@Z
@@ -433,13 +302,11 @@ $Globals
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
 ?Format@CBufferString@@QEAAHPEBDZZ
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?SetPtr@CBufferString@@QEAAXPEADHH_N1@Z
 ?ShortenPath@CBufferString@@QEAAPEBD_N@Z
@@ -448,63 +315,8 @@ $Globals
 ?V_SplitString2@@YAXPEBDPEAPEBDHAEAV?$CUtlVector@PEADV?$CUtlMemory@PEADH@@@@@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
-@.data
-@.gfids
-@.tls
-@8(t'H
-@8(t7H
-@8(tK
-@8(tPH
-@80t#H
-@80tG
-@80tZH
-@80tc
-@88t'L
-@88t5
-@88tWH
-@88uV
-@8|$Pt-
-@8|$^t
-@>%>b
-@A]A\^
-@A^A]A\
-@A^_^
-@A_A]A\_^
-@A_A^A]A\_
-@A_A^_
-@SUAVH
-@SUAWH
-@SUVAVH
-@SUVWH
-@SVWATAUH
-@SVWH
-@SWAVH
-@UATAUAVAWH
-@UATAVH
-@UAVAWH
-@USVH
-@USVWATAUAVAWH
-@USVWAVH
-@USWATH
-@UVAWH
-@UVWATAUAVAWH
-@VAVH
-@VWAUAWH
-@VWAVH
-@fE9|
-A8)t2M
-A81t@@8r
-A81teM
-A84.u
-A86taH
-A89t2M
-A8Zxt
-A:(uiI
-A;@X}
-A;BX}
-A;RX}
-A;V8tJ
-A;]0u
+?qBJ
+?ysB
 A>pP&
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
@@ -513,41 +325,15 @@ ANDROID_VULKAN_4_0
 ANISO
 ANISOTROPIC
 ANTLR - 
-ANTLR3_EXCEPTION number %d (%08X).
-ANTLR3_EXCEPTION: %s
+ANTLR3_EXCEPTION number %d (%08X).\n
+ANTLR3_EXCEPTION: %s\n
 ARGB8888
-ATAUAVH
-ATAVAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
-AVAWH
-A\_[]
-A\_^]
-A\_^][
-A]_^]
-A^A\]
-A^A]A\_^[]
-A^A]^]
-A^_^[]
-A_A]A\^
-A_A]A\_^
-A_A]_]
-A_A^A\
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\^[]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_^
-A_A^]
-A_A^_
-A_A^_^]
-Actually dude, we didn't seem to be expecting anything here, or at least
-Adding cached shader: %s
+Actually dude, we didn't seem to be expecting anything here, or at least\n
+Adding cached shader: %s\n
 AddressU
 AddressV
 AddressW
@@ -556,12 +342,12 @@ AlphaTestFunc
 AlphaTestRef
 AlphaToCoverageEnable
 Android SM 4.0 (VULKAN)
-Annotation %s doesn't have any values. Ignoring annotation.
+Annotation %s doesn't have any values. Ignoring annotation.\n
 April
 August
-AuthE
-B8|09
-BC?>6t9^	c:>
+BACK
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -582,33 +368,28 @@ BackStencilDepthFailOp
 BackStencilFailOp
 BackStencilFunc
 BackStencilPassOp
-Base recognizer function 'alreadyParsedRule' called by unknown parser type - provide override for this function
-Base recognizer function 'consumeUntil' called by unknown parser type - provide override for this function
-Base recognizer function 'consumeUntilSet' called by unknown parser type - provide override for this function
-Base recognizer function 'match' called by unknown parser type - provide override for this function
-Base recognizer function 'matchAny' called by unknown parser type - provide override for this function
-Base recognizer function 'mismatch' called by unknown parser type - provide override for this function
-Base recognizer function 'synPred' called by unknown parser type - provide override for this function
-Base recognizer function antlr3RecognitionExceptionNew called by unknown parser type - provide override for this function
-Base recognizer function consumeUntilSet called by unknown parser type - provide override for this function
-Base recognizer function displayRecognitionError called by unknown parser type - provide override for this function
-Base recognizer function recover called by unknown parser type - provide override for this function
-Base recognizer function recoverFromMismatchedSet called by unknown parser type - provide override for this function
-Base recognizer function recoverFromMismatchedToken called by unknown parser type - provide override for this function
-Bellevue1
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+Base recognizer function 'alreadyParsedRule' called by unknown parser type - provide override for this function\n
+Base recognizer function 'consumeUntil' called by unknown parser type - provide override for this function\n
+Base recognizer function 'consumeUntilSet' called by unknown parser type - provide override for this function\n
+Base recognizer function 'match' called by unknown parser type - provide override for this function\n
+Base recognizer function 'matchAny' called by unknown parser type - provide override for this function\n
+Base recognizer function 'mismatch' called by unknown parser type - provide override for this function\n
+Base recognizer function 'synPred' called by unknown parser type - provide override for this function\n
+Base recognizer function antlr3RecognitionExceptionNew called by unknown parser type - provide override for this function\n
+Base recognizer function consumeUntilSet called by unknown parser type - provide override for this function\n
+Base recognizer function displayRecognitionError called by unknown parser type - provide override for this function\n
+Base recognizer function recover called by unknown parser type - provide override for this function\n
+Base recognizer function recoverFromMismatchedSet called by unknown parser type - provide override for this function\n
+Base recognizer function recoverFromMismatchedToken called by unknown parser type - provide override for this function\n
 BinaryProperties_GetValue
-BindlessConstants_t g_constants[ %d ];
+BindlessConstants_t g_constants[ %d ];\n
 BlendEnable
 BlendFactor
 BlendOp
 BlendOpAlpha
 BorderColor
 Buffer
-C-yh/
-C8<(u
 CLAMP
-CLE;f
 CMemAllocSystemInitialize
 COMMENT
 COMMON
@@ -624,25 +405,25 @@ COMPARISON_MIN_POINT_MAG_MIP_LINEAR
 CONSTANT_REGISTER
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
 CUtlLeanVectorFixedGrowableBase<unsigned char,12,short>::EnsureCapacity
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<class CUtlString,class CVfxAnnotation,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::Node_t,unsigned short,class CUtlMap<class CUtlString,class CVfxAnnotation,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlString,class CVfxAnnotation,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<struct CUtlMap<class CUtlString,class CVfxParsedShaderParam *,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::Node_t,unsigned short,class CUtlMap<class CUtlString,class CVfxParsedShaderParam *,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlString,class CVfxParsedShaderParam *,unsigned short,bool (__cdecl*)(class CUtlString const &,class CUtlString const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
-CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
-CVfxD3dInclude::Open(105): Cannot read file "%s"
-CVfxD3dInclude::Open(120): Cannot find include file %s
-CVfxD3dInclude::Open(46): Cannot use absolute paths for shader includes. Found %s
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer\n
+CVfxD3dInclude::Open(105): Cannot read file "%s"\n
+CVfxD3dInclude::Open(120): Cannot find include file %s\n
+CVfxD3dInclude::Open(46): Cannot use absolute paths for shader includes. Found %s\n
 CVfxDx11::GetAllShaderVariables
 CVfxDx11::Init
 CVfxDx::Init() - fsFactory can't get '%s' interface.
 Calling D3DCompile()
 Calling D3DPreprocess()
-Can't find constant buffer %s in constant buffer list
-Can't find resource %s in effect parameter list
-Can't find shader constant %s in effect parameter list
+Can't find constant buffer %s in constant buffer list\n
+Can't find resource %s in effect parameter list\n
+Can't find shader constant %s in effect parameter list\n
 CheckBox
 CloseHandle
 Color
@@ -660,81 +441,38 @@ CreateEventW
 CreateFileW
 CreateInterface
 CullMode
-D$ E3
-D$(D8#u
-D$(H;
-D$0I;
-D$0t7
-D$8L9
-D$8L;
-D$@+C
-D$@E2
-D$@E3
-D$@H+
-D$@H9\$0t
-D$@H9\$Xt
-D$@fA
-D$HE3
-D$HL;
-D$PH+
-D$PI;
-D$`A+
-D$`E#
-D$`E3
-D$`H;
-D$h9A
-D$hI;
-D$hL9
-D$hL;
-D$x@2
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D3D11 shader compiler DLL not initialized properly. Can't compile shader.
-D3D11 shader compiler DLL not initialized properly. Can't preprocess shader.
-D3D11 shader reflection failed
+D3D11 shader compiler DLL not initialized properly. Can't compile shader.\n
+D3D11 shader compiler DLL not initialized properly. Can't preprocess shader.\n
+D3D11 shader reflection failed\n
 D3DCompile
 D3DDisassemble
 D3DPreprocess
-D3DPreprocess() failed with no error message! CVfxDx11::GetAllShaderVariables(1076): 
+D3DPreprocess() failed with no error message! CVfxDx11::GetAllShaderVariables(1076): \n
 D3DReflect
 D3DStripShader
-D3DXPreprocess() failed with no error message! CVfxDx11::CompileShaderAndGetVariables(636): 
-D8 tK
-D8(t H
-D80t8H
-D80t{3
-D82u&H
-D8?tnH
-D8T$Pu
-D8t$Ht
-D91~HH
-D9H$t
-D9I$t
-D9Q$t
-D9|$ 
-D9|5Lt
-D;d$pu
-DD$$H
+D3DXPreprocess() failed with no error message! CVfxDx11::CompileShaderAndGetVariables(636): \n
+DECR
 DECR_SAT
 DEFAULT
 DEST_ALPHA
 DEST_COLOR
 DIGIT
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
-Dd$pH
-Dd$pL
 December
 DefaultSamplerState
 DeleteCriticalSection
-Deleting old shadercache file: %s
+Deleting old shadercache file: %s\n
 DepthBias
 DepthBiasClamp
 DepthClipEnable
@@ -744,34 +482,24 @@ DepthWriteEnable
 Description
 Dev Shader
 DevShader
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Domain Shader
 DstBlend
 DstBlendAlpha
 Dynamic combo %s referenced in expression doesn't exist.
-E$Ic] A
-E0C07
-E8~\t
-E;~(H
-EP*?@
 EQUAL
 ERROR!
 ESC_SEQ
+ET5>
 EXPONENT
 Early exit
 EnterCriticalSection
-Error adding shader to cache
-Error loading D3D compiler DLL %s!
-Error masking unused parts for vfx file CVfxDx11::CompileShaderAndGetVariables(605): 
-Error opening vfx file CVfxDx11::CompileShaderAndGetVariables(593): 
-Error while running preprocessor over shader code:
+Error adding shader to cache\n
+Error loading D3D compiler DLL %s!\n
+Error masking unused parts for vfx file CVfxDx11::CompileShaderAndGetVariables(605): \n
+Error opening vfx file CVfxDx11::CompileShaderAndGetVariables(593): \n
+Error while running preprocessor over shader code:\n
 Error: D3DCompile() failed with no error string!
-Error: Invalid shader variable reference in expression: %s can't be used in expression because it is not an artist-editable variable
+Error: Invalid shader variable reference in expression: %s can't be used in expression because it is not an artist-editable variable\n
 ExitProcess
 Expecting %s
 Expression
@@ -782,13 +510,13 @@ FEATURES
 FLOATLITERAL
 FLOATSUFFIX
 FRONT
-Failed to add global variable, see previous warning.
+Failed to add global variable, see previous warning.\n
 FakeBindlessTexture2D
 Feature combo %s referenced in expression doesn't exist.
 Features
 February
 Fetch4
-File has not been opened!
+File has not been opened!\n
 FillMode
 Filter
 FindClose
@@ -803,19 +531,11 @@ FreeEnvironmentStringsW
 FreeLibrary
 Friday
 Function %s() expects %d arguments. Found %d.
-GD$hD
-GHt13
-GL$(3
-GL$8I
-GL$HI
+GCTL
+GLSL
 GLSL does not support multi-dimensional arrays (until GLSL v4.30 with GL_ARB_arrays_of_arrays). Currently only GLSL v4.00 + extensions is required.
 GREATER
 GREATER_EQUAL
-GT$XD
-GT$XH
-GT$hA
-GdA9V
-Genu3
 Geometry Shader
 GetACP
 GetCPInfo
@@ -842,51 +562,19 @@ GetStartupInfoW
 GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
-Gt$8f
-H!D$ E
-H!T$0D
-H0F08
-H9=%3
-H9A(u
-H9D$pu	E
-H9l$0t
-H9l$@t
-H9t$p
-H9u@t	H
-H9|$0t
-HA_A]A\_^[
 HEADER
 HEXINTEGERLITERAL
 HEX_DIGIT
 HH:mm:ss
-HLSL lexer encountered %d %s
-HLSL parser encountered %d %s
-H_^][
+HLSL lexer encountered %d %s\n
+HLSL parser encountered %d %s\n
 HangWatchdogInternal_BeginScope
 HangWatchdogInternal_EndScope
-Hc/;o
-Hc3;s
-Hc;;{
-HcApD;
-HcD$h
-HcD$p
-HcH<H
-HcNxA
-HcNxD
-HcNxE
-HcS@H
-HcT$HH
-Hc]`M
-Hc^`;^pu	H
-Hc^h;^xu
-Hc_0L
-Hc_@;_Pu
-Hco`D
 HighPrecisionBlendEnable
-Ht)I;
 Hull Shader
-I could not work out what I was expecting, like so many of us these days!
-I96tR3
+I could not work out what I was expecting, like so many of us these days!\n
+IA88
+INCR
 INCR_SAT
 INTEGERLITERAL
 INVERT
@@ -897,77 +585,38 @@ INV_SRC1_COLOR
 INV_SRC_ALPHA
 INV_SRC_COLOR
 IOS_VULKAN_4_0
-IPD9q
-Ic4$M
-IcMxD
-Ic]PA;]`u
-Ic]hA;]xu
 IndependentBlendEnable
 InitializeConditionVariable
 InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
 InitializeSListHead
 InputPatch
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvTextureDim
 InvViewportSize
 Invalid character '%c' in swizzle operation. Only xyzw or rgba are allowed.
 Invalid descriptor set name used in layout specifier
-Invalid shader program CVfxDx11::CompileShaderAndGetVariables(552): 
-Invalid shader program for %s()
-Invalid value data type for annotation %s
+Invalid shader program CVfxDx11::CompileShaderAndGetVariables(552): \n
+Invalid shader program for %s()\n
+Invalid value data type for annotation %s\n
 InvokeMiniDumpHandler
 IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
-I}g4'
 January
-K&>.yC
-K8+C$
+July
+June
+KEEP
 KERNEL32.dll
-K~Je#>!
-L$ E3
-L$ SH
-L$ UVAUAVH
-L$ UVWAVAWH
-L$ UWAVH
-L$ VWAVH
-L$ WATAUAVAWH
-L$ WH
-L$&@8t$&t0@8q
-L$0H;
-L$8E3
-L$8H3
-L$8Ic
-L$@H3
-L$HE3
-L$LA;
-L$PE3
-L$`fff
-L$ht	H
-L$pE3
-L9d$0t
-L9d$@t
-L9d$Ht
-L9l$ t
-L9l$0t
-L9l$8t
-L9l$`t
-L9u0t	H
-L9u@t	H
-L9uHt	H
-L9|$@t
-L9|$Xt
-L9|$ht
-L9|$pt
-L9|$xt
-L9}@t	H
+L>ev
 LCMapStringEx
 LCMapStringW
+LESS
 LESS_EQUAL
 LE_BGRA8888
 LE_BGRX8888
+LINE
 LINEAR_ABGR8888
 LINEAR_ARGB8888
 LINEAR_BGR888
@@ -980,26 +629,15 @@ LINEAR_RGB888
 LINEAR_RGBA16161616
 LINEAR_RGBA8888
 LOG_GENERAL
-Lc&D;f
-Lc3D;s
-Lc6D;v
-LcA<E3
-LcG$H
-LcK$A;
-Lcd$`I
-Lcs0D;s@u
 LeaveCriticalSection
 Line: 
 LineStream
-Lj[;>
 LoadLibraryExW
-Loading cached shader: %s
+Loading cached shader: %s\n
 LocaleNameToLCID
 LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
-M H1E
-M)M$e
 MATRIX_TYPE
 MIN_LINEAR_MAG_MIP_POINT
 MIN_LINEAR_MAG_POINT_MIP_LINEAR
@@ -1015,7 +653,6 @@ MM/dd/yy
 MOBILE_GLES_3_0
 MOBILE_GLES_3_1
 MODES
-MXtAD
 MainCs
 MainDs
 MainGs
@@ -1035,7 +672,7 @@ MinLOD
 MipBias
 Mismatched Token Exception
 Mismatched set
-Missing SourceArg() annotation for variable %s with source type TextureDim
+Missing SourceArg() annotation for variable %s with source type TextureDim\n
 Missing token
 Mobile SM 3.0 (GLES 3.0)
 Mobile SM 3.0 (GLES 3.1)
@@ -1045,6 +682,7 @@ MultiByteToWideChar
 MultisampleEnable
 NEAREST
 NEVER
+NONE
 NOT_EQUAL
 NV_DST16
 NV_DST24
@@ -1052,13 +690,12 @@ NV_INTZ
 NV_NULL
 NV_RAWZ
 November
-O(t(H
 OCTAL_ESC
+OZQ%
 October
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 OutputPatch
 PACK_OFFSET
-PA_A^A]A\_^]
 PC SM 3.0
 PC SM 3.0 (GLSL)
 PC SM 4.0 (D3D10)
@@ -1081,7 +718,6 @@ PC_SM_4_1_VULKAN
 PC_SM_5_0
 PC_SM_5_0_GL
 PC_SM_5_0_VULKAN
-PHL9}0t	H
 POINT
 PRAGMA
 PROGRAM
@@ -1106,7 +742,9 @@ PointStream
 Preprocessed HLSL code
 QueryPerformanceCounter
 R11_EAC
+R16F
 R16F_EXPAND
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
@@ -1121,6 +759,7 @@ RGB323232F
 RGB565
 RGB888
 RGB888_BLUESCREEN
+RGBA
 RGBA1010102
 RGBA1010102F_EDRAM
 RGBA16161616
@@ -1135,7 +774,7 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
-RSDSe
+RSDSe\f
 RaiseException
 RandomFloat
 Recognition Exception
@@ -1146,6 +785,7 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
+S9>H
 SCALAR_TYPE
 SHADER_MODEL
 SHADER_SOURCE
@@ -1159,9 +799,6 @@ SSE and SSE2 are required.
 STATIC
 STRINGLITERAL
 SUBTRACT
-SUVWATAUAVAWH
-SUVWATH
-SVWATAUAWH
 SV_DomainLocation
 SV_OutputControlPointID
 SampleMask
@@ -1180,7 +817,7 @@ SetFilePointerEx
 SetLastError
 SetStdHandle
 SetUnhandledExceptionFilter
-Shader stripping failed.
+Shader stripping failed.\n
 Shader variable %s is illegal to use in expression. Only artist-editable variables are usable.
 ShaderIDColor
 ShadingComplexity
@@ -1206,17 +843,6 @@ StencilRef
 StencilWriteMask
 Sunday
 Swizzle operation only supports up to four channels.
-T$ +G$D
-T$ A;
-T$,u$
-T$0E2
-T$0E3
-T$0Ic
-T$8+G$H
-T$@+G$A
-T$PE3
-T$hfD
-T;!e*nQ
 TRILINEAR
 TUUUU
 TerminateProcess
@@ -1243,40 +869,24 @@ TlsGetValue
 TlsSetValue
 TriangleStream
 Tuesday
-Two external descriptor sets have the same slot '%s' and '%s'
-UATAUAVAWH
-UAVAWH
+Two external descriptor sets have the same slot '%s' and '%s'\n
 UNICODE_ESC
 UNKNOWN
 UNSUPPORTED
 UPDATE_STRING_TOKEN_DATABASE
 USER_CONFIG
-USVATAUAVAWH
-USVWATAUAVAWH
-USVWATAUAVH
-USVWAVH
-USVWH
 UUUUUU
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATH
-UVWAUH
-UVWAVAWH
 UVWQ8888
-UWAUAWH
-UWAVH
-UWAWH
 Unexpected character
 Unexpected node
 Unexpected token
 UnhandledExceptionFilter
 Unknown
 Unknown variable name %s.
-Unsupported annotation data type
-Unsupported render state type
-V6E>`"(5
-VATAUH
-VAVAWH
+Unsupported annotation data type\n
+Unsupported render state type\n
 VCRT_isdigit
 VCRT_isprint
 VCRT_toupper
@@ -1286,11 +896,6 @@ VFX_PROGRAM_MAX
 VFileSystem017
 VS_INPUT
 VULKAN
-VWATAUAWH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAVH
 V_Get_stderr
 V_IsAbsolutePath
 V_atof
@@ -1315,9 +920,7 @@ V_strtoi64
 V_strtoui64
 V_vsnprintf
 V_vsnprintfSize
-Valve0
-Valve1
-Variable %s with variable source TextureDim is referencing unknown texture %s
+Variable %s with variable source TextureDim is referencing unknown texture %s\n
 VectorText
 Version
 Vertex Shader
@@ -1325,15 +928,13 @@ VertexFragment
 VertexShader
 Vfx Error: attribute type does not exist or does not support attribute literals.
 Vfx Error: attribute unsupported or requires a parameter binding.
-VfxParseAndCompileExpression(366): : Failed to create input stream from "%s"
-VfxParseAndCompileExpression(374): : Failed to create lexer from "%s"
-VfxParseAndCompileExpression(382): : Failed to create token stream from "%s"
-VfxParseAndCompileExpression(390): : Failed to create parser from "%s"
+VfxParseAndCompileExpression(366): : Failed to create input stream from "%s"\n
+VfxParseAndCompileExpression(374): : Failed to create lexer from "%s"\n
+VfxParseAndCompileExpression(382): : Failed to create token stream from "%s"\n
+VfxParseAndCompileExpression(390): : Failed to create parser from "%s"\n
 Viewport
-W D9:
-WATAUAVAWH
-WAVAWH
 WIREFRAME
+WRAP
 WaitForSingleObjectEx
 WakeAllConditionVariable
 Warning
@@ -1341,39 +942,19 @@ Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-Wrong number of items in value for annotation %s. Ignoring annotation.
-Wu4E3
+Wrong number of items in value for annotation %s. Ignoring annotation.\n
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
+ZERO
 [Index: 
 [[disable_array_flattening]] Texture2D %s[ %d ] : layout( set = %d, binding = %d );
-\$ AVH
-\$ H;
-\$ UATAVH
-\$ UH
-\$ UVAWH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UWATAVAWH
-\$ VH
-\$ VWAWH
-\$ WATAVH
-\$ WH
-\$0H;
-\$0Hc
-\$8A+
-\$8Hc
-\$@E3
-\$@H;
-\$@Hc
-\$@f;
-\$@uRH
-\$HE3
-\$HHc
-\$pE3
+\n    near %s\n    
+\n*** Error masking unused parts! Unknown text found. This is usually caused by a '{' or '}' not tabbed properly or an invalid declaration at the global scope. (line %d):\n%s\n\n
 \src\shaders\
-^ Hc;;{
+\t The lexer was matching from line %d, offset %d, which\n\t 
+\tkE>fvw
 _BoundTexture%d
 _BoundTextureSrgb%d
 _SrgbRead
@@ -1406,9 +987,6 @@ __thiscall
 __unaligned
 __vectorcall
 _sampler
-`.rdata
-`A_A^A]A\_^]
-`A__^
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -1486,15 +1064,14 @@ antlr3dfapredict
 antlr3dfaspecialStateTransition
 antlr3dfaspecialTransition
 appendstructuredbuffer
+arg1
 attribute
+bool
 bool2
 bool3
 bool4
-bp(=>?g
 buffer
 byteaddressbuffer
-c [1>H'
-c(>\,
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\public\tier1\utlleanvector.h
@@ -1507,9 +1084,9 @@ c:\buildslave\hlvr_rel_win64\build\src\vfx\vfx_dx\Retaildx11\win64\vfx_dx11.pdb
 c:\buildslave\hlvr_rel_win64\build\src\vfx\vfx_dx\hlslvariables.g
 c:\buildslave\hlvr_rel_win64\build\src\vfx\vfx_dx\vfx_dx11.cpp
 c:\buildslave\hlvr_rel_win64\build\src\vfx\vfxexpr.g
-cAMDD
 cbuffer
-cbuffer %s {
+cbuffer %s {\n
+ceil
 channelMipAlgorithm_
 channelOutputColorSpace_%s
 clamp
@@ -1523,44 +1100,35 @@ d3dcompiler_43.dll
 dddd, MMMM dd, yyyy
 default%d
 defaultFile
+dot2
+dot3
+dot4
 double
 ds_5_0
-e0A_A^A]A\]
-entiA
+eF>t
 error
 errors
+exp2
 expression
 externaldescriptorset
-f;\$p
-f;\$~
-f;t$p
-fA;Ox
-fA;wx
-fD9(u.
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fD;`x
 false
 features
-ffffff
-fffffff
 fileExt
 fillBufferExt
 float
-float __g_Padding_%d;
-float _dummyMemberToPreventEmptyStructForGlsl;
+float __g_Padding_%d;\n
+float _dummyMemberToPreventEmptyStructForGlsl;\n
 float%d
 float%dx%d
 float2
 float3
 float3x3
 float4
-float4 %s: register( c%d );
+float4 %s: register( c%d );\n
 float4x3
 float4x4
 floor
+frac
 g_boolAttr_
 g_constants
 g_constants[ g_nDataIdx ].%s
@@ -1583,75 +1151,54 @@ g_vShared
 gs_4_0
 gs_4_1
 gs_5_0
+half
 hlslvariablesLexerNew
 hlslvariablesLexerNewSSD
 hlslvariablesParserNew
 hlslvariablesParserNewSSD
-hr = D3D10_ERROR_FILE_NOT_FOUND
-hr = D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS
-hr = E_FAIL
-hr = E_INVALIDARG
-hr = E_OUTOFMEMORY
-hr = S_FALSE
+hr = D3D10_ERROR_FILE_NOT_FOUND\n
+hr = D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS\n
+hr = E_FAIL\n
+hr = E_INVALIDARG\n
+hr = E_OUTOFMEMORY\n
+hr = S_FALSE\n
 hr = Unknown [
 hs_5_0
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 iOS SM 4.0 (VULKAN)
-iW!]4/
 imageAlgorithm
-ineIA
 inputColorSpace
+int2
+int3
+int4
 invalid_parameter
-is also the end of the line, so you must check your lexer rules
-k0i0$
-l$ 9Q
-l$ VATAUAWL
-l$ VWATAVAWH
-l$ VWAVH
-l$ WATAUAVAWH
-l$ WAVAWH
-l$ WH
-l$(E3
-l$0A+
-l$0~8H
-l$8H+
-l$HHc
-l$PA;
-l$pL;
+is also the end of the line, so you must check your lexer rules\n
 layout( std140, row_major ) uniform %s
 layout( std140, row_major, binding=%d ) uniform %s
 length
-lexer->mTokens(): Error: No lexer rules were added to the lexer yet!
+lerp
+lexer->mTokens(): Error: No lexer rules were added to the lexer yet!\n
+line
 lineadj
 linear
 log10
-looks like this:
-m0k0$
+log2
+looks like this:\n\t\t%.*s\n
+mG4>
 minPrecision
 n03>Pu
-nD$tH
-near '%c' :
-near char(%#02X) :
+near '%c' :\n
+near char(%#02X) :\n
 normalize
-ntelE
 operator
 operator "" 
-ot$ H
 outputFormat
-p AWH
-p0n05
-p1f3q>
 point
 ps_3_0
 ps_4_0
 ps_4_1
 ps_5_0
 purecall
-r	Vr.>T
-r:D8v
+r\tVr.>T
 random
 range%d
 restrict(
@@ -1665,8 +1212,6 @@ rwtexture1darray
 rwtexture2d
 rwtexture2darray
 rwtexture3d
-s	9G`
-s>fff
 sampler1D
 sampler1DARRAY
 sampler2D
@@ -1678,12 +1223,16 @@ samplerCUBEARRAY
 saturate
 semantic
 shadercache
+sign
 smoothstep
 source
 sourceArg
+sqrt
+srgb
+step
 string
 struct
-struct BindlessConstants_t {
+struct BindlessConstants_t {\n
 struct DS_INPUT
 struct DS_PATCH_CONSTANT_INPUT
 struct GS_INPUT
@@ -1694,62 +1243,17 @@ struct PS_INPUT
 struct VS_INPUT
 structuredbuffer
 system.fxc
-t!LcO
-t"<.u
-t$ AVH
-t$ E3
-t$ UH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WH
-t$0+A$t
-t$0@8
-t$0D9.
-t$0E3
-t$0Hc
-t$8;Upr4I
-t$8H+
-t$@E3
-t$@Hc
-t$@Hcu
-t$@Ic
-t$@fE
-t$HE3
-t$HHc
-t$P9E
-t$XIi
-t$`A+
-t$`Hc
-t$pL9m
-t$pfD
-t$x;_@u
-t(A8(t
-t/D83t*
-t:@80t&I
-tAHc3;s
-tCHcP
-tDfff
-tGHc>;~
-tVHcsP;s`u	H
-tWHc@
-t[LcvPD;v`u	H
+this
 tier0.dll
+time
 triangle
 triangleadj
-tu+K$3
-u'Hc7;w
-u,Hc7;w
-u0Hc7;w
-u3HcH<H
-u8Hcu
-ueHcS
-uf!T$(H!T$ 
+true
 uigroup
+uint
 uistep
 uitype
 uzKs@>
-v0t08
 value
 vfx_dx11
 vfx_dx11.dll
@@ -1759,56 +1263,10 @@ vfxexprLexerNew
 vfxexprLexerNewSSD
 vfxexprParserNew
 vfxexprParserNewSSD
+void
 vs_3_0
 vs_4_0
 vs_4_1
 vs_5_0
 vstdlib.dll
-w!fE;
-w@H9w
-wOfD;
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x A;@X}
-x ATAVAWH
-x AV3
-x AVH
-x$dt3H
-x0v0$
-x9HcS
-xRHcQ
-y\PD>!
-z0x0:
-|$ ATAVAWH
-|$ AVH
-|$ E3
-|$ UATAUAVAWH
-|$(;^
-|$(A^
-|$(E3
-|$(I;
-|$0E3
-|$0Jc
-|$0fff
-|$8;3
-|$@H;
-|$@t	3
-|$Df;y
-|$DfE;~
-|$HE3
-|$HHi
-|$P9E
-|$PA;^ u
-|$PE3
-|$\.u
-|b=})>
-}(fD;w
-}OfD;
-}XfA;X
-}YfD;
-}_fA;X
-}bfA;
-~@Lcg
-~HHco
+xyzw

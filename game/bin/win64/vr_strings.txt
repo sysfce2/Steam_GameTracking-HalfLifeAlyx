@@ -1,294 +1,109 @@
-					
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
-                           TrackingToMiddleEye
-                        AbsoluteTrackingToTracking
-                   %7.3f %8.3f %8.3f %8.3f
+                           TrackingToMiddleEye\n
+                        AbsoluteTrackingToTracking\n
+                   %7.3f %8.3f %8.3f %8.3f\n                   %7.3f %8.3f %8.3f %8.3f\n                   %7.3f %8.3f %8.3f %8.3f\n                   %7.3f %8.3f %8.3f %8.3f\n\n
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ+inf
-        MiddleEyeToLeftEye                    MiddleEyeToRightEye
-        ProjectionLeftEye                     ProjectionRightEye
-    %u iterated blocks
-    %u unfinished blocks
-  (H/V): 
-  -nohmd      Renders through the VR code paths without using the HMD's tracking or display
-  -scale [x]  Available with either -vrdebug or -nohmd. Will scale window by float amount (0.5 is half width & height)
-  -vr         Enable VR (can be automatically enabled if launched from Steam in VR mode)
-  -vrdebug    Renders to the primary monitor, but still uses the HMD's tracking if available
+        MiddleEyeToLeftEye                    MiddleEyeToRightEye\n
+        ProjectionLeftEye                     ProjectionRightEye\n
+    %u iterated blocks\n
+    %u unfinished blocks\n
+  -nohmd      Renders through the VR code paths without using the HMD's tracking or display\n
+  -scale [x]  Available with either -vrdebug or -nohmd. Will scale window by float amount (0.5 is half width & height)\n
+  -vr         Enable VR (can be automatically enabled if launched from Steam in VR mode)\n
+  -vrdebug    Renders to the primary monitor, but still uses the HMD's tracking if available\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- (GPU 
  ) + SubmitToRT( 
  ) = Total 
  -- MissedRunningStartBy( 
- 0@P`p
- 9(X`
- A^][
- A^_]
- A^_^
- A_A]_
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^_
- A_^[
- A_^]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- Hc)H
- Hc9H
- Hcy H
- HcyH3
  Total pixels in all subviews per eye = 
  Type Descriptor'
  after 
  delete
  delete[]
  frames, 
- million pixels/sec.
- ms )
- new[]
+ million pixels/sec.\n
+ new
  of the back buffer (shrink wrap saved 
  pixels per eye requiring 
  seconds, last frame 
- t?D9
- tDE3
- tQD8c:u0M
  totaling 
- vJH+
-!! Disabling VRFly mode to allow you to correctly author reference point.
-!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!
-!,X< w
+!! Disabling VRFly mode to allow you to correctly author reference point.\n
 !1AQaq
-!2gpu
-!4gpu
-!>6'Y
-!gathersysteminfo
-" -file "
-""""UUUU
-""\\//b
+!2gpu\n
+!4gpu\n
+!gathersysteminfo\n
 "2BRbr
-"92h_
 "[BINARY BLOB]"
 "e?<<<<<<l?
-"pA3Q
-# Positions
-# Texture Coords
-# Triangles
-# VR_DUMP_RENDER_MODEL
-# Vertex Normals
+# Positions\n
+# Texture Coords\n
+# Triangles\n
+# VR_DUMP_RENDER_MODEL\n
+# Vertex Normals\n
 #3CScs
+#9fm
 $4DTdt
 $Ib?s
 %.1f fps
-%.2f Hz (%s/%s -> %s/%s) %.3f ms/frame
-%.2f Hz (%s/%s) %.3f ms/frame
+%.2f Hz (%s/%s -> %s/%s) %.3f ms/frame\n
+%.2f Hz (%s/%s) %.3f ms/frame\n\n
 %.2f MP / sec
-%.2f mm
-%.2f%%
 %16s: %5.1f ms, avg: %5.1f max: %5.1f ms
 %16s: %s / %s MB
+%1t7
 %5.2f
 %5EUeu
 %6.3f
-%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f
-%GoU?*
-%d = %d
-%d = %f
+%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n
+%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f\n\n
 %dx%d
-%dx%d @ (%d,%d)
-%i "%s"
+%dx%d @ (%d,%d)\n
 %i %i %i %i
+%llu
 %s.vmesh
 %s.vtex
-%s: string format requested %d chars
-%s_%s_%u
+%s: string format requested %d chars\n
 %s_%u.vmdl
-%u,%u,%f,%f,%f,%f,%i
+%u,%u,%f,%f,%f,%f,%i\n
 &6FVfv
 &?PPPPPPP?
-&D;j0u
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
+&Sgw
 '7GWgw
-'D8l$@
 ( 8PX
 (8HXhx
-(;s |
-(A_A^
-(A_A^_^][
-(D$ A
-(D$ H
-(D$ f
-(D$0H
-(D$0z	u
-(D$@D
-(D$`H
-(D$pD
-(D$pH
-(D;wh|
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(E;uh
-(L$0D
-(L$@D
-(L$PD
-(L$`H
-(L$pD
-(L$pH
-(T$ H
-(T$0D
-(T$`L
-(T$pD
-(T?j?Y
-(\$ D
-(\$PH
-(\$`D
-(d$PE
 (null)
-(o:R	
-(t$ D
-(t$ H
-(t$ L
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$PD
-(t$PE
-(t$PH
-(t$PL
-(t$Ps
-(t$`A
-(t$`H
-(t$pD
-(t$pL
-(|$ H
-(|$ I
-(|$0H
-(|$0I
-(|$@D
-(|$@E
-(|$@H
-(|$@I
-(|$PD
-(|$PH
-(|$`I
-(|$pL
-)4$H;
 )9IYiy
-)>6{1n
-)D$0A
-)D$0D
-)D$0E
-)D$0H
-)D$0L
-)D$@A
-)D$@H
-)D$pA
-)D$pD
-)L$ D
-)L$0E
-)L$PE
-)L$PH
-)L$`A
-)L$pD
-)T$`D
-)T$`y
-)T$pD
-)\$PJ
-)\$`D
-)d$0E
-)d$Pv
-)d$`D
-)d$pD
-)l$ E
-)l$0z
-)l$PD
-)l$`D
-)t$ 9A
-)t$ A
-)t$ D
-)t$ E3
-)t$ H
-)t$ H+
-)t$ I
-)t$ t
-)t$ u
-)t$0A
-)t$0H
-)t$0L
-)t$0M
-)t$@%
-)t$@A
-)t$@H
-)t$@L
-)t$PA
-)t$PD
-)t$PH
-)t$Pv
-)t$`H
-)t$pE
-)|$ 3
-)|$ D
-)|$ t
-)|$0A
-)|$@D
-)|$@H9
-)|$@L
-)|$pD
-)|B?d!
+)yIx
 *:JZjz
 *StO9>T
-+;K[k{
-+B$Hc
-+C$Hc
-+D$ fE
-+F$Hc
-+J$D8M@
-+L$0A
-+M<7>
-+T$4E
-+f)>0'
-+h->|
 , VR_CONTROLLER_INPUT_JOYSTICK
 , VR_CONTROLLER_INPUT_TRACKPAD
 , VR_CONTROLLER_INPUT_TRIGGER 
 , controller %d, input %2d
-, m_bIsPressed = %d, m_bIsTouched = %d, analog( %f, %f )
+, m_bIsPressed = %d, m_bIsTouched = %d, analog( %f, %f )\n
 , name = %-10s
-, openVrEvent.eventAgeSeconds = %f
-,/<-w
-,0<	w
-,<L\l|
+, openVrEvent.eventAgeSeconds = %f\n
 ,HR>O
-,I<%w
-,t0D9J0v*L
-,|%)v
-,}v<e
 -1080
+-480
 -50 -100 30
--=M]m}
+-720
 -BH>t
 -autofidelityconfig
+-avx
 -cyclerandom
 -enable_2gb_morphs
 -forcefidelitylevel
 -fullscreen
 -headsetview
 -height
+-inf
 -msaa
 -noaq
 -noautofidelity
@@ -299,7 +114,6 @@ $Ib?s
 -sse3
 -sse4
 -stencilmesh
--uNI;
 -use_rift360config
 -use_viveconfig
 -vr_fidelity_memory_threshold
@@ -315,10 +129,8 @@ $Ib?s
 -width
 . Pixels per eye after stencil mask: 
 . Renderer now requires 
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU?$_InitialTaskHandle@XV<lambda_5a9ef80d79df7873994019ff15dceae5>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_60c5de84e69e46aa92419d47e2f3ad51>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_85226a1ade6d27c19b16702c44b1a394>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
@@ -548,8 +360,6 @@ $Ib?s
 .?AVtask_canceled@Concurrency@@
 .?AVtype_info@@
 .?AVunsupported_os@Concurrency@@
-.@Tu.
-.@TuCH
 .CRT$XCA
 .CRT$XCC
 .CRT$XCL
@@ -567,18 +377,12 @@ $Ib?s
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.CTu*
-.D$Tu;
-.ETu,H
-.FTu,H
-.FTu;
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -589,73 +393,41 @@ $Ib?s
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .vtex
 .xJ>Hf
 .xdata
 .xdata$x
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------\n\n
 /2GG>!B
-/=$!6
-/>58d%
-/?O_o
-/D$`s
-/D$ds
-/D$hs
-/D$pv
-/D$tv
-/D$xv
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 /user/hand/left
 /user/hand/right
 /user/head
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 3 3 3 3 4 4 4 6 3 4 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 13 20 11 11 10 11 11 11 11 10 10 10 11 10 11 9 9 9 9 9 9 11 11 11 11 11 11 11 11 11 23 30 23 22 22 23 23 24 23 23 23 23 23 22 23 22 22 22 20 20 20 19 19 19 22 22 22 23 23 23 36 41 38 36 35 36 36 36 36 34 35 34 35 35 35 33 33 33 33 33 33 32 32 32 31 31 31 31 31 31 55 58 55 52 52 52 54 54 54 52 52 52 52 51 52 51 51 51 49 49 49 47 47 47 48 48 48 47 47 47 95 96 95 93 93 93 94 94 94 93 92 93 91 90 91 91 91 91 87 87 87 86 86 86 85 85 85 85 85 85 165 165 165 161 161 161 163 163 163 159 159 159 160 160 160 158 158 158 155 155 155 151 151 151 151 151 151 148 148 148 220 220 220 216 216 216 217 217 217 214 214 214 215 215 215 212 212 212 209 209 209 205 205 205 203 203 203 203 203 203 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 7 7 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 15 22 13 16 13 12 11 11 11 9 9 9 9 9 9 9 9 9 9 9 9 7 7 7 7 7 7 7 7 7 27 39 27 27 20 27 24 24 24 23 23 23 22 22 22 22 22 22 20 20 20 19 19 19 19 19 19 18 18 18 39 48 41 39 37 39 38 38 38 36 36 36 35 35 35 34 34 34 33 33 33 31 31 31 30 30 30 29 29 29 60 66 62 58 55 57 56 54 54 54 54 54 52 52 52 51 51 51 49 49 49 47 47 47 46 46 46 44 44 44 106 110 105 104 96 98 98 95 95 93 93 93 92 92 92 90 90 90 87 87 87 84 84 84 82 82 82 80 80 80 177 182 176 175 169 173 171 168 168 166 166 166 162 162 162 160 160 160 155 155 155 151 151 151 148 148 148 146 146 146 241 242 238 234 224 230 227 224 224 222 221 221 220 220 220 215 215 215 211 211 211 205 205 205 203 203 203 200 200 200 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
 0 180 0
+0.04
+0.10
+0.85
+0000
 00003333
 0123456789ABCDEF
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
 0=Off, 1=VerticalSplit, 2=Checker, 3=FixedFoveated2x
-0><[cZUg^>
-0A\_]
-0A^A\_
-0A^A][
-0A^A]_
-0A^^[
-0A^_^
-0A_A\_
-0A_A]A\_]
-0A_A^A\
-0A_A^A\_^
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^]
-0A_A^_
-0A_A^_^]
-0A__]
-0HcA M
+0E>X
 0X8b?~
 0iN>/
-0v0b1
 1 = spew constantly, 2 = every second, 3 = only when over budget
 1 = spew constantly, 2 = spew when we skip a frame
 1#IND
@@ -663,126 +435,53 @@ $Ib?s
 1#QNAN
 1#SNAN
 100.0
+11Y@
 123456789
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
 1DBlend
 1eaB@
-200613003757Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+2\r52t
+3 FB
 3+5<t
-311110000000Z0e1
-33333333H+
+3333
+333?\n
+33s?
+37>k
 3>N;kU
 3>fvw
-3A8A#
-4HA;x
-4ND;{
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5@8|$"t.9|
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+3?tr
+51>W
+6>HL\r
+6NK>
+6\fXO>\ntA
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-80tWD
-8;o |
-8A^_^[
-8A_A^
-8A_A^A]A\_^][
-8D$ u+I
-8Y0t]
-8\$`t
-8\$pt
-8\$xt
-8_^][
+7>I0
+7?GX
+7~xh
 8ke?;
-91t0H
-91~/E3
-99~-H
-99~BH
-9:u4H
-9:u8H
+9>70
 9>powf
-9D$(}y
-9G$vAD
-9P ~(H
-9WP~GM
-9WP~HM
-9WP~KM
-9X@u4
-9YD~/3
-9^H~$H
-9_D~/3
-9_D~H3
-9_P~OE3
-9_p~$
-9i ~I
-9oP~2E3
-9oP~3E3
-9p ~DH
-9sHva
-9sLv|
-:>)*	v
-:>t6k'
-:H9G t
-:dsUpH^
-;A ~W
-;B$vUH
-;B$vvI
-;C ~M
-;Ct~EH
-;Ct~MH
-;Ct~ZH
-;Ct~bH
-;D$0u
-;D$@@
-;H9>&X
-;L$0u
-;Vl}fD
-;\$ |
-;\$`u
-;l$0|
-;t$Xu
-;|$@|
-<	u"H
-<	w	@
-< t;<	t7
-<(A9oX
-<>#n2
+;1cb
 <ERROR>
 <deferred>
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <sqrt
 <unconnected>
-=)\O?
-=33s?
+=1cb
+=87M
+=cQ6
+=e2m
 =imb;D
-=}?U?\
 >333>
->ffffff
+>cQ6
 >jtm}S
 ?!5WOo
-?*u8H
-?*u:H
-?+>^m
+?3Fx
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8UUUUU
 ?8bunz8
-?:kP<
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??0CThreadRWLock_FastRead@@QEAA@_N@Z
 ??1CThreadEvent@@QEAA@XZ
@@ -793,13 +492,11 @@ $Ib?s
 ?AppendFormattedComment@CMiniDumpComment@@QEAAXPEBDZZ
 ?ComposeFileName@CBufferString@@QEAAPEBDPEBD0D@Z
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
-?E=$% B
 ?EncounteredComplexReadLockOperation@CThreadRWLock_FastRead@@IEAA_NI_NPEBDH@Z
 ?ExtractFileBase@CBufferString@@QEAAPEBDPEBD@Z
 ?FindOrCreateCounter@CVProfile@@QEAAPEA_KPEBDW4CounterGroup_t@@@Z
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
-?FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!
-?H33H
+?FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!\n
 ?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Ji@9
@@ -809,129 +506,29 @@ $Ib?s
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
 ?Print model load-time conversion info
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?Relinquish@CBufferString@@QEAAPEADW4EAllocationOption_t@1@@Z
 ?Set@CThreadMultiWaitEvent@@QEAAXXZ
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
-?TY,>5
 ?UUUUUU
-?U[y[
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
 ?UnlockReadAccounting@CThreadRWLock_FastRead@@IEAAXPEBDHI@Z
 ?UnlockWrite@CThreadRWLock_FastRead@@QEAAXPEBDH@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-?W(~N
 ?Wait@CThreadSyncObject@@QEAA_NI@Z
+?\rz0w
+?\vxMW
 ?f`Y4
+?id7
 ?kxG2)
+?lZE
+?qBJ
+?rAj
 ?sqrtf
-?{Q}<
-@(A+@4;
-@.data
-@.gfids
-@.tls
-@09D$0
-@80u#H
-@81u/H
-@8y4u
-@8y:t
-@8{4ud@8{5u
-@8{4uo
-@8|$Pt
-@8|$PtN
-@8|$PtP
-@8|$^t
-@8|$ju2H
-@8|$ku	H
-@>%>b
-@A^A\_^]
-@A^A]A\
-@A^A]A\^]
-@A^_^
-@A_A^A\_^
-@A_A^A\_^][
-@A_A^A]A\_
-@A_A^A]A\_][
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^_
-@A_A^_^]
-@HcC(H
-@SAUAVH
-@SAVAWH
-@SAWH
-@SUAVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWH
-@SUWATAUAVAWH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@UATAVH
-@UATH
-@UAUAVAWH
-@UAUH
-@UAV3
-@UAVAWH
-@UAVH
-@UAWH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVH
-@USVWAVH
-@USVWH
-@USWH
-@UVAVH
-@UVWATAUAVAWH
-@UVWH
-@UWATAUAWH
-@UWATH
-@UWAUAVH
-@UWAWH
-@VWATAVAWH
-@VWAVH
-@VWAWH
-@WATAVH
-@WATAWH
-@WAVAWH
-@WAVH
+?ysB
 @^8U)zj
-@b;zO]
-A$+A,t[3
-A(9B(D
-A(L9#t
-A+n H
-A,A9A(v&L
-A,u+H
-A03>A|
-A0H9P
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A9FHt
-A9FHtQI
-A;6}#I
-A;@X}
-A;@`}
-A;A`}
-A;BX}
-A;H$s
-A;H$v}H
-A;Q`}
-A;RX}
-A;^@|
-A>l$/
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 AE_ACTION_SET_TURN_RATE_SCALE
@@ -969,70 +566,25 @@ AIWalkable
 AK>(v
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 APhysics
 ARGB8888
-ATAUAVH
-ATAUAWH
-ATAVAWH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-AUAVAWH
-AVAWH
-A]A\[]
-A]_^]
-A^A\]
-A^A\^]
-A^A\_^[]
-A^A]A\_]
-A^A][
-A^A][]
-A^A]_[]
-A^A]_]
-A^A]_^[]
-A^^[]
-A^_^[]
-A^_^]
-A^_^][
-A_A\^[]
-A_A\^]
-A_A\_^]
-A_A]A\
-A_A]A\H
-A_A]A\_]
-A_A]A\_^][
-A_A]]
-A_A^A\
-A_A^A\_]
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]]
-A_A^A]_]
-A_A^A]_^
-A_A^]
-A_A^_
-A_A^_^]
-A__^[
-A`D9L8
 AbsolutePoseControl
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
-Acquired overlay %s has unsupported API type: %d
-Acquired overlay %s texture failed to be shared.
-Acquired overlay %s texture isn't available. (yet)
+Acquired overlay %s has unsupported API type: %d\n
+Acquired overlay %s texture failed to be shared.\n
+Acquired overlay %s texture isn't available. (yet)\n
 AddLayer
 Align
-Allocating %s bytes for perf test data
+Allocating %s bytes for perf test data\n
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -1065,21 +617,17 @@ AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
-Attempt to hide invalid overlay (index=%d)
-Attempt to show invalid overlay (index=%d)
-Attempting to re-register existing mailbox!
-Attempting to send mailbox message without having first registerd our mailbox address!
+Attempt to hide invalid overlay (index=%d)\n
+Attempt to show invalid overlay (index=%d)\n
+Attempting to re-register existing mailbox!\n
+Attempting to send mailbox message without having first registerd our mailbox address!\n
 August
-AuthE
 AuthenticAMD
 AutoLayer
-Average fidelity from perf test %.2f from %d valid frames
-B(I9A(
-B0E8XAt
-B8|09
-B>q=j?
+Average fidelity from perf test %.2f from %d valid frames\n
 BC1%M
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -1096,17 +644,17 @@ Bad dynamic_cast!
 BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
 BlendLayerPoseParam
 BlendList
+Blue
 BodyGroup
 BodyGroupChoice
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
@@ -1115,18 +663,7 @@ ButtonPress
 ButtonTouch
 ButtonUnpress
 ButtonUntouch
-C$u	H
-C(9C u&
-C,9C$u
-C-yh/
-C0H9C(r
-C0HcF
-C4D+@ H
-C5R?	
-C8<(u
-C8H!o
-C9|)$u?C
-CA< t(<#t
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
 CGlobalConfigValueRegistry::HookUpConfigValue
@@ -1139,64 +676,65 @@ COLLISION_MODE_USE_NEAREST_TRACE
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CParticleSystemDefinition
-CRITICAL DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CRITICAL DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f\n
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CUNKNOWN
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlFixedMemory overflow!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct VulkanDeviceSpecificTexture_t,__int64> >::Grow
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<struct VulkanDeviceSpecificTexture_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct VulkanDeviceSpecificTexture_t,__int64> > >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<class CUtlString,class IVrMailboxMessageHandler *,int,class CDefLess<class CUtlString> >::Node_t,int,class CUtlMap<class CUtlString,class IVrMailboxMessageHandler *,int,class CDefLess<class CUtlString> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlString,class IVrMailboxMessageHandler *,int,class CDefLess<class CUtlString> >::Node_t,int>,int> >::NewNode
 CVr::CreateRenderModel(9811): 
 CVr::DisableMotionSmoothingForThisFrame(3561): 
-CVr::GetOutputDevice not supported for this rendersystem API.
+CVr::GetOutputDevice not supported for this rendersystem API.\n
 CVr::MarkGamePhase(5348): 
 CVr::MarkGamePhase(5355): 
 CVr::PollHMDStateForRenderThread(5436): 
 CVr::PollHMDStateForRenderThread(5448): 
 CVr::PollHMDStateForRenderThread(5472): 
 CVr::PreShutdown(1251): 
-CVr::SampleAxisControllerState(4575): ERROR! Unknown controller axis type %d!
+CVr::SampleAxisControllerState(4575): ERROR! Unknown controller axis type %d!\n
 CVr::SetOverlayTexture(11010): 
 CVr::SetSkyboxOverride(2401): 
 CVr::UpdateGhostCorrectionTexture(1105): 
 CVrReconstructionRenderer
-CVrReconstructionRenderer::Render(7338): VR - Destroying old VB for reconstruction eye %d!
-CVrReconstructionRenderer::Render(7345): VR - Destroying old IB for reconstruction eye %d!
-CVrReconstructionRenderer::Render(7366): VR - Destroying old IB for reconstruction!
-CVrReconstructionRenderer::Render(7506): VR - Error! VB handle is invalid in CVrReconstructionRenderer!
-CVrReconstructionRenderer::Render(7515): VR - Error! IB handle is invalid in CVrReconstructionRenderer!
+CVrReconstructionRenderer::Render(7338): VR - Destroying old VB for reconstruction eye %d!\n
+CVrReconstructionRenderer::Render(7345): VR - Destroying old IB for reconstruction eye %d!\n
+CVrReconstructionRenderer::Render(7366): VR - Destroying old IB for reconstruction!\n
+CVrReconstructionRenderer::Render(7506): VR - Error! VB handle is invalid in CVrReconstructionRenderer!\n
+CVrReconstructionRenderer::Render(7515): VR - Error! IB handle is invalid in CVrReconstructionRenderer!\n
 CVrReconstructionRendererIB
 CVrReconstructionRendererVB
 CVrStencilRenderer
-CVrStencilRenderer::Render(6389): VR - Destroying old VB for Stenciling!
-CVrStencilRenderer::Render(6434): VR - Error! VB handle is invalid in CVrStencilRenderer!
+CVrStencilRenderer::Render(6389): VR - Destroying old VB for Stenciling!\n
+CVrStencilRenderer::Render(6434): VR - Error! VB handle is invalid in CVrStencilRenderer!\n
 CVrStencilRendererVB
 CVrSubviewStencilRenderer
-CVrSubviewStencilRenderer::Render(6578): VR - Destroying old VB for SubviewStenciling!
-CVrSubviewStencilRenderer::Render(6920): VR - Error! VB handle is invalid in CVrSubviewStencilRenderer!
+CVrSubviewStencilRenderer::Render(6578): VR - Destroying old VB for SubviewStenciling!\n
+CVrSubviewStencilRenderer::Render(6920): VR - Error! VB handle is invalid in CVrSubviewStencilRenderer!\n
 CVrSubviewStencilRendererVB
 CVrWarpRenderer
-CVrWarpRenderer::Render(7101): VR - Destroying old IB for warping!
-CVrWarpRenderer::Render(7179): VR - Error! VB handle is invalid in CVrWarpRenderer!
-CVrWarpRenderer::Render(7188): VR - Error! IB handle is invalid in CVrWarpRenderer!
+CVrWarpRenderer::Render(7101): VR - Destroying old IB for warping!\n
+CVrWarpRenderer::Render(7179): VR - Error! VB handle is invalid in CVrWarpRenderer!\n
+CVrWarpRenderer::Render(7188): VR - Error! IB handle is invalid in CVrWarpRenderer!\n
 CVrWarpRendererIB
 CVrWarpRendererVB
 CWD>~3
+C\v=33s?
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -1302,12 +840,12 @@ CompareStringEx
 Compositor failed initialization with error code %s: "%s"
 CompressBlocksBC6H
 CompressBlocksBC7
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
-Connected to SteamVR compositor!
+Connected to SteamVR compositor!\n
 ContextPriority
 ContextStackSize
 Controller %d Brand: 
@@ -1317,13 +855,13 @@ Controller %d Render Model:
 Controller %d Serial Number: 
 Controller %d, input %2d
 Controller %d, input %2d, VR_CONTROLLER_INPUT_BUTTON  
-Controller at tracked device slot: %d %s
+Controller at tracked device slot: %d %s\n
 Controller event vr::VREvent_%s, name = %-10s
-Converting display frequency from %f to %d / %d
+Converting display frequency from %f to %d / %d\n
 CopyAttrFrom
 Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
 CorExitProcess
-Couldn't write Frame Timing data.
+Couldn't write Frame Timing data.\n
 CreateEventExW
 CreateEventW
 CreateFileW
@@ -1342,197 +880,20 @@ CreateTimerQueueTimer
 CreateUmsCompletionList
 CreateUmsThreadContext
 CycleOverride
-D W?{W
-D$ !>;
-D$ !\$$H
-D$ 3A
-D$ 9F
-D$ ;V
-D$ E3
-D$ H;
-D$ Hc
-D$ I;
-D$ N&B:H
-D$ P-
-D$ d=
-D$ fD
-D$ fH
-D$ r|
-D$ t.
-D$$A;
-D$$E;
-D$(E3
-D$(H;
-D$(fI
-D$09\$<
-D$0=]
-D$0C+D0(
-D$0E3
-D$0H#
-D$0H;G
-D$0Hc
-D$0HcH
-D$0L;
-D$0f;UPu
-D$0mp
-D$0r|
-D$0tbA
-D$49C
-D$4L;
-D$8A;
-D$8H;
-D$8HcJ
-D$8L9
-D$8fH
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@E3
-D$@H+
-D$@H;
-D$@H;G
-D$@Hc
-D$@I;
-D$@Ic
-D$@csm
-D$@f;
-D$@mp
-D$@r|
-D$H;F
-D$HE3
-D$HH;
-D$HL+
-D$HL;
-D$P I
-D$P"ZF
-D$P9A
-D$P;C
-D$P;L$H
-D$P;L$L
-D$PD;
-D$PE3
-D$PE;O
-D$PH+
-D$PH;
-D$PI;
-D$PIc
-D$PL;
-D$Pk@_aH
-D$Pmp
-D$XD8p
-D$XD90}
-D$XH;
-D$XL+
-D$Y H
-D$`@2
-D$`E#
-D$`E3
-D$`H;
-D$`Hc
-D$`L+
-D$`L;
-D$`Ll
-D$`r|
-D$dfff
-D$hA+
-D$hA;
-D$hE3
-D$p 69
-D$p<L{
-D$pHK8
-D$pLc
-D$pMc
-D$pfA
-D$x*>
-D$xA;
-D$xHc
-D$xL+
-D$xfD
 D%lld
-D+D$8
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8-"[
-D8-#E
-D8-4F
-D8-=G
-D8->\
-D8-MA
-D8-MJ
-D8-OK
-D8-QH
-D8-QI
-D8-TN
-D8-UQ
-D8-VP
-D8-VS
-D8-WR
-D8-XM
-D8-ZB
-D8-ZO
-D8-\L
-D8-_T
-D8-hV
-D8-hY
-D8-iU
-D8-jC
-D8-jW
-D8-lD
-D8-lX
-D8-uZ
-D8-u[
-D82u&H
-D8M@t
-D8M@t^
-D8Y:uEH
-D8a:uDH
-D8c:u
-D8d$H
-D8d$Ht
-D8d$ht
-D8l$@t
-D8l$`
-D8l$ht
-D8m!u0H
-D8m"u	H
-D8o(t4
-D8sAt
-D8t$Ht
-D8|$Pt
-D90u	9X
-D9B,t
-D9G$s5
-D9J,w
-D9TA;
-D9c t
-D9d$(u
-D9f@~0Hc
-D9oh~]I
-D9x(uiE
-D9{(u
-D9|$ 
-D;%b<
-D;D$(|
-D;D$(}:J
-D;D$8|
-D;D$8};J
-D;L$H
-D;j0v
-D;t$du
-D;z,u
-D;z,v
-D;z,v(A
-D;{Lr
-D<P0I
-DD$$H
+DDDD
 DDDDUUUU
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 DebugDrawObjects
 DebugTextureInfo001
@@ -1546,53 +907,34 @@ DeleteTimerQueueTimer
 DeleteUmsCompletionList
 DeleteUmsThreadContext
 DequeueUmsCompletionListItems
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Display VR Perf HUD in HMD
 Display fidelity visualizer in VR Perf HUD (vr_perf_hud must be 1)
 DotaCardGameClient_001
-Driver high = 0x%x, low = 0x%x
+Driver high = 0x%x, low = 0x%x\n
 Dump the left-hand controller render data to an OBJ + TGA files
 DuplicateHandle
 DynamicConfigList
 DynamicProgressFeedback
 Dynamically adjust vr_fidelity_level based on current performance
-E+BHI
-E+H(A
-E0C07
-E0HcH
-E0Lcx
-E8X@t8A
-E9$1~!E
-E;Bl}NE
-E;F$w
-E;~(H
 E>nEA
-EP*?@
-EPHc@
-ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pRenderDevice!
-ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pResourceSystem!
-ERROR! Cannot load VrStartup resource manifest!
-ET$(H
+ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pRenderDevice!\n
+ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pResourceSystem!\n
+ERROR! Cannot load VrStartup resource manifest!\n
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
+E[\rn?gc
 EconItemToolModel_001
 EditorDynamicConfig
-Egv3A
+EiUL
 EmptyAnim
 EncodeBC6Blocks
 EncodeBC7Blocks
 EncodePointer
-Encountered unknown vr::EVRInputError value.
+Encountered unknown vr::EVRInputError value.\n
 EngineServiceMgr001
 EnterCriticalSection
 EnterUmsSchedulingMode
-Et$hL
 EventSystem001
-ExIcPpHi
 ExecuteUmsThread
 ExitProcess
 Expected ',' or '%s'
@@ -1606,48 +948,46 @@ Expected value or ']'
 Eye 0 lens center is UV( 
 Eye 1 lens center is UV( 
 Eye separation (IPD) from SteamVR: 
-F(LcF I
-F0LcFDI
-F8HcNDI
 F>qUxv
-F@F9$
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FCVAR_NEVER_AS_STRING
+FEMh\f
 FOV Left Eye  (L/R/T/B): 
 FOV Right Eye (L/R/T/B): 
 Fail to schedule the chore!
-Failed to SetOverlayFromFile %s: %s
+Failed to SetOverlayFromFile %s: %s\n
 Failed to assign bool literal value
-Failed to create VR loading overlay: %s
-Failed to create VR overlay: %s
-Failed to create mailbox '%s' - error %d
-Failed to destroy VR overlay: %s
-Failed to hide VR overlay: %s
-Failed to parse json message - error '%s'
-Failed to parse mailbox message - error '%s'
-Failed to query overlay flag - error %s
-Failed to release overlay view - error %s
-Failed to send mailbox message - error %d
-Failed to set stage - error %d
-Failed to show VR overlay: %s
-Failed to write obj to '%s'
-Failed to write tga to '%s'
+Failed to create VR loading overlay: %s\n
+Failed to create VR overlay: %s\n
+Failed to create mailbox '%s' - error %d\n
+Failed to destroy VR overlay: %s\n
+Failed to hide VR overlay: %s\n
+Failed to parse json message - error '%s'\n
+Failed to parse mailbox message - error '%s'\n
+Failed to query overlay flag - error %s\n
+Failed to release overlay view - error %s\n
+Failed to send mailbox message - error %d\n
+Failed to set stage - error %d\n
+Failed to show VR overlay: %s\n
+Failed to write obj to '%s'\n
+Failed to write tga to '%s'\n
 February
+FfW?
 FillAttr
 FindClose
 FindFirstFileExA
 FindNextFileA
-Finished %d Blocks out of %d
+Finished %d Blocks out of %d\n
 FlattenedSerializersVersion001
 FloatBitMap_t::ConvertGammaToLinear
-FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
-FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
-FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!
-FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
-FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!
-FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
-FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!
-FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!\n
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!\n
+FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!\n
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!\n
+FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!\n
+FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!\n
+FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!\n
+FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!\n
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -1655,34 +995,29 @@ FlsSetValue
 FlushFileBuffers
 FlushProcessWriteBuffers
 FontManager_001
-Found overlay %s is invalid
-Found unknown controller product id: 0x%04x, using default WindowsMR controller.
+Found overlay %s is invalid\n
+Found unknown controller product id: 0x%04x, using default WindowsMR controller.\n
 Foveated 2x.
 Frame time
-FrameIndex,NumDroppedFrames,PreSubmitGpuMs,PostSubmitGpuMs,CompositorRenderGpuMs,ClientFrameIntervalMs,FidelityLevel
+FrameIndex,NumDroppedFrames,PreSubmitGpuMs,PostSubmitGpuMs,CompositorRenderGpuMs,ClientFrameIntervalMs,FidelityLevel\n
 FreeEnvironmentStringsW
 FreeLibrary
 FreeLibraryAndExitThread
 FreeLibraryWhenCallbackReturns
 Friday
-G H9F
-G$;G,
-G0Hc	H
-G8Hc@
+G>US
+GAME
 GAMEROOT
+GCTL
 GCUtlString::FormatV
 GPU Memory
 GPU: 
-GT$H@
-GT$XH
-G\$XH
 Game CPU time
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameStartup
 GameUIService_001
 GenericGameData
-Genu3
 GenuineIntel
 GetACP
 GetActiveWindow
@@ -1757,116 +1092,22 @@ GetUmsCompletionListEvent
 GetUserObjectInformationW
 GetVersionExA
 GetVersionExW
-Ghost Correction Table:
-Ghost correction editor - %d -> %d = %d, %d, %d
-Ghost correction editor - Editing %d -> %d = %d, %d, %d
+Ghost Correction Table:\n"%s"\n
+Ghost correction editor - %d -> %d = %d, %d, %d\n
+Ghost correction editor - Editing %d -> %d = %d, %d, %d\n
 Green
-G|$HA
-H SVWH
-H SWH
-H!D$ E
-H!T$0D
-H!\$(L
-H!\$03
-H!u H
-H#L$8H
-H#t$0tB
-H$E+H,toA
-H+C H=
-H+D$hH+D$P3
-H+G H=
-H+\$h+
-H+\$hIc<$H
-H0F08
-H3\$HH
-H97t<
-H98u	H
-H99u{
-H9=,q
-H9A u
-H9A(s
-H9BhuTH
-H9D$PuCI
-H9J t1
-H9K u
-H9_ht0H
-H9l$Xt
-H9s@u
-H9u(t	H
-H9uot	H
-H9wPH
-H9|$`u:H
-H;@0u
-H;@Xu
-H;D$Pu
-H;D$`
-H;XXs
-H;YXt 
-H;\$P|
-H;xXu9
-HA]_][
-HA_A\
-HA_A]A\_^[
-HA_A^A]A\_^][
 HH:mm:ss
 HMD Brand: 
 HMD Manufacturer: 
 HMD Model: 
-HMD Position: %.2f, %.2f, %.2f
+HMD Position: %.2f, %.2f, %.2f\n
 HMD Serial Number: 
 HTC VIVE
-H[><y5
-H_^][
 HammerMapLoader001
-Hc.;n
-Hc/;o
-Hc;HcK
-HcA$H
-HcC H
-HcC0H
-HcD$ H
-HcD$HE+
-HcD$HE3
-HcFTL
-HcG$H
-HcG(H
-HcGXH
-HcGXI
-HcGXL
-HcGXM
-HcGl;Gh}
-HcH<H
-HcK ;
-HcK H
-HcKhH
-HcL$ H
-HcOXH
-HcS@H
-HcT$p
-HcT$pA
-HcWXH
-HcWXI
-HcWpH
-Hc\$`E
-Hc\$pE
-Hc]`M
-Hc_0L
-HckHL
-Hcl$0H
-Hct$0E3
-Hct$HH
-Hc{ ;{0u
-Hc{h;{xu
-Hc}pH
 HelpSystem_001
-Hitbox indexing is incorrect for set %s, hitbox %s. Hitboxes will not be setup properly.
+Hitbox indexing is incorrect for set %s, hitbox %s. Hitboxes will not be setup properly.\n
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
-I94$t
-I9H0t
-I9\$ ~@H
-I9}(t9H
+IA88
 IKChain
 IKChainOld
 IKData
@@ -1879,10 +1120,10 @@ INITY
 IQuickTime001
 IVRApplications_007
 IVRChaperone_003
-IVRCompositor::%s() failed with error '%s'
-IVRCompositor::Submit() failed with error '%s'
+IVRCompositor::%s() failed with error '%s'\n
+IVRCompositor::Submit() failed with error '%s'\n
 IVRCompositor_026
-IVRControlPanel::RegisterExternalWebRoot() failed with error '%s'
+IVRControlPanel::RegisterExternalWebRoot() failed with error '%s'\n
 IVRHeadsetView_001
 IVRInput version %s unavailable
 IVRInputInternal_002
@@ -1893,14 +1134,7 @@ IVROverlay_024
 IVRRenderModels_006
 IVRSystem_021
 IXrProto_001
-Ic4$A;t$
-Ic6A;v
-Ic7Hc\((
-IcI A
-IcUpHi
-IcXpM
-Ic]hA;]xu	I
-If you don't have a VR device, you can run with -vrdebug to see vr rendering as a side-by-side stereo render.
+If you don't have a VR device, you can run with -vrdebug to see vr rendering as a side-by-side stereo render.\n
 Ignore All
 Ignore Always
 Ignore Once
@@ -1918,7 +1152,7 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InterlockedPopEntrySList
 InterlockedPushEntrySList
@@ -1929,78 +1163,13 @@ IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
 January
-K 9N v@H
-K H9y
-K&>.yC
-K0u,H
-K4A+H 
+July
+June
 KERNEL32.dll
+KL2H
 KeyValueCache001
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L$ E3
-L$ Hc
-L$ SH
-L$ SUVWATAUAWH
-L$ SUVWH
-L$ SVWH
-L$ USWH
-L$ UVWATAUAVAWH
-L$ UWAVH
-L$ VWAVH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$$D;
-L$&@8t$&t0@8q
-L$(E3
-L$(fH
-L$0H3
-L$0H;
-L$0H;K
-L$0M;
-L$0fH
-L$0fI
-L$8;L$0
-L$8E3
-L$8H3
-L$8Hc
-L$8Lc
-L$@;|
-L$@E3
-L$@H3
-L$@H=
-L$@Lc
-L$@uU
-L$D;L$T
-L$DE3
-L$HD;
-L$P+L$8
-L$P+L$H
-L$PH3
-L$PfD
-L$XE3
-L$XfD
-L$`A;
-L$`E3
-L$`E;
-L$`H3
-L$`fD
-L$`tcA
-L$pH3
-L$xLc
-L1HthD
-L9*u&
-L9HtzE
-L9`8tA
-L9d$@
-L9m(t	H
-L9ugt	H
-L9w t#H
-L9~ t
-L;EHt
-L;e@v
+L>ev
 L?UUUUUUU?
 LCMapStringEx
 LCMapStringW
@@ -2018,30 +1187,19 @@ LINEAR_RGB888
 LINEAR_RGBA16161616
 LINEAR_RGBA8888
 LOG_GENERAL
-Launching %s
-Lc3D;s
-LcA<E3
-LcCP3
-LcCPH
-LcFDI
-LcGP3
-LcIhM
-Lcd$0ff
-Lcl$ A
-Lcl$xfff
-Lcn LcvPA
-Lct$8A
+LWG>
+LWW>
+Launching %s\n
 LeaveCriticalSection
 Line %d at "%s": %s
 Line %d: %s
 Line %d: Invalid value "%s"
 LinearDelta
-Lj[;>
 LoadAtiCompress
 LoadISPCTexComp
 LoadLibraryExW
 LoadLibraryW
-Loading action manifest from depot.
+Loading action manifest from depot.\n
 LocalContextCacheSize
 LocaleNameToLCID
 Localize_001
@@ -2050,12 +1208,9 @@ LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-M H1E
-M9}ht
 MATCHFRAMEWORK_001
-MAX DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
-MIN INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms < %.2f
-MLc3D;s
+MAX DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f\n
+MIN INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms < %.2f\n
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
@@ -2068,22 +1223,22 @@ MaxPolicyElementKey
 MbP?9
 Mbp?333333
 Measured GPU Speed: 
-Median client cpu usage=%fms
+Median client cpu usage=%fms\n
 MeshSystem001
 MeshUtils001
 MessageBoxA
 MessageBoxW
 MinConcurrency
-Model conversion: %d conversions in %.3fsec (%.3fms each)
+Model conversion: %d conversions in %.3fsec (%.3fms each)\n
 ModelDocUtils001
 Monday
 MultiByteToWideChar
-N&B:H
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
+NQ?s
 NV_DST16
 NV_DST24
 NV_INTZ
@@ -2098,35 +1253,26 @@ NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
 Newline in string literal
-No Frame Timing data available.
-No headset detected. 
+No Frame Timing data available.\n
+No headset detected. \nPlease check your headset's connections and try again.
 NoPoseControl
+None\n
 November
-O(t(H
-O,D9O(vcH
-O0HcQ
-OF>;^
+OZQ%
 October
 Oculus Rift S
 Offset
-Only DXT1/DXT5 online texture compression supported.
-OpenVR event vr::VREvent_InputFocusCaptured
-OpenVR event vr::VREvent_InputFocusReleased
-Ordered constructor wrapped type has no default constructor.
+Only DXT1/DXT5 online texture compression supported.\n
+OpenVR event vr::VREvent_InputFocusCaptured\n
+OpenVR event vr::VREvent_InputFocusReleased\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 OutputDebugStringW
 Overall FOV (H/V): 
-P>q_Y~
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA^_^
-PA_A^A]A\_^]
-PA_A^]
-PA_A^^
-PA_A^_^]
-PA_^]
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -2136,7 +1282,8 @@ PF_TYPE_CONTROL_POINT_COMPONENT
 PF_TYPE_LITERAL
 PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
-PREDICTIVE DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
+PREDICTIVE DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f\n
+PTe\r
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
 PanoramaTextServices001
@@ -2174,8 +1321,7 @@ Plat_RelativeTicks
 Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
 Plat_TickDiffSec
-Please check your headset's connections and try again.
-Please verify SteamVR is properly installed and try again.
+Po5H
 PostProcessingSystem_001
 PreviewAttachmentModel
 PreviewBoneAttachedModel
@@ -2184,16 +1330,17 @@ PreviewPreset
 PreviewPresetList
 PropertyEditorSystem_001
 Q5rHg,>
+QAf?
 QueryDepthSList
 QueryPerformanceCounter
 QueryPerformanceFrequency
 QueryUmsThreadInformation
 QueueUserWorkItem
 QueuedLoaderVersion001
-R(A9P4A
-R0E8XAt
 R11_EAC
+R16F
 R16F_EXPAND
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
@@ -2223,14 +1370,14 @@ RGBX8888
 RSDSC
 RaiseException
 RandomInt
-Raw matrices from SteamVR (all units in meters):
-Re-acquired overlay has lost its texture!
-Received event: %d, Dashboard Showing: %d
+Raw matrices from SteamVR (all units in meters):\n\n
+Re-acquired overlay has lost its texture!\n
+Received event: %d, Dashboard Showing: %d\n
 Recommended GPU Speed for HMD: 
 Recommended Render Target Size: 
-Recommended render target size: %d x %d
+Recommended render target size: %d x %d\n
 Refresh Rate: 
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 RegisterTraceGuidsW
 RegisterWaitForSingleObject
@@ -2248,8 +1395,8 @@ RenderMeshFile
 RenderService_001
 RenderSystemSurface001
 RenderUtils_001
-Request frame stats for %d frames, but only got %d
-Requested excessive number of frame stats (%d)
+Request frame stats for %d frames, but only got %d\n
+Requested excessive number of frame stats (%d)\n
 ResetEvent
 ResourceCompilerSystem001
 ResourceHandleUtils001
@@ -2257,30 +1404,18 @@ ResourceManifestRegistry001
 ResourceSystem013
 RoInitialize
 RoUninitialize
-Rounding display frequency from %f to %d
+Rounding display frequency from %f to %d\n
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S,, <Zw
-S,fA+
+S+Ot
 S2_CVR_LoadingBackground
 S2_CVR_LoadingForeground
+S9>H
 S>$hkDh$h>[2
-SAVAWH
 SNAN)
-SUVWATAUAVAWH
-SUVWAVAWH
-SUVWAVH
-SUWAUH
-SVAUH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATAVAWH
-SVWAVH
-SVWAWH
-S^>#/
 Samsung Windows Mixed Reality 800ZAA
 Saturday
 SceneSystem_002
@@ -2300,19 +1435,19 @@ ServerUploadGameStats001
 Set to 1 when you want frames to be captured by the SteamVR perf test.
 SetAssertionCallback
 SetEvent
-SetExplicitTimingMode to VRCompositorTimingMode_Explicit_ApplicationPerformsPostPresentHandoff
-SetExplicitTimingMode to VRCompositorTimingMode_Explicit_RuntimePerformsPostPresentHandoff
-SetExplicitTimingMode to VRCompositorTimingMode_Implicit
+SetExplicitTimingMode to VRCompositorTimingMode_Explicit_ApplicationPerformsPostPresentHandoff\n
+SetExplicitTimingMode to VRCompositorTimingMode_Explicit_RuntimePerformsPostPresentHandoff\n
+SetExplicitTimingMode to VRCompositorTimingMode_Implicit\n
 SetFileInformationByHandle
 SetFilePointerEx
 SetLastError
-SetOverlayAlpha failed: %s
-SetOverlayAlpha: invalid overlay %d
-SetOverlayTexture: invalid overlay %d
-SetOverlayTransform failed: %s
-SetOverlayTransform: invalid overlay %d
-SetOverlayWidth: invalid overlay %d
-SetOverlayWidthInMeters failed: %s
+SetOverlayAlpha failed: %s\n
+SetOverlayAlpha: invalid overlay %d\n
+SetOverlayTexture: invalid overlay %d\n
+SetOverlayTransform failed: %s\n
+SetOverlayTransform: invalid overlay %d\n
+SetOverlayWidth: invalid overlay %d\n
+SetOverlayWidthInMeters failed: %s\n
 SetStdHandle
 SetThreadAffinityMask
 SetThreadGroupAffinity
@@ -2346,62 +1481,25 @@ Source2Host001
 Source2Server001
 Source2ServerSerializers002
 StartLoop
-Stats:
 StatsService_001
 SteamAudio001
-SteamVR HMD: %s %s %s (%.0fHz)
-SteamVR Version: %s
-SteamVR failed initialization with error code %s: "%s"
+SteamVR HMD: %s %s %s (%.0fHz)\n\n
+SteamVR Version: %s\n
+SteamVR failed initialization with error code %s: "%s"\n\nPlease verify SteamVR is properly installed and try again.
 SteamVR initialization failed!
-SteamVR initialized!
+SteamVR initialized!\n
 Stencil mask reduces rendering area by: 
 Stereo FOV (H/V): 
 Submit
 SubmitEye
 SubmitThreadpoolWork
-Submitting first frame to the compositor
+Submitting first frame to the compositor\n
 Subtract
 Subview Mode = 
 Subview stencil mesh reduces rendering area by 
 Sunday
 SwitchToThread
-SxHcGXE3
-SxHcGXH
-SxIcF
-SxIcG
-T$ A3
-T$ A;
-T$ E3
-T$ H;
-T$ Ic
-T$ Lc
-T$ Mc
-T$0E3
-T$0H;
-T$8A+
-T$8E3
-T$<D;
-T$<H9
-T$@E3
-T$@H+
-T$@H;
-T$P;{
-T$PA"
-T$PE3
-T$PH3
-T$PIc
-T$TE3
-T$XE3
-T$`Hc
-T$pD+
-T$pE3
-T$pH;
-T$pHc
-T$pLc
-T$pLi
-T$pfA
-T$pfD
-TEST INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms
+TEST INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms\n
 TUUUU
 TargetOversubscriptionFactor
 TerminateProcess
@@ -2417,9 +1515,9 @@ The normalized fidelity level reported back to SteamVR Perf Test
 This function cannot be called on a default constructed task
 ThreadGetCurrentProcessId
 ThreadSleep
-Throttling due to cpu usage: disabled
-Throttling due to cpu usage: off (median=%fms)
-Throttling due to cpu usage: on (median=%fms)
+Throttling due to cpu usage: disabled\n
+Throttling due to cpu usage: off (median=%fms)\n
+Throttling due to cpu usage: on (median=%fms)\n
 Thursday
 TlsAlloc
 TlsFree
@@ -2430,84 +1528,47 @@ ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
 TraceEvent
-Triggering haptic pulse on controller %d, input %s
+Triggering haptic pulse on controller %d, input %s\n
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
-Trying to find a flex controller (%s) that doesn't actually exist in the model.
+Trying to find a flex controller (%s) that doesn't actually exist in the model.\n
 Tuesday
 Two Bone
-U0Hcu
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
 UPDATE_STRING_TOKEN_DATABASE
-USATAUI
-USAUAVH
-USAUH
-USAVH
-USAVI
 USER32.dll
-USVATAWH
-USVAVH
-USVWATAUAVAWH
-USVWAUAVH
-USVWAVH
-USVWH
-USWAUAVI
+UUUU
 UUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVAWH
-UVATAUAVH
-UVATAVH
-UVATAWH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATAVH
-UVWATAWH
-UVWAUH
-UVWAVAWH
-UVWAVH
 UVWQ8888
-UWATAUAWH
-UWATAVAWH
-UWAUAVAWH
-UWAUI
-UWAVH
-UWAWH
 UmsThreadYield
-Unable find required entry points in %s
-Unable to acquire overlay %s - error %s
-Unable to find overlay %s - error %s
-Unable to load %s, error %d
-Unable to re-acquire overlay - error %s
+Unable find required entry points in %s\n
+Unable to acquire overlay %s - error %s\n
+Unable to find overlay %s - error %s\n
+Unable to load %s, error %d\n
+Unable to re-acquire overlay - error %s\n
 UnhandledExceptionFilter
 Unknown (%d)
 Unknown EVRCompositorError
-Unknown HMD manufacturer name '%s' - falling back to %s.
-Unknown controller modelnumber '%s' - falling back to WindowsMR controller.
-Unknown controller type name '%s' - falling back to HMD manufacturer name.
+Unknown HMD manufacturer name '%s' - falling back to %s.\n
+Unknown controller modelnumber '%s' - falling back to WindowsMR controller.\n
+Unknown controller type name '%s' - falling back to HMD manufacturer name.\n
 Unknown exception
 UnregisterTraceGuids
 UnregisterWait
 UnregisterWaitEx
-Unsupported ETC image format %d.
+Unsupported ETC image format %d.\n
 Unsupported escape character '\%c'
 UpdateProcThreadAttribute
-Use: vr_dump_render_model <obj_filename> <tga_filename>
+Use: vr_dump_render_model <obj_filename> <tga_filename>\n
 UserInfoChangeService_001
-V0;Ct~ZH
-V0H9-
-V6E>`"(5
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDebugService_001
 VEngineCvar007
 VFileSystem017
@@ -2527,23 +1588,23 @@ VPhysics2_Handle_Interface_001
 VPhysics2_Interface_001
 VProcessUtils002
 VProfService_001
-VR - ERROR! VrApplications failed to LaunchInternalProcess( %s, %s, %s ) with error code:
-VR - Error calling g_pVr->GenerateWarpMeshVbAndIb()!
-VR - Error! %s!
+VR - ERROR! VrApplications failed to LaunchInternalProcess( %s, %s, %s ) with error code:\n%i "%s"\n
+VR - Error calling g_pVr->GenerateWarpMeshVbAndIb()!\n
+VR - Error! %s!\n
 VR - GPU( %5.2f )
-VR - IdentifyApplicaton steam.app.450390 AFTER VR Init
-VR - Warning! SteamVR failed initialization with error code %s: "%s"!
-VR - vr_test_nonblocking_hmd_input available
-VR GPU Compositor benchmark data not available.
-VR Multiview Instancing enabled.
-VR failure loading render model %s: %d
-VR load render model texture failure: %d
-VR perf test data written to %s
-VR prediction: client( %s us) + vsyncToPhotons( %s us ) = %s us
-VR render model failed to load!
-VR render model failure: %d
-VR render model texture failed to load!
-VR render model texture failure: %d
+VR - IdentifyApplicaton steam.app.450390 AFTER VR Init\n
+VR - Warning! SteamVR failed initialization with error code %s: "%s"!\n
+VR - vr_test_nonblocking_hmd_input available\n
+VR GPU Compositor benchmark data not available.\n
+VR Multiview Instancing enabled.\n
+VR failure loading render model %s: %d\n
+VR load render model texture failure: %d\n
+VR perf test data written to %s\n
+VR prediction: client( %s us) + vsyncToPhotons( %s us ) = %s us\n
+VR render model failed to load!\n
+VR render model failure: %d\n
+VR render model texture failed to load!\n
+VR render model texture failure: %d\n
 VR/CPU Frame Time
 VR/CPU Game Time
 VR/CPU Single Tick Time
@@ -2587,14 +1648,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VWATAUAVAWL
-VWATAUH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
 V_CopyMemory3D
 V_FixInvalidPathCharacters
 V_FixupPathCharToUnderscore
@@ -2621,15 +1674,12 @@ V_stricmp_fast
 V_vsnprintf
 V_vsnprintfSize
 V_wcstoi64
-V`;Ct~bH
 Valve
-Valve0
-Valve1
 VertexUVPosColorNormalAndTangent_t
 Vertical split full resolution.
 Viewport Left Eye:  
 Viewport Right Eye: 
-Virtual reality command line args:
+Virtual reality command line args:\n
 VirtualAlloc
 VirtualFree
 VirtualProtect
@@ -2655,21 +1705,16 @@ VrStencilLayout
 VrSubviewStencilLayout
 VrWarpQuadLayout
 VrWarpTexture%d
-W8HcH
+W 7x
 W=vmdlkeys0
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WAUAVH
-WAVAWH
-WD8l$@t
-WP9^H~&
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WaNd?
 WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 Warp mesh covers 
 Wednesday
 WeightList
@@ -2683,88 +1728,44 @@ WorldRendererBuilderMgr001
 WorldRendererMgr001
 WriteConsoleW
 WriteFile
-Writing Frame Timing info to %s (%d samples)
-Wrote obj to '%s'
-Wrote tga to '%s'
-Wu4E3
-X E9z
-X!t5~
-X(D9y(
+Writing Frame Timing info to %s (%d samples)\n
+Wrote obj to '%s'\n
+Wrote tga to '%s'\n
+X/4B
 X360_DST16
 X360_DST24
 X360_DST24F
-XA;w@
-XA_A^A\_^[
-XL$tL
-X|$ A
-X|$8E
-X|(XM
-Y$D;R
-Y0t>H
+Y8a:
 Y>kX>M
-YD$@f
-Z(D9Z
 Z\>z8
-Zod(^?
 [ Broadcasting from within VR; note taking skipped. ]
 [*ncd>0
-[@fE#
-[Auto-Fidelity System] %dxMSAA = %dx%d (Color + Depth + Other = %s MB)
-[Auto-Fidelity System] Default fidelity level = %d
-[Auto-Fidelity System] Filtered out fidelity level %d because %d would reduce resolution below height height: %d
-[Auto-Fidelity System] Filtered out fidelity level %d because %d would reduce resolution below threshold width: %d
-[Auto-Fidelity System] Filtered out fidelity level %d because it requires additional GPU memory.  Requires: %.1f GB Have: %.1f GB
-[Auto-Fidelity System] Filtered out fidelity level %d because it used more than %.2f%% of total GPU memory (would use %.2f GB of %.2f GB)
-[Auto-Fidelity System] Initialized with %d fidelity levels
-[Auto-Fidelity System] Initializing auto-fidelity system
-[Auto-Fidelity System] Level %d: Scale = %.3f Resolution = %d x %d
-[Auto-Fidelity System] Using %s
-[Auto-Fidelity System] Using '%s'
-[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pFullFileSystem!
-[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pRenderDevice!
-[Auto-Fidelity System] WARNING! Cannot init auto fidelity system! pVendorName =""
-[Auto-Fidelity System] WARNING! Couldn't read %s!
+[Auto-Fidelity System] %dxMSAA = %dx%d (Color + Depth + Other = %s MB)\n
+[Auto-Fidelity System] Default fidelity level = %d\n
+[Auto-Fidelity System] Filtered out fidelity level %d because %d would reduce resolution below height height: %d\n
+[Auto-Fidelity System] Filtered out fidelity level %d because %d would reduce resolution below threshold width: %d\n
+[Auto-Fidelity System] Filtered out fidelity level %d because it requires additional GPU memory.  Requires: %.1f GB Have: %.1f GB\n
+[Auto-Fidelity System] Filtered out fidelity level %d because it used more than %.2f%% of total GPU memory (would use %.2f GB of %.2f GB)\n
+[Auto-Fidelity System] Initialized with %d fidelity levels\n
+[Auto-Fidelity System] Initializing auto-fidelity system\n
+[Auto-Fidelity System] Level %d: Scale = %.3f Resolution = %d x %d\n
+[Auto-Fidelity System] Using %s\n
+[Auto-Fidelity System] Using '%s'\n
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pFullFileSystem!\n
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pRenderDevice!\n
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system! pVendorName =""\n
+[Auto-Fidelity System] WARNING! Couldn't read %s!\n
 [aOni*{
-\$ ATAVAWH
-\$ H;
-\$ Hi
-\$ Ic
-\$ UAUAWH
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ WH
-\$(Hc|$ H
-\$(I;
-\$(L#
-\$09^
-\$0;^
-\$0H;
-\$0L+
-\$4E;O
-\$8A+
-\$8Hc
-\$<A;
-\$@@8=
-\$@E3
-\$@H+
-\$@H;
-\$PE3
-\$PfD
-\$Pt:
-\$XE;
-\$`9XXH
-\$`E3
-\$`H9u0t	H
-\$gm?
-\A,Li
-\I(Hc
-\ffff
+\n//-----------------------------------------------------------------------------------------\n
+\nCwf\r
+\nStats:\n
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\tcQr
+\tkE>fvw
 \u must be followed by exactly 4 hex digits
-])6M>&
-]>)2X
+\vA03>A|
 ^<V7w
 ^RfN>
 _V_ComposeFileName
@@ -2788,13 +1789,6 @@ __vectorcall
 _class
 _oD>Kg
 _test_conversion_counter
-` UAVAWH
-`+!]?
-`.rdata
-`A^^]
-`A_A^A]A\_^]
-`A_A^_^]
-`HcY L
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -2805,7 +1799,6 @@ _test_conversion_counter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -2831,6 +1824,8 @@ _test_conversion_counter
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
+a6>r
+aXL\r
 abcdefghijklmnopqrstuvwxyz
 address family not supported
 address in use
@@ -2855,7 +1850,6 @@ attachment
 attachment_offset
 attachment_type
 auto_unragdoll_duration
-b?^Cy
 bUpdate
 bad address
 bad allocation
@@ -2869,10 +1863,10 @@ blendindices
 blendweight
 blockLOS
 body_type
+bone
 bone_name
 bone_names
 bonemerge
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
@@ -2880,12 +1874,10 @@ breakable_model
 breakable_skin
 broken pipe
 broken promise
+bt3V
 burst_randomize
 burst_scale
 button%d
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ati_compress_loader.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\floatbitmap.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ispc_compressor_loader.cpp
@@ -2908,7 +1900,6 @@ c:\buildslave\hlvr_rel_win64\build\src\vr\vr.cpp
 c:\buildslave\hlvr_rel_win64\build\src\vr\vr_assert.cpp
 c?FA@s}
 c?fff?
-cAMDD
 cable
 cantdie
 carry_type
@@ -2933,16 +1924,9 @@ count
 create_particle
 cross device link
 cylon
-d$ E3
-d$(E3
-d$@D;
-d$DE;
-d$HA;
-d$P+A$t
-d$hE2
-d$hE3
-d$pE2
+d8L2
 d?000000`?
+dRL>
 damage
 dddd, MMMM dd, yyyy
 debris
@@ -2956,24 +1940,21 @@ dmg.bullets
 dmg.club
 dmg.explosive
 dmg.fire
+dpad
 duration
 dynamic_interaction
-e A_A^A]A\]
-e(A_A^A]A\_^[]
 e+000
-e0A_A^A]A\]
-e@A_A^]
+eF>t
 eLK(w
-eXA_A^A]A\_^[]
-effortblocks = %d
+effortblocks = %d\n
 emitFromWorld
 enable_limit
-entiA
 error
 eventObject
 event_class
 event_keys
 eventindex
+exLe\r
 executable format error
 explosion_behavior
 explosion_buildup
@@ -2981,25 +1962,11 @@ explosion_delay
 explosion_type
 explosive_damage
 explosive_radius
-f %d/%d/%d %d/%d/%d %d/%d/%d
-f9<Au
-fD9,Cu
-fD9,Ku
-fD9,Pu
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fD;c\sT
-fE9,Du
-fE9,tu
-fG9,wu
-fJBGo
+f %d/%d/%d %d/%d/%d %d/%d/%d\n
+fD>b
+fWi?
 faceMergeAngle
 false
-fffff
-ffffff
-fffffff
 file exists
 file too large
 filename too long
@@ -3022,33 +1989,24 @@ gamepad
 generic
 generic tracked controller
 generic_tracked
-gfffA
-gfffffffH
+glow
 gravity
 grip0
-h WATAUAVAWH
+h0'D
 h>1my
-hA^A\
-hA_A^A]A\^]
 handindex
 headtype
 health
 health_override
 holographic_controller
 host unreachable
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
 identifier removed
 ikdata
 ikrig
 illegal byte sequence
 inappropriate io control operation
-ineIA
 inity
 interrupted
 invalid argument
@@ -3060,66 +2018,26 @@ io error
 is a directory
 is_debris
 ispc_texcomp.dll
-iu+-,
-j>>A?1
-j?V()
-j?{$*
-j`Ic|
 joystick%d
-k HcKX;
-k0i0$
-k0t$I
-k@_aH
+k=yI
 knuckles
 knuckles_ev1
-kxu/H
-l$ 9Q
-l$ AVH
-l$ D9l$0|LH
-l$ E3
-l$ V3
-l$ VH
-l$ VWATAUAVAWE3
-l$ VWATAVAWH
-l$ VWAVH
-l$ W3
-l$ WAVAWH
-l$ WH
-l$$9L$(
-l$$D;
-l$(E3
-l$(u!I
-l$0E3
-l$0H+
-l$0Hc
-l$0HcA
-l$8E3
-l$8E;
-l$8H+
-l$@A3
-l$@I;
-l$HA_A^A]A\_^
-l$JfD
-l$PA_A^A]A\_^
-l$PD30A
-l$XA+
-l$XE3
-l$Xu!H
-l$`C9,
-l$`E9j
-l$`E;j
-l$hM;
+lWi]
 last_sniff
+lcQe
 length
 lighthouse
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
-m0k0$
-m8L9c
+m?H7
+mG4>
+mXr4
+m\nXo
 m_Bone
 m_ChainData
 m_Children
@@ -3261,6 +2179,8 @@ materials/dev/vr_warp.vmat
 maxHullVertices
 maxVerticesPerHull
 max_angle
+menu
+mesh
 meshUtilsKeyValues
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
@@ -3305,15 +2225,11 @@ modeldoc8
 modeldoc9
 modellib
 multiplayer_break
-n D9e
 n03>Pu
-n??5^?
-nD8-O;
-nG fA
-nGDfA
 nTries < 10000000
-nW<fA
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -3342,13 +2258,12 @@ not a stream
 not connected
 not enough memory
 not supported
-ntelE
+null
 numsegments
 nvidia
 nvidia_multigpu
-oD$ H
+o?GS
 oI>O7
-oO0fI
 obwQ4
 oculus
 oculus_rifts_controller_
@@ -3363,23 +2278,12 @@ operator
 operator "" 
 origin_max_delta
 origin_relative
-ot$ H
+osvr
+owM&
 owner dead
-oypfD
-o|$0f
-p AWH
-p UAVAWH
-p UWATAVAWH
-p WAVAWH
-p0n05
-p1f3q>
 p?ati_compress_wrapper.dll
-p?q=j?
 p@SSE and SSE2 are required.
-pA_A^A]A\_^[
-pA_A^A]A\_^]
 pContext
-pD	s0
 pEvents
 pExecutionResource
 pScheduler
@@ -3387,7 +2291,7 @@ pThreadProxy
 parent_bone
 particle
 particles/
-pass %u
+pass %u\n
 perftest
 perftest_multigpu
 permission denied
@@ -3404,20 +2308,15 @@ pose_control_type
 position
 ppVirtualProcessorRoots
 preferred_carryangles
+proc
 promise already satisfied
 prop_data
 protocol error
 protocol not supported
 purecall
-q(9YD~tE3
-q0@80u
 qS>g?h3
-r	Vr.>T
-r	uOD;d$(uH
-r 9_ t
-r:D8v
-rBu/H
 rLp>B
+r\tVr.>T
 r_gpu_driver_high
 r_gpu_driver_low
 r_multigpu_num_gpus_found
@@ -3433,36 +2332,29 @@ resource deadlock would occur
 resource unavailable try again
 restrict(
 result out of range
-ri9V vdH
+root
 rootNode
-s	A9;A
-s4+sP+
-s@t%@
+sHF'
 secondary
 sequence_name
 sequence_number
 shapeType
 singlecontroller
+size
 snan)
 source_filename
 spawn_motion_disabled
 speed
-stCD;
-stED;
-st`D;
 state not recoverable
-stats.m_flFidelityDroppedFramesAverage = %f
-stats.m_flFidelityDroppedFramesCPUAverage = %f
-stats.m_flFidelityFPSAverage = %f
-stats.m_flFidelityLevelAverage = %f
-stats.m_nFidelityNumFrames = %d
+stats.m_flFidelityDroppedFramesAverage = %f\n
+stats.m_flFidelityDroppedFramesCPUAverage = %f\n
+stats.m_flFidelityFPSAverage = %f\n
+stats.m_flFidelityLevelAverage = %f\n
+stats.m_nFidelityNumFrames = %d\n
 status
 steam.app.450390
 steamsight
 steamvrevent_quit
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -3474,139 +2366,30 @@ switchState
 system
 system.HeadsetView
 system.desktop.1
-t	D8=
-t	H9s
-t	L9c
-t D8o(u
-t H9X8tN
-t HcH
-t"<.u
-t$ A;
-t$ AVH
-t$ AWH
-t$ E3
-t$ Mi
-t$ UATAVH
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ UWAVH
-t$ WATAUAVAWH
-t$ WAUAWH
-t$ WAV
-t$ WAVAWH
-t$ WH
-t$(D;
-t$0+A$t
-t$0@2
-t$0A^_
-t$0D9t$@|LH
-t$0HcK
-t$0Hi
-t$8H+
-t$8Ic
-t$8ff
-t$@E3
-t$@Hc
-t$H;^Xt
-t$HE3
-t$HHc
-t$LD;
-t$PHc
-t$PL+
-t$Pu1H
-t$XE3
-t$XHcs8;sHu
-t$Xt	H
-t$\D;
-t$`9w
-t$`;w
-t$`D8
-t$`Hc
-t$`I;
-t$h9~
-t$x;_@u
-t'< ~
-t'B;| 
-t)D8l$@t
-t*D8#t
-t*H9X8u$@8
-t+H;G
-t-HcP
-t-~"A
-t.8\$P
-t.@8:t)
-t/D83t*
-t/D8e
-t0@87t+
-t0@8;t+
-t0D8;t+
-t4McF
-t5;_`}
-t9H9=V
-t:LcM
-t;A9;
-tCHcP
-tDD9V
-tGH;~XtA
-tI@8{:t
-tK@8{:t
-tP@8|$!u4@8|$"t-
-tSK;D
-tXLcQ
-t]<-u
-tangent
-tbD9R
 test_angles_relative
 texcoord
 text file busy
 texturescale
 tier0.dll
 timed out
-tj95z)
-tlLcA
-tlMcH
 too many files open
 too many files open in system
 too many links
 too many symbolic link levels
-trD8(tmH
-trLcJ
 trackpad%d
 trigger%d
-tt;_`}
-ttIcF
+true
 turn_rate
-tvLcK
-twH;^XtH3
-u	9w$
-u	@8=
-u!!D$(H
-u%!D$@H
-u)!t$(H
-u2A8D
-u3HcH<H
-u98D$`u;H
-u=L;k
-u@fff
-uJfff
-uTv<A
-uf!T$(H!T$ 
-uh@8|$!t,
+type
 ujGs?
-ukHc_
-unable to load mesh "%s"
+unable to load mesh "%s"\n
 uniform_burst
 unknown
 unknown error
 unknown exception
 use_additional_offset
-uuHcF
-uxHcOP
 uzKs@>
-v %.6g, %.6g, %.6g
-v A9~ w
-v0t08
+v %.6g, %.6g, %.6g\n
 v2!L.2
 value
 value too large
@@ -3615,11 +2398,13 @@ vanmgrph
 vector<T> too long
 vive_controller
 vive_cosmos_controller
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
-vn %.6g, %.6g, %.6g
+vn %.6g, %.6g, %.6g\n
 vortex
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -3655,7 +2440,7 @@ vr_companion_window_always_on
 vr_companion_window_brightnessmultiplier
 vr_companion_window_zoom
 vr_decouple_tick_rate_and_display_rate
-vr_dump_render_model only works in VR
+vr_dump_render_model only works in VR\n
 vr_eye_separation_mm
 vr_eye_separation_mm_enable
 vr_fidelity_level
@@ -3745,122 +2530,13 @@ vrfly_refpt_pos
 vrfly_speed
 vsnap
 vstdlib.dll
-vt %.6g, %.6g
-v}`[>
+vt %.6g, %.6g\n
 width
 wrong protocol type
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-wxH9wXH
-x	HcG
-x	HcQ
-x ATAVA
-x ATAVAWH
-x AV3
-x AVE2
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x0v0$
-x9H;H
-xA]A\_^
-xA_A^A]A\_^[]
-xA_A^A]A\_^][
-xCL;[
-xRHcQ
-xSH;H
-xZH;A
-x]HcG
-x_^][
-xbMcC
-xfL;B
+x360
+xT?V
 xpxxxx
-yBNu'
-y\PD>!
 yaw_end
 yaw_start
-z/u-A
-z/u-E
-z0x0:
 z>version
-zY;>u:m	
-{ ATAVAWH
-{ AVH
-{(H9n
 {YIN?
-{}[]:,
-|	;_\
-|#tAM
-|$ A;
-|$ ATAUAVAWHcA E3
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ AVAWD
-|$ AVE3
-|$ AVH
-|$ D!
-|$ E3
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$(A^
-|$(E3
-|$(I;
-|$0@"
-|$0A+
-|$0A^A\
-|$0A_A^
-|$0D8?u
-|$0Hc
-|$0Hi
-|$0Ic
-|$0fD
-|$0s-
-|$4E;
-|$89^
-|$8;3
-|$8fD
-|$@-D
-|$@-H
-|$@@"
-|$@A;
-|$@A_A^A]A\
-|$@H;
-|$@Hc
-|$@Hcyp;
-|$Ht#
-|$PA;^ u
-|$PHc{@$
-|$XHc
-|$XHcU
-|$\.u
-|$`30
-|$`Ic
-|$`Lc
-|$h9i
-|$hA+
-|$hE3
-|$pE3
-|$pHc
-|b=})>
-}YA;[$
-~ $s%r
-~!A;~
-~(HcNDI
-~*9q0
-~*9qP
-~QLc]
-~]Lc]
-~`8A!t
-~`LcM
-~aLcM
-~bLcM
-~cLcM
-~eLcM
-~fLcM
-~j?5^
-~jLcM
-~xfff

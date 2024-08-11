@@ -1,24 +1,7 @@
-	?fromUtf8@QString@@SA?AV1@PEBDH@Z
-	?instance@QFactoryLoader@@QEBAPEAVQObject@@AEBVQString@@@Z
-	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
-	L9i t%H
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A\_^
- A]A\_
- A^A\_][
- A^A]A\
- A^A]A\_^
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
@@ -26,33 +9,9 @@
  Type Descriptor'
  delete
  delete[]
- new[]
- t?D9
+ new
  throw(
  volatile
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
-(A_A^A]A\_^
-(D$ H
-(D$@H
-(D$pH
-(L$pf
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$ H
-(t$@D
-(t$`I
-)t$ H
-)t$@E
-+J$+B(
 , pixelAspectRatio=
 , viewport=
 ,<ellipsis>
@@ -92,18 +51,8 @@
 .?AVbad_typeid@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.pdata
-.text
 /?size@QImage@@QEBA?AVQSize@@XZ
-/L9\$ t
 /audio
-0A\_^
-0A\_^][
-0A^A]A\
-0A^A]A\_^
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
 1#IND
 1#INF
 1#QNAN
@@ -111,51 +60,12 @@
 1feedback()
 2notify()
 2stateChanged(QAudio::State)
-7;|$0t,
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8D$8t
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-9(tqM;
-91~O3
-9?uPH
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+:\v?lock@QMutex@@QEAAXXZ
 <ellipsis>
 <unknown>
-<z~$<A|
+=\r?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
 >QAbstractVideoBuffer::HandleType
+>\r?qstrcmp@@YAHPEBD0@Z
 ??0QAbstractAudioDeviceInfo@@QEAA@XZ
 ??0QAbstractAudioInput@@QEAA@XZ
 ??0QAbstractAudioOutput@@QEAA@XZ
@@ -269,7 +179,6 @@
 ??_FQAudioEnginePlugin@@QEAAXXZ
 ??_FQAudioInput@@QEAAXXZ
 ??_FQAudioOutput@@QEAAXXZ
-?CuND8g
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
 ?activeChanged@QAbstractVideoSurface@@IEAAX_N@Z
 ?append2@QListData@@QEAAPEAPEAXAEBU1@@Z
@@ -277,16 +186,13 @@
 ?arg@QString@@QEBA?AV1@HHHAEBVQChar@@@Z
 ?atEnd@QIODevice@@UEBA_NXZ
 ?availableDevices@QAudioDeviceInfo@@SA?AV?$QList@VQAudioDeviceInfo@@@@W4Mode@QAudio@@@Z
-?bits@QImage@@QEAAPEAEXZ
 ?bits@QVideoFrame@@QEAAPEAEXZ
 ?bits@QVideoFrame@@QEBAPEBEXZ
 ?bufferSize@QAudioInput@@QEBAHXZ
 ?bufferSize@QAudioOutput@@QEBAHXZ
-?byteCount@QImage@@QEBAHXZ
 ?byteOrder@QAudioFormat@@QEBA?AW4Endian@1@XZ
 ?bytesAvailable@QIODevice@@UEBA_JXZ
 ?bytesFree@QAudioOutput@@QEBAHXZ
-?bytesPerLine@QImage@@QEBAHXZ
 ?bytesPerLine@QVideoFrame@@QEBAHXZ
 ?bytesReady@QAudioInput@@QEBAHXZ
 ?bytesToWrite@QIODevice@@UEBA_JXZ
@@ -355,15 +261,11 @@
 ?isFormatSupported@QAudioDeviceInfo@@QEBA_NAEBVQAudioFormat@@@Z
 ?isMapped@QVideoFrame@@QEBA_NXZ
 ?isNull@QAudioDeviceInfo@@QEBA_NXZ
-?isNull@QVariant@@QEBA_NXZ
 ?isReadable@QVideoFrame@@QEBA_NXZ
-?isSequential@QIODevice@@UEBA_NXZ
 ?isValid@QAudioFormat@@QEBA_NXZ
 ?isValid@QVideoFrame@@QEBA_NXZ
 ?isValid@QVideoSurfaceFormat@@QEBA_NXZ
 ?isWritable@QVideoFrame@@QEBA_NXZ
-?keys@QFactoryLoader@@QEBA?AVQStringList@@XZ
-?lock@QMutex@@QEAAXXZ
 ?map@QImageVideoBuffer@@UEAAPEAEW4MapMode@QAbstractVideoBuffer@@PEAH1@Z
 ?map@QMemoryVideoBuffer@@UEAAPEAEW4MapMode@QAbstractVideoBuffer@@PEAH1@Z
 ?map@QVideoFrame@@QEAA_NW4MapMode@QAbstractVideoBuffer@@@Z
@@ -378,36 +280,26 @@
 ?metaObject@QAudioEnginePlugin@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QAudioInput@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QAudioOutput@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QFactoryLoader@@UEBAPEBUQMetaObject@@XZ
 ?mode@QAudioDeviceInfo@@AEBA?AW4Mode@QAudio@@XZ
 ?nearestFormat@QAbstractVideoSurface@@UEBA?AVQVideoSurfaceFormat@@AEBV2@@Z
 ?nearestFormat@QAudioDeviceInfo@@QEBA?AVQAudioFormat@@AEBV2@@Z
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
 ?notify@QAbstractAudioInput@@IEAAXXZ
 ?notify@QAbstractAudioOutput@@IEAAXXZ
 ?notify@QAudioInput@@IEAAXXZ
 ?notify@QAudioOutput@@IEAAXXZ
 ?notifyInterval@QAudioInput@@QEBAHXZ
 ?notifyInterval@QAudioOutput@@QEBAHXZ
-?open@QIODevice@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?periodSize@QAudioInput@@QEBAHXZ
 ?periodSize@QAudioOutput@@QEBAHXZ
 ?pixelAspectRatio@QVideoSurfaceFormat@@QEBA?AVQSize@@XZ
 ?pixelFormat@QVideoFrame@@QEBA?AW4PixelFormat@1@XZ
 ?pixelFormat@QVideoSurfaceFormat@@QEBA?AW4PixelFormat@QVideoFrame@@XZ
 ?pixelFormatFromImageFormat@QVideoFrame@@SA?AW4PixelFormat@1@W4Format@QImage@@@Z
-?pos@QIODevice@@UEBA_JXZ
 ?preferredFormat@QAudioDeviceInfo@@QEBA?AVQAudioFormat@@XZ
-?prepend@QListData@@QEAAPEAPEAXXZ
 ?processedUSecs@QAudioInput@@QEBA_JXZ
 ?processedUSecs@QAudioOutput@@QEBA_JXZ
 ?property@QVideoSurfaceFormat@@QEBA?AVQVariant@@PEBD@Z
 ?propertyNames@QVideoSurfaceFormat@@QEBA?AV?$QList@VQByteArray@@@@XZ
-?qFree@@YAXPEAX@Z
-?qWarning@@YA?AVQDebug@@XZ
-?qWarning@@YAXPEBDZZ
-?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
-?qstrcmp@@YAHPEBD0@Z
 ?qt_metacall@QAbstractAudioDeviceInfo@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QAbstractAudioInput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QAbstractAudioOutput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -415,9 +307,6 @@
 ?qt_metacall@QAudioEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QAudioInput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QAudioOutput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QFactoryLoader@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QIODevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacast@QAbstractAudioDeviceInfo@@UEAAPEAXPEBD@Z
 ?qt_metacast@QAbstractAudioInput@@UEAAPEAXPEBD@Z
 ?qt_metacast@QAbstractAudioOutput@@UEAAPEAXPEBD@Z
@@ -425,9 +314,6 @@
 ?qt_metacast@QAudioEnginePlugin@@UEAAPEAXPEBD@Z
 ?qt_metacast@QAudioInput@@UEAAPEAXPEBD@Z
 ?qt_metacast@QAudioOutput@@UEAAPEAXPEBD@Z
-?qt_metacast@QFactoryLoader@@UEAAPEAXPEBD@Z
-?qt_metacast@QIODevice@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?qt_static_metacall@QAbstractAudioDeviceInfo@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_static_metacall@QAbstractAudioInput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_static_metacall@QAbstractAudioOutput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
@@ -435,7 +321,6 @@
 ?qt_static_metacall@QAudioEnginePlugin@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_static_metacall@QAudioInput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_static_metacall@QAudioOutput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
-?read@QIODevice@@QEAA_JPEAD_J@Z
 ?readLineData@QIODevice@@MEAA_JPEAD_J@Z
 ?readyRead@QIODevice@@IEAAXXZ
 ?realm@QAudioDeviceInfo@@AEBA?AVQString@@XZ
@@ -577,109 +462,19 @@
 ?width@QVideoFrame@@QEBAHXZ
 ?write@QIODevice@@QEAA_JPEBD_J@Z
 ?yCbCrColorSpace@QVideoSurfaceFormat@@QEBA?AW4YCbCrColorSpace@1@XZ
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@A\_^
-@A\_^][
-@A]A\]
-@A]A\_
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SUWATAVH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@USVWATAUAVAWH
-@USVWH
-@VWATAUAVH
-@VWATH
-@WATAUAVAWH
-A0+A(
-A9	u<A
-A9	uxA
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-A\_^][
-A]A\_
-A]A\_^[]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 April
 August
-B 9A u5
-B$9A$
-B(9A(
-B(I9A(u
-B,9A,
-B09A0
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtMultimedia4.pdb
 CorExitProcess
-D$ E3
-D$&8\$&t-8X
-D$(E3
-D$0H+
-D$0HcP
-D$0LcA
-D$8E3
-D$8H+
-D$8HcH
-D$8HcP
-D$8LcA
-D$@H9D$8t
-D$DE3
-D$HE3
-D$PL9oXt
-D$XE3
-D$`H9D$Xt
-D$p H
-D$xHcH
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8t$ t
-D8whtCH
-D8whu#HcO,H9L$p|
-D9d$ 
-D;+t1
+D\f?open@QIODevice@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 December
 DecodePointer
 DeleteCriticalSection
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
 ExitProcess
-F0HcH
 FatalAppExitA
 February
 FlsAlloc
@@ -719,10 +514,7 @@ Format_YV12
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G 9C 
-G0Hc	H
-GHIcP
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -753,31 +545,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H(H9J(u
-H)\$pHcG0H
-H+M0x
-H99t(
-H9D$xt
-H9L$Xt'H
-H@HcA
-HA_A^A]A\_^][
 HH:mm:ss
-HcC H
-HcCDH
-HcCDH+
-HcD$8H
-HcD$HH
-HcD$XH
-HcFdH
-HcFdH+
-HcG0H
-HcG0L
-HcH<H
-HcO H
-HcSlH
-HcT$8McJ
-Hct$@H
-Hc|$HMcJ
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -785,39 +554,15 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-I94$tt
-IcRlH
-IcqHH
-IcqHI
 InitializeCriticalSectionAndSpinCount
 InputPrivate
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
-J@HcA
 January
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-KHHcA
-L!l$HL!l$@
-L$ H3
-L$ SUVWH
-L$0 H
-L$0<`t
-L$0H;
-L$0HcA
-L$0HcQ
-L$8H3
-L$8HcA
-L$8HcQ
-L$@;|
-L$@E3
-L$HH3
-L$PH3
-L$`H3
-L$pH3
-L$pHcA
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -825,33 +570,19 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
-LcC(3
-Lc\$8HcJ
-Lc\$8McJ
-Lc\$XMcJ
-Lc_0H
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
 March
-Mc,$E
-McClH
 MessageBoxW
 Monday
 MultiByteToWideChar
+NKeb
+NULL
 Norwegian-Nynorsk
 November
-O0HcQ
-O`D9w$t
 October
 OutputPrivate
-PA\_^
-PA^A]A\_^][
-Q,+Q$
 QAbstractAudioDeviceInfo
 QAbstractAudioInput
 QAbstractAudioOutput
@@ -893,18 +624,14 @@ QtGui4.dll
 QtMultimedia4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
+RSDS
 RaiseException
-Rich4Y
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-SUVWATAUAVAWH
-SUVWATH
-SUVWH
-SVWATAUAVAWH
-SVWATH
+S;uD
 Saturday
 September
 SetConsoleCtrlHandler
@@ -914,49 +641,38 @@ SetUnhandledExceptionFilter
 Sleep
 Sunday
 SystemFunction036
-T$0E3
-T$PE3
 TerminateProcess
 Thursday
 Tuesday
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUAVAWH
-USVWATAUH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 UnhandledExceptionFilter
 Unknown exception
 UserType(%1)
-VWATAUAVAWH
-VWATAUAVH
-VWATH
-WATAUAVAWH
-WATAUH
-WATAVH
 WINMM.dll
 Wednesday
 WideCharToMultiByte
 WriteFile
+ZE-Q
 [thunk]:
-\$ H;
-\$ UVWATAUAVAWH
-\$ WH
-\$0H;
-\$0HcJ
-\$0Ic@
-\$0L+
-\$8L3
-\$@HcJ
-\$PHcJ
-\$XH;
-\$hH;
-\$pHcC
-_ 8_`t
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?pos@QIODevice@@UEBA_JXZ
+\f?prepend@QListData@@QEAAPEAPEAXXZ
+\f?qFree@@YAXPEAX@Z
+\n?isSequential@QIODevice@@UEBA_NXZ
+\n?keys@QFactoryLoader@@QEBA?AVQStringList@@XZ
+\r?qWarning@@YA?AVQDebug@@XZ
+\r?qWarning@@YAXPEBDZZ
+\r?qt_metacast@QFactoryLoader@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QIODevice@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?read@QIODevice@@QEAA_JPEAD_J@Z
+\t?fromUtf8@QString@@SA?AV1@PEBDH@Z
+\t?instance@QFactoryLoader@@QEBAPEAVQObject@@AEBVQString@@@Z
+\t?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+\t\r?byteCount@QImage@@QEBAHXZ
+\v?metaObject@QFactoryLoader@@UEBAPEBUQMetaObject@@XZ
+\v\r?bytesPerLine@QImage@@QEBAHXZ
+^\r?qt_metacall@QFactoryLoader@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 __based(
 __cdecl
 __clrcall
@@ -973,11 +689,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
-` AUH
-`.rdata
-`A\_]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1023,7 +734,6 @@ __w64
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
-aH9D$pL
 abcdefghijklmnopqrstuvwxyz
 active
 activeChanged(bool)
@@ -1035,10 +745,11 @@ audio/pcm
 australian
 bad exception
 belgian
+bool
 britain
 builtin
-c AUH
 canadian
+char
 char 
 china
 chinese
@@ -1056,11 +767,7 @@ com.trolltech.Qt.QFactoryInterface
 const
 const 
 czech
-d$ UH
-d$8H+
-d$HIcD$
-d$pIcD$
-d$xIcD$
+d\r?qt_metacall@QIODevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 dddd, MMMM dd, yyyy
 default
 deviceReady
@@ -1068,8 +775,6 @@ deviceReady()
 double
 dutch-belgian
 e+000
-eXIcD$
-ehIcD$
 england
 english-american
 english-aus
@@ -1085,16 +790,8 @@ english-uk
 english-us
 english-usa
 enum 
-ewIcD$
-exIcD$
 extern "C" 
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
 feedback()
-fffff
-fffffff
 float
 format
 frameHeight
@@ -1110,19 +807,17 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 handleType
 holland
 hong-kong
+int 
 irish-english
 italian-swiss
-l$ D!
-l$ WH
-l$(Ic
-l$@@2
-l$xHcE
+kU'9
+l\n?isNull@QVariant@@QEBA_NXZ
+long
 long 
 new-zealand
 norwegian
@@ -1130,8 +825,6 @@ norwegian-bokmal
 norwegian-nynorsk
 notify()
 operator
-p WATAUAVAWH
-p WATAUH
 pixelAspectRatio
 pixelFormat
 portuguese-brazilian
@@ -1143,8 +836,6 @@ protected:
 public: 
 puerto-rico
 qQAudioOutput: open error
-s WATAUAVAWH
-s\HcL$HH
 scanLineDirection
 short
 short 
@@ -1182,44 +873,10 @@ supportedFormatsChanged()
 surfaceFormatChanged(QVideoSurfaceFormat)
 swedish-finland
 swiss
-t$ @80
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$(HcF
-t$8HcM
-t$HHcF
-t$PE3
-t$PHcF
-t$hHcF
-t%fff
-t*HcO
-t0<@t
-tEffff
-tHfffff
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tQffff
-tb<A|M<P
+t\f?bits@QImage@@QEAAPEAEXZ
 template-parameter-
 tier0.dll
-tnLcV
 trinidad & tobago
-u	A!A
-u HcF
-u"E9Q t
-u(HcF
-u0HcF
-u5E9Q t
-u:HcF
-u=HcF
-uAHcG
-uJHcF
-uNM9u
-uPHcF
-uQI91tLH
-uYHcF
-u_D9u
 union 
 united-kingdom
 united-states
@@ -1229,6 +886,7 @@ using null input device, none available
 using null output device, none available
 viewport
 virtual 
+void
 void 
 volatile
 volatile 
@@ -1252,30 +910,8 @@ waveOutRestart
 waveOutUnprepareHeader
 waveOutWrite
 wchar_t
-wiHcG0H
-x ATAUAVH
-x ATAUAWH
-x ATH
-x_^][
 yCbCrColorSpace
 z?aUY
 zc%C1
-zux!l$ E3
 {flat}
 {for 
-|$ ATAUAVH
-|$ ATH
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$ u?H
-|$0-H
-|$8Hc
-|$@-D
-|$@-H
-|$HfA
-|$`E3
-~ 9~$t
-~/8\$vt)H
-~ID;c
-~~fff

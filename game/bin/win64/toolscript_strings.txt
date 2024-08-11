@@ -1,41 +1,16 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- 9(X`
- A_A^A\
- A_A^A]A\_
- A_A^_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- new[]
- tDE3
- vJH+
-!>6'Y
-!Ju]~
+ new
 %i %i %i %i
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$@H
-(t$PH
-(|$@H
-)>6{1n
 *StO9>T
-+."L.
-+M<7>
-+f)>0'
-+h->|
-,/<-w
-,|%)v
 .00cfg
 .?AV?$CBaseAppSystem@VIToolScriptManager@@@@
 .?AV?$CTier0AppSystem@VIToolScriptManager@@@@
@@ -65,12 +40,12 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -81,94 +56,41 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A_A^A\
-0A_A^_
-0A_A^_^]
 0iN>/
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
-200527195905Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+11Y@
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-9_p~$
-;H9>&X
-< t;<	t7
 <deferred>
 <null>
 <unconnected>
+=cQ6
 =imb;D
+>cQ6
 >jtm}S
-?5zlO
 ?7zQ6$
-?:kP<
-?H33H
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
-?QY^&
 ?UUUUUU
 ?f`Y4
-@.data
-@.gfids
-@.tls
-@8|$^t
-@>%>b
-@A^_^
-@A_A^A]A\_
-@A_A^_
-@SVWH
-@UATAUAVAWH
-@UATAVH
-@UAVAWH
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
+?qBJ
+?ysB
 A>pP&
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-A^A\]
-A^_^[]
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^]
-A_A^]
-A_A^_^]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
 AnimationSystem_001
@@ -178,55 +100,29 @@ AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 August
-AuthE
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
-C-yh/
-C8<(u
 CGlobalConfigValueRegistry::HookUpConfigValue
 CMemAllocSystemInitialize
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CloseHandle
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigurationSystem_001
 ConnectInterfaces
 CorExitProcess
 CreateEventW
 CreateFileW
 CreateInterface
-D$ E3
-D$(H;
-D$8L9
-D$<9T$0wE9T$4w?9T$8w9;
-D$@H+
-D$PH+
-D$PI;
-D08@t	
-D18 t
-D82u&H
-D8t$Ht
-D9|$ 
-DD$$H
 DebugTextureInfo001
 December
 DeleteCriticalSection
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DotaCardGameClient_001
-E0C07
-EP*?@
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
@@ -247,10 +143,10 @@ FontManager_001
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
+GCTL
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-Genu3
 GetACP
 GetCPInfo
 GetCommandLineA
@@ -275,19 +171,10 @@ GetStartupInfoW
 GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
-H!D$ E
-H!T$0D
-H0F08
-H9=&n
-H9=l*
-HA_A]A\_^[
 HH:mm:ss
 HammerMapLoader001
-HcH<H
-Hc]`M
 HelpSystem_001
 HostStateMgr001
-Ht)I;
 IQuickTime001
 InitializeConditionVariable
 InitializeCriticalSectionAndSpinCount
@@ -296,37 +183,27 @@ InitializeSListHead
 InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
 January
-K&>.yC
+July
+June
 KERNEL32.dll
 KeyValueCache001
-K~Je#>!
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$&@8t$&t0@8q
-L$0H;
-L$8H3
-L$@H3
+L>ev
 LCMapStringEx
 LCMapStringW
 LOG_GENERAL
-LcA<E3
-LcCPH
 LeaveCriticalSection
-Lj[;>
 LoadLibraryExW
 LocaleNameToLCID
 Localize_001
 LoggingSystem_IsChannelEnabled
 LoggingSystem_RegisterLoggingChannel
-M H1E
 MATCHFRAMEWORK_001
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
@@ -348,8 +225,9 @@ NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
 November
+OZQ%
 October
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -364,8 +242,9 @@ PostProcessingSystem_001
 PropertyEditorSystem_001
 QueryPerformanceCounter
 QueuedLoaderVersion001
+RSDS
 RaiseException
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 Release
 RenderDevice003
 RenderDeviceMgr001
@@ -382,7 +261,7 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
-SVWATAUAWH
+S9>H
 Saturday
 SceneSystem_002
 SceneUtils_001
@@ -417,7 +296,6 @@ Source2ServerSerializers002
 StatsService_001
 SteamAudio001
 Sunday
-T$ A;
 TUUUU
 TerminateProcess
 TestScriptMgr001
@@ -434,14 +312,9 @@ ToolScript
 ToolScriptManager001
 ToolService_001
 Tuesday
-USVWAVH
 UUUUUU
-UVWATAUAVAWH
-UVWAVAWH
-UWAVH
 UnhandledExceptionFilter
 UserInfoChangeService_001
-V6E>`"(5
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -471,23 +344,17 @@ VR_001
 VRenderDeviceSetupV001
 VScriptManager010
 VStringTokenSystem001
-VWATAVAW
-VWAVH
 V_atof
 V_atofloat64
 V_atoi
 V_qsort_s
 V_snprintf
 V_sscanf
-Valve0
-Valve1
 VisBuilder_001
-WATAUAVAWH
-WAVAWH
 WaitForSingleObjectEx
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 Wednesday
 WideCharToMultiByte
 WorkshopSetup001
@@ -495,15 +362,7 @@ WorldRendererBuilderMgr001
 WorldRendererMgr001
 WriteConsoleW
 WriteFile
-Wu4E3
-[kL0K
-\$ H;
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ WH
-\$0H;
-\$@H;
+\tkE>fvw
 __based(
 __cdecl
 __clrcall
@@ -516,8 +375,6 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-`.rdata
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -554,78 +411,24 @@ __vectorcall
 `vftable'
 `virtual displacement map'
 abcdefghijklmnopqrstuvwxyz
-bp(=>?g
-c [1>H'
-c(>\,
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\tier1\configvalue.cpp
 c:\buildslave\hlvr_rel_win64\build\src\toolscript\Retail\win64\toolscript.pdb
-cAMDD
 dddd, MMMM dd, yyyy
-e0A_A^A]A\]
-entiA
+eF>t
 error
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-ffffff
-fffffff
 g_pMemAlloc
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
-ineIA
 invalid_parameter
-k0i0$
-l$ VWATAVAWH
-l$ WAVAWH
-l$0Hc
 log10
-m0k0$
+mG4>
 n03>Pu
-ntelE
 operator
 operator "" 
-ot$ H
-p AWH
-p0n05
-p1f3q>
 purecall
-r	Vr.>T
-r:D8v
+r\tVr.>T
 restrict(
-t"<.u
-t$ E3
-t$ WH
-t$8H+
-t9H9=
 tier0.dll
 toolscript
 toolscript.dll
-u	@8=-g
-u3HcH<H
-uf!T$(H!T$ 
 uzKs@>
-v0t08
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x ATAVAWH
-x AV3
-x AVH
-x0v0$
-y\PD>!
-z0x0:
-|$ AVH
-|$ E3
-|$(A^
-|$(I;
-|$8;3
-|$@H;
-|$\.u
-|$`Lc
-|b=})>

@@ -1,29 +1,8 @@
-	?fromUtf8@QString@@SA?AV1@PEBDH@Z
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <height>100</height>
-    <security>
-    <width>100</width>
-    <x>0</x>
-    <y>0</y>
-   </rect>
-   <rect>
-  </property>
-  </trustInfo>
-  <property name="geometry">
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- </widget>
- <widget class="WorldTimeClock" name="worldTimeClock">
  ?paletteChange@QWidget@@MEAAXAEBVQPalette@@@Z
- A]A\_
- A^A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
@@ -31,15 +10,9 @@
  Type Descriptor'
  delete
  delete[]
- new[]
- t?D9
+ new
  throw(
  volatile
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
 "?qt_metacall@QWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 #?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
 $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
@@ -48,17 +21,6 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 %?rotate@QPainter@@QEAAXN@Z
 &?save@QPainter@@QEAAXXZ
 '?setBrush@QPainter@@QEAAXAEBVQBrush@@@Z
-(D$ H
-(D$@H
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$@D
-)t$@E
 +?setPen@QPainter@@QEAAXAEBVQColor@@@Z
 +?setPen@QPainter@@QEAAXW4PenStyle@Qt@@@Z
 ,<ellipsis>
@@ -78,15 +40,7 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 .?AVtype_info@@
 .?setWindowTitle@QWidget@@QEAAXAEBVQString@@@Z
 .?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z
-.pdata
-.text
-/L9\$ t
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
-0A\_^
-0A^A]A\
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
 1#IND
 1#INF
 1#QNAN
@@ -96,54 +50,12 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 2timeout()
 5&?scale@QPainter@@QEAAXNN@Z
 6?translate@QPainter@@QEAAXAEBVQPointF@@@Z
-7;|$0t,
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
 8?winEvent@QWidget@@MEAA_NPEAUtagMSG@@PEAJ@Z
 8?windowActivationChange@QWidget@@MEAAX_N@Z
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8D$8t
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
-</ui>
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <ellipsis>
-<ui language="c++">
+<ui language="c++">\n <widget class="WorldTimeClock" name="worldTimeClock">\n  <property name="geometry">\n   <rect>\n    <x>0</x>\n    <y>0</y>\n    <width>100</width>\n    <height>100</height>\n   </rect>\n  </property>\n </widget>\n</ui>
 <unknown>
 <widget class="%1" name="%2"/>
-<z~$<A|
 ?.?setVisible@QWidget@@UEAAX_N@Z
 ??0QBrush@@QEAA@AEBVQColor@@W4BrushStyle@Qt@@@Z
 ??0QChar@@QEAA@UQLatin1Char@@@Z
@@ -163,12 +75,9 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 ??_7WorldTimeClock@@6BQObject@@@
 ??_7WorldTimeClock@@6BQPaintDevice@@@
 ??_FWorldTimeClock@@QEAAXXZ
-?CuND8g
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
 ?addSecs@QTime@@QEBA?AV1@H@Z
 ?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?closeEvent@QWidget@@MEAAXPEAVQCloseEvent@@@Z
@@ -205,22 +114,16 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 ?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
 ?languageChange@QWidget@@MEAAXXZ
 ?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z
-?metaObject@QTimer@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@WorldTimeClock@@UEBAPEBUQMetaObject@@XZ
 ?metric@QWidget@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
 ?minimumSizeHint@QWidget@@UEBA?AVQSize@@XZ
-?minute@QTime@@QEBAHXZ
 ?mouseDoubleClickEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
 ?mouseMoveEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
 ?mousePressEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
 ?mouseReleaseEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
 ?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z
 ?paintEvent@WorldTimeClock@@MEAAXPEAVQPaintEvent@@@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QTimer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@WorldTimeClock@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
-?qt_metacast@QTimer@@UEAAPEAXPEBD@Z
 ?qt_metacast@WorldTimeClock@@UEAAPEAXPEBD@Z
 ?qt_static_metacall@WorldTimeClock@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?removeGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
@@ -243,85 +146,20 @@ $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 ?trUtf8@WorldTimeClock@@SA?AVQString@@PEBD0@Z
 ?trUtf8@WorldTimeClock@@SA?AVQString@@PEBD0H@Z
 ?updated@WorldTimeClock@@IEAAXVQTime@@@Z
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@A\_^
-@A]A\]
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@UATAUAVAWH
-@USVWATAUAVAWH
-@USVWH
-A9	u<A
-A9	uxA
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-A\_^][
-A]A\_
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 April
 August
-B(I9A(u
 B,?setRenderHint@QPainter@@QEAAXW4RenderHint@1@_N@Z
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\designer\worldtimeclockplugin.pdb
 CorExitProcess
-D$&8\$&t-8X
-D$(E3
-D$8E3
-D$8HcH
-D$DE3
-D$HE3
-D$PL9oXt
-D$XE3
-D$p H
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8t$ t
-D9d$ 
-D;+t1
 December
 DecodePointer
 DeleteCriticalSection
 Display Widgets [Examples]
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
 ExitProcess
-F0HcH
 FatalAppExitA
 February
 FlsAlloc
@@ -331,7 +169,6 @@ FlsSetValue
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G0Hc	H
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -362,14 +199,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H(H9J(u
-H+M0x
-H9L$Xt'H
 HH:mm:ss
-HcC H
-HcH<H
-HcO H
-Hct$@H
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -377,31 +208,14 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-I94$tt
-IcqHH
-IcqHI
 InitializeCriticalSectionAndSpinCount
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
 January
-K A+K
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ E3
-L$ H3
-L$ SUVWH
-L$0<`t
-L$0H;
-L$8H3
-L$@;|
-L$@E3
-L$HH3
-L$PH3
-L$`H3
-L$pH3
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -409,23 +223,18 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
 March
-Mc,$E
 MessageBoxW
 Monday
 MultiByteToWideChar
+NKeb
+NULL
 Norwegian-Nynorsk
 November
-O0HcQ
 October
-PA^A]A\_^][
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
 QDesignerCustomWidgetInterface
 QtCore4.dll
@@ -441,9 +250,7 @@ RtlUnwindEx
 RtlVirtualUnwind
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
 S,?setRgb@QColor@@QEAAXHHHH@Z
-SUVWH
-SVWATAUAVAWH
-SVWATH
+S;uD
 Saturday
 September
 SetConsoleCtrlHandler
@@ -453,26 +260,12 @@ SetUnhandledExceptionFilter
 Sleep
 Sunday
 SystemFunction036
-T$0E3
-T$PE3
 TerminateProcess
 Thursday
 Tuesday
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 UnhandledExceptionFilter
 Unknown exception
-VWATAUAVH
-VWATH
-WATAUAVAWH
-WATAUH
-WATAVH
 Wednesday
 WideCharToMultiByte
 World Time Clock
@@ -480,11 +273,13 @@ WorldTimeClock
 WorldTimeClockPlugin
 WriteFile
 [thunk]:
-\$ UVWATAUAVAWH
-\$ WH
-\$0H;
-\$8L3
 \%?resize@QWidget@@QEAAXAEBVQSize@@@Z
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QTimer@@UEAAPEAXPEBD@Z
+\t?fromUtf8@QString@@SA?AV1@PEBDH@Z
+\v?metaObject@QTimer@@UEBAPEBUQMetaObject@@XZ
+\v?minute@QTime@@QEBAHXZ
 __based(
 __cdecl
 __clrcall
@@ -501,11 +296,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
-` AUH
-`.rdata
-`A\_]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -559,10 +349,10 @@ american-english
 australian
 bad exception
 belgian
+bool
 britain
-buildkey=Windows x64 msvc release full-config
-c AUH
 canadian
+char
 char 
 china
 chinese
@@ -580,10 +370,7 @@ const
 const 
 currentTime
 czech
-d$ UH
-d$8H+
 dddd, MMMM dd, yyyy
-debug=false
 double
 dutch-belgian
 e+000
@@ -604,11 +391,6 @@ english-usa
 enum 
 extern "C" 
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
-fffffff
 float
 french-belgian
 french-canadian
@@ -619,28 +401,25 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
-h_^][
+hM.Q
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 holland
 hong-kong
 hourOffset
-i@pattern=QT_PLUGIN_VERIFICATION_DATA
+i@pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
+int 
 irish-english
 italian-swiss
 k7?update@QWidget@@QEAAXXZ
-l$ D!
-l$ WH
-l$@@2
+kU'9
+long
 long 
 new-zealand
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
 operator
-p WATAUAVAWH
-p WATAUH
 portuguese-brazilian
 pr china
 pr-china
@@ -650,8 +429,6 @@ public:
 puerto-rico
 qt_plugin_instance
 qt_plugin_query_verification_data
-s WATAUAVAWH
-s\HcL$HH
 setTimeZone(int)
 short
 short 
@@ -685,56 +462,27 @@ std::nullptr_t
 struct 
 swedish-finland
 swiss
-t$ @80
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t*HcO
-t0<@t
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tb<A|M<P
 template-parameter-
 tier0.dll
-tnLcV
 trinidad & tobago
-u	A!A
-u"E9Q t
-u5E9Q t
-uNM9u
-uQI91tLH
-u_D9u
 union 
 united-kingdom
 united-states
 unsigned 
 updated(QTime)
-v	?hour@QTime@@QEBAHXZ
-version=4.8.3
+v\t?hour@QTime@@QEBAHXZ
 virtual 
+void
 void 
 volatile
 volatile 
 wchar_t
 worldtimeclock.h
 worldtimeclockplugin.dll
-x ATAUAVH
-x ATAUAWH
-x ATH
-x_^][
 z?aUY
 zc%C1
-zux!l$ E3
 {flat}
 {for 
-|$ ATAUAVH
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$@-D
-|$@-H
-|$HfA
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
-~/8\$vt)H
-~ID;c
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+|\r?qt_metacall@QTimer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z

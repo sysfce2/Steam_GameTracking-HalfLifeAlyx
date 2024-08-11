@@ -1,23 +1,11 @@
  (but obtaining the buffer() of this object could)
- A\][
- A\_[
- A]A\]
- A]A\^
- A^A]A\
- A_A^A]
-!This program cannot be run in DOS mode.
 #3:O4j
 %s has read-only attributes
 %u is maximum number of IIDs
-'+?2LF
-(A^A]A\]
-(A_A^A]A\^]
-(H;=~
+'1nD
 (OOiO)
 (OiO)
 (iiiiii)
-)D$ L
-)D$0H
 --unregister
 -np1A
 .?AUIClassFactory@@
@@ -134,27 +122,8 @@
 .?AVPyITypeLib@@
 .?AVPyIUnknown@@
 .?AVtype_info@@
-.pdata
-.text
-0A\_^
-0A]A\^
-0A]A\_
-0A^A\]
-0A^A]A\
-0A^A]A\^[
-0A^A]_][
-0A^_^][
-0A_A^A]
-0A_A^A]A\_^]
-0A_A^A]_[
-8A\_^[
-8A_A]
-8GJS t)H
-9T$0v
-9\$pvKL
-9]@v^I
-9|$8t>H
-9}gt	H
+1\r%1t
+5Y!2
 :Clone
 :CoFreeUnusedLibraries
 :CoInitialize
@@ -195,13 +164,11 @@
 :_GetGatewayCount
 :_GetInterfaceCount
 :reduce
-;D$0r
-;\$pr
-;t$pr
 <%hs at %p>
 <%hs at 0x%0lp with obj at 0x%0lp>
 <Unknown Facility>
 <unknown>
+<wt2
 =sRQj
 =sRRj
 =sRSj
@@ -692,56 +659,9 @@
 ?type@PyITypeInfo@@2VPyComTypeObject@@A
 ?type@PyITypeLib@@2VPyComTypeObject@@A
 ?type@PyIUnknown@@2VPyComTypeObject@@A
-@.data
-@.reloc
-@A\^]
-@A\_[
-@A\_]
-@A\_^
-@A]A\^
-@A]A\_
-@A^A]A\
-@A_A^A]A\_
-@A_A^A]A\_^]
 @Qm6t
-@SATH
-@SAUH
-@SAVH
-@SUATH
-@SUAUAVH
-@SUVAVH
-@SUVH
-@SUVWAVH
-@SUWAUAVH
-@SUWH
-@SVATAUAVH
-@SWATH
-@SWAUAVAWH
-@UATAUAVAWH
-@UATAUAVH
-@USVWH
-@UVWATAUAVAWH
-@UVWAUH
-@UVWH
-@VWATH
-@WATAUAVAWH
-@WATAUH
-@WAWH
-A HcX
-A Hcx
 ACTIVEOBJECT_STRONG
 ACTIVEOBJECT_WEAK
-ATAUAVH
-AUAVAWH
-AUAVH
-AUAWH
-A]A\_
-A^A]A\
-A^A]A\_^
-A^A]]
-A^A]_
-A_A^A]A\]
-A_A^A]A\_^[]
 AddConnection
 AddError
 AddFuncDesc
@@ -764,6 +684,7 @@ Associates a COM object to the bind context
 At least one argument must be supplied
 BIND_OPTS must be a dictionary
 Bad argument
+Bind
 BindOptions must be None
 BindToObject
 BindToStorage
@@ -921,7 +842,7 @@ Connect
 ContextSensitiveHelp
 CopyTo
 Could not set the SAFEARRAY element
-Couldn't find IID %S
+Couldn't find IID %S\n
 Create
 CreateBindCtx
 CreateFileMoniker
@@ -942,30 +863,13 @@ CreateVTable
 Creates an enumerator to list context's string keys
 CreatingSafeArray
 Currency object must be either a tuple of 2 longs or a Decimal instance (got %s).
-D$ E3
-D$(Mc
-D$(fD
-D$0+D$4
-D$0uEH
-D$8E3
-D$@;L$0
-D$@E3
-D$@Hk
-D$HE3
-D$XA;
-D$XuFH
-D$\9D$@
-D$p9D$xt
-D$pD+
-D$pE3
-D$pH;
-D$xE3
 DATADIR_GET
 DATADIR_SET
 DATA_E_FIRST...DATA_E_LAST
 DATA_S_FIRST...DATA_S_LAST
 DATA_S_SAMEFORMATETC
 DAdvise
+DEST
 DISPATCH_METHOD
 DISPATCH_PROPERTYGET
 DISPATCH_PROPERTYPUT
@@ -1041,6 +945,8 @@ DoDragDrop
 DragEnter
 DragLeave
 DragOver
+Drop
+Dw=I
 E:\dev\python\2.7\packages\pywin32\pywin32-217\build\temp.win-amd64-2.7\Release\pythoncom.pdb
 ELEMDESCArray must be a sequence of ELEMDESCs
 ENUM_E_FIRST...ENUM_E_LAST
@@ -1060,7 +966,6 @@ EOAC_NO_CUSTOM_MARSHAL
 EOAC_REQUIRE_FULLSIC
 EOAC_SECURE_REFS
 EOAC_STATIC_CLOAKING
-EP+EXLc
 ERROR: server.policy could not create an instance.
 EXTCONN_CALLABLE
 EXTCONN_STRONG
@@ -1078,6 +983,7 @@ E_UNEXPECTED
 Empty
 EnableQuitMessage
 EncodePointer
+Enum
 EnumCategories
 EnumClassesOfCategories
 EnumConnectionPoints
@@ -1091,6 +997,8 @@ Error converting floating point variant (%08lx)
 Error converting integer variant (%08lx)
 Expecting a string of %d bytes (got %d)
 Expecting a tuple of length %d or None.
+F0:s
+F0:s\f
 FACILITY_0x06
 FACILITY_ADSI
 FACILITY_BACKUP
@@ -1127,6 +1035,7 @@ FUNC_NONVIRTUAL
 FUNC_PUREVIRTUAL
 FUNC_STATIC
 FUNC_VIRTUAL
+FU\r8r+
 Failed to call the universal dispatcher
 Failed to setup call into Python gateway
 FindConnectionPoint
@@ -1198,33 +1107,9 @@ GlobalAlloc
 GlobalLock
 GlobalSize
 GlobalUnlock
-H9D$8t$H
-H9D$@t%H
-H9D$Pt
-H9D$Pu
-H9D$Xt
-H9D$`
-H9D$h
-H9D$p
-H9D$x~'A
-H9E(t
-H9L$xt
-H9i t&L
-H9k t
-H;D$ht
-H;l$P
-H;|$h|
-HA^A]][
 Handles must be a list of integers
 HandsOffStorage
-HcD$XL
-HcH<H
-HcL$P
-HcL$X
-HcL$`
-HcL$h
-HcT$@H
-Hc|$`H
+Hash
 IBindCtx
 ICatInformation
 ICatRegister
@@ -1368,32 +1253,9 @@ IsRunning
 IsSystemMoniker
 KERNEL32.dll
 Kk:ReadAt
-L$ E3
-L$ SH
-L$ UVWH
-L$ VWAUH
-L$0H91u
-L$0Hc
-L$0L9!u
-L$8H;
-L$@E3
-L$@Hk
-L$HH;
-L$PE3
-L$XE3
-L$`E3
-L$`H9)u
-L$`Hc
-L$`L9!u
-L$xE3
-L$xH;
-L9)t	H
 L:strL64
 LayOut
-LcA<E3
-LcD$P3
-LcD$`3
-LcD$`H
+Load
 LoadLibraryA
 LoadRegTypeLib
 LoadTypeLib
@@ -1435,7 +1297,6 @@ MK_S_ME
 MK_S_MONIKERALREADYREGISTERED
 MK_S_REDUCED_TO_SELF
 MK_S_US
-MO;uo
 MSHCTX_DIFFERENTMACHINE
 MSHCTX_INPROC
 MSHCTX_LOCAL
@@ -1453,15 +1314,18 @@ MakeTime is deprecated - please use pywintypes.Time() instead.
 Making BSTR for variant
 Missing
 MkParseDisplayName
+Mode
 MoveElementTo
 MultiByteToWideChar
 Must be a COM exception object (not '%s')
+Next
 Next() did not return a sequence of objects
 None is not a valid interface object in this context
 None must be used for VT_EMPTY variables.
 Not all of the 'None' arguments are None!
 Not available on this platform
 Not enough memory to allocate wide string buffer.
+Null
 O!:strUL64
 O(NHHiNN)
 O:AddRefTypeInfo
@@ -1583,7 +1447,9 @@ OOO:BindToStorage
 OOO:OleLoad
 OOO:SetTimes
 OOO:WriteFromOutTuple
+OOOO
 OOOO:SetElementTimes
+OOOi
 OOOi:MoveElementTo
 OOOiiOiO:CoInitializeSecurity
 OOOk|k:CoMarshalInterface
@@ -1591,6 +1457,7 @@ OOi:LockRegion
 OOi:RegisterActiveObject
 OOi:SetData
 OOi:UnlockRegion
+OOiO
 OOiO:CoCreateInstance
 OOiOO:CoCreateInstanceEx
 OOiOOO
@@ -1621,6 +1488,7 @@ Oi:ReadMemory
 Oi:Save
 OiOOOOiiOii
 Oii:Save
+Oiii
 OiiiO|O:GetRecordFromGuids
 OiiiO|O:StgOpenStorageEx
 Oiiiii
@@ -1636,6 +1504,7 @@ Ol:DeleteMemberByName
 Ol:GetDispId
 OlO:DAdvise
 OlOi:Drop
+OlOl
 OlOl:DragEnter
 Ole32.dll
 OleFlushClipboard
@@ -1651,15 +1520,18 @@ One of the GUID's in the required list is invalid
 Only None or lists are supported for the params.
 Only com_record objects can be used as records
 Only support single dimensional arrays of records
+Open
 OpenStorage
 OpenStream
 Os#:WriteMemory
 OutputDebugStringA
 OzO:CopyTo
+Ozii
 O|O:AddError
 O|O:Load
 O|O:MkParseDisplayName
 O|O:QueryInterface
+O|OO
 O|OO:CoGetObject
 O|Oii
 O|i:Bind
@@ -1667,7 +1539,6 @@ O|i:CreateVTable
 O|iO:Read
 O|l:Load
 O|l:Open
-P0Hc{ ;{$~1H
 PARAMFLAG_FHASDEFAULT
 PARAMFLAG_FIN
 PARAMFLAG_FLCID
@@ -1675,12 +1546,6 @@ PARAMFLAG_FOPT
 PARAMFLAG_FOUT
 PARAMFLAG_FRETVAL
 PARAMFLAG_NONE
-PA\_^
-PA]A\^
-PA]A\_
-PA]A\_^]
-PA_A^A]A\_^]
-PA_A^A]_]
 PROPSPECs must be a sequence of strings or integers
 PeekMessageA
 PostThreadMessageA
@@ -1955,6 +1820,8 @@ RPC_E_SYS_CALL_FAILED
 RPC_E_THREAD_NOT_INIT
 RPC_E_UNEXPECTED
 RPC_E_WRONG_THREAD
+RSDS
+Read
 ReadAt
 ReadClassStg
 ReadClassStm
@@ -1988,7 +1855,6 @@ RevokeActiveObject
 RevokeDragDrop
 RevokeInterfaceFromGlobal
 RevokeObjectParam
-Rich	
 SAFEARRAY descriptions are not yet supported
 SCODE array must be a sequence of integers!
 SEVERITY_ERROR
@@ -2038,17 +1904,17 @@ STG_S_CONVERTED
 STREAM_SEEK_CUR
 STREAM_SEEK_END
 STREAM_SEEK_SET
-SUVATAUAVH
-SVWATH
-SWATH
 SYS_MAC
 SYS_WIN16
 SYS_WIN32
 S_FALSE
+S_OK
 SafeArrayGetRecordInfo
+Save
 SaveAllChanges
 SaveCompleted
 SectorSize
+Seek
 ServerInterfaces
 SetAlignment
 SetBindOptions
@@ -2079,8 +1945,10 @@ SetVarName
 SetVersion
 Sets the bind options for the bind context
 SizeOfVT
+Skip
 Sleep
 Sorry - cant support VT_VECTOR arguments
+Stat
 StgCreateDocfile
 StgCreateDocfileOnILockBytes
 StgIsStorageFile
@@ -2088,19 +1956,6 @@ StgOpenStorage
 StgOpenStorageEx
 StgOpenStorageEx not supported by this version of Windows
 StringFromGUID2
-T$ E3
-T$(E3
-T$0E3
-T$8E3
-T$<E3
-T$@E3
-T$@L;
-T$HE3
-T$PE3
-T$XE3
-T$`E3
-T$hE3
-T$xE3
 TKIND_ALIAS
 TKIND_COCLASS
 TKIND_DISPATCH
@@ -2188,25 +2043,14 @@ There is no interface object registered that supports this IID
 This STGMEDIUM has no data
 TickCountDeadline
 Too many results supplied - %d supplied, but only %d can be set
-Traceback (most recent call last):
+Traceback (most recent call last):\n
 TranslateMessage
 Type descriptions are not yet supported.
 TypeIIDs
-UATAUAVAWH
-UATAUH
-UATAVH
-UAUAVH
+UL64
 URL_MK_LEGACY
 URL_MK_UNIFORM
 USER32.dll
-USVWATAUAVAWH
-USVWH
-UVATAUAVAWH
-UVATH
-UVWATAUAVAWH
-UVWATAUH
-UWATH
-UWAUAVAWH
 UnRegisterCategories
 UnRegisterClassImplCategories
 UnRegisterClassReqCategories
@@ -2231,7 +2075,6 @@ VAR_CONST
 VAR_DISPATCH
 VAR_PERINSTANCE
 VAR_STATIC
-VATAUH
 VDEST
 VIEW_E_DRAW
 VIEW_E_FIRST...VIEW_E_LAST
@@ -2286,15 +2129,10 @@ VT_USERDEFINED
 VT_VARIANT
 VT_VECTOR
 VT_VOID
-VWATAUAVH
-VWATH
-VWAUH
 Version
 VirtualAlloc
 VirtualFree
 VirtualProtect
-WATAUH
-WAUAVH
 When refilling a safe array, the sequence must have the same number of dimensions as the existing array.
 When refilling a safe array, the sequences must be the same length as the existing array.
 Win32 exception occurred releasing IUnknown at 0x%08x
@@ -2307,20 +2145,11 @@ WriteFromOutTuple
 WriteMemory
 WriteMultiple
 WritePropertyNames
-XA]_^]
-XA^A]
-XA^A]A\^][
-XA^^H
-\$ UATAVH
-\$ VATAUH
-\$ WH
-\$$A;
-\$0E3
-\$0t	
-\$8L3
-\$PHc
-\$PI;
-\$`u4H
+\fCPf
+\nCPf
+\rCPf
+\tCPf
+\vCPf
 _DeleteMemberByDispID_
 _DeleteMemberByName_
 _GetDispID_
@@ -2347,12 +2176,10 @@ __C_specific_handler
 __CppXcptFilter
 __CxxFrameHandler3
 __clean_type_info_names_internal
-__div__
 __dllonexit
 __future_currency__
 __iob_func
 __members__
-__mul__
 __reduce__
 _amsg_exit
 _encoded_null
@@ -2367,10 +2194,6 @@ _snprintf
 _univgw
 _unlock
 _vsnprintf
-` AUAVAWH
-`.rdata
-`A\_[
-`A\_^
 allocating BSTR
 allocating PROPSPECs
 allocating PROPVARIANTs
@@ -2382,6 +2205,7 @@ allocating result STATPROPSETSTGs
 allocating result STATPROPSTGs
 allocating result VARIANTs
 allocating result array
+args
 argument does not contain a vtable
 argument is not a COM object
 argument is not a COM object (got type=%s)
@@ -2390,6 +2214,7 @@ argument is not a Python gateway (0x%x)
 argument is not an IID
 argument is not an integer
 argument must be 8 characters
+argv
 authinfo in the SERVERINFO must be None
 buffer size is not what we created!
 cFuncs
@@ -2402,24 +2227,22 @@ cbAlignment
 cbSizeInstance
 cbSizeVft
 cbStruct
+code
 coinit_flags
 com_error
 com_record
 com_struct(
 connect
-d$ AUH
-d$0Lcd$hI
-d$@H;
-d$pE3
+data
 data_handle
+dcom
 decimal
 description
 dispatch
-e@A_A^A]A\]
 elemdescVar
 error
 exc_info
-fD;o*}wH
+fX]r
 failed to set memory attributes to executable
 fclose
 fdexNameCaseInsensitive
@@ -2440,15 +2263,15 @@ fdexPropCannotPutRef
 fdexPropCannotSourceEvents
 fdexPropDynamicType
 fdexPropNoSideEffects
-fffff
 fopen
 fprintf
+free
 frozen
 funckind
 function requires no arguments
-hA^^][
 helpcontext
 helpfile
+i(Lc
 i:CoRevokeClassObject
 i:Commit
 i:ContextSensitiveHelp
@@ -2465,6 +2288,7 @@ i:SetTypeFlags
 i:SizeOfVT
 i:Stat
 i:Unadvise
+iNOO
 iO:AddFuncDesc
 iO:AddVarDesc
 iO:SetFuncAndParamNames
@@ -2475,9 +2299,12 @@ iO:SetVarName
 iO:set
 iOO:DefineFuncAsDllEntry
 iOO:Register
+iOOO
 iOOOii
+iOiO
 iOiOOO
 iOiii:FORMATETC
+iOzO
 idldescType
 ii:SetImplTypeFlags
 ii:SetStateBits
@@ -2499,19 +2326,10 @@ invkind
 iziii
 izzzii:ExceptionInfo
 i|i:AddConnection
+k7E8
 k:Skip
+k\ftS
 kkk|k:BIND_OPTS
-l$ ATAUAVH
-l$ ATH
-l$ E3
-l$ VH
-l$ VWATH
-l$ WH
-l$(Hi
-l$0D;
-l$0t/
-l$PE3
-l$PHc|$`H
 l:CoInitializeEx
 l:Commit
 l:DUnadvise
@@ -2525,6 +2343,7 @@ l:SetLcid
 l:Skip
 lO:GetInterfaceFromGlobal
 lOl:DragOver
+lcid
 ll:DeleteMemberByDispID
 ll:GetMemberName
 ll:GetMemberProperties
@@ -2539,13 +2358,12 @@ memidDestructor
 memset
 not enough arguments (at least 4 needed)
 not enough arguments (at least 5 needed)
+oVft
 obAuthSvc must be None or an empty sequence.
 ole32.dll
 ole_error
 oleacc.dll
 oleaut32.dll
-pA^A\]
-pA_A^A]A\_^]
 printf
 python27.dll
 pythoncom
@@ -2556,7 +2374,7 @@ pythoncom.internal_error
 pythoncom27.dll
 pywintypes27.dll
 qsort
-rZH9}
+read
 regsvr32.exe
 reserved
 result must be a tuple of (PyIUnknown, dwCookie)
@@ -2573,29 +2391,9 @@ strL64
 strUL64
 strncat
 strncpy
-t HcL$X
-t$ ATH
-t$ WATAUH
-t$ WH
-t$@9\$pv
-t$@u4H
-t$HI+
-t/H9w
-t0H9w
-t5Hc\$X
-t6H9w
-tJHc\$P
-tLHc\$XH
-tLffffff
-tOHc\$P
-tWHc\$X
-tWHct$h
 td must be None
-tdH;=E
-tdHc|$XH
 tdescAlias
 tear-off not allowed for IUnknown
-tgHc\$XH
 tymed
 tymed value of %d requires a string/unicode/buffer
 typekind
@@ -2622,13 +2420,6 @@ write
 wsprintfA
 ziOOOOiiOii
 {s:k,s:k,s:k,s:k}
-|$ ATAUAVH
-|$ ATH
-|$ AUH
-|$0+|$4
-|$0Hc|$hH
-|$Pf;]
-|$xE3
 |I:Next
 |OO:EnumClassesOfCategories
 |Ol:CreateILockBytesOnHGlobal
@@ -2645,3 +2436,4 @@ ziOOOOiiOii
 |l:GetRunningObjectTable
 |l:Next
 |lllu
+~iGt

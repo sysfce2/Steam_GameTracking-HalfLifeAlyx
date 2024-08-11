@@ -1,663 +1,189 @@
-	%d (%d) : %s %s %s %s
-	%d:%d - %s
-	%d:%d - %s (agrp vs agrp flag mismatch) %s:%s (promoted to match existing) %s:%s
-	%d:%d - %s (match)
-	%d:%d - %s (skipped)
-	%s = %s out of range, valid range [0.0, 1.0]
-	Error
-	L9}(
-	Syntax: %s
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	t#Ic
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
-       - Bone[%d] %s %f :: PC %d PI %d QC %d QI %d
-       - Morph[%d] %s %f :: MC %d MI %d
-     o Bone Weights :: %d non-zero weights
-     o Channel :: %3d Pattern :: %3d Count :: %d
-     o Default  Morph Ctrl Weight  :: %f
-     o Explicit Morph Ctrl Weights :: %d
-     o MorphCtrlWeight[%d] :: %s :: %f
-   + Already Exists, ignoring
-   + Default Morph Ctrl Weight :: %8.4f
-   + WeightList[%d]  :: %s
-  +- AnimGroup: %s
-  +- Model:     %s
+       - Bone[%d] %s %f :: PC %d PI %d QC %d QI %d\n
+       - Morph[%d] %s %f :: MC %d MI %d\n
+     o Bone Weights :: %d non-zero weights\n
+     o Channel :: %3d Pattern :: %3d Count :: %d\n
+     o Default  Morph Ctrl Weight  :: %f\n
+     o Explicit Morph Ctrl Weights :: %d\n
+     o MorphCtrlWeight[%d] :: %s :: %f\n
+   + Already Exists, ignoring\n
+   + Default Morph Ctrl Weight :: %8.4f\n
+   + WeightList[%d]  :: %s\n
   tilted ground plane.
- %s : Animations loaded but no animation data found
- %s : animtable hash too small: %d elements / %d buckets
- %s : seqtable hash too small: %d elements / %d buckets
- * %d WeightLists
- * WeightList[%d] :: %s
- 9(X`
- A;oX
- A;~X|
- A\_]
- A^A\^
- A^A\_
- A^A\_^[
- A^A]^
- A^A]_
- A^][
- A^^]
- A^_[
- A^_]
- A^_^
- A_A\]
- A_A\^[]
- A_A\^[]I
- A_A\_
- A_A]A\^[
- A_A]A\^]
- A_A]A\_^
- A_A]^
- A_A]^][
- A_A]_
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]^]
- A_A^]
- A_A^^
- A_A^_
- A_A^_H
- A_A^_][
- A_A^_^]
- A_^[
- A_^]
- A__]
- A__^
+ %s : Animations loaded but no animation data found\n
+ %s : animtable hash too small: %d elements / %d buckets\n
+ %s : seqtable hash too small: %d elements / %d buckets\n
+ * %d WeightLists\n
+ * WeightList[%d] :: %s\n
  Condition
- E;wX
- E;}X
- Hc1H
- Hc2L
- Hc9H
- Hc:H
- HcyH3
- HcyXH
- Lc1H
- vJH+
-!Hc{@
-"%s" has mismatched retarget rule counts, disabling.
-"%s" has mismatched retarget types, disabling.
-"HcCh
-"pA3Q
+ \t\n\r@()[]{}=&,:*|;'!
+"%s" has mismatched retarget rule counts, disabling.\n
+"%s" has mismatched retarget types, disabling.\n
 #Angle
-#D$(t
-#L$(u
 #Position
 #base
 #base is NULL 
 #data
 #include
 #include is NULL 
-$A;\$
 %-40.40s %10.10s %10.10s
 %-40.40s %10.2f %10.2f
 %.15lf
 %.2f degrees, %.2f ratio
+%02X
 %d %d %d %d
-%d : 
 %d.Add( %s, %d, %.2f )
+%d.Add( %s, %d, %.2f )\n
 %d.Blend( %d, %.2f )
+%d.Blend( %d, %.2f )\n
 %d.CallSequence( %s, %.2f, %.2f )
+%d.CallSequence( %s, %.2f, %.2f )\n
 %d.Copy( %d )
+%d.Copy( %d )\n
 %d.FetchCycle( %s, %.2f )
+%d.FetchCycle( %s, %.2f )\n
 %d.FetchFrame( %s, %.1f )
+%d.FetchFrame( %s, %.1f )\n
 %d.IKLockInPlace( %s, %.2f, %.2f )
+%d.IKLockInPlace( %s, %.2f, %.2f )\n
 %d.IKRestoreAll( )
+%d.IKRestoreAll( )\n
 %d.Scale( %.2f )
+%d.Scale( %.2f )\n
 %d.Slerp( %s, %d, %.2f )
+%d.Slerp( %s, %d, %.2f )\n
 %d.Subtract( %s, %d, %.2f )
-%d.Transform( %s, Vector( %.2f, %.2f, %.2f ), DegreeEuler( %.2f %.2f %.2f ) )
+%d.Subtract( %s, %d, %.2f )\n
+%d.Transform( %s, Vector( %.2f, %.2f, %.2f ), DegreeEuler( %.2f %.2f %.2f ) )\n
 %d.Worldspace( %s, %d, %.2f )
-%g %g
-%g %g %g
+%d.Worldspace( %s, %d, %.2f )\n
 %g %g %g %g
 %i %i %i %i
-%s %.2f
-%s %.3f
-%s %f %f
-%s %s
-%s %s %s
-%s (%.2f)
+%lld
+%llu
 %s (%.2f, %.2f, %.2f)
-%s (%g)
-%s : param %s %s : %f
-%s = "%s" failed on sequence "%s", unknown pose parameter "%s" on model: %s
-%s = "%s" ignored on sequence "%s", %s = "%s" already specified on model: %s
-%s = %d failed on sequence "%s", unknown pose parameter "%d" on model: %s
-%s = %d failed on sequence "%s", unknown pose parameter %d on model: %s
-%s == %s
+%s : param %s %s : %f\n
+%s = "%s" failed on sequence "%s", unknown pose parameter "%s" on model: %s\n
+%s = "%s" ignored on sequence "%s", %s = "%s" already specified on model: %s\n
+%s = %d failed on sequence "%s", unknown pose parameter "%d" on model: %s\n
+%s = %d failed on sequence "%s", unknown pose parameter %d on model: %s\n
 %s Target
-%s [%s]
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
-%s allocation count overflow( %llu >= %llu )
-%s failed: expected an array of floats for pose parameters
-%s failure, expected int or string as argument
+%s allocation count overflow( %llu > %llu )\n
+%s allocation count overflow( %llu >= %llu )\n
+%s failed: expected an array of floats for pose parameters\n
+%s failure, expected int or string as argument\n
 %s trace
-%s#%d
-%s(%s): %s
-%s: "%s" failed ignoring activity %d, expected float for parameter "%s" on model: %s
-%s: "%s" failed ignoring ikLock %d, expected float for parameter "%s" on model: %s
-%s: "%s" failed, "%s" parameter is not an array on model: %s
-%s: "%s" failed, "%s" row %d array has mismatched widths, all rows must be the same width %d, found %d on model %s
-%s: "%s" failed, "%s" row %d has an invalid number of entries, %d, must be > 0 on model: %s
-%s: "%s" failed, "%s" row %d is not an array on model: %s
-%s: "%s" failed, "%s" row %d, col %d is not a string on model: %s
-%s: "%s" failed, "%s" row %d, col %d, sequence "%s" not found on model: %s
-%s: "%s" failed, activity %d, expected table on model: %s
-%s: "%s" failed, expected array for parameter "%s" on model: %s
-%s: "%s" failed, expected string or int for parameter "%s" on model: %s
-%s: "%s" failed, expected table at array index %d for parameter "%s" on model: %s
-%s: "%s" failed, ignoring activity %d, expected string for parameter "%s" on model: %s
-%s: "%s" failed, ignoring ikLock %d, expected float for parameter "%s" on model: %s
-%s: "%s" failed, ignoring ikLock %d, expected string for parameter "%s" on model: %s
-%s: "%s" failed, ikLock %d, expected table on model: %s
-%s: "%s" failed, invalid "%s" = %d, poseParamY cannot be specified without a valid poseParamX, on model: %s
-%s: "%s" failed, invalid "%s" = %d, valid range [0, %d] on model: %s
-%s: "%s" failed, sequence MaxFrame is %d on model: %s
-%s: "%s" failed, unknown "%s" = "%s" on model: %s
-%s: "%s" failed, unknown poseParameter "%s" = "%s" on model: %s
-%s: "%s" parameter not specified, using "%s"
-%s: "%s" parameter specified but isn't a string, ignoring and using "%s"
-%s: "%s" parameter specified but isn't a string, ignoring and using default type
-%s: %s
-%s: %s = %s, not found on model: %s
-%s: %s = true specified, ignoring %s = %f
-%s: %s already specified
-%s: %s already specified, ignoring %s
-%s: %s expects a table, bad %s element %d
-%s: %s expects an array, i.e. %s = { ... }
-%s: %s invalid value %d, specified, must be > 0, assumiung %d
-%s: %s invalid value %f, specified, must be > 0, assumiung %f
-%s: %s, invalid sequence specified already specified
-%s: %s="%s" failed, unknown %s="%s"
-%s: %s="%s", %s="%s" failed
-%s: Bad %s, couldn't compute nodeId for "%s" on model: %s
-%s: Invalid pose parameter index specified %d, valid range is [0, %d] on model: %s
-%s: Invalid sequence handle %d on model: %s
-%s: arg %d, expected a <%s> = <%s> pair, got: %s = %s on model %s
-%s: expected int, float or string for %s on model: %s
-%s: failed for node %s %s[%d], bad param on model: %s
-%s: failed for node %s %s[%d], couldn't compute nodeId for "%s" on model: %s
-%s: failed for node %s %s[%d], couldn't get sequence from handle %d on model: %s
-%s: failed for node %s %s[%d], expected table, i.e. <%s> as arg, got <%s> on model: %s
-%s: failed for node %s %s[%d], on model: %s
-%s: failed for node %s %s[%d], sequence "%s" has assigned nodes entry: "%s" exit: "%s" that don't match requested entry: "%s" exit: "%s" on model: %s
-%s: failed for node %s, expected array, i.e. <%s> as arg, got <%s> on model: %s
-%s: failed for node %s, expected table as arg, got <%s> on model: %s
-%s: failed for node %s, got empty array on model: %s
-%s: failed for node %s, got empty table as arg on model: %s
-%s: failed for node %s[%d], couldn't get sequence from handle %d on model: %s
-%s: failed for node %s[%d], expected %s = <%s> as node arg, got %s = <%s> on model: %s
-%s: failed for node %s[%d], expected sequence, i.e. <%s> or <%s> = table, i.e. <%s> as arg, got <%s> = <%s> on model: %s
-%s: failed for node %s[%d], sequence "%s" already has non-match nodes assigned, entry: "%s" exit: "%s" on model: %s
-%s: failed to run Animation Group script: %s
-%s: failed to run custom animation script: %s
-%s: failed to run embedded animation script:
-%s: failed, couldn't create ScriptScope on model: %s
-%s: failed, expected array as script parameters
-%s: failed, expected table as args
-%s: failed, expected table, i.e. <%s> as arg, got <%s> on model: %s
-%s: failed, got empty table on model: %s
-%s: failed, unable to register scope instance on model: %s
-%s: failed, weightlist "%s" already exists on model: %s
-%s: failed, weightlist "%s", array entry %d index %d out of range, valid range [0, %d] on model: %s
-%s: failed, weightlist "%s", array entry %d key is not a float on model: %s
-%s: failed, weightlist "%s", array entry %d sub-array entry %d is not a float on model: %s
-%s: failed, weightlist "%s", array entry %d sub-array entry %d key, unspected value, expected 1.0 or 2.0, on model: %s
-%s: failed, weightlist "%s", array entry %d value is not a table on model: %s
-%s: failed, weightlist "%s", array entry %d value is not length 2 model: %s
-%s: failed, weightlist "%s", array entry %d, cannot find bone "%s" on model: %s
-%s: failed, weightlist "%s", didn't result in any defined weights
-%s: failed, weightlist "%s", no data passed on model: %s
-%s: failed, weightlist "%s", table not passed on model: %s
-%s: failed, weightlist "%s", weightlist alreadt exists on model: %s
-%s: ignoring table entry %d, expected a string for the key
-%s: ignoring unexpected sequence paramater: %s
-%s: ignoring unknown sequence paramater: %s
-%s: ignoring unknown, %s = %s, parameter: %s
-%s: invalid src index %d, valid range [0, 8]
-%s: no %s specified, bad %s element %d
-%s: pose parameter "%s" not found on model: %s
-%s: sequence "%s" failed, expected string or int for parameter "%s" on model: %s
-%s: sequence "%s" failed, invalid "%s" = %d, valid range [0, %d] on model: %s
-%s: sequence "%s" failed, unknown "%s" = "%s" on model: %s
-%s: sequence "%s", bad "%s" at index %d, mandatory parameter "%s" missing on model: %s
-%s: string format requested %d chars
-%s: unexpected %s parameter: %s, bad %s element %d
-%s: unknown %s specified: %s, bad %s element %d
-&YA1+
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-'":|;
+%s(%s): %s\n
+%s: "%s" failed ignoring activity %d, expected float for parameter "%s" on model: %s\n
+%s: "%s" failed ignoring ikLock %d, expected float for parameter "%s" on model: %s\n
+%s: "%s" failed, "%s" parameter is not an array on model: %s\n
+%s: "%s" failed, "%s" row %d array has mismatched widths, all rows must be the same width %d, found %d on model %s\n
+%s: "%s" failed, "%s" row %d has an invalid number of entries, %d, must be > 0 on model: %s\n
+%s: "%s" failed, "%s" row %d is not an array on model: %s\n
+%s: "%s" failed, "%s" row %d, col %d is not a string on model: %s\n
+%s: "%s" failed, "%s" row %d, col %d, sequence "%s" not found on model: %s\n
+%s: "%s" failed, activity %d, expected table on model: %s\n
+%s: "%s" failed, expected array for parameter "%s" on model: %s\n
+%s: "%s" failed, expected string or int for parameter "%s" on model: %s\n
+%s: "%s" failed, expected table at array index %d for parameter "%s" on model: %s\n
+%s: "%s" failed, ignoring activity %d, expected string for parameter "%s" on model: %s\n
+%s: "%s" failed, ignoring ikLock %d, expected float for parameter "%s" on model: %s\n
+%s: "%s" failed, ignoring ikLock %d, expected string for parameter "%s" on model: %s\n
+%s: "%s" failed, ikLock %d, expected table on model: %s\n
+%s: "%s" failed, invalid "%s" = %d, poseParamY cannot be specified without a valid poseParamX, on model: %s\n
+%s: "%s" failed, invalid "%s" = %d, valid range [0, %d] on model: %s\n
+%s: "%s" failed, sequence MaxFrame is %d on model: %s\n
+%s: "%s" failed, unknown "%s" = "%s" on model: %s\n
+%s: "%s" failed, unknown poseParameter "%s" = "%s" on model: %s\n
+%s: "%s" parameter not specified, using "%s"\n
+%s: "%s" parameter specified but isn't a string, ignoring and using "%s"\n
+%s: "%s" parameter specified but isn't a string, ignoring and using default type\n
+%s: %s = %s, not found on model: %s\n
+%s: %s = true specified, ignoring %s = %f\n
+%s: %s already specified, ignoring %s\n
+%s: %s already specified\n
+%s: %s expects a table, bad %s element %d\n
+%s: %s expects an array, i.e. %s = { ... }\n
+%s: %s invalid value %d, specified, must be > 0, assumiung %d\n
+%s: %s invalid value %f, specified, must be > 0, assumiung %f\n
+%s: %s, invalid sequence specified already specified\n
+%s: %s="%s" failed, unknown %s="%s"\n
+%s: %s="%s", %s="%s" failed\n
+%s: Bad %s, couldn't compute nodeId for "%s" on model: %s\n
+%s: Invalid pose parameter index specified %d, valid range is [0, %d] on model: %s\n
+%s: Invalid sequence handle %d on model: %s\n
+%s: arg %d, expected a <%s> = <%s> pair, got: %s = %s on model %s\n
+%s: expected int, float or string for %s on model: %s\n
+%s: failed for node %s %s[%d], bad param on model: %s\n%s\n\tSyntax: %s\n
+%s: failed for node %s %s[%d], couldn't compute nodeId for "%s" on model: %s\n\tSyntax: %s\n
+%s: failed for node %s %s[%d], couldn't get sequence from handle %d on model: %s\n\tSyntax: %s\n
+%s: failed for node %s %s[%d], expected table, i.e. <%s> as arg, got <%s> on model: %s\n
+%s: failed for node %s %s[%d], expected table, i.e. <%s> as arg, got <%s> on model: %s\n\tSyntax: %s\n
+%s: failed for node %s %s[%d], on model: %s\n%s\n\tSyntax: %s\n
+%s: failed for node %s %s[%d], sequence "%s" has assigned nodes entry: "%s" exit: "%s" that don't match requested entry: "%s" exit: "%s" on model: %s\n
+%s: failed for node %s, expected array, i.e. <%s> as arg, got <%s> on model: %s\n
+%s: failed for node %s, expected table as arg, got <%s> on model: %s\n
+%s: failed for node %s, got empty array on model: %s\n
+%s: failed for node %s, got empty table as arg on model: %s\n
+%s: failed for node %s[%d], couldn't get sequence from handle %d on model: %s\n
+%s: failed for node %s[%d], expected %s = <%s> as node arg, got %s = <%s> on model: %s\n
+%s: failed for node %s[%d], expected sequence, i.e. <%s> or <%s> = table, i.e. <%s> as arg, got <%s> = <%s> on model: %s\n
+%s: failed for node %s[%d], sequence "%s" already has non-match nodes assigned, entry: "%s" exit: "%s" on model: %s\n
+%s: failed to run Animation Group script: %s\n  +- Model:     %s\n  +- AnimGroup: %s\n
+%s: failed to run custom animation script: %s\n  +- Model:     %s\n
+%s: failed to run embedded animation script:\n  +- Model:     %s\n
+%s: failed, couldn't create ScriptScope on model: %s\n
+%s: failed, expected array as script parameters\n
+%s: failed, expected table as args\n
+%s: failed, expected table, i.e. <%s> as arg, got <%s> on model: %s\n
+%s: failed, got empty table on model: %s\n
+%s: failed, unable to register scope instance on model: %s\n
+%s: failed, weightlist "%s" already exists on model: %s\n
+%s: failed, weightlist "%s", array entry %d index %d out of range, valid range [0, %d] on model: %s\n
+%s: failed, weightlist "%s", array entry %d key is not a float on model: %s\n
+%s: failed, weightlist "%s", array entry %d sub-array entry %d is not a float on model: %s\n
+%s: failed, weightlist "%s", array entry %d sub-array entry %d key, unspected value, expected 1.0 or 2.0, on model: %s\n
+%s: failed, weightlist "%s", array entry %d value is not a table on model: %s\n
+%s: failed, weightlist "%s", array entry %d value is not length 2 model: %s\n
+%s: failed, weightlist "%s", array entry %d, cannot find bone "%s" on model: %s\n
+%s: failed, weightlist "%s", didn't result in any defined weights\n
+%s: failed, weightlist "%s", no data passed on model: %s\n
+%s: failed, weightlist "%s", table not passed on model: %s\n
+%s: failed, weightlist "%s", weightlist alreadt exists on model: %s\n
+%s: ignoring table entry %d, expected a string for the key\n
+%s: ignoring unexpected sequence paramater: %s\n
+%s: ignoring unknown sequence paramater: %s\n
+%s: ignoring unknown, %s = %s, parameter: %s\n
+%s: invalid src index %d, valid range [0, 8]\n
+%s: no %s specified, bad %s element %d\n
+%s: pose parameter "%s" not found on model: %s\n
+%s: sequence "%s" failed, expected string or int for parameter "%s" on model: %s\n
+%s: sequence "%s" failed, invalid "%s" = %d, valid range [0, %d] on model: %s\n
+%s: sequence "%s" failed, unknown "%s" = "%s" on model: %s\n
+%s: sequence "%s", bad "%s" at index %d, mandatory parameter "%s" missing on model: %s\n
+%s: string format requested %d chars\n
+%s: unexpected %s parameter: %s, bad %s element %d\n
+%s: unknown %s specified: %s, bad %s element %d\n
 '%s' Target
-'=qs~?
-($:LcD
-(*%s*), 
-(4$Mc
-(;l$(u
-(A]A\^]
-(A]A\_]
-(A^A]A\[
-(A^A]A\]
-(A^A]A\_
-(A^A]_^][
-(A_A\
-(A_A\][
-(A_A\_^][
-(A_A]_[
-(A_A^
-(A_A^A]^][
-(A_A^_[
-(A_A^_^][
-(D" A
-(D$ H
-(D$ L
-(D$ f
-(D$0D
-(D$0H
-(D$0L
-(D$0f
-(D$@A
-(D$@D
-(D$@H
-(D$@L
-(D$@f
-(D$PD
-(D$PH
-(D$PHc{@D
-(D$`A
-(D$`B
-(D$`D
-(D$`H
-(D$`L
-(D$pD
-(D$pH
-(D$pu
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
 (ERROR): %s
-(L$ D
-(L$ H
-(L$0A
-(L$0D
-(L$0H
-(L$0L
-(L$@A
-(L$@D
-(L$@H
-(L$@L
-(L$PA
-(L$PD
-(L$PH
-(L$PL
-(L$`A
-(L$`D
-(L$`H
-(L$`L
-(L$pA
-(L$pB
-(L$pD
-(L$pE
-(L$pH
-(L$pL
-(L$pt_
 (None)
-(T$ D
-(T$ H
-(T$0D
-(T$0H
-(T$0L
-(T$@D
-(T$@H
-(T$PD
-(T$PH
-(T$`D
-(T$pD
-(T$pH
-(T$pL
-(T70M
-(T7PH
-(\$ H
-(\$0A
-(\$0H
-(\$0L
-(\$@3
-(\$@A
-(\$@D
-(\$@H
-(\$@L
-(\$PD
-(\$PH
-(\$Pr
-(\$Pw
-(\$`D
-(\$pD
-(\$pL
-(d$ H
-(d$0A
-(d$0D
-(d$@D
-(d$@L
-(d$PD
-(d$PHc
-(d$PI
-(d$PL
-(d$`D
-(d$`H
-(d$pD
-(d$pE3
-(l$ D
-(l$ H
-(l$ L
-(l$0D
-(l$@E
-(l$@H
-(l$PA
-(l$PD
-(l$PE
-(l$PH
-(l$`D
-(l$`L
-(l$pD
-(l$pE3
-(l$pL
 (null)
-(o:R	
-(t$ D
-(t$ E
-(t$ H
-(t$ L
-(t$0A
-(t$0D
-(t$0E
-(t$0H
-(t$0L
-(t$@D
-(t$@H
-(t$@L
-(t$PD
-(t$PH
-(t$PL
-(t$Pfff
-(t$Pt
-(t$`D
-(t$`E
-(t$`H
-(t$`Hco(;o8u
-(t$`I
-(t$`L
-(t$pD
-(t$pH
-(t$pI
-(t$pL
-(t$ptqD
-(t$pu
-(t(PH
-(tFHc
-(|$ D
-(|$ H
-(|$0A
-(|$0C
-(|$0D
-(|$0H
-(|$0L
-(|$0s
-(|$0t
-(|$0t Hc
-(|$@D
-(|$@H
-(|$@I
-(|$PD
-(|$PE
-(|$PH
-(|$PI
-(|$PL
-(|$`@8
-(|$`A
-(|$`D
-(|$`H
-(|$`I
-(|$`L
-(|$p3
-(|$pD
-(|$pH
-(|$pL
-)4$H;
-)D$ A
-)D$ D
-)D$ E
-)D$ H
-)D$ I
-)D$ L
-)D$ w
-)D$0D
-)D$0H
-)D$0L
-)D$0u
-)D$@A
-)D$@A;@
-)D$@D
-)D$@D;@
-)D$@H
-)D$@f
-)D$PA;@
-)D$PD
-)D$PE
-)D$PH
-)D$Pf
-)D$`;A
-)D$`A
-)D$`D
-)D$`I
-)D$p@
-)D$pA
-)D$pD
-)D$pE
-)D$pH
-)D$pI
-)D$pM
-)E0Hc
-)L$ A
-)L$ D
-)L$ wy
-)L$09y
-)L$0D
-)L$0E
-)L$0H
-)L$0r
-)L$0th
-)L$@A;@
-)L$@D
-)L$@E
-)L$@H
-)L$@L
-)L$PD
-)L$PH
-)L$PL
-)L$Pt
-)L$`A
-)L$`D
-)L$`H
-)L$`M
-)L$pD
-)L$pE
-)L$pH
-)L$pL
-)L7PH
-)M E8
-)M Hc
-)T$ I
-)T$0;H
-)T$0D
-)T$@D
-)T$P3
-)T$PD
-)T$PH
-)T$Pf
-)T$`D
-)T$`I
-)T$p;A
-)T$pA
-)T$pD
-)T$pM
-)T$pf
-)T7PD
-)\$ E
-)\$ H
-)\$0A
-)\$0H
-)\$0L
-)\$@A
-)\$@E
-)\$@H
-)\$@f
-)\$PD
-)\$PE
-)\$PH
-)\$`D
-)\$`E
-)\$`H
-)\$pD
-)\$pE
-)\$pH
-)\7@A
-)d$@D
-)d$@H
-)d$PE
-)d$`A
-)d$`D
-)d$pD
-)l$ D
-)l$0D
-)l$0E
-)l$0fD
-)l$@D
-)l$PD
-)l$PF
-)l$`D
-)l$pA
-)m ;H
-)t$ A
-)t$ D
-)t$ E3
-)t$ H
-)t$ I
-)t$ L
-)t$ M
-)t$ f
-)t$03
-)t$0;A
-)t$0A
-)t$0A;@
-)t$0A;A
-)t$0A;B
-)t$0H
-)t$0I
-)t$0L
-)t$0f
-)t$@%
-)t$@3
-)t$@98t0Hc
-)t$@;HPs
-)t$@A
-)t$@A;@
-)t$@A;A
-)t$@A;B
-)t$@D
-)t$@D;@
-)t$@H
-)t$@I
-)t$@L
-)t$@fE
-)t$@t4
-)t$PA
-)t$PA;H
-)t$PD
-)t$PE3
-)t$PH
-)t$PI
-)t$PL
-)t$`D
-)t$`E
-)t$`E3
-)t$`H
-)t$`I
-)t$`L
-)t$`fD
-)t$p3
-)t$pA
-)t$pD
-)t$pE
-)t$pH
-)t$pI
-)t$pL
-)t$pM
-)|$ 3
-)|$ A
-)|$ A;A
-)|$ A;B
-)|$ D
-)|$ E3
-)|$ H
-)|$ I
-)|$ Mc
-)|$ f
-)|$03
-)|$0;A
-)|$0D
-)|$0D;@
-)|$0H
-)|$0Mc
-)|$0fE
-)|$@A8]4
-)|$@D
-)|$@D;H
-)|$@E3
-)|$@H
-)|$@L
-)|$PA
-)|$PD
-)|$PH
-)|$PL+
-)|$Pf
-)|$Pv
-)|$Pv9
-)|$`;J
-)|$`D
-)|$`H
-)|$`I
-)|$`L
-)|$pD
-)|$pE
-)|$pI
+***\nShared activity collision with private activity! %s<->%s [%i]\n***\n
+***\nShared activity collision! %s<->%s\n***\n
+***\nShared<->Private Activity collision!\n***\n
+***\nShared<->Private Event collision!\n***\n
 *Cm_EndEffectorFixedOffsetAttachment
-+A$Hc
-+B$Hc
-+C$Hc
-+D$pE
-+F$Hc
-+G$Hc
 +Retargetting
 +Stopping:Arrival Damping
-+Y(Hcq
-+_(Hcw
-+y(Hcq
-+{(Hcs
-,0<	w
-,|%)v
++inf
 - Scripted Sequence: 
 -1 1000
 -180 180
 -animdecodecachemem
+-avx
 -enable_2gb_morphs
+-inf
 -sse2
 -sse3
 -sse4
@@ -1535,9 +1061,6 @@ $A;\$
 .?AVbad_typeid@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.@(t	
-.@,tqH
-.CPt7
 .CRT$XCA
 .CRT$XCC
 .CRT$XCU
@@ -1550,16 +1073,11 @@ $A;\$
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$4z
-.D$8z
-.F0tEH
-.K tK
-.P0tX
+.bss
 .data
 .data$r
 .eBik_debug_perlin_solver
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -1570,218 +1088,34 @@ $A;\$
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.s tRH
-.sLtRH
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
-.vagrp_c/.vanim_c mismatch :: %s :: %s
+.vagrp_c/.vanim_c mismatch :: %s :: %s\n
 .xdata
 .xdata$x
-/=$!6
-/A(w#9
-/A(w/
-/C,s3H
-/EPv#A8]7t!I
-/G4vI
-/G4viH
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-/pTrQ
 0 180
+0 30
+0.01
 0.1 2
 00000000-0000-0000-0000-000000000000
-061110000000Z
-0;_0|
-0;_H|
-0;_`|
-0;ox|
-0;s0|
-0A;|$
-0A\_]
-0A\_^
-0A^A\]
-0A^A\_
-0A^^[
-0A^^]
-0A^_[
-0A^_]
-0A^_^
-0A_A\_
-0A_A]A\_]
-0A_A]A\_^
-0A_A]_
-0A_A^A\
-0A_A^A\][
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\^
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^A]A\_^]H
-0A_A^A]_]
-0A_A^A]_^
-0A_A^]
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_][
-0A_A^_^]
-0A__]
-0A__^
-0D;sH|
-0D;sx|
-0D;{`|
-0H;{0t6H
-0HcypH
-0L;l$x
-0v0b1
-131022120000Z
-141022000000Z
+10.0
+12.0
 180_recovery
-181004000000Z
 1DBlend
-1L9|$Xt
-200929173158Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-27@pH
-281022120000Z0r1
+20.0
+2\rE2h
 2dtri
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
-333?H
-3;D$@wpA
-3;D$DwuA
-49I;6t/H
-49I;6t3H
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4pD9w
-4vHcD
-5%YA1i
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-6;_Tv
-7HcD$P
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8A^A]A\[
-8A^A]A\[H
-8A_A\
-8A_A]^]
-8A_A^
-8HcCh
-8J.t3
-8LcAd3
-8Xet:9_
-8Y,tR
-8Y,te
-8Y.t.
-8Y/t-H
-8Y/tVA9Z
-8Y/tW8]\tRH
-8Y/tfH
-8Z-tEHc
-8Z/tKH
-8]9t98]:t
-8_Rtl
-9)~vH
-9)~{H
-90t>Hc
-98t0Hc
-98t:Hc
-98tAHc
-99C }
-99~-H
-99~2H
-99~3H
-99~CH
-9;~ H
-9;~"H
-9>vTf
-9C |K
-9C`|	H
-9D$@t
-9K$~nL
-9STs	H
-9T$HH
-9YTtJ
-9\$`~[
-9^ ~7H
-9_0~I3
-9_H~2H
-9_H~H3
-9_`~J3
-9_p~$
-9hHt9H
-9hHuOH
-9k(~PH
-9nPtJ
-9ox~^3
-9p(~bD
-9q$~PH
-9u ~lH
-9uPtJ
-9xX~}H
-9{ ~(H
-9{ ~,H
-9{0u1A
-9{`u	H
-9}@~/
-9}H~8D
+4\rE4h
+50.0
+75P=
 ::embedded_animation
-:Hc{h;{xu
-;1}NH
-;1}PH
-;8u-3
-;9}iHc
-;9}lHc
-;9}oH
-;A ~W
-;BPs	D
-;C sOH
-;C ~M
-;C8s"H
-;CHs#H
-;D$0u
-;D$@@
-;D$XwrA
-;D$`u
-;D$hu
-;D$xu
-;G sjH
-;G(s(H
-;HPs	D
-;L$0u
-;SL|0
-;\$ |
-;\$0|
-;\$8|
-;\$`|
-;\$x|
-;]p}~H
-;l$0|
-;s u	H
-;s0}RL
-;t$8|
-;t$H|
-;{ ~@
-;|$ |
-;|$@|
-<	u"H
-<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->
+<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
 <!-- schema 
-<(H;_0t6H
 <BAD_KEY>
 <BAD_VAL>
 <DEBUG>
@@ -1797,12 +1131,9 @@ $A;\$
 <null>
 <unconnected>
 <unknown>
-=KP*;Q>.
-?"%s" unable to find retargeted bone "%s", disabling.
-?5zlO
+?"%s" unable to find retargeted bone "%s", disabling.\n
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMutex@@QEAA@XZ
-?A;T$
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?AssertOwnedByCurrentThread@CThreadMutex@@QEBA_NXZ
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
@@ -1830,232 +1161,12 @@ $A;\$
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@PEADV?$CUtlMemory@PEADH@@@@@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
+?XZa
 ?ffffff
 ?labelled_debug_helper_skeleton_show_bone_names
 ?vmdlkeys0
-@ A;@
-@ A;A
-@ Lc4
-@$;H(
-@$A;@
-@$A;A
-@$E9>
-@()[]{}=&,:*|;'!
-@(A;@
-@(A;A
-@(D;@
-@,A;@
-@.data
-@.tls
-@4A;@
-@6W!?
-@81u/H
-@8:t<
-@8=(.
-@8=J9
-@8=ZE
-@8s2t(H
-@8sPt!H
-@8t$0
-@8uHtDH
-@8x/tYH
-@8xxt
-@8zQuz@8zPt
-@8{<t
-@8|$0
-@8~ trA9
-@8~\t
-@A\^[
-@A\_^][
-@A]A\]
-@A]A\^
-@A]A\_][
-@A^A]A\
-@A^A]A\^]
-@A^][
-@A^^]
-@A^_]
-@A^_^
-@A_A][
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_][
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^_
-@A_^]
-@A__^
-@A__^][H
-@HHc,
-@HcAp3
-@Lc:E3
 @Physics
-@SATAUAVH
-@SATAUAWH
-@SATAUH
-@SAUAWH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAVAWH
-@SUATAWH
-@SUAVH
-@SUVAUAWH
-@SUVH
-@SUVWATAVAW
-@SUVWATAVAWH
-@SUVWH
-@SUWATAUH
-@SUWAUAVAWH
-@SUWAVAWH
-@SUWH
-@SVATAUAWH
-@SVATH
-@SVAVAWH
-@SVAVH
-@SVAWH
-@SVWATAVH
-@SVWH
-@SWATAUH
-@SWATAVH
-@SWAUAWH
-@SWAVAWH
-@SWAVH
-@UATAUAVAWH
-@UATAUAVH
-@UATAUAWH
-@UATAUH
-@UATAVH
-@UATAWH
-@UATH
-@UAUAVAWH
-@UAUH
-@UAVAWH
-@UAVH
-@UAWH
-@USATAVAWH
-@USAVH
-@USVATAUAVAWH
-@USVATAWH
-@USVAWH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAUAVAWH
-@USVWAUH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWATAWH
-@USWH
-@UVATAUAWH
-@UVATAUH
-@UVATAVAWH
-@UVAUAWH
-@UVAUH
-@UVAVAWH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWATAWH
-@UVWAUAVAWH
-@UVWAUAVH
-@UVWH
-@UWATAUAVAWH
-@UWATAUH
-@UWATAVAWH
-@UWATH
-@UWAVH
-@UWAWH
-@VATAUH
-@VATAVAWH
-@VAUAVH
-@VAVAWH
-@VAVH
-@VAWH
-@VWATAVAWH
-@VWATH
-@VWAVH
-@VWAWH
-@WATAUAVH
-@WATAUH
-@WATAVH
-@WATH
-@WAUAWH
-@WAVAWH
-@_][H
-@fE9|
-@pD9G`t+
-@}(Hc
-A A;@
-A A;A
-A A;B
-A A;C
 A master convar that effectively disables the entire footlock node.
-A w/3
-A$A;@
-A$A;A
-A$HcI$
-A(A;@
-A(A;A
-A(A;B
-A(I;E
-A(LcA4I
-A(u>;A
-A+F$D
-A+G$E
-A0333?@
-A0A;A
-A0F$A
-A0I;E
-A2N$A
-A4A;A
-A8H	P(
-A8H.t
-A8I.t
-A8Y.t
-A8Zxt
-A8^Ut
-A8}RtNA
-A8~4t 
-A9G |	I
-A9_H~4H
-A9nX~rH
-A9vPtD
-A;@(}
-A;@Ps
-A;@X}
-A;@`}
-A;APs
-A;A`}
-A;BX}
-A;F s
-A;L$ |
-A;Q`}
-A;RX}
-A;V,u
-A;]P}
-A;^0}
-A;^@|
-A;_ u
-A;_H|
-A;m(|
-A;nX|
-A;u$|
-A;v(|
-A;v`|
-A;w0|
-A;|$0|
-A<A;@
-A<A;A
-A@Hcs ;s0u
-A@Hcs ;s0u	H
 ACT_INVALID
 ACT_NEUTRAL_REF_POSE
 AE_ACTION_ALLOW_COMBO
@@ -2150,7 +1261,7 @@ AE_WPN_EMPTYSHOTS_TO_POSEPARAM
 AE_WPN_NEXTCLIP_TO_POSEPARAM
 AE_WPN_PLAYWPNSOUND
 AE_ZOMBIE_POPHEADCRAB
-AE_ZOMBIE_POPHEADCRAB event format missing velocity parameter! Usage: event AE_ZOMBIE_POPHEADCRAB "<BoneName> <Speed>" 
+AE_ZOMBIE_POPHEADCRAB event format missing velocity parameter! Usage: event AE_ZOMBIE_POPHEADCRAB "<BoneName> <Speed>" \n
 AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 ANIMATIONGRAPHVISUALIZERPRIMITIVETYPE_Axis
@@ -2186,103 +1297,7 @@ ANIMPARAM_BUTTON_RIGHT_SHOULDER
 ANIMPARAM_BUTTON_RTRIGGER
 ANIMPARAM_BUTTON_X
 ANIMPARAM_BUTTON_Y
-ANIMt6
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVH
-ATAVAWH
-ATAVH
-ATAWH
-AUAVAWH
-AUAWH
-AVAWA
-AVAWH
-A\_^[]
-A]A\[
-A]A\]
-A]A\][
-A]A\^[]
-A]A\^]
-A]A\^][
-A]A\_
-A]A\_^[]
-A]A\_^]
-A]A\_^][
-A]^[]
-A]_^[]
-A^A\[]
-A^A\]
-A^A\_
-A^A\_^[]
-A^A\_^]
-A^A]A\]
-A^A]A\][
-A^A]A\^]
-A^A]A\_]
-A^A]A\_^[]
-A^A]A\_^]
-A^A]^
-A^A]^]
-A^A]_
-A^A]_[
-A^A]_[]
-A^A]_^[]
-A^A]_^]
-A^_[]
-A^_][
-A^_^[]
-A^_^]
-A_A\]
-A_A\_[]
-A_A\_^]
-A_A\_^][
-A_A]A\[]
-A_A]A\]
-A_A]A\^[]
-A_A]A\^]
-A_A]A\_^
-A_A]A\_^[]
-A_A]A\_^]
-A_A]^]
-A_A]_][
-A_A]_^[
-A_A]_^[]
-A_A]_^]
-A_A^A\
-A_A^A\[]
-A_A^A\^]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\[]
-A_A^A]A\]
-A_A^A]A\^
-A_A^A]A\^[]
-A_A^A]A\^]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]^]
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^[]
-A_A^A]_^]
-A_A^A]_^][
-A_A^[
-A_A^]
-A_A^^
-A_A^^[
-A_A^^]
-A_A^_
-A_A^_[]
-A_A^_]
-A_^[]
-A_^][
-A__^[
-A__^[]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 Absolute
 AbsolutePoseControl
 Acceleration
@@ -2302,12 +1317,11 @@ Active While Current
 Add node is missing a child.  Will use t-pose by default
 AddEventTypeFlags
 AddLayer
-Adding %d WeightLists SequenceGroup[%d] :: %s
+Adding %d WeightLists SequenceGroup[%d] :: %s\n
 Additive
 Adds or merges the pose parameter range of the specified pose paramater
 Adds the the specified type flags for specified event on the sequence
 Adjusted foot position; offset: %.2f
-AhH98
 Aim Attachment
 Aim Matrix
 Aim Matrix does not have a valid attachment.
@@ -2319,12 +1333,13 @@ AimMatrixBlendMode_Additive
 AimMatrixBlendMode_BoneMask
 AimMtx:m_resetCount
 Align
-AllocateAndLoad failed for '%s'
-AllocateAndLoad failed for '%s' (%s)
+AllocateAndLoad failed for '%s' (%s)\n
+AllocateAndLoad failed for '%s'\n
 Always use fallback hinge
 Angle
 Angle Increment
 Angle Traces with Slope
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -2338,7 +1353,7 @@ AnimDelta
 AnimEvent
 AnimFile
 AnimGraph
-AnimGraph Choice Node failed to pick a new choice without repeating.  Check the weights on the Choice node.
+AnimGraph Choice Node failed to pick a new choice without repeating.  Check the weights on the Choice node.\n
 AnimGraphEditorUtils001
 AnimGraphInstance
 AnimIkLockLocal
@@ -2408,7 +1423,7 @@ Animgraph Position Parameter
 Anticipation Heading Parameter
 Anticipation Position Parameter
 Anticipation Time
-AppendDataChannels( %s, %d, %s )
+AppendDataChannels( %s, %d, %s )\n
 Apply Foot Rotation Limits
 Apply Hip Drop
 Apply Locks
@@ -2420,37 +1435,32 @@ AssetSystem001
 AssetSystemTest001
 AtFootCycleStart
 Attachment
-Attempted to ConvertToCopiedData for unsupported type (%d)
-Attempting to get the Skeletal Input settings from model %s, which doesn't have any.  
+Attempted to ConvertToCopiedData for unsupported type (%d)\n
+Attempting to get the Skeletal Input settings from model %s, which doesn't have any.  \nPlease add a Skeletal Input Settings node to the model in ModelDoc\n
 Audio Clip
 Audio Tag
 Auto Reset
 Auto-Calculate target speed
 AutoLayer
-B D;@
-B$A;B
-B(A;A
-B(A;B
-B89t$8
-BHcH 
+B0.9
 BLEND_PREALIGNED|
 BREAK: distance to target.
 BREAK: hyperextension. (%.2f degrees vs max of %.2f)
 BREAK: rotated over maximum of %.2f.
-BX;BPs
-Bad %s on sequence %s couldn't compute nodeId for "%s" on model: %s
-Bad %s on sequence %s expected a string as the parameter on model: %s
-Bad %s on sequence %s failed on model: %s
-Bad %s on sequence %s, expected array for parameter "%s" on model: %s
-Bad %s on sequence %s, expected table for parameter "%s" on model: %s
-Bad %s on sequence %s.%s[%d] expected a table on model: %s
-Bad %s on sequence %s.%s[%d] failed on model: %s
-Bad %s on sequence %s: %s or %s already specified, entryNode: %s, exitNode: %s on model: %s
-Bad AnimEvent, sequence = "%s", AnimEvent = "%s", cycle & frame are both < 0 on model: %s
-Bad KV3 data for resource: %s
-Bad KV3 data in control block for '%s': %s
-Bad block type for embedded animation data
-Bad data block index for vagrp embedded animation data (%d)
+B\vP\n0
+Bad %s on sequence %s couldn't compute nodeId for "%s" on model: %s\n\tSyntax: %s\n
+Bad %s on sequence %s expected a string as the parameter on model: %s\n\tSyntax: %s\n
+Bad %s on sequence %s failed on model: %s\n\t%s\n\t%s\n\tSyntax: %s\n
+Bad %s on sequence %s, expected array for parameter "%s" on model: %s\n\tSyntax: %s\n
+Bad %s on sequence %s, expected table for parameter "%s" on model: %s\n\tSyntax: %s\n
+Bad %s on sequence %s.%s[%d] expected a table on model: %s\n\tSyntax: %s\n
+Bad %s on sequence %s.%s[%d] failed on model: %s\n\t%s\n\t%s\n\tSyntax: %s\n
+Bad %s on sequence %s: %s or %s already specified, entryNode: %s, exitNode: %s on model: %s\n\tSyntax: %s\n
+Bad AnimEvent, sequence = "%s", AnimEvent = "%s", cycle & frame are both < 0 on model: %s\n
+Bad KV3 data for resource: %s\n
+Bad KV3 data in control block for '%s': %s\n
+Bad block type for embedded animation data\n
+Bad data block index for vagrp embedded animation data (%d)\n
 Bad dynamic_cast!
 Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
@@ -2480,13 +1490,12 @@ Bad parameter, "%s", parameter or an alias of it already specified
 Bad parameter, parameter name isn't a string
 Bad value
 BakedLODBuilderMgr001
+Base
 BaseIKRig
 BasePhysicsShape
 Beginning
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryNodeChildOption
 BinaryNodeTiming
 BinaryProperties_GetValue
@@ -2539,6 +1548,7 @@ Block Non-Path Movement
 Block Tags from Waning States
 BodyGroup
 BodyGroupChoice
+Bone
 Bone %d to %d
 Bone Map File
 Bone Mask
@@ -2552,11 +1562,12 @@ Bone Velocity Metric
 Bone Weights
 BoneChannel
 BoneMask
-BoneMask node has Blend Source set to "Parameter" but does not have a valid parameter set
-BoneMask node has invalid weight list
+BoneMask node has Blend Source set to "Parameter" but does not have a valid parameter set\n
+BoneMask node has invalid weight list\n
 BoneMask node is missing a child.  Will use t-pose by default.
 BoneMaskBlendSpace
 BoneSetup
+Bool
 Bool Parameter
 BoolParameter
 Boundary Radius
@@ -2564,20 +1575,6 @@ BoundaryRadius
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-C ;APs
-C A;A
-C HcH
-C$;APs
-C$D8c
-C(A;B
-C(A;C
-C(I;A
-C-yh/
-C0Hc,
-C0I;A
-C89CP|
-C89CP}6
-C8H!o
 CActivityValueList
 CActivityValues
 CAddAnimNode
@@ -2628,7 +1625,7 @@ CAnimState
 CAnimStateConditionBase
 CAnimStateList
 CAnimStateTransition
-CAnimStateTransition::LoadFromBuffer error: %s
+CAnimStateTransition::LoadFromBuffer error: %s\n
 CAnimTagBase
 CAnimTagManager
 CAnimTagSpan
@@ -2639,9 +1636,9 @@ CAnimUserDifference
 CAnimVariant
 CAnimationDecodeCache
 CAnimationDecodeCache::Init
-CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (1)
-CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (2)
-CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (3)
+CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (1)\n
+CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (2)\n
+CAnimationDecodeContext::AddAnimationDecodeDesc ran out of allocator memory (3)\n
 CAnimationGraph
 CAnimationGraphInstance
 CAnimationGraphVisualizerAxis
@@ -2808,8 +1805,7 @@ CJiggleBoneAnimNode
 CJiggleBoneItem
 CJiggleBoneUpdateNode
 CKV3FormatManager::RegisterFormatConversion
-CLD;CP|
-CLIENT: Activity %d is %s
+CLIENT: Activity %d is %s\n
 CLeanMatrixAnimNode
 CLeanMatrixInstanceData
 CLeanMatrixUpdateNode
@@ -2916,7 +1912,7 @@ CSolveIKChainUpdateNode
 CSpeedScaleAnimNode
 CSpeedScaleUpdateNode
 CStateMachineAnimNode
-CStateMachineAnimNode::LoadFromBuffer error: %s
+CStateMachineAnimNode::LoadFromBuffer error: %s\n
 CStateMachineAnimNodeInstance
 CStateMachineInstanceData
 CStateMachineUpdateNode
@@ -2927,8 +1923,7 @@ CStringAnimTag
 CStrongHandle
 CSubtractAnimNode
 CSubtractUpdateNode
-CTRLD
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTagCondition
 CTaskStatusAnimTag
@@ -2942,7 +1937,7 @@ CTwoBoneIKAnimNode
 CTwoBoneIKUpdateNode
 CUtlBinaryBlock
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
 CUtlLeanVectorBase<class CCachedPose,short>::EnsureCapacity
 CUtlLeanVectorBase<class CIKChainDescription *,short>::EnsureCapacity
 CUtlLeanVectorBase<class CTransform,short>::EnsureCapacity
@@ -2954,13 +1949,13 @@ CUtlLeanVectorImpl<class CUtlLeanVectorBase<class CIKChainDescription *,short>,c
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<class IIKRuleDescription const *,short>,class IIKRuleDescription const *,short>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<int,short>,int,short>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<struct JointTreeNode *,short>,struct JointTreeNode *,short>::AddToTailGetPtr
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CSmartPtr<class CPoseRecipe,class CRefCountAccessor>,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CSmartPtr<class CPoseRecipe,class CRefCountAccessor>,unsigned short>,unsigned short> >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CUtlPair
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<char const *,class CActivityRemapCache,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CActivityRemapCache,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CActivityRemapCache,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<char const *,class IParamLookupHelper const *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class IParamLookupHelper const *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class IParamLookupHelper const *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<char const *,int,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,int,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
@@ -3062,19 +2057,18 @@ C_OP_SetSingleControlPointPosition
 C_OP_StopAfterCPDuration
 C_OP_TwistAroundAxis
 C_OP_WorldTraceConstraint
-C`Lc4
 Can't write binary data to a text buffer.
 Cannot allocate abstract class
 Cannot deduce for class
 Cannot find sequence %s
-Cannot parse AE_CL_CLOTH_ATTR %s: expected function name instead of %s
-Cannot parse AE_CL_CLOTH_ATTR %s: function parameters are expected in the form %s(offset)
-Cannot parse AE_CL_CLOTH_ATTR %s: function parameters are expected in the form %s(value, delay, speed)
-Cannot parse AE_CL_CLOTH_ATTR %s: unrecognized function %s, please use pab, pas, vab, vas
-Cannot parse AE_CL_CLOTH_ATTR: select(%s) has no closing brace
-Cannot parse AE_CL_CLOTH_ATTR: select() has no opening brace
+Cannot parse AE_CL_CLOTH_ATTR %s: expected function name instead of %s\n
+Cannot parse AE_CL_CLOTH_ATTR %s: function parameters are expected in the form %s(offset)\n
+Cannot parse AE_CL_CLOTH_ATTR %s: function parameters are expected in the form %s(value, delay, speed)\n
+Cannot parse AE_CL_CLOTH_ATTR %s: unrecognized function %s, please use pab, pas, vab, vas\n
+Cannot parse AE_CL_CLOTH_ATTR: select(%s) has no closing brace\n
+Cannot parse AE_CL_CLOTH_ATTR: select() has no opening brace\n
 Cannot register same format from/to a KV3 conversion (from '%s' to '%s')
-Cannot run script: NULL script name
+Cannot run script: NULL script name\n
 Cannot save KV3 text to a non-text buffer!
 Cannot save as KV3_FORMAT_LOAD_WITH_NO_UPCONVERSION.
 Chain Name
@@ -3109,7 +2103,6 @@ Cloth Settings Tag
 ClothShapeCapsule
 ClothShapeList
 ClothShapeSphere
-CmdLinkAH
 Collision point & hit normal
 Collision position
 Color
@@ -3119,12 +2112,12 @@ CommandProcedure
 CommandProcedureList
 Comment
 Comparison Value
-CompileScript failed, script not found: %s
-CompileScript failed, scripting disabled or no server running
-CompileScript failed: %s
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+CompileScript failed, script not found: %s\n
+CompileScript failed, scripting disabled or no server running\n
+CompileScript failed: %s\n
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 Configuration
 ConfigurationSystem_001
@@ -3197,274 +2190,8 @@ Cycle Control
 Cycle Control node is missing its control parameter
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D$   
-D$ !>;
-D$ "QT#
-D$ &CH
-D$ '9
-D$ 'E
-D$ (y
-D$ *6
-D$ +ZN/
-D$ +ZN/H
-D$ .3
-D$ 5=
-D$ 6D
-D$ 7C
-D$ @:
-D$ Cl
-D$ D;
-D$ E3
-D$ GBz
-D$ H;
-D$ H=
-D$ Hc
-D$ HcD$XH
-D$ Hg
-D$ I+
-D$ Icw
-D$ Lc4
-D$ N&B:H
-D$ P-
-D$ S'-
-D$ Tj!
-D$ U_>
-D$ Ua
-D$ W#
-D$ X7
-D$ XJ
-D$ Xjo
-D$ Y(
-D$ Y0
-D$ Z<
-D$ _l
-D$ `d
-D$ aZ
-D$ a}
-D$ bKY\H
-D$ bw
-D$ c<%
-D$ d=
-D$ d}l
-D$ fA
-D$ nz^
-D$ rEe
-D$ r|
-D$ srP
-D$ u6
-D$ wN+<H
-D$ xL
-D$ y=TVH
-D$ y=TVL
-D$ |R
-D$$E3
-D$(;H
-D$(@8;t
-D$(A;
-D$(D	<
-D$(E3
-D$(H;
-D$(Hc
-D$(HcSh
-D$(I;
-D$(Lc
-D$(eH
-D$(fA
-D$(fI
-D$,A;
-D$0+D$`
-D$0@8
-D$0A;
-D$0A;A
-D$0D9BX
-D$0D;BX
-D$0E3
-D$0H3L$0H3
-D$0Hc
-D$0HcD$hH
-D$0I;
-D$0Ic
-D$0X7
-D$0mp
-D$0r|
-D$4A;
-D$4E3
-D$4H+
-D$4McL$
-D$4fff
-D$5H;
-D$8+C$H
-D$8@8~\
-D$8A;
-D$8B	<
-D$8E3
-D$8H;
-D$8Hc
-D$8L;
-D$8Xu
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$<A;
-D$<Hi
-D$@;D$8
-D$@A+
-D$@A97
-D$@A;
-D$@E)4$E3
-D$@E3
-D$@H9
-D$@H;
-D$@Ic
-D$@X7
-D$@ff
-D$@mp
-D$@r|
-D$D+D$T
-D$D+D$THc
-D$DA+
-D$DA;
-D$HD9
-D$HH;
-D$HIc
-D$HIcZ
-D$P"ZF
-D$P;u
-D$PA;
-D$PD9p
-D$PD9q8
-D$PE3
-D$PH;
-D$PHcH
-D$PHcT
-D$PI;
-D$PIc
-D$PM;
-D$Pk@_aH
-D$Pmp
-D$XA+
-D$XA9u
-D$XD9
-D$XD;m
-D$XH;
-D$XKc
-D$Xfff
-D$Zf#
-D$ZfA#
-D$`;BPs
-D$`@2
-D$`A;
-D$`E#
-D$`E3
-D$`E9e0
-D$`H;
-D$`Ic
-D$`Ll
-D$`r|
-D$`|R
-D$h;B
-D$h;p
-D$hE3
-D$hH;
-D$l;B
-D$p 69
-D$p;B
-D$p;BPs	D
-D$p<L{
-D$pD9
-D$pE9E 
-D$pE;
-D$pH;
-D$pHK8
-D$pHc
-D$pIc
-D$pL+
-D$pL;
-D$t;APs
-D$t;B
-D$x*>
-D$x;A
-D$x;APs
-D$xE3
-D$xL;
-D$zfA#
-D$|v5
-D+u(Lc}
-D7(Hc
-D8*u A
-D8A.t
-D8I.t
-D8J<t
-D8T$ A
-D8cHtmL
-D8cHtyL
-D8d74t
-D8d75t
-D8d76
-D8mgt
-D8o(t 
-D8r.t
-D8u_ue
-D8x$u$H
-D8x.t
-D8x.t	
-D8x.u
-D8x.u+
-D8xxt
-D8y.t
-D8y.uh
-D8y/A
-D8y9t
-D8z$uff
-D8|8(u
-D8|8)teH
-D8|8)tfH
-D9,2H
-D97~A
-D98t>Hc
-D9IL}sL
-D9d$ ~7Lc
-D9d$0~7Hc
-D9e(~cL
-D9g0u
-D9hH|T
-D9hXt
-D9l$ 
-D9n(~%I
-D9n(~*I
-D9n(~7H
-D9nL|O
-D9q$~AH
-D9qD~\H
-D9qH~IH
-D9t$`
-D9v0uRI
-D;A$|
-D;AH}
-D;B0}
-D;C }
-D;D$0u
-D;D;`|
-D;F(|
-D;G0}
-D;L$`~!Hc
-D;L$d~
-D;L$l~
-D;L$t~ZH
-D;^@t-
-D;f |
-D;h |
-D;q8|
-D;sH}JK
-D;t$(r
-D;t$x~1
-D;w u
-D;{`}KK
-D;|$l
-D;} u%H
-DATAI
-DATAL
 DEFAULT_WRITE_PATH
-DINAL
+DEMO
 Damped Path Motor
 DampedPathAnimMotorInstance
 DampedPathMotor:m_bStopping
@@ -3505,15 +2232,9 @@ DegreeEuler
 Deprecated
 Description
 Destroy
-Detected parallel updates: %p (%i)
+Detected parallel updates: %p (%i)\n
 DevMsg
 Difference Between Moving and Facing
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DirBlend:m_flCycle
 DirBlend:m_flCycleZeroTime
 DirBlend:m_flPlaybackRate
@@ -3524,7 +2245,7 @@ Direct Playback
 DirectPlaybackNode
 Directional
 Directional Blend
-Directional Blend node is missing a sequence
+Directional Blend node is missing a sequence\n
 DirectionalBlendNode
 Disable
 Disable Tag
@@ -3537,57 +2258,25 @@ Distance Scaling
 Distance from vUWSEndEffectorInitial for ground height
 Distance off plane: %.2f
 DoIncludeScript
-DoIncludeScript failed: %s
+DoIncludeScript failed: %s\n
 Dog Leg (3 Bone)
 Don't Reset Same Selection
 DotaCardGameClient_001
 Double-register of KV3 conversion (from '%s' to '%s')
 Double-save to Member '%s'
+Down
 Dpad Down
 Dpad Left
 Dpad Right
 Dpad Up
 Duration
 DynamicConfigList
-E	47H
-E Lc<
-E0;BPs
-E0C07
-E8H8t
-E8u(t
-E9'~yH
-E9D$ ~#A
-E9f(~cH
-E9f(~lH
-E;B0}
-E;CX|
-E;Mx|
-E;w |
-E;~(H
-EGHcE
-EINAL
-EINAtP
-EL;APs
-EQD9~8
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
-E`@O/
 EaseIn
 EaseOut
 EconItemToolModel_001
 EditorDynamicConfig
-Eg Mj
-Eg b~
-Eg([I
-Eg-;[
-Eg9dj
-Eg@-\
-Eg@Xp
-EgN{0
-Egb}7
-Egc+W
-EgsI!
-Egv4L
 EmptyAnim
 Enable Collision
 Enable Distance Scaling
@@ -3612,14 +2301,12 @@ End Effector Type
 End State
 EngineServiceMgr001
 EntryNode
+Enum
 Enum Parameter
 EnumParameter
-EoHc}
-Error running script named %s
-EtD9y
+Error running script named %s\n
 Evaluate Pose (ms) : Server:%.3f (Max: %.3f)  Client:%.3f (Max: %.3f)
 EventSystem001
-ExIcE
 Exclusive Root Motion
 Execute a script (internal)
 ExitNode
@@ -3647,20 +2334,9 @@ Expected }
 Extension Scale
 ExtraSeqFlags
 Extrapolate Movement
-F ;APs
-F HcH
-F$8]Cty
-F(A;@
-F(D98~b
-F,u2H
-F0D9;
-F8A9v
-F8H+|$`H
-F@9p`~FH
 FABRIK
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FCVAR_NEVER_AS_STRING
-FHD;\
 FIELD_BOOLEAN
 FIELD_CHARACTER
 FIELD_CLASSPTR
@@ -3728,7 +2404,6 @@ FIELD_VECTOR4D
 FIELD_VMATRIX
 FIELD_VMATRIX_WORLDSPACE
 FIELD_VOID
-FJc<2A
 FLAG_ANIMATION|
 FLAG_ATTACHMENT|
 FLAG_BONEFLEXDRIVER|
@@ -3775,17 +2450,18 @@ Failed to allocate an instance of a class
 Failed to allocate an instance of class '%s'
 Failed to assign bool literal value
 Failed to call CBaseIntrospectedToKV3TypeManager::Init
-Failed to compile script text
-Failed to convert KV3 to string; error: %s
+Failed to compile script text\n
+Failed to convert KV3 to string; error: %s\n
 Failed to determine polymorphic class name
 Failed to find chain data to associate to this chain.
 Failed to find rule type; skipping.
 Failed to generate valid rule description by this point?  Should've early outed before here.
-Failed to load Animation Graph Resource: %s
-Failed to run initial animationsystem script
+Failed to load Animation Graph Resource: %s\n
+Failed to run initial animationsystem script\n
 Failed to save unsupported class
 Fallback hinge
 False
+Feet
 FeetSettings
 Filter By Fixed Distance
 Filter By Goal Distance
@@ -3822,8 +2498,8 @@ FinishedConditionOption_OnAlmostFinished
 FinishedConditionOption_OnFinished
 Fixed Start Cycle Value
 FixedValue
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 Float Parameter
 FloatParameter
@@ -3831,6 +2507,7 @@ Follow Attachment
 Follow Attachment node does not have a valid attachment
 Follow Path
 FontManager_001
+Foot
 Foot 3
 Foot 4
 Foot 5
@@ -3865,26 +2542,11 @@ Future Facing
 Future Facing Metric
 Future Velocity
 Future Velocity Metric
-G(D9 
-G(t$H
-G49G0t8
-G8Ic7
-G@A2F$$
+GAME
 GAMECONSOLE
-GD$8H
-GD$8I
-GD$HD
-GD$pH
-GHNcT
-GPA9@
+GCTL
 GSFailure
-GT$0H
-GT$HH
-GT$XH
 GUPDATE_STRING_TOKEN_DATABASE
-G\$(H
-G\$0H
-G\$hH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -3926,7 +2588,6 @@ GetSequenceList
 GetSystemTimeAsFileTime
 Given a name or a sequence handle, returns an instance of the sequence class
 Given a pose parameter array, return the highest frame number for the sequence
-Gl$XH
 Goal Assist
 Goal Assist Distance
 Goal Assist Tolerance
@@ -3943,187 +2604,10 @@ Ground Condition
 Ground IK
 GroundIKTiltSource_t
 Group
-Gt$XL
-Gt$x3
-G|$8H
-G|$8I
-H HcA
-H HcD1
-H UVAUAVH
-H UVAUAWH
-H UVAVH
-H UWAVAWH
-H UWAVH
-H WATAUAVAWH
-H(A;H
-H)uhL
-H+\$h+
-H+\$hIc<$H
-H0F08
-H1D$0
-H97t<
-H9D$PuWM
-H9\$8t
-H9\$@t
-H9\$pt
-H9] t	H
-H9]Xt'D
-H9]Xt4D
-H9t$0t
-H9t$Pt
-H9t$Xt
-H9t$ht
-H9uot	H
-H9|$ht
-H9}ot	H
-H;D$0
-H;D$Pu
-H;D$`
-H;L$8
-H;Y t2H
-H;Y8t6H
-H;YHt2H
-H;\$P|
-H;\$`uAE9
-H;^ t2H
-H;_ t2H
-H;_8t2H
-H;_@t2H
-H;_Ht2H
-H;_Pt2H
-H;_Xt2H
-H;_`t2H
-H;_pt,H
-H;t$H
-H;w@t2H
-H;y0t6H
-H;|$8I
-HA_A\
-HA_A]A\[
-HA_A]_^][
-HA_A^A\^
-HA_A^A]A\_]
-HA_A^A]A\_^][
-HA_A^^[
-HA_A^_^][
-HHHc4
-HHJcD
-HHNc,
 HIGHDPI
 HSequence
-HX;HPs
-H_^][
 HammerMapLoader001
 Has a Path
-Hc+;k
-Hc.;n
-Hc/;o
-Hc7;w
-Hc8;x
-Hc;;{
-Hc@8Hk
-Hc@@L
-HcA H
-HcA4E3
-HcA@E3
-HcA@H
-HcAXH
-HcC$H
-HcC(L
-HcC8Hi
-HcCDH
-HcCXL
-HcCh3
-HcD$ A
-HcD$ H
-HcD$$9
-HcD$0H
-HcD$PH
-HcD$XH
-HcD$dH;
-HcD$dI;
-HcD$lI;
-HcD$tI;
-HcD$x
-HcE H
-HcE/H
-HcEXH
-HcExL
-HcF 3
-HcF(Hk
-HcF(L
-HcF8Hi
-HcFTH
-HcG H
-HcG(L
-HcGDH
-HcH<H
-HcHTH
-HcI H
-HcI L
-HcI8;
-HcJ$H
-HcK ;
-HcKp;
-HcKx;
-HcL$ H
-HcL$P;
-HcL$PL
-HcL$`
-HcL$dH
-HcL;,Hi
-HcM H
-HcN(L
-HcN,H
-HcNhHc}X;
-HcO H
-HcOP;
-HcS@H
-HcT$0H
-HcVHL
-HcVLL
-HcW H
-HcW<H
-HcX@H
-HcX`H
-HcY A
-HcY@H
-HcY`H
-Hc\$@;\$Pu
-Hc\$`I;
-Hc\$tI
-Hc\$tL
-Hc^0;^@u	H
-Hc^xH
-Hc_0L
-Hc_P;_`u
-HckHL
-Hcl$ 
-Hcn ;n0u
-Hcn,H
-Hcn0H
-Hcn4H
-Hcn`H
-HcndH
-Hco$%
-Hco,H
-Hco8%
-Hco<%
-Hcs ;s0u
-Hcs ;s0u	H
-Hct$$I;
-Hct$,I;
-Hct$tH
-Hcw ;w0u
-HcwdL
-Hcy@H
-Hc{(;{8u
-Hc{P;{`u
-Hc{`L
-Hc|$ Lc6
-Hc|$pH
-Hc~8H
-Hc~hH
 Height
 Height Decrease Scale
 Height Increase Scale
@@ -4151,23 +2635,7 @@ HitReact:m_hitCount
 HitReact:m_resetCount
 Horizontal Axis
 HostStateMgr001
-Ht4<Xu[
 Hysteresis
-I A+I
-I HcI 
-I$A;@
-I$A;B
-I(A;@
-I(A;B
-I(A;I
-I;^(t2H
-I;^0t6H
-I;^8t2H
-I;^Xt2H
-I;^`t/H
-I;^pt2H
-I;~ t2H
-I;~Ht2H
 I@UUU@
 IAnimGraphSettingsGroup
 IAnimMotor
@@ -4202,9 +2670,9 @@ IFootstepLandedAnimTag
 IFutureFacingMetricInstance
 IFutureVelocityMetricInstance
 IK Chain
-IK Chain: %s: LOCK BREAK: distance to target. (Expected < %.2f, got %.2f)
-IK Chain: %s: LOCK BREAK: hyperextension.
-IK Chain: %s: LOCK BREAK: pitch variance between lock and goal too large. (Expected < %.2f degrees, got %.2f degrees: delta %.2f degrees)
+IK Chain: %s: LOCK BREAK: distance to target. (Expected < %.2f, got %.2f)\n
+IK Chain: %s: LOCK BREAK: hyperextension.\n
+IK Chain: %s: LOCK BREAK: pitch variance between lock and goal too large. (Expected < %.2f degrees, got %.2f degrees: delta %.2f degrees)\n
 IK Chains
 IK Solve
 IK Solver Type
@@ -4259,32 +2727,10 @@ ISolveIKChainAnimNodeInstance
 IStatusAnimTag
 IStringAnimTag
 IVSSequence
-Ic4$A;t$
-Ic@(H
-IcAXM
-IcE L
-IcEDH
-IcEDL
-IcG I
-IcGDI
-IcGX@
-IcK I
-IcL$0I
-IcL$P;
-IcM8H
-IcNP;
-IcN`D
-IcO(Hc
-IcO@H
-IcOpH
-IcQTD;@
-Ic]@H
-Icx(L
-Ic|$@A;|$Pu
-Ic~HA;~Xu	I
+Icon
 Ignore Direction
 Ignore Slope
-Ignoring mismatched anim :: %s :: %s
+Ignoring mismatched anim :: %s :: %s\n
 IkEndEffectorType
 IkEndEffector_Attachment
 IkEndEffector_Bone
@@ -4294,7 +2740,7 @@ IkTarget_Attachment
 IkTarget_Bone
 IkTarget_Parameter_ModelSpace
 IkTarget_Parameter_WorldSpace
-IncludeScript stack overflow
+IncludeScript stack overflow\n
 InfoForResourceTypeCAnimData
 InfoForResourceTypeCAnimationGroup
 InfoForResourceTypeCSequenceGroupData
@@ -4308,7 +2754,7 @@ InputSystemVersion001
 InstallSchemaBindings
 Int Parameter
 IntParameter
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 Intercept point.
 InterlockedFlushSList
 Internal Tag
@@ -4321,7 +2767,7 @@ Invalid data.
 Invalid header
 Invalid member name '%s'
 Invalid number of parameters.  Specify a flag you want to toggle.
-Invalid parameter %s for %s = "%s"
+Invalid parameter %s for %s = "%s"\n
 Invalid request.  You must pass in an x y and z value, space separated.
 InverseSourceCycle
 InvokeMiniDumpHandler
@@ -4340,201 +2786,33 @@ IsLooping
 IsMulti
 IsSnapped
 IsVScript
+Item
 Iterate
 IterateRandom
-J(A;J
-J(D8i
-JTA;@
-JX;JPs
-Jc43E
 Jiggle Bone
 Jiggle Bone node (%s): No items defined; node will do nothing 
 Jiggle Bones
 JiggleBone:m_resetCount
 JiggleBoneSimSpace
-Ju';k
-K 9H 
-K Hcw
 K1?U20
-K8+C$
-K@M9!
 KERNEL32.dll
+KL2H
 KV Conditional Evaluation Error
 KV3 save transfer failed: %s
-K`D9k`
-K`IcE
-KcL/0K
 KeyValueCache001
-KeyValues Error: %s in file %s
+KeyValues Error: %s in file %s\n
 KeyValues3
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-Keyframed node does not have a valid sequence
-L$ ;H
-L$ AVH
-L$ E3
-L$ E;E 
-L$ H;
-L$ Hc
-L$ Hi
-L$ Hk
-L$ Ic
-L$ SH
-L$ SUVAUAVAWH
-L$ SVWAVH
-L$ SVWH
-L$ SWH
-L$ UATAUAWH
-L$ UAVAWH
-L$ UH
-L$ USVWH
-L$ USWATAUAVAWH
-L$ UVATAUAVH
-L$ UVATAVAWH
-L$ UVWATAUAVAWH
-L$ WAVAWH
-L$ WH
-L$ fA
-L$ fI
-L$(E3
-L$(Ic
-L$(fH
-L$(fI
-L$,9_
-L$0E+
-L$0E3
-L$0E;
-L$0H;
-L$0Hc
-L$0Ic
-L$0L+
-L$0fI
-L$0u2
-L$4@8~!
-L$8D9A
-L$8D;@Ps	E
-L$8E3
-L$8E;e@
-L$8Ic
-L$8t'A
-L$<Hc
-L$@E3
-L$@H1D$0
-L$@Hc
-L$@Hi
-L$@fA
-L$DA;L$
-L$HH;
-L$L9H<u
-L$L9h
-L$L;H
-L$P;K
-L$PI;
-L$PIc
-L$XA;U
-L$XE3
-L$XHc
-L$XIcE
-L$XLc:E
-L$Xfff
-L$\Hc
-L$`;L$H
-L$`A;HX
-L$`A;N
-L$`E3
-L$`E9HX
-L$`Hc
-L$dA+
-L$h;C
-L$hE3
-L$pE3
-L$pE;
-L$pIc
-L$tHc
-L$xAi	
-L$xE;
-L$xIc
-L$xfI
-L$xfff
-L' Lc
-L8(E9
-L9#t1L
-L9d$ t
-L9d$@t
-L9d$Pt
-L9d$pt
-L9ewt	H
-L9g8uC
-L9l$@t
-L9m(t	H
-L9mot	H
-L9s H
-L9t$Pt
-L9ugt	H
-L9uot	H
-L9|$Pt
-L9|$X
-L9|$Xt
-L9|$`
-L9|$`t
-L9|$h
-L9|$ht
-L9|$pt
-L9|$xt
-L9}@t	H
-L9}Pt	H
-L9}Pt`H
-L;D$8L
-L;d$(
-L;l$X
-L;t$ 
-L;|$Pt/M
-L;|$h
-L>PHk
-LAHMc
+Keyframed node does not have a valid sequence\n
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
-LQHLc
 Last Bone in Chain
-Lc3D;s
-Lc;D;{
-Lc@@M
-Lc@TE
-LcA(L
-LcA<E3
-LcA`H
-LcCLC
-LcCPH
-LcD$0H
-LcI L
-LcITE
-LcT$p3
-LcY H
-LcfhD;fxu
-LcgPD;g`u	H
-Lcl$ A
-LcsD%
-LcsXH
-Lcs\%
-Lcs`%
-Lcsd%
-Lcsp%
-Lct$$I;
-Lcu@D;
-Lcu@D;sx}XK
-Lcv@M
-LcvX%
-LcvlH
-LcvxD;
-LcwH%
-LcwX%
-Lcw`%
-Lcwh%
-LcwpD;
 Lean Matrix
 Lean Matrix does not have a valid sequence
 LeanMatrixNode
+Left
 Left Shoulder
 Left Trigger
 Leg Extension Scale
@@ -4546,10 +2824,10 @@ Line %d: %s
 Line %d: Invalid literal value "%s"
 Line %d: Invalid value "%s"
 LinearDelta
-Linking WeightLists To Data Channels :: %s
+Linking WeightLists To Data Channels :: %s\n
 Live Stream
 LoadFromBuffer: expected '{', found '%s'
-LoadKV3Object error: %s
+LoadKV3Object error: %s\n
 Local Space
 Localize_001
 Lock Blend When Waning
@@ -4582,24 +2860,17 @@ LookPitch
 LookTarget
 LookTarget_WorldSpace
 Lookat does not have a valid attachment.
-Lookat does not have a valid lookat chain.
+Lookat does not have a valid lookat chain.\n
 Lookat target set to "Parameter", but no parameter is set
 LookupAnimation
 LookupPoseParameter
 LookupPoseSetting
 LookupSequence
 LookupWeightlist
+Loop
 LrwcE
-M(A9M
-M(Hcn,
-M8IcA
-M9&utI
 MATCHFRAMEWORK_001
 MClassHasCustomAlignedNewDelete
-MHD;c
-MINAA
-MINAD
-MLc3D;s
 MNetworkSerializeAs
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
@@ -4647,24 +2918,11 @@ Maximum Speed Scale
 Maximum Tension
 Maximum Tracked Distance
 MbP?fff?w
-Mc4$H
-Mc4$M
-Mc>Hc
-Mc@8D
-McF(Ik
-McS@3
-McV@H
-McXTE
-Mcl$ 3
-Mcn(D
-Mcw E
-Mc} 3
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 MeshSystem001
 MeshUtils001
 Method
-Mg;N0
 Min Angle
 Min Distance
 Min Extrapolation Speed
@@ -4680,9 +2938,9 @@ Minimum Speed Scale
 Missing file '%s'
 Missing mandatory parameter "%s"
 Missing parameter for %s
-Model %s: group %s: missing referenced sequence "%s"
-Model %s: sequence/animation name collision found "%s"
-Model %s: unable to find bone reference "%s"
+Model %s: group %s: missing referenced sequence "%s"\n
+Model %s: sequence/animation name collision found "%s"\n
+Model %s: unable to find bone reference "%s"\n
 Model Space
 Model Space, Rotation Only
 Model Space, Translation Only
@@ -4735,12 +2993,9 @@ MovementAndDuration
 MovementData
 Mover
 MoverNode
-MxA9~(
-N Mc4
-N&B:H
-N@D9y`t
+NULL
+Name
 NavSystem001
-NcD*8A
 Network
 Network Mode
 NetworkClientService_001
@@ -4758,19 +3013,21 @@ Newly tilted bone.
 Next step normal
 No Buffer
 No DATA block for resource 
-No DATA block for resource '%s'
-No IK rig found, can't initialize ground IK node.
-No conversion from %s to int now
-No conversion from %s to string at the moment!
-No free conversion of %s variant to Quaternion right now
+No DATA block for resource '%s'\n
+No IK rig found, can't initialize ground IK node.\n
+No conversion from %s to int now\n
+No conversion from %s to string at the moment!\n
+No free conversion of %s variant to Quaternion right now\n
 No valid format conversion from '%s' to '%s'
 NoDamping
 NoPoseControl
+Node
 NodeInstance:m_flLastTimeStep
 NodeInstance:m_flNextAnimTime
 NodeInstance:m_flPrevAnimTime
 NodeInstance:m_vRotationDelta
 NodeInstance:m_vTranslationDelta
+None
 Not safe to 'new' this class due to alignment requirements
 Num Iterations 
 NumActivities
@@ -4778,12 +3035,6 @@ NumEvents
 NumPoseParameters
 NumPoseSettings
 Number of bone effected
-O(+_(H
-O(t(H
-O0A;H
-O4u4H
-O8+G$
-O@9q`
 Object
 Off Before Finished
 Off When Finished
@@ -4797,7 +3048,7 @@ OnReset
 OnResetOrCycleEnd
 Only align to Goals
 Options
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orient Movement
 Original
 Original Foot 
@@ -4805,7 +3056,7 @@ Original Joint
 Original Knee
 Original Thigh
 Original target.
-Out of range %s on sequence %s.%s[%d] on model: %s
+Out of range %s on sequence %s.%s[%d] on model: %s\n\t%s\n\t%s = %s out of range, valid range [0.0, 1.0]\n
 Outer Angle
 Outer Stopping Radius
 Override
@@ -4814,41 +3065,11 @@ Override Sound
 Override Target Settings
 Override Tilt Root
 Override Tilt Spring Strength
-P Lc3L
-P Lcw
-P(9(t
-P(D;c
-P(HcE
-P(Hc_8H
-P(Lc3H
-P(LcG83
-P(f!]
-P(fD!d$*L
-P(fD!e
-P(fD!e	
-P(fD!m
-P(fD!t$*H
-P(fD!}
-P09(t
-P098t
-P098t'H
-P0D90t
-P@HcM
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA^_]
-PA^_^
-PA_A\]
-PA_A\_
-PA_A^A\
-PA_A^A]A\^[]
-PA_A^A]A\_^]
-PA_A^]
-PA_A^_
-PD9AHM
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -4877,6 +3098,7 @@ Particle System
 Particle Tag
 ParticleSystemMgr003
 Passthrough
+Path
 Path Helper
 Path Metric
 Path Motor
@@ -4892,7 +3114,6 @@ PerChoiceBlendTimes
 PerTickSettings
 PerTickSettings_t
 Perlin
-Ph9|$`
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
 PhysicsBoneMarkup
@@ -4932,15 +3153,13 @@ PlayerInputMotorInstanceData_t
 PlayerMotor:m_bStopping
 PlayerMotor:m_vAcceleration
 PlayerMotor:m_vVelocity
-Please add a Skeletal Input Settings node to the model in ModelDoc
+Po5H
 Pole vector (raw dir: {%.2f, %.2f, %.2f})
 Pose Control
 Position
 Post Graph IK Chain Blend Tag
 Post Graph IK Tag
 PostProcessingSystem_001
-PpHcU
-PpHcn ;n0u
 Predicted
 Prediction Time
 Prevent Overshoot
@@ -4956,27 +3175,16 @@ Procedural Hit Reactions
 Procedural Hit Reacts
 Propagation Scale
 PropertyEditorSystem_001
-Pu*;w
-Q(Lci
-Q@Lcv
 QAngle
-QL$0A
-QL$HA
-Q`D;@
 Quaternion
 QueryPerformanceCounter
 QueuedLoaderVersion001
-R(9_(~:H
-R09_(~:H
-R0Hc+L
-R0JcD
-RESLH
-RESLI
+R5P=
 RESOURCE_TYPE_ANIMATION_GROUP_INTERNAL
 RESOURCE_TYPE_ANIMATION_INTERNAL
 RESOURCE_TYPE_ANIMGRAPH
 RESOURCE_TYPE_SEQUENCE_GROUP_INTERNAL
-RX;8|
+RSDS
 RadianEuler
 Ragdoll Tag
 RaiseException
@@ -4989,7 +3197,7 @@ RecursiveLoadFromBuffer:  got conditional between key and value
 RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Relative
 RelativePoseControl
@@ -5008,7 +3216,7 @@ RenderMeshFile
 RenderService_001
 RenderSystemSurface001
 RenderUtils_001
-Requested Frame %i, Max Frame: %i
+Requested Frame %i, Max Frame: %i\n
 Requested next step
 Reset Additive Child
 Reset Base Child
@@ -5021,7 +3229,7 @@ Reset On Change
 Reset On Selection
 Reset Subtracted Child
 ResetCycleOption
-Resource "%s" requested unknown animation decompressor "%s"
+Resource "%s" requested unknown animation decompressor "%s"\n
 ResourceCompilerSystem001
 ResourceHandleUtils001
 ResourceManifestRegistry001
@@ -5083,14 +3291,11 @@ RootMotionTurnSpeed
 RootMotionVelocity
 RtlPcToFileHeader
 RtlUnwindEx
-S09V4s	H
-S89SD|
-S@8~ tM
+S+Ot
 SEQ_POSE_SETTING_CONSTANT
 SEQ_POSE_SETTING_POSITION
 SEQ_POSE_SETTING_ROTATION
 SEQ_POSE_SETTING_VELOCITY
-SMNAD
 SOLVEIKCHAINANIMNODEDEBUGSETTING_Forward
 SOLVEIKCHAINANIMNODEDEBUGSETTING_Left
 SOLVEIKCHAINANIMNODEDEBUGSETTING_None
@@ -5100,39 +3305,7 @@ SOLVEIKCHAINANIMNODEDEBUGSETTING_Y_Axis_Circle
 SOLVEIKCHAINANIMNODEDEBUGSETTING_Z_Axis_Circle
 SOLVEIKCHAINANIMNODESETTINGSOURCE_Default
 SOLVEIKCHAINANIMNODESETTINGSOURCE_Override
-SP9VTs	H
 SSE and SSE2 are required.
-SUATAUAVH
-SUATAUH
-SUAUAVH
-SUVATAUH
-SUVAWH
-SUVWATAUAVAWH
-SUVWATAUH
-SUVWATAWH
-SUVWATH
-SUVWAUAVAWH
-SUVWAUAVH
-SUVWAUAWH
-SUVWAVAWH
-SUVWAWH
-SUVWH
-SUWATAUAVAWH
-SUWAUAWH
-SUWAUH
-SUWAVH
-SUWAWH
-SVATAUH
-SVWAUAWH
-SVWAVH
-SVWAWH
-SWATAUH
-SWATAVH
-SWATAWH
-SWATH
-SWAUAVH
-SWAUH
-SWAWH
 SameCycleAsSource
 Sample Rate
 Samples Times
@@ -5160,7 +3333,7 @@ Script_Movement
 Script_MovementAndDuration
 Script_SetActivityType
 Script_Velocity
-Scripting disabled or no server running
+Scripting disabled or no server running\n
 Search Interval
 Search Triggers
 Search at fixed interval
@@ -5207,12 +3380,11 @@ SeqCmd_Worldspace
 SeqCmd_t
 SeqPoseSetting_t
 Sequence
-Sequence %s has zero duration; consider replacing this node with a Single Frame node for better perf
+Sequence %s has zero duration; consider replacing this node with a Single Frame node for better perf\n
 Sequence Finished Tag
 Sequence Names Prefix
 Sequence out of range: %d
 Sequence( %s, %.3f ) : %.3f
-Sequence: %s  Sequence Duration: %g  Transition Duration: %g 
 Sequence:m_flCycle
 Sequence:m_flCycleZeroTime
 Sequence:m_flPlaybackRate
@@ -5238,10 +3410,6 @@ SetFlag
 Sets the activity type for the activity at the specified index on the sequence
 Sets the event index for the specified event on the sequence
 Sets the flags given the specified flag mask
-Shared activity collision with private activity! %s<->%s [%i]
-Shared activity collision! %s<->%s
-Shared<->Private Activity collision!
-Shared<->Private Event collision!
 Sim Rate (FPS)
 Sim Space
 SimSpace_Local
@@ -5345,54 +3513,7 @@ Subtract node is missing a child.  Will use t-pose by default
 Sync Cycles
 SyncChildren
 Synchronize Children
-T$ +G$D
-T$ A;
-T$ A;@
-T$ E3
-T$ Ic
-T$ Lc
-T$$D9
-T$(A;^@|
-T$(D;d$ 
-T$(E3
-T$(E;
-T$(Hc
-T$0D;}
-T$0E3
-T$0M+
-T$4E3
-T$4Ic
-T$8+G$A
-T$8D;
-T$8D;t$(r
-T$8E3
-T$8E9n
-T$8H;T$P
-T$8fD
-T$8u!I
-T$@+G$A
-T$@+G$H
-T$@9p
-T$@E3
-T$PE3
-T$PHc
-T$XA94
-T$XD;
-T$XE3
-T$XE;
-T$XHc
-T$hD;
-T$hE;
-T$hIcM
-T$lE;
-T$pA;
-T$pD;
-T$pE3
-T$pE;
-T$pHc
-T$pJc
-T$x;P
-T:V@]
+THEM
 TILT_IK
 TILT_MovementManagerSlope
 TILT_None
@@ -5426,6 +3547,7 @@ TestFormatE
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
+Tilt
 Tilt Attachment
 Tilt Plane Pitch Spring Strength
 Tilt Plane Roll Spring Strength
@@ -5447,13 +3569,14 @@ Total Translation (Source State)
 Total Translation (Target State)
 Trailing Data
 Transition
-Transition from state %s connected to looping animation %s has finished condition; transition will never happen because it will never be finished
-Transition from state %s has an almost finished condition, but the duration of the transition's blend is longer than the node's duration. 
+Transition from state %s connected to looping animation %s has finished condition; transition will never happen because it will never be finished\n
+Transition from state %s has an almost finished condition, but the duration of the transition's blend is longer than the node's duration. \nSequence: %s  Sequence Duration: %g  Transition Duration: %g \n
 Treat Translation Separately
 Tried to load a polymorphic pointer with no '%s' key
 Tried to load resource reference '%s' from a value without a resource reference flag.
 Trigger
 Trigger Parameter
+True
 Truncated data
 Turn Duration
 Turn Helper
@@ -5464,90 +3587,20 @@ TurnHelperNode
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
 Two-Bone IK
-TwoBoneIK does not have a valid end effector attachment.
-TwoBoneIK does not have a valid target attachment.
-TwoBoneIK node has invalid IK chain.
+TwoBoneIK does not have a valid end effector attachment.\n
+TwoBoneIK does not have a valid target attachment.\n
+TwoBoneIK node has invalid IK chain.\n
 TypeManager
-U HcH
-U20>,+
 U20>3
-U8A;L$
-UA#57
-UATAUAVAWH
-UATAUAVH
-UATAUH
-UATAVH
-UATAWH
-UAUAWH
-UAVAWH
-UD8d74t
-USATAUAVAWH
-USATAUAWH
-USATAVH
-USAUH
-USAVAWH
-USAVH
-USAWH
-USVATAUAVAWH
-USVATAUAWH
-USVATAUI
-USVATAVH
-USVAUH
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAUH
-USVWATAVAWH
-USVWATAVH
-USVWATH
-USVWAUAVH
-USVWAUAWH
-USVWAUH
-USVWAUI
-USVWAVH
-USVWAVI
-USVWH
-USWAUAVH
-USWAVAWI
-USWAVH
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVAWH
-UVATAUAVH
-UVATAUAWH
-UVATAUH
-UVATAUI
-UVAUAVAWH
-UVAUAWH
-UVAUH
-UVAVH
-UVAVI
-UVAWH
-UVAWI
-UVWATAUAVAWH
-UVWATAUAVH
-UVWATAUAWH
-UVWATAVAWH
-UVWATAVH
-UVWAUAVH
-UVWAUAWH
-UVWAVAWH
-UVWAVH
-UWATAUAVH
-UWATAUAWH
-UWATAVAWH
-UWAUAVAWH
-UWAVAWH
-UWAVH
-UWAWH
 UWs Collision position
-Unable to allocate %d bytes for the animation decode cache
+Unable to allocate %d bytes for the animation decode cache\n
 Unable to determine buffer encoding.
-Unable to parse AE_SV_DUSTTRAIL event "%s"
+Unable to parse AE_SV_DUSTTRAIL event "%s"\n
 Unable to write file '%s'
 Unexpected end of file
 Uniform
 Unknown
-Unknown Morph Control :: %s WeightList :: %s Model :: %s
+Unknown Morph Control :: %s WeightList :: %s Model :: %s\n
 Unknown exception
 Unnamed
 Unnamed Group
@@ -5559,7 +3612,7 @@ Unrecognized type '%d'
 Unresolved object reference '%s'
 Unsupported binary encoding id.
 Unsupported text encoding id.
-Unsupported version %d for resource '%s' (Expected %d)
+Unsupported version %d for resource '%s' (Expected %d)\n
 Untilted ground plane.
 Update Graph (ms) : Server:%.3f (Max: %.3f)  Client:%.3f (Max: %.3f)
 UpdateContext
@@ -5572,10 +3625,6 @@ UseChild1
 UseChild2
 User Defined Values
 UserInfoChangeService_001
-V09S4s	H
-VATAUAVAWH
-VATAUH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -5591,7 +3640,7 @@ VGUI_Scheme010
 VGUI_Surface032
 VGUI_System010
 VGUI_ivgui008
-VM Did not start!
+VM Did not start!\n
 VMDLLIB001
 VMaterialSystem2_001
 VMatrix
@@ -5605,22 +3654,12 @@ VProcessUtils002
 VProfService_001
 VR_001
 VRenderDeviceSetupV001
-VSCRIPT: Started VScript virtual machine using script language '%s'
+VSCRIPT: Started VScript virtual machine using script language '%s'\n
 VSNAPFile
 VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VUUUA
-VUUUH
-VWATAUAVAWH
-VWATAUAVAWHcA
-VWATAUAWH
-VWATAVAWH
-VWAUAVAWH
-VWAUH
-VWAVH
-VWAWH
 V_FixSlashes
 V_GetErrno
 V_GetFileExtension
@@ -5663,8 +3702,6 @@ V_wcstoi64
 Validates the animation group channel list against the animations on load for every animation
 Value
 Values
-Valve0
-Valve1
 Vector
 Vector Parameter
 Vector2D
@@ -5677,22 +3714,16 @@ Vertical Axis
 Virtual 2-bone
 Virtual Joint
 VisBuilder_001
-W8KcD
-WARNING: Failed to convert introspected block for file: %s
-WARNING: Invalid resource version (%d): %s
-WATAUAVAWH
-WATAVH
-WATAWH
-WAUAVH
-WAVAWH
+WARNING: Failed to convert introspected block for file: %s\n
+WARNING: Invalid resource version (%d): %s\n
 WIN32
 WINDOWS
 WINXP
 WakeAllConditionVariable
 Warning
-Warning! autocycle specified on sequence "%s", but it's not looping, ignoring autocycle
-Warning! autocycle specified on sequence "%s", but sequence is not pose parameter invariant, i.e. it has blends, ignoring autocycle
-Warning:  %s = '%s' is infinite, clamping value.
+Warning! autocycle specified on sequence "%s", but it's not looping, ignoring autocycle\n
+Warning! autocycle specified on sequence "%s", but sequence is not pose parameter invariant, i.e. it has blends, ignoring autocycle\n
+Warning:  %s = '%s' is infinite, clamping value.\n
 WayPoint Distance
 WayPoint Heading
 WayPoint Helper
@@ -5721,138 +3752,15 @@ World Space
 World space tilt normal
 WorldRendererBuilderMgr001
 WorldRendererMgr001
-X USVWATAUAWH
-X UWAWH
-X0Hcx(H
-XA]A\][
-XA]A\^[
-XA]A\_[
-XA^_^[
-XA_A\_[
-XA_A^A]]
-XA_A^A]_][
-XA__][
-XD$(D
-XD.0A
-XD/0t
-XGLE3
-XHcCh
-XHcY@L
-XL$\H
-XZ$;A
-X_^][
-Xt$ D
-Y D9Y
-Y(A;@
-YD$ A
-YD$@A
-YD$@H
-YD$PA
-YFL;H
-YL$ A
-YL$ E
-YL$@E
-YL$`A
+X360
 Yaw Limit
-YbC9H
-Yt$`H
-[ VWATAUAWH
-[8H;_8t6H
-[HH;_Ht2H
-\$ ATAVAWH
-\$ AVH
-\$ Hc_p
-\$ Hi
-\$ Ic
-\$ UATAWH
-\$ UH
-\$ UVWH
-\$ UWATAVAWH
-\$ UWATH
-\$ UWAVH
-\$ VAVAWH
-\$ VH
-\$ VWATAUAWH
-\$ VWATH
-\$ VWAVH
-\$ WH
-\$ WHc9H
-\$(Hc|$ H
-\$(L#
-\$(Mc
-\$0;A
-\$0;B
-\$0;BPs
-\$0A)6H
-\$0A;@Ps
-\$0A;A
-\$0D;
-\$0E3
-\$0Hc
-\$0HcY0;Y@u	H
-\$0Hc^p
-\$0Hk
-\$0Ic
-\$0L+
-\$0M+
-\$0Mc
-\$4E3
-\$8;>
-\$8D	$
-\$8E3
-\$8Hc
-\$8fD
-\$<;\$H
-\$<;\$Ht|H;
-\$@9\$8
-\$@9\$8~I
-\$@A+
-\$@E3
-\$@Hc
-\$@I;
-\$@f;
-\$@u	
-\$HHc
-\$Hta
-\$P;B
-\$PA+
-\$PA9
-\$PA;
-\$PA;G,u|IcW
-\$PE8uI
-\$PHc
-\$Pfff
-\$Ptz
-\$`D;L$l~
-\$`E3
-\$`I99u
-\$`Ic
-\$`IcD$
-\$`fA;z`
-\$`fD
-\$`tBH
-\$h@2
-\$hD;T$d~!Hc
-\$pD+
-\$pD;T$d~ Hc
-\$pHc
-\$pKc
-\$tD;
-\$xE8
-\D$0A
-\D$8H
-\L$$s
-\T$ D
-\t$0E
-\t$t3
-\v@Ic
-](HcE Hi
-]HHcE@H
-]hB9t
-_(D9c`u	H
-_(HcG H
-_H9_8~#H
-_HHcG@Hi
+\nCwf\r
+\t%d (%d) : %s %s %s %s\n
+\t%d:%d - %s (agrp vs agrp flag mismatch) %s:%s (promoted to match existing) %s:%s\n
+\t%d:%d - %s (match)\n
+\t%d:%d - %s (skipped)\n
+\t%d:%d - %s\n
+\tError\n
 _V_StringAfterPrefix
 _V_strncat
 _V_strncmp
@@ -5861,24 +3769,9 @@ _V_strnicmp_fast
 __UNKNOWN__
 __oldschema_object_name
 __temp_unserialization_member__
-_`HcGXHi
 _class
 _root_keyname
 _test_conversion_counter
-` AUAVAWH
-`.rdata
-`A]A\^][
-`A]_[
-`A^_]
-`A_A\_^]
-`A_A^A]A\_[]
-`A_A^A]A\_^]
-`A_A^[
-`A_A^^
-`A_A^_^]
-`A_^]
-`Hcu@M
-a Hc:Ic
 activities
 activity
 addlayer
@@ -5930,6 +3823,7 @@ auto_unragdoll_duration
 autocycle
 autoplay
 bUpdate
+b\fp\v0
 binary
 binary_auto
 binary_bc
@@ -5941,6 +3835,7 @@ blendlayer
 blockLOS
 body_type
 bodygroup
+bone
 bone_decode_cache_enabled
 bone_name
 bone_names
@@ -5952,9 +3847,9 @@ break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 burst_randomize
 burst_scale
-c UAVAWI
 c:\buildslave\hlvr_rel_win64\build\src\animationsystem\Retail\win64\unity\animationsystem.pdb
 c:\buildslave\hlvr_rel_win64\build\src\animationsystem\animgraph\animationgraphinstance.h
 c:\buildslave\hlvr_rel_win64\build\src\animationsystem\animgraph\animgraphlogmanager.cpp
@@ -5981,7 +3876,6 @@ c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 cable
 cantdie
 carry_type
-cb5\F
 center
 chain
 chainname
@@ -5993,6 +3887,7 @@ cloth_collision_layer0
 cloth_collision_layer1
 cloth_collision_layer2
 cloth_collision_layer3
+cmds
 collision_group
 collision_prop
 color
@@ -6176,38 +4071,13 @@ const unsigned int __cdecl IStringAnimTag::MyTypeID(void)
 const unsigned int __cdecl Reflection::CAttribute::MyTypeID(void)
 const unsigned int __cdecl Reflection::Object::MyTypeID(void)
 control_point
+copy
 create_particle
 criteria
 cstring
 currentline
 cycle
 cycletoweightbias
-d$ UAVAWH
-d$ fC
-d$(A;
-d$(H+
-d$0A;
-d$0E9e
-d$8E3
-d$8I+
-d$@D;e
-d$@E3
-d$@HcD
-d$@Lc
-d$HE3
-d$Hv+
-d$P+A$t
-d$PD;
-d$PtjI
-d$XE3
-d$`;A
-d$`A;
-d$`uhM
-d$hE2
-d$hIc
-d$tfff
-d$xE;H
-dJF7L
 damage
 debris
 debug
@@ -6223,8 +4093,6 @@ dmg.explosive
 dmg.fire
 duration
 dynamic_interaction
-e`A_A^A]A\]
-egHcQ
 ehandle
 elems
 embedded_animation
@@ -6240,6 +4108,7 @@ event
 event_class
 event_keys
 eventindex
+exit
 explosion_behavior
 explosion_buildup
 explosion_delay
@@ -6247,32 +4116,14 @@ explosion_type
 explosive_damage
 explosive_radius
 extra
-f!D$J3
-f!D$JE3
-f!D$Z
-f!D$j
-f!D$r
-f!D$z
-f!E	L
-f!T$j
-f!|$J
-f!|$j
-f;S|sC
-f;i~spH
-f;t$,u
-fA;z^
-fD!d$r
-fD!t$:
-fD!|$j
 faceMergeAngle
 fadeintime
 fadeouttime
 false
 fetchcycle
-fetched: %s : %.3f
+fetched: %s : %.3f\n
 fetchframe
 fetchframerange
-ffffff
 fieldtype_t
 float
 float64
@@ -6292,18 +4143,11 @@ game_class
 game_keys
 generic
 getinfo
+glow
 gravity
 ground
 ground_virtualplanes
 groundik_enabled
-h UAVAWH
-h VWAWH
-hA]A\_[
-hA^A\
-hA^A\_[
-hA^_^[
-hA_A^A]A\_^][
-h_^][
 handindex
 headtype
 health
@@ -6311,14 +4155,8 @@ health_override
 hidden
 hscript
 hscript_lightbinding
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-i09i ~
-iW!]4/
 ikLocks
 ik_constraints_enabled
 ik_debug
@@ -6395,6 +4233,7 @@ integer
 invalid
 invalid index %d
 invert_orientation
+ioV@
 ioV@[
 is active
 is not active
@@ -6404,69 +4243,7 @@ js_array
 js_object
 js_raw_args
 js_value
-k HcKX;
-k0i0$
-k@_aH
 keyvalues
-l$ 9Q
-l$ A9l$ 
-l$ AVH
-l$ D9l$0|LH
-l$ IcT$
-l$ VATAVH
-l$ VAUAVH
-l$ VAUAWH
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$ VWATH
-l$ VWAVH
-l$ WATAWH
-l$ WAUAWH
-l$ WH
-l$(E3
-l$(Hc
-l$0D;B
-l$0E3
-l$0E9o
-l$0H+
-l$0Hc
-l$0Hc.
-l$0I;
-l$0Ic
-l$0Ic.
-l$0ff
-l$0t0H
-l$8A9
-l$8H+
-l$8Hk
-l$8eL
-l$@;H
-l$@;P
-l$@H+
-l$@Hc
-l$@Hco0H
-l$@fD
-l$@u#H
-l$@u&H
-l$HA_A^A]A\_^
-l$HD;8
-l$HHc
-l$HfA
-l$HfA;
-l$PA_A^A]A\_^
-l$PE3
-l$PH+
-l$PLc
-l$PLc$
-l$PfD
-l$XA+
-l$XE3
-l$XL+B
-l$`;H
-l$hIc
-l$p;A
-l'hNct'
 labelled_debug_helper_arc_segments
 labelled_debug_helper_enabled
 labelled_debug_helper_scale
@@ -6474,18 +4251,20 @@ labelled_debug_helper_show_position
 labelled_debug_helper_show_text
 last_sniff
 layersaffectingmovementandduration
+lcQe
 length
 lineNumber
 lineardelta
 local
 lockRotationAlpha
 locked
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
-m0k0$
 mWsEndEffectorInitial
+mXr4
 m_AnimOverlay
 m_AnimgraphParameterNamePosition
 m_Bone
@@ -6746,7 +4525,10 @@ m_bUseHysteresis
 m_bUseManualTurnOffset
 m_bUseMostRecentValue
 m_bUseShadowFastPath
+m_bX
 m_bXFade
+m_bY
+m_bZ
 m_baseChildID
 m_blendCurve
 m_blendDuration
@@ -7086,6 +4868,7 @@ m_hitDirectionParam
 m_hitOffsetParam
 m_hitStrengthParam
 m_horizontalAxisDirection
+m_id
 m_identifierString
 m_ikChainName
 m_ikSolverType
@@ -7410,14 +5193,15 @@ matrix3x4a_t
 maxHullVertices
 maxVerticesPerHull
 max_angle
+mesh
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
 mesh_calculate_curvature_smooth_weight
 meshes
 min_angle
-missing all pose parameters
+missing all pose parameters\n
 model
-model bone %d is out of bounds, probably attempting to use an animation from different model
+model bone %d is out of bounds, probably attempting to use an animation from different model\n
 model_default_preview_sequence_name
 model_name
 modeldoc0
@@ -7451,15 +5235,17 @@ modeldoc8
 modeldoc9
 motionflags
 multiplayer_break
-n IcE
-nXD9{`u	H
-n`0Nl
+n\f"pA3Q
+name
 nav_attribute_avoid
 nav_data
 needs lock
+next
 nexttoken
 no samples
 noblend
+node
+null
 numframes
 numsegments
 nwaysequence
@@ -7467,27 +5253,11 @@ open_asset %s
 option
 origin_max_delta
 origin_relative
-os_IV
-p AVH
-p UWAVH
-p0n05
-p1f3q>
-p@;1tb
-pA]A\^
-pA]_^
-pA^A\^[]
-pA^^]
-pA^_^
-pA_A]A\_^
-pA_A]]
-pA_A^A\_]
-pA_^]
-pA__[
-pXt7H
 parent to constrained
 parent_bone
 particle
 particles/
+peak
 peakframe
 physgun_interactions
 physicsmode
@@ -7511,8 +5281,8 @@ position
 preferred_carryangles
 prop_data
 purecall
-q`f9qb~
 qangle
+qos_
 quaternion
 radius
 radius0
@@ -7525,21 +5295,10 @@ resource
 resourcehandle
 resourcesystem
 reversesequence
+root
 rootNode
 rotWeight
 rotate
-s A9>~ZH
-s WATAVH
-s"Hc}
-s$fff
-s&Hc}
-s2@8s
-s8fff
-s;fff
-s@F!<
-sIIcF
-sJHcF
-s\HcD$xH
 scale
 schema
 schemaType
@@ -7551,10 +5310,12 @@ sequence
 sequence_name
 sequence_number
 sequences
-shL9s0H
 shapeType
+size
 skel_constraints_enable
 slerp
+slot
+snap
 snapped
 sound_base
 source
@@ -7579,264 +5340,54 @@ sv_accelerate
 sv_friction
 sv_skel_constraints_enable
 sv_stopspeed
-t E8H9u
-t HcD
-t!HcO(L
-t!IcW(L
-t!McG`H
-t!McY
-t!fD;
-t"@8p u
-t#8_ u
-t#E9C
-t$ 9s
-t$ A;
-t$ AVH
-t$ AVHcA
-t$ AWH
-t$ E2
-t$ E3
-t$ Hc
-t$ Hc+;k
-t$ HcP8
-t$ Lc
-t$ Mc
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ UWATH
-t$ UWAUAVAWH
-t$ UWAVH
-t$ UWAWH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WATAWH
-t$ WAUAVH
-t$ WAUAWH
-t$ WAVAWH
-t$ WH
-t$ fI
-t$ ff
-t$ u*
-t$$A+
-t$(;n u
-t$(A^
-t$,A+
-t$0+A$t
-t$0;{pu
-t$0A;}
-t$0D9t$@|LH
-t$0E3
-t$0H+K
-t$0H;
-t$0Hc
-t$0Hc2
-t$0Hc3;s
-t$0Hi
-t$0Hk
-t$0Lc7A
-t$0fD
-t$0ff
-t$8@2
-t$8A;]
-t$8E3
-t$8H9
-t$8H;Yxt2H
-t$8Hc
-t$8Hi
-t$8Hk
-t$8Ic
-t$8L9
-t$8Lc
-t$8Lk
-t$8Mc
-t$8uVH
-t$@A;
-t$@D;
-t$@E3
-t$@E;
-t$@Hc
-t$@Hc7H
-t$@Hcw
-t$@Ic
-t$@Lcw@H
-t$@fff
-t$@t+
-t$HD8{
-t$HE3
-t$HHc
-t$HHcw(H
-t$HI+
-t$HL;
-t$HM;
-t$Hu'
-t$P;A
-t$PD;p`
-t$PE3
-t$PE9u`
-t$PHcw<H
-t$PLc
-t$PLk
-t$PM;
-t$Pu*
-t$P~CH
-t$X8_8t
-t$X;H
-t$XA+
-t$XE3
-t$XLc
-t$Xff
-t$Xt	H
-t$`A+
-t$`A9v
-t$`D8
-t$`D9
-t$`E3
-t$`H+
-t$`Hc
-t$`Hk
-t$`I;
-t$`Lc
-t$`fA;
-t$`xgH
-t$fE;
-t$h;APs
-t$lD9v
-t$pA+
-t$pE;e
-t$pfD
-t$x;HPs
-t$x;_@u
-t$xA;
-t%8_!u
-t%HcD(
-t'Hc/;o
-t'HcD
-t'Ic_,
-t(Lc7D;w
-t)HcQ(H
-t)fff
-t*D8#t
-t*HcO
-t+HcE(H
-t+HcT
-t,9O0~'I
-t-E8gxt'H
-t.@8:t)
-t.LcA
-t/D83t*
-t0@87t+
-t0@8;t+
-t0D8;t+
-t0HcT
-t0HcT(
-t3<{u
-t3fff
-t7IcR
-t9H9=&
-t9HcT(
-t:Icy
-t=Lc_
-t?Hc3;s
-tAHcS
-tAIcy
-tB<{u!H
-tBD9E0~<I
-tBIcB
-tDHc/
-tEA;@
-tEHcT(
-tFHc;;{
-tGHcF
-tHE;Z
-tHIc.
-tMHcT
-tMIc.
-tQA;@
-tRLcK
-tSLcA
-t]<-u
+tags
+tail
 tailframe
 target
-tc9iHtyLcq(H
 test_angles_relative
+text
 texturescale
-thIc\$
 tier0.dll
-tjHcA
-tn@8(tWIcv@A;vPu
 to constrain
-trD8(tmH
 traceback
 transform
 transition
 transitions
 translate
 tried to restore a CRelativeOffsetArray, but the number of elements did not match
-tu+K$3
+true
 turn_rate
-twIcM
-t{@8sDH
-t{L98tvH
-u	@8=
-u!L9g
-u!M9`
-u#Hc>;~
-u,A9T$
-u98D$`u;H
-u;Ic@
-uMHcE
-uPIcEHH
-uT<0uP
-uUIc}
-uY<0uU
-u\A;v
-u\LcO
-u_Ic}
-u`HcEXH
-ugD9v0
-ugHc>;~
+type
 uint64
 uniform_burst
 unknown
 unknown_variant_type
 unlocked
 unsigned
-uoD;u
 use_additional_offset
 use_layer_sequence
 utlstringtoken
-uxLc`
-v IcS
-v&IcS
-v0t08
-v6A9R
-v<D;H
-v@D;t$@
-vCIcl$ A;l$0u
 vJOnPlane2
 vJOnPlane3
 vJOnPlane4
-vNHcF
-vNOcd/ G;d/0u
-vP*;Q>.
 vUWsEndEffectorInitial
 vUWsTarget
 vVOnPlane1
-vWHcF
-vagrp
 value
-vanim
 vanmgrph
-vanmgrphH
+var1
+var2
 variant
 vector
 vector2d
 vector4d
 version
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+void
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -7866,13 +5417,8 @@ vpcf9
 vr_carry_type
 vscript
 vscript_sequence_%d
-vseqH
 vsnap
 vstdlib.dll
-v{A;A
-w H9w
-w L97t
-w1s1I
 w8#_p
 weaponType
 weight
@@ -7880,226 +5426,12 @@ weightlist
 width
 worldrelative
 worldspace
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x A;@X}
-x ATAVAWH
-x AVH
-x UATAUAVAWH
-x UAVAWH
-x";C }
-x";Q0}
-x#D;B
-x$A;~
-x$D;A
-x$D;Q
-x%fff
-x';QH}"I
-x'D;hP}!H
-x*D;A
-x*D;AH}$Ic
-x+;GP}&Hc
-x0D;B0}*H
-x0v0$
-x1;Oh},
-x4;Qh}/
-x?;Oh}:
-xA;Qh}<
-xA]_][
-xA^A\_[
-xA^A]][
-xA_A^[]
-xH;Kh}C
-xKA;B
-xNA;B
-xQA;B
-xRHcQ
-xT;Yx}OH
-xTA;Hh}NA
-xVA;@
 xWsTarget
-x^D;A
-x_^][
-xc;QH}^Hc
-xcD;	}^H
-xcD;A
 xfade
-xuJE3
-xxD;A
-xyA;C
-y Hc2Hc
-y HcA
 yaw_end
 yaw_start
-z(yLH
-z0x0:
 z:KCAuthPhysBody
 zero dir
-{89{(~
-{X9{H~#H
 {YIN?
-{}[]()=&, 	
-{}[]=, 	
-|$ A+
-|$ A;
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVAW
-|$ AVE3
-|$ AVH
-|$ AWH
-|$ A^
-|$ D9c`u	H
-|$ E3
-|$ Hc
-|$ Lc
-|$ Lk
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ fD
-|$ ff
-|$ fff
-|$ |AH
-|$$D;
-|$$fE;
-|$(A;
-|$(A^
-|$(E;l$ 
-|$(fA
-|$,E3
-|$0;B
-|$0;D$hu
-|$0A;
-|$0A;H
-|$0A;~
-|$0A_A^
-|$0E3
-|$0E;
-|$0H;}
-|$0Hc
-|$0Hc:;z
-|$0Hi
-|$0Hk
-|$0I;
-|$0Ic
-|$0M;
-|$0ff
-|$0fff
-|$2 v
-|$8).H
-|$8Hc
-|$8Hc:
-|$8Hcy(H
-|$8Hk
-|$8L;
-|$8ff
-|$8u*
-|$@;B
-|$@D8d76t
-|$@E3
-|$@E9
-|$@Hc
-|$@Hcyp;
-|$@Hk
-|$@IcB
-|$@t	3
-|$HA+
-|$HA;
-|$HD8d75t
-|$HHc
-|$HHc7;w
-|$HHi
-|$HHk
-|$Hff
-|$Ht#
-|$Hu*
-|$PA;H
-|$PA;^ u
-|$PD;B
-|$PE3
-|$PE9|$
-|$PE;
-|$PHc
-|$PHc{@$
-|$PMcf(D
-|$XA+
-|$XE3
-|$XHc
-|$XI9x 
-|$XIc
-|$XLc
-|$Xff
-|$`@2
-|$`A+
-|$`E3
-|$`Hc
-|$`Lc
-|$`fD
-|$`ff
-|$h"u
-|$hA+
-|$hD+
-|$hE3
-|$hE;
-|$hfD
-|$hff
-|$ht H
-|$lA+
-|$t;}
-|$xE3
-|$xHc_XD
-|$xfD
-|${H+
-}"HcV
-}#HcQ
-}&HcQ
-}(;^Tv
-}(Lc`
-}*HcQ
-},HcQ
-}/LcA
-}0E!4
-}0fA;Q
-}2HcQ
-}4fff
-}5HcQ
-}:HcQ
-}EIcR
-}HHcG
-}HIcR
-}KIcR
-}LMcD$
-}PIcP
-}QfA;
-}RMcD$
-}_t!H
-}iHcG
-}jHcF
-}mfff
-}oHcF
-}sIcS
-}wH;}
-~ 9w 
-~!A;~
-~!fff
-~"fff
-~(fff
-~+fff
-~,IcZ
-~.LcW
-~/McL$ 
-~28\$0t
-~3LcA
-~3fff
-~8H;_ t2H
-~8LcG
-~@H;{@t2H
-~HI;^ht2H
-~P~%3
-~XIcj
-~\Ic^
-~\fff
-~pH;_
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;

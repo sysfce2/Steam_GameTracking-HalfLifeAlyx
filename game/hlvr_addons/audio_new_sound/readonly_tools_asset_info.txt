@@ -1,472 +1,47 @@
 maps/audio_new_sound.vmap
-- GAME: hlvr_addons/audio_new_sound/maps/audio_new_sound.vpk
-- CONTENT: hlvr_addons/audio_new_sound/maps/audio_new_sound.vmap
-- INPUT: hlvr_addons/audio_new_sound/lightmaptexturearg.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/lightprobevolumetexturearg.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/maps/audio_new_sound.vmap (crc 2674873245)
-- REF: materials/tools_postprocess_volume.vmat
-- REF: lighting/postprocessing/basepostprocess.vpost
-- REF: materials/workshop_examples/skybox/skybox_workshop.vtex
-- REF: materials/workshop_examples/skybox/skybox_workshop.vmat
-- REF: materials/tools/toolsnavattribute.vmat
-- REF: materials/dev/reflectivity_30.vmat
-- REF: materials/dev/dev_measuregeneric01.vmat
-- REF: materials/tools/toolstrigger.vmat
-- REF: _bakeresourcecache/maps/audio_new_sound_baked/env_cubemap_240.vtex
-- REF: _bakeresourcecache/maps/audio_new_sound_baked/env_light_probe_volume_240.vtex
-- SPECIAL DEPENDENCY: Map Compiler Version "CompileMap"
-- SPECIAL DEPENDENCY: Texture Compiler Version "CompileTexture"
-- SPECIAL DEPENDENCY: Texture Compiler Version Mip None "CompileTexture"
-- SPECIAL DEPENDENCY: World Node Compiler Version "CompileWorldNode"
-- SPECIAL DEPENDENCY: Entity Lump Compiler Version "CompileEntityLump"
-- SPECIAL DEPENDENCY: World Compiler Version "CompileWorld"
-- SPECIAL DEPENDENCY: Model Compiler Version "CompileModel"
-- SPECIAL DEPENDENCY: Mesh Compiler Version "CompileRenderMesh"
-- SPECIAL DEPENDENCY: Collision Mesh Compiler Version "CompileVPhysXData"
-- SPECIAL DEPENDENCY: Manifest Compiler Version "CompileResourceManifest"
-
 resourcemanifests/audio_new_sound_addon_resources.vrman
-- GAME: hlvr_addons/audio_new_sound/resourcemanifests/audio_new_sound_addon_resources.vrman_c
-- CONTENT: hlvr_addons/audio_new_sound/resourcemanifests/audio_new_sound_addon_resources.vrman
-- INPUT: hlvr_addons/audio_new_sound/resourcemanifests/audio_new_sound_addon_resources.vrman (crc 2196614043)
-- REF: soundevents/audio_new_sound_soundevents.vsndevts
-- SPECIAL DEPENDENCY: Manifest Compiler Version "CompileResourceManifest"
-
 soundevents/audio_new_sound_soundevents.vsndevts
-- GAME: hlvr_addons/audio_new_sound/soundevents/audio_new_sound_soundevents.vsndevts_c
-- CONTENT: hlvr_addons/audio_new_sound/soundevents/audio_new_sound_soundevents.vsndevts
-- INPUT: hlvr_addons/audio_new_sound/soundevents/audio_new_sound_soundevents.vsndevts (crc 3329424854)
-
 sounds/fs_squeaky_01.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.wav (crc 2021422341)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_01.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_02.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.wav (crc 1678448214)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_02.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_03.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.wav (crc 3878537367)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_03.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_04.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.wav (crc 3846792860)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_04.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_05.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.wav (crc 2802084756)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_05.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_06.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.wav (crc 1914938222)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_06.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_07.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.wav (crc 1862678385)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_07.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_08.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.wav (crc 1035534550)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_08.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_09.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.wav (crc 3452333509)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_09.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_10.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.wav (crc 3871789956)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_10.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_11.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.wav (crc 3642706090)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_11.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_12.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.wav (crc 4217318445)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_12.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_13.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.wav (crc 4197455497)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_13.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_14.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.wav (crc 1423037885)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_14.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_15.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.wav (crc 2443183872)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_15.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_16.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.wav (crc 3432740468)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_16.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_17.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.wav (crc 472439499)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_17.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_18.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.wav (crc 1609058432)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_18.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_19.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.wav (crc 977178456)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_19.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_20.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.wav (crc 3749969498)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_20.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_21.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.wav (crc 3909720563)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_21.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_22.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.wav (crc 690991781)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_22.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_23.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.wav (crc 805709906)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_23.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_24.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.wav (crc 3829740840)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_24.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_25.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.wav (crc 2944918761)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_25.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_26.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.wav (crc 2925364669)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_26.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_27.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.wav (crc 1092187984)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_27.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_28.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.wav (crc 4150736601)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_28.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_29.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.wav (crc 938615242)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_29.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_30.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.wav (crc 1211758412)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_30.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_31.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.wav (crc 865734347)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_31.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_32.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.wav (crc 1144784955)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_32.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_33.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.wav (crc 3083684891)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_33.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_34.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.wav (crc 537177905)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_34.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_35.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.wav (crc 3053598427)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_35.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_36.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.wav (crc 3322260045)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_36.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_37.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.wav (crc 1352517544)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_37.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_38.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.wav (crc 2798777318)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_38.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_39.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.wav (crc 3687022599)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_39.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_40.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.wav (crc 831123603)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_40.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_41.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.wav (crc 1344335619)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_41.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/fs_squeaky_42.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.wav (crc 3656093300)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/fs_squeaky_42.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 sounds/snd_sound_add_demo_01.vsnd
-- GAME: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.vsnd_c
-- CONTENT: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.wav
-- INPUT: hlvr_addons/audio_new_sound/sounds/encoding.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.txt (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.wav (crc 755870334)
-- INPUT: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.mp3 (crc 0)
-- INPUT: hlvr_addons/audio_new_sound/sounds/snd_sound_add_demo_01.vsnd (crc 0)
-- SPECIAL DEPENDENCY: Sound Compiler Version "CompileSound"
-
 addoninfo.txt
-- GAME: hlvr_addons/audio_new_sound/addoninfo.txt
-

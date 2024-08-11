@@ -1,40 +1,15 @@
                           
-        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A^A\^
- A^^]
- A^_]
- A^_^
- A_A]A\][
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^^
- A_A^_
- A_^]
  invalidly modified type 
- tDE3
 !(flags & G_PARAM_STATIC_NAME) || is_canonical (name)
 !G_IS_PARAM_SPEC_OVERRIDE (pspec)
-!This program cannot be run in DOS mode.
 !g_type_is_a (interface_type, prerequisite_type)
 !g_type_is_a (prerequisite_type, interface_type)
-!t$(H!t$ I
-#fD9M
 %I64i
 %I64u
-%s | %u
 %s(%p)%s'%s'
-%s()%s'%s'
-%s: %s
 %s: Can't find property to override for '%s::%s'
 %s: The G_BINDING_INVERT_BOOLEAN flag can only be used when binding boolean properties; the source property '%s' is of type '%s'
 %s: The G_BINDING_INVERT_BOOLEAN flag can only be used when binding boolean properties; the target property '%s' is of type '%s'
@@ -77,10 +52,7 @@
 %s: type '%s' is already overridden for signal id '%u'
 ' for value type '
 '%s::%s' is not a valid property name; '%s' is not a GObject subtype
-((%s) %s)
-((%s*) %p)
 ((gpointer) %p)
-(D$0H
 (default_value & flags_class->mask) == default_value
 (flags & ~TYPE_FLAG_MASK) == 0
 (ftype & TYPE_ID_MASK) == 0
@@ -88,15 +60,8 @@
 (name[0] >= 'A' && name[0] <= 'Z') || (name[0] >= 'a' && name[0] <= 'z')
 (pspec->flags & G_PARAM_CONSTRUCT_ONLY) == 0
 (return_type & G_SIGNAL_TYPE_STATIC_SCOPE) == 0
-(t$ H
 (type & TYPE_ID_MASK) == 0
 (unknown)
-(was '%s', now '%s')
-(|$@D
-)D$0D
-)t$ H
-)|$@D
-)|$@f
 *private_size_or_offset <= 0xffff
 -64OS
 -g-type-private--GTypeFlags
@@ -186,7 +151,7 @@
 ..\..\..\gobject\gsignal.c:955
 ..\..\..\gobject\gsignal.c:961
 ..\..\..\gobject\gsignal.c:967
-..\..\..\gobject\gsourceclosure.c:259: closure can not be set on closure without GSourceFuncs::closure_callback
+..\..\..\gobject\gsourceclosure.c:259: closure can not be set on closure without GSourceFuncs::closure_callback\n
 ..\..\..\gobject\gtype.c
 ..\..\..\gobject\gtype.c:2506: cannot remove unregistered class cache func %p with data %p
 ..\..\..\gobject\gtype.c:2580: cannot remove unregistered class check func %p with data %p
@@ -202,103 +167,20 @@
 ..\..\..\gobject\gvalue.c:365
 ..\..\..\gobject\gvalue.c:429
 ..\..\..\gobject\gvaluetypes.c
-.pdata
-.text
-0A^^[
-0A_A^A\
-0A_A^A]
-0A_A^A]A\_
-0A_A^^
-0A_A^_
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-80tVD
-8A^A\^[
-8D$8t
-9;tVH
-;9swH
-< tD<	t@
-</assembly>
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <NULL-class>
 <NULL-instance>
-<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
 <invalid>
 <unknown>
-@.data
-@.reloc
-@.rsrc
-@A_A]^
-@A_A^A\
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^_
-@Bf9ABt"L
-@Bf9ABt)L
-@SATAUAWH
-@SATH
-@SUATAUAWH
-@SUVATAVAWH
-@SUVH
-@SUVWATAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SVAVAWH
-@SVAVH
-@SVWATAUAWH
-@SVWH
-@SWAVH
-@UATAUAVAWH
-@UATAVH
-@UATH
-@UAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWAVAWH
-@USVWH
-@UVWATAUAVAWH
-@UWAVH
-@VWATAWH
-@WAVAWH
-@WAVH
-@WAWH
-A H9X8u
-A f9X
-A81t@@8r
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
-ATAVAWH
-AUAVAWH
-A^A\]
-A^A\_
-A^A]A\_^[]
-A^_^][
-A_A^A\
-A_A^A\_^
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^_
-A_A^_^[]
 April
 Attempt to add properties to %s after it was derived
 Attempt to add property %s::%s to class after it was derived
 August
-AuthA
-B H9A u3H
-BHI9D
-BHJ9D
-C H9P8
-C H9x8uo
-C(L9p
-C@H9A
-C@u,H
-CHH9D
 CloseHandle
 CloseThreadpoolTimer
 CloseThreadpoolWait
@@ -311,48 +193,19 @@ CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
 Custom constructor for class %s returned NULL (which is invalid). Please use GInitable instead.
-D!l$h3
-D$ D9
-D$ ilqdf
-D$(E3
-D$(H;C
-D$0H;C
-D$0Ic
-D$0L9
-D$8Hc
-D$@A;
-D$PE3
-D$PH;
-D$XD+
-D$`E3
-D$p H
-D$x9C
-D+moA
-D8$(u
-D82u&H
-D8L$Ht
-D8t$Ht
-D9d$x
-D9l$`
-D9l$dtXH
-D9|$ 
 December
 DecodePointer
 DeleteCriticalSection
-E H9X t
-E f9X
-E@H9B
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesEx
 ExitProcess
-F@H9A
 FALSE
-Fatal error - Could not reload previously loaded plugin '%s'
+Fatal error - Could not reload previously loaded plugin '%s'\n
 February
 Flags
-Flags for property '%s' on class '%s' introduce additional restrictions on writability compared with the property on interface '%s'
-Flags for property '%s' on class '%s' remove functionality compared with the property on interface '%s'
+Flags for property '%s' on class '%s' introduce additional restrictions on writability compared with the property on interface '%s'\n
+Flags for property '%s' on class '%s' remove functionality compared with the property on interface '%s'\n
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -363,8 +216,6 @@ Free queue for %s (%p) is larger than 65535, called g_object_freeze_notify() too
 FreeEnvironmentStringsW
 FreeLibraryWhenCallbackReturns
 Friday
-G H9X
-G f9HBu}95
 GArray
 GBinding
 GBindingFlags
@@ -378,8 +229,6 @@ GDateTime
 GEnum
 GError
 GFlags
-GHI9D
-GHJ9D
 GHashTable
 GIOChannel
 GIOCondition
@@ -552,42 +401,8 @@ GetTickCount64
 GetTimeFormatEx
 GetUserDefaultLocaleName
 GetUserObjectInformationW
-H3E H3E
-H90t-H
-H91uwD
-H98t%H
-H9=x	
-H9A u
-H9B u
-H9HPu
-H9J(t
-H9K8t
-H9ZPt
-H9k(u]@
-H9n t L
-H9{(t,H
-H;A t,H
-H;A(t,H
-H;A0t,H
-H;A8t,H
-H;A@t,H
-H;AHt,H
-H;APt,H
-H;AXt,H
-H;A`t,H
-H;Aht,H
-H;Apt,H
-H;Axt,H
-H@f9K0s
 HH:mm:ss
-HH;SHt
-HI;IHt
-HM;HHt
-HcD$PH;
-HcD$hJ
-HcH<H
-HcM H
-Hct$@H
+HMXB
 HeapAlloc
 HeapFree
 HeapReAlloc
@@ -600,37 +415,11 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocaleName
 January
-K H;K
+July
+June
 KERNEL32.dll
-L$ AWH
-L$ SH
-L$ USH
-L$ USVWATAUAVAWH
-L$ UVWAUH
-L$ WATAUAVAWH
-L$(H3
-L$0E3
-L$0H;
-L$8H3
-L$@E3
-L$@H3
-L$Df;
-L$HH3
-L$PH3
-L$XH3
-L$`H3
-L$`t@
-L$hE3
-L$pH3
-L$xH3
-L9!teD
-L9c(uk@
 LCMapStringEx
 LCMapStringW
-LcA<E3
-LcT$(I
-LcT$hI
-LcT$pI
 LeaveCriticalSection
 LoadLibraryExW
 MM/dd/yy
@@ -638,29 +427,29 @@ March
 MessageBoxW
 Monday
 MultiByteToWideChar
+NKeb
 NODE_IS_IFACE (iface)
 NODE_IS_IFACE (iface) && IFACE_NODE_N_PREREQUISITES (iface) < MAX_N_PREREQUISITES && (prerequisite_node->is_instantiatable || NODE_IS_IFACE (prerequisite_node))
 NODE_REFCOUNT (node) > 0
+NULL
 November
 Object class %s doesn't implement property '%s' from interface '%s'
 October
 OutputDebugStringW
 PARAM_SPEC_PARAM_ID (pspec) == 0
-PA^_^
-PA_A^A\_^][
 PSPEC_APPLIES_TO_VALUE (pspec, dest_value)
 PSPEC_APPLIES_TO_VALUE (pspec, value)
 PSPEC_APPLIES_TO_VALUE (pspec, value1)
 PSPEC_APPLIES_TO_VALUE (pspec, value2)
 QueryPerformanceCounter
-Read-only property '%s' on class '%s' has type '%s' which is not equal to or more restrictive than the type '%s' of the property on the interface '%s'
-Read/writable property '%s' on class '%s' has type '%s' which is not exactly equal to the type '%s' of the property on the interface '%s'
+RSDS
+Read-only property '%s' on class '%s' has type '%s' which is not equal to or more restrictive than the type '%s' of the property on the interface '%s'\n
+Read/writable property '%s' on class '%s' has type '%s' which is not exactly equal to the type '%s' of the property on the interface '%s'\n
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
-SUVWH
-SVATAVH
+S;uD
 Saturday
 September
 SetDefaultDllDirectories
@@ -676,10 +465,7 @@ Sleep
 Source
 Source Property
 Sunday
-T$&@8t$&t9@8r
-T$0E3
-T$PE3
-T$`E3
+TRUE
 Target
 Target Property
 TerminateProcess
@@ -698,43 +484,16 @@ TlsSetValue
 Tuesday
 Two different plugins tried to register '%s'.
 Two different plugins tried to register interface '%s' for '%s'.
-Type '%s' recreated with different parent type.
-UATAUAVAWH
-UVAVH
-UVAWH
-UVWATAUAVAWH
-UWAVH
+Type '%s' recreated with different parent type.\n(was '%s', now '%s')
 Unable to bind the same property on the same instance
 UnhandledExceptionFilter
-VAUAWH
-VAVAWH
-VWATAVAWH
-VWAVH
-WATAUAVAWH
-WATAVH
-WAVAWH
 WaitForThreadpoolTimerCallbacks
 Wednesday
 When installing property: type '%s' already has a property named '%s'
 WideCharToMultiByte
-Write-only property '%s' on class '%s' has type '%s' which is not equal to or less restrictive than the type '%s' of the property on the interface '%s' 
+Write-only property '%s' on class '%s' has type '%s' which is not equal to or less restrictive than the type '%s' of the property on the interface '%s' \n
 WriteConsoleW
 WriteFile
-XA]_^]
-XA_A]A\[
-XA_A^A\^][
-[ UVWH
-\$ HcY
-\$ UH
-\$ UVAVH
-\$ UVWATAUAVAWH
-\$ UVWH
-\$ WH
-\$0D9=b0
-\$0H3
-\$0H;
-^H9\$p
-_-|> <.:^
 _g_atomic_array_update
 _g_boxed_type_init
 _g_closure_invoke_va
@@ -745,9 +504,6 @@ _g_object_type_init
 _g_param_spec_types_init
 _g_param_type_init
 _g_value_types_init
-` AUAVAWH
-`.rdata
-`A^_]
 abcdefghijklmnopqrstuvwxyz
 accu_data == NULL
 accumulator == NULL
@@ -774,7 +530,6 @@ boxed != NULL
 boxed_copy != NULL
 boxed_free != NULL
 c:\buildslave\pango_win32\build\glib-2.42.0\build\win32\vs12\Release\x64\bin\libgobject-2.0-0.pdb
-cAMDD
 c_handler != NULL
 cache_func != NULL
 callback_func != NULL
@@ -831,8 +586,6 @@ collect_format
 compare_func != NULL
 const_static_values != NULL
 const_values != NULL
-d$@E3
-d$@u,H
 dddd, MMMM dd, yyyy
 default
 default_invert_boolean_transform
@@ -840,19 +593,12 @@ default_value == NULL || g_variant_is_of_type (default_value, type)
 default_value == TRUE || default_value == FALSE
 default_value >= minimum && default_value <= maximum
 detailed_signal != NULL
-e A_A^A]A\]
 e+000
-e`A_A^A]A\]
 emission_pop
-entiE
 entry->init_state == IFACE_INIT
 entry->vtable != NULL
 entry->vtable == NULL && entry->init_state == UNINITIALIZED
 enum_tmpval != NULL
-fD90t
-fD93u
-fffff
-fffffff
 finfo != NULL
 flags
 ftype <= G_TYPE_FUNDAMENTAL_MAX
@@ -1475,9 +1221,8 @@ gboolean
 gchar
 gchararray
 gdouble
-gfffA
-gfffffffH
 gfloat
+gint
 gint64
 glong
 gobject_init_ctor
@@ -1486,10 +1231,6 @@ guchar
 guint
 guint64
 gulong
-hA_A\_^
-hA_A]A\[
-hA_A^_^][
-h_^][
 handler->closure == closure
 handler->prev == NULL && handler->next == NULL
 handler->ref_count > 0
@@ -1535,15 +1276,9 @@ invalid unclassed type '%s' in class cast to '%s'
 invalid uninstantiatable type '%s' in cast to '%s'
 invalid_closure_notify
 invert-boolean
+kU'9
 key != NULL
 klass != NULL
-l$ AVH
-l$ VATAVH
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$8t0M
-l$XD+
 lcopy_format
 libglib-2.0-0.dll
 libgobject-2.0-0.dll
@@ -1579,8 +1314,8 @@ notify_func != NULL
 nqueue != NULL
 nqueue->freeze_count > 0
 nqueue->n_pspecs < 65535
-ntelD
 num_entries < MAX_N_INTERFACES
+nval
 object %s %p finalized while still in-construction
 object == NULL || G_IS_OBJECT (object)
 object->ref_count > 0
@@ -1599,14 +1334,13 @@ one of 'collect_format' and 'collect_value()' is unspecified for type '%s'
 one of 'lcopy_format' and 'lcopy_value()' is unspecified for type '%s'
 out_value != NULL
 owner_type > 0
-p AWH
 param_name != NULL
 param_types != NULL
 parent_node->data && NODE_REFCOUNT (parent_node) > 0
 parent_type > 0
 please report occurrence circumstances to gtk-devel-list@gnome.org
 plugin != NULL
-plugin '%s' failed to register type '%s'
+plugin '%s' failed to register type '%s'\n
 plugin for type '%s' has no complete_interface_info() implementation
 plugin for type '%s' has no complete_type_info() implementation
 plugin handle for type '%s' is NULL
@@ -1635,11 +1369,9 @@ pspecs[0] == NULL
 quark != 0
 quark > 0
 query != NULL
-r=D8v
 real_closure->meta_marshal != NULL
 real_closure->meta_marshal == NULL
 return_value != NULL
-sYHcL$HH
 signal-after::
 signal::
 signal_after::
@@ -1672,31 +1404,10 @@ swapped_object_signal_after::
 swapped_signal::
 swapped_signal_after::
 sync-create
-t$ AVH
-t$ AWH
-t$ UH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$09C
-t$0t<
-t$83_
-t$8H+
-t$8Hc0I
-t$@fA
-t$hE3
-t5fff
-t:H9_
-tDH;H
-tEH;H
-tMH9C
-tTfff
-tYH9s
 tagging type '%s' as abstract after class initialization
 target
 target-property
 target_property != NULL
-tcH95A
 the '%s' specification for type '%s' is too long or invalid
 the copy_value() implementation of type '%s' seems to make use of reserved GValue fields
 this type has no GTypeValueTable implementation
@@ -1705,7 +1416,6 @@ tmpval_used != NULL
 toggle_refs_notify
 transform_func != NULL
 tstack.n_toggle_refs == 1
-txA96vsI
 type != G_TYPE_INVALID
 type != NULL
 type == G_TYPE_BOOLEAN
@@ -1772,14 +1482,8 @@ type_node_add_iface_entry_W
 type_node_any_new_W
 type_node_fundamental_new_W
 type_node_new_W
-u	A!B
-u"H9Z
-u$L9z u
-u3L9i
-uW9CDuI
 unable to add prerequisite '%s' to interface '%s' which is already in use for '%s'
 unable to set property '%s' of type '%s' from value of type '%s'
-v@v;I
 va_marshaller != NULL
 va_meta_marshal != NULL
 va_to_ffi_type
@@ -1794,36 +1498,10 @@ value_from_ffi_type: Unsupported fundamental type: %s
 value_table != NULL
 value_to_ffi_type
 value_to_ffi_type: Unsupported fundamental type: %s
+void
 weak_locations != NULL
 weak_pointer_location != NULL
 weak_ref != NULL
 weak_ref!= NULL
-x ATAVAWH
-x AUAVAWH
-x AVH
-xA_A]A\_^[
-xA_A^^[
-x_^][
 z?aUY
 zc%C1
-|$ ATAVAWH
-|$ AVH
-|$ H;
-|$ UATAUAVAWH
-|$0-H
-|$0A;
-|$0t(H
-|$8<9w
-|$8E3
-|$@-D
-|$@-H
-|$@u-H
-|$PD;
-|$PE3
-|$Pt5H
-|$PuI3
-|$Pv	H
-|$Xt'H
-|$`@:
-|$`H;
-|$`tD

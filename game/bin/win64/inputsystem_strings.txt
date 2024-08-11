@@ -1,56 +1,14 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
- 9(X`
- A^][
- A_A^A\
- A_A^A]A\_
- A_A^^
- A_A^_
- A__^
- HcA(3
- HcA(H
- Hci03
- LcI(H
- vJH+
-".%2J
 #base
 #base is NULL 
 #include
 #include is NULL 
 %i %i %i %i
-%s: string format requested %d chars
-&E8g@t
-&YA1H
-&YA1L
+%s: string format requested %d chars\n
 'is NOT active'
 'is active'
-(*%s*), 
-(A_A^
-(D$PD
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$@H
-(L$`D
-(T$PD
-(\$@D
-(o:R	
-(t$ H
-(t$@H
-(t$pH
-(|$@H
-)D$PH
-)L$@L
-)t$ H
-)t$@I
-)t$pH
-)t$pM
-+-Ji\V
-+C$Hc
-+tnh_g
-,0<	w
-,|%)v
--------------------- PollInputState_SDL (frame %llu, elapsed ms = %.2f) --------------------
---> SDL_PumpEvents - %d new events (elapsed time from last pump %.2f ms)
+-------------------- PollInputState_SDL (frame %llu, elapsed ms = %.2f) --------------------\n
+--> SDL_PumpEvents - %d new events (elapsed time from last pump %.2f ms)\n
 -cursor_scale_percent
 -disable_cursor_clip
 -input_button_code_is_scan_code
@@ -96,10 +54,11 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bmp
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -110,59 +69,23 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
 /cursor.res
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 0 => Cross-shaped deadzone (default), 1 => Square deadzone.
 00000409
-061110000000Z
-0A^^[
-0A^_[
-0uU9rDu
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-200527201742Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8A]_H
-8QRtv
-99C }
-99~3H
-9C |K
-9\$`t
-9_p~$
-:^MtA
-;A ~W
-;D$@@
+2\vpP
 <NULL>
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-?5zlO
 ?AppendFormat@CBufferString@@QEAAHPEBDZZ
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?ConMsg@@YAXPEBDZZ
@@ -179,37 +102,6 @@
 ?ShortenPath@CBufferString@@QEAAPEBD_N@Z
 ?StripExtension@CBufferString@@QEAAPEBDXZ
 ?ToLowerFast@CBufferString@@QEAAXH@Z
-@.data
-@.tls
-@A^A\_^]
-@A^A]A\
-@A^_^
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]^]
-@A__^][
-@Lc:E3
-@SAVH
-@SUAVH
-@SUVWAWH
-@SUVWH
-@SVAVH
-@SWAVH
-@UATAUAVAWH
-@UAVAWH
-@UAWH
-@USAVAWH
-@USVWATAUAVAWH
-@UVAUAVAWH
-@UVWATAUAVAWH
-@WAUH
-@tBE8g@t"D8
-A8H	P(
-A8Zxt
-A;@X}
-A;BX}
-A;RX}
-A;^@|
 ACTIVE
 ACUTE_ACCENT
 AC_BACK
@@ -222,23 +114,13 @@ AC_STOP
 AGAIN
 ALTERASE
 AMPERSAND
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ASTERISK
-ATAUAVH
-AUAVH
 AUDIOMUTE
 AUDIONEXT
 AUDIOPLAY
 AUDIOPREV
 AUDIOSTOP
-AVAWH
-A_A^A]A\]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^[]
-A_A^]
-A_A^^
-A_A^_
 A_BUTTON
 A_WITH_ACUTE
 A_WITH_CIRCUMFLEX
@@ -251,12 +133,13 @@ Analog axis range before a button press is registered.
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
 AnimationSystem_001
-App activation changed: %s
+App activation changed: %s\n
 AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 Automatic cursor size scaling.
+BACK
 BACKSPACE
 BRIGHTNESSDOWN
 BRIGHTNESSUP
@@ -266,11 +149,8 @@ Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
 Bad expression token: %c
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
-C-yh/
 CALCULATOR
 CANCEL
 CAPSLOCK
@@ -279,15 +159,15 @@ CARET
 CEDILLA
 CENT_SIGN
 CGlobalConfigValueRegistry::HookUpConfigValue
-CInputStackSystem:  %s IME %s
-CInputStackSystem:  %s capture set to 0x%p
-CInputStackSystem:  %s cursor %s
-CInputStackSystem:  %s cursor clip set to 0x%p
-CInputStackSystem:  %s is %s for state %x
-CInputStackSystem:  %s relative mouse mode %s
-CInputStackSystem:  empty
-CInputStackSystem:  nothing enabled
-CInputSystem::AttachToWindow: Tried to attach to the same window twice!
+CInputStackSystem:  %s IME %s\n
+CInputStackSystem:  %s capture set to 0x%p\n
+CInputStackSystem:  %s cursor %s\n
+CInputStackSystem:  %s cursor clip set to 0x%p\n
+CInputStackSystem:  %s is %s for state %x\n
+CInputStackSystem:  %s relative mouse mode %s\n
+CInputStackSystem:  empty\n
+CInputStackSystem:  nothing enabled\n
+CInputSystem::AttachToWindow: Tried to attach to the same window twice!\n
 CInputSystem::SleepUntilInput
 CLEAR
 CLEARAGAIN
@@ -295,68 +175,48 @@ CMemAllocSystemInitialize
 COLON
 COLORCORRECTION_VERSION_1
 COMPUTER
+COPY
 COPYRIGHT_SIGN
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CRSEL
 CSchemaRegistration::RegisterAllModuleData
+CTRL
 CURRENCYSUBUNIT
 CURRENCYUNIT
 CURRENCY_SIGN
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
 CUtlString::FormatV
 C_WITH_CEDILLA
 CallWindowProcA
 CommandLine
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigurationSystem_001
 ConnectInterfaces
 CreateInterface
 CreateWindowExA
-Current coordinate bias %s: %g,%g scale %g,%g
+Current coordinate bias %s: %g,%g scale %g,%g\n
 Cursor size scaling factor.
-D$(fI
-D$0E3
-D$0H3L$0H3
-D$0f;
-D$4t3
-D$4u4
-D$8+C$H
-D$8A;
-D$<9T$0wE9T$4w?9T$8w9;
-D$DA;
-D$`E#
-D$`H;
-D8cMt9D8cLt3
 DECIMALSEPARATOR
 DEGREE_SYMBOL
+DEMO
 DIAERESIS
 DISPLAYSWITCH
 DIVISION_SIGN
 DOLLAR
+DOWN
 DOWNARROW
 DebugTextureInfo001
 DefWindowProcA
 DestroyWindow
-DetectApplicationActive:  polling determined app should be %s
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
+DetectApplicationActive:  polling determined app should be %s\n
 DisableThreadLibraryCalls
 DotaCardGameClient_001
-E0C07
-E8g@t
-E;~(H
-EHfA;
 EJECT
-EJt2Li
 ENTER
 ESCAPE
 ETWKeyDown
@@ -374,29 +234,25 @@ E_WITH_CIRCUMFLEX
 E_WITH_DIAERESIS
 E_WITH_GRAVE
 EconItemToolModel_001
-EnableMouseCapture:  enabling capture of 0x%p
-EnableMouseCapture:  releasing capture of 0x%p
+EnableMouseCapture:  enabling capture of 0x%p\n
+EnableMouseCapture:  releasing capture of 0x%p\n
 EngineServiceMgr001
 EventSystem001
 FALSE
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FEMININE_ORDINAL_INDICATOR
-Failed to load cursor from '%s'
-Failed to load image for cursor from %s: %s
+FIND
+Failed to load cursor from '%s'\n
+Failed to load image for cursor from %s: %s\n
 Failed to scale image for cursor to %d,%d (hot %d,%d; scaling %g): %s
 FindWindowA
 FlattenedSerializersVersion001
 FontManager_001
 GAMECONSOLE
-GD$8D
-GD$8I
-GL$8L
-GL$8M
-GNL&`
+GCTL
 GREATER
-GRegisterConfigValue: Unknown error constructing config value "%s"!
+GRegisterConfigValue: Unknown error constructing config value "%s"!\n
 GSFailure
-GT$8H
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -419,26 +275,11 @@ GetTickCount
 GetWindowLongPtrW
 GetWindowTextA
 GetWindowThreadProcessId
-Gt$8H
-Gt$8I
-G|$8L
-H0F08
-H1D$0
-H97t<
-H;3tTH
-H;{hu>f
+HASH
+HELP
 HIGHDPI
-H_^][
+HOME
 HammerMapLoader001
-Hc7;w
-HcD$pH
-HcH<H
-HcI(H
-HcI0H
-HcS@H
-Hc^(;^8u
-Hc_0L
-Hck0H
 HelpSystem_001
 HostStateMgr001
 IE_ActivateApp
@@ -476,20 +317,20 @@ INACTIVE
 INVERTED_EXCLAMATION_MARK
 INVERTED_QUESTION_MARK
 IQuickTime001
-ISS: Cursor clip %s from '%s'
-ISS: Cursor clip disabled from default
-ISS: Cursor icon from '%s'
-ISS: Cursor invisible from '%s'
-ISS: Cursor invisible from default
-ISS: IME %s from '%s'
-ISS: IME allowed from default
-ISS: Mouse capture disabled from '%s'
-ISS: Mouse capture disabled from default
-ISS: Mouse capture enabled from '%s'
-ISS: Relative mouse %s from '%s'
-ISS: Relative mouse disabled from default
-ISS: Standard cursors from '%s'
-ISS: Standard cursors from default
+ISS: Cursor clip %s from '%s'\n
+ISS: Cursor clip disabled from default\n
+ISS: Cursor icon from '%s'\n
+ISS: Cursor invisible from '%s'\n
+ISS: Cursor invisible from default\n
+ISS: IME %s from '%s'\n
+ISS: IME allowed from default\n
+ISS: Mouse capture disabled from '%s'\n
+ISS: Mouse capture disabled from default\n
+ISS: Mouse capture enabled from '%s'\n
+ISS: Relative mouse %s from '%s'\n
+ISS: Relative mouse disabled from default\n
+ISS: Standard cursors from '%s'\n
+ISS: Standard cursors from default\n
 I_WITH_ACUTE
 I_WITH_CIRCUMFLEX
 I_WITH_DIAERESIS
@@ -501,9 +342,10 @@ InputStackSystemVersion001
 InputSystem
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
+JOY1
 JOY10
 JOY11
 JOY12
@@ -514,6 +356,7 @@ JOY16
 JOY17
 JOY18
 JOY19
+JOY2
 JOY20
 JOY21
 JOY22
@@ -524,15 +367,22 @@ JOY26
 JOY27
 JOY28
 JOY29
+JOY3
 JOY30
 JOY31
 JOY32
+JOY4
+JOY5
+JOY6
+JOY7
+JOY8
+JOY9
 KBDILLUMDOWN
 KBDILLUMTOGGLE
 KBDILLUMUP
 KERNEL32.dll
-KEYDOWN (%s): sdlkeycode=%d sdlscancode=%d SDL_GetKeyName='%s' buttoncode=%d buttonname='%s' ButtonCode_GetLocalKeyNameUTF8='%s'
-KEYUP (%s) sdlkeycode=%d sdlscancode=%d buttoncode=%d buttonname='%s'
+KEYDOWN (%s): sdlkeycode=%d sdlscancode=%d SDL_GetKeyName='%s' buttoncode=%d buttonname='%s' ButtonCode_GetLocalKeyNameUTF8='%s'\n
+KEYUP (%s) sdlkeycode=%d sdlscancode=%d buttoncode=%d buttonname='%s'\n
 KEY_CYRILLIC_BE
 KEY_CYRILLIC_E
 KEY_CYRILLIC_HA
@@ -540,25 +390,41 @@ KEY_CYRILLIC_HARD_SIGN
 KEY_CYRILLIC_IO
 KEY_CYRILLIC_YU
 KEY_CYRILLIC_ZHE
+KP_0
 KP_00
 KP_000
+KP_1
+KP_2
+KP_3
+KP_4
+KP_5
+KP_6
+KP_7
+KP_8
+KP_9
+KP_A
 KP_AMPERSAND
 KP_AT
+KP_B
 KP_BACKSPACE
 KP_BINARY
+KP_C
 KP_CLEAR
 KP_CLEARENTRY
 KP_COLON
 KP_COMMA
+KP_D
 KP_DBLAMPERSAND
 KP_DBLVERTICALBAR
 KP_DECIMAL
 KP_DEL
 KP_DIVIDE
+KP_E
 KP_ENTER
 KP_EQUALS
 KP_EQUALSAS400
 KP_EXCLAM
+KP_F
 KP_GREATER
 KP_HASH
 KP_HEXADECIMAL
@@ -587,14 +453,10 @@ KP_VERTICALBAR
 KP_XOR
 KV Conditional Evaluation Error
 KeyValueCache001
-KeyValues Error: %s in file %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues Error: %s in file %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-L$ SH
-L$ fI
-L$0E3
-L$@H1D$0
-L;ghu>fA
+LEFT
 LEFTARROW
 LEFTPAREN
 LEFT_CURLY_BRACKET
@@ -602,11 +464,9 @@ LEFT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
+LWIN
 L_SHOULDER
 L_TRIGGER
-LcA<E3
-LcCPH
-LcT$p3
 LoadFromBuffer: expected '{', found '%s'
 LoadKeyboardLayoutA
 Localize_001
@@ -614,11 +474,13 @@ LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 MACRON
+MAIL
 MASCULINE_ORDINAL_INDICATOR
 MATCHFRAMEWORK_001
 MEDIASELECT
 MICRO_SIGN
 MIDDLE_DOT
+MODE
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MOUSE1
@@ -626,12 +488,13 @@ MOUSE2
 MOUSE3
 MOUSE4
 MOUSE5
-MOUSEWHEEL delta %d (raw %d)
+MOUSEWHEEL delta %d (raw %d)\n
 MOUSE_WHEEL
 MOUSE_X
 MOUSE_Y
 MSWHEEL_ROLLMSG
 MULTIPLICATION_SIGN
+MUTE
 MWHEELDOWN
 MWHEELUP
 MapListService_001
@@ -641,6 +504,7 @@ MeshSystem001
 MeshUtils001
 ModelDocUtils001
 NOT_SIGN
+NULL
 NUMLOCK
 NUMLOCKTOGGLE
 N_WITH_TILDE
@@ -652,20 +516,22 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-No cursor image files for '%s'
-O(t(H
+No cursor image files for '%s'\n
+OPER
 O_WITH_ACUTE
 O_WITH_CIRCUMFLEX
 O_WITH_DIAERESIS
 O_WITH_GRAVE
 O_WITH_STROKE
 O_WITH_TILDE
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PASTE
 PAUSE
-PA_A^A\][
 PERCENT
+PGDN
+PGUP
 PILCROW_SIGN
+PLUS
 PLUS_MINUS_SIGN
 POSIX
 POUND_SIGN
@@ -710,12 +576,13 @@ Plat_UnloadModule
 Plat_WindowToOsSpecificHandle
 Plat_WindowToScreenCoords
 PostProcessingSystem_001
-PrimaryUserId is %d
+PrimaryUserId is %d\n
 PropertyEditorSystem_001
 QUESTION
 QUOTEDBL
 QueryPerformanceCounter
 QueuedLoaderVersion001
+RALT
 RCTRL
 REGISTERED_SIGN
 RETURN2
@@ -724,7 +591,10 @@ RIGHTARROW
 RIGHTPAREN
 RIGHT_CURLY_BRACKET
 RIGHT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
+RSDS
 RSHIFT
+RWIN
+R\vpP
 R_AXIS
 R_AXIS_NEG
 R_AXIS_POS
@@ -763,29 +633,29 @@ S2_RIGHT
 S2_UP
 SCROLLLOCK
 SCROLLLOCKTOGGLE
-SDL clip window state on 0x%p is %s
-SDL is %s relative mouse
-SDL says cursor is %s and is set to 0x%p
-SDL:  got %s
-SDL: Display %d orientation changed to %d
-SDL: Display %d unknown event %d (data1 %d)
-SDL: Mouse entered window %d
-SDL: Mouse left window %d
-SDL: Window %d closed
-SDL: Window %d exposed
-SDL: Window %d gained keyboard focus
-SDL: Window %d got unknown event %d
-SDL: Window %d hidden
-SDL: Window %d hit test
-SDL: Window %d lost keyboard focus
-SDL: Window %d maximized
-SDL: Window %d minimized
-SDL: Window %d moved to %d,%d
-SDL: Window %d offered focus
-SDL: Window %d resized to %dx%d
-SDL: Window %d restored
-SDL: Window %d shown
-SDL: Window %d size changed [%d,%d]
+SDL clip window state on 0x%p is %s\n
+SDL is %s relative mouse\n
+SDL says cursor is %s and is set to 0x%p\n
+SDL:  got %s\n
+SDL: Display %d orientation changed to %d\n
+SDL: Display %d unknown event %d (data1 %d)\n
+SDL: Mouse entered window %d\n
+SDL: Mouse left window %d\n
+SDL: Window %d closed\n
+SDL: Window %d exposed\n
+SDL: Window %d gained keyboard focus\n
+SDL: Window %d got unknown event %d\n
+SDL: Window %d hidden\n
+SDL: Window %d hit test\n
+SDL: Window %d lost keyboard focus\n
+SDL: Window %d maximized\n
+SDL: Window %d minimized\n
+SDL: Window %d moved to %d,%d\n
+SDL: Window %d offered focus\n
+SDL: Window %d resized to %dx%d\n
+SDL: Window %d restored\n
+SDL: Window %d shown\n
+SDL: Window %d size changed [%d,%d]\n
 SDL_APP_DIDENTERBACKGROUND
 SDL_APP_DIDENTERFOREGROUND
 SDL_APP_LOWMEMORY
@@ -842,11 +712,10 @@ SPACE
 START
 STICK1
 STICK2
-SUATAVAWH
+STOP
 SUPERSCRIPT_ONE
 SUPERSCRIPT_THREE
 SUPERSCRIPT_TWO
-SVATAUH
 SYSREQ
 SceneSystem_002
 SceneUtils_001
@@ -858,8 +727,8 @@ SerializedEntitiesVersion001
 ServerUploadGameStats001
 SetActiveWindow
 SetCapture
-SetCursorClip:  %s SDL_SetWindowGrab on 0x%p (%s) %s
-SetCursorClip:  disabling SDL_SetWindowGrab on 0x%p (%s)
+SetCursorClip:  %s SDL_SetWindowGrab on 0x%p (%s) %s\n
+SetCursorClip:  disabling SDL_SetWindowGrab on 0x%p (%s)\n
 SetForegroundWindow
 SetWindowLongPtrW
 ShowWindow
@@ -884,13 +753,11 @@ Stall
 StatsService_001
 SteamAudio001
 SystemParametersInfoA
-T$ A!T
-T$ E3
-T$pE3
-TEXTINPUT '%s'
+TEXTINPUT '%s'\n
 THORN
 THOUSANDSSEPARATOR
 TILDE
+TRUE
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
@@ -898,14 +765,11 @@ ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-UATAUAVAWH
 UNDERSCORE
+UNDO
 UPARROW
 UPDATE_STRING_TOKEN_DATABASE
 USER32.dll
-USVWATAUAVAWH
-USVWH
-UVWATAUAVAWH
 U_AXIS
 U_AXIS_NEG
 U_AXIS_POS
@@ -914,14 +778,13 @@ U_WITH_CIRCUMFLEX
 U_WITH_DIAERESIS
 U_WITH_GRAVE
 UnregisterClassA
-UpdateCaptureOnFocusChange:  enabling capture of 0x%p
-UpdateCaptureOnFocusChange:  releasing capture of 0x%p
-UpdateCursorClipOnFocusChange:  %s SDL_SetWindowGrab on 0x%p (%s) %s
+UpdateCaptureOnFocusChange:  enabling capture of 0x%p\n
+UpdateCaptureOnFocusChange:  releasing capture of 0x%p\n
+UpdateCursorClipOnFocusChange:  %s SDL_SetWindowGrab on 0x%p (%s) %s\n
 UpdateWindow
 Updates game keyboard layout to current windows keyboard setting.
 UserInfoChangeService_001
 VALVEIME001
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -959,8 +822,6 @@ VStringTokenSystem001
 VULGAR_FRACTION_ONE_HALF
 VULGAR_FRACTION_ONE_QUARTER
 VULGAR_FRACTION_THREE_QUARTERS
-VWAVH
-VWAWH
 V_AXIS
 V_AXIS_NEG
 V_AXIS_POS
@@ -982,26 +843,22 @@ V_strtoi64
 V_tier0_memset
 V_vsnprintfSize
 V_wcstoi64
-Valve0
-Valve1
 VisBuilder_001
-WATAUAVAWH
-WAVAWH
 WIN32
 WINDOWS
 WINXP
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
-Window activation changed: %s
-Windows says 0x%p (%s) is capturing mouse and we are %s and %s
-Windows says clipping to %d %d %d %d
+Warning:  %s = '%s' is infinite, clamping value.\n
+Window activation changed: %s\n
+Windows says 0x%p (%s) is capturing mouse and we are %s and %s\n
+Windows says clipping to %d %d %d %d\n
 Wingman warrior centering hack.
 Wingman warrior hack related to turn axes.
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
-XA]A\^[
+X360
 XInput1_3
 XInputGetCapabilities
 XInputGetKeystroke
@@ -1021,12 +878,6 @@ Y_WITH_DIAERESIS
 Z_AXIS
 Z_AXIS_NEG
 Z_AXIS_POS
-\$ A!T
-\$ UVWATAVH
-\$ VH
-\$ WH
-\$0Hc_0;_@u	H
-\$8;>
 _V_FileBase
 _V_strncat
 _V_strncmp
@@ -1034,7 +885,6 @@ _V_strncpy
 _V_strnicmp_fast
 __UNKNOWN__
 _vsz%u.bmp
-`.rdata
 active
 allowed
 c:\buildslave\hlvr_rel_win64\build\src\inputsystem\Retail\win64\inputsystem.pdb
@@ -1047,130 +897,43 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 cl_auto_cursor_scale
 cl_cursor_scale
-d$ fC
-d$0E3
 disabled
 disabling
 disallowed
+down
 enabled
 enabling
 error
-ffffff
 focused
 g_VProfCurrentProfile
 g_pMemAlloc
 hidden
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
+hotx
+hoty
 imemanager
 inactive
-initializing SDL joystick %d %s
+initializing SDL joystick %d %s\n
 inputsystem
 inputsystem.dll
 joy_axisbutton_threshold
 joy_deadzone_mode
 joy_wingmanwarrior_centerhack
 joy_wingmanwarrior_turnhack
-joystick not found -- driver not present
-k0i0$
+joystick not found -- driver not present\n
 key_updatelayout
-l$ 9Q
-l$ AVH
-l$ VH
-l$(Lc
-l$0E3
-l$0Hc
-l$8H+
-l$8t>H
-l$8tC
-l$XE3
-m0k0$
-mouse %d %s (%d) at %d %d on window %d
-mouse motion %d %d at %d %d with buttons "%s" on window %d
-nD$@D
-nD$L3
-nD$Xf
-nD$hf
-nD$pf
+keyc
+mouse %d %s (%d) at %d %d on window %d\n
+mouse motion %d %d at %d %d with buttons "%s" on window %d\n
 not using
 out of focus
-p0n05
-p1f3q>
 purecall
 quit_x360
+scan
 shown
-t	fA	
-t!fA;
-t#E8g@t
-t$ AVH
-t$ AWH
-t$ WH
-t$(E3
-t$0E3
-t$0H;
-t$0Hc
-t$@Hc
-t$Xt	H
-t$x;_@u
-t%E8g@t
-t(E8g@t
-t,E8g@t
-t0M;Zhu*f
-t3HcF(
-t8H;{hu2f
-t9H9=
-t<E8g@t
-t@M;Zhu:fA
-tBE8g@t"D8
-tEE8g@t
-tPL;Ihu@f
-tRE8g@t
-tVD8%B
-t[L9c
 tier0.dll
-tu+K$3
-u	@8=%R
-u#D8%
-u)fA;
-u+fA;
-uJHc{0H
-uMHcE
-uT<0uP
 unknown event
 unset
 using
-v0t08
 visible
 vstdlib
 vstdlib.dll
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x0v0$
-xRHcQ
-xu)C	T
-xu)F	T
-xu)F	\
-xu-E	T
-xuJE3
-xuXA	T
-xufD	T
-xugA	T
-xutA	l
-xu~E	D
-z0x0:
-|$ ATAVAWH
-|$ AVH
-|$0fff
-|$@Hcyp;
-|$@t	3
-|$PA;^ u
-|$PHc{@$
-|$`Lc
-|$`ff
-}YfA;
-}_t!H

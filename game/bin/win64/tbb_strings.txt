@@ -1,52 +1,7 @@
-	intel.com0
- A]A\[
- A]A\_^[
- A^A]A\_[
- A^A][
- A_A][
- A_A^A]
- H3E H3E
- ]A\_^[
- ]A]A\_[
- ]A]_^[
- ]A_A\
- ]A_A^
- ]A_A^A]A\
- ]A_A^A]A\_^
- ]A__
- ]A__^[
-!This program cannot be run in DOS mode.
 !my_scheduler
 !thread_stack_size
-"COMODO RSA Certification Authority0
-#L; A
-%QuoVadis Root Certification Authority0
 %d: size %d
-%s: %s
-&Intel(R) Software Development Products0
-&http://pki.intel.com/crl/IntelCA7B.crl0f
-&http://pki.intel.com/crt/IntelCA7B.crt0"
-'http://crl.quovadisglobal.com/qvrca.crl0
-(A\_^[
-(A]A\
-(A^A]
-(A^A]A\_
-(A_A^
-(RI8a
-(]A_A^A]
-(]A_A^A]A\_
-(]A_A^A]A\_^[
-(]A_A^[
-(]A__^
-(http://www.quovadisglobal.com/repository0
-)http://crl.quovadisglobal.com/qvicag4.crl0
-)http://trust.quovadisglobal.com/qvrca.crt0
-*[G 	
-+:Nksx_
-+h.UW
-+http://trust.quovadisglobal.com/qvicag4.crt0O
 ----- Group
--x$1d
 ../../src/tbb/governor.cpp
 ../../src/tbb/tbb_main.cpp
 .00cfg
@@ -112,19 +67,18 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .data1
 .debug_opt_report
 .edata
-.gfids
 .gfids$y
 .idata$2
 .idata$3
 .idata$4
 .idata$5
 .idata$6
-.itt_notify_tab
 .pdata
 .rdata
 .rdata$r
@@ -141,51 +95,6 @@
 .text$x
 .xdata
 .xdata$x
-/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
-00.0,
-0A]A\_
-0A_A\_^[
-0A_A^A]A\_
-0A_A^_
-0]A_A]A\_^[
-0]A_A^
-0]A_A^A]A\
-0]A__
-0]A__^[
-0a0I1
-0}`d*
-10/0-
-140530163555Z
-151028000000Z
-180420165241Z
-181116085811Z
-201115085811Z0
-20190605191722.349Z0
-210317183333Z0
-210317183333Z0I1
-210617235959Z0s1
-3"|= :
-3010/
-5	v'|%
-8A\_^[
-8A^_^[
-8A_A^A]A\
-8I;}0A
-8]A^A\AYAX_^[YZ
-8]A_A\_^[
-8]A_A^A]
-8]A_A^A]A\_
-8]A_A^A]A\_^[
-8]A_A^_
-8]A_A^_^[
-8]_^[
-9f9H"IV<
-:X}2x
-;D$ t?
-;D$ u
-;E(tT3
-;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
-<;uf;
 ??0concurrent_queue_base@internal@tbb@@IEAA@_K@Z
 ??0concurrent_queue_base_v3@internal@tbb@@IEAA@_K@Z
 ??0concurrent_queue_iterator_base@internal@tbb@@IEAA@AEBVconcurrent_queue_base@12@@Z
@@ -416,40 +325,14 @@
 ?try_process_item@thread_bound_filter@tbb@@QEAA?AW4result_type@12@XZ
 ?unlock@reader_writer_lock@interface5@tbb@@QEAAXXZ
 ?upgrade_to_writer@scoped_lock@queuing_rw_mutex@tbb@@QEAA_NXZ
-?vZH;
-?vaH;
-?vcI;
-?vdH;
-?vfH;
 ?what@bad_last_alloc@tbb@@UEBAPEBDXZ
 ?what@captured_exception@tbb@@UEBAPEBDXZ
 ?what@improper_lock@tbb@@UEBAPEBDXZ
 ?what@invalid_multiple_scheduling@tbb@@UEBAPEBDXZ
 ?what@missing_wait@tbb@@UEBAPEBDXZ
 ?what@user_abort@tbb@@UEBAPEBDXZ
-@(#) $Revision: 413915 $
-@.data
-@.data1
-@.debug_o}
-@.itt_notify_tab
-@.reloc
-@A^_^
-@SVWH
-@]A__
-@_RDATA
-A tnH
-A#L. 
-A;o8t
 ALLOCATOR
-ATAUAVAWH
-ATAUAVAWUH
-ATAUH
-ATAWUH
-AUAVAWH
-AUAVAWUH
-AUAVH
-AVAWH
-AVAWUH
+AVX2
 AVX512BW
 AVX512CD
 AVX512DQ
@@ -462,58 +345,24 @@ AVX512VL
 AVX512_4FMAPS
 AVX512_4VNNIW
 AVX512_VPOPCNTDQ
-A\_^[
-A_A^_
-A`H;Qht
-Assertion %s failed on line %d of file %s
-AuthE
-AuthentiL
-B.rsrc
+Assertion %s failed on line %d of file %s\n
 Blocking terminate failed
-C(L)[ M+
-COMODO CA Limited1+0)
+CILK
+CMOV
 CloseHandle
 CreateEventA
 CreateEventW
 CreateSemaphoreW
-D$ H+
-D$ I;
-D$ Ic
-D$(H;
-D$(I;
-D$0A;D$4~
-D$0L;
-D$8I;
-D$@I;
-D$@M;
-D$H9D$ s"
-D$HI;
-D$JH;Q
-D$PE3
-D$PI;
 DeleteCriticalSection
-Detailed description: %s
-Djz{8
-E H;E
-E(H)} L+
-E(H+E0ttI
-E0C0A
-E0H;E(
-E8;E,
-E<;E4
-E@;E0
-E@cAMD
-EPH;X
-Ek( '
+Detailed description: %s\n
 EnterCriticalSection
+F16C
 FULLY INORDER PROCESSOR
 FXSAVE
 Failed to destroy filter TLS
 FormatMessageA
 FreeLibrary
 GENERIC_IA32
-Genu3
-GenuineIH
 GetActiveProcessorCount
 GetActiveProcessorGroupCount
 GetCurrentProcess
@@ -533,35 +382,10 @@ GetProcessAffinityMask
 GetStartupInfoW
 GetSystemTimeAsFileTime
 GetThreadGroupAffinity
-Greater Manchester1
-H+E ttI
-H0F0D
-H;,9t
-H;D$@
-H;D$H
-H;D$P
-H;D$`
-H;E s
-H;E(s
-H;F s
-H;^8t~H
-H;_0t
-H;j r;H
-H;j r;I
-H]A\^[
-H]A\_[
-H]A_A^A]A\_^[
-H]_^[
-H`L;@ht
-HcA<H
-I;T$ H
-I;T$pI
-I;^8t,H
-I;l$8t
+H\r5Hd\v
 INTEL_ITTNOTIFY_GROUPS
 INTEL_LIBITTNOTIFY64
 ITT-API-Version 0.0.0 (20111111)
-IcG0M
 Illegal tagged_msg cast
 Index is not allocated
 Index out of allocated segment slots
@@ -570,11 +394,6 @@ InitializeConditionVariable
 InitializeCriticalSection
 InitializeCriticalSectionAndSpinCount
 InitializeSListHead
-Intel Corporation1
-Intel Corporation1%0#
-Intel Corporation1&0$
-Intel External Issuing CA 7B
-Intel External Issuing CA 7B0
 Invalid hash load factor
 IsDebuggerPresent
 IsProcessorFeaturePresent
@@ -583,96 +402,33 @@ KMP_FOR_TCHECK
 KMP_FOR_TPROFILE
 KNCNI
 Kernel32.dll
-L$(M;a
-L$0H3
-L$@fD
-L$hH3
-L$xH3
-L+BXH
-L;A8}
-L;I0~
-L;L$Pt
-L;R r>I
-L;T$@
-L;T$`t
-L;U(s
-L;\$(
 LZCNT
-L^HQ3,#H#
-LcA<A
 LeaveCriticalSection
 LoadLibraryA
-L{pi:<
-M H1E
-M L+BXH
-M(L;i
-M;D$0~
-M;D$8
-M;W0~
-M;_0~
 MOVBE
 MSVCP140.dll
-McD$0E3
-Ob>m:
 Operation not permitted
 PCLMULQDQ
 POPCNT
-PSQRL
-PSQRWL
-P]A_A^
 Processor groups
 QueryPerformanceCounter
 QueryPerformanceFrequency
-QuoVadis Issuing CA G4
-QuoVadis Issuing CA G40
-QuoVadis Limited1
-QuoVadis Limited1%0#
 RDRND
 RDSEED
-RML might limit the number of workers to %u while %u is requested.
-RQSVWAPAQATAVUH
+RML might limit the number of workers to %u while %u is requested.\n
 RSDSO6
 ReleaseSemaphore
 ResetEvent
 Resource deadlock would occur
 ResumeThread
-RhPSQRL
-Root Certification Authority1.0,
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
-S=0]&fC
-SATAUH
-SATAUUH
-SAUAVH
-SAUAWH
-SAVAWUH
-SPq;=ERa
+SSE2
+SSE3
 SSE4_1
 SSE4_2
-SSG1/0-
 SSSE3
-SVATUH
-SVAUAVAWUH
-SVWATAUAVAWH
-SVWATAUAVAWUH
-SVWATAUAWUH
-SVWATAUH
-SVWATAUUH
-SVWATAWH
-SVWATAWUH
-SVWATH
-SVWATUH
-SVWAUUH
-SVWAVAWUH
-SVWAVH
-SVWAWUH
-SVWUH
-SWATAUAVH
-SWATAUUH
-SWATUH
-Salford1
-Santa Clara1
 SetErrorMode
 SetEvent
 SetLastError
@@ -682,98 +438,36 @@ Sleep
 SleepConditionVariableCS
 Step must be positive
 SwitchToThread
-T$ fH
-T$(I;
-T$0H;
-T$0I;
-T$0L;
-T$8fH
-T$PH;
-T$`L+
-TBB Warning: %s
-TBB failed to initialize task scheduler TLS
-TBB: %s	%s
-TBB: BUILD_CL		Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
-TBB: BUILD_COMMAND	icl /nologo /Qvc14 /MD /O2 /Zi /EHsc /GR /Zc:forScope /Zc:wchar_t /D__TBB_LIB_NAME=tbb.lib /GS /DDO_ITT_NOTIFY /DUSE_WINTHREAD /D_CRT_SECURE_NO_DEPRECATE /D_WIN32_WINNT=0x0502    /D__TBB_BUILD=1 /W3  /WX   /I../../src /I../../src/rml/include /I../../include /I.
-TBB: BUILD_COMPILER	Intel(R) C++ Intel(R) 64 Compiler for applications running on Intel(R) 64, Version 17.0 Build 20180907
-TBB: BUILD_DATE		Wed, 5 Jun 2019 19:10:27 UTC
-TBB: BUILD_HOST		nntpat21-250
-TBB: BUILD_OS		Microsoft Windows [Version 10.0.14393]
-TBB: BUILD_TARGET	intel64
-TBB: DO_ITT_NOTIFY	1
-TBB: INTERFACE VERSION	11008
-TBB: TBB_USE_ASSERT	0
-TBB: TBB_USE_DEBUG	0
-TBB: VERSION		2019.0
+TBB Warning: %s\n
+TBB failed to initialize task scheduler TLS\n
+TBB: %s\t%s\n
+TBB: VERSION\t\t2019.0\nTBB: INTERFACE VERSION\t11008\nTBB: BUILD_DATE\t\tWed, 5 Jun 2019 19:10:27 UTC\nTBB: BUILD_HOST\t\tnntpat21-250\nTBB: BUILD_OS\t\tMicrosoft Windows [Version 10.0.14393]\nTBB: BUILD_CL\t\tMicrosoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64\nTBB: BUILD_COMPILER\tIntel(R) C++ Intel(R) 64 Compiler for applications running on Intel(R) 64, Version 17.0 Build 20180907\nTBB: BUILD_TARGET\tintel64\nTBB: BUILD_COMMAND\ticl /nologo /Qvc14 /MD /O2 /Zi /EHsc /GR /Zc:forScope /Zc:wchar_t /D__TBB_LIB_NAME=tbb.lib /GS /DDO_ITT_NOTIFY /DUSE_WINTHREAD /D_CRT_SECURE_NO_DEPRECATE /D_WIN32_WINNT=0x0502    /D__TBB_BUILD=1 /W3  /WX   /I../../src /I../../src/rml/include /I../../include /I.\nTBB: TBB_USE_DEBUG\t0\nTBB: TBB_USE_ASSERT\t0\nTBB: DO_ITT_NOTIFY\t1\n
 TBB_VERSION
 TBB_runtime_interface_version
 TLS not allocated for filter
 TerminateProcess
-Thales TSS ESN:0E37-9649-08C51
-The number of workers is currently limited to %u. The request for %u workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+The number of workers is currently limited to %u. The request for %u workers is ignored. Further requests for more workers will be silently ignored until the limit changes.\n
 The same task_handle object cannot be executed more than once
-Thread stack size has been already set to %u. The request for larger stack (%u) cannot be satisfied.
+Thread stack size has been already set to %u. The request for larger stack (%u) cannot be satisfied.\n
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
 Tools support
 TryEnterCriticalSection
-U8LiC
-UPH	B
-UPPSQRL
-UhPSQRL
 UnhandledExceptionFilter
 Unidentified exception
 Unknown exception
-UpPSQRL
 User-initiated abort has terminated this operation
 VCRUNTIME140.dll
-VWATAUAVAWH
-VWATAUAVAWUH
-VWATUH
-VWAUUH
-VWAVH
-VWAWUH
-WATAUAVAWH
-WATAUAVAWUH
-WATAUAVH
-WATAUH
-WAUAVAWUH
-WAVAWH
-WAVAWUH
-WAWUH
 Wait on condition variable failed
 WaitForSingleObjectEx
 WakeAllConditionVariable
 WakeConditionVariable
-X0604
-XA\_^[
-X]A]A\[
-X]A]A\_^[
-X]A_A^A]A\_
-X]A_A^[
-Y`H;Qht
-Z0X02
-ZY[XD
 [backward compatibility] Invalid number of buckets
-\$ UH
-\$ WH
-\$(E3
-\$(I;
-]@u#I
-]A\_^
-]A_A^A]A\_
-]A_A^A]A\_^[
-]A_A^A]^[
-]A_A^[
-]HPSQR
-^8H;V0ucH
-^`H;Vht
+\n@(#) $Revision: 413915 $\n
 _CxxThrowException
 _RDATA
-_ZY[X3
-_ZY[XE3
 __C_specific_handler
 __CxxFrameHandler3
 __RML_close_factory
@@ -972,9 +666,6 @@ _register_onexit_function
 _seh_filter_dll
 _tbb::tbb_exception &
 _wcsdup
-`.itt_notify_tab
-`.rdata
-`]A__
 abort
 api-ms-win-crt-environment-l1-1-0.dll
 api-ms-win-crt-heap-l1-1-0.dll
@@ -988,46 +679,33 @@ attempted recursive lock on critical section or non-recursive mutex
 bad allocation
 bad allocation in previous or concurrent attempt
 bad array new length
+body
 broadcast_node
 buffer_node
 c:\TEMP\tbbtesting\tbb.2019_06_05T22_00_20__03_00.7197eaa9b5a9.nntpdsd21-250\1.0\build\nntpdsd21-250icc17_64_vc14_release\tbb.pdb
-cAMDD
 cilkrts20.dll
 composite_node
 continue_node
 control
 counter
-d$ H;
-d$0fI
 deferred initialization ignores stack size setting
 deque<T> too long
 disabled
-e IcE
-e0c0*
-e0c0;
 enabled
-entiA
-f-j ~U0
+exit
 failed to destroy task scheduler TLS: %s
-fffff
-fffffff
 fflush
 fgt_user_event
 fputs
 frame
+free
 fsync
 function_node
-g0e0*
 gb[TMF?81*#
 getenv
 graph
-h]A]_^
-http://OCSP.intel.com/0
-http://ocsp.comodoca.com05
-http://ocsp.quovadisglobal.com05
-http://ocsp.quovadisglobal.com07
+heap
 indexer_node
-ineIA
 input_port
 input_port_0
 input_port_1
@@ -1041,35 +719,27 @@ input_port_8
 input_port_9
 invalid key
 irml.dll
-j0h03
 join_node (queueing)
 join_node (reserving)
 join_node (tag_matching)
-k?R^ 
-l$ @2
-l$ D+
-l$ E3
-l$ I;
-l$HHc
 libittnotify.dll
 limiter_node
 lstrcmpA
 malloc
+mark
 memcpy
 memset
 model
 multifunction_node
 mutex::scoped_lock: deadlock caused by attempt to reacquire held mutex
 my_param < global_control::parameter_max
-ntelE
+node
+null
 num_resource_strings
 number_of_threads for task_scheduler_init must be automatic or positive
 number_of_threads==automatic || number_of_threads > 0
-oD$ H
 object_name
 opencl_node
-optimization_report
-optimization_report_version
 or_node
 output_port
 output_port_0
@@ -1083,11 +753,7 @@ output_port_7
 output_port_8
 output_port_9
 overwrite_node
-pA_A^A]A\_^[
-p]A_A^A]_
-p]A__
 param < global_control::parameter_max
-phDQcY
 priority_queue_node
 private
 queue_node
@@ -1110,16 +776,7 @@ strspn
 structure
 suppress
 swap() is invalid on non-equal allocators
-t A;Xpu
-t$ E3
-t$ Mc
-t$(E3
-t$0fI
-t$@E3
-t$HL;
-t3 E3
-t;HcL$xI
-tCA;zpu
+sync
 task_scheduler_init already initialized
 task_scheduler_init::terminate without corresponding task_scheduler_init::initialize()
 tbb.dll
@@ -1138,32 +795,8 @@ tbb_thread::detach
 tbbmalloc.dll
 terminate
 thread
-thread_monitor::launch: _beginthreadex failed
-tiH;}
-timestamp.intel.com
-timestamp.intel.com0
-uCH;{
-vYL;e
-wA_A^A]A\_^
+thread_monitor::launch: _beginthreadex failed\n
 wait() was not called on the structured_task_group
 wcscmp
 write_once_node
-x AVH
 xl`TH<-
-y ;}@
-y ;}X
-|$ AVH
-|$ E2
-|$ H;
-|$$Genuu
-|$(E3
-|$(ntelu
-|$,ineIu
-|$@E3
-|$@M;
-|$@fH
-|{tpL;
-}HPSQRWL
-~oT$ 
-~o\$@
-~od$`

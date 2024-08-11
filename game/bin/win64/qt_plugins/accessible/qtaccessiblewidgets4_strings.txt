@@ -1,30 +1,12 @@
-	!?pixmap@QLabel@@QEBAPEBVQPixmap@@XZ
-	0?state@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4StateFlag@QAccessible@@@@H@Z
-	?inherits@QObject@@QEBA_NPEBD@Z
-	?insert@QString@@QEAAAEAV1@HVQChar@@@Z
-	?intersects@QRect@@QEBA_NAEBV1@@Z
-	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- .rsrc
  /?size@QPixmap@@QEBA?AVQSize@@XZ
  ?parentWidget@QWidget@@QEBAPEAV1@XZ
  ?paste@QTextEdit@@QEAAXXZ
  ?pasteText@QAccessibleSimpleEditableTextInterface@@UEAAXH@Z
  ?picture@QLabel@@QEBAPEBVQPicture@@XZ
- A]A\^
- A]A\_
- A^A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
@@ -33,24 +15,19 @@
  delete
  delete[]
  for 
- new[]
- t?D9
+ new
  throw(
  volatile
 !?previous@QTextBlock@@QEBA?AV1@XZ
 !?qTextAfterOffsetFromString@@YA?AVQString@@HW4BoundaryType@QAccessible2@@PEAH1AEBV1@@Z
 !?qTextAtOffsetFromString@@YA?AVQString@@HW4BoundaryType@QAccessible2@@PEAH1AEBV1@@Z
 !?qTextBeforeOffsetFromString@@YA?AVQString@@HW4BoundaryType@QAccessible2@@PEAH1AEBV1@@Z
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
 "?qt_accHotKey@@YA?AVQString@@AEBV1@@Z
 "?qt_accStripAmp@@YA?AVQString@@AEBV1@@Z
 "?qt_metacast@QAccessiblePlugin@@UEAAPEAXPEBD@Z
 #?qt_qscrollbarStyleOption@@YA?AVQStyleOptionSlider@@PEAVQScrollBar@@@Z
 #?qt_qsliderStyleOption@@YA?AVQStyleOptionSlider@@PEAVQSlider@@@Z
+#\f?number@QString@@SA?AV1@NDH@Z
 $?rect@QAccessibleWidgetEx@@UEBA?AVQRect@@H@Z
 $?rect@QWidget@@QEBA?AVQRect@@XZ
 $?red@QColor@@QEBAHXZ
@@ -80,40 +57,13 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 &?selectionStart@QLineEdit@@QEBAHXZ
 &?selectionStart@QTextCursor@@QEBAHXZ
 '?setChecked@QGroupBox@@QEAAX_N@Z
-(4j*(
 (?setDown@QAbstractButton@@QEAAX_N@Z
-(Aj*(
-(D$ A
-(D$ H
-(D$ f
-(D$0f
-(D$@H
-(D$@f
-(aj*(dj+(
-(ej*(
-(ej*(Richdj*(
-(fj*(
-(ij*(
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$ H
-(t$0H
-(t$@D
-)D$ H
-)t$ A
-)t$0I
-)t$0f
-)t$@E
 *'?setActiveAction@QMenu@@QEAAXPEAVQAction@@@Z
 *0?staticMetaObject@QComboBox@@2UQMetaObject@@B
 *?setItemText@QToolBox@@QEAAXHAEBVQString@@@Z
 +'?setActiveAction@QMenuBar@@QEAAXPEAVQAction@@@Z
 +?setPosition@QTextCursor@@QEAAXHW4MoveMode@1@@Z
++\f?objectName@QObject@@QEBA?AVQString@@XZ
 ,<ellipsis>
 ,?setSelection@QLineEdit@@QEAAXHH@Z
 -64OS
@@ -200,9 +150,7 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 .?shortcut@QAction@@QEBA?AVQKeySequence@@XZ
 .?showMenu@QPushButton@@QEAAXXZ
 .?showMenu@QToolButton@@QEAAXXZ
-.pdata
-.text
-/L9\$ t
+/\f?averageCharWidth@QFontMetrics@@QEBAHXZ
 0?state@QAccessibleWidget@@UEBA?AV?$QFlags@W4StateFlag@QAccessible@@@@H@Z
 0?staticMetaObject@QAbstractButton@@2UQMetaObject@@B
 0?staticMetaObject@QAbstractItemView@@2UQMetaObject@@B
@@ -219,18 +167,6 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 0?staticMetaObject@QToolButton@@2UQMetaObject@@B
 0?staticMetaObject@QTreeView@@2UQMetaObject@@B
 0?staticMetaObject@QWorkspace@@2UQMetaObject@@B
-0A\_[
-0A\_^
-0A\_^H
-0A\_^][
-0A]A\]
-0A]A\_^]
-0A^A]A\
-0A^][
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
 1#IND
 1#INF
 1#QNAN
@@ -254,6 +190,7 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 2?text@QTextBlock@@QEBA?AVQString@@XZ
 2?textCursor@QPlainTextEdit@@QEBA?AVQTextCursor@@XZ
 2?textCursor@QTextEdit@@QEBA?AVQTextCursor@@XZ
+2\vp0
 3?textLength@QTextLine@@QEBAHXZ
 3?textStart@QTextLine@@QEBAHXZ
 3?toString@QKeySequence@@QEBA?AVQString@@W4SequenceFormat@1@@Z
@@ -272,8 +209,6 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 4?tr@QTabBar@@SA?AVQString@@PEBD0@Z
 5?tr@QToolButton@@SA?AVQString@@PEBD0@Z
 70?staticMetaObject@QDockWidgetLayout@@2UQMetaObject@@B
-7;|$0t,
-7?underline@QFont@@QEBA_NXZ
 7?userActionCount@QAccessibleObjectEx@@UEBAHH@Z
 7?userActionCount@QAccessibleWidget@@UEBAHH@Z
 7?validator@QLineEdit@@QEBAPEBVQValidator@@XZ
@@ -287,12 +222,6 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 7?verticalScrollBar@QAbstractScrollArea@@QEBAPEAVQScrollBar@@XZ
 7?view@QComboBox@@QEBAPEAVQAbstractItemView@@XZ
 7?viewIndex@QTreeViewPrivate@@QEBAHAEBVQModelIndex@@@Z
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
 8?viewport@QAbstractScrollArea@@QEBAPEAVQWidget@@XZ
 8?virtual_hook@QAccessibleInterfaceEx@@UEAA?AVQVariant@@AEBV2@@Z
 8?visualIndex@QListView@@AEBAHAEBVQModelIndex@@@Z
@@ -304,47 +233,12 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 8?x@QWidget@@QEBAHXZ
 8?y@QTextLine@@QEBANXZ
 8?y@QWidget@@QEBAHXZ
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8D$8t
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9D$@| 9D$D|
-9L$(u'H
-9L$,u
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <ellipsis>
 <unknown>
-<z~$<A|
 =8?whatsThis@QAction@@QEBA?AVQString@@XZ
->	?grow@QVectorData@@SAHHHH_N@Z
+=\f?background@QTextFormat@@QEBA?AVQBrush@@XZ
 >0?staticMetaObject@QFocusFrame@@2UQMetaObject@@B
+>\t?grow@QVectorData@@SAHHHH_N@Z
 ??0?$QVector@VQPointF@@@@QEAA@H@Z
 ??0QAccessibleInterfaceEx@@QEAA@XZ
 ??0QAccessibleObjectEx@@QEAA@PEAVQObject@@@Z
@@ -440,53 +334,18 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 ??_7QAccessibleTable2Interface@@6B@
 ??_7QAccessibleTextInterface@@6B@
 ??_7QAccessibleValueInterface@@6B@
-?CuND8g
 ?SpeedoMeter
-?accessibleDescription@QWidget@@QEBA?AVQString@@XZ
-?accessibleName@QWidget@@QEBA?AVQString@@XZ
-?actionAt@QMenu@@QEBAPEAVQAction@@AEBVQPoint@@@Z
-?actionGeometry@QMenu@@QEBA?AVQRect@@PEAVQAction@@@Z
-?actionGeometry@QMenuBar@@QEBA?AVQRect@@PEAVQAction@@@Z
-?actionText@QAccessibleWidget@@UEBA?AVQString@@HW4Text@QAccessible@@H@Z
-?actionText@QAccessibleWidgetEx@@UEBA?AVQString@@HW4Text@QAccessible@@H@Z
-?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
-?activate@QAction@@QEAAXW4ActionEvent@1@@Z
-?activeAction@QMenu@@QEBAPEAVQAction@@XZ
-?activeAction@QMenuBar@@QEBAPEAVQAction@@XZ
-?activeSubWindow@QMdiArea@@QEBAPEAVQMdiSubWindow@@XZ
-?activeWindow@QWorkspace@@QEBAPEAVQWidget@@XZ
-?addControllingSignal@QAccessibleWidgetEx@@IEAAXAEBVQString@@@Z
 ?addGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
-?alignment@QTextBlockFormat@@QEBA?AV?$QFlags@W4AlignmentFlag@Qt@@@@XZ
 ?allocate@QVectorData@@SAPEAU1@HH@Z
 ?allocateNode@QHashData@@QEAAPEAXH@Z
-?animateClick@QAbstractButton@@QEAAXH@Z
 ?append@QListData@@QEAAPEAPEAXXZ
 ?append@QString@@QEAAAEAV1@AEBV1@@Z
 ?append@QString@@QEAAAEAV1@PEBD@Z
 ?append@QString@@QEAAAEAV1@VQChar@@@Z
 ?arg@QString@@QEBA?AV1@HHHAEBVQChar@@@Z
-?autoRaise@QToolButton@@QEBA_NXZ
-?averageCharWidth@QFontMetrics@@QEBAHXZ
-?background@QTextFormat@@QEBA?AVQBrush@@XZ
-?begin@QTextDocument@@QEBA?AVQTextBlock@@XZ
-?block@QTextCursor@@QEBA?AVQTextBlock@@XZ
-?blockCount@QTextDocument@@QEBAHXZ
-?blockFormat@QTextBlock@@QEBA?AVQTextBlockFormat@@XZ
-?blockFormat@QTextCursor@@QEBA?AVQTextBlockFormat@@XZ
-?blue@QColor@@QEBAHXZ
-?boundingRect@QPolygonF@@QEBA?AVQRectF@@XZ
-?buddy@QLabel@@QEBAPEAVQWidget@@XZ
 ?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
-?cast_helper@QAccessibleInterface@@AEAAPEAVQAccessible2Interface@@W4InterfaceType@QAccessible2@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
-?charFormat@QTextCursor@@QEBA?AVQTextCharFormat@@XZ
-?checkState@QCheckBox@@QEBA?AW4CheckState@Qt@@XZ
 ?child@QModelIndex@@QEBA?AV1@HH@Z
-?childAt@QAccessibleWidget@@UEBAHHH@Z
-?childAt@QAccessibleWidgetEx@@UEBAHHH@Z
-?childCount@QAccessibleWidget@@UEBAHXZ
-?childCount@QAccessibleWidgetEx@@UEBAHXZ
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?children@QObject@@QEBAAEBV?$QList@PEAVQObject@@@@XZ
 ?clearSelection@QTextCursor@@QEAAXXZ
@@ -616,9 +475,7 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 ?isTristate@QCheckBox@@QEBA_NXZ
 ?isValid@QAccessibleObject@@UEBA_NXZ
 ?isValid@QAccessibleObjectEx@@UEBA_NXZ
-?isValid@QPersistentModelIndex@@QEBA_NXZ
 ?isVisible@QAction@@QEBA_NXZ
-?isWidgetType@QObject@@QEBA_NXZ
 ?isWindow@QWidget@@QEBA_NXZ
 ?itemText@QToolBox@@QEBA?AVQString@@H@Z
 ?layout@QTextBlock@@QEBAPEAVQTextLayout@@XZ
@@ -639,40 +496,21 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 ?menu@QToolButton@@QEBAPEAVQMenu@@XZ
 ?menuAction@QMenu@@QEBAPEAVQAction@@XZ
 ?metaObject@QAccessiblePlugin@@UEBAPEBUQMetaObject@@XZ
-?mid@QString@@QEBA?AV1@HH@Z
 ?minimum@QAbstractSlider@@QEBAHXZ
 ?minimum@QDoubleSpinBox@@QEBANXZ
 ?minimum@QProgressBar@@QEBAHXZ
 ?minimum@QSpinBox@@QEBAHXZ
 ?model@QAbstractItemView@@QEBAPEAVQAbstractItemModel@@XZ
-?model@QPersistentModelIndex@@QEBAPEBVQAbstractItemModel@@XZ
 ?movePosition@QTextCursor@@QEAA_NW4MoveOperation@1@W4MoveMode@1@H@Z
-?moveTopLeft@QRect@@QEAAXAEBVQPoint@@@Z
 ?movie@QLabel@@QEBAPEAVQMovie@@XZ
 ?navigate@QAccessibleWidget@@UEBAHW4RelationFlag@QAccessible@@HPEAPEAVQAccessibleInterface@@@Z
 ?navigate@QAccessibleWidgetEx@@UEBAHW4RelationFlag@QAccessible@@HPEAPEAVQAccessibleInterface@@@Z
 ?next@QTextBlock@@QEBA?AV1@XZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
 ?notchesVisible@QDial@@QEBA_NXZ
-?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
-?number@QString@@SA?AV1@HH@Z
-?number@QString@@SA?AV1@NDH@Z
 ?object@QAccessibleObject@@UEBAPEAVQObject@@XZ
 ?object@QAccessibleObjectEx@@UEBAPEAVQObject@@XZ
-?objectName@QObject@@QEBA?AVQString@@XZ
 ?orientation@QAbstractSlider@@QEBA?AW4Orientation@Qt@@XZ
 ?orientation@QHeaderView@@QEBA?AW4Orientation@Qt@@XZ
-?parent@QModelIndex@@QEBA?AV1@XZ
-?parent@QObject@@QEBAPEAV1@XZ
-?parent@QPersistentModelIndex@@QEBA?AVQModelIndex@@XZ
-?previousNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
-?qDebug@@YA?AVQDebug@@XZ
-?qDebug@@YAXPEBDZZ
-?qFree@@YAXPEAX@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
-?qWarning@@YA?AVQDebug@@XZ
-?qWarning@@YAXPEBDZZ
 ?realloc@QListData@@QEAAXH@Z
 ?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
 ?registerType@QMetaType@@SAHPEBDP6AXPEAX@ZP6APEAXPEBX@Z@Z
@@ -701,130 +539,29 @@ $?relationTo@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4RelationFlag@QAccessible@@@@
 ?type@QVariant@@QEBA?AW4Type@1@XZ
 ?userType@QVariant@@QEBAHXZ
 ?willGrow@QHashData@@QEAA_NXZ
-@ A+@
-@.data
-@.reloc
-@8t$8t
-@8|$8t
-@A\_^
-@A]A\]
-@A]A\_^]
-@A^A\[
-@A^A\_
-@A^A]A\
-@A^A]A\_^
-@A_A^A]A\_
-@SATAVH
-@SUAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@SVWH
-@SWATH
-@UATAUAVAWH
-@UATAUH
-@USVWATAUAVAWH
-@USVWATAUH
-@USVWH
-@UVWATAUAVAWH
-@UVWH
-@VWATAUAVH
-@VWATH
-@text
-A D+I
-A9	u<A
-A9	uxA
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-A\_^][
-A]A\]
-A]A\_
-A]A\_^[]
-A]A\_^]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 AccessibleTextEdit::scrollToSubstring failed!
 Activate
 Activate the tab
 April
 August
-B(I9A(u
-C E+C
-C09/|&9o
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\accessible\qtaccessiblewidgets4.pdb
 Check
 Clicks the button.
 Close
 Close the tab
 CorExitProcess
-D$ E3
-D$ HcP
-D$ Lc@
-D$&8\$&t-8X
-D$(E3
-D$,A+
-D$8E3
-D$8HcH
-D$<9D$4
-D$DE3
-D$HH9D$@t
-D$P+J
-D$PL9oXt
-D$XE3
-D$\+J
-D$`9D$8|y9D$<|sH9D$HtlH
-D$hH9D$`t
-D$hHcP
-D$p H
-D$xI;
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8i t
-D8t$ t
-D9d$ 
-D9l$0
-D9l$4
-D;+t1
-D;I(~m
 December
 DecodePointer
 DeleteCriticalSection
-D{dj*(dj*(dj*(m
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-EhH9E`t
+Dock
+E\r?cast_helper@QAccessibleInterface@@AEAAPEAVQAccessible2Interface@@W4InterfaceType@QAccessible2@@@Z
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
 Execute
 ExitProcess
 F!?popupMode@QToolButton@@QEBA?AW4ToolButtonPopupMode@1@XZ
-F0HcH
 FatalAppExitA
 February
 Float
@@ -835,8 +572,7 @@ FlsSetValue
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G0Hc	H
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -867,28 +603,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H UVWATAUAVAWH
-H(H9J(u
-H+M0x
-H93t=H
-H9;t6H
-H9;t8H
-H9;t=H
-H9D$8u
-H9D$Pt
-H9E u
-H9F u
-H9L$0u
-H9L$Xt'H
-H9t$p
-H;T$@
 HH:mm:ss
-HcC H
-HcD$8H
-HcH<H
-HcO H
-HcT$8McJ
-Hct$@H
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -896,48 +612,18 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-HhuSH
-I94$tt
-IcRlH
-IcqHH
-IcqHI
 InitializeCriticalSectionAndSpinCount
 Interface is not valid
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
 January
-K0HcQ
-K0LcY
+July
+June
 K3?title@QGroupBox@@QEBA?AVQString@@XZ
 KERNEL32.dll
-L!l$HL!l$@
-L$ E3
-L$ H3
-L$ HcQ
-L$ SUVWH
-L$(H;
-L$,9L$$
-L$0<`t
-L$0D+
-L$0E3
-L$0H;
-L$0ff
-L$8H3
-L$8H;
-L$@;|
-L$@E3
-L$@HcA
-L$@LcA
-L$HH3
-L$PE3
-L$PH3
-L$XHcQ
-L$`H3
-L$pH3
 L%1, %2 of %3 with %4
 L3?title@QMenu@@QEBA?AVQString@@XZ
-L9l$@
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -945,34 +631,23 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-Lc!E3
-LcA<E3
-LcKlM
-Lc\$8HcJ
-Lc\$8McJ
 LeaveCriticalSection
+Less
 Line down
 Line up
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
-MXHcQ
 March
-Mc,$E
-McClH
 MessageBoxW
 Monday
+More
 MultiByteToWideChar
+NKeb
+NULL
 Norwegian-Nynorsk
 November
-O0HcQ
 October
-PA\_^
-PA]A\_^]
-PA^A]A\_^][
-PA_A^A]A\_^]
+Open
 Page down
 Page left
 Page right
@@ -1040,7 +715,6 @@ QtCore4.dll
 QtGui4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
-R	p8b
 RSDS&
 RaiseException
 Requested invalid tree cell: 
@@ -1049,9 +723,7 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-SUVWATH
-SUVWH
-SVWATAUAVAWH
+S;uD
 Saturday
 Scroll Left
 Scroll Right
@@ -1065,69 +737,87 @@ Sleep
 SliderHandle
 Sunday
 SystemFunction036
-T$ E3
-T$0E3
-T$4D+
-T$@E3
-T$H+x
-T$HE3
-T$PE3
-T$XE3
-T$pE3
 T2?tabCloseRequested@QTabBar@@IEAAXH@Z
 TerminateProcess
 Thursday
 Toggle
 Toggles the button.
 Tuesday
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAUH
 UUUUUU
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 Uncheck
 UnhandledExceptionFilter
 Unknown exception
 V8?widget@QAccessibleWidgetEx@@IEBAPEAVQWidget@@XZ
-VWATAUAVH
-VWATH
 W!?pos@QWidget@@QEBA?AVQPoint@@XZ
 WARNING QAccessibleTable2::indexOfChild Fix my children...
 WARNING QAccessibleTable2::indexOfChild invalid child
-WATAUAVAWH
-WATAUH
-WATAVH
 Wednesday
 WideCharToMultiByte
 WriteFile
 X(?setCurrentIndex@QAbstractItemView@@QEAAXAEBVQModelIndex@@@Z
 X8?widget@QDockWidget@@QEBAPEAVQWidget@@XZ
-XA]A\_^[]
 Z$?queryAccessibleInterface@QAccessible@@SAPEAVQAccessibleInterface@@PEAVQObject@@@Z
 [4?tr@QGroupBox@@SA?AVQString@@PEBD0@Z
+[\f?parent@QModelIndex@@QEBA?AV1@XZ
 [thunk]:
-\$ H;
-\$ UVWATAUAVAWH
-\$ WH
-\$(D9\$ 
-\$0H;
-\$0HcJ
-\$0IcH
-\$8D9\$0
-\$8L3
-\$@Hc
-\$`9\$8|u9\$<|oH9\$HthH
-\$`Ic
-\$xMcK
 \'?setAttributes@QAccessibleSimpleEditableTextInterface@@UEAAXHHAEBVQString@@@Z
+\\f?parent@QObject@@QEBAPEAV1@XZ
+\f?autoRaise@QToolButton@@QEBA_NXZ
+\f?blockCount@QTextDocument@@QEBAHXZ
+\f?blockFormat@QTextBlock@@QEBA?AVQTextBlockFormat@@XZ
+\f?blockFormat@QTextCursor@@QEBA?AVQTextBlockFormat@@XZ
+\f?blue@QColor@@QEBAHXZ
+\f?boundingRect@QPolygonF@@QEBA?AVQRectF@@XZ
+\f?buddy@QLabel@@QEBAPEAVQWidget@@XZ
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
+\f?number@QString@@SA?AV1@HH@Z
+\f?previousNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?qDebug@@YA?AVQDebug@@XZ
+\f?qDebug@@YAXPEBDZZ
+\f?qFree@@YAXPEAX@Z
+\n?accessibleDescription@QWidget@@QEBA?AVQString@@XZ
+\n?accessibleName@QWidget@@QEBA?AVQString@@XZ
+\n?actionAt@QMenu@@QEBAPEAVQAction@@AEBVQPoint@@@Z
+\n?actionGeometry@QMenu@@QEBA?AVQRect@@PEAVQAction@@@Z
+\n?actionGeometry@QMenuBar@@QEBA?AVQRect@@PEAVQAction@@@Z
+\n?actionText@QAccessibleWidget@@UEBA?AVQString@@HW4Text@QAccessible@@H@Z
+\n?actionText@QAccessibleWidgetEx@@UEBA?AVQString@@HW4Text@QAccessible@@H@Z
+\n?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
+\n?activate@QAction@@QEAAXW4ActionEvent@1@@Z
+\n?activeAction@QMenu@@QEBAPEAVQAction@@XZ
+\n?activeAction@QMenuBar@@QEBAPEAVQAction@@XZ
+\n?activeSubWindow@QMdiArea@@QEBAPEAVQMdiSubWindow@@XZ
+\n?activeWindow@QWorkspace@@QEBAPEAVQWidget@@XZ
+\n?isValid@QPersistentModelIndex@@QEBA_NXZ
+\n?isWidgetType@QObject@@QEBA_NXZ
+\r?charFormat@QTextCursor@@QEBA?AVQTextCharFormat@@XZ
+\r?checkState@QCheckBox@@QEBA?AW4CheckState@Qt@@XZ
+\r?childAt@QAccessibleWidget@@UEBAHHH@Z
+\r?childAt@QAccessibleWidgetEx@@UEBAHHH@Z
+\r?childCount@QAccessibleWidget@@UEBAHXZ
+\r?childCount@QAccessibleWidgetEx@@UEBAHXZ
+\r?qWarning@@YA?AVQDebug@@XZ
+\r?qWarning@@YAXPEBDZZ
+\rR\tp8b
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\t!?pixmap@QLabel@@QEBAPEBVQPixmap@@XZ
+\t0?state@QAccessibleWidgetEx@@UEBA?AV?$QFlags@W4StateFlag@QAccessible@@@@H@Z
+\t?inherits@QObject@@QEBA_NPEBD@Z
+\t?insert@QString@@QEAAAEAV1@HVQChar@@@Z
+\t?intersects@QRect@@QEBA_NAEBV1@@Z
+\t?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+\v7?underline@QFont@@QEBA_NXZ
+\v?addControllingSignal@QAccessibleWidgetEx@@IEAAXAEBVQString@@@Z
+\v?alignment@QTextBlockFormat@@QEBA?AV?$QFlags@W4AlignmentFlag@Qt@@@@XZ
+\v?animateClick@QAbstractButton@@QEAAXH@Z
+\v?mid@QString@@QEBA?AV1@HH@Z
+\v?model@QPersistentModelIndex@@QEBAPEBVQAbstractItemModel@@XZ
+\v?moveTopLeft@QRect@@QEAAXAEBVQPoint@@@Z
 ]0?staticMetaObject@QHeaderView@@2UQMetaObject@@B
+]\f?parent@QPersistentModelIndex@@QEBA?AVQModelIndex@@XZ
 ^!?position@QTextBlock@@QEBAHXZ
 ^(?setCurrentIndex@QTabBar@@QEAAXH@Z
 _!?position@QTextCursor@@QEBAHXZ
@@ -1148,17 +838,11 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
 _q_ensureVisible
-` AUH
-`.rdata
-`A\_]
-`A]A\_^]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1204,12 +888,15 @@ _q_ensureVisible
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
-a D+a
+a\f?begin@QTextDocument@@QEBA?AVQTextBlock@@XZ
 abcdefghijklmnopqrstuvwxyz
+acos
 america
 american
 american english
 american-english
+asin
+atan
 atan2
 australian
 b!?position@QTextLayout@@QEBA?AVQPointF@@XZ
@@ -1218,12 +905,14 @@ background-color
 bad exception
 baseline
 belgian
+bold
+bool
 britain
-buildkey=Windows x64 msvc release full-config
-c AUH
 c8?widget@QStackedWidget@@QEBAPEAVQWidget@@H@Z
 canadian
+ceil
 center
+char
 char 
 china
 chinese
@@ -1240,17 +929,10 @@ cointerface
 color
 const
 const 
+cosf
+cosh
 czech
-d$ E3
-d$ IcD$
-d$ UH
-d$8E3
-d$8H+
-d$@IcD$
-d$hIcD$
-d$pE3
 dddd, MMMM dd, yyyy
-debug=false
 double
 dutch-belgian
 e+000
@@ -1271,14 +953,10 @@ english-us
 english-usa
 enum 
 extern "C" 
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
-ffffff
-fffffff
+fabs
 float
 floor
+fmod
 font-family
 font-size
 font-style
@@ -1293,35 +971,28 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
 holland
 hong-kong
+int 
 irish-english
 italian-swiss
 italic
 j0?staticMetaObject@QLCDNumber@@2UQMetaObject@@B
 k0?staticMetaObject@QLabel@@2UQMetaObject@@B
-l$ D!
-l$ E3
-l$ IcE
-l$ VATAUH
-l$ WH
-l$(LcnlL
-l$0fD
-l$@@2
-l$PHcE
-l$hHcE
-l$xHcE
+kU'9
 l2?tabText@QTabBar@@QEBA?AVQString@@H@Z
 ldexp
+left
 log10
+long
 long 
 maximum
 minimum
+modf
 n0?staticMetaObject@QLineEdit@@2UQMetaObject@@B
 new-zealand
+none
 normal
 norwegian
 norwegian-bokmal
@@ -1330,11 +1001,7 @@ o0?staticMetaObject@QListView@@2UQMetaObject@@B
 o8?widgetForRole@QDockWidgetLayout@@QEBAPEAVQWidget@@W4Role@1@@Z
 oblique
 operator
-p WATAUAVAWH
-p WATAUH
-pA^A]A\_^][
-pA_A^A]A\_^]
-pattern=QT_PLUGIN_VERIFICATION_DATA
+pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
 portuguese-brazilian
 pr china
 pr-china
@@ -1357,13 +1024,13 @@ r0?staticMetaObject@QMdiArea@@2UQMetaObject@@B
 returnPressed()
 rgb(%1,%2,%3)
 right
-s WATAUAVAWH
 s0?staticMetaObject@QMdiSubWindow@@2UQMetaObject@@B
-s\HcL$HH
 sectionClicked(int)
 short
 short 
 signed 
+sinf
+sinh
 slovak
 solid
 south africa
@@ -1389,105 +1056,47 @@ spanish-peru
 spanish-puerto rico
 spanish-uruguay
 spanish-venezuela
+sqrt
 static 
 std::nullptr_t
 struct 
 super
 swedish-finland
 swiss
-t$ @80
-t$ ATH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$@HcF
-t$@t#H
-t$HIc
-t$PH;]
-t$PIc
-t$`Ic
-t$xHcF
-t%fff
-t&ffffff
-t*HcO
-t0<@t
 t0?staticMetaObject@QMenu@@2UQMetaObject@@B
-t0fff
 t8?width@QFontMetrics@@QEBAHAEBVQString@@H@Z
-tHffff
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tb<A|M<P
+tanh
 template-parameter-
 text-align
 text-position
 text-underline-style
 textChanged(const QString&)
 tier0.dll
-tnLcV
 toggled(bool)
 trinidad & tobago
-u	A!A
-u"E9Q t
 u0?staticMetaObject@QMenuBar@@2UQMetaObject@@B
-u1!D$0
-u5E9Q t
-uNM9u
-uPHcF
-uQI91tLH
-uSD9L$PuLA
-uXHcF
-u_D9u
-u_HcH
-u`HcF
 union 
 united-kingdom
 united-states
 unsigned 
-uxD9D$PuSI
 value
 valueChanged(QString)
 valueChanged(double)
 valueChanged(int)
-version=4.8.3
 virtual 
+void
 void 
 volatile
 volatile 
 wchar_t
-x ATAUAVH
-x ATAUAWH
-x ATH
-x@fffff
-xA_A^A]A\_^[]
-x_^[]
-x_^][
 y3?toPlainText@QTextEdit@@QEBA?AVQString@@XZ
 z?aUY
+z\f?block@QTextCursor@@QEBA?AVQTextBlock@@XZ
 zc%C1
-zux!l$ E3
 {flat}
 {for 
-|!H9o
-|$ ATAUAVH
-|$ ATH
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$0H9
-|$@-D
-|$@-H
-|$HfA
-|$hIc
 |-?setText@QAccessibleObject@@UEAAXW4Text@QAccessible@@HAEBVQString@@@Z
-|RHcP
-|wHcP
-}($u-H
 }(?setCursorPosition@QLineEdit@@QEAAXH@Z
 }-?setText@QAccessibleObjectEx@@UEAAXW4Text@QAccessible@@HAEBVQString@@@Z
 }/?sliderPosition@QAbstractSlider@@QEBAHXZ
 ~$?rect@QAccessibleWidget@@UEBA?AVQRect@@H@Z
-~/8\$vt)H
-~ID;c
-~Zffff

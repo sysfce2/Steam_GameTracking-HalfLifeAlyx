@@ -1,137 +1,64 @@
-					
-						
-							
-								
-									
-												
-													
-																	
-																		
-																							
-																									
-																										
-																																
-																																						
-																																								
-																																															
-																																																			
                        
                           
                                                                         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
            =======*************=*******===========+++++++++++++++++++++
-           | malloc()   | free()     | realloc()  | realloc()  |           
+           | malloc()   | free()     | realloc()  | realloc()  |           \n
           <bookmark:application name="
           <bookmark:group>
-        </bookmark:applications>
-        </bookmark:groups>
-        <bookmark:applications>
-        <bookmark:groups>
-        <bookmark:private/>
+        </bookmark:applications>\n
+        </bookmark:groups>\n
+        <bookmark:applications>\n
+        <bookmark:groups>\n
+        <bookmark:private/>\n
         <mime:mime-type type="
-        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
        <bookmark:icon href="
-      </metadata>
-      </requestedPrivileges>
-      <metadata owner="http://freedesktop.org">
-      <requestedPrivileges>
-      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
-      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
-    </info>
-    </security>
-    <desc>
-    <info>
-    <security>
+      </metadata>\n
+      <metadata owner="http://freedesktop.org">\n
+    </info>\n
+    <info>\n
     <title>
-   >%6u | %10ld | %10ld | %10ld | %10ld |        ***
-  %s %s
-  %s [OPTION...]
-  -%c, --%-*s %s
+   >%6u | %10ld | %10ld | %10ld | %10ld |        ***\n
   -%c, --%s
-  --%-*s %s
-  --%s
-  --debug-log                    debug test logging output
-  --g-fatal-warnings             Make all warnings fatal
-  --help-%-*s %s
-  --verbose                      Run tests verbosely
-  -h, --help                     Show help options
-  -l                             List test cases available in a test executable
-  -m {perf|slow|thorough|quick}  Execute tests according to mode
-  -m {undefined|no-undefined}    Execute tests according to mode
-  -p TESTPATH                    Only start test cases matching TESTPATH
-  -q, --quiet                    Run tests quietly
-  -s TESTPATH                    Skip all tests matching TESTPATH
-  -seed=SEEDSTRING               Start tests with random seed SEEDSTRING
-  </bookmark>
-  </trustInfo>
+  --%-*s %s\n
+  --help-%-*s %s\n
+  </bookmark>\n
   <bookmark href="
-  <desc>
   <title>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
-  CloseHandle(%p) failed: %s
-  MsgWaitForMultipleObjectsEx(%d, %d)
+  CloseHandle(%p) failed: %s\n
+  MsgWaitForMultipleObjectsEx(%d, %d)\n
   ResetEvent(%p)
-  WSACloseEvent(%p) failed: %s
-  WSAEnumNetworkEvents(%d,0) sets events={%s}
-  WSAEventSelect(%d,%p,{%s})
-  WSAEventSelect(%d,%p,{})
-  WSAEventSelect(%d,NULL,{}) failed: %s
-  WaitForMultipleObjectsEx(%d, %d)
-  got event %p
-  n_bytes  | n_times by | n_times by | n_times by | n_times by | remaining 
-  revents={%s} condition={%s}
-  revents={%s} retval={%s}
-  setting last_events=0
-  setting revents=0
-  wait returns %ld%s
-  watch->pollfd.events:{%s} watch->pollfd.revents:{%s} channel->revents:{%s}
-  watch->pollfd.events={%s} watch->pollfd.revents={%s} channel->revents={%s}
- !"#$
- !"#$%%%%%%&&'()*+%%%%%%&&'()*+,,,,,,--./012RRRRRRRRRRRR3345566789::::;<=<=>?>@ABC>@ABCRRRRRDEFGHIJKLMNO
+  WSACloseEvent(%p) failed: %s\n
+  WSAEventSelect(%d,NULL,{}) failed: %s\n
+  WaitForMultipleObjectsEx(%d, %d)\n
+  got event %p\n
+  n_bytes  | n_times by | n_times by | n_times by | n_times by | remaining \n
+  wait returns %ld%s\n
  !"#$%&'()))*+,-./0123456789:;<=>?@ABBCDEFGHIGJKLLBMBBNOPQRSTUVWXYZ[\]^G___________________________________________________`___________________________________________________________________________________________________________________________________________________________________abccccccccdeefghijklmnopqrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstuvwxrstyzzzzzzzzzzzzzzzz{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{__|}~
  !"#$%&'()*+,-./0123
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- ""##$$%%&"#$%JJJJJJJJJJJJ'''JJJJ()*++++J,,,,--./0/1./0/1JJJJJ22/JJJJJJJJ3JJJ455JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ6677889996789JJJJJJJ::;;<<===:;<=JJJJJJJ>>??@@AAA>?@AJJJJJJJBBCCDDEEEBCDEJJJJJJJFFGGHHIIIFGHI
- # SKIP %s
- # TODO %s
+ # SKIP %s\n
+ # TODO %s\n
  (WAIT_FAILED)
  (WAIT_TIMEOUT)
- (msg)
  (recursed)
- --- none ---
- 1A H
- A\_]
- A^A\_
- A^A]A\_^
- A^^]
- A^_[
- A^_^
- A_A]_][
- A_A]_][H
- A_A^A\
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_][
- A_A^A]A\_^[
- A_A^A]A\_^]
- A_A^^
- A_A^^H
- A_A^_
- A__^
+ --- none ---\n
+ CON
+ CON\n
  FD thread=%#x
- FD thread=%#x buffer_condition:{%s}
- FD thread=%#x buffer_condition=%s
+ FD thread=%#x buffer_condition:{%s}\n  watch->pollfd.events:{%s} watch->pollfd.revents:{%s} channel->revents:{%s}
+ FD thread=%#x buffer_condition=%s\n  watch->pollfd.events={%s} watch->pollfd.revents={%s} channel->revents={%s}\n
+ MSG
+ MSG\n
  SOCK
  SOCK sock=%d
  WSASetEvent(%p)
- [%#I64x :
  after first tuple element
- all help
+ all help\n
  at end of dictionary entry
- blocks of | allocated  | freed      | allocated  | freed      | n_bytes   
+ blocks of | allocated  | freed      | allocated  | freed      | n_bytes   \n
  failed: %s
  or ')' to follow tuple element
  or ',' to follow dictionary entry key
@@ -140,12 +67,9 @@
  recv=%d
  runtime check failed: (
  send=%d
- setting revents=0
  sock=%d event=%p last_events has FD_WRITE
- tDE3
  to follow dictionary entry key
  to follow variant value
- uHA+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !(flags & G_SPAWN_DO_NOT_REAP_CHILD)
 !GVSB(builder)->expected_type || g_variant_is_of_type (value, GVSB(builder)->expected_type)
@@ -157,8 +81,6 @@
 !SOURCE_BLOCKED (source)
 !SOURCE_DESTROYED (child_source)
 !SOURCE_DESTROYED (source)
-!This program cannot be run in DOS mode.
-!\$0!\$(!\$ L
 !bparent || bparent->left == balance || bparent->right == balance
 !bparent || bparent->left == node || bparent->right == node
 !channel->do_encode || !channel->encoded_read_buf || channel->encoded_read_buf->len == 0
@@ -185,30 +107,19 @@
 !lock->writer_locked
 !parent || parent->left == node || parent->right == node
 !real->pool.exclusive || max_threads != -1
-!t$(H!t$ I
 " added="
 " count="
-" exec="
 " modified="
-" type="
 " visited="
 """"""""""""""=""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""=="""
 "###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################"###########################
-"#$(%
-"&)-159=A
-# End of %s tests
-# Start of %s tests
-# max perf: %s
-# min perf: %s
-# random seed: %s
-#%s%s
+# End of %s tests\n
+# Start of %s tests\n
+# max perf: %s\n
+# min perf: %s\n
+# random seed: %s\n
 #'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'/
 #'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'.
-#'#'#'0
-#fD9M
-$ hh@
-$D3D$
-%%%%%%%%%%
 %%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%==============BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=====ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ==ZZZZZZZZZZZZZZZ=____________________________==_=================================================================
 %+03d
@@ -231,35 +142,27 @@ $D3D$
 %.1f kB
 %02d:%02d
 %02d:%02d:%02d
-%10u | %10ld | %10ld | %10ld | %10ld |%+11ld
+%10u | %10ld | %10ld | %10ld | %10ld |%+11ld\n
 %4d-%02d-%02dT%02d:%02d:%02d.%06ldZ
 %4d-%02d-%02dT%02d:%02d:%02dZ
 %I64i
 %I64u
 %d-%02d-%02d
-%d-%d
-%s %d %s
 %s (%s, %d)
 %s bytes
 %s is NULL
-%s%*s %s
 %s%.16g
 %s%ld
-%s%s '%s'
-%s%s%s
 %s%s%s%s%s%s%s%s%s%s
 %s%sstring constant "%s"
 %s, expected %s%s%s
-%s-%s
 %s.XXXXXX
 %s: assertion '%s' failed
 %s: could not find handler with id '%d' for domain "%s"
 %s: failed to allocate %I64u bytes
 %s: input too large for Base64 encoding (%I64u chars)
 %s: overflow allocating %I64u*%I64u bytes
-%s:%d: 
-%s:read_helper_report: read %I64u...
-%s=%s
+%s:read_helper_report: read %I64u...\n
 %sACCEPT
 %sADDRESS_LIST_CHANGE
 %sCLOSE
@@ -267,6 +170,7 @@ $D3D$
 %sERR
 %sGROUP_QOS
 %sHUP
+%sIN
 %sNONBLOCK
 %sNVAL
 %sOOB
@@ -280,16 +184,12 @@ $D3D$
 %sWRITABLE
 %sWRITE
 %s[%ld]: GSlice: 
-%s[%s]
+%s\n  -%c, --%-*s %s\n
 %scharacter
 %scomment (%s)
 %snumber (%s)
 %sstring constant
 %u bytes
-%u5H;
-&#x%x;
-&&&&&
-&&&&&&&&&&
 &&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&=====================================
@@ -309,24 +209,15 @@ $D3D$
 ( 8PX
 (%s == (%s, %d)): 
 (%s == NULL): 
-(%s:%lu): 
 ('8PW
-((((((
-(((((((
-(((((((((
 ((GKeyFileGroup *) group_node->data)->name == NULL
 (*MARK) must have an argument
 (*VERB) not recognized
 (*VERB) not recognized or malformed
 (?R or (?[+-]digits must be followed by )
-(A^_^[
-(A_A]A\_
-(A_A^A]A\_^][
 (C)<<(R)>> 1/4  1/2  3/4 AEOEssaeoeIJij'nLJLjljNJNjnjDZDzdz--,,.....`````!!???!C=RsEURa/ca/sc/oc/uNoTEL(TM)Ohm 1/3  2/3  1/5  2/5  3/5  4/5  1/6  5/6  1/8  3/8  5/8  7/8 IIIIIIVVIVIIVIIIIXXIXIIiiiiiivviviiviiiixxixii<--><-><==><=>>=<<<>>>NULSOHSTXETXEOTENQACKBELBSHTLFVTFFCRSIDLEDC1DC2DC3DC4NAKSYNETBCANEMSUBESCFSGSUSSPDELNL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)(20)1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)(k)(l)(m)(n)(o)(p)(q)(r)(s)(t)(u)(v)(w)(x)(y)(z)(A)(B)(D)(E)(F)(G)(H)(I)(J)(K)(L)(M)(N)(O)(P)(Q)(S)(T)(U)(V)(W)(X)(Y)(Z)(0)::====(21)(22)(23)(24)(25)(26)(27)(28)(29)(30)(31)(32)(33)(34)(35)(36)(37)(38)(39)(40)(41)(42)(43)(44)(45)(46)(47)(48)(49)(50)hPadaAUbaroVpcpAnAuAmAkAMBGBcalkcalpFnFuFugmgkgHzkHzMHzGHzTHzulmldlklfmnmummmcmkmmm^2cm^2km^2mm^3cm^3km^3m/sm/s^2kPaMPaGParadrad/srad/s^2psnsusmspVnVuVmVkVMVpWnWuWmWkWMWa.m.BqcccdC/kgCo.dBGyhaHPinKKKMktlnloglxmbmilmolPHp.m.PPMPRSvWbfffiflfflstAAUEaaueYoO'TsChShYuYatschshyuyayoo'G'g'hehuhihEh'ah'uh'ih'Eh'oh'eaholelulilalEl'al'ul'il'El'ol'ealWaHeHuHiHaHEH'aH'uH'iH'EH'oH'eaHoHWamemamEm'am'um'im'Em'om'eamWa`se`su`si`sa`sE`s'a`s'u`s'i`s'E`s'o`s'ea`so`sWarerWarurirEr'ar'ur'ir'Er'or'eaxexuxaxEx'ax'ux'ix'Ex'ox'eaxoxWaqequqiqaqEq'aq'uq'iq'Eq'oq'eaqoqWeqWiqWaqWEqW'aqW'uqW'iqW'EqW'oqW'eaQeQuQiQaQEQ'aQ'uQ'iQ'EQ'oQ'eaQoQWeQWiQWaQWEQW'aQW'uQW'iQW'EQW'oQW'eabebubibEb'ab'ub'ib'Eb'ob'eabobWavevuvavEv'av'uv'iv'Ev'ov'eavovWatetutitatEt'at'ut'it'Et'ot'eatotWacecucicEc'ac'uc'ic'Ec'oc'eacocWa`he`hu`hi`ha`hE`h'a`h'u`h'i`h'E`h'o`h'ea`ho`hWe`hWi`hWa`hWEhW'ahW'uhW'ihW'EhW'ohW'eanenuninanEn'an'un'in'En'on'eanonWaNeNuNiNaN'aN'uN'iN'EN'oN'eaNWakekukikakEk'ak'uk'ik'Ek'ok'eakokWekWikWakWEkW'akW'ukW'ikW'EkW'okW'eaKeKuKiKaKEK'aK'uK'iK'EK'oK'eaKoKWeKWiKWaKWEKW'aKW'uKW'iKW'EKW'oKW'eawewWawuwiwawEw'aw'uw'iw'Ew'ow'eawo`e`u`i`a`E`I`ozezizazEz'az'uz'iz'Ez'oz'eazozWaZeZuZiZaZEZ'aZ'uZ'iZ'EZ'oZ'eaZoZWayeyiyEy'ay'uy'iy'Ey'oy'eadedudidEd'ad'ud'id'Ed'od'eadodWaDeDuDiDaD'aD'uD'iD'ED'oD'eaDoDWajejujijajEj'aj'uj'ij'Ej'oj'eajojWagegugigagEg'ag'ug'ig'Eg'og'eagogWegWigWagWEgW'agW'ugW'igW'EgW'ogW'eaGeGuGiGaGEG'aG'uG'iG'EG'oG'eaGoGWaTeTuTiTaT'aT'uT'iT'ET'oT'eaToTWaCeCuCiCaCEC'aC'uC'iC'EC'oC'eaCWaPePuPEP'aP'uP'iP'EP'oP'eaPoPWaSeSuSiSaSES'aS'uS'iS'ES'oS'eaSo`SWa`Se`Su`Si`Sa`SE`S'a`S'u`S'i`S'E`S'o`S'ea`SofefufafEf'af'uf'if'Ef'of'eafofWapepupipapEp'ap'up'ip'Ep'op'eapopWamYarYafYa-::-`?:|:`1`2`3`4`5`6`7`8`9`10`20`30`40`50`60`70`80`90`100`10000E^EEaEe^eEoEuEYEYIZHZGHZghKHTSCHYUYAzhzghkhA'E'I'O:U'U:a'e'i'o:u'u:O"o"U"u"ddDjGjKjdjgjkjYeUeOewwwjjj
-(D$ H
-(MAXPERF:%s)
-(MINPERF:%s)
-(MSG: %s)
+(MAXPERF:%s)\n
+(MINPERF:%s)\n
 (NULL) message
 (Ph$ $Phh$(
 (compile_options & ~G_REGEX_COMPILE_MASK) == 0
@@ -344,41 +235,15 @@ $D3D$
 (status != G_IO_STATUS_NORMAL) || (channel->encoded_read_buf->len > 0)
 (status == G_IO_STATUS_NORMAL) || (read_size == 0)
 (sys_page_size & (sys_page_size - 1)) == 0
-(t$ H
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$`I
 (test_flags & (G_TEST_TRAP_INHERIT_STDIN | G_TEST_TRAP_SILENCE_STDOUT | G_TEST_TRAP_SILENCE_STDERR)) == 0
 (unknown) token <%d>
-(|$0D
-(|$0H
 ) without opening (
-)<\u%I
-)D$ D
-)D$0H
-)D$0H9L$@
-)t$ H
-)t$0=
-)t$0H
-)t$0I
-)t$0M
-)t$`H
-)|$0H
 *** all tuples (%d)
 *** index %d
-*** key %p
-***MEMORY-ERROR***: 
 **str == '(' || **str == '{'
 **str == '{'
 *digest_len >= len
 *format == '%'
-,"<>w
-,%#o)=%d
-,%d-%d
-,',','
-,',',',','
 ,',',',','''''''}
 ,',',',',',','#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'#'
 ,',',',',',',',',',','
@@ -388,15 +253,6 @@ $D3D$
 ,',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',','''''
 ,',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',','
 ,',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',',' 
-,-<2w&H
-,-<2w;H
-,0<	v
-,0<	w
-,0<	w&
-,0<	w_
-,????*(??
-,D$hL
-,X< w
 --GTestLogFD
 --GTestLogFD=
 --GTestSkipCount
@@ -414,8 +270,7 @@ $D3D$
 --tap
 --verbose
 -64OS
--?, --help
-...got %d bytes
+...got %d bytes\n
 ..\..\..\glib\deprecated\grel.c
 ..\..\..\glib\garray.c
 ..\..\..\glib\gasyncqueue.c
@@ -472,268 +327,51 @@ $D3D$
 ..\..\..\glib\gvarianttype.c
 ..\..\..\glib\gvarianttypeinfo.c
 .XXXXXX
+.bat
 .cache
+.cmd
+.com
 .config
+.exe
 .exe;.cmd;.bat;.com
 .local
-.pdata
-.text
-/	D9v
 /.libs
 /subprocess
-/u/8L
 0 <= index
 0 <= index && index < 24
 0 <= remaining_days
+0(x3
 0123456789ABCDEF
 0123456789ABCDEF8
-0;_H|
-0A\^[
-0A\^]
-0A\_[
-0A]A\^
-0A^A]A\_^
-0A^A]A\_^H
-0A^][
-0A^^[
-0A^^]
-0A^_[
-0A^_]
-0A^_^
-0A^_^][
-0A_A\[
-0A_A\]
-0A_A\^
-0A_A\_
-0A_A\_^]
-0A_A]A\][
-0A_A]^][
-0A_A^A\
-0A_A^A\_]
-0A_A^A]
-0A_A^A]A\^
-0A_A^A]A\_
-0A_A^A]A\_][
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^][
-0A_A^[
-0A_A^]
-0A_A^^
-0A_A^_
-0A_A^_H
-0A_A^_^[
-0A_][
-0A__^][
-0D;vH
-0E;fH
-0HcBHE3
-0IcP$H+
-0L95bc
-0_^[H
 0x%02x
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-1..%d
-19--v
-3<]t:@:
-3D$(A3
-3L9.u
-3S<A3
-3\$(A
-3fD9 t
-3l$ A
-3l$(3|$
-3t$,A
-3t$0A#
+1'Q3
+2\np!k
+3 12
+3(y3
 48<@DHLPTX\`dh
-4Ct;f
-4IcP$H+
+5!z2
 6666666666666666\\\\\\\\\\\\\\\\p
-6<\t	</t
+7(z3
 700PP
 700WP
 7777777777777777777777777777==77[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[=[[[[[[[[[[[[[[[[[[[[[[[[[[[[[==[[[[[[[[[[[======[[[[[[[[[[======[[[[[[[[[[[[[[==
-7HcP$H
-8"u'H
-8"u,H
-8)t.f
-80tVD
-8A\_][
-8A]A\_]
-8A]^][
-8A^A]A\]
-8A^A]^]
-8A^_][
-8A_A\^[
-8A_A]A\_^[
-8A_A^
-8A_A^A\]
-8A_A^A\_
-8A_A^A]A\
-8A_A^A]A\^]
-8A_A^][
-8A_A^^]
-8A__^[
-8D$8t
-8H97tEH
-8H97tFH
-8HcAh
-8UXt$@
-8]	t	H
-8_^][
-8htBH
-8}t H
-8}tRH
-9$u0A
-9$u1A
-9$u5A
-9/u*M
-9/u.H
-9/u.M
-90u'A
-90u5A
-90|(H
-99~}L
-9:tBH
-9>v!H
-9>v0H
-9D$@t
-9D$Tt
-9ERCP
-9IcQ8I
-9L$p|
-9YH~,f
-9\$0uiD
-9\$@u
-9\$lu
-9\$pt
-9\$pt-H9
-9\$pu
-9\$xu
-9\$|u
-9_ ~t
-9_H~8
-9_H~=3
-9_H~>3
-9l$0t@9-
-9muAH
-9oXt0L
-9t$P~.8\$vt(H
-9t$P~98\$vt3H
-9t$xt
-9t$xtL
-9t$xu\A
-9wuME3
-9xt	I;
-9{ t]L
-9{@uY9{4u
-9{u	H
-9|$p|sI
-9|$p|{
-9|$p}
-9|$t|
-9|$t|x
+9 22
 :%02d
-:;, 	
-:LOG*}
-:{%s}
-:}t?A
-;)uuI
-;,0<	w5I
-;.u1L
-;:u;H
-;:ujH
-;;u	H
-;A(rvH
-;Cu1f9K
-;D$@u	A
-;IcQ8I
-;L$P}
-;\$@v
-;\$p|
-;oDuXHc
-;t$X|
-;t$`~
-;|$P|
-;|$P}
-<	wJH
-<	wKH
-<	wOH
-<	w[I
-<	wt+A
-< tD<	t@
-< w!H
-< w.I
 <!DOCTYPE
 <![CDATA[
-<"u"H
-<#w4H
-<%u4H
-<(tb<{t^L
-<(tl<{thL
-<(u	H
-<)t=<}u
-<*t/<?t
-<*tP<?tA
-<-u	A
-<.t@<
-<.tD<
-</assembly>
-</bookmark:group>
-</desc>
-</t9<\t5H
-</title>
+</bookmark:group>\n
+</title>\n
 </xbel>
-<0r&<9w
-<0r6<9w
-<7w,I
-<:t/3
-<:tB,0<	
-<:u,8C
-<<< hhlph$
-<<<<<
-<<<<<<< @
-<<t/<'t+<{t'L
-<=w(H
-<>wUH
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<B=u?f9tB
-<GM9&u
-<HcD$xH
-<HcL$xH
-<IcQ8I
-<IcR8I
-<\t&</t"H
-<\tO</tKH
-<\t]</tYH
-<\u H
-<\u7H
-<\uzH
-<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
-<atl<mthL
-<gvI<i
-<hu	H
-<it}<x
+<?xml version="1.0" encoding="UTF-8"?>\n<xbel version="1.0"\n      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"\n      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"\n>
 <memory>
-<mt <(t
-<mtp<vt\<{
 <unknown>
-<vt\<{
-<xbel version="1.0"
-<{uBA
-<{uaA
-<{uhH
 ==!!=!!!!!!!!!!!!!!!!!!===!!!!!!!!!!!!!!!!!!!!!!!!=!!!!!!!!!=!==!!!!!!!===!====!!!!!!=!=!!!!!!!!======!!!!!!!!!!==!!!============&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&====
 ===                                                                           
-=====
 =====((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((==========0000000000000000000000000000000=000000000000====000000000000====0===000000000000444444444444444444444444444444==44444===========66666666666666666666666666666666666666666666====66666666666666666666666666======66666666666===66
-======
-=======
-========
 =========,,,,,,,,,,,,,,,,,,,,============-------------=---=--============
 ==========##=######===###=####===##=#=##===##===###===############====#####===###=####==#======#==============#####################=====$$$$=$$$$$$$$=$$$=$$$$$$$$$$$$$$$$$$$$$$$=$$$$$$$$$$$$$$$$===$$$$$$$$=$$$=$$$$=======$$=$$======$$$$==$$$$$$$$$$========$$$$$$$$=
 ===========
@@ -743,266 +381,47 @@ $D3D$
 ================================''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''=''''''''''''''''''''''''''''''''''''===='''''''''''''''''''''''''''''''''''''''=''''''''''''''''''''''''''''''''''''='''''''''''''''='''''''
 =================================================
 =================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>====>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>===FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]========]]]]DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD===DDDDDDDDDDDDDDD===DDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII================================================================FFFFFFFF========
-===========|============|============|============|============|===========
->Hcy$H
-?-udHc
+===========|============|============|============|============|===========\n
 ?456789:;<=
-?:u*H
-?:u\H
 ??????????8  ,  8??????????????????????????    ? ??????????????????????????   ? 
-@ 3G 
-@ H90
-@.data
-@.reloc
-@.rsrc
-@0A;B4A
-@1A H
-@8(tkH
-@8,;u
-@8.tL
-@83t'
-@87tD
-@8l$8t
-@8l$Ht
-@8oXt
-@8t$8t
-@8t$`t9H
-@8{XtRL
-@8}gt3H
-@A\_^][
-@A^A\]
-@A^A]A\
-@A^A]A\_]
-@A^A]A\_^][
-@A^_^
-@A^_^][
-@A_A\_
-@A_A\_^[
-@A_A]A\
-@A_A][
-@A_A^A\
-@A_A^A\^[
-@A_A^A\_]
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A]A\_
-@A_A^[
-@A_A^_
-@A_^]
-@A__[
 @Cyrl
-@Hc	H
-@HcCHH
 @Latn
-@SATAUAWH
-@SATAWH
-@SAUAWH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAUAWH
-@SUAVAWH
-@SUAVH
-@SUAWH
-@SUVATAW
-@SUVAUAWH
-@SUVAUH
-@SUVH
-@SUVWATAUAVAW
-@SUVWATAUAVAWH
-@SUVWATAUAWH
-@SUVWATAVAWH
-@SUVWATAWH
-@SUVWATH
-@SUVWAUAVAWH
-@SUVWAV
-@SUVWAVH
-@SUVWAWH
-@SUVWH
-@SUWATAUAVAWH
-@SUWATH
-@SUWAUAWH
-@SUWAVAWH
-@SUWAVH
-@SUWH
-@SVATAVAWH
-@SVATAWH
-@SVATH
-@SVAVH
-@SVWATAUAVAWH
-@SVWATAWH
-@SVWAVAWH
-@SVWAVH
-@SVWAWH
-@SVWH
-@SWATAUAVAWH
-@SWATH
-@SWAUH
-@SWAVH
-@SWAWH
-@UATAUAVAWH
-@UATAUAVH
-@UATAVAWH
-@UATAVH
-@UATAWH
-@UAVAWH
-@UAVH
-@UAWH
-@USATAUH
-@USAWH
-@USVATAWH
-@USVAVAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAVAWH
-@USVWH
-@USWAUAVAWH
-@USWH
-@UVATAUAVAWH
-@UVATAVAWH
-@UVATAVH
-@UVATAWH
-@UVATH
-@UVAUAVH
-@UVAVAWH
-@UVAVH
-@UVWATAUAVAWH
-@UVWATAVAWH
-@UVWAUAVAWH
-@UVWAUAVH
-@UVWH
-@UWATAUAVH
-@UWATAVAWH
-@UWATH
-@UWAVH
-@VATAUAVH
-@VATAUH
-@VAUAWH
-@VAVH
-@VWATAVAWH
-@WATAUAWH
-@WATAVAWH
-@WATAWH
-@WAVAWH
-@WAVH
-@WAWH
-A 3G 
-A 3G %
-A 3G H
-A H9A@
 A NULL argument was passed to PCRE
 A bookmark for URI '%s' already exists
 A group named "%s" is already part of this GOptionContext
 A negative ovecsize was passed to PCRE
-A#FxH
-A(+A8
-A(+A8H
-A(;A8xO
-A(;A8y:H
-A(H9A@
-A*F0fA
-A*P0f
-A+F(L
-A,tAH
-A0 uAA
-A09A4~
-A81t@@8r
-A87teff
-A8>tT
-A8H9A
-A98~jH
-A99~.H
-A9>~j
-A9^pw
-A9w(u 
-A9y4u
-A9~xu	
-A:8uiI
-A;Ed~
-A;NxA
-A;P|~
-A;v|~
-A;|$`|
-A;|$`}
-A=A8B
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
 ACCEPT
-AD9C u1
-AD9C uWHcS
 ADVAPI32.dll
 ANSI_X3.4-1968
 ANSI_X3.4-1986
+ANY)
 ANYCRLF)
 APPEND
 ASCII
 ASMO-708
-ATAUAVAWH
-ATAUAVH
-ATAUAWH
-ATAVAWH
-AUAVAWH
-AVAWH
-AXH9P
-A\_^][
-A]A\[
-A]A\[]
-A^A\]
-A^A\^]
-A^A\_
-A^A]A\_[]
-A^A]A\_^[]
-A^A][]
-A^A]_^]
-A^_^][
-A_A\]
-A_A\^][
-A_A\_^][
-A_A^A\
-A_A^A\^]
-A_A^A\_^
-A_A^A\_^]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_[]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_[]
-A_A^A]_^]
-A_A^A]_^][
-A_A^]
-A_A^^[]
-A_A^^]
-A_A^_
-A_A^_^[
-A_A^_^]
-A` tbA
 Accessing a sequence while it is being sorted or searched is not allowed
 AcquireSRWLockExclusive
 AcquireSRWLockShared
-ApH9Ahr
 Application Options:
 April
 Arabic
 Arg list too long
 Armenian
-Assuming this is what you meant and acting accordingly.
+Assuming this is what you meant and acting accordingly.\n
 Attempt to access item %I64u in a container with only %I64u items
 Attribute '%s' of element '%s' not found
 August
-AuthA
 Avestan
+BIG5
 BSR_ANYCRLF)
 BSR_UNICODE)
 BUF_LEN (USE_BUF (channel)) != 0
-BXH9H
 Bad address
 Bad file descriptor
-Bail out!
+Bail out!\n
 Balinese
 Bamum
 Batak
@@ -1011,25 +430,14 @@ Bopomofo
 Brahmi
 Braille
 Broken pipe
-Buffer outside valid address space.
+Buffer outside valid address space.\n
 Bug Reference: %s
 Bug Reference: %s%s
 Buginese
 Buhid
-C	<au
-C H90u
-C t$3
-C t&3
-C(H9C
-C09C4|
-C09C4}6
-C0HcShH
-C@H9h
-C@H;h
-CD9A utLcI
 CHARSET
-CHL;x
 COMMIT
+CP%u
 CP-GR
 CP-IS
 CP1125
@@ -1115,7 +523,6 @@ CSPC8CODEPAGE437
 CSPCP852
 CSPTCP154
 CSWINDOWS31J
-CXHcKhH
 CYRILLIC-ASIAN
 Can't do a raw read in g_io_channel_read_line_string
 Can't do a raw read in g_io_channel_read_to_end
@@ -1125,9 +532,8 @@ Cannot create event for GWakeup: %s
 Cannot parse double value '%s' for %s
 Cannot parse integer value '%s' for %s
 Carian
-CfD93u
-ChH9Cpv`
 Chakma
+Cham
 Channel terminates in a partial character
 Character out of range for UTF-16
 Character out of range for UTF-8
@@ -1135,7 +541,7 @@ Character reference '%-.*s' does not encode a permitted character
 Character reference did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
 Cherokee
 Child process exited with code %ld
-Child watch source dispatched without callback
+Child watch source dispatched without callback\nYou must call g_source_set_callback().
 CloseHandle
 CloseHandle (wt->handle)
 CloseThreadpoolTimer
@@ -1156,7 +562,6 @@ Could not allocate %lu bytes to read file "%s"
 Could not open converter from '%s' to '%s'
 Could not open converter from '%s' to '%s': %s
 Could not register atexit() function: %s
-CpH9CxuP
 CreateDirectoryW
 CreateEvent
 CreateEventA
@@ -1174,140 +579,7 @@ CreateThreadpoolWait
 Cuneiform
 Cypriot
 Cyrillic
-D	4$H
-D!l$h3
-D#,$D
-D$ E3
-D$ H9
-D$ H9}
-D$ L9
-D$ u'I
-D$(E3
-D$.uM
-D$0(A
-D$0A+
-D$0D9
-D$0E3
-D$0H+
-D$0H9
-D$0H;
-D$0L9
-D$0L;
-D$4D9
-D$4Hc
-D$8E3
-D$8Hc
-D$@E3
-D$@H+
-D$@H9
-D$@H;
-D$@Hc
-D$@Hc@,H
-D$@I9
-D$@I;
-D$@Ic
-D$@LcM
-D$@fff
-D$@~jH
-D$A:.
-D$DD9T$X
-D$DE3
-D$DH9}
-D$HH;
-D$HIc
-D$L0A
-D$P-;
-D$P@:
-D$PHc
-D$PL;
-D$PfA
-D$THk
-D$XD+
-D$XE3
-D$XJ9
-D$XLc
-D$Y\H
-D$YnH
-D$YrH
-D$YsH
-D$YtH
-D$\E;
-D$`E3
-D$`E;
-D$`H;
-D$`Hc
-D$`I;
-D$h<z
-D$hE3
-D$hH+
-D$hfE9fjtf
-D$p H
-D$pE3
-D$pH;
-D$pHc
-D$xA;
-D$xE3
-D$xHc
-D+M(A
-D+moA
-D1:Hc
-D3<$D3d$
-D3d$ 
-D3d$,A
-D3l$(3t$
-D3l$0A
-D3t$,
-D3t$,A3
-D3t$0A3
-D3t$8
-D3|$$#
-D3|$4A3
 D7q/;M
-D8	t+L
-D8 t$D9%
-D8 t1D9%
-D8&t!
-D8&t4H
-D8&t;H
-D8't6
-D8(u%3
-D8,1u
-D8,8u
-D81uMH
-D82u&H
-D8<:u
-D8L$Ht
-D8d$8t
-D8d$Ht
-D8t$8t
-D8t$Ht
-D8yXu(H
-D9-NQ
-D9D$P
-D9FpD
-D9L$p
-D9d$du
-D9d$hu
-D9d$pt
-D9d$pu
-D9d$tu
-D9d$xu
-D9d$|t
-D9d$|u
-D9l$`
-D9l$dtXH
-D9l$x
-D9l$x}
-D9s t^L
-D9t$htpH
-D9t$htrH
-D9|$ 
-D9~Xt'L
-D;T$\
-D;\$`
-D;cDu=E
-D;sDu,
-D;|$0t9
 DBUS_SESSION_BUS_ADDRESS
 DEBUG
 DEFINE
@@ -1340,17 +612,7 @@ Domain error
 Double value '%s' for %s out of range
 DuplicateHandle
 During the first end_element call after invoking a subparser you must pop the subparser stack and handle the freeing of the subparser user_data.  This can be done by calling the end function of the subparser.  Very probably, your program just leaked memory.
-E fff
-E+N A+^ I
-E,@u[H
-E0HcBlH+
-E8/tv
-E8H9A
-E8HcM`H
-E9!~&H
-E9>r3I
-E9` u
-ERCPt
+E 42
 ERROR
 ERROR:
 EUC-CN
@@ -1392,9 +654,8 @@ Existing file '%s' could not be removed: g_unlink() failed: %s
 ExitProcess
 ExitThread
 ExpandEnvironmentStringsW
-F HcN
+FAIL
 FATAL-
-FXtLM
 Failed to allocate memory
 Failed to change to directory '%s' (%s)
 Failed to create file '%s': %s
@@ -1433,41 +694,29 @@ FreeLibrary
 FreeLibraryWhenCallbackReturns
 Friday
 Function not implemented
-G  t9
-G 9\$lu
-G 9\$tu
-G @tpf
-G D9d$lu
-G L9h
-G(9\$tu
-G8$7u
-G@H9h
 GB18030
 GB2312
-GError set over the top of a previous GError or uninitialized memory.
-GH7`qVH
+GError set over the top of a previous GError or uninitialized memory.\nThis indicates a bug in someone's code. You must ensure an error is NULL before it's set.\nThe overwriting error message was: %s
 GIOChannel (Win32)
-GJf9ODt
-GL$8Hc
-GLib (gthread-win32.c): Unexpected error from C library during '%s': %s.  Aborting.
-GLib Memory statistics (failing operations):
-GLib Memory statistics (successful operations):
+GLib
+GLib (gthread-win32.c): Unexpected error from C library during '%s': %s.  Aborting.\n
+GLib Memory statistics (failing operations):\n
+GLib Memory statistics (successful operations):\n
 GLib version too new (major mismatch)
 GLib version too new (micro mismatch)
 GLib version too old (major mismatch)
 GLib version too old (micro mismatch)
-GLib: Cannot convert message: %s
-GSlice: MemChecker: attempt to release block with invalid size: %p size=%I64u invalid-size=%I64u
-GSlice: MemChecker: attempt to release non-allocated block: %p size=%I64u
-GTest: random seed: %s
-GTest: result: %s
-GTest: run: %s
-GTest: skipping: %s
-GTest: subprocess: %s
+GLib: Cannot convert message: %s\n
+GSlice: MemChecker: attempt to release block with invalid size: %p size=%I64u invalid-size=%I64u\n
+GSlice: MemChecker: attempt to release non-allocated block: %p size=%I64u\n
+GTest: random seed: %s\n
+GTest: result: %s\n
+GTest: run: %s\n
+GTest: skipping: %s\n
+GTest: subprocess: %s\n
 GVSB(builder)->offset < GVSB(builder)->max_items
 GVSB(builder)->offset >= GVSB(builder)->min_items
 GVSB(builder)->parent != NULL
-G^8H+Y
 G_DEBUG
 G_HOOK_IS_UNLINKED (hook)
 G_IO_WIN32_DEBUG
@@ -1547,105 +796,18 @@ GetUserNameW
 GetUserObjectInformationW
 GetVersion
 GetWindowsDirectoryW
-GfD9"u
 Glagolitic
 Gothic
 Greek
 Gujarati
 Gurmukhi
-H AVH
-H SVH
-H SVWAVH
-H SWH
-H(+H8
-H+E8I
-H+ExH;
-H3E H3E
-H9+t	H
-H98t7H
-H9;t H
-H9=Th
-H9=u 
-H9>t#H
-H9A(rN
-H9A8u
-H9A8u	H
-H9A8u#H
-H9A8uDH
-H9B@vPD+B +Z H
-H9B@w
-H9D$0
-H9L$Ht8H
-H9_0u	H
-H9l$8t
-H9s uJA
-H9t$0H
-H9t$HH
-H9t$pt
-H9y(v(H
-H9{<u9H
-H9{@v
-H9|$@t<H
-H;Aps	
-H;Aps#
-H;C(r
-H;D$@
-H;K rQH
-H;K@r,A
-H;_(s
-H;k(s	L
-H;q(uoH
-H;s(s
-H;w(ugH
-H;{@r
-HA^A]A\]
-HA^A]A\^
-HA^A]A\^H
-HA^_][
-HA_A\^]
-HA_A]A\[
-HA_A^A\^][
-HA_A^A\_^]
-HA_A^A]A\^[
-HA_A^A]A\_[
-HA_A^A]A\_^][
-HA_A^A]_][
+H'S3
 HH:mm:ss
+HMXB
+HOME
 HOSTNAME
-H_^][
 Hangul
 Hanunoo
-HcChH
-HcD$HD
-HcD$HH
-HcD$PH;
-HcD$\H+
-HcD$`H
-HcD$hH
-HcD$pHk
-HcE Hc
-HcE$D
-HcE8H
-HcH<H
-HcKhH
-HcKxE3
-HcL$@H
-HcL$LH
-HcL$p
-HcM H
-HcMxI
-HcMxL
-HcNxE3
-HcNxL
-HcP$H+
-HcPHH
-HcT$PD;
-Hc\$0;
-Hct$@H
-Hct$@I
-Hct$XH
-Hc{lH
-Hc|$`H
 HeapAlloc
 HeapFree
 HeapReAlloc
@@ -1653,12 +815,6 @@ HeapSize
 Hebrew
 Help Options:
 Hiragana
-I!>E3
-I9,$u
-I9F@vQ
-I9F@w
-I9^8I
-I;v(s	I
 IBM-CP1133
 IBM-Thai
 IBM00858
@@ -1708,7 +864,8 @@ IBM870
 IBM871
 IBM880
 IBM905
-IO Watch dispatched without callback
+INFO
+IO Watch dispatched without callback\nYou must call g_source_connect().
 ISO-2022-JP
 ISO-2022-JP-MS
 ISO-8859-1
@@ -1731,21 +888,9 @@ ISO_646.IRV:1991
 ISO_8859-1
 ISO_8859-1:1987
 IS_VALID_TYPE (checksum_type)
-Ic@HH
-Ic@HL
-Ic@dL
-IcA(H
-IcC,H
-IcD$d
-IcD$dM
-IcFlL
-IcM`I
-IcNlH
-IcNlHc
-IcQ8I
-Idle source dispatched without callback
+Idle source dispatched without callback\nYou must call g_source_set_callback().
 Illegal byte sequence
-Illegal sequence due to partial character at the end of a previous write.
+Illegal sequence due to partial character at the end of a previous write.\n
 Imperial_Aramaic
 Improper link
 Inappropriate I/O control operation
@@ -1767,7 +912,7 @@ Invalid UTF-8 encoded text in name - not valid '%s'
 Invalid UTF-8 passed to g_io_channel_write_chars().
 Invalid argument
 Invalid byte sequence in conversion input
-Invalid file descriptor.
+Invalid file descriptor.\n
 Invalid group name: %s
 Invalid hostname
 Invalid key name: %s
@@ -1788,18 +933,15 @@ IsValidCodePage
 IsValidLocale
 IsValidLocaleName
 IsWindow
-Item for URI '%s' has no registered applications: skipping.
-J HcBlMc
-J8I9H
+Item for URI '%s' has no registered applications: skipping.\n
 JOHAB
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
 Javanese
 Johab
-K HcC
-K(H9K
-K,uEH
-K8uEH
+July
+June
+K 52
 KERNEL32.DLL
 KERNEL32.dll
 KOI8-R
@@ -1822,98 +964,7 @@ Key file does not have key '%s' in group '%s'
 Key file does not start with a group
 Kharoshthi
 Khmer
-L$ E3
-L$ SATAUH
-L$ SH
-L$ SUH
-L$ SUVWAVH
-L$ SUVWH
-L$ SUWH
-L$ SVWH
-L$ SWH
-L$ USWH
-L$ UVWATAUAVAWH
-L$ VWH
-L$ WATAUAVAWH
-L$ WAVAWH
-L$ WH
-L$(E3
-L$(H3
-L$0<&u.L;
-L$0<Mu%
-L$0<at0,o
-L$0<au
-L$0<auBL;
-L$0A3
-L$0E3
-L$0H3
-L$0H9
-L$0H;
-L$0L;
-L$4Hk
-L$8A:
-L$8E3
-L$8H3
-L$8H;
-L$@9U
-L$@E3
-L$@H3
-L$@H;
-L$@Hc
-L$@L;
-L$@Mc
-L$AD:
-L$ALc
-L$Df;
-L$HD;
-L$HE3
-L$HH3
-L$P;D$p
-L$PA;
-L$PH+
-L$PH3
-L$PHcT$hIc
-L$T;D$p
-L$TA;
-L$TI;
-L$XE3
-L$XH3
-L$\;L$X
-L$\E;
-L$`;L$\
-L$`E3
-L$`H3
-L$`Ic
-L$hE3
-L$hH3
-L$hH;
-L$hHk
-L$lD;
-L$pE3
-L$pH3
-L$pHcT$LHc
-L$xA3
-L$xD;cDub
-L$xH3
-L$xH;Y
-L$xL+
-L0	A:
-L09A:
-L0:A:
-L9#t	H
-L9)u-H
-L9)uhH
-L949t
-L9@(u
-L9s@u
-L9t$8
-L9t$`t
-L9w0uE
-L9yHu
-L9|$0
-L9|$8t
-L;]xA
-L;g(s
+LANG
 LANGUAGE
 LATIN1
 LCMapStringEx
@@ -1922,31 +973,24 @@ LC_ALL
 LC_MESSAGES
 LIMIT_MATCH=
 LIMIT_RECURSION=
+LOG-
 LastEntry
 Latin
-LcA<E3
-LcClH
-LcL$0LcD$4H
-LcepA
 LcidToRfc1766A
-LcsHA
-Lc}hA
 LeaveCriticalSection
 Leftover unconverted data in read buffer
 Lepcha
 Limbu
 Linear_B
+Lisu
 LoadLibraryA
 LoadLibraryExW
 LocalFileTimeToFileTime
 LocalFree
-LwH'A
+LwH'
 Lycian
 Lydian
-M%s{%c%s}
-M9&t?
-M9>t!I
-M9~Pu
+MARK
 MESSAGE
 MM/dd/yy
 MS-ANSI
@@ -1960,20 +1004,18 @@ MS50221
 MS51932
 MS932
 MS936
+Ma%s
 Malayalam
 Mandaic
 MapViewOfFile
 March
-Ma{**}
-McA8I
-McEhI
 Meetei_Mayek
 MemChecker: failure in debugging tree: %s
 Meroitic_Cursive
 Meroitic_Hieroglyphs
-Message
 MessageBoxA
 MessageBoxW
+Miao
 Missing argument for %s
 Mixed reading and writing not allowed on encoded files
 Monday
@@ -1983,13 +1025,12 @@ MsgWaitForMultipleObjectsEx
 MsgWaitForMultipleObjectsEx failed: %s
 MultiByteToWideChar
 Myanmar
-N I9N@r
-N IcFlL
-N09^`
+NKeb
 NO_AUTO_POSSESS)
 NO_START_OPT)
-Need to have NULL encoding to set the buffering state of the channel.
-Need to set the channel buffered before setting the encoding.
+NULL
+Need to have NULL encoding to set the buffering state of the channel.\n
+Need to set the channel buffered before setting the encoding.\n
 New_Tai_Lue
 No MIME type defined in the bookmark for URI '%s'
 No application with name '%s' registered a bookmark for '%s'
@@ -2011,9 +1052,7 @@ Not enough space
 Not implemented on Win32
 Not implemented: g_test_trap_fork
 November
-O(H9O
-O(I9O
-O@uwA
+O'T3
 OOOOOO
 OOOOOOOOO
 OOOOOOOOOOOOOOOOOO
@@ -2034,7 +1073,6 @@ Odd character '%s', expected a '=' after attribute name '%s' of element '%s'
 Odd character '%s', expected a '>' character to end the empty-element tag '%s'
 Odd character '%s', expected a '>' or '/' character to end the start tag of element '%s', or optionally an attribute; perhaps you used an invalid character in an attribute name
 Odd character '%s', expected an open quote mark after the equals sign when giving value for attribute '%s' of element '%s'
-OfD9#u
 Ogham
 Ol_Chiki
 Old_Italic
@@ -2045,24 +1083,8 @@ Operation not permitted
 Oriya
 Osmanya
 OutputDebugStringW
-P(A+P8
+PATH
 PATHEXT
-PA\_[
-PA]A\_][
-PA]_[
-PA^A\_][
-PA^^]
-PA^_^
-PA_A\^[]
-PA_A\_^]
-PA_A]A\
-PA_A]A\_]
-PA_A]A\_^][
-PA_A]^
-PA_A^A\_]
-PA_A^A\_^][
-PA_A^A]A\_^[
-PA_A^A]A\_^]
 PCRE does not support \L, \l, \N{name}, \U, or \u
 PCRE library is compiled with incompatible options
 PCRE library is compiled without UTF8 properties support
@@ -2073,9 +1095,9 @@ PRUNE
 PT154
 PTCP154
 Pacific Standard Time
-Partial character at end of write buffer not flushed.
+Partial character at end of write buffer not flushed.\n
 Partial character sequence at end of input
-Partial charater written before writing unichar.
+Partial charater written before writing unichar.\n
 Passing a non-NULL package to g_win32_get_package_installation_directory() is deprecated and it is ignored.
 PeekConsoleInputA
 PeekMessageA
@@ -2084,11 +1106,14 @@ Permission denied
 Phags_Pa
 Phoenician
 PostMessageA
+Q 62
 QueryPerformanceCounter
 Quoted text doesn't begin with a quotation mark
+R02S
 R02S%08x%08x%08x%08x
 RECURSIVE-
 RSDSif^
+R\vpX
 Read-only file system
 ReadConsoleInputA
 ReadConsoleW
@@ -2106,7 +1131,6 @@ Resource device
 Resource temporarily unavailable
 Result too large
 Rfc1766ToLcidA
-Richv
 RoInitialize
 RoUninitialize
 RtlCaptureContext
@@ -2114,44 +1138,25 @@ RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
 Runic
-S9-Ov
-SATAUAWH
-SAVAWH
+S;uD
 SHELL32.dll
 SHGetKnownFolderPath
 SHGetPathFromIDListW
 SHGetSpecialFolderLocation
 SHIFFT_JIS
 SHIFFT_JIS-MS
+SJIS
 SJIS-MS
 SJIS-OPEN
 SJIS-WIN
+SKIP
 SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
 SOURCE_BLOCKED (source)
-SUAWH
-SUVATAVAWH
-SUVAUH
-SUVWATAUAVAWH
-SUVWATAUAVH
-SUVWATAUAWH
-SUVWATH
-SUVWAUAVAWH
-SUVWH
-SUWATAUAVAWH
-SUWATAUH
-SUWATAVH
-SUWAUAVAWH
-SVATAUAVAWH
-SVAUAWH
-SVAVH
-SVWATAUAVAWH
-SVWATAUAWH
-SWATH
 SYSTEM\CurrentControlSet\Control\TimeZoneInformation
 Samaritan
 Saturday
 Saurashtra
-Seek type G_SEEK_CUR not allowed for this channel's encoding.
+Seek type G_SEEK_CUR not allowed for this channel's encoding.\n
 September
 SetCurrentDirectoryW
 SetDefaultDllDirectories
@@ -2190,38 +1195,8 @@ Syriac
 SystemFunction036
 SystemTimeToFileTime
 SystemTimeToTzSpecificLocalTime
-T$ E3
-T$ H+
-T$ I+
-T$ t#H
-T$&@8t$&t9@8r
-T$(9r
-T$(D3
-T$0E3
-T$0Hc
-T$0f#
-T$4D;
-T$@E3
-T$@H;
-T$@Hc
-T$@I9
-T$@Lc
-T$HE3
-T$HE;
-T$PE3
-T$THk
-T$X;D$p
-T$XH;
-T$Xff
-T$\Hc
-T$`E3
-T$`E;
-T$hE3
-T$pE;
-T$pIc
-T$rE3
-T$xD+
-T$xE3
+TEMP
+THEN
 Tagalog
 Tagbanwa
 Tai_Le
@@ -2233,62 +1208,57 @@ Telugu
 Template '%s' doesn't contain XXXXXX
 Template '%s' invalid, should not contain a '%s'
 TerminateProcess
-Test Options:
 Text ended before matching quote was found for %c. (The text was '%s')
 Text ended just after a '\' character. (The text was '%s')
 Text was empty (or contained only whitespace)
 Thaana
+Thai
 The URI '%s' contains invalidly escaped characters
 The URI '%s' is invalid
 The URI '%s' is not an absolute URI using the "file" scheme
 The checksum '%s' has been closed and cannot be updated anymore.
 The hostname of the URI '%s' is invalid
 The local file URI '%s' may not include a '#'
-The overwriting error message was: %s
 The pathname '%s' is not an absolute path
 This GOptionContext already has a main group
-This indicates a bug in someone's code. You must ensure an error is NULL before it's set.
 Thursday
 Tibetan
 Tifinagh
 TimeZoneKeyName
-Timeout source dispatched without callback
+Timeout source dispatched without callback\nYou must call g_source_set_callback().
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
-Too many handles to wait for!
+Too many handles to wait for!\n
 Too many links
 Too many open files
 Too many open files in system
-Total bytes: allocated=%I64u, zero-initialized=%I64u (%.2f%%), freed=%I64u (%.2f%%), remaining=%I64u
+Total bytes: allocated=%I64u, zero-initialized=%I64u (%.2f%%), freed=%I64u (%.2f%%), remaining=%I64u\n
 TryAcquireSRWLockExclusive
 TryAcquireSRWLockShared
 TryEnterCriticalSection
+Ts\ne
 Tuesday
 U%08x
-UATAUAVAWH
-UATAUAVH
-UATAWH
-UAVAWH
+UCP)
 UCS-2
 UCS-2BE
 UCS-2LE
 UCS-4
 UCS-4BE
 UCS-4LE
+UCS2
 UCS2BE
 UCS2LE
+UCS4
 UCS4BE
 UCS4LE
 US-ASCII
-USAUAVH
 USER32.dll
 USERPROFILE
 USE_BUF (channel)
-USVWATAUAVAWH
-USWATAUAVAWH
-USWATAUAVI
+UTF)
 UTF-16
 UTF-16BE
 UTF-16LE
@@ -2302,18 +1272,8 @@ UTF16LE
 UTF32
 UTF32BE
 UTF32LE
+UTF8
 UTF8)
-UUUUUUU
-UVAVH
-UVAWH
-UVWATAUAVAWH
-UVWATAVAWH
-UVWATAWH
-UVWAVAWH
-UWATAUAWH
-UWATAUH
-UWATAVAWH
-UWAVH
 Ugaritic
 Unexpected attribute '%s' for element '%s'
 Unexpected error in g_io_channel_win32_poll() reading data from a child process
@@ -2329,27 +1289,18 @@ UnmapViewOfFile
 Unmatched quotation mark in command line or other shell-quoted text
 Unspecified fatal error encountered, aborting.
 Usage:
-Uy]E3
-VATAUAVAWH
-VAVAWH
-VUUUA
-VUUUD
-VWATAUAVH
-VWATAVAWH
-VWAVH
-VWAWH
+Usage:\n  %s [OPTION...]\n\nHelp Options:\n  -h, --help                     Show help options\n\nTest Options:\n  --g-fatal-warnings             Make all warnings fatal\n  -l                             List test cases available in a test executable\n  -m {perf|slow|thorough|quick}  Execute tests according to mode\n  -m {undefined|no-undefined}    Execute tests according to mode\n  -p TESTPATH                    Only start test cases matching TESTPATH\n  -s TESTPATH                    Skip all tests matching TESTPATH\n  -seed=SEEDSTRING               Start tests with random seed SEEDSTRING\n  --debug-log                    debug test logging output\n  -q, --quiet                    Run tests quietly\n  --verbose                      Run tests verbosely\n
+VIII
 Valid key file could not be found in search dirs
 Value '%s' cannot be interpreted as a boolean.
 Value '%s' cannot be interpreted as a float number.
 Value '%s' cannot be interpreted as a number.
 VirtualQuery
 Visual C++ CRT: Not enough memory to complete call to strerror.
+W 72
 WAIT_FAILED != WaitForSingleObject (wt->handle, INFINITE)
 WARNING
 WARNING!! g_main_context_wait() will be removed in a future release.  If you see this message, please file a bug immediately.
-WATAUAVAWH
-WATAVH
-WAVAWH
 WINBALTRIM
 WINDOWS-1250
 WINDOWS-1251
@@ -2383,135 +1334,104 @@ Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-XA]^][
-XA_A^A]A\_^[]
-XA_A^A]A\_^][
-XA__^[
 XXXXXX
-X]B3L
-You must call g_source_connect().
-You must call g_source_set_callback().
-ZM;|$
-[ UVWH
-[:<:]]
-[:>:]]
 [Invalid UTF-8]
 [Invalid UTF-8] 
 [OPTION...]
 \ at end of pattern
-\$ 3\$(
-\$ D;
-\$ E3
-\$ UATAVH
-\$ UH
-\$ UVW
-\$ UVWATAUAVAWH
-\$ UVWH
-\$ VATAWH
-\$ VWATAVAWH
-\$ VWAVH
-\$ VWAWH
-\$ WATAVH
-\$ WH
-\$(H;
-\$0D9=
-\$0E3
-\$0H+
-\$0H3
-\$0H9(u$H
-\$0H;
-\$0I+
-\$0L;
-\$0u4
-\$0u=
-\$0uF
-\$0up
-\$@H+
-\$@H9\$Hv^
-\$@H;
-\$@H;\$Hr
-\$@fA
-\$@tVH
-\$@u,H
-\$H;pH
-\$HH9\$@
-\$HH;\$@
-\$HHc
-\$P;D$p
-\$PA;
-\$PD;
-\$PE3
-\$PH+
-\$PH9E
-\$Pfff
-\$PvDH
-\$P~$;s
-\$T;D$p
-\$TA;
-\$TD;
-\$TM;
-\$XE;
-\$XHc
-\$Xff
-\$`E3
-\$`H9l$8t
-\$hiL$D
-\$p<(
-\$pH9
-\$xE3
 \C not allowed in lookbehind assertion
 \Dynamic DST
-\L96t
 \N is not supported in a class
-\P{Ll}
-\P{Lu}
-\P{L}
-\P{Nd}
 \P{Xan}
 \P{Xps}
 \P{Xsp}
 \P{Xwd}
 \U%08x
-\b(?<=\w)
-\b(?=\w)
 \c at end of pattern
 \c must be followed by an ASCII character
+\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f=\f=====\f==\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\t
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\n
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\n\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\v
+\f\f\f\f\f\f\f\f\f\f\f\f\f\n\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\v\v\v\v\f\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\n\n
+\f\f\f\f\f\f\n\n\f\f\n\n\f\f
+\f\f\f\f\f\n\f\f\f\f\f\f\f\f
+\f\f\f\n\n\n\n\f\f\n\n\n
+\f\f\n\f\f\f\f\f\f\f\n\n\n\n\n\n\n\n\f\n\n\f\f\f\f\f\f\f\f\f\f\f
+\f\n\f\f\f\f\f\n\f\n\n\n\n\n\f\n\n
+\f\n\f\f\n\n\n\f\n\f\f\f\n\n
+\f\n\f\n\n\f\f\f\f\f\f\f\f\n\n\n\n\n\n\f\f\f\f\f\f\f\f\f\f
+\f\n\f\n\n\f\f\f\f\f\f\n\f
+\f\n\n\f\f\f\f\n\n\f\n\n\n\n
+\f\n\n\f\f\n\n\n\n\n\n\f
+\f\n\n\n\f\f\f\f\f\f\f\f
+\f\r\r\r\r\r\r\r\r\r\r
 \g is not followed by a braced, angle-bracketed, or quoted name or number, or by a plain number
 \g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number
 \k is not followed by a braced, angle-bracketed, or quoted name
-\p{Ll}
-\p{Lu}
-\p{L}
-\p{Nd}
+\n  WSAEventSelect(%d,%p,{%s})
+\n  WSAEventSelect(%d,%p,{})
+\n  revents={%s} condition={%s}\n  WSAEnumNetworkEvents(%d,0) sets events={%s}
+\n  revents={%s} retval={%s}\n
+\n  setting last_events=0
+\n  setting revents=0
+\n setting revents=0
+\n***MEMORY-ERROR***: 
+\n\f\f\f\f\n\n\f\f\n\f\f\f
+\n\n\f\f\f\f\n\f\f\f\f\f\f\n\f\f\n\n\f\f
+\n\n\f\n\n\n\n\n\n\f\f\f
+\n\n\n\f\f\f\f\f\f\f\f\f\n\n
+\n\n\n\f\f\f\f\f\f\f\f\n\n\f\n\f\f
+\n\n\n\f\f\f\f\f\f\f\f\n\n\n\n\f\n\n
+\n\n\n\f\f\f\f\f\f\n\f\n\n\n\n\f\f\n\f\f
+\n\n\n\f\f\f\f\n\n\f\f
+\n\n\n\f\f\f\n\n\f\n\f\f
+\n\n\n\n\n\n\n\n\f\f\f\f\f\f\f\f\n\n\f\f
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\f
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\r\r\r\r\r\r\r\r\r\r\n\n\n\f
 \p{Xan}
 \p{Xps}
 \p{Xsp}
 \p{Xwd}
+\r\r\r\r\r\r\r\r\r\r\f\f
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
 \u%04x
+\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v=\v\v\v\v==\v\v\v\v\v\v\v=\v=\v\v\v\v==\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v=\v\v\v\v==\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v=\v\v\v\v==\v\v\v\v\v\v\v=\v=\v\v\v\v==\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v=\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v=\v\v\v\v==\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v==\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v===\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v======
 \x%02x
 ] is an invalid data character in JavaScript compatibility mode
-]tF<[u 
-^fD9+t
-_ A+G
-_(+_8H
-_-|> <.
-_8A+G0;
-_<]w*
-_<]w4
 ________________________________
 __glib_assert_msg
 _g_async_queue_get_mutex
 _g_utf8_make_valid
 _g_utf8_strwidth
-` AUAVAWH
-`.rdata
-`A\_^][
-`A^^[
-`A^_]
-`A^_^
-`A_A]A\_^
-`A_A^_][
-`h````
 `h`hhh
 a != NULL
 a numbered reference must not be zero
@@ -2531,6 +1451,7 @@ alignment == sys_page_size
 alnum
 alpha
 always-malloc
+amp;
 an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)
 apos;
 app != NULL
@@ -2543,7 +1464,7 @@ argc != NULL
 argument is not a compiled regular expression
 argument not compiled in 8 bit mode
 argv != NULL
-argv[%d]: %s
+argv[%d]: %s\n
 array
 array != NULL
 array_element_size
@@ -2563,19 +1484,15 @@ attempt to g_thread_exit() a thread not created by GLib
 attempting to free a locked GVariant instance.  This should never happen.
 attribute '%s' given multiple times for element '%s'
 attribute '%s' invalid for element '%s'
-a{?*}
-a{o*}
-a{s*}
 a{sv}
 b != NULL
-b"%s"
-b'%s'
 back references as conditions are not supported for partial matching
 backtracking limit reached
 bad offset
 bad options
 be@latin
 begin != NULL
+big5
 binary
 blank
 block_source
@@ -2592,17 +1509,18 @@ boundary_for_year
 buf != NULL
 buffer != NULL
 buffer.year == year
-buffer_write: tid %#x: rdp=%d, wrp=%d
-buffer_write: tid %#x: rdp=%d, wrp=%d, setting space_avail
-buffer_write: tid %#x: resetting data_avail
-buffer_write: tid %#x: waiting for space
-buffer_write: tid %#x: writing %d bytes
-buffer_write: writing to thread %#x %I64u bytes, rdp=%d, wrp=%d
+buffer_write: tid %#x: rdp=%d, wrp=%d, setting space_avail\n
+buffer_write: tid %#x: rdp=%d, wrp=%d\n
+buffer_write: tid %#x: resetting data_avail\n
+buffer_write: tid %#x: waiting for space\n
+buffer_write: tid %#x: writing %d bytes\n
+buffer_write: writing to thread %#x %I64u bytes, rdp=%d, wrp=%d\n
 bug_uri_snippet != NULL
 bynqihuxtdsog?
 bynqiuxthdsog
 bynqiuxthdsog?
 bynqiuxthdsogNS
+byte
 byte 
 bytes != NULL
 bytes1 != NULL
@@ -2610,12 +1528,11 @@ bytes2 != NULL
 bytes_read != NULL
 bytes_written != NULL
 bytestring_parse
+c 92
 c:\buildslave\pango_win32\build\glib-2.42.0\build\win32\vs12\Release\x64\bin\libglib-2.0-0.pdb
-cAMDD
-cLcD$pH
 cache != NULL
 callback_funcs != NULL || callback_data == NULL
-calling %s with argv:
+calling %s with argv:\n
 can not parse as value of type '%s'
 ch == 0 && token != G_TOKEN_NONE
 channel != NULL
@@ -2627,6 +1544,7 @@ channel->is_seekable
 channel->is_writeable
 channel->partial_write_buf[0] == '\0'
 channel->read_buf->len > 0
+char
 character '%c'
 character '\%o'
 character value in \u.... sequence is too large
@@ -2648,9 +1566,9 @@ child_type == NULL || child == NULL || g_variant_is_of_type (child, child_type)
 child_type == NULL || g_variant_type_is_definite (child_type)
 chunk != NULL
 clear_attributes
-closed fd %d, setting to -1
+closed fd %d, setting to -1\n
 closing ) for (?C expected
-closing fd %d
+closing fd %d\n
 cmp != NULL
 cmp_func != NULL
 cntrl
@@ -2689,30 +1607,18 @@ count > 0
 cp1025
 cp866
 cp875
-created context=%p
+created context=%p\n
 creating thread '%s': %s
 critical
 csISO2022JP
 current_attribute
 d != NULL
-d$ E3
-d$(A3
-d$0D+
-d$8D3d$$A3
-d$8I;
-d$@H;
-d$HE3
-d$`E3
-d$`Ic
-d$hE3
-d$pE3
-d$xE3
-d$|fD
 d->dmy
 d->julian
 d->julian_days > ndays
 d->year > nyears
 d->year > years
+data
 data != NULL
 data != NULL || len == 0
 data != NULL || length == 0
@@ -2728,11 +1634,12 @@ debug
 debug-blocks
 decimal_point_len != 0
 default
-default context=%p
+default context=%p\n
 delimiter != NULL
 delimiter[0] != '\0'
 delimiters != NULL
 depth == -1 || depth > 0
+desc
 descendant != NULL
 dest != NULL
 destroy_func != NULL
@@ -2748,13 +1655,9 @@ directory >= G_USER_DIRECTORY_DESKTOP && directory < G_USER_N_DIRECTORIES
 disallowed Unicode code point (>= 0xd800 && <= 0xdfff)
 do_spawn_with_pipes
 domain != 0
-done waiting for data from thread %#x
+done waiting for data from thread %#x\n
 double
-d|oHc
-e A_A^A]A\]
 e+000
-eHA_A^A]A\_^[]
-e`A_A^A]A\]
 element '%s' requires attribute '%s'
 element '%s', attribute '%s', value '%s' cannot be parsed as a boolean value
 element_full != NULL
@@ -2767,12 +1670,11 @@ end != NULL
 end > begin
 end of file
 end_pos >= begin_pos
-entiE
 entries != NULL
 err != NULL
 err == NULL || *err == NULL
 err_report != NULL
-errfd=%p
+errfd=%p\n
 erroffset passed as NULL
 error
 error != NULL
@@ -2787,46 +1689,14 @@ escapes \L, \l, \N{name}, \U, and \u are not supported
 euc-jp
 euc-kr
 eval != NULL
+exec
 exec != NULL
 expected '%s'%s
 expected end of input
 expected value
 expected_type == NULL || value == NULL || g_variant_is_of_type (value, expected_type)
 f != NULL
-f9.u"H
-f9.uVH
-f93t$M;
-f97tVL
-f99t[H
-f9:t,
-fA9	u
-fA98u
-fA9G 
-fD9 t
-fD9 t	H
-fD9 u
-fD9$Ju
-fD9$Ku
-fD9(t
-fD9*t
-fD9*u
-fD9+t
-fD90t
-fD93tSH
-fD93u
-fD94xu
-fD98t
-fD9:t
-fD9:u
-fD9;u
-fD9>u"
-fD9|$bu
-fD9|J
-fD9|K
-fE98t'
-fE9fju
-fF9$@u
-failed to allocate %u bytes (alignment: %u): %s
+failed to allocate %u bytes (alignment: %u): %s\n
 failed to get memory
 failed to match
 failure around %s%s%s
@@ -2835,8 +1705,6 @@ fast_validate_len
 fatal-criticals
 fatal-warnings
 fd != NULL
-fffff
-fffffff
 field < tuples->width
 file != NULL
 file %s: line %d (%s): assertion failed: (%s)
@@ -2851,7 +1719,7 @@ fixed_size == value.size
 fixture_test_func != NULL
 flags <= G_TRAVERSE_MASK
 float
-for thread %#x: rdp=%d, wrp=%d
+for thread %#x: rdp=%d, wrp=%d\n
 format != NULL
 format[0] == '%'
 format_char == 'e' || format_char == 'E' || format_char == 'f' || format_char == 'F' || format_char == 'g' || format_char == 'G'
@@ -2863,6 +1731,7 @@ from_buf_len - left_len >= from_buf_old_len
 from_buf_old_len > 0
 from_codeset != NULL
 from_enc
+func
 func != NULL
 funcs != NULL
 function != NULL
@@ -3436,12 +2305,12 @@ g_io_channel_win32_get_fd
 g_io_channel_win32_make_pollfd
 g_io_channel_win32_new_fd
 g_io_channel_win32_new_fd: %d isn't an open file descriptor in the C library GLib uses.
-g_io_channel_win32_new_fd: channel=%p fd=%u
+g_io_channel_win32_new_fd: channel=%p fd=%u\n
 g_io_channel_win32_new_file: open("%s",
 g_io_channel_win32_new_messages
-g_io_channel_win32_new_messages: channel=%p hwnd=%p
+g_io_channel_win32_new_messages: channel=%p hwnd=%p\n
 g_io_channel_win32_new_socket
-g_io_channel_win32_new_socket: channel=%p sock=%d
+g_io_channel_win32_new_socket: channel=%p sock=%d\n
 g_io_channel_win32_poll
 g_io_channel_win32_set_debug
 g_io_channel_write
@@ -3453,22 +2322,22 @@ g_io_watch_funcs
 g_io_win32_check
 g_io_win32_check: source=%p channel=%p
 g_io_win32_console_get_flags
-g_io_win32_dispatch: pollfd.revents=%s condition=%s result=%s
-g_io_win32_fd_close: thread=%#x: fd=%d
-g_io_win32_fd_create_watch: channel=%p fd=%d condition={%s} event=%p
+g_io_win32_dispatch: pollfd.revents=%s condition=%s result=%s\n
+g_io_win32_fd_close: thread=%#x: fd=%d\n
+g_io_win32_fd_create_watch: channel=%p fd=%d condition={%s} event=%p\n
 g_io_win32_fd_get_flags
-g_io_win32_fd_read: fd=%d count=%I64u
-g_io_win32_fd_read: read() => %d
+g_io_win32_fd_read: fd=%d count=%I64u\n
+g_io_win32_fd_read: read() => %d\n
 g_io_win32_fd_seek
-g_io_win32_fd_write: fd=%d count=%I64u => %d
+g_io_win32_fd_write: fd=%d count=%I64u => %d\n
 g_io_win32_finalize
 g_io_win32_finalize: source=%p channel=%p
-g_io_win32_free channel=%p fd=%d
-g_io_win32_msg_read: channel=%p hwnd=%p
+g_io_win32_free channel=%p fd=%d\n
+g_io_win32_msg_read: channel=%p hwnd=%p\n
 g_io_win32_prepare
 g_io_win32_prepare: source=%p channel=%p
-g_io_win32_sock_close: channel=%p sock=%d
-g_io_win32_sock_create_watch: channel=%p sock=%d event=%p condition={%s}
+g_io_win32_sock_close: channel=%p sock=%d\n
+g_io_win32_sock_create_watch: channel=%p sock=%d event=%p condition={%s}\n
 g_io_win32_sock_read: channel=%p sock=%d count=%I64u
 g_io_win32_sock_set_flags: 
 g_io_win32_sock_write: channel=%p sock=%d count=%I64u
@@ -4083,13 +2952,13 @@ g_spawn_command_line_async_utf8
 g_spawn_command_line_sync_utf8
 g_spawn_error_quark
 g_spawn_exit_error_quark
-g_spawn_sync: calling g_io_channel_win32_poll, nfds=%d
-g_spawn_sync: errchannel: OK
-g_spawn_sync: errchannel: READ_EOF
-g_spawn_sync: errchannel: READ_FAILED
-g_spawn_sync: outchannel: OK
-g_spawn_sync: outchannel: READ_EOF
-g_spawn_sync: outchannel: READ_FAILED
+g_spawn_sync: calling g_io_channel_win32_poll, nfds=%d\n
+g_spawn_sync: errchannel: OK\n
+g_spawn_sync: errchannel: READ_EOF\n
+g_spawn_sync: errchannel: READ_FAILED\n
+g_spawn_sync: outchannel: OK\n
+g_spawn_sync: outchannel: READ_EOF\n
+g_spawn_sync: outchannel: READ_FAILED\n
 g_spawn_sync_utf8
 g_sprintf
 g_stat
@@ -4260,7 +3129,7 @@ g_test_trap_fork
 g_test_trap_has_passed
 g_test_trap_reached_timeout
 g_test_trap_subprocess
-g_test_trap_subprocess() failed: %s
+g_test_trap_subprocess() failed: %s\n
 g_test_trap_subprocess: test does not exist: %s
 g_thread_create
 g_thread_create_full
@@ -4707,10 +3576,6 @@ get_contents_stdio
 get_sequence (a) == get_sequence (b)
 get_sequence (begin) == get_sequence (end)
 get_tmp_file
-gfffA
-gfffD
-gfffE
-gfffffffH
 glib__private__
 glib_binary_age
 glib_check_version
@@ -4743,11 +3608,6 @@ gspawn-win64-helper.exe
 gvs_tuple_get_child
 gvs_tuple_is_normal
 gvs_variable_sized_array_is_normal
-hA^_][
-hA^_^[
-hA_A]^[
-hA_A^A]A\_^][
-h_^][
 handle
 handle 
 handler_id > 0
@@ -4755,6 +3615,7 @@ hash_key_func != NULL
 hash_table != NULL
 hash_value_func != NULL
 haystack != NULL
+help
 help-
 help-all
 hexadecimal
@@ -4769,11 +3630,11 @@ hook_id > 0
 hook_list != NULL
 hook_list->is_setup
 hook_size >= sizeof (GHook)
+href
 http://freedesktop.org
 http://www.freedesktop.org/standards/desktop-bookmarks
 http://www.freedesktop.org/standards/shared-mime-info
 hz-gb-2312
-i <= 10
 i == *n_members
 ibm737
 ibm775
@@ -4782,6 +3643,7 @@ ibm852
 ibm857
 ibm861
 ibm869
+icon
 identifier
 ignore
 illegal symbolic reference
@@ -4800,6 +3662,7 @@ index_ < g_variant_n_children (value)
 index_ < rarray->len
 index_ <= (gint)rarray->len
 index_ >= -1
+info
 info->alignment == 0 || info->alignment == 1 || info->alignment == 3 || info->alignment == 7
 info->container_class == GV_ARRAY_INFO_CLASS
 info->container_class == GV_TUPLE_INFO_CLASS
@@ -4882,12 +3745,11 @@ item != NULL && app_name != NULL
 iter != NULL
 iter_cmp != NULL
 iter_remove_or_steal
-j < i
 j == hash_table->nnodes
+just
 just 
-k VWATAUAWH
-kD$x<Hc
-kL$H<Hi
+kU'9
+kcal
 kernel32.dll
 key != NULL
 key != NULL && value != NULL
@@ -4904,42 +3766,11 @@ key_file->start_group != NULL
 key_id != 0
 key_id > 0
 key_len <= length
+kkkk
 koi8-r
 koi8-u
 ks_c_5601-1987
-l$ ATAVAWH
-l$ AVH
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WH
-l$(E3
-l$0A8
-l$0E3
-l$0Hc
-l$4D3l$ 
-l$8E3
-l$8fA
-l$8u>H
-l$@E3
-l$HE3
-l$HteH
-l$PH9
-l$PH;
-l$Pt^L
-l$XD+
-l$X~=Hc
-l$`E3
-l$`H;
-l$hM9f tWM9f(u
-l$pD;
-l$pH;
-l$pIc
-l$pL9o
-l$xA8
-l$xE3
-l$xI9?t!H
+l'V3
 lbuffer->data->len == 0
 leap == GREGORIAN_LEAP(the_year)
 left_len < 6
@@ -4960,16 +3791,19 @@ link != NULL
 link->next == NULL
 link->prev == NULL
 link_ != NULL
+list
 list != NULL
 list != NULL || length == 0
 locale != NULL
 localhost
+lock
 lock_bit < 32
 log_func != NULL
 log_level != 0
 lookbehind assertion is not fixed length
 loop != NULL
 lower
+m&A3
 macintosh
 malformed \P or \p sequence
 malformed number or name after (?(
@@ -5003,7 +3837,7 @@ missing terminator in subpattern name
 mlang.dll
 mode != NULL
 modified
-moving %d bytes from thread %#x
+moving %d bytes from thread %#x\n
 msg != NULL
 multi-line
 mutex
@@ -5011,10 +3845,10 @@ n == 0 || string != NULL
 n_children == 0 || children != NULL
 n_children > 0 || child_type != NULL
 n_elements != NULL
-n_fds >= 0
 n_keys == 1 && n_values == 1
 n_keys == n_values
 n_values != NULL
+name
 name != NULL
 name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)
 ndates != 0
@@ -5035,13 +3869,14 @@ node->right
 node_rotate
 non-hex character in \x{} (closing brace missing?)
 non-octal character in \o{} (closing brace missing?)
+none
 not a valid object path
 not a valid signature
 not ok
 nothing
 nothing to repeat
 nptr != NULL
-ntelD
+null
 nullify_location != NULL
 num_groups > 0
 num_path_segments < G_N_ELEMENTS (pathv)
@@ -5079,18 +3914,13 @@ out - result <= len
 out of memory
 out_len != NULL
 outbuf + outbytes_left == channel->encoded_read_buf->str + channel->encoded_read_buf->len
-outfd=%p
+outfd=%p\n
 outptr [2] != 0
 overran compiling workspace
 owner
 p != NULL
 p != NULL || max == 0
-p AWH
-p WATAUAVAWH
-p WAVAWH
-pA_A]A\_^][
-pA_A^]
-pA_][
+p0q0
 pa_PK
 pair->value != NULL
 parent != NULL
@@ -5111,14 +3941,15 @@ parser_set_error_va
 passing a child setup function to the g_spawn functions is pointless on Windows and it is ignored
 path != NULL
 pattern != NULL
-polling context=%p n=%d timeout=%d
+perf
+polling context=%p n=%d timeout=%d\n
+pool
 pool->num_threads != 0
 pool->num_threads == 0
 pool->running == FALSE
 pop_subparser_stack
 pos + len <= string->len
 pos <= string->len
-pos >= 0
 positional->value != NULL
 positional_get_value
 positional_parse
@@ -5136,7 +3967,6 @@ pspec2 != NULL
 pt.num_ints < 4
 ptm != NULL
 punct
-qD99~UH
 quark_new
 quark_seq_id == 0
 queue
@@ -5148,25 +3978,22 @@ quick
 quot;
 quote == '"' || quote == '\''
 quoted_string != NULL
-r	H+Q
-r*fff
-r5D9-
-r=D8v
 rand != NULL
 random numbers are not GRand-2.2 compatible, seeds may be broken (check $G_RANDOM_VERSION)
 range out of order in character class
 rarray
 rarray != NULL
-read_thread %#x: EOF, rdp=%d, wrp=%d, setting data_avail
-read_thread %#x: calling read() for %d bytes
-read_thread %#x: channel fd %d needs closing
-read_thread %#x: rdp=%d, wrp=%d
-read_thread %#x: rdp=%d, wrp=%d, setting data_avail
-read_thread %#x: read() returned %d, rdp=%d, wrp=%d
-read_thread %#x: resetting space_avail
-read_thread %#x: start fd=%d, data_avail=%p space_avail=%p
-read_thread %#x: waiting for space
-reading from thread %#x %I64u bytes, rdp=%d, wrp=%d
+read_thread %#x: EOF, rdp=%d, wrp=%d, setting data_avail\n
+read_thread %#x: calling read() for %d bytes\n
+read_thread %#x: channel fd %d needs closing\n
+read_thread %#x: rdp=%d, wrp=%d, setting data_avail\n
+read_thread %#x: rdp=%d, wrp=%d\n
+read_thread %#x: read() returned %d, rdp=%d, wrp=%d\n
+read_thread %#x: resetting space_avail\n
+read_thread %#x: start fd=%d, data_avail=%p space_avail=%p\n
+read_thread %#x: waiting for space\n
+reading from thread %#x %I64u bytes, rdp=%d, wrp=%d\n
+real
 real->data == NULL
 real->len == 0
 real->ours
@@ -5185,7 +4012,7 @@ remaining_days == 0
 repeated subpattern is too long
 repeating a DEFINE group is not allowed
 replacement != NULL
-resetting data_avail of thread %#x
+resetting data_avail of thread %#x\n
 result != 0
 result != NULL
 retval || !wait || end_time > 0
@@ -5195,17 +4022,16 @@ ri != NULL
 ri->position < ri->hash_table->size
 ri->position >= 0
 ri->version == ri->hash_table->version
+root
 root != NULL
 rval != NULL
 s != NULL
 s <= length
 s > dest
-s WATAUAVAWH
-s#fff
+s'W3
+s0t0
 s1 != NULL
 s2 != NULL
-sXI9)uS
-sYHcL$HH
 save != NULL
 scanner != NULL
 scanner: digit is beyond radix
@@ -5231,7 +4057,7 @@ serialised.size == fixed_size
 serialised.type_info != NULL
 set_child_error
 setting UTF is disabled by the application
-setting space_avail for thread %#x
+setting space_avail for thread %#x\n
 share
 shell32.dll
 shift-jis
@@ -5246,7 +4072,9 @@ signature
 sinfo->n_allocated > 0
 single-line
 size != NULL
+skip
 slen > 0
+slow
 so_ET
 somebody
 source
@@ -5284,6 +4112,7 @@ state != NULL
 status != G_IO_STATUS_NORMAL
 stderr of child process (%s) %s: %s
 stdout of child process (%s) %s: %s
+stop
 stop suite
 str != NULL
 str1 != NULL
@@ -5313,158 +4142,10 @@ syntax error in subpattern name (missing terminator)
 sys_page_size == 0
 sys_page_size >= 2 * LARGEALIGNMENT
 system_time_copy
-t	D9~
-t	H;-
-t	H;=
-t <\t
-t HcQ
-t!fff
-t"A88t
-t"HcM@H
-t"fff
-t#A;P
-t#HcL$@H
-t#fA;
-t#fE9
-t#fff
-t$ ATAVAWH
-t$ AVH
-t$ AWH
-t$ UH
-t$ UWAVH
-t$ WATAUAVAWH
-t$ WATAWH
-t$ WAVAWH
-t$ WH
-t$0Hc
-t$0I+
-t$0Lc
-t$0fD
-t$0u,H
-t$89n
-t$8H+
-t$8H9;t
-t$8Hc0I
-t$9=<
-t$@9pH
-t$@D;
-t$@E3
-t$@H+
-t$@H9
-t$@H9A
-t$@H;
-t$@Hc
-t$@fA
-t$@tg
-t$Ht.
-t$HtPM
-t$HtVH
-t$HtYH
-t$PE3
-t$PH9|$H
-t$PH;
-t$Pfff
-t$PtYH
-t$TA;B
-t$Tff
-t$X;t$\
-t$X;t$`
-t$XA9|$`~2Ic
-t$XE3
-t$XH;
-t$XHc3
-t$XuFH
-t$`;t$\
-t$`E3
-t$`L+
-t$`L9s
-t$`Lct$$A
-t$fff
-t$hE3
-t$hHc
-t$pE3
-t$pH;K(u
-t$pIc
-t$pM9f
-t$pt!H
-t$xE3
-t%L9x
-t%fff
-t&H9A
-t&H9k
-t&H9p
-t(9=e
-t(H9Q
-t(H9Y
-t(H;Q
-t(Lc@H3
-t)HcPH3
-t)fff
-t*H9=
-t*H9Y
-t+D95
-t+H99t
-t+fff
-t-H;C
-t-LcF
-t/H9{
-t/HcA
-t/fff
-t09t$0u*
-t0H9=
-t0IcCH
-t1I9>t#H
-t29x(t-H
-t2H9;t$H
-t2I9>t$I
-t2fff
-t4L9?t&A
-t5I9>t'H
-t9H9J
-t:IcA(
-t;HcAH
-t<H9/u
-t=A9y4u7A
-t=L95
-t>HcE<A
-t@LcC
-tAD9A(t;H
-tAH9/u
-tAfff
-tBH9:t=H
-tBH9q
-tBIc@H
-tEH9y
-tG< t0<	t,<"u
-tHfD9 tB
-tIfff
-tJD9u
-tOLc\$PL
-tPH9l$@uIH
-tPL9@(u
-tRA;@
-tS@88t
-tSf91tNH
-tSfff
-tVf91tQH
-tVfff
-tXfA;
-tYH9x
-tZL9s
-t[fff
-t]HcFdD+
-t^L9y
-t^fff
-t`H9Y
-t`H9y
-taD9M
 table != NULL
 tag > 0
 target != NULL
-tbD9M
 tbuffer != NULL
-tcH95
-tcI9,$u]L
 test_case != NULL
 test_func != NULL
 test_name != NULL
@@ -5481,9 +4162,8 @@ this version of PCRE is not compiled with Unicode property support
 this_time > 0
 thorough
 thread
-thread %#x: running, marking fd %d for later close
+thread %#x: running, marking fd %d for later close\n
 thread_func != NULL
-tiIcA@
 timeGetTime
 time_ != NULL
 time_->tv_usec >= 0 && time_->tv_usec < G_USEC_PER_SEC
@@ -5491,9 +4171,7 @@ timer != NULL
 timer->active == FALSE
 timestamp
 title
-tkL9x
 tm != NULL
-tmfD9C
 tmp2 != NULL
 tmpl != NULL
 tmsg != NULL
@@ -5507,20 +4185,16 @@ tokenize_command_line
 too many forward references
 too many named subpatterns (maximum 10,000)
 too many named subpatterns (maximum 10000)
-tpHcCH
-tr@87u
 translit
 tree != NULL
+true
 tt@iqtelif
-ttI9<
 tuple_allocate_members
 tuple_info_free
 tuple_key == tuple_value
 tuples0 != NULL
-twH9i
-twH9z
 two named subpatterns have the same name
-tyfD9 tsH
+type
 type != NULL
 type declarations must be definite
 type_string != NULL
@@ -5530,51 +4204,13 @@ type_string[0] == '{'
 tz != NULL
 tz->ref_count > 0
 tz->t_info != NULL
-t}fff
-u	A!B
-u ;}8
-u D9=i'
-u"HcMHH
-u#9-u
-u#9=O
-u$D9%
-u$D9%=
-u$D9%M
-u$D9-
-u$D9-%
-u$D9--	
-u$D9-B
-u$D9-M
-u$D9-{
-u$D95
-u$D9=
-u$D9=U
-u$D9=]
-u$D9=l
 u%04x
-u&L)n
-u.Hc-
-u0Hc=#2
-u4D9v
-u;H;G
-uAiD$P
-uCD9%
-uCD9-
-uGD9v
-uJ9l$@u5H
-uJ;|$8uDD
-uUHcCx
-uYHc]
-uaD9v
-ubB8D#
-ugA;vt
 uint16
 uint16 
 uint32
 uint32 
 uint64
 uint64 
-ukH9O
 unable to find a common type
 unable to infer type
 unblock_source
@@ -5609,10 +4245,7 @@ upper
 ur_PK
 uri != NULL
 us-ascii
-utfD9K
-u|A9m
-v'fff
-vJ=` 
+v0w0
 val != NULL
 valid 
 valid_chars != NULL
@@ -5631,9 +4264,9 @@ value_new_func != NULL
 variable != NULL
 version
 version == hash_table->version
+viii
 visited
-wTt9A
-waiting for data from thread %#x
+waiting for data from thread %#x\n
 warning
 wchar_t
 win32_channel != NULL
@@ -5650,26 +4283,21 @@ windows-1256
 windows-1257
 windows-1258
 windows-874
+word
 wpath != NULL
 write failed: %s
-write_thread %#x: calling write() for %d bytes
-write_thread %#x: channel fd %d needs closing
-write_thread %#x: rdp=%d, wrp=%d
-write_thread %#x: resetting space_avail
-write_thread %#x: start fd=%d, data_avail=%p space_avail=%p
-write_thread %#x: waiting for data
-write_thread %#x: write(%i) returned %d, rdp=%d, wrp=%d
-write_thread: setting data_avail for thread %#x
+write_thread %#x: calling write() for %d bytes\n
+write_thread %#x: channel fd %d needs closing\n
+write_thread %#x: rdp=%d, wrp=%d\n
+write_thread %#x: resetting space_avail\n
+write_thread %#x: start fd=%d, data_avail=%p space_avail=%p\n
+write_thread %#x: waiting for data\n
+write_thread %#x: write(%i) returned %d, rdp=%d, wrp=%d\n
+write_thread: setting data_avail for thread %#x\n
 write_to_temp_file
 wrote_bytes == 0
 wrote_len == char_len || status != G_IO_STATUS_NORMAL
-wrp==rdp, !running
-x ATAUAWH
-x ATAVAWH
-x AUAVAWH
-x AVH
-x t&3
-x&D;A
+wrp==rdp, !running\n
 x-Chinese_CNS
 x-EBCDIC-KoreanExtended
 x-Europa
@@ -5711,94 +4339,21 @@ x-mac-romanian
 x-mac-thai
 x-mac-turkish
 x-mac-ukrainian
-xA_A]A\[
-xA_A^A]A\_^[]
-xA_A^A]A\_^][
 x_Chinese-Eten
-x_^][
+xbel
 xdigit
 xmlns
 xppwpp
 xpxxxx
-yH7`qVH
-yXA9z
+y0z0
 ybnqiuxthdvasog(){}
 ynqiuxthd
-ytjA+
 yyyZhniZbarAnmrAgneBopoBrehCtpoClryCtrsDaveDihtEroeGhtoGkerGrjuGuruGinaHgnaHrbeHariHadnKanaKrmhKooaLntaLmylMgnoMrmyMmagOlatIayrOrnuRhniScrySlmaTuleTaahTiahTtbiTsnaCiiiYglgTonaHdhuBbgaTiarBtrpCbmiLamsOwahSbniLelaTragUulaTiguBgalGgnfTolySoepXrahKzzzZilaBxusXxnhPgahPookNilaKcpeLgnjRdnuSruaSmahCkclOiiaViraCicyLidyLtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMunaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraW
 z?aUY
 zc%C1
 zero-length symbolic reference
-zu|D!t$ E3
-{*LOG(%s)
+zzzz
 {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{
-|#;D$p
-|$ ;="D
-|$ A3
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ AVH
-|$ E3
-|$ H+
-|$ H91t6
-|$ H;
-|$ Hc
-|$ UATAUAVAWH
-|$ UH
-|$$A#
-|$(H;
-|$(Hc
-|$0-H
-|$0E3
-|$0H;
-|$0Hc
-|$0I9
-|$0L+
-|$8t9H
-|$8tEM
-|$@-D
-|$@-H
-|$@A;
-|$@A_A^A]A\
-|$@E3
-|$@Hc
-|$@tIH
-|$@u:Hc
-|$Dt@H
-|$Dtp
-|$H<\t
-|$HD+v
-|$HHc
-|$Hfff
-|$PD;
-|$PH9
-|$PHc
-|$PHc|$@H
-|$PM;
-|$Pt	H;
-|$Pt"
-|$X;]
-|$XA+
-|$XIc
-|$XL+
-|$XL;
-|$\+E
-|$\ff
-|$`CI
-|$`E3
-|$`Hc
-|$`I;/L
-|$`u#
-|$h+t$D+
-|$hA#
-|$hE3
-|$hH+
-|$pE3
-|$pIc
-|&;D$p
-|.;D$p
-|9;D$p
-|F;D$p
 |O_APPEND
 |O_BINARY
 |O_CREAT
@@ -5808,9 +4363,5 @@ zu|D!t$ E3
 |O_TEMPORARY
 |O_TEXT
 |O_TRUNC
-}]Hc^
-}hIcM`I
-~(HcE
-~`HcE H
 ~log_level & G_LOG_LEVEL_ERROR
 ~value->state & STATE_SERIALISED

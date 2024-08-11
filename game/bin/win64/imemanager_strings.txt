@@ -1,54 +1,30 @@
-									
-																																																																																																																														
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	w\Hc
-   %s: %s
-   Common Name: '%s'
-   IME Filename: '%s'
-   Identified as Chinese (Simplified).
-   Identified as Chinese (Traditional).
-   Identified as English.
-   Identified as Japanese.
-   Identified as Korean.
-   Layout: '%s'
-   Not Supported.
-   Skipping due to not enabled nor active.
-   Skipping due to unexpected profile characters.
-   Successfully Registered (Index: %d).
-   System Name: '%s'
-   Unsupported Language.
+   Common Name: '%s'\n
+   IME Filename: '%s'\n
+   Identified as Chinese (Simplified).\n
+   Identified as Chinese (Traditional).\n
+   Identified as English.\n
+   Identified as Japanese.\n
+   Identified as Korean.\n
+   Layout: '%s'\n
+   Not Supported.\n
+   Skipping due to not enabled nor active.\n
+   Skipping due to unexpected profile characters.\n
+   Successfully Registered (Index: %d).\n
+   System Name: '%s'\n
+   Unsupported Language.\n
  (version 6.0)
- - QQ
  2.03
  2007
- 6.0)
- 9(X`
- A^_]
- A^_^
- A_A^_
- vJH+
-%d Supported IME.
+%d Supported IME.\n
 %i %i %i %i
-%s: hWnd:0x%8.8llx, uMsg:0x%8.8x, wParam:0x%8.8x, lParam:0x%8.8x
-%s: string format requested %d chars
-(%d) HKL: 0x%8.8x
-(%d) Tag: %s
-(A]_^[
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(_^][
-(o:R	
-(t$0f
-(t$@H
-(|$@H
+%s: hWnd:0x%8.8llx, uMsg:0x%8.8x, wParam:0x%8.8x, lParam:0x%8.8x\n
+%s: string format requested %d chars\n
+(%d) HKL: 0x%8.8x\n
+(%d) Tag: %s\n
 ) - ChangJie
 ) - New ChangJie
 ) - New Phonetic
 ) - Phonetic
-)T$pH
-)|$ f
-,|%)v
---> You requested: %s
 .?AUITfCompartmentEventSink@@
 .?AUITfInputProcessorProfileActivationSink@@
 .?AUITfThreadMgrEventSink@@
@@ -96,10 +72,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -110,89 +86,33 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A_A^A\
-0A_A^A]A\_
-0A_A^_^]
-0v0b1
 0x%4.4x 
-131022120000Z
-141022000000Z
-181004000000Z
-200527201742Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8_^][
-9)~dH
-9_p~$
-;{8u!H
-;{<u$H
-<B%taH
+2\vp0+
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-><-*Y
-?5zlO
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-@.data
-@.tls
-@A_A^A]A\_
-@SUVH
-@SUVWH
-@SVWAUH
-@UAVAWH
-@USAUAVAWH
-@UWATAWH
-@UWAVH
-@VWAVH
-@WAWH
-A previous call to CoInitializeEx specified the concurrency model for this thread as multithread apartment (MTA).
-A8H	P(
-A;^@|
+A previous call to CoInitializeEx specified the concurrency model for this thread as multithread apartment (MTA).\n
 ABC IME
 ADVAPI32.dll
 ALPHANUMERIC_FULL
 ALPHANUMERIC_HALF
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ATOK 2008
 ATOK 2009
 ATOK22W.IME
-A]A\_^]
-A^_^][
-A_A\_]
-A_A^A\]
-A_A^A]A\]
-A_A^A][]
-A_A^A]_]
-A_A^]
-A_A^_
 AcquireSRWLockExclusive
 ActivateKeyboardLayout
 Alphanumeric
@@ -210,11 +130,9 @@ AssetSystemTest001
 BAIDUCN.IME
 Baidu Pinyin IME
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+Big5
 BinaryProperties_GetValue
-C-yh/
 CGlobalConfigValueRegistry::HookUpConfigValue
 CHEWING.IME
 CHINESE
@@ -223,7 +141,7 @@ CMemAllocSystemInitialize
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CSchemaRegistration::RegisterAllModuleData
-C\TSF: Failed to CoCreateInstance.
+C\TSF: Failed to CoCreateInstance.\n
 C\true
 ChangJie
 Chinese
@@ -256,61 +174,43 @@ Chinese Simplified ShuangPin (version 6.0)
 Chinese Simplified ZhengMa (version 6.0)
 Chinese Traditional Array (version 6.0)
 Chinese Traditional DaYi (version 6.0)
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigurationSystem_001
 ConnectInterfaces
-Considering LANGID: 0x%8.8x, Profile Description: '%s'
-Considering Language: LANGID: 0x%8.8x, Name: '%s'
-Could not find requested IME in supported IME list!
+Considering LANGID: 0x%8.8x, Profile Description: '%s'\n
+Considering Language: LANGID: 0x%8.8x, Name: '%s'\n
+Could not find requested IME in supported IME list!\n--> You requested: %s\n
 CreateInterface
-D$ E3
-D$ u9H
-D$0H3L$0H3
-D$<9T$0wE9T$4w?9T$8w9;
-D$@E3
-D$XE3
-D$`H;
-D+cHH
-D+gHH
-D8?tXLc
-D8oIt
-D9!u\H
+DaYi
 DaYi 6.0
 DebugTextureInfo001
 DefWindowProcW
-Detected Windows Version %d.%d
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
+Detected Windows Version %d.%d\n
 DirectInput
 DisableThreadLibraryCalls
-Discovered %d HKL Keys.
-Discovered %d installed languages.
+Discovered %d HKL Keys.\n
+Discovered %d installed languages.\n
 DotaCardGameClient_001
-E0C07
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
 English
 EventSystem001
-F8|($
-FATAL ERROR: unable to register all schema data: %s
-Failed to AdviseSink( IID_ITfCompartmentEventSink ).
-Failed to CoCreateInstance( CLSID_TF_ThreadMgr ).
-Failed to GetCompartment( GUID_COMPARTMENT_KEYBOARD_INPUTMODE_CONVERSION_GFX ).
-Failed to QueryInterface( IID_ITfSource ).
-Failed to create compartment sink.
-Failure in COM. CoCreateInstance from alternate thread?
-Failure in obtaining list of installed IMEs! IME is disabled.
-Failure to activate input language '%s'
+FATAL ERROR: unable to register all schema data: %s\n
+Failed to AdviseSink( IID_ITfCompartmentEventSink ).\n
+Failed to CoCreateInstance( CLSID_TF_ThreadMgr ).\n
+Failed to GetCompartment( GUID_COMPARTMENT_KEYBOARD_INPUTMODE_CONVERSION_GFX ).\n
+Failed to QueryInterface( IID_ITfSource ).\n
+Failed to create compartment sink.\n
+Failure in COM. CoCreateInstance from alternate thread?\n
+Failure in obtaining list of installed IMEs! IME is disabled.\n
+Failure to activate input language '%s'\n
 FlattenedSerializersVersion001
 FontManager_001
 Full-Width Alphanumeric
 Full-Width Katakana
+GCTL
 GCUtlString::FormatV
 GOOGLEPINYIN2.IME
 GSFailure
@@ -337,35 +237,27 @@ GetVersionExA
 GetWindowInfo
 Google Japanese Input
 Google Pinyin
-H0F08
-H1D$0
-H9A u>H
-H9A uiH
-H9A urH
-H9C u
-H9](t	H
 Half-Width Alphanumeric
 Half-Width Katakana
 HammerMapLoader001
 HandleIMEEvent( Pre-Process )
 HandleIMEEvent()
-HcH<H
 HelpSystem_001
 Hiragana
 Hiragana_FullShape
 HostStateMgr001
 IME Composition (%d Chars):
-IME Error: Enumerating Registry Subkeys Failed (%d)
-IME Error: Expected 8 digit hex value, got '%s'
-IME Error: Failure to Initialize InputProcessorProfiles! (%d)
-IME Error: GetLocaleInfoW() Failed. Error Initializing Input Language Name (GetLastError() = %d)
-IME Error: Invalid Window Handle. No IME support possible.
-IME Error: Obtaining IME Filename failed for '%s'
-IME Error: Obtaining Layout Text failed for '%s'
+IME Error: Enumerating Registry Subkeys Failed (%d)\n
+IME Error: Expected 8 digit hex value, got '%s'\n
+IME Error: Failure to Initialize InputProcessorProfiles! (%d)\n
+IME Error: GetLocaleInfoW() Failed. Error Initializing Input Language Name (GetLastError() = %d)\n
+IME Error: Invalid Window Handle. No IME support possible.\n
+IME Error: Obtaining IME Filename failed for '%s'\n
+IME Error: Obtaining Layout Text failed for '%s'\n
 IME Error: Opening Registry subkey Failed (%d)
-IME Error: Retrieving subkey information failed (%d)
-IME Error: Window Handle to IME is NULL!
-IME Error:Opening Registry Key failed (%d)
+IME Error: Retrieving subkey information failed (%d)\n
+IME Error: Window Handle to IME is NULL!\n
+IME Error:Opening Registry Key failed (%d)\n
 IME Finalize Composition (%d Chars):
 IMEManager001
 IMM32.dll
@@ -413,7 +305,7 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 JAPANESE_HIRAGANA
@@ -439,18 +331,8 @@ Korean IME 2007
 Korean IME 2010
 Korean Input System (IME 2000)
 Korean Microsoft IME
-L$ fI
-L$@H1D$0
-L$xI;
-L9d$Ht
-L9d$X
 LIUNT.IME
 LOG_GENERAL
-Lc.D;n
-Lc7D;w
-Lc>D;~
-LcA<E3
-LcCPH
 LoadLibraryA
 Localize_001
 LoggingSystem_GetChannelVerbosity
@@ -498,12 +380,8 @@ New Phonetic 2010
 New Quick
 New Quick 2010
 NianQing
-No IME's Installed!
-Ordered constructor wrapped type has no default constructor.
-PA^_]
-PA__^
-PHD9mw
-PHHcM
+No IME's Installed!\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -528,15 +406,16 @@ QueryPerformanceCounter
 QueuedLoaderVersion001
 Quick
 RSDSF
+R\vp0+
 RegCloseKey
 RegEnumKeyExA
 RegOpenKeyExA
 RegOpenKeyExW
 RegQueryInfoKeyW
 RegQueryValueExW
-RegisterConfigValue: Unknown error constructing config value "%s"!
-Registering IME. Layout: '%s', IME filename: '%s'
-Registering IME. Profile: '%s', IME filename: '%s'
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
+Registering IME. Layout: '%s', IME filename: '%s'\n
+Registering IME. Profile: '%s', IME filename: '%s'\n
 Release
 ReleaseSRWLockExclusive
 RenderDevice003
@@ -551,7 +430,6 @@ ResourceManifestRegistry001
 ResourceSystem013
 RtlUnwindEx
 Russian
-SUVWAVH
 SceneSystem_002
 SceneUtils_001
 SchemaSystem_001
@@ -560,11 +438,11 @@ SchemaTestExternal_Two_001
 SendInput
 SerializedEntitiesVersion001
 ServerUploadGameStats001
-Set Current Language: %s
-SetActiveUIView(): IMEUIView: 0x%8.8p
-SetIMEEnabled %d
-Setting up using Windows Vista IME.
-Setting up using Windows XP IME.
+Set Current Language: %s\n
+SetActiveUIView(): IMEUIView: 0x%8.8p\n
+SetIMEEnabled %d\n
+Setting up using Windows Vista IME.\n
+Setting up using Windows XP IME.\n
 ShowReadingWindow
 Shuang Pin
 Shuang Pin 6.0
@@ -595,35 +473,28 @@ StatusWindow_OnInputMode
 StatusWindow_OnShape
 StatusWindow_OnSymbol
 SteamAudio001
-T$HE3
 TINTLGNT.IME
-TSF Init() Failure!
-TSF: Failed to initialize UI Element sink.
-TSF: Failed to initialize thread manager sink.
-TSF: Failed to load the TSF thread manager.
+TSF Init() Failure!\n
+TSF: Failed to initialize UI Element sink.\n
+TSF: Failed to initialize thread manager sink.\n
+TSF: Failed to load the TSF thread manager.\n
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
-The COM library is already initialized on this thread.
+The COM library is already initialized on this thread.\n
 ToUnicodeEx
 ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-UATAUAVAWH
-UATAVAWH
 UNKNOWN
 USER32.dll
-UVWATAUH
-UVWAVAWH
-UWAUAVAWH
-UWAVH
 Unicode
 Unknown
 Unknown IME message
 Unknown IMN_??? message
 UserInfoChangeService_001
-Using internal list of %d supported IMEs.
+Using internal list of %d supported IMEs.\n
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -670,13 +541,9 @@ V_sscanf
 V_stricmp_fast
 V_vsnprintfSize
 V_wcsicmp
-Valve0
-Valve1
 VerQueryValueA
 Version
 VisBuilder_001
-WATAUAVAWH
-WAVAWH
 WINWB86.IME
 WINWB98.IME
 WM_CHAR
@@ -704,7 +571,7 @@ WM_SYSKEYUP
 WM_UNICHAR
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
@@ -716,38 +583,22 @@ Wubi98
 Zheng Ma
 Zheng Ma 6.0
 ZhengMa
-\$ UH
-\$ UWAUAVAWH
-\$ VWAWH
-\$ WH
-\$8;>
-\$Ht]H
-\$PE3
-\$Pf;
-\$d9\$`
-\$d;\$`
-\$xt	H
 _V_strncpy
-`.rdata
-`A_A^_^]H
+`5Sf
 c:\buildslave\hlvr_rel_win64\build\src\imemanager\Retail\win64\imemanager.pdb
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\tier1\configvalue.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
+c\t4
 chajei.ime
-d$HH9U
 dayi.ime
 error
 false
-ffffff
+full
 g_pMemAlloc
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
+half
 ime_hkl_info
 ime_info
 ime_supported_info
@@ -764,60 +615,15 @@ imjp9.ime
 imkr12.ime
 imkr14.ime
 itABC IME v5.30
-k0i0$
-l$ VWAVH
-l$0Hc
-l$8E3
-l$Pu*H
-l$xE2
-m0k0$
-oID8oJu*H
-p0n05
-p1f3q>
 phon.ime
 pintlgnt.ime
 purecall
 quick.ime
 sogoupy.ime
-t	f97t
-t$ AVH
-t$ AWH
-t$ UWAWH
-t$ WATAUAVAWH
-t$ WH
-t$(E3
-t$0E3
-t$@ff
-t$HE3
-t$XE3
-t$Xt	H
-t$`;t$0
-t9H9=
 tier0.dll
-u	@8=
-u	D9(
-u#H9]
-v0t08
-wDt5H
 winabc.ime
 winabcx.ime
 winar30.ime
 winpy.ime
 winsp.ime
 winzm.ime
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x0v0$
-z0x0:
-|$ ATAVAWH
-|$ AVH
-|$ AWH
-|$0tIH
-|$8f#
-|$H=	
-|$PHcy@
-|$`D9|$0
-|$`E2
-|$`Lc
-}h><PP:

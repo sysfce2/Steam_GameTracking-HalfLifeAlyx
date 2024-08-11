@@ -1,4 +1,3 @@
-	?isDir@QFileInfo@@QBE_NXZ
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
@@ -10,26 +9,8 @@
  Type Descriptor'
  delete
  delete[]
- new[]
-!This program cannot be run in DOS mode.
-%0j0=2H2P2e2
-+A<_^][
-- Attempt to initialize the CRT more than once.
-- Attempt to use MSIL code from this assembly during native code initialization
-- CRT not initialized
-- floating point support not loaded
-- not enough space for _onexit/atexit table
-- not enough space for arguments
-- not enough space for environment
-- not enough space for locale information
-- not enough space for lowio initialization
-- not enough space for stdio initialization
-- not enough space for thread data
-- pure virtual function call
-- unable to initialize heap
-- unable to open console device
-- unexpected heap error
-- unexpected multithread lock error
+ new
++\n?isSequential@QProcess@@UBE_NXZ
 -file
 -server
 .?AVQAbstractSocket@@
@@ -40,109 +21,22 @@
 .?AVQTcpSocket@@
 .?AVtype_info@@
 .mixcrt
-.rsrc
-.text
-0 0$0(0,00040
-0$0<0X0x0
-0%0H0
-01070V0\0
-052F2
-0A@@Ju
-0N0a0g0s0y0
-0SSSSS
-1%11161;1A1E1K1P1V1^1j1
-1%1I1P1Z1
-1-171F1^1d1~1
-10141L1\1`1t1x1
-151<1U1\1~1
-183<3@3D3H3L3P3T3X3\3`3d3y3
 1procError(QProcess::ProcessError)
 1readPort()
 1readStdError()
 1socketConnected()
 1socketConnectionClosed()
 1socketError()
-2 2$2(2<2@2P2T2X2\2d2|2
-2 2<2N2
-2%2,222B2H2U2[2{2
-2%3.3:3p3y3
-2034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+2\r?readAllStandardError@QProcess@@QAE?AVQByteArray@@XZ
 2connected()
 2disconnected()
 2error(QAbstractSocket::SocketError)
 2error(QProcess::ProcessError)
 2readyReadStandardError()
 2readyReadStandardOutput()
-3"3.3
-3$3,343<3D3L3T3\3d3l3t3|3
-3$3o3w3
-3%3Y3`3k3
-3(3H3h3
-3*3<3N3`3
-3044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
-3;4E4f4
-3Y4_4
-4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
-4(4Y5v5
-404L4P4l4p4
-41575C5
-415I5T5x5
-455e5w5
-4;5L5b5r5
-4@4Q4_4l4
-4E4X4
-4a4i4
-5 5$5(5,5054585<5@5
-5 6E6X6q6
-5#6/6B6T6o6w6
-5*6_6x6
-505P5p5
-6 6$6(60646`:t;x;
-6"6,646?6o6
-6#6-636W6
-616?6N6
-617p7
-6@6X6d6j6
-7 7$7n7t7x7|7
-7*82888?8Z8
-7G7X7l7r7y7
-8 8A8k8
-898>8(9=9C9L9S9r9
-8P9V9i9s9
-9":*:6:>:R:]:b:t:~:
-9+9?9E9
-94:F:w:
-9] SS
-9]$SS
-:!:&:5:>:K:V:h:{:
-:,:K:q:
-:?:X:_:g:l:p:t:
-:D:R:
-:G<^<d<t<y<
-:Q;X;j;
-;!;(;-;6;C;I;c;t;z;
-;I;N;Y;^;|;
-;N;T;X;\;`;
-;o;x;~;
-;t$,v-
-< <$<(<8<@<D<H<L<P<T<X<\<`<d<p<0=4=
-< tK<	tG
-<!<K<}<
-<"=J=j=p=~=
-<#<0<@<r<x<
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
-<><W<
-<Yv8V
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+3\r?readAllStandardOutput@QProcess@@QAE?AVQByteArray@@XZ
+:\r?readData@QProcess@@MAE_JPAD_J@Z
 <program name unknown>
-=,=2=F=M=g=q=w=
-=,?3?9?_?
->+>L>V>q>
->=Yt/j
->I>^>l>
-? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
-?$?,?4?@?I?N?T?^?g?r?~?
-?(?A?m?
 ??0QAssistantClient@@QAE@ABVQString@@PAVQObject@@@Z
 ??0QFileInfo@@QAE@ABVQString@@@Z
 ??0QObject@@QAE@PAV0@@Z
@@ -197,35 +91,18 @@
 ?fromLatin1_helper@QString@@CAPAUData@1@PBDH@Z
 ?isOpen@QAssistantClient@@QBE_NXZ
 ?isSequential@QAbstractSocket@@UBE_NXZ
-?isSequential@QProcess@@UBE_NXZ
-?kill@QProcess@@QAEXXZ
 ?metaObject@QAssistantClient@@UBEPBUQMetaObject@@XZ
-?metaObject@QProcess@@UBEPBUQMetaObject@@XZ
 ?metaObject@QTcpSocket@@UBEPBUQMetaObject@@XZ
-?node_create@QMapData@@QAEPAUNode@1@QAPAU21@HH@Z
-?node_delete@QMapData@@QAEXQAPAUNode@1@HPAU21@@Z
-?open@QIODevice@@UAE_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?openAssistant@QAssistantClient@@UAEXXZ
-?pos@QIODevice@@UBE_JXZ
 ?procError@QAssistantClient@@AAEXW4ProcessError@QProcess@@@Z
-?qFree@@YAXPAX@Z
 ?qt_metacall@QAssistantClient@@UAEHW4Call@QMetaObject@@HPAPAX@Z
-?qt_metacall@QObject@@UAEHW4Call@QMetaObject@@HPAPAX@Z
-?qt_metacall@QProcess@@UAEHW4Call@QMetaObject@@HPAPAX@Z
 ?qt_metacall@QTcpSocket@@UAEHW4Call@QMetaObject@@HPAPAX@Z
 ?qt_metacast@QAssistantClient@@UAEPAXPBD@Z
-?qt_metacast@QObject@@UAEPAXPBD@Z
-?qt_metacast@QProcess@@UAEPAXPBD@Z
 ?qt_metacast@QTcpSocket@@UAEPAXPBD@Z
-?readAllStandardError@QProcess@@QAE?AVQByteArray@@XZ
-?readAllStandardOutput@QProcess@@QAE?AVQByteArray@@XZ
 ?readData@QAbstractSocket@@MAE_JPAD_J@Z
-?readData@QProcess@@MAE_JPAD_J@Z
 ?readLineData@QAbstractSocket@@MAE_JPAD_J@Z
-?readLineData@QIODevice@@MAE_JPAD_J@Z
 ?readPort@QAssistantClient@@AAEXXZ
 ?readStdError@QAssistantClient@@AAEXXZ
-?reset@QIODevice@@UAE_NXZ
 ?seek@QIODevice@@UAE_N_J@Z
 ?setArguments@QAssistantClient@@QAEXABVQStringList@@@Z
 ?setupChildProcess@QProcess@@MAEXXZ
@@ -260,20 +137,16 @@
 ?waitForReadyRead@QProcess@@UAE_NH@Z
 ?writeData@QAbstractSocket@@MAE_JPBD_J@Z
 ?writeData@QProcess@@MAE_JPBD_J@Z
-@.data
-@.reloc
-@PVSS
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-An application has made an attempt to load the C runtime library incorrectly.
 April
 August
+C\r?readLineData@QIODevice@@MAE_JPAD_J@Z
 Cannot connect to Qt Assistant.
 Communication error
 CorExitProcess
 Could not connect to Assistant: Connection refused
 Could not connect to Assistant: Host not found
-D$,9h
-DOMAIN error
+DOMAIN error\r\n
 December
 DecodePointer
 DeleteCriticalSection
@@ -332,6 +205,8 @@ IsDebuggerPresent
 IsValidCodePage
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
+July
+June
 KERNEL32.DLL
 KERNEL32.dll
 LCMapStringA
@@ -346,42 +221,33 @@ Monday
 MultiByteToWideChar
 November
 October
-PPPPP
-PPPPPPPP
-Please contact the application's support team for more information.
-Program: 
 QAssistantClient
-QQSV3
-QSUVW
 Qt Assistant crashed.
 QtAssistantClient4.dll
 QtCore4.dll
 QtNetwork4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
-R6002
-R6008
-R6009
-R6016
-R6017
-R6018
-R6019
-R6024
-R6025
-R6026
-R6027
-R6028
-R6030
-R6031
-R6032
-R6033
-R6034
+R6002\r\n- floating point support not loaded\r\n
+R6008\r\n- not enough space for arguments\r\n
+R6009\r\n- not enough space for environment\r\n
+R6016\r\n- not enough space for thread data\r\n
+R6017\r\n- unexpected multithread lock error\r\n
+R6018\r\n- unexpected heap error\r\n
+R6019\r\n- unable to open console device\r\n
+R6024\r\n- not enough space for _onexit/atexit table\r\n
+R6025\r\n- pure virtual function call\r\n
+R6026\r\n- not enough space for stdio initialization\r\n
+R6027\r\n- not enough space for lowio initialization\r\n
+R6028\r\n- unable to initialize heap\r\n
+R6030\r\n- CRT not initialized\r\n
+R6031\r\n- Attempt to initialize the CRT more than once.\nThis indicates a bug in your application.\r\n
+R6032\r\n- not enough space for locale information\r\n
+R6033\r\n- Attempt to use MSIL code from this assembly during native code initialization\nThis indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.\r\n
+R6034\r\nAn application has made an attempt to load the C runtime library incorrectly.\nPlease contact the application's support team for more information.\r\n
 RtlUnwind
-Runtime Error!
-SING error
-SSSSS
-SUVWP
-SVWUj
+Runtime Error!\n\nProgram: 
+SING error\r\n
 Saturday
 September
 SetHandleCount
@@ -390,43 +256,32 @@ SetUnhandledExceptionFilter
 Sleep
 SunMonTueWedThuFriSat
 Sunday
-TLOSS error
+TLOSS error\r\n
 TerminateProcess
-This application has requested the Runtime to terminate it in an unusual way.
-This indicates a bug in your application.
-This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
 Thursday
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
 Tuesday
-UQPXY]Y[
-URPQQh
 USER32.DLL
 UnhandledExceptionFilter
-VVVVV
-VWUPS
 VirtualAlloc
 VirtualFree
-WWWWV
-WWWWW
 Wednesday
 WideCharToMultiByte
 WriteFile
-Wto=@
-YYt4V
-YYt:V
-YYu-9D$
-YYuTVWh
-Y]_^[
-Y_^][
-Y__^[
-[j@j 
-\$ UV
-]_^[Y
-_^][Y
-_^][YY
+[\f?qFree@@YAXPAX@Z
+\f?qt_metacall@QObject@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+\f?qt_metacall@QProcess@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+\f?qt_metacast@QObject@@UAEPAXPBD@Z
+\f?qt_metacast@QProcess@@UAEPAXPBD@Z
+\r?reset@QIODevice@@UAE_NXZ
+\r\nThis application has requested the Runtime to terminate it in an unusual way.\nPlease contact the application's support team for more information.\r\n
+\t?isDir@QFileInfo@@QBE_NXZ
+\v?metaObject@QProcess@@UBEPBUQMetaObject@@XZ
+\v?open@QIODevice@@UAE_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+\v?pos@QIODevice@@UBE_JXZ
 __based(
 __cdecl
 __clrcall
@@ -437,7 +292,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-`.rdata
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -478,37 +332,26 @@ assistantClosed()
 assistantOpened()
 assistant_adp
 bad allocation
+bool
 closeAssistant()
 dddd, MMMM dd, yyyy
 error(QString)
-j@j ^V
 kernel32.dll
-l$ u-j
 localhost
 mscoree.dll
+open
 openAssistant()
 operator
+p\n?kill@QProcess@@QAEXXZ
+page
 procError(QProcess::ProcessError)
 readPort()
 readStdError()
 runtime error 
+s\v?node_create@QMapData@@QAEPAUNode@1@QAPAU21@HH@Z
 showPage(QString)
 socketConnected()
 socketConnectionClosed()
 socketError()
-t#SSUP
-t$$VSS
-t+WWVPV
-tD9(u@
-tJVUP
-t^9(uZ
-teh+/
+t\v?node_delete@QMapData@@QAEXQAPAUNode@1@HPAU21@@Z
 tier0.dll
-u WPS
-u&WVS
-u8SS3
-uL9=p
-uO8D$
-v	N+D$
-v$;5d
-wIVSP

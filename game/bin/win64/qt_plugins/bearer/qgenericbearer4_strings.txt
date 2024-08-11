@@ -1,46 +1,18 @@
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A\_^
- A]A\_
- A^A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- I;\$0u
  Type Descriptor'
+ \f?number@QString@@SA?AV1@IH@Z
  delete
  delete[]
- new[]
- t?D9
+ new
  throw(
  volatile
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
-(D$ H
-(D$@H
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$@D
-)t$@E
 ,<ellipsis>
 .?AUQBearerEngineFactoryInterface@@
 .?AUQFactoryInterface@@
@@ -61,16 +33,6 @@
 .?AVbad_typeid@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.pdata
-.text
-/L9\$ t
-0A\_^
-0A\_^][
-0A]A\_
-0A^A]A\
-0A^][
-0A_A^A]A\_
-0A_A^A]A\_^[
 1configurationChanged(QNetworkConfigurationPrivatePointer)
 1connectionError(QString,QBearerEngineImpl::ConnectionError)
 1decrementTimeout()
@@ -79,43 +41,10 @@
 2connectionError(QString,QBearerEngineImpl::ConnectionError)
 2forcedSessionClose(QNetworkConfiguration)
 2updateCompleted()
-7;|$0t,
-8$u,D
-8$u.D
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8Ft0A
-8Ht*A
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
-<A|2<P
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+:\v?lock@QMutex@@QEAAXXZ
 <ellipsis>
 <unknown>
-<z~$<A|
+>\v?lockInline@QMutex@@QEAAXXZ
 ??0QBearerEngine@@QEAA@PEAVQObject@@@Z
 ??0QBearerEnginePlugin@@QEAA@PEAVQObject@@@Z
 ??0QChar@@QEAA@UQLatin1Char@@@Z
@@ -147,7 +76,6 @@
 ??8QString@@QEBA_NAEBV0@@Z
 ??8QString@@QEBA_NAEBVQLatin1String@@@Z
 ??MQString@@QEBA_NAEBV0@@Z
-?CuND8g
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
 ?addressEntries@QNetworkInterface@@QEBA?AV?$QList@VQNetworkAddressEntry@@@@XZ
 ?allInterfaces@QNetworkInterface@@SA?AV?$QList@VQNetworkInterface@@@@XZ
@@ -193,27 +121,16 @@
 ?interfaceFromName@QNetworkInterface@@SA?AV1@AEBVQString@@@Z
 ?isValid@QNetworkConfiguration@@QEBA_NXZ
 ?isValid@QNetworkInterface@@QEBA_NXZ
-?lock@QMutex@@QEAAXXZ
-?lockInline@QMutex@@QEAAXXZ
 ?metaObject@QBearerEnginePlugin@@UEBAPEBUQMetaObject@@XZ
 ?name@QNetworkInterface@@QEBA?AVQString@@XZ
 ?newConfigurationActivated@QNetworkSessionPrivate@@IEAAXXZ
-?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
-?node_delete@QMapData@@QEAAXQEAPEAUNode@1@HPEAU21@@Z
-?number@QString@@SA?AV1@HH@Z
-?number@QString@@SA?AV1@IH@Z
-?qFree@@YAXPEAX@Z
-?qHash@@YAIAEBVQString@@@Z
 ?qNetworkConfigurationManagerPrivate@@YAPEAVQNetworkConfigurationManagerPrivate@@XZ
 ?qt_metacall@QBearerEngine@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QBearerEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QNetworkSessionPrivate@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacast@QBearerEngine@@UEAAPEAXPEBD@Z
 ?qt_metacast@QBearerEnginePlugin@@UEAAPEAXPEBD@Z
 ?qt_metacast@QNetworkSessionPrivate@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?quitPendingWaitsForOpened@QNetworkSessionPrivate@@IEAAXXZ
 ?realloc@QListData@@QEAAXH@Z
 ?registerType@QMetaType@@SAHPEBDP6AXPEAX@ZP6APEAXPEBX@Z@Z
@@ -239,84 +156,22 @@
 ?unlockInline@QMutex@@QEAAXXZ
 ?updateCompleted@QBearerEngine@@IEAAXXZ
 ?utf16@QString@@QEBAPEBGXZ
-@.data
-@.reloc
-@.rsrc
-@8s@u
-@A]A\]
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
-@SUAVH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@USVWATAUAVAWH
-@USWH
-@UVWATAUH
-@VWATH
-A9	u<A
-A9	uxA
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-A]A\_
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A^A]_
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 April
 August
 AutoCloseSessionTimeout
-B(I9A(u
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\bearer\qgenericbearer4.pdb
 CloseHandle
 CorExitProcess
 CreateFileW
-D$&8\$&t-8X
-D$(E3
-D$8E3
-D$8HcH
-D$DE3
-D$PL9oXt
-D$XE3
-D$p H
-D+qpI
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8t$ t
-D9d$ 
-D;+t1
 December
 DecodePointer
 DeleteCriticalSection
 DeviceIoControl
-E9,$~T3
-E9A u
-E9A u#I
-E9Y t
-E;,$|
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
 ExitProcess
-F0HcH
 FatalAppExitA
 February
 FlsAlloc
@@ -326,7 +181,6 @@ FlsSetValue
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G0Hc	H
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -357,19 +211,7 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H(H9J(u
-H+_HH
-H9L$Xt'H
 HH:mm:ss
-HcC H
-HcD$8H
-HcH<H
-HcO H
-HcT$8McJ
-Hct$@H
-Hc}lD
-Hc}lH
-Hc~lH
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -377,33 +219,14 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-Hhu	H
-I94$tt
-I;\$0t
-I;\$0t.
-IcqHH
-IcqHI
 InitializeCriticalSectionAndSpinCount
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
 January
-Jhu	H
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ E3
-L$ H3
-L$ SUVWH
-L$(E3
-L$0<`t
-L$0H;
-L$8H3
-L$8HcQ
-L$@;|
-L$@E3
-L$HH3
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -411,26 +234,17 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
-Lc\$8HcJ
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
 March
-Mc,$E
 MessageBoxW
 Monday
 MultiByteToWideChar
+NULL
 Norwegian-Nynorsk
 November
-O0HcQ
 October
-OhuUH
-PA\_^][
-PA^A]A\_^][
 QBearerEngineImpl
 QBearerEngineImpl::ConnectionError
 QGenericEngine
@@ -441,6 +255,7 @@ QtCore4.dll
 QtNetwork4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
+RSDS
 RaiseException
 Roaming was aborted or is not possible.
 RtlCaptureContext
@@ -448,9 +263,6 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-SUVWATH
-SUVWH
-SVWATAUAVAWH
 Saturday
 September
 SetConsoleCtrlHandler
@@ -460,45 +272,28 @@ SetUnhandledExceptionFilter
 Sleep
 Sunday
 SystemFunction036
-T$0E3
-T$PE3
 TerminateProcess
 The requested operation is not supported by the system.
 The session was aborted by the user or system.
 The specified configuration cannot be used.
 Thursday
 Tuesday
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUAVAWH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 UnhandledExceptionFilter
 Unknown
 Unknown exception
 Unknown session error.
-VWATAUAVH
-VWATH
-WATAUAVAWH
-WATAUH
-WATAVH
 Wednesday
 WideCharToMultiByte
 WriteFile
 [thunk]:
-\$ UVWATAUAVAWH
-\$0H;
-\$0HcA
-\$0HcJ
-\$0u	H
-\$8L3
-\$HH;
-\$`u	H
-\\.\%1
+\f?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?node_delete@QMapData@@QEAAXQEAPEAUNode@1@HPEAU21@@Z
+\f?number@QString@@SA?AV1@HH@Z
+\f?qFree@@YAXPEAX@Z
+\f?qHash@@YAIAEBVQString@@@Z
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 __based(
 __cdecl
 __clrcall
@@ -515,12 +310,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
-` AUH
-`.rdata
-`A\_]
-`A]A\_^]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -574,10 +363,10 @@ american-english
 australian
 bad exception
 belgian
+bool
 britain
-buildkey=Windows x64 msvc release full-config
-c AUH
 canadian
+char
 char 
 china
 chinese
@@ -596,12 +385,8 @@ connectionError(QString,QBearerEngineImpl::ConnectionError)
 const
 const 
 czech
-d	?hasShrunk@QHashData@@QEAAXXZ
-d$ UH
-d$8H+
-d$@IcD$
+d\t?hasShrunk@QHashData@@QEAAXXZ
 dddd, MMMM dd, yyyy
-debug=false
 decrementTimeout()
 doRequestUpdate()
 double
@@ -622,10 +407,6 @@ english-us
 english-usa
 enum 
 extern "C" 
-fD9 t
-fD9#u
-fD9t$b
-fffffff
 float
 forcedSessionClose(QNetworkConfiguration)
 french-belgian
@@ -640,15 +421,15 @@ german-lichtenstein
 german-luxembourg
 german-swiss
 great britain
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 holland
 hong-kong
 id,error
 initialize()
+int 
 irish-english
 italian-swiss
-l$ D!
-l$(LcnlL
-l$@@2
+long
 long 
 networkConfigurationsChanged()
 new-zealand
@@ -656,9 +437,7 @@ norwegian
 norwegian-bokmal
 norwegian-nynorsk
 operator
-p WATAUAVAWH
-p WATAUH
-pattern=QT_PLUGIN_VERIFICATION_DATA
+pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
 portuguese-brazilian
 pr china
 pr-china
@@ -670,8 +449,6 @@ qgenericbearer4.dll
 qt_plugin_instance
 qt_plugin_query_verification_data
 requestUpdate()
-s WATAUAVAWH
-s\HcL$HH
 short
 short 
 signed 
@@ -704,51 +481,18 @@ std::nullptr_t
 struct 
 swedish-finland
 swiss
-t$ @80
-t$ ATH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WAUAVH
-t$ WH
-t$8HcF
-t$@H9
-t$PH;
-t$PH;]
-t*HcO
-t0<@t
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tb<A|M<P
 template-parameter-
 tier0.dll
-tnLcV
 trinidad & tobago
-u"E9Q t
-u5E9Q t
-uEHcF
-uNM9u
-uQI91tLH
-u_D9u
 union 
 united-kingdom
 united-states
 unsigned 
-version=4.8.3
 virtual 
+void
 void 
 volatile
 volatile 
 wchar_t
-x ATAUAVH
-x ATH
-zux!l$ E3
 {flat}
 {for 
-|$ ATAUAVH
-|$ ATH
-|$ H;
-|$ HcJ
-|$ UATAUAVAWH
-|$ UH
-~/8\$vt)H
-~ID;c

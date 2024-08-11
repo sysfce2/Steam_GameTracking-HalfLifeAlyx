@@ -1,212 +1,87 @@
-					
-								
-																												
-	-f3F2
-	JR>8o
-	kE>fvw
                           
      %-15s 
-    Last message repeated %d times
-  %s%-17s 
+    Last message repeated %d times\n
+    Last message repeated %d times\r
  !"#$%&'()*+,-./0123
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %UUUU+
- %UUUUD+
- 'L>[
  (default 
  (from 
- A^^]
- A^_^
- A_A\_
- A_A]A\_[
- A_A^A\
- A_A^A\_^
- A_A^A]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^]
- A_A^^
- A_A^_
- A_][
- A_^]
- A__]
- A__^
  C>TQ
- HcA H
- LcT$pE3
- Lc\$`3
- RUDt
- RUDuYH
  iciNWq
- is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
- tDE3
-!	@cb
+ is not implemented. Update your FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.\n
 !"valid element size"
-!>6'Y
-!This program cannot be run in DOS mode.
-!\$0!\$(!\$ L
 !c->plane && !c->step && !c->offset && !c->shift && !c->depth
-!t$(H!t$ I
-"%-U^7
 "e?<<<<<<l?
-"o;h(Y
 #+3;$,4<*'- 735
-#fD9M
-$3D$$
-$D3d$4D3d$
 $Ib?s
 %-11s %7d %10d
-%-12s 
 %-6s   %2d 
+%02X
 %02lu:%02lu:%02lu%c%02lu
 %02u:%02u:%02u%c%02u
-%3333
-%3333A
-%?/?!
-%GoU?*
-%H%M%S
-%H:%M
-%H:%M:%S
-%J:%M:%S
-%M:%S
-%UUUU+
-%UUUUD+
+%02x
 %Y - %m - %d
-%Y%m%d
 %Y-%m-%dT%H:%M:%S
 %d channels
 %d%*1[:/]%d%c
 %d.%06d
-%d/%d
 %d:%02d.%06d
-%d:%d%c
 %d:%d:%d%c%d
 %dx%d
+%llX
+%lld
 %lld:%02d:%02d.%06d
-%s AVOptions:
+%llu
+%s AVOptions:\n
 %s%02d:%02d:%02d%c%02d
-%s%s%s%s
-&5	M{
 &?PPPPPPP?
-&t6E3
 ( 8PX
 ('8PW
-(>nH&p
-(A^A]A\_^[
-(A^_^[
-(A_A\_^
-(A_A]_]
-(A_A^A]A\^]
-(A__][
-(D$PH
-(T?j?Y
-(\/J@
-(d$Pw
+(UhP
 (d->nb_components==4 || d->nb_components==2) == !!(d->flags & (1 << 7))
 (null)
-(t$ H
-(t$03
-(t$0D
-(t$0H
-(t$@H
-(t$PH
-(t$PL
-(t$`H
-(t$`I
-(t$pM
-(|$ H
-(|$ fE
-(|$`D
-)/o>	
-)2#.!%,4
-)>6{1n
-)D	 B
-)D$PH
-)D$PH;
-)L	0I
-)L	u@
-)L$`A
-)L$pI
-)T$4A;
-)T$PA
-)\	 B
-)d	0I
-)l$@D
-)t$ A
-)t$0D
-)t$0H
-)t$0Hc
-)t$0I
-)t$PH
-)t$PL
-)t$`A
-)t$`H
-)t$pH
-)|$0H
-)|$`D
-)|B?d!
+(yaX
+)eyC
+)yIx
 *StO9>T
 +LVvuOx39]O#2
-+M<7>
-+Q H+
-+f)>0'
-+h->|
++inf
 +infinity
++nan
 ,HR>O
-,X< w
---<<M^^o
---<^^o
 --prefix=/d/dev/steam/thirdpartycode/ffmpeg/dev/build_win64 --toolchain=msvc --enable-shared --disable-static --enable-runtime-cpudetect --disable-all --enable-avcodec --enable-avutil --enable-avresample --enable-avformat --enable-swscale --arch=x86_64 --enable-parser=h264 --enable-decoder='aac,h264,vp8,vp9,gif,vorbis,mp3,flac,alac,pcm*' --enable-demuxer='aac,matroska,gif,ogg,mov,mp3,flac,wav' --enable-hwaccels --enable-dxva2 --disable-decoder=mpeg1video --disable-decoder=mpeg2video --disable-decoder=vc1 --disable-decoder=h263 --enable-libvpx
 -64OS
+-7HD
 -BH>t
 -DBL_MAX
 -DBL_MIN
 -FLT_MAX
 -FLT_MIN
+-inf
 -infinity
+-nan
 .%06dZ
-..om?
 .97yY
-.>PJ;I:qE>
-.i?0@I
-.pdata
-.text
+.>\rfJBGo
+.x7B
 .xJ>Hf
-/	D9v
 /2GG>!B
-/>58d%
+0000
 000000
 00006
 0000x
+000`
+00x\f|
 0123456789ABCDEFabcdef
-0><[cZUg^>
-0A]A\]
-0A]A\^
-0A^][
-0A^_]
-0A^_^
-0A_A]]
-0A_A]_^[
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^[
-0A_A^_
-0A_^]
-0D$HA;
-0Hc\$`A
+08bX
+0E>X
 0X8b?~
-0```0
-0``|```0
-0ffffff
+0bgr
 0iN>/
 0p0000
+0rgb
 0x%02x%02x%02x%02x
 0x%08X
 0x%llx
@@ -216,46 +91,38 @@ $Ib?s
 1#INF
 1#QNAN
 1#SNAN
+11UT
+11Y@
 16cif
-1<.	/>:
 1d[O~
-2=TMFSt#=EZISt
-2D$2C2
-2]fQ	?5!
+27;C
+2\n0h
+2\vpDk
+2\vph
 2kdci
 2kflat
 2kscope
 3.0(back)
 3.3.4
+37>k
 3>N;kU
 3>fvw
-3D$ A3
-3D$,D
-3D$4A3
-3D$83D$
-3T$@A
-3\$0A
 3dnow
 3dnowext
-3fD9 t
-3l$$3
-3l$(3T$,3l$4A
-3l$(A
-3l$@3
-3t$(3l$ A
-3t$(A
-3t$8D
 3x3 displaymatrix
-3|$8A
-4$3t$4
+4\tgA
+4cif
 4kdci
 4kflat
 4kscope
 5.0(side)
 5.1(side)
+51>W
+6"8d
 6.0(front)
 6.1(back)
 6.1(front)
+6666
 66666
 6666666
 66666666
@@ -268,70 +135,35 @@ $Ib?s
 6666666?
 66666707666
 666676666670?
-6I*h<8
+6BJ^
+6NK>
+6\fXO>
+6\fXO>\ntA
 7,gm;
 7.0(front)
 7.1(wide)
 7.1(wide-side)
 700PP
 700WP
-7=TMFSt)=EZISt
-8$u&L9T$pu
+7>I0
+7?GX
+7yp>
+7~xh
 8*c->step >= c->depth
-8-u+H
-80tVD
-8A^A\^]
-8A^A]A\]
-8A_A]_[
-8A_A^A]A\_^[]
 8Csinf
-8D$8t
-8L$8t
-8L$@t
-8UXt$@
-8_^][
-8cuX3
+8On\f
 8ke?;
+8l8v
+8ld`
+8ll8
 8ll8v
-9(udH
-9-u$H
-9<'u0
+9)PF
+9>70
 9>powf
-9D$@t
-9D$Hu
-9D$`t
-9D$htg
-9T$`t
-9\$(tlM
-9\$lu
-9\$pu
-9\$xu
-9\$|u
-9]@~HH
 9g>@3
-9t$P~.8\$vt(H
-9t$P~98\$vt3H
-:>)*	v
-:>t6k'
 ;"lY7
-;(uXH
-;.u1L
-;.uJH
-;Cu1f9K
-;D8|$Ht
-;H9;t'9{
-;H9>&X
-;\$p|
-;t0=ALHCt =RLOCt
-< tD<	t@
-< w]H
-<$3t$,3|$$D3|$83|$
-<$D3|$4
-<-uYE
-<-urE
+;1cb
 <00000000<
-<5wEH
-<>#n2
 <binary>
 <boolean>
 <channel_layout>
@@ -339,12 +171,10 @@ $Ib?s
 <double>
 <duration>
 <fBBf<
-<f``f<
 <fff<
 <ffff<
 <flags>
 <float>
-<f~`<
 <image_size>
 <int64>
 <int>
@@ -354,48 +184,16 @@ $Ib?s
 <string>
 <uint64>
 <video_rate>
-= RUD
-= RUDt
-= RUDtA=TMFP
-= RUDtv=TMFPto=TMFSth=EZISt==TARVt
-= RUDu9L
-= {[8V
-=))))
-=ALHC
-=ALHCt
-=ALHCtr=RLOCt4= RUD
-=EZIS
-=EZISt
-=EZIStq=TARV
-=LOOB
-=LOOBt
-=LOOBt0=ALHCt
-=LOOBu?M
-=RLOC
-=RLOCt
-=RLOCtw= RUDt-=TMFP
-=TARVt
-=TARVt	L
-=TARVu
-=TARVu?L
-=TMFP
-=TMFPt
-=TMFPtx=TMFStq=TARVt
-=TMFS
-=TMFSt
+=1cb
+=cQ6
+=e2m
 =imb;D
->%u=A
->+>ZQ"v
 >c8ll8
->ffff<
+>cQ6
 >jtm}S
->pmA#
->pmA3
->pmD3
->uZ>`
-?/t,L
 ?0766666
 ?076666666666666
+?1cb
 ?3?0000p
 ?3?00p
 ?456789:;<=
@@ -404,161 +202,55 @@ $Ib?s
 ?7zQ6$
 ?8UUUUU
 ?8bunz8
-?:kP<
-?:u*H
-?:u\H
 ?@En[vP
 ?JV8f
 ?N]TUUU
 ?P?XC
-?QY^&
 ?R0I?
 ?UUUUUU
 ?expf
 ?f`Y4
-?t_v>
-?vOD+
-?{Q}<
-@.data
-@.idata
-@.reloc
-@8.v3H
-@83t'
-@8l$8t
-@8t$8t
-@>%>b
-@A^_^
-@A_A^A\
-@A_A^A\_^[]
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^^
-@H93t
-@L9+t
-@L9.t
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAUH
-@SUAVH
-@SUAWH
-@SUVATAVAWH
-@SUVAVH
-@SUVH
-@SUVWATAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAUAVAWH
-@SVWATAVH
-@SVWAUAWH
-@SVWAVH
-@SVWH
-@SWATAUAWH
-@SWAUAVH
-@UATAUAVAWH
-@UATAUAVH
-@UATAUH
-@UAUAWH
-@UAUH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWH
-@USWATAVAWH
-@USWH
-@UVATAVH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UWAUAWH
-@UWAWH
-@VATAUAVAWH
-@VATAUH
-@VAVH
-@VWAVH
-@WATH
-@WAVAWH
-@WAVH
+?qBJ
+?rAj
+?ysB
 @^8U)zj
-@`H9[`u
-A$+A 
-A03>A|
-A38E3X
-A4x{%`
-A8(t"A
-A81t@@8r
-A9@tt
-A;	t3A
-A;<$|
-A>l$/
+@n2w
 A>pP&
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
-AD9Gtt
-ADVAPI32.dll
-AH9Ctu	A
-AHvT2
+AJsN
 AK>(v
-ALHCt
-ALHCt'L
-ALHCt,L
-ATAVAWH
 ATSC A53 Part 4 Closed Captions
-AUAVAWH
 AVHWDeviceContext
 AVHWFramesContext
 AVMatrixEncoding
-AVOption type %d of option %s not implemented yet
+AVOption type %d of option %s not implemented yet\n
 AVPanScan
 AVReplayGain
 AV_LOG_FORCE_NOCOLOR
-A\vT2
-A^A\_
-A^A\_^[
-A^A]_[
-A^^][
-A^_^[
-A^_^[]
-A^_^][
-A_A]A\_^
-A_A]][
-A_A^A\
-A_A^A\^][
-A_A^A\_[]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^][
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_][
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^]
-A_A^_
 A`1w>
+Ab61
+AcG\nt
 Active format description
-AlgE#
 AliceBlue
 AntiqueWhite
-ApgE#
 April
+Aqua
 Aquamarine
-AreFileApisANSI
 Argument list too long
-Assertion %s failed at %s:%d
-At;Btu'
+Assertion %s failed at %s:%d\n
 Audio service type
 August
-AuthA
 AuthenticAMD
 Azure
 B*k@5
-B=!&|
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BFUa.X
+BN"r
 BSF_NOT_FOUND
 BUFFER_TOO_SMALL
+BUG2
 BUG: Pixel format missing from size calculation.
 Bad address
 Bad file descriptor
@@ -566,196 +258,57 @@ Beige
 Bh;+j
 Bisque
 Bitstream filter not found
-Bl9Al
 Black
 BlanchedAlmond
+Blue
 BlueViolet
 Broken pipe
 Brown
 Buffer too small
 BurlyWood
-C5R?	
+C5R?\t
+C?9z
 CL:>8
 CRC32
+CUDA
 CWD>~3
 CadetBlue
 Cannot allocate memory
-Cannot find color '%s'
-Cannot load %s
-Cannot read file '%s': %s
+Cannot find color '%s'\n
+Cannot load %s\n
+Cannot read file '%s': %s\n
 Chartreuse
 Chocolate
-CloseHandle
 CloseThreadpoolTimer
 CloseThreadpoolWait
 CompareStringEx
-CompareStringW
 CorExitProcess
 Coral
 CornflowerBlue
 Cornsilk
-Could not create the surfaces
-Could not dynamically load CUDA
-Could not get the device number %d
-Could not initialize the CUDA driver API
-CreateEventA
+Could not create the surfaces\n
+Could not dynamically load CUDA\n
+Could not get the device number %d\n
+Could not initialize the CUDA driver API\n
 CreateEventExW
-CreateEventW
 CreateFile2
-CreateFileMappingA
-CreateFileW
-CreateSemaphoreA
 CreateSemaphoreExW
-CreateSemaphoreW
 CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
 Crimson
 Cross-device link
-CryptAcquireContextA
-CryptGenRandom
-CryptReleaseContext
-Ct9ADu#H
 Cy2@K>
-D W?{W
-D!l$h3
-D$ (F
-D$ A3
-D$ E3
-D$ H#
-D$ H3
-D$ H9
-D$ H;
-D$ Hc
-D$ L9
-D$ TMFP
-D$ TMFS
-D$ fI
-D$#C3
-D$$A3
-D$$E3
-D$(A3
-D$(A9x
-D$(E3
-D$(H3
-D$(Hc
-D$(a	
-D$(b	
-D$(c	
-D$(d	
-D$(e	
-D$(k	
-D$(o	
-D$(q	
-D$(v	
-D$,D3
-D$03D$
-D$0A+
-D$0A3
-D$0E3
-D$0H;
-D$0HcJ
-D$0I3
-D$0Ic
-D$0L+
-D$0L9
-D$0Lc
-D$0uMH
-D$8A#
-D$8Ic
-D$8IcB
-D$8y'H
-D$<A;
-D$<D3
-D$<D9L$Ht
-D$@!\$(H!\$ 
-D$@D;
-D$@E3
-D$@H;
-D$@Hc
-D$@HcK@L
-D$@L+
-D$@L;
-D$DD9T$X
-D$H9D$ s"
-D$HEk
-D$HH+
-D$HI3
-D$HIc@
-D$L0A
-D$PA8(t 
-D$PE3
-D$PI3
-D$PIc
-D$PL+
-D$PL;
-D$XA_A^A]A\_^][
-D$XD+
-D$XH3
-D$XHcCLH
-D$`H;
-D$`H;C
-D$`I;
-D$`L;
-D$`LcI
-D$hD+L$
-D$hH#
-D$hvT2
-D$p H
-D$pE3
-D$xH90t
-D)\$4A;
-D+I D+
-D+moA
-D+t$TD+
-D1:Hc
-D34$A3
-D3D$,
-D3QDH
-D3d$ D
-D3d$8D
-D3l$$A#
-D3t$ A
-D3t$$E
-D3t$,
-D3t$0D
-D3t$4D
-D3t$8
-D3t$<A
+Cyan
 D7q/;M
-D8&t!
-D8&t4H
-D8't6
-D82u&H
-D8L$0
-D8L$0u
-D8L$@
-D8L$Ht
-D8d$8t
-D8d$Ht
-D8t$8t
-D8t$Ht
-D8|$0
-D8|$0u
-D98u:H
-D9L$Ht
-D9L$tt
-D9T$xu
-D9l$`
-D9l$dtXH
-D9t$htrH
-D9v(u9H
-D9|$ 
-D9|$pt
 D:\dev\steam\thirdpartycode\ffmpeg\dev\compat/cuda/dynlink_loader.h
 D:\dev\steam\thirdpartycode\ffmpeg\dev\compat/w32pthreads.h
 D:\dev\steam\thirdpartycode\ffmpeg\dev\libavutil\libavutil-55.pdb
-D;SpuwD;
-D;|$0t9
 DBL_MAX
 DBL_MIN
 DECODER_NOT_FOUND
 DEMUXER_NOT_FOUND
+DGt2
 DXVA2
 DXVA2CreateDirect3DDeviceManager9
 DarkBlue
@@ -776,11 +329,9 @@ DarkTurquoise
 DarkViolet
 Darkorange
 December
-DecodePointer
 Decoder not found
 DeepPink
 DeepSkyBlue
-DeleteCriticalSection
 Demuxer not found
 Device or resource busy
 DimGray
@@ -788,8 +339,7 @@ Direct3DCreate9
 Direct3DCreate9Ex
 Directory not empty
 DodgerBlue
-Drop frame is only allowed with 30000/1001 or 60000/1001 FPS
-E0I;^
+Drop frame is only allowed with 30000/1001 or 60000/1001 FPS\n
 E2BIG
 E>nEA
 EACCES
@@ -798,6 +348,7 @@ EBADF
 EBUSY
 ECHILD
 EDEADLK
+EDOM
 EEXIST
 EFAULT
 EFBIG
@@ -827,58 +378,53 @@ ERANGE
 EROFS
 ESPIPE
 ESRCH
+ET5>
 EXDEV
+EXIT
 EXPERIMENTAL
 EXTERNAL
-EZISt
-EZISt,
-EZISt,L
-EZIStAA
-EncodePointer
+E[\rn?gc
 Encoder not found
 End of file
-EnterCriticalSection
 EnumSystemLocalesEx
-EnumSystemLocalesW
-Error creating a CUDA context
-Error creating an internal frame pool
-Error getting a surface description
+Error creating a CUDA context\n
+Error creating an internal frame pool\n
+Error getting a surface description\n
 Error number %d occurred
-Error occurred in CreateFileMapping()
-Error occurred in MapViewOfFile()
-Error occurred in fstat(): %s
-Error setting current CUDA context
-Error setting option %s to value %s.
-Error transferring the data from the CUDA frame
+Error occurred in CreateFileMapping()\n
+Error occurred in MapViewOfFile()\n
+Error occurred in fstat(): %s\n
+Error setting current CUDA context\n
+Error setting option %s to value %s.\n
+Error transferring the data from the CUDA frame\n
 Eub'z
+Eval
 Exec format error
-ExitProcess
 Experimental feature
 F>qUxv
 FFmpeg version 3.3.4
+FILE
 FILTER_NOT_FOUND
 FLT_MAX
 FLT_MIN
-F_C)x;
-Failed to bind Direct3D device to device manager
-Failed to create Direct3D device
-Failed to create Direct3D device manager
-Failed to create IDirect3D object
-Failed to create the video service
-Failed to load D3D9 library
-Failed to load DXVA2 library
-Failed to locate DXVA2CreateDirect3DDeviceManager9
-Failed to locate Direct3DCreate9
-Failed to map frame into derived frame context: %d.
-Failed to open device handle
-FatalAppExitA
+FS(l
+Failed to bind Direct3D device to device manager\n
+Failed to create Direct3D device manager\n
+Failed to create Direct3D device\n
+Failed to create IDirect3D object\n
+Failed to create the video service\n
+Failed to load D3D9 library\n
+Failed to load DXVA2 library\n
+Failed to locate DXVA2CreateDirect3DDeviceManager9\n
+Failed to locate Direct3DCreate9\n
+Failed to map frame into derived frame context: %d.\n
+Failed to open device handle\n
 February
+FfW?
 File exists
 File name too long
-File size for file '%s' is too big
+File size for file '%s' is too big\n
 File too large
-FileTimeToLocalFileTime
-FileTimeToSystemTime
 Filter not found
 FireBrick
 FloralWhite
@@ -886,130 +432,53 @@ FlsAlloc
 FlsFree
 FlsGetValue
 FlsSetValue
-FlushFileBuffers
 FlushProcessWriteBuffers
 ForestGreen
-Formats with a palette require a minimum alignment of 4
-FreeEnvironmentStringsW
-FreeLibrary
+Formats with a palette require a minimum alignment of 4\n
 FreeLibraryWhenCallbackReturns
 Friday
 Fuchsia
 Function not implemented
-G 9\$tu
-G=TMFSt9=EZISt)=TARVu`L
+G>US
 GOP timecode
 Gainsboro
 Generic error in an external library
 GenuineIntel
-GetACP
 GetActiveWindow
-GetCPInfo
-GetCommandLineA
-GetConsoleCP
-GetConsoleMode
-GetConsoleScreenBufferInfo
 GetCurrentPackageId
-GetCurrentProcess
-GetCurrentProcessId
 GetCurrentProcessorNumber
-GetCurrentThread
-GetCurrentThreadId
 GetDateFormatEx
-GetDateFormatW
-GetDesktopWindow
-GetEnvironmentStringsW
-GetFileAttributesExW
-GetFileInformationByHandle
 GetFileInformationByHandleExW
-GetFileType
 GetLastActivePopup
-GetLastError
 GetLocaleInfoEx
-GetLocaleInfoW
 GetLogicalProcessorInformation
-GetModuleFileNameA
-GetModuleFileNameW
-GetModuleHandleA
-GetModuleHandleExW
-GetModuleHandleW
-GetOEMCP
-GetProcAddress
-GetProcessAffinityMask
-GetProcessHeap
 GetProcessWindowStation
-GetStartupInfoW
-GetStdHandle
-GetStringTypeW
-GetSystemDirectoryW
-GetSystemTimeAsFileTime
-GetTickCount
 GetTickCount64
 GetTimeFormatEx
-GetTimeFormatW
-GetTimeZoneInformation
-GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GfZ+?p
-Gh9Fhus
 GhostWhite
-Gl9FlukE
+Gold
 GoldenRod
 GrJoq>@
+Gray
 Green
 GreenYellow
-Gt9ADu#H
-Gt;FtuS
-H AVH
-H SVWAVH
-H SWH
-H!D$ D
-H#D$h
-H(fff
-H3C(H
-H3E H3E
-H3K(H
-H9I`t	H
-H9L$8A
-H9L$Ht8H
-H;D$Pu!
+H>r1
 HH:mm:ss
+HJI\f
+HMXB
 HTTP_BAD_REQUEST
 HTTP_FORBIDDEN
 HTTP_NOT_FOUND
 HTTP_OTHER_4XX
 HTTP_SERVER_ERROR
 HTTP_UNAUTHORIZED
-H[><y5
-HcC8E3
-HcCXH
-HcD$0L
-HcD$8H
-HcD$@
-HcD$PH;
-HcD$\H
-HcE Hc
-HcE8H
-HcF(H
-HcH<H
-HcK@H
-HcL$0H
-HcL$`H
-HcM H
-HcM@D
-HcT$DA
-HcT$DLc
-Hct$@H
-HeapAlloc
-HeapFree
-HeapQueryInformation
-HeapReAlloc
-HeapSize
+HWyn
 HoneyDew
 HotPink
-H|D;L
-I!>E3
+H{1S
 I/O error
 I64_MAX
 I64_MIN
@@ -1022,18 +491,8 @@ INT64_MIN
 INT_MAX
 INT_MIN
 INVALIDDATA
-Ic3Ic
-Ic@8A
-Ic@8E
-Ic@LH
-Ic@XA
-Ic@XE
-Ic@xE
-IcB8A
-IcBXA
-IcBxA
-IcC0McC4Lc
-If you want to help, upload a sample of this file to ftp://upload.ffmpeg.org/incoming/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+IS\fgN
+If you want to help, upload a sample of this file to ftp://upload.ffmpeg.org/incoming/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)\n
 Il?333333c?
 Illegal byte sequence
 Illegal seek
@@ -1044,126 +503,40 @@ Indigo
 InitOnceBeginInitialize
 InitOnceComplete
 InitializeConditionVariable
-InitializeCriticalSection
-InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
 Input and output changed
 Input changed
 Internal bug, should not have happened
 Interrupted system call
-Invalid 0xRRGGBB[AA] color string: '%s'
-Invalid alpha value specifier '%s' in '%s'
+Invalid 0xRRGGBB[AA] color string: '%s'\n
+Invalid alpha value specifier '%s' in '%s'\n
 Invalid argument
-Invalid chars '%s' at the end of expression '%s'
+Invalid chars '%s' at the end of expression '%s'\n
 Invalid data found when processing input
-Invalid mapping found when attempting unmap.
-Invalid negative size value %dx%d for size '%s'
-Invalid option type.
+Invalid mapping found when attempting unmap.\n
+Invalid negative size value %dx%d for size '%s'\n
+Invalid option type.\n
 Invalid separator(s) found.
 Is a directory
-IsDebuggerPresent
-IsProcessorFeaturePresent
-IsValidCodePage
-IsValidLocale
 IsValidLocaleName
 Ivory
-J `>,
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
-K&>.yC
-KERNEL32.dll
-Key '%s' not found.
+July
+June
+Key '%s' not found.\n
 Khaki
-K~Je#>!
-L	(fH
-L!d$ E3
-L$ C3
-L$ E3
-L$ H+
-L$ H3
-L$ H;
-L$ Hc
-L$ I3
-L$ SH
-L$ SUVWH
-L$ VH
-L$ WH
-L$ fH
-L$ fI
-L$!A3
-L$"A3
-L$(A3
-L$(E3
-L$(H;
-L$(I;
-L$(fA
-L$09D$8r
-L$0<%u
-L$0A3
-L$0C3
-L$0H3
-L$0H;
-L$0M;
-L$0uDH
-L$0uP
-L$4A;
-L$8E3
-L$8H3
-L$@E3
-L$@H3
-L$@Hct$DHc
-L$@Lc
-L$Df;
-L$HH3
-L$HH;
-L$HHcKDH
-L$PH+
-L$PH3
-L$PHc
-L$PHcKHH
-L$PHc|$@H
-L$PI+
-L$PLc
-L$XH3
-L$XLc
-L$XM#
-L$`E3
-L$`H3
-L$dE9O
-L$hE3
-L$hH3
-L$hIcH@H
-L$p9H
-L$pH3
-L$pIcHDH
-L$xH3
-L$xIc@HH
-L0	A:
-L09A:
-L0:A:
-L9l$8
-L9t$`t
-L;t$@
+L>ev
 L?UUUUUUU?
 LCMapStringEx
-LCMapStringW
-LOOBt
+LFE2
+LWG>
+LWW>
 Lavender
 LavenderBlush
 LawnGreen
-LcA<E3
-LcD$4H
-LcL$,LcT$4I
-LcL$hM
-LcT$(Ic
-LcT$(L
-LcT$(Mc
-LcT$PI
-LcepA
-Lc}hA
-LeaveCriticalSection
 LemonChiffon
-Libavutil has been linked to a broken llrint()
+Libavutil has been linked to a broken llrint()\n
 LightBlue
 LightCoral
 LightCyan
@@ -1177,25 +550,22 @@ LightSkyBlue
 LightSlateGray
 LightSteelBlue
 LightYellow
+Lime
 LimeGreen
 Linen
-Lj[;>
-LoadLibraryExA
-LoadLibraryExW
-Loaded lib: %s
-Loaded sym: %s
-LwH'A
-LwH'H
+Loaded lib: %s\n
+Loaded sym: %s\n
+LwH'
 M'y>0y
 MCi).
 MM/dd/yy
-MMX implied by specified flags
+MMX implied by specified flags\n
 MUXER_NOT_FOUND
 Magenta
-MapViewOfFile
 March
 Maroon
 Mastering display metadata
+MbP?
 MediumAquaMarine
 MediumBlue
 MediumOrchid
@@ -1209,100 +579,94 @@ MessageBoxW
 Metadata relevant to a downmix procedure
 MidnightBlue
 MintCream
-Missing ')' in '%s'
-Missing ')' or too many args in '%s'
-Missing key or no key/value separator found after key '%s'
+Missing ')' in '%s'\n
+Missing ')' or too many args in '%s'\n
+Missing key or no key/value separator found after key '%s'\n
 MistyRose
 Moccasin
 Monday
 Motion vectors
-MultiByteToWideChar
 Muxer not found
 N3`d?
 N>O=I9
+N>VF
+NKeb
 NO_COLOR
+NQ?s
+NV12
 NavajoWhite
+Navy
 No child processes
 No locks available
-No option name near '%s'
+No option name near '%s'\n
 No space left on device
 No such device
 No such device or address
 No such file or directory
 No such process
 Not a directory
-Not supported option type: %d, option name: %s
+Not supported option type: %d, option name: %s\n
 Not yet implemented in FFmpeg, patches welcome
 November
 Numerical argument out of domain
-O0Hcw
-OF>;^
 OPTION_NOT_FOUND
 OUTPUT_CHANGED
+OZQ%
+O\fxW2
 October
 OldLace
 Olive
 OliveDrab
 Operation not permitted
-Option '%s' not found
+Option '%s' not found\n
 Option not found
 Orange
 OrangeRed
 Orchid
 Output changed
-OutputDebugStringW
 P010O
-P>q_Y~
 PATCHWELCOME
-PA^_^
-PA_A^A\_^][
-PA_A^A]A\_^[
 PIMAC
 PROTOCOL_NOT_FOUND
+PaH?
 PaleGoldenRod
 PaleGreen
 PaleTurquoise
 PaleVioletRed
 PapayaWhip
 PeachPuff
-PeekNamedPipe
 Permission denied
-Picture size %ux%u exceeds specified max pixel count %lld, see the documentation if you wish to increase it
-Picture size %ux%u is invalid
-Pixel format '%s' is not supported
+Peru
+Picture size %ux%u exceeds specified max pixel count %lld, see the documentation if you wish to increase it\n
+Picture size %ux%u is invalid\n
+Pink
+Pixel format '%s' is not supported\n
+Plum
 PowderBlue
 Protocol not found
 Purple
-P|> ,o
 Q5rHg,>
-Q>.3Z<
+QAf?
 QP2LAMBDA
+QVlM
 Qjh/T
-QueryPerformanceCounter
 RIPEMD128
 RIPEMD160
 RIPEMD256
 RIPEMD320
-RLOCt
-RLOCt&
-RLOCt0A
-RLOCtFA
-RaiseException
+RSDS
+R\vph
 Read-only file system
-ReadConsoleW
-ReadFile
-ReleaseSemaphore
-ResetEvent
 Resource deadlock avoided
 Resource temporarily unavailable
 Result too large
 RosyBrown
 RoyalBlue
-RtlCaptureContext
-RtlLookupFunctionEntry
-RtlUnwindEx
-RtlVirtualUnwind
+S2zw
+S4n)
+S9>H
 S9v.i
+S;uD
 S>$hkDh$h>[2
 SH6tc
 SHA160
@@ -1314,15 +678,7 @@ SHA512/224
 SHA512/256
 SRqDIK
 STREAM_NOT_FOUND
-SU2`	
-SUAUAWH
-SUVWATAUAVAWD
-SUVWH
-SUWAWH
-SVWATAUAVAWH
-SVWATAUAVH
-SWAUAWH
-SWAUH
+SU2`\t
 SaddleBrown
 Salmon
 SandyBrown
@@ -1336,22 +692,13 @@ Server returned 403 Forbidden (access denied)
 Server returned 404 Not Found
 Server returned 4XX Client Error, but not one of 40{0,1,3,4}
 Server returned 5XX Server Error reply
-SetConsoleCtrlHandler
-SetConsoleTextAttribute
 SetDefaultDllDirectories
-SetEndOfFile
-SetEnvironmentVariableA
-SetEvent
 SetFileInformationByHandleW
-SetFilePointerEx
-SetLastError
-SetStdHandle
 SetThreadStackGuarantee
 SetThreadpoolTimer
 SetThreadpoolWait
-SetUnhandledExceptionFilter
-Setting '%s' to value '%s'
-Setting entry with key '%s' to value '%s'
+Setting '%s' to value '%s'\n
+Setting entry with key '%s' to value '%s'\n
 Sienna
 Silver
 Sj~=eI
@@ -1359,8 +706,8 @@ Skip samples
 SkyBlue
 SlateBlue
 SlateGray
-Sleep
 SleepConditionVariableCS
+Snow
 SpringGreen
 SteelBlue
 Stereoscopic 3d metadata
@@ -1368,227 +715,135 @@ Stream not found
 SunMonTueWedThuFriSat
 Sunday
 SystemFunction036
-T$ A3
-T$&@8t$&t9@8r
-T$(9r
-T$(SARAQAPR
-T$(gN
-T$0A3
-T$0E3
-T$8H;
-T$@H3
-T$HHc
-T$HIc
-T$PE3
-T$PHc
-T$`E3
-T$pE3
-T$xD+
-T$xE3
-T*_}x:
-TARVt
-TARVt!H
-TARVt$
-TARVt,L
-TARVt1I
+T0.S
 TEMPFILE
-TMFPt
-TMFPt<
-TMFSt
-TMFSt4
+TUUU
 TUUUU
-TerminateProcess
-The hardware pixel format '%s' is not supported by the device type '%s'
-The value for option '%s' is not a %s format.
-The value for option '%s' is not a channel layout.
-The value for option '%s' is not an image size.
+Teal
+The hardware pixel format '%s' is not supported by the device type '%s'\n
+The value for option '%s' is not a %s format.\n
+The value for option '%s' is not a channel layout.\n
+The value for option '%s' is not an image size.\n
 The value set by option '%s' is not a %s format
-The value set by option '%s' is not a channel layout.
-The value set by option '%s' is not a video rate.
-The value set by option '%s' is not an image size.
+The value set by option '%s' is not a channel layout.\n
+The value set by option '%s' is not a video rate.\n
+The value set by option '%s' is not an image size.\n
 Thistle
 Thursday
-Timecode frame rate must be specified
-TlsAlloc
-TlsFree
-TlsGetValue
-TlsSetValue
+Timecode frame rate must be specified\n
 Tomato
 Too many links
 Too many open files
 Too many open files in system
-TtH=ALHCt,=RLOCtY= RUD
+Ts\ne
 Tuesday
 Turquoise
 U$qk.
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
 UINT32_MAX
-ULcT$0I
 UNKNOWN
-USER32.dll
-USVWATAUAVAWH
-USVWAVH
-UUUU+
+UUUU
 UUUUU
 UUUUUU
-UVATAUAVAWH
-UVAVH
-UVAWH
-UVWATAUAVAWH
-UWATAVAWH
-UWAVH
-Unable to lock DXVA2 surface
-Unable to parse '%s': %s
-Unable to parse option value "%s"
-Unable to parse option value "%s" as %s
-Unable to parse option value "%s" as boolean
-Unable to parse option value "%s" as channel layout
-Unable to parse option value "%s" as color
-Unable to parse option value "%s" as duration
-Unable to parse option value "%s" as image size
-Unable to parse option value "%s" as video rate
-Unable to parse timecode, syntax: hh:mm:ss[:;.]ff
-Undefined constant or missing '(' in '%s'
-UnhandledExceptionFilter
+Unable to lock DXVA2 surface\n
+Unable to parse '%s': %s\n
+Unable to parse option value "%s" as %s\n
+Unable to parse option value "%s" as boolean\n
+Unable to parse option value "%s" as channel layout\n
+Unable to parse option value "%s" as color\n
+Unable to parse option value "%s" as duration\n
+Unable to parse option value "%s" as image size\n
+Unable to parse option value "%s" as video rate\n
+Unable to parse option value "%s"\n
+Unable to parse timecode, syntax: hh:mm:ss[:;.]ff\n
+Undefined constant or missing '(' in '%s'\n
 Unknown error occurred
-Unknown function in '%s'
-Unknown surface type: %lu
-UnmapViewOfFile
-Unsupported pixel format: %s
-Using D3D9Ex device.
-Using non-standard frame rate %d/%d
-Uy]E3
-V6E>`"(5
-VAVAWH
-VD$@f
-VT$@D
-VUUUA
-VWATAUAWH
-VWATAVAWH
-VWATAWH
-VWAVH
-VWAWH
-Value %d for parameter '%s' out of %s format range [%d - %d]
-Value %f for parameter '%s' is not a valid set of 32bit integer flags
-Value %f for parameter '%s' out of range [%g - %g]
+Unknown function in '%s'\n
+Unknown surface type: %lu\n
+Unsupported pixel format: %s\n
+Using D3D9Ex device.\n
+Using non-standard frame rate %d/%d\n
+VM\rf
+Value %d for parameter '%s' out of %s format range [%d - %d]\n
+Value %f for parameter '%s' is not a valid set of 32bit integer flags\n
+Value %f for parameter '%s' out of range [%g - %g]\n
 Violet
-W1O	g_?
-W;()f
-WATAUAVAW
-WATAUAVAWH
-WATAVH
-WAVAWH
-WHc\$0E3
+W1O\tg_?
+WFgO
 WaNd?
-WaitForSingleObject
 WaitForThreadpoolTimerCallbacks
 Wak>E
 WakeAllConditionVariable
 WakeConditionVariable
+Wcr"
 Wednesday
 Wheat
 White
 WhiteSmoke
-WideCharToMultiByte
-WriteConsoleW
-WriteFile
-X!t5~
-XA_A^A]A\_^[]
-X\	 B
-Xd	0B
+Y8a:
 Y>kX>M
 YCgCo
-YD$0f
 Yellow
 YellowGreen
 YnFpW
-ZD3T$(
+ZSq>
 Z\>z8
+Zbby
 Ze2Zh@
-Zod(^?
-[ UVWH
-[%s @ %p] 
-[%s] 
 [*ncd>0
 [*ncd>TQ
 [truncated strftime output]
-\$ AVE
-\$ AVH
-\$ E3
-\$ UAVAWH
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ VH
-\$ VWAVH
-\$ WATAWH
-\$ WH
-\$(A^
-\$(fD
-\$0D9=J
-\$0H3
-\$0H;
-\$0Hc
-\$0t	
-\$0t(H
-\$@@8=
-\$PH3
-\$PHcX
-\$Pfff
-\$XLc
-\$gm?
-\$p8F
-\>$hkDh$h>
-\L96t
-\^c$j
-])6M>&
-]-?Z8
-]>)2X
-]`D9mXt
-^(O= 
-^8U)zj
+\f>ffff<
+\n6I*h<8
+\nIh8
+\nh?oT
+\nk>oB
+\r8STs\ne
+\t-f3F2
+\tJR>8o
+\tkE>fvw
+\vA03>A|
+\vh1\rHZ
+\vpDk
 ^RfN>
-^fD9+t
-^ffffff
+^axb
 _cabs
 _g@Cg
 _hypot
 _logb
+_maz
 _nextafter
 _oD>Kg
 _xU`u
-` AUAVAWH
-`+!]?
-`.rdata
-`>n>w%
-`A]_[
-`A^_]
-``````bf
-```bf
 ``flxxlf
 ``lvffff
 ``xlffff|
-``|ff
 `flxl
-`h````
 `h`hhh
 `lvff
+a.z9
+a3bt
+a6>r
 abcdefghijklmnopqrstuvwxyz
+abgr
 abs(dst_linesize) >= bytewidth
 abs(src_linesize) >= bytewidth
+acos
 adler32
 aesni
 april
+argb
 arib-std-b67
+asin
+atan
 atan2
 athlon
 athlonxp
+atom
 attachment
 audio
 august
+auto
 av_add_i
 av_add_q
 av_add_stable
@@ -1853,7 +1108,7 @@ av_image_fill_max_pixsteps
 av_image_fill_pointers
 av_image_get_buffer_size
 av_image_get_linesize
-av_image_get_linesize failed
+av_image_get_linesize failed\n
 av_int2i
 av_int_list_length_for_size
 av_lfg_init
@@ -2090,10 +1345,10 @@ avpriv_vsnprintf
 avutil_configuration
 avutil_license
 avutil_version
+avx2
 avxslow
 ayuv64be
 ayuv64le
-b?^Cy
 back center
 back left
 back right
@@ -2109,9 +1364,12 @@ bayer_grbg8
 bayer_rggb16be
 bayer_rggb16le
 bayer_rggb8
+bcKU\r!
 between
+bgr0
 bgr24
 bgr32
+bgr4
 bgr444be
 bgr444le
 bgr48be
@@ -2121,6 +1379,8 @@ bgr555be
 bgr555le
 bgr565be
 bgr565le
+bgr8
+bgra
 bgra64be
 bgra64le
 bhxh`
@@ -2128,9 +1388,10 @@ bhxhb
 bikeshed
 bitand
 bitor
+bmi1
+bmi2
 bottom
 bottomleft
-bp(=>?g
 bt1361e
 bt2020
 bt2020-10
@@ -2140,19 +1401,19 @@ bt2020nc
 bt470bg
 bt470m
 bt709
-c UAVAWH
-c [1>H'
-c(>\,
 c->step >= c->depth
-c0&>`
+c>F2
 c?FA@s}
-cAMDD
 ccccg
+ceil
 center
 checkerboard
+clip
+cmov
 cnt > 0
-cnt >= 0
-const_values array too small for %s
+const_values array too small for %s\n
+cosf
+cosh
 cpuflags
 cuCtxCreate_v2
 cuCtxDestroy_v2
@@ -2169,19 +1430,7 @@ cuMemAlloc_v2
 cuMemFree_v2
 cuMemcpy2D_v2
 cubemap
-cwxIc
-d$ E3
-d$ L3
-d$03D$
-d$4A+
-d$4A;
-d$4D9L$t
-d$4E3
-d$4t	fD
-d$<D3l$(A3
-d$HH3
-d$PD;l$ 
-d$PE3
+cuda
 d->log2_chroma_h <= 3
 d->log2_chroma_w <= 3
 d->name && d->name[0]
@@ -2191,61 +1440,60 @@ d3d9.dll
 d:\dev\steam\thirdpartycode\ffmpeg\dev\libavutil\mem.h
 d:\dev\steam\thirdpartycode\ffmpeg\dev\libavutil\mem_internal.h
 d?000000`?
+dRL>
+dU\t2
+d^AE
+data
+dblp
 dddd, MMMM dd, yyyy
 debug
 december
 default
-detected %d logical cores
+detected %d logical cores\n
 downmix
 downmix left
 downmix right
 duration >= 0
+dv&4
 dxva2.dll
 dxva2_vld
 e+000
-e0A_A^A]A\_^]
-eHA_A^A]A\_^[]
-entiE
+eF>t
 equirectangular
 error
-f9,Gu
-f9.u"H
-f9.uVH
-f93t$M;
-fA9	u
-fD9 t
-fD90t
-fD93u
-fD9:r 
-fD9;u
-fD9|$bu
-fE98t'
-fJBGo
-f`|``f
+fC\tc
+fD>b
+fGa>
+fWi?
+fabs
 false
 false,n,no,disable,disabled,off
 fatal
 fbhxh```
 fbhxh`bf
 february
-ff_tempfile: Cannot allocate file name
-ff_tempfile: Cannot open temporary file %s
+ff_tempfile: Cannot allocate file name\n
+ff_tempfile: Cannot open temporary file %s\n
+fff$
 fffff
 ffffff
 fffffff
 fffff|``
 ffff|`
-fff|````
 fff|ffff
 fff|lfff
 fflxxlff
-ff|``
 ff|bfofff
 ff|ff
 ff|lf
+film
 flags
 floor
+fltp
 flxlf
+fma3
+fma4
+fmod
 frame alternate
 frexp
 front center
@@ -2254,7 +1502,8 @@ front left-of-center
 front right
 front right-of-center
 fwqvga
-g&3gH
+gC_7
+gTzu
 gauss
 gbrap
 gbrap10be
@@ -2263,6 +1512,7 @@ gbrap12be
 gbrap12le
 gbrap16be
 gbrap16le
+gbrp
 gbrp10be
 gbrp10le
 gbrp12be
@@ -2273,11 +1523,7 @@ gbrp16be
 gbrp16le
 gbrp9be
 gbrp9le
-gfffA
-gfffD
-gfffD+
-gfffffffH
-gfffffffI+
+gray
 gray10be
 gray10le
 gray12be
@@ -2295,42 +1541,36 @@ hexadecagonal
 hexagonal
 hqvga
 hsxga
+hvga
 hypot
+i>VF
 iec61966-2-1
 iec61966-2-4
 ifnot
 ilRdV
 in_ts != ((int64_t)(0x8000000000000000ULL))
 infinity
+info
 interleaved columns
 interleaved lines
 invalid
 isinf
 isnan
-j>>A?1
-j?V()
-j?{$*
-jMG\^
+j Bz
 january
+jeTb
 jedec-p22
-k VWAVH
-k>4	F
+july
+june
+k>4\tF
+kMxn
+kU'9
 kernel32.dll
-l$ A3
-l$ VA
-l$ VH
-l$ VWATAVAWH
-l$ WH
-l$0)s
-l$4D3d$,3l$
-l$8H#
-l$@H;
-l$XD+
-l$`H3
-l$`Lc
-l$pH3
+l88l
 lCu7&
+lbfL
 ldexp
+left
 lffffffl
 lfffl
 libavutil license: LGPL version 2.1 or later
@@ -2380,41 +1620,52 @@ libavutil/twofish.c
 libavutil/utils.c
 libavutil/xtea.c
 linear
+llll
 lllll
 lllllll
 log10
 log100
 log10f
 log316
+logf
 low frequency
 low frequency 2
+m?H7
+mG4>
+mK1f
+mO-B
 march
 mediacodec
+mmal
+mmx2
 mmxext
 mn`I:T`H
+modf
+mono
 monob
 monow
 murmur3
 n03>Pu
+n6j/
 n:2C[
 n]?iJ
 name   depth
 name nb_components nb_bits
+no:7
+none
 november
-ntelD
+ntsc
 ntsc-film
+nv12
+nv16
 nv20be
 nv20le
+nv21
 nvcuda.dll
+o?GS
 oI>O7
 octagonal
 october
-ot$ H
-ot$0H
-o|$0f
-p AWH
-p WATAUAVAWH
-p WAVAWH
 p00000x
 p000x
 p010be
@@ -2422,33 +1673,40 @@ p010le
 p016be
 p016le
 p>.G1
-pA_A^A]A\_^]
-pA_A^_^]
+p>Y3
+pal8
 panic
 pentium2
 pentium3
 pentium4
 pixel
 pixel format
-pixelutils support is required but libavutil is not compiled with it
+pixelutils support is required but libavutil is not compiled with it\n
 pqT3^-ZI
 print
 pzKD)
 q>F,3
 qS>g?h3
+qUN1
+qcif
 qntsc
+qpal
 qqvga
 qsxga
+quad
 quad(side)
 quiet
-r	Vr.>T
-r=D8v
+qvga
+qxga
+r3A~
 rNm>)
+r\tVr.>T
 random
 reserved
-ret >= 0
+rgb0
 rgb24
 rgb32
+rgb4
 rgb444be
 rgb444le
 rgb48be
@@ -2458,12 +1716,17 @@ rgb555be
 rgb555le
 rgb565be
 rgb565le
+rgb8
+rgba
 rgba64be
 rgba64le
-rm{nm	
-s WATAUAVAWH
-s'fff
-sYHcL$HH
+rm{nm\t
+root
+s%iH
+s16p
+s32p
+s64p
+sHF'
 sample
 sample format
 september
@@ -2471,6 +1734,7 @@ side by side
 side by side (quincunx subsampling)
 side left
 side right
+sinh
 size >= 25
 sizeof(tmp) >= av_sha_size
 smpte170m
@@ -2481,9 +1745,13 @@ smpte428
 smpte431
 smpte432
 sntsc
+spal
 sqcif
+sqrt
 squish
+sse2
 sse2slow
+sse3
 sse3slow
 sse4.1
 sse4.2
@@ -2492,72 +1760,16 @@ stereo
 subtitle
 surround direct left
 surround direct right
-t"HcM@H
-t#HcL$@H
-t#fE9
-t$ ATAVAWH
-t$ AVH
-t$ AVLcT$0M
-t$ AW
-t$ Hct$8L
-t$ Hct$8M
-t$ Lc
-t$ UH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WH
-t$(A^
-t$(A_
-t$(D3|$ A
-t$,A3
-t$03t$$D3d$
-t$0Hc
-t$4A3
-t$4A;
-t$8D3t$
-t$8H+
-t$8Hc0I
-t$<"u
-t$@E3
-t$@H3
-t$@Hc
-t$@fA
-t$DA;
-t$Du^
-t$Dub
-t$H9]@~
-t$HI3
-t$LA;
-t$Lua
-t$Lue
-t$P9+up
-t$PD8|$8t
-t$PL;
-t$X@8+v
-t$X@8+v*H
-t$XD8L$8t
-t$XH3
-t$\9D$`t
-t$`Icv
-t$dD8L$@t
-t$dD9L$Ht
-t,D9d$ht%A
-t-LcF
-t1HcQ
-t=L95
-t@LcC
-tB=TMFPt;=TMFSt4=EZISt-=TARVt&= RUDt
-tHfD9 tB
-tJHcU
-tSf91tNH
-tVf91tQH
-tZM9H
+svga
+sxga
+t6Q8
+tT0~
 tail_len <= 5
+tanf
+tanh
 taylor
-tcH95=
-tdH9v`
 tiled equirectangular
+time
 tmp[0] == 0 && tmp[1] == 0
 top and bottom
 top back center
@@ -2568,29 +1780,20 @@ top front center
 top front left
 top front right
 topleft
+true
 true,y,yes,enable,enabled,on
 trunc
-ttI9<
-tyfD9 tsH
-u	A!B
-u	L;)
-u"HcMHH
-u0HcD$x
-u1!D$0
-u4D9v
-uAiD$P
-uGD9v
-uLffff
-uNfE9P
-uaD9v
+uU~b
 uhd2160
 uhd4320
 unknown
 unspecified
+uxga
 uyvy422
 uyyvyy411
 uzKs@>
 vOB9`
+vRQ>
 v^FES
 vaapi
 vaapi_idct
@@ -2606,60 +1809,44 @@ vdpau_mpeg4
 vdpau_vc1
 vdpau_wmv3
 verbose
-vf```
 video
 videotoolbox_vld
-vmzA3
-vmzD#
-vmzE3
-v}`[>
-wYIcH
-w``u N
+w?6r
 warning
 while
 whsxga
 whuxga
 wide left
 wide right
+wj-K
 woxga
 wqsxga
 wquxga
 wqvga
 wsxga
 wuxga
-x ATAVAWH
-x AUAVAWH
-x AVH
-x AWH
-x&Hc@
+wvga
+wxga
 x00000x
-x2HcT$hL
+x00x
 x<fff<
-xA]A\][
-xA_A^A]A\_^[]
-xBt9A;
-xDDkD$D<D
-x_^][
-x`\`U
-x`````x
+xT?V
 xllll
 xppwpp
 xpxxxx
-xtDE3
 xvmcidct
 xvmcmc
 xyz12be
 xyz12le
 xzdD]
-y"E{M
 y10be
 y10le
 y12be
 y12le
 y16be
 y16le
-y=TMFP
-y\PD>!
+y7bT
+yU\n2`
 ya16be
 ya16le
 ycgco
@@ -2724,6 +1911,7 @@ yuva444p16be
 yuva444p16le
 yuva444p9be
 yuva444p9le
+yuvj
 yuvj411p
 yuvj420p
 yuvj422p
@@ -2731,81 +1919,10 @@ yuvj440p
 yuvj444p
 yuyv422
 yvyu422
-z>@G'h
+z>h4
 z?aUY
-zY;>u:m	
-zYuWHc
 zc%C1
-zu|D!t$ E3
-{&1q>
-{x`M`
-|#tAM
-|$ 34$
-|$ 3T$$
-|$ ;=
-|$ ATAVAW
-|$ ATAVAWH
-|$ ATAVAWLct$PE
-|$ AVAWE
-|$ AVAWM
-|$ AVD
-|$ AVE
-|$ AVE3
-|$ AVH
-|$ AVL
-|$ A^
-|$ E3
-|$ H3
-|$ H;
-|$ Hc
-|$ I3
-|$ I;
-|$ UATAUAVAWH
-|$ UH
-|$(A3
-|$(A^
-|$(L+
-|$,3|$
-|$0-H
-|$034$A
-|$0A_A^
-|$0L3
-|$0u/H
-|$8A_A^A\
-|$8H3
-|$<A3
-|$<A;
-|$<E3
-|$@-D
-|$@-H
-|$@:H
-|$@E3
-|$@H3
-|$@fA
-|$Dtp
-|$HA+
-|$HL3
-|$Hu`H
-|$P9^
-|$PD;
-|$PHcz
-|$XL3
-|$`CI
-|$h+t$D+
-|$hD9L$H@
-|$p@82
-|$pL+
-|$xE3
-|(D	 
-|)D	 
-|)D	 I
-|)L	 I
-|>fj;
-|XD	 
-|b=})>
-|k	.T
-|||||||
-~(HcE
-~(fff
-~?Pa w
-~`HcE H
+{OJW
+|sG2
+}oaO
+~8lI

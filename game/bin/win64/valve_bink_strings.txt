@@ -1,14 +1,4 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
- 9(X`
- A_A^_
- vJH+
 %i %i %i %i
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$@H
-(|$@H
-,|%)v
 .?AV?$CBaseAppSystem@VIBik@@@@
 .?AV?$CTier0AppSystem@VIBik@@@@
 .?AV?$CTier1AppSystem@VIBik@@$0A@@@
@@ -38,10 +28,11 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bik
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -52,50 +43,23 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .vtex
 .xdata
-/=$!6
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A_A^A\
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-200613003715Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-9_p~$
-9i(~}H
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-?5zlO
 ?DefaultExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
-?FixupResourceName: Illegal full path passed in ("%s")!
+?FixupResourceName: Illegal full path passed in ("%s")!\n
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
@@ -103,22 +67,13 @@
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?ToLowerFast@CBufferString@@QEAAXH@Z
-@.data
-@.tls
-@0HVi
-@A_A^A]A\_
-@UAVAWH
-A8H	P(
 ABGR8888
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
-A^A]_^]
-A_A^A]A\]
-A_A^]
 AcquireSRWLockExclusive
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
@@ -127,6 +82,7 @@ AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
+BC6H
 BGR565
 BGR888
 BGR888_BLUESCREEN
@@ -139,9 +95,7 @@ BGRX5551
 BGRX8888
 BGRX8888_LINEAR
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BinkClose
 BinkDoFrame
@@ -162,8 +116,7 @@ BinkSetSpeakerVolumes
 BinkSetVolume
 BinkShouldSkip
 BinkWait
-C-yh/
-CBIKMaterial: Unable to find file %s in path %s
+CBIKMaterial: Unable to find file %s in path %s\n
 CBIKMaterial::UpdateTextures(372): 
 CBIKMaterial::UpdateTextures(395): 
 CGlobalConfigValueRegistry::HookUpConfigValue
@@ -171,16 +124,14 @@ CMemAllocSystemInitialize
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CSchemaRegistration::RegisterAllModuleData
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CBIKMaterial *,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CBIKMaterial *,unsigned short>,unsigned short> >::AllocInternal
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigurationSystem_001
 ConnectInterfaces
 CreateInterface
-D$0H3L$0H3
-D$<9T$0wE9T$4w?9T$8w9;
 D15S1
 D16_SHADOW
 D24FS8
@@ -188,31 +139,26 @@ D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 DebugTextureInfo001
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
-E0C07
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
 EventSystem001
-FATAL ERROR: unable to register all schema data: %s
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+FATAL ERROR: unable to register all schema data: %s\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 FontManager_001
-G 9X8t&H
-GRegisterConfigValue: Unknown error constructing config value "%s"!
+GCTL
+GRegisterConfigValue: Unknown error constructing config value "%s"!\n
 GSFailure
-GT$xH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameStartup
@@ -224,28 +170,21 @@ GetDefaultMiniDumpTypeFlags
 GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
-Gt$xM
-H0F08
-H1D$0
-H=vmatu
 HammerMapLoader001
-HcH<H
 HelpSystem_001
 HostStateMgr001
+IA88
 IQuickTime001
 InitializeSListHead
 InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 KERNEL32.dll
 KeyValueCache001
-L$ fI
-L$0E+
-L$@H1D$0
 LE_BGRA8888
 LE_BGRX8888
 LINEAR_ABGR8888
@@ -260,8 +199,6 @@ LINEAR_RGB888
 LINEAR_RGBA16161616
 LINEAR_RGBA8888
 LOG_GENERAL
-LcA<E3
-LcCPH
 Localize_001
 LoggingSystem_IsChannelEnabled
 LoggingSystem_RegisterLoggingChannel
@@ -286,7 +223,7 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -302,7 +239,9 @@ PropertyEditorSystem_001
 QueryPerformanceCounter
 QueuedLoaderVersion001
 R11_EAC
+R16F
 R16F_EXPAND
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
@@ -329,6 +268,7 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
+RSDS
 Release
 ReleaseSRWLockExclusive
 RenderDevice003
@@ -349,7 +289,6 @@ SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 SerializedEntitiesVersion001
 ServerUploadGameStats001
-SgG(/ A
 SleepConditionVariableSRW
 SoundOpSystem001
 SoundOpSystemEdit001
@@ -376,10 +315,9 @@ ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-UATAUAVAWH
 UNKNOWN
+UV88
 UVLX8888
-UVWAUAVH
 UVWQ8888
 UserInfoChangeService_001
 VApplication001
@@ -424,31 +362,21 @@ V_qsort_s
 V_snprintf
 V_sscanf
 V_stricmp_fast
-Valve0
-Valve1
 VisBuilder_001
-W8t(D
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WAVAWH
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
 X360_DST16
 X360_DST24
 X360_DST24F
-\$ WH
-\$8;>
-\$`fD
 _V_SetExtension
 _V_StripExtension
 _V_strncat
 _V_strncpy
-`.rdata
-`;~(|
 binkw64.dll
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
@@ -459,34 +387,12 @@ c:\buildslave\hlvr_rel_win64\build\src\valve_bink\Retail\win64\valve_bink.pdb
 c:\buildslave\hlvr_rel_win64\build\src\valve_bink\bink.cpp
 dev/avi/renderbink.vmat
 error
-ffffff
 g_pMemAlloc
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
-k0i0$
-l$0Hc
-m0k0$
 materials/error.vmat
 materialsystem2
-p0n05
-p1f3q>
+nR3H
 purecall
-t9H9=6
 tier0.dll
-u	@8=
-v0t08
 valve_bink
 valve_bink.dll
 volume
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x0v0$
-z0x0:
-|$ ATAVAWH
-|$ UAVAWH
-|$ UH
-|$`Lc

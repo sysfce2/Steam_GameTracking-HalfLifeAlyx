@@ -1,49 +1,15 @@
-	 u}k
-	!z{:
-	$kW2
-	%h.*wD
-	?fromUtf8@QString@@SA?AV1@PEBDH@Z
-	?inherits@QObject@@QEBA_NPEBD@Z
-	?insert@?$QVector@VQPointF@@@@QEAAXHAEBVQPointF@@@Z
-	?installEventFilter@QObject@@QEAAXPEAV1@@Z
-	K|*;
-	SXa=
-	VGoo
-	iRn.|
-	vSDBm
-	~ 	V	
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-      <stringpropertyspecification name="text" type="singleline"/>
-    </propertyspecifications>
-    </security>
-    <class>
-    <propertyspecifications>
-    <security>
-  </customwidget>
-  </trustInfo>
-  <customwidget>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- $.' ",#
- %G{G
- -I55|cm
- .rsrc
  /?size@QPixmap@@QEBA?AVQSize@@XZ
  ?palette@QWidget@@QEBAAEBVQPalette@@XZ
  ?paletteChange@QWidget@@MEAAXAEBVQPalette@@@Z
  ?parentWidget@QWidget@@QEBAPEAV1@XZ
  ?pixel@QImage@@QEBAIHH@Z
- A]A\]
- A]A\_
- A^A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
+ CI\nY[E9
  Class Hierarchy Descriptor'
  Complete Object Locator'
  DQKI#/
@@ -53,34 +19,24 @@
  c,2M)V
  delete
  delete[]
- eE##
  int 
- new[]
- s~fx!\
- t?D9
+ lnx
+ new
  throw(
  volatile
- }+.x
+ wCO
 !,?setRange@QAbstractSlider@@QEAAXHH@Z
-!.') 
 !13.D
 !22222222222222222222222222222222222222222222222222
-!C)X=
-!D$8!D$HM
-!D$8I
 !E]9JI
 !Jm'8
-!Q_i	u9
-!This program cannot be run in DOS mode.
+!Q_i\tu9
+!\fCLm
 !]msl
 !hPq*
-!o-A)
-!t$(H!t$ A
-!t$(H!t$ H
-" name="
-"3&v 
+!urO\v
+!v3s
 "7>bZ
-";kq(m!h
 "?qt_metacall@QPushButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QRadioButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QSlider@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -89,43 +45,38 @@
 "?qt_metacall@QVBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "LPR@
-"aq	2
-"tG~`
-"|l]{~
-"~!d~
-#"<,w\
-#)(io
-#)BI*
-#8=$WP
+"Qaq
+"VNy
+"aq\t2
+#2bj
 #?qt_metacast@QGridLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QGroupBox@@UEAAPEAXPEBD@Z
 #?qt_metacast@QHBoxLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
-#],q.
 #define 
 #else
 #endif
 #ifdef
 #ifndef
 #include 
+#pdh
 #psM]
 #vcIM
 $#4mu
+$3Rb
 $?rect@QWidget@@QEBA?AVQRect@@XZ
 $?red@QColor@@QEBAHXZ
 $?releaseDC@QPaintDevice@@UEBAXPEAUHDC__@@@Z
 $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 $?reload@QTextBrowser@@UEAAXXZ
+$Jyl
+$QLF
 $R4y3a
 $UGKHfJ^K
+$\r?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
 $bCiQ
 $lbA^T
-$q@d;
-$yk;{
-${Da)
-$|_3K
-%	~1?
-%8CiG
+$wH4
 %=JJI
 %?resizeEvent@QTextEdit@@MEAAXPEAVQResizeEvent@@@Z
 %?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z
@@ -133,30 +84,31 @@ $|_3K
 %?rgba@QColor@@QEBAIXZ
 %?rotate@QMatrix@@QEAAAEAV1@N@Z
 %?rotate@QPainter@@QEAAXN@Z
-%A*T5
+%Atf
+%CSs
+%Dyx
 %JRpJGzS
 %M(GC
-%]>[;
-&.S_@
-&1(h@
-&1H|@
-&1h}@R
-&4"_Dd
-&<q:&
+%X\nN8
+%XaA
+%Xpy
+%ZCn
+%adP
+%mnh
+&8vI
 &?save@QPainter@@QEAAXXZ
 &?scrollContentsBy@QTextEdit@@MEAAXHH@Z
-&@I=N*7_
-&Y$.nC
+&Lrn
+&Wlq
+&Ykv
+&\v?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 &amp;
-&q\@?5^
 &y&g2c
 &y;IH
-&{+N|
+&yHH
 '#?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
-')%+)P)P8 
 '*?setHtml@QTextDocument@@QEAAXAEBVQString@@@Z
 '+QOa
-'.q%.
 '9=82<.342
 '?setBrush@QPainter@@QEAAXAEBVQBrush@@@Z
 '?setBrush@QPainter@@QEAAXW4BrushStyle@Qt@@@Z
@@ -167,103 +119,52 @@ $|_3K
 '?setClipPath@QPainter@@QEAAXAEBVQPainterPath@@W4ClipOperation@Qt@@@Z
 '?setClipRect@QPainter@@QEAAXAEBVQRect@@W4ClipOperation@Qt@@@Z
 '?setClipRegion@QPainter@@QEAAXAEBVQRegion@@W4ClipOperation@Qt@@@Z
-'AbSj
+'AbSj\vi$
 'DygA
-'I_`NT
+'FBx
+'PkS
 'RR2F
-'j@B`
-'kv	21
-(".+")
+'kv\t21
+'sue
+'uyJ
 (*?setHtml@QTextEdit@@QEAAXAEBVQString@@@Z
-(*Wp?Z
-(//.+)\n
 (7),01444
-(8Qmt
-(99b3
-(;nv<
 (<font color=olive><b>int </b></font>
 (?setColorAt@QGradient@@QEAAXNAEBVQColor@@@Z
 (?setDashPattern@QPainterPathStroker@@QEAAXAEBV?$QVector@N@@@Z
-(@taq<`4
-(D$ H
-(D$@H
-(D$PD
-(D$PH
-(D$pD
 (D[Dv
-(FNI	
-(KA(>
-(L$@D
-(L$@L
-(L$`H
-(L$pv
-(T$0H
-(\/z@
-(\d\d?)
-(c*$q
+(FNI\t
+(Y6v
+(\nFpXw
+(\v?addLayout@QGridLayout@@QEAAXPEAVQLayout@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 (int 
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(ru9r	
-(t$ H
-(t$0H
-(t$@D
-(t$`H
-(t$pE
-(t$pH
-(t$pv
-(|$`D
-(|$`H
-(|$pE
-(|d@'1
-)*ia@&
-)=]JY
+(ru9r\t
 )?setElementPositionAt@QPainterPath@@QEAAXHNN@Z
 )?setEnabled@QWidget@@QEAAX_N@Z
 )?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z
 )?setGeometry@QGridLayout@@UEAAXAEBVQRect@@@Z
 )?setGeometry@QSpacerItem@@UEAAXAEBVQRect@@@Z
 )?setGeometry@QWidget@@QEAAXAEBVQRect@@@Z
-)D$PfE
-)G@@J@
+)B8H
 )GtWk}A
 )I<RZ
 )J%Ku
-)L$@D
-)T$0fE
+)JCj
+)KAK
+)LtS
 )ZCSM
 )[wEKi
-)\$pL
-)g9*W$
-)t$0H
-)t$0I
-)t$0f
-)t$@E
-)t$pH
-)t$pf
-)|$Pf
-)|$`E
-)|$`I
-)~Q_._
+)\fT\tKH6
+)kWJ
+)r77
 *#?qt_metacast@QLineEdit@@UEAAPEAXPEBD@Z
-*&d 4
 **?setIcon@QAbstractButton@@QEAAXAEBVQIcon@@@Z
 *?setJoinStyle@QPainterPathStroker@@QEAAXW4PenJoinStyle@Qt@@@Z
 *?setLineWrapMode@QTextEdit@@QEAAXW4LineWrapMode@1@@Z
 *?setMargin@QLayout@@QEAAXH@Z
-*J.+m
+*NEe
 *R}I8
-*n|p>$
-*qif:
-*|(KV
-++I&i^^T
 +-W HvDh4U*
-+.O"dv
 +?setMinimumSize@QWidget@@QEAAXHH@Z
 +?setPageSize@QTextDocument@@QEAAXAEBVQSizeF@@@Z
 +?setPalette@QWidget@@QEAAXAEBVQPalette@@@Z
@@ -272,42 +173,40 @@ $|_3K
 +?setPen@QPainter@@QEAAXAEBVQPen@@@Z
 +?setPen@QPainter@@QEAAXW4PenStyle@Qt@@@Z
 +?setPointSize@QFont@@QEAAXH@Z
-+Gd@\
++PMx
 +QkAdB
-+]|Hi
++\f?objectName@QObject@@QEBA?AVQString@@XZ
 +e|0o
-+h!]v
 +tDK]
-,%e=#
-,,F68
++vuS
 ,<ellipsis>
 ,?setSizePolicy@QWidget@@QEAAXVQSizePolicy@@@Z
 ,?setSource@QTextBrowser@@UEAAXAEBVQUrl@@@Z
 ,?setSpacing@QBoxLayout@@QEAAXH@Z
-,GG>-
 ,Ll`mh
-,[%=!
-,_6|p
+,\v(99b3
 ,fd|U
-,k?T`R
+,xiy
+-3dD
 -64OS
--;Y! 
--?'5`
 -?setText@QLabel@@QEAAXAEBVQString@@@Z
 -?setText@QLineEdit@@QEAAXAEBVQString@@@Z
 -?setTitle@QGroupBox@@QEAAXAEBVQString@@@Z
 -?setUpdatesEnabled@QWidget@@QEAAX_N@Z
 -D9}q
+-DOp
+-LbR
 -SfKR
--V@d;
+-Tdj
+-W3V
 -^knI
+-ejm
 -ga;M9Z
 -p$lX
--sy-&
-..6T]}!
+-ze\vrLD
+-zsA
+.2PT
 .3S]8
-.:gc<o
-.:{A+?
 .?AVArthurFrame@@
 .?AVArthurPlugins@@
 .?AVCompositionModePlugin@@
@@ -383,43 +282,33 @@ $|_3K
 .?showFullScreen@QWidget@@QEAAXXZ
 .@:res/affine/bg1.jpg
 .A,mell
-.]+Pi^
+.KUj
 .cKEstK
-.pdata
-.text
-/,\X4T
-//"Ht
+.yOf
+/1HB
 /1jB]p
 /:VbD
 /?size@QImage@@QEBA?AVQSize@@XZ
 /?spacerItem@QLayoutItem@@UEAAPEAVQSpacerItem@@XZ
 /?spacerItem@QSpacerItem@@UEAAPEAV1@XZ
-/A0s/f
-/A8s"H
-/A8s(H
-/D$8wL
-/D$@w
-/L9\$ t
-/s0s)f
-/s8s"H
+/Hkz
+/ouQ
 0(?setCompositionMode@QPainter@@QEAAXW4CompositionMode@1@@Z
+00;U
+02NK
+0496
 0?state@TouchPoint@QTouchEvent@@QEBA?AW4TouchPointState@Qt@@XZ
 0?staticMetaObject@QTextBrowser@@2UQMetaObject@@B
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
-0A\_^
-0A^A]A\
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
 0G$-YmC
 0NZyS
 0VrE(
 0Zv,Gq
-0_^[H
 0d#8n
 0q^bh
-1	ZnJ
+0tVt
+0u[Q
+0wnQ
 1 ?pageSize@QTextDocument@@QEBA?AVQSizeF@@XZ
 1#IND
 1#INF
@@ -432,12 +321,16 @@ $|_3K
 1HW}=s
 1U`yy
 1V&(U
+1\tZnJ
+1\v>KK
 1changeRotation(int)
 1changeScale(int)
 1changeShear(int)
+1cp<
 1emitOkSignal()
 1emitQuitSignal()
 1enableOpenGL(bool)
+1f v
 1hideControls()
 1pointsUpdated()
 1quit()
@@ -515,17 +408,25 @@ $|_3K
 1updateCtrlPoints(QPolygonF)
 1xe*N
 2748X
+27\vYm
 297dg
 2?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z
 2?takeAt@QGridLayout@@UEAAPEAVQLayoutItem@@H@Z
 2IR\.
+2MhW
 2PT[V
 2VsWLp
 2WqK~
+2]H4
+2cG?
+2ck\v
 2clicked()
 2clicked(bool)
 2colorsChanged()
 2descriptionEnabledChanged(bool)
+2diF
+2dt'
+2e[M
 2gradientStopsChanged(QGradientStops)
 2okPressed()
 2pointsChanged(QPolygonF)
@@ -537,94 +438,125 @@ $|_3K
 2textChanged(QString)
 2toggled(bool)
 2valueChanged(int)
+2xN=
+2zl8
 2|49ly
 2~+AcnY
 3&dl6k
+3.CM
 3/?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ
 3/i)q
-3Ve@.!D`
-3[[M$[
+3Gxx
+3ISR
+3JhZ
+3TK8
+3X$M
+3\vXd
+3_4M
+3`J7
+3bB\t
 3eq`h
 4&?scale@QMatrix@@QEAAAEAV1@NN@Z
+4*\vNH
+4+o\t\rSPq$
+4=CN
+4K4B
 4Qou//
-4Z)+G
+4Z)+G\n8
 4co^X
-4d@q=
+4eFr
+4riV
 4yiQdB6
-5!l+%
 5${yK
 5&?scale@QPainter@@QEAAXNN@Z
 5,1VX
-5-";K{wH
+54M_
 5C6mm
+5Ktt
+5_b9
 5fnIR
-5{n6p
+5mF,
+5r@V
+5y@o
+5{n6p\n
 6,BDU
+60/o
+62k%
 63?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
+6439
 6<{LKkS
 6>FH8
 6?translate@QMatrix@@QEAAAEAV1@NN@Z
 6?translate@QPainter@@QEAAXAEBVQPointF@@@Z
+6CZE
+6N)v
+6Qpi
 6R[Cu
+6WB<
+6Y%\re
+6\v?addPath@QPainterPath@@QEAAXAEBV1@@Z
+6cAr
+6cZ]
 6f[q_
+6hv]
+6jv\v
+6n1P
+6o@C
+6z,m
 7#6W4
 7*?setIconSize@QAbstractButton@@QEAAXAEBVQSize@@@Z
 71*6T
-71~a	
+71~a\t
+76gK
+77N<
 77n="
-7;|$0t,
 7KMyx
 7P.~v
 7Rh<l
-7U~,/A
+7Xej
+7\TV
 7c]]uJoW
 7k@fffff
-7|G~;
-8$u,D
-8$u.D
+7noe
+7unw
+7wV;
+8)9V
 80lou
-80tVD
-80|'A
 83?timerEvent@QAbstractSlider@@MEAAXPEAVQTimerEvent@@@Z
+85.D
 89q.5
-8=y'=
-8?u$H
-8?u-H
 8?viewportEvent@QAbstractScrollArea@@MEAA_NPEAVQEvent@@@Z
 8?width@QPixmap@@QEBAHXZ
 8?winEvent@QWidget@@MEAA_NPEAUtagMSG@@PEAJ@Z
 8?windowActivationChange@QWidget@@MEAAX_N@Z
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8D$8t
-8Ft0A
-8Ht*A
+8D|n
 8IR:'Y
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
+8cis
+8lp{
 8lr2:S2
 8mFI._
+8uIe
+8v^e
 8x]lw
 8z@33333Sb@X9
 8|B\v
-9	t	H
-9	tmH
 9-LhB2yg
-91~O3
-9?uPH
+95}j
+96H&
+9LFL
+9b@H
 9fW!c g
 9k@33333#x@
-9t$P~98\$vt3H
+9pyL
+9q3\r
+9qK#
+9w@7
+9|tj
 :/trolltech/arthurplugin/bg1.jpg
-:@^;zz
 :@adN
+:R2U
 :a.3Y
+:bF9
 :res/affine/xform.cpp
 :res/affine/xform.html
 :res/composition/composition.cpp
@@ -642,79 +574,55 @@ $|_3K
 :res/images/line_solid.png
 :res/pathstroke/pathstroke.cpp
 :res/pathstroke/pathstroke.html
-:u@q=
-;+L)v
-;.uAL
-;7sUH
-;?tJA
 ;Uk;U
 ;Wxn2
-;\$p|
+;tVJ
 ;vN?J
-< tG<	tC
-<"[w$
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
-</class>
-</customwidgets>
+</class>\n    <propertyspecifications>\n      <stringpropertyspecification name="text" type="singleline"/>\n    </propertyspecifications>\n  </customwidget>\n</customwidgets>\n
 </font>
 </pre></html>
-</ui>
-<0|/<9
-<1~1<3~$<4t9<5t
-<8j-Ot
-<?u7H
-<A|2<P
-<Et	H
+<8j-Ot\rG
+<Ncs
 <OHs?
 <SnIm
-<_uyI
+<VNL
 <ai(KI1#I
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-<customwidgets>
+<customwidgets>\n  <customwidget>\n    <class>
 <ellipsis>
 <font color=green>\1</font>
 <font color=navy>
 <font color=navy>\1</font>
 <font color=olive>
-<font color=red>\1</font>
+<font color=red>\1</font>\n
 <html><pre>
-<lH%,$
 <s@fffff
 <sinf
 <ui language="c++"><widget class="
 <unknown>
 <widget class="%1" name="%2"/>
-<z~$<A|
-=!C?~
+<xR1
 =+fX`yaJ
 =23s[Z<
 =676S
-=7k@.
-=<}hIL[-
-=J<y 
+=Ijo
+=McZ
 =OO`q
-=[|:f
-=_*^pb
 =b^Km
->	?grow@QVectorData@@SAHHHH_N@Z
+=hLy
+=ryc
 >'hXMk
->2;<q
+>20q
 >38ix
->AG"~
 >BGp#
 >JGX)R}
->e:p?z
->l+85*
+>\t?grow@QVectorData@@SAHHHH_N@Z
+>nLx
 >t@X9
-?)!.s9
-?)FI^H
-?+!h:
+>w1A
 ?.?setVisible@QWidget@@UEAAX_N@Z
 ?4Ntu
 ?5z[2
 ?6=fK
-?9_Q=#
 ??0QBrush@@QEAA@AEBV0@@Z
 ??0QBrush@@QEAA@AEBVQColor@@W4BrushStyle@Qt@@@Z
 ??0QBrush@@QEAA@AEBVQGradient@@@Z
@@ -858,70 +766,30 @@ $|_3K
 ??UQRect@@QEBA?AV0@AEBV0@@Z
 ??UQRectF@@QEBA?AV0@AEBV0@@Z
 ??Y?$QVector@VQPointF@@@@QEAAAEAV0@AEBV0@@Z
-?CuND8g
+?J4\fg
 ?LW;fC
-?Xn{:
+?PkR
 ?ZDx-
 ?Zjjy
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+?\rKzF
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
-?addEllipse@QPainterPath@@QEAAXAEBVQRectF@@@Z
-?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
-?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
-?addItem@QGridLayout@@QEAAXPEAVQLayoutItem@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
-?addLayout@QGridLayout@@QEAAXPEAVQLayout@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addPath@QPainterPath@@QEAAXAEBV1@@Z
-?addRect@QPainterPath@@QEAAXAEBVQRectF@@@Z
-?addSpacing@QBoxLayout@@QEAAXH@Z
-?addStretch@QBoxLayout@@QEAAXH@Z
-?addText@QPainterPath@@QEAAXAEBVQPointF@@AEBVQFont@@AEBVQString@@@Z
-?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 ?ag[l
 ?allocate@QVectorData@@SAPEAU1@HH@Z
 ?allocateNode@QHashData@@QEAAPEAXH@Z
 ?angle@QLineF@@QEBANAEBV1@@Z
-?animateClick@QAbstractButton@@QEAAXH@Z
 ?append@?$QVector@VQPointF@@@@QEAAXAEBVQPointF@@@Z
 ?append@QListData@@QEAAPEAPEAXXZ
 ?append@QString@@QEAAAEAV1@AEBV1@@Z
 ?append@QString@@QEAAAEAV1@AEBVQLatin1String@@@Z
 ?append@QString@@QEAAAEAV1@PEBD@Z
-?arcTo@QPainterPath@@QEAAXAEBVQRectF@@NN@Z
 ?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
 ?at@?$QVector@VQPointF@@@@QEBAAEBVQPointF@@H@Z
 ?at@QString@@QEBA?BVQChar@@H@Z
-?backgroundRole@QWidget@@QEBA?AW4ColorRole@QPalette@@XZ
-?backward@QTextBrowser@@UEAAXXZ
-?bad default: %d
-?begin@QPainter@@QEAA_NPEAVQPaintDevice@@@Z
-?beginNativePainting@QPainter@@QEAAXXZ
-?bits@QImage@@QEAAPEAEXZ
-?blue@QColor@@QEBAHXZ
-?boundingRect@QFontMetrics@@QEBA?AVQRect@@AEBVQString@@@Z
-?boundingRect@QPainterPath@@QEBA?AVQRectF@@XZ
-?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
-?buttons@QMouseEvent@@QEBA?AV?$QFlags@W4MouseButton@Qt@@@@XZ
-?byteCount@QImage@@QEBAHXZ
-?cX/C[ +
-?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
+?bad default: %d\n
 ?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
-?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QGroupBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
-?checkStateSet@QAbstractButton@@MEAAXXZ
-?childEvent@QGroupBox@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?clear@?$QVector@VQPointF@@@@QEAAXXZ
-?clear@QTextDocument@@UEAAXXZ
 ?clipPath@QPainter@@QEBA?AVQPainterPath@@XZ
 ?closeEvent@QWidget@@MEAAXPEAVQCloseEvent@@@Z
 ?closeSubpath@QPainterPath@@QEAAXXZ
@@ -1081,7 +949,6 @@ $|_3K
 ?isEmpty@QLayout@@UEBA_NXZ
 ?isEmpty@QSpacerItem@@UEBA_NXZ
 ?isNull@QImage@@QEBA_NXZ
-?isNull@QPointF@@QEBA_NXZ
 ?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z
 ?itemAt@QGridLayout@@UEBAPEAVQLayoutItem@@H@Z
 ?keyPressEvent@QAbstractButton@@MEAAXPEAVQKeyEvent@@@Z
@@ -1094,20 +961,17 @@ $|_3K
 ?keyReleaseEvent@QAbstractButton@@MEAAXPEAVQKeyEvent@@@Z
 ?keyReleaseEvent@QTextEdit@@MEAAXPEAVQKeyEvent@@@Z
 ?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
-?killTimer@QObject@@QEAAXH@Z
 ?languageChange@QWidget@@MEAAXXZ
 ?layout@QLayout@@UEAAPEAV1@XZ
 ?layout@QLayoutItem@@UEAAPEAVQLayout@@XZ
 ?layout@QWidget@@QEBAPEAVQLayout@@XZ
 ?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z
-?length@QLineF@@QEBANXZ
 ?light@QColor@@QEBA?AV1@H@Z
 ?lineTo@QPainterPath@@QEAAXAEBVQPointF@@@Z
 ?loadResource@QTextBrowser@@UEAA?AVQVariant@@HAEBVQUrl@@@Z
 ?loadResource@QTextDocument@@MEAA?AVQVariant@@HAEBVQUrl@@@Z
 ?makeCurrent@QGLPixelBuffer@@QEAA_NXZ
 ?makeCurrent@QGLWidget@@QEAAXXZ
-?manhattanLength@QPoint@@QEBAHXZ
 ?map@QMatrix@@QEBA?AVQPointF@@AEBV2@@Z
 ?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ
 ?maximumSize@QGridLayout@@UEBA?AVQSize@@XZ
@@ -1127,7 +991,6 @@ $|_3K
 ?metric@QGLPixelBuffer@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
 ?metric@QImage@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
 ?metric@QWidget@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
-?mid@QString@@QEBA?AV1@HH@Z
 ?minimumHeightForWidth@QBoxLayout@@UEBAHH@Z
 ?minimumHeightForWidth@QGridLayout@@UEBAHH@Z
 ?minimumHeightForWidth@QLayoutItem@@UEBAHH@Z
@@ -1170,29 +1033,13 @@ $|_3K
 ?mouseReleaseEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
 ?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z
 ?moveTo@QPainterPath@@QEAAXAEBVQPointF@@@Z
-?msec@QTime@@QEBAHXZ
 ?nextCheckState@QAbstractButton@@MEAAXXZ
-?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
-?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
-?objectName@QObject@@QEBA?AVQString@@XZ
-?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?paintEngine@QGLPixelBuffer@@UEBAPEAVQPaintEngine@@XZ
 ?paintEngine@QGLWidget@@UEBAPEAVQPaintEngine@@XZ
 ?paintGL@QGLWidget@@MEAAXXZ
 ?paintOverlayGL@QGLWidget@@MEAAXXZ
-?postEvent@QCoreApplication@@SAXPEAVQObject@@PEAVQEvent@@@Z
-?prepend@QString@@QEAAAEAV1@PEBD@Z
-?qFree@@YAXPEAX@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
-?qRegisterResourceData@@YA_NHPEBE00@Z
-?qUnregisterResourceData@@YA_NHPEBE00@Z
-?qWarning@@YAXPEBDZZ
 ?qt_metacall@QGLWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacast@QGLWidget@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
-?qt_qFindChild_helper@@YAPEAVQObject@@PEBV1@AEBVQString@@AEBUQMetaObject@@@Z
-?qt_qFindChildren_helper@@YAXPEBVQObject@@AEBVQString@@PEBVQRegExp@@AEBUQMetaObject@@PEAV?$QList@PEAX@@@Z
 ?readAll@QIODevice@@QEAA?AVQByteArray@@XZ
 ?realloc@QListData@@QEAAXH@Z
 ?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
@@ -1238,114 +1085,71 @@ $|_3K
 ?updateGL@QGLWidget@@UEAAXXZ
 ?updateOverlayGL@QGLWidget@@UEAAXXZ
 ?willGrow@QHashData@@QEAA_NXZ
-@ A+@
-@ A9@
-@ D+A
-@'c<0
-@*|jCl[
-@.data
-@.reloc
 @33333
-@8t$8t
-@8|$8t
-@A\_^
-@A\_^][
-@A]A\]
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
+@946
+@IZW
 @Ohz~
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@UATAUH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@`$},}
-@h@'1
-@text
 @yJWRU
-@}?5^
-A D+A
+@zsM
+A!Ng
 A(8XL
-A(P<`
 A(qj^
 A-?setStyle@QWidget@@QEAAXPEAVQStyle@@@Z
-A9	u<A
-A9	uxA
-A;1~	I
-A=}*H	
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ACo\
+AJ2}
 AO5C]M>P
-ATAUAVH
 AZVRG<
-A\^]H
-A\_^][
-A]A\_
-A]A\_^[]
-A]A\_^]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^[]H
-A_A^A]A\_^]
-A_A^A]A\_^][
+A\v?addRect@QPainterPath@@QEAAXAEBVQRectF@@@Z
 Affine Transformations
+AhJ\t
+Aku<
 Animate
 Animated
-Ap:}:g
 April
 Arthur Widgets Demo
 Arthur Widgets [Demo]
 ArthurFrame
 ArthurPlugins
 August
-B(I9A(u
+AxSH
+A~zJ
 B,?setRenderHint@QPainter@@QEAAXW4RenderHint@1@_N@Z
 B-?setStyleHint@QFont@@QEAAXW4StyleHint@1@W4StyleStrategy@1@@Z
 B21Pu
 B65J^
-BGuV|
+BGuV|\v|
+BIOq
+BIPB
 BVBFs
-B_#]g
+Bb|T
 Bevel
+Bl@D
 Bqmhs
 BsM9Q
 BzF2y
 B}EtCO
-C A+C
-C* zz
 C*qkH*
-C0HcH
+C1da
 C2?syncX@QApplication@@SAXXZ
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\designer\arthurplugin.pdb
+CC~V
+CHJF
+CHUf
 CIJd;
-CJ!*)8V?c]
+CKZn
 CKy@^
 CM-E=G
+CVMt
+C\f?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 C_5%3
 Cap Style
 CeNa)
 Circle alpha
 Circle color
 Clear
+ClxS
+CnZ[
 Cnr.n
 Color Burn
 Color Dodge
@@ -1362,34 +1166,9 @@ Curves
 Custom
 Cv@Nb
 Cy~cs
-D$ E3
-D$ fA
-D$ fE
-D$&8\$&t-8X
-D$(E3
-D$8+D$0
-D$8E3
-D$8HcH
-D$8fA
-D$<+D$4
-D$@E+
-D$DD+
-D$DE3
-D$PL9oXt
-D$XE3
 D$ZLs\
-D$p H
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8t$ t
-D9d$ 
-D;+t1
-DZ]K@,
+D60\f
+DXU\f
 D\rKy
 Darken
 December
@@ -1405,38 +1184,42 @@ Dest In
 Dest Out
 Destination
 Destination Over
+Dg@R
 Difference
+DrJJ
+Dr|x
+DwD[
 E'QET
+E2l\t
+E6z@
 E8?wheelEvent@QAbstractSlider@@MEAAXPEAVQWheelEvent@@@Z
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
 E=1Sw~
-EgHcp
+EKPd
+EY\t8
+E[co
 EgIu\
+Ek[T
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
-EoLc`
-Ev`@#
-EwLc`
 Exclusion
+Exif
 ExitProcess
 F!N4>vV
+F+oc
 F-?setStyleStrategy@QFont@@QEAAXW4StyleStrategy@1@@Z
 F/?sizeHint@QGridLayout@@UEBA?AVQSize@@XZ
 F0Eh.
-F0HcH
 F3?timerEvent@QTextEdit@@MEAAXPEAVQTimerEvent@@@Z
+F<s3
 F@i&dg
-FG|<}U
-F_!R{
+FM/D
+FT0}
+FUNS
 FatalAppExitA
 February
 FlY!~
+Flat
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -1444,17 +1227,24 @@ FlsSetValue
 Fnjx?
 Font Size
 Font Size:
+Fq)c
 Fq^{6
+Fq{3
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
+F~c8
 G$S6H
 G'Ers
 G-1|9A
-G0Hc	H
 G6CZ+
+G7\vQ\r
+G>cH
 G@Zd;
 GQ)9'
+GV=q
+Ga@o
+GaMy
 Gb?jj
 GetACP
 GetActiveWindow
@@ -1486,8 +1276,11 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
+Gex}
 Gf3QS
-Go _'
+Gjws
+GmO4
+Gqy@
 GrOa^a?
 Gr[~a
 Gradient Type
@@ -1498,34 +1291,29 @@ GradientRendererEx
 GradientRendererPlugin
 GradientWidget
 Gradients
+Grr<
 Gvcn4k
 Gvl[#
 GyYml
-H A+H
 H!A=9
 H'?setAlphaChannel@QImage@@QEAAXAEBV1@@Z
-H(H9J(u
-H+M0x
-H9D$Ps\H;
-H9L$Xt'H
-H;T$`
-H;T$h
-HA]A\_^][
-HA_A^A]A\_^][
+H)XX
+H*iG
+H8$R
+HGAR
 HH:mm:ss
+HI9C
 HKp]Te/
+HMXB
 HP=*NRMa
 HRRk)9
+HTi.
 HVd+!c
+HYK(
 HZCJNN
 H[Iu)
+H\nyx
 Hard Light
-HcC H
-HcD$8H
-HcH<H
-HcO H
-HcT$8McJ
-Hct$@H
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -1533,94 +1321,91 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
+HlJB
 Hlt:z
 HoverPoints
+HrNH
+Hsm"
 Hy]n(
 H}G8S]
-I	N{$g
-I$q[;
 I-u{e
-I94$tt
+IEg'
 ILS@u
+IOeM
+IQG&
 IQRFOb
+ISj-
+ITQE
+IW1c
 IWPB9
 IW`i6F
+IYl<
 IZ'2e
-IcqHH
-IcqHI
+Ii$c
+Ii_\vrOI?.
 Im@rF
 InitializeCriticalSectionAndSpinCount
 Ir,P0
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
+Iu\fq
 I|Qo!
 J ?paintEngine@QImage@@UEBAPEAVQPaintEngine@@XZ
+J6I<
 J7N*H
+J?1M
+J?7j
 J@X8<
-JJA.,! v&
+JFIF
+JH)Q
+JKP#
 JKWJA
+JR:9
+JRy#
+JU\nB
 JWc,}
 JXV>e
+J[Gd
 January
+Jc<z
+Jcrq
+JiDj
 Jn)OJr
 Join Style
+Js@y
+July
+June
 JvwpR/v
-Jy+}'
-K A+K
-K E+K
-K!'{Y]
+K!IS
 K#?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z
 K(#luw
 K/?sizeHint@QLabel@@UEBA?AVQSize@@XZ
-K0HcQ
-K0LcY
+K4b6
 K7O@F
+K7T@
 K7if@
+K9!m
 KERNEL32.dll
+KJJc
+KK V
+KL\m
 KM)jk
 KUvkKLb%
 KZ[OJR@#
+K\f?backgroundRole@QWidget@@QEBA?AW4ColorRole@QPalette@@XZ
+Kd\vs
 Kg|@7
+Kh@1
+Kh\r6
 Ki-zr}
+KiaD
+KqE)
 Ku,B[
-L!l$HL!l$@
 L#?qt_metacast@QRadioButton@@UEAAPEAXPEBD@Z
-L$ E3
-L$ H3
-L$ SUVWH
-L$ fA
-L$'%M
-L$0<`t
-L$0E3
-L$0H;
-L$8H3
-L$<+L$4
-L$@+B$
-L$@;|
-L$@E3
-L$HE3
-L$HH3
-L$PE3
-L$PH3
-L$Pffffff
-L$XE3
-L$\E3
-L$`E3
-L$`H3
-L$dE3
-L$hE3
-L$pE3
-L$pH3
-L$pfA
-L$tA;
-L$tE3
-L$x;0H
-L$xE3
-L$xH3
-L$|E3
 L.Pb(
 L/?sizeHint@QLineEdit@@UEBA?AVQSize@@XZ
+L;lL
 L=>CIi
 LCMapStringW
 LC_ALL
@@ -1630,82 +1415,121 @@ LC_MONETARY
 LC_NUMERIC
 LC_TIME
 LETTiOY
-LIi==y
+LIPy
+LIi==y\v
+LM.i
+LMas
 LW@OQ
-LcA<E3
-Lc\$8HcJ
-Lc\$8McJ
+L]O9
+La@v
+LbjQ
+LcIi
 LeaveCriticalSection
 Lens Radius
 Lens Radius:
+Lfy%
 Lighten
 Line Style
 Linear Gradient
 Lines
+Ll D
 Lmi3C
 LoadLibraryW
-Ly6Yk
+Lq[1
+Lt[X
+Ltss
+Lu[Y
+M#Hv
 M%eeH@Q
-M/ %Uqz/
+M'nn
+M)VG
+M+1o
+M2K"
 M2NVJ
 M4Ueb
+M4gt
 M5%e.$q
 M6S[j
-M9.t=H
-M94$tiA
-M94$t|A
+M;kG
 MM/dd/yy
+MPcd
+MRt@
 MR}@j
-MXf!A
+M_em
 M`j}J
 March
 Mb z@
 Mb0w@?5^
 Mbpn@d;
-Mc,$E
 MessageBoxW
-MhHcQ
 Miter
+Miuq\r
+Mode
 Monday
-Ms@?5^
 MultiByteToWideChar
 Multiply
 MvFd;
 Mv{f~
 MxLKA
+N7I]
 N?63h
+N@Rz
+NB Y
+NCV|
+NE,Q
 NEt_k
+NEz,
+NH_R
+NKeb
+NUK1
+NULL
 NY;~Y
-N];.X
+N\nOn
 N^I?2
+Na*q
+NahG
 NfZe-A
 NiFT6
+Nj~p
 No source for widget: '%1'
 Norwegian-Nynorsk
 November
 NxB}.
-O$F[$
+N}UO
 O*YrC
-O0HcQ
 O=EsS0
+OASM
+OCfW
 OFmFDP
+OH\tO
+OJn%
+OLfm
+OMX@
+ONO"
 OPENGL32.dll
 OV+0`
 OWo^}
-O_1(#'
+O\f?backward@QTextBrowser@@UEAAXXZ
+Ocd0
 October
 Oe%C 
 Oj:n4
+OjuF
+Olg?
 OrLYn
 Overlay
 OzyHC_
 O|pMo
-P A+P
 P8?wheelEvent@QTextEdit@@MEAAXPEAVQWheelEvent@@@Z
 P:tK9
-PA\_^][
-PA^A]A\_^][
-PO4d(
+P;AT
+P>Rl
+P>ev
+PI z
+PO4d(\v
+PWC\nWa
+PX|6
+P\vLtL
 Pad Spread
 Path Stroking
 PathDeformControls
@@ -1716,25 +1540,47 @@ PathStrokeControls
 PathStrokeRenderer
 PathStrokeRendererEx
 PathStrokeWidget
+PbKa
 Pen Style
 Pen Width
 PfXdRW
 Pixmap
 PixmapType
+Plus
+Po\nH
+Pr}A
 Q"sH'
-Q4(-[1>
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
+Q8h@
+Q9<\fc
+Q9Vq
+Q:GJ
 QDesignerCustomWidgetCollectionInterface
 QE*Y/
+QE-i
+QE>t
 QEH{q
+QETV
+QE\i
+QE\o
+QEl>
+QJLZ
+QJ[7
 QPixmap
 QQ29#
+QQ\nW
 QString
 QT,u`
-QX|@J
+QYL8
+QY\fD
 QZ(m}D`
-Q_@*P
-QfSH*
+Q\nFh
+Q\nx$l
+Q\tA5
+Q_pq
+Qaq2
+Qdd9
+QfSH*\f
 Qt - Hello World!!
 Qt Affine Transformation Demo
 QtCore4.dll
@@ -1743,22 +1589,30 @@ QtOpenGL4.dll
 Qt_GetCustomAllocators
 Qu]na
 QueryPerformanceCounter
-R!I.\
+Quit
+Qxt+
 R"nX$
-R*]a)h
+R#HK
+R1<N
+R9IH
+R;pF
 R=Ozn
-R?-	'
 R@J}O
 RANR;Tqz
 RGM]d
+RHD+
+RSDS
+R\r6o
+R\v6f\
+R]wS
 R_NHu
 Radial Gradient
 RaiseException
+RcuR\n4
 Reflect Spread
 Repeat Spread
 Reset
 Reset Transform
-RichT
 Rotate
 Round
 RtlCaptureContext
@@ -1766,25 +1620,28 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-R{uR[
+Rt{2
+Rw1w
+RzA8
+Rz\rm
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
 S#G<S
-S#`@;
 S&>Dm
 S,?setRgb@QColor@@QEAAXHHHH@Z
 S6\pB
 S;E2D^
+S;uD
+S<Qy
 S?NO\s
 SL`ou
 SQZ^T
 SS#3a
-SUVWATAUAVAWH
-SUVWATAUH
-SUVWATH
-SUVWH
-SVWATAUAVAWH
+SSy@
+S]uv
+Saa*
 Saturday
 Scale
+Scb@
 Screen
 September
 SetConsoleCtrlHandler
@@ -1809,86 +1666,100 @@ StrokeRenderPlugin
 Sunday
 SystemFunction036
 S~ze42
-T	KH6
 T!Wev
 T#?qt_metacast@QSlider@@UEAAPEAXPEBD@Z
-T$0E3
-T$PE3
-T$XE3
+T$4e
 T9a+PJJ
+TF}r
 THiLt
+TI0g
 TMn#(OXX'?Z
 TN ry>
 TNMS@$
 TO{Z(
+T[TG
 TerminateProcess
+Text
 TextType
 Thursday
 Tnp>Q
+TsAb
 Tuesday
+Type
+U)Kp
 U/?sizeHint@QPushButton@@UEBA?AVQSize@@XZ
 U=XO~j
-UATAUAVAWH
-UATAUH
-UAUAVH
+UGMl
+UL,V
 UNKNOWN
+UO1y
 URO$G
-USVWATAUAVAWH
-USVWATAUH
 UUUUUU
-UVATH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 UWdvL
+U_sV
+Ud/g
 Uh]Q.
+Ui?f
+Uj c
 UkZGd
 Unable to load resource file: '%1'
 UnhandledExceptionFilter
 Unknown exception
-Uq@?5^
 Uqu')RN8
+UrIV
+UrY3
 Use OpenGL
+V)gc
+V.V7
 V/?sizeHint@QRadioButton@@UEBA?AVQSize@@XZ
-V@	OW
+V3pv
+V8M+
+V@\tOW
+VA(Q
 VB{sT
+VCLY
+VC[o
+VFu?
 VL8rn
-VWATAUAVH
-VWATH
-V[Q[Y
+VNl@
+V\nR}j
 Vd`tND8
+Vdh1
 Vector Deformation
 Vector Image
 VectorType
 Vf],O4
+Vg@j
+Vl\rV
 Vnm@u
 Vo@B`
-Vu@)\
 VwK_l
 W _2W7
-W:z*?
 W;43a
 W<m@O
-WATAUAVAWH
-WATAUH
-WATAVH
+WE5N
 WJT94
+WPn.
+WQ4F
 WQeeohq`
 WU60p
-WWZbXC
-W_P'<
+WWZbXC\fqB_yC
+W[nZ
+Wb@o
+Wd'E
 Wednesday
+WgC.
 What's This?
 WideCharToMultiByte
-Wn@sh
+Wof)
+WrWa
 WriteFile
 Wu+^A
-X	Q zS
 X!?pos@TouchPoint@QTouchEvent@@QEBA?AVQPointF@@XZ
+X!Yr
+X"IJ
 X)?setFixedHeight@QWidget@@QEAAXH@Z
 X)iN,
-X9$}@
 XCK*t
 XE6VT
 XFormPlugin
@@ -1896,95 +1767,184 @@ XFormRendererEx
 XFormType
 XFormView
 XFormWidget
+XKFO
+XO@T
+XP)9
 XSR#:[Z
+XXL\r
+XZsu
+X\tQ zS
+X\v?addSpacing@QBoxLayout@@QEAAXH@Z
+X_X9
 XcDu)
-Xk:IH
 Xq%dNs
 XtF<nf
-Y'GkEX
+X}Gb
 Y1#vN
 Y25M:g
-Y>1,u^
-Y@}?5^
+YGXT
+YHJT
+YL-G
+YQLa
 YR%-G
+YWm*
+YXGp
+Y\nXH*Q
+Y\v?manhattanLength@QPoint@@QEBAHXZ
 Y^nZz$
+Y`DT
 Yb<v|
+YcAj
 YeX^9
+Yg|T
+Yi+E
+Yk\nW
+Ys@F
+YutY
+Yy8q
 Y}4Fd
 Z-RXl
+Z/4Y
 Z/?sizeHint@QSlider@@UEBA?AVQSize@@XZ
 Z1Cy!G+@i
+Z5$r
+Z8\rm&x
+Z9,Q
 ZB2Wex|x
+ZC)c
+ZC\fD
+ZJvJ
 ZK&O[%C=+G8
+ZNvv
 ZTzvSd
 ZUjPR
 ZY3[b
+Z[RA
+Z\nV0
+Z\v?addStretch@QBoxLayout@@QEAAXH@Z
+Z]rJ
 Zd;/v@w
-Zd;_L@
-Zd;_`@
+ZmA\t
+Zr:S
 ZrJvT
+Zvb<
+Zw;h
+Zxn'
 ['?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
 [/?sizeHint@QSpacerItem@@UEBA?AVQSize@@XZ
-[?*k)
+[6ba
+[BwL
 [c(WH
-[d@}?5^
-[kDGu	H
+[ga2
+[j6w
+[kDGu\tH
+[kn7
 [l<7gc
-[qI=+
 [thunk]:
-[uO|*
 [uWKi
-[v^+1
-[x@d;
-\	GNs
-\!Gt=
-\$ E3
-\$ UVWATAUAVAWH
-\$ WH
-\$0E3
-\$0H;
-\$0HcJ
-\$0IcC
-\$8E3
-\$8L3
-\$PE3
-\$`E3
 \)?setFixedWidth@QWidget@@QEAAXH@Z
 \.?setWidth@QPainterPathStroker@@QEAAXN@Z
+\IIR
 \I~tg
-\L$8H
-\L$8f
-\M-cG<)
 \PKNs
-\Q+],
-\T,>*
+\Qcz
+\ZlQ
+\\tGNs
+\f55sq
+\f?blue@QColor@@QEBAHXZ
+\f?boundingRect@QFontMetrics@@QEBA?AVQRect@@AEBVQString@@@Z
+\f?boundingRect@QPainterPath@@QEBA?AVQRectF@@XZ
+\f?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
+\f?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
+\f?postEvent@QCoreApplication@@SAXPEAVQObject@@PEAVQEvent@@@Z
+\f?prepend@QString@@QEAAAEAV1@PEBD@Z
+\f?qFree@@YAXPEAX@Z
+\fOy>k
+\fgkc8
+\fjpJ#
 \l{Gf
+\mHA
 \mtYY
-\r\i.
+\n -I55|cm
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\n?killTimer@QObject@@QEAAXH@Z
+\nKML
+\nL8E
+\nSkJ
+\nY'GkEX
+\ncJi
+\neimg
+\nuEG
+\r)G\vn8/pj
+\r1.r2
+\r?buttons@QMouseEvent@@QEBA?AV?$QFlags@W4MouseButton@Qt@@@@XZ
+\r?checkStateSet@QAbstractButton@@MEAAXXZ
+\r?childEvent@QGroupBox@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+\r?clear@QTextDocument@@UEAAXXZ
+\r?qRegisterResourceData@@YA_NHPEBE00@Z
+\r?qUnregisterResourceData@@YA_NHPEBE00@Z
+\r?qWarning@@YAXPEBDZZ
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?qt_qFindChild_helper@@YAPEAVQObject@@PEBV1@AEBVQString@@AEBUQMetaObject@@@Z
+\r?qt_qFindChildren_helper@@YAXPEBVQObject@@AEBVQString@@PEBVQRegExp@@AEBUQMetaObject@@PEAV?$QList@PEAX@@@Z
+\rE%St
+\rKLGK
+\rXk:IH
+\rYPy 
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\r_5Ey
+\t$kW2
+\t4Rl
+\t7xm
+\t?fromUtf8@QString@@SA?AV1@PEBDH@Z
+\t?inherits@QObject@@QEBA_NPEBD@Z
+\t?insert@?$QVector@VQPointF@@@@QEAAXHAEBVQPointF@@@Z
+\t?installEventFilter@QObject@@QEAAXPEAV1@@Z
+\tSXa=
+\tVGoo
+\t\f%8CiG
+\t\r?byteCount@QImage@@QEBAHXZ
+\t\v?addEllipse@QPainterPath@@QEAAXAEBVQRectF@@@Z
+\tvSDBm
+\v?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+\v?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
+\v?addItem@QGridLayout@@QEAAXPEAVQLayoutItem@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+\v?animateClick@QAbstractButton@@QEAAXH@Z
+\v?arcTo@QPainterPath@@QEAAXAEBVQRectF@@NN@Z
+\v?length@QLineF@@QEBANXZ
+\v?mid@QString@@QEBA?AV1@HH@Z
+\v?msec@QTime@@QEBAHXZ
+\vHJF~
+\vLy6Yk
+\vQITh
+\vdgu}Toi
+\vu|iY6gI3z
 ]%?resize@QWidget@@QEAAXHH@Z
-]+"/L
-]-e/!
 ]HrD7
-][#Zn
+]OyJ
+]WSd
 ^"?qt_metacall@QGridLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ^(wonu
-^1q}.
+^57V
 ^8?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ
 ^G,ZDL
 ^T$n~v4
 ^W|Wxy
-^ZZPY
-^h2C	l
+^ZI8
+^ZZPY\n
+^\f?begin@QPainter@@QEAA_NPEAVQPaintDevice@@@Z
+^cen
+^h2C\tl
 _ ?paintEvent@QGroupBox@@MEAAXPEAVQPaintEvent@@@Z
 _"?qt_metacall@QGroupBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 _+a6sB
 _0h{chk\
+_8Ol
 _@*XJFTN
 _AI88
-_HHcp
-_K' {T
-_Oem'S#&W)
-_\-IJpI=)>
+_\r?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
 __based(
 __cdecl
 __clrcall
@@ -2001,21 +1961,18 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
+_cEl
 _cHtQEt
 _cabs
+_daa
 _hypot
 _logb
 _nextafter
+_uEn
 _wYs]i
-` AUH
-`%!`(
-`.rdata
-`A\_]
-`A\_^][
-`A_A^A]A\_^]
 `RTTI
 `Wbt3
+`\r?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
 `adjustor{
 `anonymous namespace'
 `copy constructor closure'
@@ -2027,7 +1984,6 @@ _wYs]i
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`f*c;8?
 `jKBp
 `local static destructor helper'
 `local static guard'
@@ -2066,16 +2022,15 @@ _wYs]i
 a"?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 a(QQR}
 a+ZRH
-a,[Vp
 a-maa
 a<E[o
-a=<`Rv
-a@}?5^
-aE%!'#8
+a@sh
+aQ\ff
 aR?*T
-a^^|O
-a`@'1
+aRCV
+a]kq
 abcdefghijklmnopqrstuvwxyz
+acos
 alpha
 america
 american
@@ -2085,33 +2040,53 @@ animate
 animated
 animation
 arthurplugin.dll
+asin
+atan
 atan2
 australian
+az[V
 b ?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z
-b.-%S
+b"lb
+b3Q~
+b@Nb
+bB0~
+bBqX
+bDhZ
+bGbV
 bPHIM)9
 bVlW4]
 bad exception
 baq?e
 bc>j]
 belgian
+bool
+bqW|
 britain
-bu%iX	
-buildkey=Windows x64 msvc release full-config
+bu%iX\t
 bzsYF
 c ?paintEvent@QLineEdit@@MEAAXPEAVQPaintEvent@@@Z
-c AUH
 c&?screenGeometry@QDesktopWidget@@QEBA?BVQRect@@H@Z
+c<dW
+c=kX
+c@Nb
 cH}f~
+cIBN
 cQYB@OJ
-c]YfE
+c\n?isNull@QPointF@@QEBA_NXZ
+c]YfE\n
+c]mg
 c^Yv$
+cak,
 canadian
 case 
+ccfb
+cehY
+ceil
 cfS/6
 changeRotation(int)
 changeScale(int)
 changeShear(int)
+char
 char 
 china
 chinese
@@ -2133,46 +2108,57 @@ com.trolltech.Qt.Designer.CustomWidgetCollection
 composition.h
 const
 const 
+cosf
+cosh
 cv,m~L
 cvgc`i-
 czech
-d$ UH
-d$8H+
-d$HIcD$
-d$PIcD$
-d$hE3
+d Hm
+d-aC
 d2z'i4
 d46YIo
 d=5b[1
+dBn9
+dG?\ri
 dJC9J9U'
+dJGw
+dS6"
+d\v?addText@QPainterPath@@QEAAXAEBVQPointF@@AEBVQFont@@AEBVQString@@@Z
+db\vp
+dd21
 dddd, MMMM dd, yyyy
-debug=false
+ddf\n@
 deform.h
 descriptionEnabledChanged(bool)
 dfbg8
-dgu}Toi
 disabled
 double
 double 
+dp@w
 dsSL_
+dsY-
 dutch-belgian
-e';~C
+dzd{
+d}Hz
+e'sq
 e+000
-e+l-\
+e+aH
+e0w\v
 e5}H4
 e>&nN
-e>s_'O
 e@33333
-eA$%^b
 eK(pJ
+eKf*
+eLq2
+eU>w
+e\tc
 ed,?X
 ee *Jq
-ehIcD$
 eiEMD
-el+*'
 elR>Tz7
 emitOkSignal()
 emitQuitSignal()
+en+\r6
 enableOpenGL(bool)
 enabled
 england
@@ -2190,40 +2176,50 @@ english-uk
 english-us
 english-usa
 enum 
-et	km&L%,e
+et\tkm&L%,e
 etn;d
+eusy
 extern "C" 
+eys#
+e{7b
+f#IP
 f'?setAutoFillBackground@QWidget@@QEAAX_N@Z
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
-f0	Q=-
-fD9 t
-fD9#u
-fD98r
-fD9:r
-fD9t$b
-fEm8	<b
-fffff
+f736
+f7tZ
+f7z 
+f9Q]
+fEm8\t<b
+fJ\X\r
+fMFX
+fQtn
+fSZf
+fTw.
+fabs
 ffffff
-fffffff
+fkOf
 float
 floor
+fmod
 fontSize
+for 
+frN=
 french-belgian
 french-canadian
 french-luxembourg
 french-swiss
 frexp
+fv#e
 f{#4{MV
-g+KY~>%
-gV\y	:]
-gb@q=
+g3*S
+g54!
+g\tLe
 generic-type-
 german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
+ggi{
 glBegin
 glBindTexture
 glBlendFunc
@@ -2234,96 +2230,157 @@ glEnd
 glTexCoord2f
 glVertex2f
 glmef
+gp4f
 gradientStopsChanged(QGradientStops)
 gradients.h
 great britain
+gy|9
 g|Cj]
 h$v6D
 h$x*mM
+h(bo
 h*WSL
+h/hv
 h7?update@QWidget@@QEAAXAEBVQRect@@@Z
 h7p^*
+h@L7
+hHn:
+hIJ\vO
+hJxH
+hNXV
 hPY#y
+hWjg
 hXe~2
-hZ_)H<
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 h]7%Fl
-h_^][
 hideControls()
+hn;K
 holland
 hong-kong
+hpT8
+hqk=
 hs2,WG
 huphZ
-i	G	H#
+hw+D
+i0BX
+i4\rW
 i9%Dr
+i;IT
+iImI
+iJ08
+iK$t
 iKWY`H
+iKqn
 iQYids
+iW\tY
 igJY$
 igVGyH]
 ih^BSx1ma
+ii}k
+ilM\r
+imI$
+int 
 intensity
 ioQM}
 irish-english
 italian-swiss
 ixC}G
+iy2l
 i|gIjx
-j$;hu$
 j&rO`
 j(l2Jb
+j2\vkkK
+j7kj
+jHRH
+jIHy
+jNAJ
+j\f?beginNativePainting@QPainter@@QEAAXXZ
+jmEu
+jxBJ
 j{?3uf
+j{mu
 k ?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z
+k nI
 k#voJ
-k.6b"%
+k+n9
 k7?update@QWidget@@QEAAXXZ
-k=)-(q
-k?:M^
 k@333333t@
 kCL3p
+kFk5
 kI%@g
 kI>ZN
+kKL2
+kK|V
 kS6}GI
 kSRVs
+kU'9
+kVQc
+k\r7{B
+k\r?changeEvent@QGroupBox@@MEAAXPEAVQEvent@@@Z
 kf{Xm
+kgdj
 ki,fR9
-k~t;!
+ki0(
+kl\v5d
+kmO9
+kzFL
 l ?paintEvent@QRadioButton@@MEAAXPEAVQPaintEvent@@@Z
-l$ D!
-l$ WH
-l$8E3
-l$@@2
-l'k@`
+l#6\rz
 l4IHeC 
 l5M.,
 l6/Oh
+l69R
 l8Zv6<-
+l9vJ
+lDW-
 lDq@t%
-lL==$
 lLKgJ[L
+lT=E
+lVcs
 l[fs8T
+l\r?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
+ldOn
 ldexp
+lee]
 log10
+long
 long 
-ly@?5^
-m!	F0z
+lrH\
+lu@y
+lw\tA
+m!\tF0z
+m"z5
 m#?qt_metacast@QTextBrowser@@UEAAPEAXPEBD@Z
+m$Ad
 m'cT&X
 m36+|
+m4sb
 m9*jP
 m@33333sv@
-m@}?5^
+mLB}
 mO|7?j,
+m\r?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
+m\vqX)
 m_nn6
-me,'C
+modf
+mqhq\rsy#
 ms!ZV
 mt/46
+mwx1
 mzoO1o
-m{8^_
-m}@'1
+n$rZ
 n37;m
 n45-@
-n8/pj
-nC>	E
-nFR\8
+n?pC\vH
+n@hP
+nC>\tE
+nFR\8\n\n@W
+nHDh
+nHVT
+nI#i
 nJ~"Yg
+nKcC
+nSZC
 nYt-[
 nbKo:
 nb}@Zd;
@@ -2334,32 +2391,44 @@ norwegian
 norwegian-bokmal
 norwegian-nynorsk
 np=)Cm
-nw@)\
+nqBd
+ny}J
 o#?qt_metacast@QTextDocument@@UEAAPEAXPEBD@Z
 o6veB
 o<-o4
 oKlO-
 oLn?!
+oTk\f
+oUI|
+o\v?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 oaq|M%
 oi,zy
-oiE!	PIOQ
+oiE!\tPIOQ
 okPressed()
+on|m\n
+oo5v
 oolw]
 operator
+oqR;
+oqb9
 ot{kY
 p ?paintEvent@QSlider@@MEAAXPEAVQPaintEvent@@@Z
-p WATAUAVAWH
-p WATAUH
 p"?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 p%?resizeEvent@QGroupBox@@MEAAXPEAVQResizeEvent@@@Z
-p/:2[l,
-p=:y@
+p5lX
+p9\fo
 p=Ja@
+p=\nWn@sh
+p=\nWx@7
 p?zV/
+pB[\nP9
+pERR
 pFc122Io
+pTA#
 p`fe5
+pahJ
 pathstroke.h
-pattern=QT_PLUGIN_VERIFICATION_DATA
+pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
 penWidth
 pixmap
 points
@@ -2374,29 +2443,48 @@ protected:
 public: 
 puerto-rico
 px4w<W
+px8#
 q(9H s
-qB_yC
+q0\fM
+q@X9
+qA*0
 qEvX@f
-qG	JFI5
+qG\tJFI5
 qJ.%n
-qKN?E
+qJKv
+qKN?E\n
+qMHC
 qOcfH
-q]&6`
+qT\tR
+qYa 
+q_Gz
+qeJ'
+qewP
+qf2s
 qi)J3
+qpln
 qq,q%
 qreal
 qt9r]
 qt_plugin_instance
 qt_plugin_query_verification_data
 quitPressed()
-r1$-/
+q}72
+r4t2
 r9v'sG
+r@Nb
 rFV-U
 rFrF0>T
 rH9mg
-rOI?.
+rJvC
+rO#Z
 rRrF8
 rV+rOv##
+rVqg
+r[E8
+r\rvS
+r\v?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+r]5V
 radius
 reset()
 rh!v@b
@@ -2405,21 +2493,31 @@ rhAw@
 rhQQ@
 rhQZ@
 rk[bK
-rm@)\
 rotation
 rotationChanged(int)
 rr{WS
+rw6.
+rxPf
 rxp@'1
+rxx@
+ryU:
 ry]r\Tf
+rz*J
 rzGHGZ
-r{}+@
-s WATAUAVAWH
 s"?qt_metacall@QLineEdit@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 s-OFC
 s@fffff
+s@sh
+sAmV
+sHKy
+sHM!
+sRl-
 sTQE.i
-sV,r>
-s\HcL$HH
+sTj{
+sU94
+sV,r>\vS
+sX\vz5
+s\v?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 scale
 scaleChanged(int)
 setAnimated(bool)
@@ -2497,7 +2595,9 @@ short
 showControls()
 showSource()
 signed 
+sinh
 slovak
+sm*k
 south africa
 south korea
 south-africa
@@ -2521,6 +2621,7 @@ spanish-peru
 spanish-puerto rico
 spanish-uruguay
 spanish-venezuela
+sqrt
 static
 static 
 std::nullptr_t
@@ -2529,53 +2630,43 @@ struct
 swedish-finland
 swiss
 switch 
-t	..3
-t$ @80
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$0E3
-t$0HcF
-t$0L9
-t$8HcF
-t$@A)k
-t*HcO
-t-fff
-t0<@t
+t#kq
+t+oh
+t3s@
 t8?width@QFontMetrics@@QEBAHAEBVQString@@H@Z
+t?g6
 t@33333s]@
-tGkz	
-tGq_";%i
-tO<_t<<$t8<<t4<>t0<-t,<a|
+t@sh
+tGBG
+tGkz\t
+tJ\f6
+tKDK
 tWpt#
-tb<A|M<P
+t\f?bits@QImage@@QEAAPEAEXZ
+tanh
+tcy@
 template-parameter-
+text
+tfdH
+this
 tier0.dll
 times new roman,utopia
-tnLcV
+tkZT
+tl1%
+tm5a
 trinidad & tobago
 tuCZ/J1{
-t|Li{^
-u	A!A
-u HcP
-u"E9Q t
-u%!?aW
-u,=&l
-u1!D$0
-u5E9Q t
-u6H;T$@t/H
-u:z%\
+type
+u!hV
+u=OU
 uBe0m
-uCHcF
+uDy2
 uHZ9-
-uJW	JFI5
-uLHcF
-uNM9u
-uQI91tLH
+uJW\tJFI5
+u\rZ9Y
 u]VQ}g
 u_Bxh
-u_D9u
+ub@9
 ugQimc
 uint 
 unhTE
@@ -2587,125 +2678,131 @@ upcIl
 updateCtrlPoints(QPolygonF)
 use_opengl
 usesOpenGL()
-uxA9H
-u|iY6gI3z
-u|};k
+uxoU
+uyj%
 v ?paintEvent@QTextBrowser@@MEAAXPEAVQPaintEvent@@@Z
-v@(Cy$
+v6?J
 v@k96R
 vH,pW9
+vHpS
 vNsTQE
-version=4.8.3
+vSkI
+vV4A
+vaq&
 virtual 
+vkkt
 vn6#d
+vnN[
+void
 void 
 volatile
 volatile 
 vs1ZDMc[
-vyH_.?
+vwK9
+w*GA
+w3HI
+w7mm
 w@33333
+wG,w
+w\f1M
 wchar_t
 wd@d;
 wdzI8
+wfW!
 wgEi=k
-x ATAUAVH
-x ATAUAWH
-x ATH
+wtfS
+x1[L
 x8Z=I
+x?3J
 x@33333
 x@33333sc@
-x_^][
+xNr4
+x\r?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
+x\rZ1
 xform.h
 xkWN2O
+xq\fi
+xqtn
 xxZ{s7l
 xzoMtl
-y"+,n	R
+y#21
 y%AIw
-y)p+)
 y/?sliderChange@QAbstractSlider@@MEAAXW4SliderChange@1@@Z
+y@L7
+y@Nb
 y@fffffFg@
 yI_FR
 yK!Dc
+yRF5
 yR^P)
+yRj\f
+y\n66
+y_bm
+yipY
+ylT8
+ym@D
+yrOL
 y}sz"
-z$|@?5^
+z#v4
 z/h D
 z0m#L
-z4x@=
+z924
 z>T=Cu
 z?aUY
+z?n6
+zG~0
+zH)9
 zJ[x7
+zOG=
+zT.n
+zVZT
 zWNn>
+z\rSN
 zc%C1
 zf#go
 zg@dd
 ztr@R
-zux!l$ E3
-zwIXl
-{	Iol
+zwIXl\n
+zwt6
 { ?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z
-{$F.;t
 {&c6KM
 {-?setText@QAbstractButton@@QEAAXAEBVQString@@@Z
 {8?width@QImage@@QEBAHXZ
-{Cq==
+{Dh6
+{S6B
+{URR
+{V6T
+{W67
 {ZF'qEtAk
-{f,;Kr
+{\tIol
 {flat}
 {for 
 {gJuf
 {iwS3N
-{pE_t
-{{W-s
-|$ ATAUAVH
-|$ ATH
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$@-D
-|$@-H
-|$@E3
-|$HfA
-|$XE3
-|$`E3
-|$xE3
+{syo
 |'3 VDO
-|(!Ji+>
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
-|9{;$
-|>4M"
-|?%y@y
-|?5^*
-|?5^:`@
-|?5^;@
-|?5^B
-|?5^^@
-|?5^r
-|?5^x@\
-|?Uc@
-|?X4>
-|?um@
 |I&W3
+|MwD
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+|aif
 |ioR6
+|nhw
 |q@Nb
-}]m,z
-}oO>B
-}p{,6
+}1Qn
+}4lQ
+}86G
+}9q\reC
+}Bu\f6
+}v0p
 ~#?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
-~/8\$vt)H
 ~1{Ub
 ~8?width@QPaintDevice@@QEBAHXZ
-~ID;c
+~I\nKr
 ~Miz7
 ~Prk!
 ~RpG=c
 ~RzFKeo
 ~j,x@Nb
-~j<}@J
-~j\b@
-~j\k@T
-~j|v@
+~lsV
 ~zz@fffff
-~z|e<

@@ -1,116 +1,37 @@
-	?indexOf@QByteArray@@QEBAHDH@Z
-	?indexOfMethod@QMetaObject@@QEBAHPEBD@Z
-	?insert@QString@@QEAAAEAV1@HVQChar@@@Z
-	?instance@QAbstractEventDispatcher@@SAPEAV1@PEAVQThread@@@Z
-	?invoke@QMetaMethod@@QEBA_NPEAVQObject@@W4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@333333333@Z
-	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
                           
-                     0 means unlimited, default: 2000
-              A global data tag is preceded by ' __global__ '.
-              the current time will be used as seed.
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <DataTag><![CDATA[%s%s%s%s]]></DataTag>
-    <DataTag><![CDATA[%s%s%s]]></DataTag>
-    <DataTag><![CDATA[%s]]></DataTag>
-    <Description><![CDATA[%s%s%s%s]]></Description>
-    <Description><![CDATA[%s]]></Description>
-    <QTestVersion>%s</QTestVersion>
-    <QTestVersion>4.8.3</QTestVersion>
-    <QtVersion>%s</QtVersion>
-    <RandomSeed>%d</RandomSeed>
-    <security>
-    By default, all testfunctions will be run.
-   Actual (%s): %s
-   Expected (%s): %s
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
- !"#$%&'()*+,-./0123456789:;<=>?@
- !"#$%&'()*+,-./0123456789:;<=>?@ABCDE&'()*+,-./0123456789:;<=>?FGHI
+    <DataTag><![CDATA[%s]]></DataTag>\n
+    <Description><![CDATA[%s]]></Description>\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %s="%s"
  (total: %s, iterations: %d)
- -datatags  : Returns a list of current data tags.
- -eventcounter   : Counts events received during benchmarks
- -eventdelay ms    : Set default delay for mouse and keyboard simulation to ms milliseconds
- -flush     : Flushes the results
- -functions : Returns a list of current testfunctions
- -help      : This help
- -iterations  n  : Sets the number of accumulation iterations.
- -keydelay ms      : Set default delay for keyboard simulation to ms milliseconds
- -keyevent-verbose : Turn on verbose messages for keyboard simulation
- -lightxml  : Outputs results as stream of XML tags
- -maxwarnings n    : Sets the maximum amount of messages to output.
- -median  n      : Sets the number of median iterations.
- -minimumvalue n : Sets the minimum acceptable measurement value
- -mousedelay ms    : Set default delay for mouse simulation to ms milliseconds
- -o filename: Writes all output into a file
- -random    : Run testcases within each test in random order
- -seed n    : Positive integer to be used as seed for -random. If not specified,
- -silent    : Only outputs warnings and failures
- -tickcounter    : Use CPU tick counters to time benchmarks
- -v1        : Print enter messages for each testfunction
- -v2        : Also print out each QVERIFY/QCOMPARE/QTEST
- -vb             : Print out verbose benchmarking information.
- -vs        : Print every signal emitted
- -xml       : Outputs results as XML document
- -xunitxml  : Outputs results as XML XUnit document
- A\_^
- A]A\_
- A^A]A\
- A^A]A\_^
- A_A]A\
- A_A^A]A\_
  Base Class Array'
  Base Class Descriptor at (
- Benchmark related options:
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Type Descriptor'
- Usage: %s [options] [testfunction[:testdata]]...
+ Usage: %s [options] [testfunction[:testdata]]...\n    By default, all testfunctions will be run.\n\n%s
  delete
  delete[]
- new[]
- options:
+ new
+ options:\n -functions : Returns a list of current testfunctions\n -datatags  : Returns a list of current data tags.\n              A global data tag is preceded by ' __global__ '.\n -xunitxml  : Outputs results as XML XUnit document\n -xml       : Outputs results as XML document\n -lightxml  : Outputs results as stream of XML tags\n -flush     : Flushes the results\n -o filename: Writes all output into a file\n -silent    : Only outputs warnings and failures\n -v1        : Print enter messages for each testfunction\n -v2        : Also print out each QVERIFY/QCOMPARE/QTEST\n -vs        : Print every signal emitted\n -random    : Run testcases within each test in random order\n -seed n    : Positive integer to be used as seed for -random. If not specified,\n              the current time will be used as seed.\n -eventdelay ms    : Set default delay for mouse and keyboard simulation to ms milliseconds\n -keydelay ms      : Set default delay for keyboard simulation to ms milliseconds\n -mousedelay ms    : Set default delay for mouse simulation to ms milliseconds\n -keyevent-verbose : Turn on verbose messages for keyboard simulation\n -maxwarnings n    : Sets the maximum amount of messages to output.\n                     0 means unlimited, default: 2000\n\n Benchmark related options:\n -tickcounter    : Use CPU tick counters to time benchmarks\n -eventcounter   : Counts events received during benchmarks\n -minimumvalue n : Sets the minimum acceptable measurement value\n -iterations  n  : Sets the number of accumulation iterations.\n -median  n      : Sets the number of median iterations.\n -vb             : Print out verbose benchmarking information.\n\n -help      : This help\n
  per iteration
- t?D9
  throw(
  volatile
-!D$8!D$HM
-!D$8I
 !QTest::stream
 !QTest::testLogger
-!This program cannot be run in DOS mode.
 !currentTestObject
-!t$(H!t$ A
-!t$(H!t$ H
-!|$DHc
-!|$XI
-$uCIcD$
-$uwIcD$
-%%%ds
+#\f?number@QString@@SA?AV1@NDH@Z
 %I64d
 %I64u
-%s    <Description><![CDATA[%s]]></Description>
-%s %s
-%s %s %s
-%s %s %s __global__ %s
-%s %s __global__ %s
-%s%s%s
-%s%s%s%s
-%s%s%s%s%s%s
-%s(%d) : failure location
+%s %s %s __global__ %s\n
+%s %s __global__ %s\n
+%s%s%s%s%s%s\n
 %s.log
-%s: %s::%s
-%s: %s::%s(%s%s%s)%s%s
-%s<!--
-%s<%s
-%s</%s>
+%s: %s::%s(%s%s%s)%s%s\n
+%s: %s::%s(%s%s%s)%s%s\n%s(%d) : failure location\n
 %s="%s" %s="%s"
+%s\n   Actual (%s): %s\n   Expected (%s): %s
 %s_data()
 &#x002D;
 &amp;
@@ -119,30 +40,10 @@ $uwIcD$
 '%s' returned FALSE. (%s)
 ( 8PX
 ('8PW
-(A\_^[
-(D$ H
-(D$@H
-(D$pf
-(L$pH
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
 (null)
-(t$ H
-(t$0H
-(t$@D
-(t$`H
-(t$`I
-)t$ H
-)t$0A
-)t$@E
-)t$`A
-********* Finished testing of %s *********
-********* Start testing of %s *********
+********* Start testing of %s *********\nConfig: Using QTest library 4.8.3, Qt %s, Random seed %d\n
+********* Start testing of %s *********\nConfig: Using QTest library 4.8.3, Qt %s\n
++\f?objectName@QObject@@QEBA?AVQString@@XZ
 ,<ellipsis>
 --help
 -64OS
@@ -150,33 +51,35 @@ $uwIcD$
 -datatags
 -eventcounter
 -eventdelay
--eventdelay needs an extra parameter to indicate the delay(ms)
+-eventdelay needs an extra parameter to indicate the delay(ms)\n
 -flush
 -functions
 -graphicssystem
--graphicssystem needs an extra parameter specifying the graphics system
+-graphicssystem needs an extra parameter specifying the graphics system\n
 -help
 -iterations
--iterations needs an extra parameter to indicate the number of iterations
+-iterations needs an extra parameter to indicate the number of iterations\n
 -keydelay
--keydelay needs an extra parameter to indicate the delay(ms)
+-keydelay needs an extra parameter to indicate the delay(ms)\n
 -keyevent-verbose
 -lightxml
 -maxwarnings
--maxwarnings needs an extra parameter with the amount of warnings
+-maxwarnings needs an extra parameter with the amount of warnings\n
 -median
--median needs an extra parameter to indicate the number of median iterations
+-median needs an extra parameter to indicate the number of median iterations\n
 -minimumvalue
--minimumvalue needs an extra parameter to indicate the minimum time(ms)
+-minimumvalue needs an extra parameter to indicate the minimum time(ms)\n
 -mousedelay
--mousedelay needs an extra parameter to indicate the delay(ms)
--o needs an extra parameter specifying the filename
+-mousedelay needs an extra parameter to indicate the delay(ms)\n
+-o needs an extra parameter specifying the filename\n
+-qws
 -random
 -seed
--seed needs an extra positive integer parameter to specify the seed
--seed requires -random
+-seed needs an extra positive integer parameter to specify the seed\n
+-seed requires -random\n
 -silent
 -tickcounter
+-xml
 -xunitxml
 .?AV?$QTestCoreElement@VQTestElement@@@@
 .?AV?$QTestCoreList@VQTestElement@@@@
@@ -213,102 +116,54 @@ $uwIcD$
 .\qtestlog.cpp
 .\qtestresult.cpp
 .\qtesttable.cpp
-.pdata
-.text
-/L9\$ t
 0123456789ABCDEF
-0A\^]
-0A\_^
-0A]A\_
-0A]A\_^]
-0A^A]A\
-0A_A]A\
-0A_A]A\_^
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
 1#IND
 1#INF
 1#QNAN
 1#SNAN
+2\n0l
+2\vpTA
+2\vpl
 4.8.3
+6\r?qgetenv@@YA?AVQByteArray@@PEBD@Z
 700PP
 700WP
-7;|$0t,
-8$u$L9U
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8A]A\_^][
-8D$8t
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9D$Du
-9D$Ttg
-9D$pu
-9L$h|
-9T$h}/
-9t$P~98\$vt3H
-:"%s"
-;.uAL
-;7sUH
-;?tJA
-;\$p|
-< tG<	tC
+9\r?qrand@@YAHXZ
+;\r?qsrand@@YAXI@Z
 <![CDATA[
-<$-Hc
-</Environment>
-</Incident>
-</Message>
-</TestCase>
-</TestFunction>
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
-<0|/<9
-<1~1<3~$<4t9<5t
-<?u7H
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml version="1.0" encoding="UTF-8" ?>
-<A|2<P
-<BenchmarkResult %s="%s" %s="%s" %s="%s" %s="%s" />
-<BenchmarkResult metric="%s" tag="%s" value="%s" iterations="%d" />
-<Environment>
-<Et	H
-<Incident type="%s" %s/>
-<Incident type="%s" %s>
-<Incident type="%s" file="%s" line="%d" />
-<Incident type="%s" file="%s" line="%d">
-<Incident type="pass" file="" line="0" />
-<Message type="%s" %s="%s" %s="%s">
-<Message type="%s" file="%s" line="%d" />
-<Message type="%s" file="%s" line="%d">
-<TestCase name="%s">
-<TestFunction name="%s">
-<Xt	D
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+</Environment>\n
+</Incident>\n</TestFunction>\n
+</TestCase>\n
+</TestFunction>\n
+<?xml version="1.0" encoding="ISO-8859-1"?>\n<TestCase name="%s">\n
+<?xml version="1.0" encoding="UTF-8" ?>\n
+<BenchmarkResult %s="%s" %s="%s" %s="%s" %s="%s" />\n
+<BenchmarkResult metric="%s" tag="%s" value="%s" iterations="%d" />\n
+<Environment>\n    <QtVersion>%s</QtVersion>\n    <QTestVersion>%s</QTestVersion>\n
+<Environment>\n    <QtVersion>%s</QtVersion>\n    <QTestVersion>%s</QTestVersion>\n    <RandomSeed>%d</RandomSeed>\n
+<Environment>\n    <QtVersion>%s</QtVersion>\n    <QTestVersion>4.8.3</QTestVersion>\n    <RandomSeed>%d</RandomSeed>\n</Environment>\n
+<Environment>\n    <QtVersion>%s</QtVersion>\n    <QTestVersion>4.8.3</QTestVersion>\n</Environment>\n
+<Incident type="%s" %s/>\n
+<Incident type="%s" %s>\n
+<Incident type="%s" %s>\n    <DataTag><![CDATA[%s]]></DataTag>\n    <Description><![CDATA[%s]]></Description>\n</Incident>\n
+<Incident type="%s" %s>\n    <Description><![CDATA[%s]]></Description>\n</Incident>\n
+<Incident type="%s" file="%s" line="%d" />\n
+<Incident type="%s" file="%s" line="%d">\n    <DataTag><![CDATA[%s%s%s%s]]></DataTag>\n</Incident>\n
+<Incident type="%s" file="%s" line="%d">\n    <DataTag><![CDATA[%s%s%s]]></DataTag>\n    <Description><![CDATA[%s]]></Description>\n</Incident>\n
+<Incident type="%s" file="%s" line="%d">\n    <Description><![CDATA[%s%s%s%s]]></Description>\n</Incident>\n
+<Incident type="pass" file="" line="0" />\n</TestFunction>\n
+<Message type="%s" %s="%s" %s="%s">\n    <Description><![CDATA[%s]]></Description>\n</Message>\n
+<Message type="%s" %s="%s" %s="%s">\n%s    <Description><![CDATA[%s]]></Description>\n</Message>\n
+<Message type="%s" file="%s" line="%d" />\n
+<Message type="%s" file="%s" line="%d">\n    <DataTag><![CDATA[%s%s%s%s]]></DataTag>\n</Message>\n
+<Message type="%s" file="%s" line="%d">\n    <DataTag><![CDATA[%s%s%s]]></DataTag>\n    <Description><![CDATA[%s]]></Description>\n</Message>\n
+<Message type="%s" file="%s" line="%d">\n    <Description><![CDATA[%s%s%s%s]]></Description>\n</Message>\n
+<TestFunction name="%s">\n
 <ellipsis>
 <null>
 <unknown>
-<z~$<A|
->	?grow@QVectorData@@SAHHHH_N@Z
+>\r?qstrcmp@@YAHPEBD0@Z
+>\t?grow@QVectorData@@SAHHHH_N@Z
 ??$qCompare@M@QTest@@YA_NAEBM0PEBD11H@Z
 ??$qCompare@N@QTest@@YA_NAEBN0PEBD11H@Z
 ??$toString@D@QTest@@YAPEADAEBD@Z
@@ -362,13 +217,12 @@ $uwIcD$
 ??6QDebug@@QEAAAEAV0@PEBD@Z
 ??6QTextStream@@QEAAAEAV0@N@Z
 ??8QString@@QEBA_NAEBVQLatin1String@@@Z
-??????
 ??_7QTestEventLoop@@6B@
 ??_B?1??instance@QTestEventLoop@@SAAEAV1@XZ@51
 ??_FQTestData@@QEAAXXZ
 ??_FQTestEventLoop@@QEAAXXZ
-?CuND8g
 ?Events
+?\r?qstrcpy@@YAPEADPEADPEBD@Z
 ?access@QMetaMethod@@QEBA?AW4Access@1@XZ
 ?addBenchmarkResult@QTestLog@@SAXAEBVQBenchmarkResult@@@Z
 ?addColumn@QTestTable@@QEAAXHPEBD@Z
@@ -470,68 +324,35 @@ $uwIcD$
 ?isDone@QBenchmarkIterationController@QTest@@QEAA_NXZ
 ?isEmpty@QTestTable@@QEBA_NXZ
 ?keyToAscii@QTest@@YADW4Key@Qt@@@Z
-?killTimer@QObject@@QEAAXH@Z
 ?leaveTestFunction@QTestLog@@SAXXZ
-?left@QByteArray@@QEBA?AV1@H@Z
 ?logMode@QTestLog@@SA?AW4LogMode@1@XZ
-?maybeSpace@QDebug@@QEAAAEAV1@XZ
 ?metaObject@QTestEventLoop@@UEBAPEBUQMetaObject@@XZ
-?method@QMetaObject@@QEBA?AVQMetaMethod@@H@Z
-?methodCount@QMetaObject@@QEBAHXZ
-?methodType@QMetaMethod@@QEBA?AW4MethodType@1@XZ
 ?mode@QBenchmarkGlobalData@@QEBA?AW4Mode@1@XZ
-?msecsSinceReference@QElapsedTimer@@QEBA_JXZ
 ?newData@QTestTable@@QEAAPEAVQTestData@@PEBD@Z
 ?newRow@QTest@@YAAEAVQTestData@@PEBD@Z
 ?next@QBenchmarkIterationController@QTest@@QEAAXXZ
-?number@QByteArray@@SA?AV1@NDH@Z
-?number@QByteArray@@SA?AV1@_KH@Z
-?number@QString@@SA?AV1@NDH@Z
-?objectName@QObject@@QEBA?AVQString@@XZ
 ?outputFileName@QTestLog@@SAPEBDXZ
-?parameterTypes@QMetaMethod@@QEBA?AV?$QList@VQByteArray@@@@XZ
 ?parent@QTestData@@QEBAPEAVQTestTable@@XZ
 ?passCount@QTestResult@@SAHXZ
 ?printAvailableFunctions@QTest@@3_NA
 ?printAvailableTags@QTest@@3_NA
 ?printUnhandledIgnoreMessages@QTestLog@@SAXXZ
 ?qData@QTest@@YAPEAXPEBDH@Z
-?qDebug@@YA?AVQDebug@@XZ
-?qDebug@@YAXPEBDZZ
 ?qElementData@QTest@@YAPEAXPEBDH@Z
 ?qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z
 ?qExec@QTest@@YAHPEAVQObject@@HPEAPEAD@Z
 ?qExpectFail@QTest@@YA_NPEBD0W4TestFailMode@1@0H@Z
 ?qFail@QTest@@YAXPEBD0H@Z
-?qFatal@@YAXPEBDZZ
-?qFree@@YAXPEAX@Z
 ?qGlobalData@QTest@@YAPEAXPEBDH@Z
-?qInstallMsgHandler@@YAP6AXW4QtMsgType@@PEBD@ZP6AX01@Z@Z
-?qMalloc@@YAPEAX_K@Z
-?qRealloc@@YAPEAXPEAX_K@Z
 ?qSkip@QTest@@YAXPEBDW4SkipMode@1@0H@Z
 ?qSleep@QTest@@YAXH@Z
 ?qVerify@QTest@@YA_N_NPEBD11H@Z
-?qVersion@@YAPEBDXZ
 ?qWarn@QTest@@YAXPEBD@Z
-?qgetenv@@YA?AVQByteArray@@PEBD@Z
-?qrand@@YAHXZ
-?qsrand@@YAXI@Z
-?qstrcmp@@YAHPEBD0@Z
-?qstrcpy@@YAPEADPEADPEBD@Z
-?qstrdup@@YAPEADPEBD@Z
-?qstrncpy@@YAPEADPEADPEBDI@Z
-?qt_assert@@YAXPEBD0H@Z
-?qt_assert_x@@YAXPEBD00H@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@QTestEventLoop@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?qt_metacast@QTestEventLoop@@UEAAPEAXPEBD@Z
-?qt_register_signal_spy_callbacks@@YAXAEBUQSignalSpyCallbackSet@@@Z
 ?qt_snprintf@QTest@@YAHPEADHPEBDZZ
 ?qt_static_metacall@QTestEventLoop@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qtest_qParseArgs@QTest@@YAXHQEAPEAD_N@Z
-?qvsnprintf@@YAHPEAD_KPEBD0@Z
 ?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
 ?redirectOutput@QTestLog@@SAXPEBD@Z
 ?remove@QString@@QEAAAEAV1@HH@Z
@@ -598,66 +419,17 @@ $uwIcD$
 ?verboseLevel@QTestLog@@SAHXZ
 ?verify@QTestResult@@SA_N_NPEBD11H@Z
 ?warn@QTestLog@@SAXPEBD@Z
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@8|$x
-@8|$xt
-@A\^]
-@A\_^
-@A]A\]
-@A]A\^
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
-@A_A^A]A\_^]
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@UATAUAVAWH
-@UATAUH
-@USVWATAUAVAWH
-@USVWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@VWATH
-A9	u<A
-A9	uxA
-A;1~	I
+@\r?qstrdup@@YAPEADPEBD@Z
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-ATAUAWH
-A\_^][
-A]A\]
-A]A\_
-A]A\_^]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 Already expecting a fail
 April
 August
-Available testdata:
-Available testfunctions:
-B(I9A(u
+Available testdata:\n
+Available testfunctions:\n
+B\fp\v0
+B\r?qstrncpy@@YAPEADPEADPEBDI@Z
 BitsPerSecond
 BytesPerSecond
-C0HcH
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtTest4.pdb
 COMPARE()
 CPU ticks
@@ -667,59 +439,20 @@ CloseHandle
 Compared doubles are not the same (fuzzy compare)
 Compared floats are not the same (fuzzy compare)
 Compared strings are not the same
-Config: Using QTest library 4.8.3, Qt %s
-Config: Using QTest library 4.8.3, Qt %s, Random seed %d
 CorExitProcess
 CreateFileA
 CreateFileW
-D$ E3
-D$&8\$&t-8X
-D$(E3
-D$0HcH
-D$0HcP
-D$8E3
-D$8HcA
-D$8HcH
-D$@D;
-D$@H;
-D$DE3
-D$HD9T$\
-D$P0A
-D$PL9oXt
-D$XE3
-D$p H
-D+d$TD+
-D1:Hc
-D8"u%H
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8d$x
-D8t$ t
-D9d$ 
-D;+t1
 December
 DecodePointer
 DeleteCriticalSection
 Did not receive message: "%s"
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-EFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
 EncodePointer
 EnterCriticalSection
-Entered test-function: %s
+Entered test-function: %s\n
 EnumSystemLocalesA
 ExitProcess
-F0HcH
 FAIL!  
+F\r?qt_assert@@YAXPEBD0H@Z
 FatalAppExitA
 February
 FlsAlloc
@@ -731,8 +464,8 @@ FramesPerSecond
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-Function has no testdata.
-G0Hc	H
+Function has no testdata.\n
+G\r?qt_assert_x@@YAXPEBD00H@Z
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -766,29 +499,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H ATH
-H SVWATH
-H SWH
-H!\$ H
-H!|$ L
-H(H9J(u
-H+M0x
-H9L$Xt'H
 HH:mm:ss
-HcC H
-HcD$8H
-HcD$HH
-HcD$HH;
-HcH<H
-HcL$8H
-HcM H
-HcO H
-HcT$8McJ
-Hc\$0H
-Hc\$PH
-Hc\$pH
-Hct$@H
-Hc|$HMcJ
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -796,53 +508,18 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-I94$tt
 INFO   
-IcqHH
-IcqHI
 InitializeCriticalSection
 InitializeCriticalSectionAndSpinCount
 InstructionReads
-Invalid numeric parameter: '%s'
+Invalid numeric parameter: '%s'\n
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
-JD8'u
-JKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
 January
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ H3
-L$ SUVWATAUH
-L$ SUVWH
-L$ SWH
-L$ UVWH
-L$0<`t
-L$0H;
-L$0HcQ
-L$4H;
-L$8H3
-L$8H;
-L$8Hc
-L$@;|
-L$@E3
-L$@H3
-L$HH3
-L$HH;
-L$PH3
-L$PLc
-L$XH;
-L$XHc
-L$`H3
-L$hD9K
-L$pH3
-L$xH;
-L$xHc
-L0	A:
-L09A:
-L0:A:
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -850,29 +527,22 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
-LcD$8J
-Lc\$8HcJ
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
 March
 Maximum amount of warnings exceeded. Use -maxwarnings to override.
-Mc,$E
 MessageBoxW
 Monday
 MultiByteToWideChar
+NKeb
+NULL
 Norwegian-Nynorsk
 Not all expected messages were received
 November
-O0HcQ
 October
 OutputDebugStringA
 PASS   
-PA^A]A\_^][
 QDEBUG 
 QFATAL 
 QFETCH: Requested testdata '%s' not available, check your _data function.
@@ -898,21 +568,20 @@ Qt_GetCustomAllocators
 QueryPerformanceCounter
 RESULT 
 RSDSl
+R\np 1
+R\vpl
 RaiseException
 RandomSeed
 ReadFile
 Received a fatal error.
 Requested type '%s' does not match available type '%s'.
-RichS
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
+S;uD
 SKIP   
-SUVWATAUH
-SVWATAUAVAWH
-SVWATH
 Saturday
 September
 SetConsoleCtrlHandler
@@ -929,74 +598,64 @@ Sleep
 Slot: 
 Sunday
 SystemFunction036
-T$0E3
-T$@A;
-T$PE3
 TerminateProcess
 Test data requested, but no testdata available.
-Testing %s
+Testing %s\n
 Thursday
-Totals: %d passed, %d failed, %d skipped
+Totals: %d passed, %d failed, %d skipped\n
+Totals: %d passed, %d failed, %d skipped\n********* Finished testing of %s *********\n
 Tuesday
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNICODE
 UNKNOWN
-USVWATAUAVAWH
-USVWATAUH
 UTF-16LE
 UTF-8
-UVATH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 Unable to execute slot
 Unable to open file for logging: %s
 Unable to open file for simple logging: %s
 UnhandledExceptionFilter
 Unknown exception
 Unknown file
-Unknown option: '%s'
-Unknown testdata for function %s: '%s'
-Unknown testfunction: '%s'
+Unknown option: '%s'\n\n%s
+Unknown testdata for function %s: '%s'\n
+Unknown testfunction: '%s'\n
 UnknownTestFunc
-Uy]E3
-VATAUH
-VWATAUAVH
-VWATAUAWH
-VWATH
 WARNING
-WATAUAVAWH
-WATAUH
-WATAVH
 WalltimeMilliseconds
-Warning: `-chart' option is not available
+Warning: `-chart' option is not available\n
 Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-XA_A^A]A\_^[]
 XFAIL  
 XPASS  
+X\f?parameterTypes@QMetaMethod@@QEBA?AV?$QList@VQByteArray@@@@XZ
 [thunk]:
-\$ @2
-\$ E3
-\$ H;
-\$ UVATH
-\$ UVWATAUAVAWH
-\$ WH
-\$$A;
-\$0H;
-\$0HcA
-\$0HcJ
-\$0Mc
-\$8L3
-\$@HcJ
-\$@tIH
-\$TE3
-\$hHcC
+\f?number@QByteArray@@SA?AV1@NDH@Z
+\f?number@QByteArray@@SA?AV1@_KH@Z
+\f?qDebug@@YA?AVQDebug@@XZ
+\f?qDebug@@YAXPEBDZZ
+\f?qFatal@@YAXPEBDZZ
+\f?qFree@@YAXPEAX@Z
+\n?killTimer@QObject@@QEAAXH@Z
+\n\r?qMalloc@@YAPEAX_K@Z
+\r?qInstallMsgHandler@@YAP6AXW4QtMsgType@@PEBD@ZP6AX01@Z@Z
+\r?qRealloc@@YAPEAXPEAX_K@Z
+\r?qVersion@@YAPEBDXZ
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?qt_register_signal_spy_callbacks@@YAXAEBUQSignalSpyCallbackSet@@@Z
+\r?qvsnprintf@@YAHPEAD_KPEBD0@Z
+\t?indexOf@QByteArray@@QEBAHDH@Z
+\t?indexOfMethod@QMetaObject@@QEBAHPEBD@Z
+\t?insert@QString@@QEAAAEAV1@HVQChar@@@Z
+\t?instance@QAbstractEventDispatcher@@SAPEAV1@PEAVQThread@@@Z
+\t?invoke@QMetaMethod@@QEBA_NPEAVQObject@@W4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@333333333@Z
+\t?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+\v?left@QByteArray@@QEBA?AV1@H@Z
+\v?method@QMetaObject@@QEBA?AVQMetaMethod@@H@Z
+\v?methodCount@QMetaObject@@QEBAHXZ
+\v?methodType@QMetaMethod@@QEBA?AW4MethodType@1@XZ
+\v?msecsSinceReference@QElapsedTimer@@QEBA_JXZ
+\vPTA
 ]]]><![CDATA[]>
 __based(
 __cdecl
@@ -1014,13 +673,7 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _data()
-` AUH
-` AVH
-`.rdata
-`A\_]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1033,7 +686,6 @@ _data()
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -1080,10 +732,11 @@ bad exception
 belgian
 benchmark
 bits/s
+bool
 britain
 bytes/s
-c AUH
 canadian
+char
 char 
 china
 chinese
@@ -1103,18 +756,13 @@ comment
 const
 const 
 czech
-d$ UH
-d$8H+
-d$PMk
-d$`IcD$
 d->dataCount < d->parent->elementCount()
+data
 data->parent()
 data->parent()->elementTypeId(idx) == metaTypeId
 dddd, MMMM dd, yyyy
 description
 double
-dt D:
-dtfD:
 dutch-belgian
 e+000
 elementName
@@ -1141,17 +789,11 @@ exitLoop()
 expected
 expected data of type '%s', got '%s' for element %d of data with tag '%s'
 extern "C" 
-f;D$@uD
-f;D$@ug
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
+fail
 failure
 failures
 false
-fffff
-fffffff
+file
 fileName
 float
 french-belgian
@@ -1164,43 +806,40 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
-gu E3
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 holland
 hong-kong
-idx != -1
 index < d->parent->elementCount()
 index >= 0
+info
 init()
 initTestCase
 initTestCase()
 initTestCase_data()
 instruction reads
+int 
 irish-english
 italian-swiss
 iterations
-l$ D!
-l$ E2
-l$ WH
-l$@@2
+kU'9
+line
+long
 long 
 message
 metaObject
 metric
 mode > 0
-ms > 0
 msecs
-nB fA
+name
 new-zealand
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
+o\v?maybeSpace@QDebug@@QEAAAEAV1@XZ
 operator
-p WATAUAVAWH
-p WATAUH
 parent
+pass
 portuguese-brazilian
 pr china
 pr-china
@@ -1215,14 +854,11 @@ qfatal
 qtestversion
 qtversion
 qwarn
-r%f;A
-r&D8g
 result
-s WATAUAVAWH
-s\HcL$HH
 short
 short 
 signed 
+skip
 slotName
 slovak
 south africa
@@ -1255,88 +891,34 @@ swedish-finland
 swiss
 system
 system-err
-t$ @80
-t$ ATAUAVH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$0HcF
-t$0Ic
-t$@E3
-t$HD;
-t$pD+d$HD+
-t'HcU0H
-t(Hc\$0H
-t*HcO
-t0<@t
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tTffffff
 tagName
-tb<A|M<P
 template-parameter-
 testObject
 testcase
 tests
 testsuite
 tier0.dll
-tnLcV
 trinidad & tobago
-tufffff
+type
 typeId
-u	A!A
-u"E9Q t
-u#HcF
-u#HcG
-u'HcUHH
-u5E9Q t
-uNM9u
-uQI91tLH
-uYHcF
-u_D9u
 union 
 united-kingdom
 united-states
 unsigned 
 value
 virtual 
+void
 void 
 volatile
 volatile 
 warmup stage result      :
+warn
 wchar_t
-x ATAUAVH
-x ATAUAWH
-x ATH
-xA]A\_^[]
-x_^][
 xfail
 xpass
 xppwpp
 xpxxxx
-xs;=Gt
-xv;=o
 z?aUY
 zc%C1
-zux!l$ E3
 {flat}
 {for 
-|$ ;=
-|$ ATAUAVH
-|$ ATH
-|$ H;
-|$ Hc
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$0ffff
-|$@-D
-|$@-H
-|$DD9d$X
-|$HfA
-|$XH;
-|$pHc8~
-|jfff
-|kffff
-~/8\$vt)H
-~ID;c

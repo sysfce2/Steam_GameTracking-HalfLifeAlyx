@@ -1,59 +1,23 @@
-					
-	D$0H
-	D$8H
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
  AFlsAlloc
- A^A\_
- A^A]A\
- A^_^
- A^_^][
- A_A^A\
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^_
- A_^]
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- new[]
- s7E3
- t(<#t
- t?D9
- tDE3
+ new
  throw(
- vJH+
  volatile
- vs. 
 !)@:F,@zj/@\G1@|
-!,X< w
-!>6'Y
-!D$8I
-!D$HH
-!T$(H!T$ 
-!This program cannot be run in DOS mode.
 "e?<<<<<<l?
-# Fatal error in %s, line %d
-$+xvA
-$D8T$!u
 $Ib?s
 %.0Lf
-%D8d$@t
-%GoU?*
-%H : %M
 %H : %M : %S
 %I : %M : %S %p
 %b %d %H : %M : %S %Y
@@ -62,66 +26,19 @@ $Ib?s
 %s Daylight Time
 %s Standard Time
 &?PPPPPPP?
+&Sgw
 ( 8PX
 ('8PW
-(D$ @
-(D$ H
-(D$ f
-(D$0A
-(D$0H
-(D$0f
-(D$0fA
-(D$@H
-(D$PH
-(D$PL9t$0t6H
-(D$`L
 (No symbol) [0x
-(T?j?Y
 (null)
-(t$ H
-(t$0A
-(t$0H
-(t$@D
-(t$PH
-(t$PHcH
-(t$`H
-(|$ H
-(|$03
-(|$0D
-(|$0H
-(|$pL
-).  Dumping unresolved backtrace:
-)<$=B.
-)>6{1n
-)D$ H
-)D$0H
-)D$@H
-)D$@I
-)D$`M
-)H+}0
-)t$@3
-)t$@E
-)|$ v
-)|$0A
-)|B?d!
+).  Dumping unresolved backtrace:\n
+)yIx
 *StO9>T
-+M<7>
-+f)>0'
-+h->|
 +v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v +$v $++$ v+$ v$ v++$ v$+ v+xv$+ v$v$ +v+ $v$ ++x$v+ $v$v ++ $v$ +v
-,/<-w
-,0<	w
-,0<	w!A
-,0<	wGA
 ,<ellipsis>
 ,HR>O
-,I<%w
 -BH>t
--D	c0
--H;.u
-..om?
-.00cfg
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU_Crt_new_delete@std@@
 .?AUctype_base@std@@
 .?AUmessages_base@std@@
@@ -205,135 +122,57 @@ $Ib?s
 .?AVruntime_error@std@@
 .?AVsystem_error@std@@
 .?AVtype_info@@
-.i?0@I
-.pdata
-.text
 .xJ>Hf
 /2GG>!B
-/>58d%
 /lj,D
 0123456789-
 0123456789-+Ee
 0123456789ABCDEFabcdef-+Xx
 0123456789ABCDEFabcdef-+XxPp
 0123456789abcdefghijklmnopqrstuvwxyz
-0< tB<$t8<+t.<vt
-0><[cZUg^>
-0A^_^
-0A_A\_
-0A_A]A\
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_]
-0A_A^_
-0A_A^_^[
-0A_A^_^]
-0A__^[]
+0E>X
 0X8b?~
 0iN>/
-0t{A+
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-1<.	/>:
+11Y@
+3 FB
+37>k
 3>N;kU
 3>fvw
-4pt0L
-6D8\$`u
+3?tr
+51>W
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-8$u*E
-8*u;I
-8*uEI
-8-uKH
-8-uOH
-80tWD
-8< tB<$t8<+t.<vt
-8?u$H
-8@tJH
-8@tKH
-8@u<H
-8A_A^A]A\_^][
-8F	u(E3
-8HtKH
-8Jt/A
-8L$8t
-8T$Ht
-8Xu6H
-8Zu H
-8]8}KD
-8_	uy
-8_^][
+7>I0
+7?GX
+7~xh
 8ke?;
-9	t	H
-9	tGH
-9)~P3
-9?uP3
-9X@u4
-9\$0u
-9^ t"H
-9u@u	H
-9|$0u
-9|$8u
-:>)*	v
-:>t6k'
-:@:F<@Z
+9>70
 :AM:am:PM:pm
-:F	t	H
-:F	t	I
 :Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
-:N	t	H
-:N	t	I
-:O	t	H
 :Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
-;.u1L
-;9E8t
-;:u#H
-;:uNH
-;A-@=;A-@v
-;H9>&X
-;\$ |
-;\$p|
-<	w	@
-<	w*M
-< t;<	t7
-< uU@8~
-< us@8~
-<%u~I
-<1~-<3~ <4t5<5t
-<:u5H
-<:u9H
-<>#n2
-<?u7H
-<XuKH
-<_uoH
-<`t'!U
 <ellipsis>
-<htr<jtb<lt6<tt&<wt
-<pt-L
 <unknown>
-<}wXI
-<}w\H
-==== C stack trace ===============================
+=87M
+==== C stack trace ===============================\n
 =@zj?@L~@@\GA@l
+=cQ6
+=e2m
 =imb;D
 =v<y5
-=zhC@
->L9't
 >UUUUU
+>cQ6
 >jtm}S
 ?!5WOo
-?+>^m
 ?49HoKC
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
 ??$CheckEQImpl@MM@base@v8@@YAPEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMPEBD@Z
 ??$CheckEQImpl@NN@base@v8@@YAPEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@NNPEBD@Z
 ??$CheckGEImpl@MM@base@v8@@YAPEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MMPEBD@Z
@@ -498,15 +337,12 @@ $Ib?s
 ?CommitRegion@VirtualMemory@base@v8@@SA_NPEAX_K_N@Z
 ?CreateThreadLocalKey@Thread@base@v8@@SAHXZ
 ?CreateTimezoneCache@OS@base@v8@@SAPEAVTimezoneCache@23@XZ
-?Cu0f9w
-?D8d$@
 ?DaylightSavingsOffset@OS@base@v8@@SANNPEAVTimezoneCache@23@@Z
 ?DebugBreak@OS@base@v8@@SAXXZ
 ?DeleteThreadLocalKey@Thread@base@v8@@SAXH@Z
 ?DirectorySeparator@OS@base@v8@@SADXZ
 ?DisableSignalStackDump@debug@base@v8@@YAXXZ
 ?DisposeTimezoneCache@OS@base@v8@@SAXPEAVTimezoneCache@23@@Z
-?E=$% B
 ?EnableInProcessStackDumping@debug@base@v8@@YA_NXZ
 ?FOpen@OS@base@v8@@SAPEAU_iobuf@@PEBD0@Z
 ?FPrint@OS@base@v8@@SAXPEAU_iobuf@@PEBDZZ
@@ -592,7 +428,6 @@ $Ib?s
 ?PrintError@OS@base@v8@@SAXPEBDZZ
 ?ProtectCode@OS@base@v8@@SAXPEAX_K@Z
 ?QUALCOMM@CPU@base@v8@@2HB
-?QY^&
 ?R0I?
 ?RelativePath@base@v8@@YAPEADPEAPEADPEBD1@Z
 ?Release@VirtualMemory@base@v8@@QEAAXXZ
@@ -624,7 +459,6 @@ $Ib?s
 ?StrChr@OS@base@v8@@SAPEADPEADH@Z
 ?StrNCpy@OS@base@v8@@SAXPEADHPEBD_K@Z
 ?TSCTicksPerSecond@ThreadTicks@base@v8@@CANXZ
-?TY,>5
 ?TakeControl@VirtualMemory@base@v8@@QEAAXPEAV123@@Z
 ?TimeCurrentMillis@OS@base@v8@@SANXZ
 ?TimesOf@TimeDelta@base@v8@@QEBANAEBV123@@Z
@@ -718,6 +552,7 @@ $Ib?s
 ?kStackWalkMaxNameLen@OS@base@v8@@2HB
 ?kStackWalkMaxTextLen@OS@base@v8@@2HB
 ?kxG2)
+?lZE
 ?log10@ieee754@base@v8@@YANN@Z
 ?log1p@ieee754@base@v8@@YANN@Z
 ?log2@ieee754@base@v8@@YANN@Z
@@ -735,6 +570,8 @@ $Ib?s
 ?native_handle@Semaphore@base@v8@@QEBAAEBQEAXXZ
 ?open@MemoryMappedFile@OS@base@v8@@SAPEAV1234@PEBD@Z
 ?part@CPU@base@v8@@QEBAHXZ
+?qBJ
+?rAj
 ?set_name@Thread@base@v8@@AEAAXPEBD@Z
 ?sin@ieee754@base@v8@@YANN@Z
 ?sinh@ieee754@base@v8@@YANN@Z
@@ -745,92 +582,10 @@ $Ib?s
 ?type@CPU@base@v8@@QEBAHXZ
 ?variant@CPU@base@v8@@QEBAHXZ
 ?vendor@CPU@base@v8@@QEBAPEBDXZ
-?{Q}<
-@ %z8
-@.data
-@.gfids
-@.idata
-@.reloc
-@.tls
-@8,2u
-@8;~;H
-@8<)u
-@8l$8t
-@8l$Ht
-@8t$@
-@8t(8}
-@8y$t
-@8|$Pt
-@8|$^t
-@>%>b
-@@H9(t%I
-@A^_^
-@A_A]A\_^
-@A_A^A\
-@A_A^A\_^[]
-@A_A^A]A\_^]
-@A_A^]
-@A_A^_
-@A_A^_^]
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAVH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@UAVAWH
-@USATAUAWH
-@USVATAUAVAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAUAWH
-@USVWATAVAWH
-@USVWAWH
-@USVWH
-@USWH
-@UVAWH
-@UVWATAUAVAWH
-@UVWH
-@b;zO]
-A HcH
-A03>A|
-A84.u
-A86taH
-A>l$/
+?ysB
 A>pP&
-A@L9 t0H
-AA,A$
-AA< t(<#t
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AK>(v
-ATAUAVH
-ATAVAWH
-AUAVAWH
-A^A\_
-A^A]A\
-A^_^[]
-A_A]A\[]
-A_A]A\_^[]
-A_A^A\
-A_A^A\][
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]A\]
-A_A^A]A\^[]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_]
-A_A^A]_^
-A_A^]
-A_A^_
-A_A^_^[]
-A_A^_^]
-A__^[]
 AcquireSRWLockExclusive
 Alaska
 AppPolicyGetProcessTerminationMethod
@@ -841,338 +596,71 @@ April
 AreFileApisANSI
 Atlantic
 August
-AuthE
 AuthenticAMD
-B(I9A(
-B8\(8
-B8\(9
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
-BL$(A
-C,, <Zw
-C5R?	
-C847u
-C8<(u
-C@H90t%H
-C@L90t%H
-CA,A$
-CA< t(<#t
-CD$@A
+C5R?\t
 CL:>8
 CWD>~3
-CXHc8H
 Central
 Central Europe
 Check failed: %s.
 China
-CloseHandle
 CloseThreadpoolTimer
 CloseThreadpoolWait
 CloseThreadpoolWork
 CompareStringEx
-CompareStringW
 Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
 CorExitProcess
-CreateEventA
 CreateEventExW
-CreateEventW
-CreateFileA
-CreateFileMappingW
-CreateFileW
-CreateSemaphoreA
 CreateSemaphoreExW
 CreateSemaphoreW
 CreateSymbolicLinkW
-CreateThread
 CreateThreadpoolTimer
 CreateThreadpoolWait
 CreateThreadpoolWork
 CreateToolhelp32Snapshot
-D	g I
-D W?{W
-D!l$x@
-D$ E3
-D$ HcH
-D$ HcP
-D$ f;
-D$"E3
-D$"fD
-D$$p	
-D$(H9
-D$(H;
-D$(L9
-D$(M;
-D$(f;
-D$,f;
-D$0,fD
-D$0.fD
-D$0E3
-D$0H!L$ H
-D$0H#
-D$0H+
-D$0H;
-D$0H;C
-D$0HcH
-D$0f;
-D$0fD
-D$49C
-D$4E3
-D$4Hc
-D$4f;
-D$8D8t$8u_H
-D$8E3
-D$8H=
-D$8HcO(H
-D$8L9
-D$8Lc
-D$8f;
-D$@E3
-D$@H+
-D$@H9D$8t
-D$@H;C
-D$@H=@W
-D$@f;
-D$@fD
-D$H9D$ s"
-D$HE3
-D$HH;
-D$HM;
-D$Hf;
-D$P I
-D$P%A
-D$P%I
-D$PA#
-D$PH+
-D$PH;
-D$PI;
-D$PL;
-D$Pf;
-D$Pu%
-D$Q+H
-D$XA+
-D$XH9D$8t
-D$XH=
-D$Xf;
-D$`D90}
-D$`E3
-D$`Hc
-D$`L+
-D$`L;
-D$`f;
-D$hD;
-D$hf;
-D$pf;
-D$pfA;
-D$pfD
-D$xf;
-D+AHH
-D+d$$H
-D+d$(H
-D+d$8H
-D08@t	
-D4X< 
-D8$+u
-D8&t!
-D8&t3H
-D8(t[H
-D8+~0H
-D8+~1H
-D8.tnH
-D82u&H
-D88tT3
-D8:u2H
-D8?t	H
-D8D$ u\H
-D8D$!u
-D8T$!u
-D8T$Pt
-D8\$`t
-D8d$8t
-D8d$@t
-D8d$Ht
-D8d$Xt
-D8f	u(E3
-D8f	u*E3
-D8g	u7E3
-D8l$Xt
-D8l$ht
-D8t$8t
-D8t$Ht
-D8t$XuJ
-D8yDt
-D8|$Ht
-D9>tXA
-D9\$@uZH
-D9\$HuhI
-D9c t
-D9ewA
-D9t$0u
 D:\v\csgos1\thirdpartycode\v8\v8\out.gn\x64.release\v8_libbase.dll.pdb
-D;T$4
-D<P0I
-DL$@H
-D\$$H
 December
-DecodePointer
-DeleteCriticalSection
-DeleteFileA
-D|$0H
-E+BHH
-E0HcH
-E0Lcx
-E0t H
 E>nEA
-EP*?@
+ET5>
+E[\rn?gc
 Eastern
 Eastern Europe
-EncodePointer
-EnterCriticalSection
+EiUL
 EnumSystemLocalesEx
-EnumSystemLocalesW
 Error initializing symbols (
 EventRegister
 EventSetInformation
 EventUnregister
 EventWriteTransfer
-ExitProcess
-ExitThread
 F>qUxv
+FEMh\f
 February
-FindClose
-FindFirstFileExA
-FindFirstFileExW
-FindNextFileA
-FindNextFileW
+FfW?
 FlsFree
 FlsGetValue
 FlsSetValue
-FlushFileBuffers
 FlushProcessWriteBuffers
-FormatMessageW
-FreeEnvironmentStringsW
-FreeLibrary
-FreeLibraryAndExitThread
 FreeLibraryWhenCallbackReturns
 Friday
-Ft4D+
-G0Hc	H
-Genu3
-GetACP
+G>US
 GetActiveWindow
-GetCPInfo
-GetCommandLineA
-GetCommandLineW
-GetConsoleCP
-GetConsoleMode
 GetCurrentPackageId
-GetCurrentProcess
-GetCurrentProcessId
 GetCurrentProcessorNumber
-GetCurrentThread
-GetCurrentThreadId
 GetDateFormatEx
-GetDateFormatW
 GetEnabledXStateFeatures
-GetEnvironmentStringsW
 GetFileInformationByHandleEx
-GetFileSize
-GetFileType
 GetLastActivePopup
-GetLastError
 GetLocaleInfoEx
-GetLocaleInfoW
-GetModuleFileNameA
-GetModuleFileNameW
-GetModuleHandleExW
-GetModuleHandleW
-GetNativeSystemInfo
-GetOEMCP
-GetProcAddress
-GetProcessHeap
 GetProcessWindowStation
-GetStartupInfoW
-GetStdHandle
-GetStringTypeW
-GetSystemInfo
-GetSystemTimeAsFileTime
 GetSystemTimePreciseAsFileTime
-GetTempFileNameA
-GetTempPathA
-GetThreadPriority
-GetThreadTimes
-GetTickCount
 GetTickCount64
 GetTimeFormatEx
-GetTimeFormatW
-GetTimeZoneInformation
-GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GetXStateFeaturesMask
-GlobalMemoryStatusEx
-H!D$ E
-H!D$ I
-H!T$0D
-H+L$ x;H
-H+L$(xAH
-H+\$8A
-H+t$@
-H+t$@t>L
-H9(tAH
-H950	
-H95]s
-H98t%H
-H9Ahs
-H9D$@t
-H9L$8t
-H9L$Ht?H
-H9Qhv
-H9\$P
-H9t$@t
-H;D$(sOH
-H;D$pr
-H;XXs
-H;xXu9
-HH9/u
 HH:mm:ss
-HHtDH
-H[><y5
-H_^[]
-Hc;9E0t
-HcA<H
-HcC H
-HcD$hH
-HcE H+
-HcE8H
-HcG(H
-HcH<H
-HcK H
-HcS H
-Hc\$ 
-Hc]`M
-HeapAlloc
-HeapFree
-HeapReAlloc
-HeapSize
-H}*M;
-I HcH
-I LcA
-I96t4H
-I96t:H
-I96tn
-I9<$t
-I9>t=
-I9>tA
-I9>tK
-I9>tO
-I9>tr
-I9>u6@8~
-I9>u:@8~
-I9>uD@8~
-I9>uH@8~
-I9>uk@8~
-I9\$ ~@H
-I9}(t9H
 IND)ind)
 INITY
 IUUUUU
@@ -1182,136 +670,25 @@ InVM(free_start, size)
 India
 InitOnceExecuteOnce
 InitializeConditionVariable
-InitializeCriticalSection
-InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
-InitializeSListHead
 InitializeSRWLock
-InterlockedFlushSList
-InterlockedPushEntrySList
-IsDebuggerPresent
-IsProcessorFeaturePresent
-IsValidCodePage
-IsValidLocale
 IsValidLocaleName
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
 Japan
-K&>.yC
-K0HcQ
-K0Hcq
-KERNEL32.dll
-KXHcS8
-Kf;\$xrIf;\$|s
-K~Je#>!
-L!|$(L!
-L$ E3
-L$ H;
-L$ I;
-L$ L;
-L$ SH
-L$ SUVWH
-L$ SWH
-L$ VWAVH
-L$ WH
-L$ fA
-L$ fD
-L$ fff
-L$ |+L;
-L$&8\$&t-8Y
-L$(H3
-L$0E3
-L$0E;
-L$0H3
-L$0H;
-L$0fH
-L$0fI
-L$4E;
-L$8H3
-L$8M;
-L$8eH
-L$<+L$4
-L$<+L$H
-L$@;L$T
-L$@;|
-L$@E3
-L$@H3
-L$@uU
-L$HHc
-L$PH+D$HH
-L$PH3
-L$PLc
-L$PfD
-L$XE3
-L$XH3
-L$`H+T$PH
-L$`H3
-L$dL;
-L$pD9{
-L$pE3
-L$xH3
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L+t$8
-L+t$8t0L
-L9"u&
-L90u H
-L95T`
-L96tnH
-L96t~I
-L97t5H
-L97taH
-L98u&H
-L9:t?
-L9>te
-L9Ahs
-L9D$0
-L9L$(L
-L9`8tA
-L9d$p
-L9l$p
-L9|$pvgH;
-L;5Pt
-L;5Tp
-L;L$(A
-L;L$(t
+July
+June
+L>ev
 L?UUUUUUU?
 LCIDToLocaleName
 LCMapStringEx
-LCMapStringW
 LUUUUU
-LcA<A
-LcA<E3
-LeaveCriticalSection
-Lj[;>
-LoadLibraryExW
-LoadLibraryW
+LWG>
+LWW>
 Local
 LocaleNameToLCID
 LocateXStateFeature
-M H1E
-M(f95xM
-M+BHH
-M9&t*
-M9&t,
-M9&tH
-M9&tL
-M9&ta
-M9&ti
-M9&u#D8f
-M9&u%D8f
-M9&uAD8f
-M9&uED8f
-M9&uZD8f
-M9&ubD8f
-M9.tqA
-M9/t,
-M9Ohu"I
-M9ehu
 MM/dd/yy
-MapViewOfFile
 March
 MessageBoxA
 MessageBoxW
@@ -1319,222 +696,85 @@ Module32FirstW
 Module32NextW
 Monday
 Mountain
-MultiByteToWideChar
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
+NQ?s
+NULL
 New Zealand
 November
-O0HcQ
-OF>;^
+OZQ%
 October
-OutputDebugStringA
-OutputDebugStringW
-P>q_Y~
-PA_A^A]A\_^]
-PA__^[]
 Pacific
-PathRemoveFileSpecW
 Q5rHg,>
-QueryPerformanceCounter
-QueryPerformanceFrequency
-QueryThreadCycleTime
-R(@8t$@
-R0@8t$@
-R8@8t$@
-R8HcH
-R@@8t$@
-RH@8t$@
+QAf?
 RSDSi
-RaiseException
-ReadConsoleW
-ReadFile
 ReleaseSRWLockExclusive
-ReleaseSemaphore
-ResetEvent
-ResumeThread
 RoInitialize
 RoUninitialize
-RtlCaptureContext
-RtlCaptureStackBackTrace
-RtlLookupFunctionEntry
-RtlPcToFileHeader
-RtlUnwindEx
-RtlVirtualUnwind
 Russia
-S,fA+
-S;\$0tH
+S9>H
 S>$hkDh$h>[2
-SHLWAPI.dll
 SNAN)
-SUATAVAWH
-SUVWATAUAVAWH
-SVWATAUAVAWH
-SVWAVAWH
 Saturday
 September
-SetConsoleCtrlHandler
-SetEndOfFile
-SetEnvironmentVariableA
-SetEnvironmentVariableW
-SetEvent
 SetFileInformationByHandle
-SetFilePointerEx
-SetLastError
-SetStdHandle
-SetThreadPriority
 SetThreadStackGuarantee
 SetThreadpoolTimer
 SetThreadpoolWait
-SetUnhandledExceptionFilter
-Sleep
 SleepConditionVariableCS
 SleepConditionVariableSRW
 StackWalk64
 SubmitThreadpoolWork
 SunMonTueWedThuFriSat
 Sunday
-SymFromAddr
 SymFunctionTableAccess64
 SymGetLineFromAddr64
 SymGetModuleBase64
 SymGetOptions
 SymGetSearchPath
-SymGetSearchPathW
 SymGetSymFromAddr64
 SymInitialize
 SymLoadModule64
 SymSetOptions
-SymSetSearchPathW
 SystemFunction036
-SystemTimeToFileTime
-T$ E3
-T$ H;
-T$ f;
-T$!D8V
-T$(9T$,
-T$(E3
-T$(f;
-T$0f;
-T$8f;
-T$<9T$@
-T$@f;
-T$HE3
-T$Hf;
-T$PD+
-T$PE3
-T$PH3
-T$Pf;
-T$Pz)u'H
-T$Xf;
-T$`A:
-T$`D8p
-T$`E3
-T$`f;
-T$hD+
-T$hE3
-T$hf;
-T$pf;
-T$pkD$x<
-T$xf;
 TUUUU
-TerminateProcess
 Thursday
-TlsAlloc
-TlsFree
-TlsGetValue
-TlsSetValue
 TryAcquireSRWLockExclusive
-TryEnterCriticalSection
 Tuesday
-U )E H
-U8D8;A
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
 UNICODE
 UNKNOWN
-USVWATAUAVAWH
-USVWAVAWH
-USVWAVH
 UTF-16LE
 UTF-8
 UUUUU
 UUUUUU
-UVWATAUAVAWH
-UVWAVAWH
-UWATAVAWH
-UWAVH
-UnhandledExceptionFilter
-Unknown
 Unknown exception
-UnmapViewOfFile
-V6E>`"(5
 V8_Fatal
-VD$Pf
-VT$PD
-VUD8oDu
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUH
-VWAVH
-VirtualAlloc
-VirtualFree
-VirtualProtect
-WATAUAVAWH
-WATAVH
-WATAWH
-WAVAWH
-WINMM.dll
 WaNd?
-WaitForSingleObject
-WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Wednesday
-WideCharToMultiByte
-WriteConsoleW
-WriteFile
+X/4B
+Y8a:
 Y>kX>M
-YD$@f
 Z\>z8
-Zod(^?
-[ UVWH
 [*ncd>0
 [aOni*{
 [thunk]:
-\$ E3
-\$ Lc
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ VWATAUAWH
-\$ WH
-\$$@8~
-\$$A;
-\$$D8F
-\$(Hc
-\$(L+
-\$(fD
-\$0E3
-\$0H;
-\$0HcH
-\$0eH
-\$8I;
-\$8M9g
-\$@H;
-\$@fD
-\$XH;y
-\$gm?
-])6M>&
-]>)2X
+\n\n#\n# Fatal error in %s, line %d\n# 
+\nh?oT
+\nk>oB
+\rUUUUU
+\r\f\v\v\n\n\t\t\t\t\t
+\tcQr
+\tkE>fvw
+\vA03>A|
 ^<V7w
 ^RfN>
-^fD9(H
 __based(
 __cdecl
 __clrcall
@@ -1552,19 +792,11 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
 _oD>Kg
-` AWL
-` UAVAWH
-`+!]?
-`.rdata
-`A^_^
-`A_A^A]A\_^]
-`A_A^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1579,7 +811,6 @@ _oD>Kg
 `eh vector vbase copy constructor iterator'
 `generic-class-parameter-
 `generic-method-parameter-
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -1615,15 +846,18 @@ _oD>Kg
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
+a6>r
 abcdefghijklmnopqrstuvwxyz
+acos
 address family not supported
 address in use
 address not available
 already connected
 argument list too long
 argument out of domain
+asin
+atan
 atan2
-b?^Cy
 bad address
 bad allocation
 bad array new length
@@ -1633,15 +867,12 @@ bad file descriptor
 bad function call
 bad locale name
 bad message
-bp(=>?g
+bool
 broken pipe
-c [1>H'
-c(>\,
-c0&>`
 c?FA@s}
-cAMDD
 cUUUUU
-cf;\$praf;\$ts
+ceil
+char
 char 
 char16_t
 char32_t
@@ -1656,171 +887,46 @@ connection refused
 connection reset
 const
 const 
+cosh
 cross device link
-d$ E3
-d$(A_
-d$(E3
-d$(H9X
-d$0E3
-d$hI;
-d$pI;
+d8L2
 d:\v\csgos1\thirdpartycode\v8\v8\src\base\platform\platform.h
 d:\v\csgos1\thirdpartycode\v8\v8\src\base\utils\random-number-generator.cc
 d?000000`?
-dbghelp.dll
+dRL>
 dddd, MMMM dd, yyyy
 destination address required
 device or resource busy
 directory not empty
 double
 e+000
-e0A^A]A\_^[]
-e0A_A^A]A\]
-e0A_A^A]A\_^]
-e0A_A^]
-e8A_A^A]A\_^[]
+eF>t
 eLK(w
-entiA
 enum 
 executable format error
 extern "C" 
-f9)u H
-f9)uTH
-f9,Au
-f9,Ju
-f9,PI
-f9,Xu
-f9,Yu
-f9,pu
-f9,~u
-f9/t	H
-f94Bu
-f95EM
-f9<Ju
-f9<Pu
-f9<iu
-f9t$bu
-f9|$^t&f
-f9|$`t
-f;L$8r
-f;L$8s
-f;L$<r
-f;L$<s
-f;L$@
-f;L$@s
-f;L$D
-f;L$Ds
-f;L$L
-f;L$Ls
-f;L$T
-f;L$Tr
-f;L$\
-f;\$$
-f;\$$r
-f;\$$s
-f;\$(s
-f;\$,
-f;\$,r
-f;\$0
-f;\$4
-f;\$4r
-f;\$8s
-f;\$<
-f;\$<s
-f;\$@s
-f;\$D
-f;\$Ds
-f;\$H
-f;\$L
-f;\$Ls
-f;\$P
-f;\$Ts
-f;\$X
-f;\$\s
-f;\$`
-f;\$ds
-f;\$xs
-f;\$xs	D
-f;\$|s
-fA9,@u
-fA9,Au
-fA94Ou
-fA94nu
-fA96tdH
-fA9<Bu
-fA9<\u
-fA;	I
-fB9,Nu
-fB94@u
-fB94Cu
-fB94Ou
-fB94ht	H
-fB9<@u
-fB9<@}eH
-fB9<Bu
-fB9<Hu
-fC94wu
-fC9<hu
-fD9	t
-fD9	t	H
-fD9	t(I
-fD9	tvH
-fD9 t
-fD9 tMH
-fD9 u
-fD9!u
-fD9!u7A
-fD9$Hu
-fD9,Au
-fD90t
-fD91u
-fD92t
-fD92u
-fD94Fu
-fD94pt	H
-fD96u
-fD97t
-fD99t
-fD9;u
-fD9<Au
-fD9<Cu
-fD9<Hu
-fD9<Xu
-fD9?t&
-fD9\$pt
-fD9\$pu
-fD9t$b
-fD9|$Xu
-fE90t
-fE98t'
-fE9<Au
-fF9<qu
-fG9$Ou
-fJBGo
+fD>b
+fWi?
+fabs
 false
-fffff
-ffffff
-fffffff
 file exists
 file too large
 filename too long
 float
 floor
+fmod
 frexp
 function not supported
 generic
 generic-type-
-gfffA
-gfffL
-gfffM
-gfffffffH
+h0'D
 h>1my
 host unreachable
 identifier removed
 illegal byte sequence
 inappropriate io control operation
-ineIA
 inity
+int 
 interrupted
 invalid argument
 invalid seek
@@ -1832,34 +938,19 @@ ios_base::failbit set
 iostream
 iostream stream error
 is a directory
-iu+-,
-j>>A?1
-j?V()
-j?{$*
-l$ AVH
-l$ E3
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAVH
-l$ WAVAWH
-l$$E3
-l$(LcI
-l$4D8F
-l$4D8d$1u
-l$4tFI
-l$4tGI
-l$8HcH
-l$HD8F
-l$PE3
-l$Pu%
-l$hHcH
+k=yI
 ldexp
 log10
 log10f
+logf
+long
 long 
+m?H7
+mG4>
+m\nXo
 message size
+modf
 n03>Pu
-nRich`
 n]?iJ
 nan(ind)
 nan(snan)
@@ -1885,7 +976,7 @@ not a stream
 not connected
 not enough memory
 not supported
-ntelE
+o?GS
 oI>O7
 obwQ4
 operation canceled
@@ -1895,40 +986,18 @@ operation not supported
 operation would block
 operator
 operator "" 
-ot$ H
+owM&
 owner dead
-o|$0f
-p AWH
-p WATAUAVAWH
-p WAVAWH
-pA^_]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
 permission denied
+powf
 private: 
 protected: 
 protocol error
 protocol not supported
 public: 
 qS>g?h3
-r	Vr.>T
-r 9_ t
-r#f;\$ts
-r&f;\$ts
-r7f;\$l
-r9D8v
-r:f;\$l
-r<f;L$|
-r<f;L$|r
-rKf;\$d
-rLf;L$tr
-rNf;\$d
-rPf;L$t
-r\f;L$lr
-r_f;\$\
+r\tVr.>T
 raB3G
-rbf;\$\
-rdf;L$l
 read only file system
 regex_error
 regex_error(error_backref): The expression contained an invalid back reference.
@@ -1951,212 +1020,49 @@ resource unavailable try again
 restrict(
 result out of range
 ri7f>
-ri9V vdH
-rlf;L$dr
-rsf;\$T
-rvf;\$T
-rxf;L$d
-r|f;L$\r
-s WATAUAVAWH
-s WAVAWH
-s4+sP+
-s7D;d$@}
-s:D;d$@}
+s4]s
 short
 short 
 signed 
+sinh
 snan)
-stCD;
-stQD;
-stZD;
-st[D;
-staE;
+sqrt
 state not recoverable
 state0_ != 0 || state1_ != 0
 static 
-stbE;
-stcE;
 std::nullptr_t
 std::nullptr_t 
-stdE;
 stream timeout
 string too long
 struct 
-t"<.u
-t"HcM`H
-t#H9/u
-t#HcL$`H
-t$ <`
-t$ AVH
-t$ E3
-t$ UH
-t$ UWAUAVAWH
-t$ WATAUAVAW
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$(E3
-t$(I;
-t$(LcI
-t$0E3
-t$8H+
-t$8L9v
-t$@A_A^A]A\_
-t$@I9w
-t$XD8G
-t$XE3
-t$`E3
-t$`fB
-t$hu%
-t$pH9\$ u
-t$pHcH
-t$pf93u
-t$xE3
-t$xHcH
-t$xfD
-t%D9m
-t%fD9
-t&D8d$@t
-t'fE9
-t+H9M
-t/H9L$8t
-t4McF
-t5LcF
-t7HcF
-t?H95
-tBD8G
-tCD8F
-tCHcP
-tDLcC
-tED8F
-tGD8V
-tLD8K
-tOH9=O
-tQfD9 tK
-tSf91tNH
-tVf91tQH
-tXLcQ
-t`H91u
-teH9Khu
+tanh
 template-parameter-
 text file busy
-timeGetTime
 timed out
-tmD8K
 too many files open
 too many files open in system
 too many links
 too many symbolic link levels
-tpH91uk
-ttIcF
-txH99us
-tyfD9 tsH
-t{H9/tQL
-u D8F
-u"HcMHH
-u'D8K
-u,E8|$qt"H
-u-D8F
-u.H9>uBA
-u1!D$0H
-u1D8F
-u3HcH<H
-u4D9~
-u9!\$0
-uAiD$@
-uFM9/tA
-uPI91tK
-uQD8F
-uRD8F
-uZD8G
-u`@8~
-uaD8F
-ubD8V
-ucD9~
-uf!T$(H!T$ 
-uhD8F
-ulD	3A
-umL9u
+true
 union 
 unknown error
 unknown exception
 unsigned 
-usH9u
-utD8F
-uvD8F
 uzKs@>
-u|@8~
-u~9t$Xt
 v2!L.2
 v8_libbase.dll
+v<y5
 value too large
 vector<T> too long
 virtual 
+void
 void 
 volatile
 volatile 
-v}`[>
-w)H+=V;
-wFHcN
-wY+M0H
-w`HcE H
 wchar_t
 wrong protocol type
-x ATAUAVH
-x ATAUAWH
-x ATAVAWH
-x AUAVAWH
-x AVAWE3
-x AVH
-x AWH
-x UATAUAVAWH
-x UAVAWH
-xMHcC
-xWI96tRI
-xXI96tSI
+xT?V
 xpxxxx
 xwpwpp
-yA*t	H
-yB*t	H
-yBNu'
-y\PD>!
-z0u.E
-zY;>u:m	
-{ AVH
-{f;\$hryf;\$ls
 {flat}
 {for 
-|$ ATAVAWH
-|$ AV
-|$ AVH
-|$ AWH
-|$ D!
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$ fA
-|$ s1
-|$!@8~
-|$$E3
-|$(A^
-|$(D#
-|$0A_A^
-|$0fff
-|$8;3
-|$@-D
-|$@-H
-|$@E3
-|$HE;
-|$XE3
-|$\.u
-|$^.u
-|$`CI
-|$`H;
-|$`L+
-|$`ss
-|$h8O
-|4X u
-|b=})>
-~ $s%r
-~+A8(t&H

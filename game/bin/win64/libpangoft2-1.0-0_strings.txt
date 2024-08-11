@@ -1,23 +1,9 @@
-											
-												
-																								
-																																																	
-	'	8	I	Z	x	
                           
-        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
   AWwbr
   OHhoj
- !"#$
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- #$()*
  ABAach
  ABYyso
  AEZzne
@@ -48,21 +34,6 @@
  AVSsw
  AWAay
  AWSaio
- A]A\_^[
- A^^[
- A^_^
- A_A\^
- A_A^A\
- A_A^A\^]
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]^]
- A_A^^
- A_A^_
- A_][
- A_^]
- A__^
  BAKkam
  BAKkde
  BATtcy
@@ -180,7 +151,6 @@
  HCBbe
  HCMmni
  HHChno
- HHZt"
  HHZzh-mo
  HIPpl
  HMAamf
@@ -468,8 +438,6 @@
  SDNne
  SGSsgw
  SHXxog
- SHZL
- SHZt
  SHZzh-hant
  SHZzh-hk
  SHZzh-tw
@@ -496,7 +464,7 @@
  TATtum
  TETtg
  THTtyv
- THZu
+ THZ
  THZzh-hans
  THZzh-sg
  TIVvmw
@@ -572,275 +540,52 @@
  ZWSst
  ZYTtzm
  hmttn
- iavA
  medi
- tDE3
-!This program cannot be run in DOS mode.
-!t$(H!t$ I
 "#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRS
-#fD9M
 %s: invalid %s id %u for "%s" of type '%s' in '%s'
 ( 8PX
 ('8PW
-(A_A^A\_
-(A_A^^]
-(A_A^_^
-(L$ D
 (null)
-(t$ A
-(t$@C
-(t$`L
-(|$ H
-(|$@H
-(|$PL
-(|$pL
-)D$@D
-)L$`H
-)T$ H
-)t$ I
-)t$ L
-)t$PH
-)t$`I
-)|$ E
-)|$@D
-)|$PD
-**	***
-******
-*******
-**************
-****************
-*********+******
-*********-******
-*******-******
-*******.******
-*******.**.***
+****************\r*
+****************\r***
+**************\r
+**************\r*
+**************\r***
+**************\r/**
+*********+******\r***
+*********-******\r*
+*******.******\r/**
+*******.**.***\r/**
+*\r*******-******\r*
 *fina
-+D$0+D$8
-+D$<+D$4
-+L$0A
-+\$p@
-+|$p@
 -64OS
 -abcdefghijklmnopqrstuvwxyz
 ..\..\..\pango\pangofc-font.c:250
 ..\..\..\pango\pangofc-font.c:284
 ..\..\..\pango\pangofc-fontmap.c
 ..\..\..\pango\pangoft2.c
-.BPzcuaH
-.pdata
-.text
 0123456789
-0A^][
-0A^_^
-0A^_^][
-0A_A]A\_^][
-0A_A]_^]
-0A_A^A\
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^A]^]
-0A_A^^
-0A_^]
-0L95B2
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-1pytt/H
-1pytt4L
-2dnkuD
-2gnbt8
-2lett
-2lmtt
-2mlmwNtF
-2mymt0
-2rjgt
-2rugt
-2vedt*
-2yrot"
 6rlig
 700PP
 700WP
-80tVD
-8A^_^]
-8A__^[
-8D$8t
-9D$@t
-9Y8v@f
-9\$8vV
-9\$htT
-9k8~0H
-9|$8v
-;\$0t
-;\$8r
-;|$8r
-< tD<	t@
-</assembly>
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<Mt=<St
-<MtP<St
-<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
-<mt5<suUH
-<mtH<st
-=TLFDt
-=adnKt
-=anaL
-=aveDt
-=ayrO
-=barAu
-=cpeL
-=cryS
-=dnaMu
-=dnuS
-=drhS
-=gahP
-=gnaH
-=gnjR
-=gnoMt
-=hniS
-=hniSt
-=iahTt
-=ietM
-=ihtKwrt
-=ilaBtK=gneBtD=iguB
-=inaM
-=lmaT
-=lmaTt
-=mahCt
-=mkaCw?t]=barA
-=mylM
-=ooaL
-=ookNwWt
-=plhP
-=rbeHt]=avaJt
-=rjuGt
-=rkaT
-=rmhKt
-=rmyM
-=rmym
-=tbiT
-=ulaTw>
-=uleT
-=uruG
->ezisudH
-@.data
-@.reloc
-@.rsrc
-@8,>u
-@83t'
-@8t$8t
-@A^A]_^[
-@A^][
-@A^_^][
-@A_A]A\_[
-@A_A^A\
-@A_A^A\_^
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^^
-@A_A^_
-@SATAUH
-@SATH
-@SAUAVAWH
-@SUAVH
-@SUAWH
-@SUVAVAWH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAUH
-@SUVWATAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAWH
-@SUWH
-@SVAVH
-@SVWATAUH
-@SVWAWH
-@SVWH
-@SWATAUAWH
-@UATAUAVAWH
-@UATAVH
-@USVATAWH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWAVH
-@USVWH
-@UVAUAVAWH
-@UVAVAWH
-@UVAWH
-@UVWAVH
-@UVWH
-@UWATAUH
-@VAWH
-@VWAVAWH
-@VWAVH
-@VWAWH
-@WATAVAWH
-@WAWH
 @init
-A+F,I
-A81t@@8r
-A8N(u
-A8~(u
-A9D$P
-A9\$4
-A9^Hv9f
-A9nHv>
-A:8uiI
-A;4$r
-A;D$P
-A;^(r
-A;nHr
-A;~8r
-A;~Hr
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-
-ATAVAWH
-AUAVAWH
-AX=2mymu
-A]A\_]
-A]A\_^][
-A^A\]
-A^A\_
-A^A\_^]
-A^A]A\_^[
-A^_^[]
-A^_^][
-A_A^A\
-A_A^A\^]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]^]
-A_A^A]_]
-A_A^]
-A_A^^][
-A_A^_
-A_A^_^][
-A__^[
 AddFontMemResourceEx
 Allocating var bytes %d..%d for %s
 April
 Asserting var bytes %d..%d for %s
 August
-AuthA
-BH9AHuo
+BLOB
 BUFFER
-BUSGD
-BUSGH
 BUSGSOPG    
-BUSGt
-BUSGt	H
-BUSGu
 BasicEngineFc
 BasicScriptEngineFc
+Bold
 Bold Italic
 CloseHandle
 CloseThreadpoolTimer
@@ -855,83 +600,18 @@ CreateSemaphoreExW
 CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
-D	,$H
-D!l$h3
-D$	fE
-D$ E3
-D$ ferp
-D$(E3
-D$0E3
-D$0E;
-D$0L9
-D$0tnD
-D$4D;
-D$8D;
-D$8E;
-D$8fA
-D$8tlfd
-D$<)C
-D$@H9X
-D$@M+
-D$@carfH
-D$@kramH
-D$@mltr
-D$@mondH
-D$@rmunH
-D$D)T$@
-D$HD;
-D$HE;
-D$HTLFD
-D$PE3
-D$PE9u
-D$PH;
-D$XD+
-D$XD;
-D$XH;A
-D$XTLFD
-D$YfA
-D$YfE
-D$`A;
-D$afA
-D$afD
-D$h)C
-D$hferpL
-D$hfhprL
-D$hftspL
-D$hfwlbL
-D$p H
-D$p+D$x
-D$pD;
-D+moA
-D82u&H
-D8L$Ht
-D8t$Ht
-D9+v$
-D9K8~
-D9l$`
-D9l$dtXH
-D9t$htrH
-D9w0~8H
-D9|$ 
-D;C8|
 DENIED
 Deallocating var bytes %d..%d for %s
 December
 DecodePointer
 DeleteCriticalSection
 DeleteObject
-E9T$P
-E;T$P
-E;\$Ps
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesEx
 Error getting DPI from fontconfig, using 72.0
 Error in FT_Set_Char_Size: %d
 ExitProcess
-F+<0F+d0
-F0D;`
-FEDGH
 FT_Done_Face
 FT_Done_FreeType
 FT_Get_Kerning
@@ -979,8 +659,6 @@ FcPatternGetMatrix
 FcPatternGetString
 FcPatternHash
 FcPatternReference
-FdA	@
-FdA	A
 February
 FlsAlloc
 FlsFree
@@ -994,8 +672,6 @@ Font header corrupted or missing fields
 FreeEnvironmentStringsW
 FreeLibraryWhenCallbackReturns
 Friday
-G$txH
-G$tyH
 GDI32.dll
 GRANTED
 GetACP
@@ -1034,29 +710,14 @@ GetTickCount64
 GetTimeFormatEx
 GetUserDefaultLocaleName
 GetUserObjectInformationW
-H @8yTu
-H3E H3E
-H8+HD
-H9=TH
-H9=hB
-H9qPtEH
-H9yPt
-H;5a3
-HA_A]_^
 HB_OPTIONS
 HB_SHAPER_LIST
 HH:mm:ss
-HcD$PH;
-HcH<H
-HcM H
-Hcn(H
-Hct$@H
+HMXB
 HeapAlloc
 HeapFree
 HeapReAlloc
 HeapSize
-I!>E3
-I9<$tmf
 InitializeCriticalSection
 InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
@@ -1066,39 +727,11 @@ IsValidCodePage
 IsValidLocaleName
 Italic
 January
+July
+June
 KERNEL32.dll
-L$ E3
-L$ UVAUAVAWH
-L$ VWAUAWH
-L$0E3
-L$0H3
-L$0H;
-L$4D+
-L$8E3
-L$8H3
-L$@E3
-L$@H3
-L$@Ii
-L$Df;
-L$HE3
-L$HH3
-L$Hfff
-L$PH3
-L$XE3
-L$`A+
-L$`E3
-L$`H3
-L$hE3
-L$hH3
-L$pH3
-L$xD;
-L$xH3
-L9k u
-L9t$`t
 LCMapStringEx
 LCMapStringW
-LcA<E3
-LcL$PL
 LeaveCriticalSection
 LoadLibraryExW
 MM/dd/yy
@@ -1107,12 +740,9 @@ MessageBoxW
 Monday
 Monospace
 MultiByteToWideChar
+NKeb
 November
-OTTOt 
-OTTOtJA
-OTTOtL
 October
-OhLcB HcR
 OutputDebugStringW
 PANGO_FT2_IS_FONT (font)
 PANGO_FT2_IS_FONT_MAP (fontmap)
@@ -1121,12 +751,6 @@ PANGO_IS_FC_FONT (fcfont)
 PANGO_IS_FC_FONT (font)
 PANGO_IS_FC_FONT_MAP (fcfontmap)
 PANGO_IS_LAYOUT (layout)
-PA^_^
-PA^_^][
-PA_A^A\_^][
-PA_A^A]A\^
-PA_A^A]A\_^]
-PA_A^_
 Pango
 PangoEngineShape
 PangoFT2Font
@@ -1151,26 +775,16 @@ RaiseException
 Regular
 ReleaseDC
 RemoveFontMemResourceEx
-Rich{v
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
+S;uD
 SANITIZE
 SERIALIZE
 SFNT font table missing
 SHAPE_PLAN
-SOPGH
-SOPGt
-SOPGt0
-SOPGt6
-SUVWATAUAVAWH
-SUVWATAUAWH
-SUVWAVAWH
-SUVWAVH
-SVWATAUAVH
-SVWAUAVH
-SWATAUH
+Sans
 Saturday
 ScriptFreeCache
 ScriptItemize
@@ -1194,14 +808,6 @@ SetThreadpoolWait
 SetUnhandledExceptionFilter
 Sleep
 Sunday
-T$ E3
-T$&@8t$&t9@8r
-T$(9r
-T$0fA
-T$PE3
-T$`E3
-T$hf+
-TLFDu
 TerminateProcess
 The PangoFc font map this font is associated with (Since: 1.26)
 The fontconfig pattern for this font
@@ -1211,56 +817,26 @@ TlsFree
 TlsGetValue
 TlsSetValue
 Tuesday
-UL9k u4H
-USAVH
 USER32.dll
 USP10.dll
-USVWAVH
-UVATAVAWH
-UVAUAVAWH
-UVAWH
-UVWATAUAVAWH
-UVWATAVH
-UVWAUAWH
 UVWXYZ
-UWAVH
-Unable to open font file %s for font %s, exiting
-Unable to open font file %s for font %s, falling back to %s
+Unable to open font file %s for font %s, exiting\n
+Unable to open font file %s for font %s, falling back to %s\n
 UnhandledExceptionFilter
 UuidCreate
-VATAUAVAWH
-VAVAWH
-VWATAVAWH
-VWAVH
-WATAUAVAWH
-WATAVH
-WAVAWH
 WaitForThreadpoolTimerCallbacks
 Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-XA]A\_[
-X_^][
-\$ E3
-\$ UH
-\$ UVAUAVAWH
-\$ UVWATAUAVAWH
-\$ UVWH
-\$ UWAVH
-\$ VWATAVAWH
-\$ WH
-\$ fD
-\$0D9=B
-\$0H3
-\$0H;
-\$0fA
-\$8E;
-\$@fA
-\$Pt+L
-\L96t
 \]^_`abcdef
-^(tPH
+\f$\f1\f=\fH\fU\fa\fl\fy\f
+\f\v\n\f\v\n\f\v\n\f\v
+\n\t\n\t\t\t\n\t\n\t\t
+\r#\r4\rE\rV\rg\r
+\t'\t8\tI\tZ\tx\t
+\v\f\f\v\n\f\v\n\f\v\n\f\v\t\f
+\v\v\v\v\v\v\v\v\v\v\v\v
 _cabs
 _hypot
 _logb
@@ -1268,11 +844,6 @@ _nextafter
 _pango_fc_cmap_cache_unref
 _pango_fc_font_shutdown
 _pango_ft2_font_new
-` AUAVAWH
-`.rdata
-`A^_]
-`A^_^][
-`A_A\^[]
 `BBX' field missing
 `BBX' too big
 `CHARS' field missing
@@ -1282,82 +853,67 @@ _pango_ft2_font_new
 `SIZE' field missing
 `STARTCHAR' field missing
 `STARTFONT' field missing
-`h````
 `h`hhh
 abcdefghijklmnopqrstuvwxyz
-adnKuD
-agilH
-altrH
+acos
+adnK
 analysis != NULL
 antialias
 arabic
 arabic_shaping_action
 argument stack underflow
-ariHt
 array allocation size too large
-artlH
+asin
+atan
 atan2
 autohint
-aveDt*
-aveDu[A
-ayrOt"
+avaJ
+aveD
+ayrO
 bad argument
-barAH
-barAu
 basic_engine_shape
 bitmap != NULL
 bool __cdecl _try_writable(struct hb_blob_t *)
-braSt
 broken file
 broken offset within table
 broken table
 c:\buildslave\pango_win32\build\pango-1.36.8\build\win32\vs12\Release_FC\x64\bin\libpangoft2-1.0-0.pdb
-cAMDD
 cannot open resource
 cannot open stream
 cannot render this glyph format
-carfH
+ceil
 character map (cmap) table missing
 charset
 check_array [%p..%p] (%d*%d=%ld bytes) in [%p..%p]
 check_range [%p..%p] (%d bytes) in [%p..%p]
 cmap_cache->ref_count > 0
 code overflow
+cosh
 could not find context
-crySt
-current data is -> %p
-d$ UAVAWH
-d$pfA
-d$xE3
+current data is -> %p\n
 dddd, MMMM dd, yyyy
 default
 desc != NULL
 did not ran out of room
 division by zero
-dupped successfully -> %p
+dupped successfully -> %p\n
 e+000
-eHA_A^A]A\_^[]
 end [%p..%p] %u edit requests
 end [%p..%p] serialized %d bytes; %s
-entiE
-eurtt
-eurttAA
-eurttD
 execution context too long
-ezisu
-fD90t
-fD93u
+fabs
 face=%p num_features=%d shaper_list=%p
 family
 fcfont->font_pattern == NULL
 fcfont->fontmap == NULL
-fcttt
-fctttP
+ferp
 ferpfvbafwlbftspserpsvbaswlbstsptsid
-fffff
-fffffff
+fhpr
 fhprferpfwlbftspserpsvbaswlbstsptsidmvbamwlb
+file
+flah
 floor
+fmod
 font != NULL
 fontfeatures
 fontmap
@@ -1365,7 +921,11 @@ fontmap != NULL
 found ENDF opcode in execution stream
 found debug opcode
 frexp
+frkr
 ft2font->face
+ftsp
+fvba
+fwlb
 g_array_append_vals
 g_array_free
 g_array_new
@@ -1458,29 +1018,20 @@ g_value_take_object
 g_weak_ref_clear
 g_weak_ref_get
 g_weak_ref_set
-gfffA
-gfffffffH
-gilcE
 glyph to big for hinting
 glyph_index
 glyph_props
 glyphs != NULL
-gneBt8
-gnoMuFD
-hA_A^_^][
+gneB
 hangul
 hebrew
 hijklmnopqrstuvwxyz{|}~
 hinting
 hintstyle
+hniS
 horizontal header (hhea) table missing
 horizontal metrics (hmtx) table missing
-iahTu
-idyLwM
 ignore
-iiaVt
-iiiYt
-ilhPt2
 index
 indic
 indic_category
@@ -1517,23 +1068,8 @@ invalid stream read
 invalid stream seek
 invalid stream skip
 invalid vertical metrics
-itrPt%
-l$ E3
-l$ VATAWH
-l$ VAVAWH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WATAUAVAWH
-l$(fE
-l$0Hc
-l$0fA
-l$8E9t$P
-l$@fA
-l$XD+
-l$`fA
-l$hfA
-l$pfA
-lcolE
+kU'9
+lang
 ldexp
 libfontconfig-1.dll
 libfreetype-6.dll
@@ -1543,7 +1079,7 @@ libpango-1.0-0.dll
 libpangoft2-1.0-0.dll
 lig_props
 line != NULL
-lmaTt
+lmaT
 locations (loca) table missing
 log10
 losianif2nif3nifidem2demtini
@@ -1552,40 +1088,29 @@ matrix
 may_edit(%u) [%p..%p] (%d bytes) in [%p..%p] -> %s
 missing module
 missing property
-mlaPw
-mltrE
+modf
 module version is too low
-mondE
 monospace
-mrtlE
+mvba
+mwlb
 myanmar
 myanmar_category
 myanmar_position
-mylMA
-mylMwNtF
+mylM
 name table missing
 negative height while rastering
 nested DEFS
 nested frame access
+nhka
+nlah
 no Unicode glyph name found
 no error
-nrekH
-nrkvH
-ntalH
-ntelD
 num_features=%d shaper_func=%p
 num_features=%d shaper_list=%p
 omjlomjvomjthangul_shaping_feature
-ooaLu,
-ookNtB
-ookNw2t)
 opcode syntax error
 out of memory
 p != NULL
-p AWH
-pA]A\[
-pA^_^][
-pA_A\_][
 pango_context_get_font_map
 pango_context_get_language
 pango_context_get_matrix
@@ -1684,7 +1209,7 @@ pango_ft2_get_context
 pango_ft2_get_unknown_glyph
 pango_ft2_new_face_substitute
 pango_ft2_render
-pango_ft2_render: Unrecognized glyph bitmap pixel mode %d
+pango_ft2_render: Unrecognized glyph bitmap pixel mode %d\n
 pango_ft2_render_layout
 pango_ft2_render_layout_line
 pango_ft2_render_layout_line_subpixel
@@ -1756,69 +1281,45 @@ pats->ref_count > 0
 pattern
 pattern != NULL
 pixelsize
-pmccE
 pmcclcolkramkmkmgilr
 prgname
 property
-r(w&A
-r=D8v
+rafc
 raster corrupted
 raster overflow
 raster uninitialized
 res == FcResultMatch
 res == FcResultMatch || res == FcResultNoMatch
-rjuGt
-rmaSt
-rmhKu
-rmunE
-rmyMt0
-sYHcL$HH
+rjuG
+rlig
+rmhK
+sans
 sea_category
 sea_position
 serif
+serp
+sinh
+size
 slant
 spacing
+sqrt
 stack overflow
 start [%p..%p] (%lu bytes)
 struct hb_shape_plan_t *__cdecl hb_shape_plan_create(struct hb_face_t *,const struct hb_segment_properties_t *,const struct hb_feature_t *,unsigned int,const char *const *)
 struct hb_shape_plan_t *__cdecl hb_shape_plan_create_cached(struct hb_face_t *,const struct hb_segment_properties_t *,const struct hb_feature_t *,unsigned int,const char *const *)
+stsp
 style
+svba
 svbaswlbmvbamwlb
+swlb
 syllable
-t	8_(u
-t"A88t
-t"E94
-t$ ATAVAWH
-t$ AVH
-t$ UH
-t$ UWAUAVAWH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$ ff
-t$0+C
-t$0Ic
-t$8H+
-t$8Hc0I
-t$@I+
-t$@fA
-t$Hfff
-t,fff
-t3<-t/
-t9fff
-t=L95
-tQ;(}MH
-tabNtJ
-tcH951A
-tcH;C
-tesmH
-tg@89tUH
+tanh
+tcjc
+thai
+tini
 tiniidemaniflosigilr
-tlacE
-tlacH
+tkun
 tlacgilcsrucnrekagiltlcr
-tlfdH
-tlfdu
 too few arguments
 too many extensions
 too many function definitions
@@ -1826,11 +1327,9 @@ too many hints
 too many instruction definitions
 too many modules
 too many registered caches
-ttI9<
-u	A!B
-u/L9k
-uLA9^(v>
-uleTt
+trev
+tsid
+uleT
 unicode_props0
 unicode_props1
 unimplemented feature
@@ -1839,47 +1338,17 @@ uniscribe-bug-compatible
 unknown file format
 unlisted object
 unsupported glyph image format
-uruGt
-vFfff
-vcu2H
+uruG
+utav
 verticallayout
 void __cdecl hb_shape_plan_plan(struct hb_shape_plan_t *,const struct hb_feature_t *,unsigned int,const char *const *)
-w!H;{
 weight
 width
-x ATAVAWH
-x AUAVAWH
-x AVH
-xA_A^A]A\_^][
-xA_A^A][
-x_^][
-xnhPw1t\
 xppwpp
 xpxxxx
-yXTLFD
-yXTLFDH
-yXTLFDu
 z?aUY
 zc%C1
 zh-Hans
 zh-Hant
 zh-cn
 zh-hk
-{ ATAVAWH
-|$ ATAUAVAW
-|$ ATAUAVAWD
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVH
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ t	H
-|$0-H
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$HfA
-|$PD;
-|$PG9$
-|$PfA
