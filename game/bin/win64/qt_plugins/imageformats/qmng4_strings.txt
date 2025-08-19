@@ -1,96 +1,24 @@
-	;KTs&
-	A;JTs
-	A;KTs
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A\^]
- A\_]
- A\_^
- A]A\]
- A]A\^
- A]A\^][
- A]A\_
- A^A\_
- A^A]A\
- A^A]_
- A_A^A\^]
- A_A^A]A\]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
  Base Class Array'
  Base Class Descriptor at (
- C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Type Descriptor'
- data
  delete
  delete[]
- new[]
- t#E3
- t?D9
+ new
  throw(
  volatile
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
-"e?<<<<<<l?
 #?qt_metacast@QImageIOPlugin@@UEAAPEAXPEBD@Z
 $?red@QColor@@QEBAHXZ
-$A;OTsu
-$Ib?s
-%GoU?*
-&?PPPPPPP?
-(;~@r
-(;~Dr
 (?setDevice@QImageIOHandler@@QEAAXPEAVQIODevice@@@Z
-(A;l$D
-(A]_][
-(A_A^A\_
-(A_A^A][
-(A_A^_[
-(D$ H
-(D$@H
-(E;n@
-(T?j?Y
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$0H
-(t$@D
-(t$@H
-(t$PH
-(t$`H
-(|$0H
 )?setFormat@QImageIOHandler@@QEAAXAEBVQByteArray@@@Z
 )?setFormat@QImageIOHandler@@QEBAXAEBVQByteArray@@@Z
-)t$0I
-)t$0f
-)t$@E
-)t$Pf
-)|B?d!
 ,<ellipsis>
-,HR>O
 -64OS
--BH>t
-..om?
-.>PJ;I:qE>
 .?AUQFactoryInterface@@
 .?AUQImageIOHandlerFactoryInterface@@
 .?AVQImageIOHandler@@
@@ -104,214 +32,17 @@ $Ib?s
 .?AVbad_typeid@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.i?0@I
-.pdata
-.text
-/2GG>!B
-/L9\$ t
-0><[cZUg^>
-0A\_^
-0A\_^][
-0A]A\_
-0A^A\_^]
-0A^A]A\
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^_
-0X8b?~
 1#IND
 1#INF
 1#QNAN
 1#SNAN
 1.0.10
 1.2.5
-7;|$0t,
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8AMAgt
-8A^A]_^
-8A_A\
-8BFu	8BG
-8BFu	8BP
-8BGRst
-8BGtbA
-8BGtyA
-8BJt?A
-8BRu	8BS
-8CSIDI
-8CxtcL
-8D$8t
-8DEEnI
-8DGKbt
-8DNEIt
-8DNEMt
-8EMItt
-8ETLPt
-8EVASI
-8EVOMt
-8Ft0A
-8GNPIt
-8GxtcH
-8Ht*A
-8IFEDt
-8IPXeI
-8IRPft
-8ISABt
-8JJt'
-8JVtqA
-8KCABt
-8KEESI
-8KYBDI
-8L$8t
-8LDNEt
-8MARFI
-8MORPt
-8MRETt
-8MRETu
-8MRETu+H
-8MRETu.H
-8MRETu/H
-8MRETu4H
-8MRETu5H
-8MRETu:H
-8MRETu<H
-8MRHct
-8NGAMt
-8NOLCt
-8PCCiI
-8PILCt
-8POOLI
-8PORDI
-8QupI
-8RDHDt
-8RDHIt
-8RDHMt
-8RDROI
-8RDROt
-8SNRtM
-8TADII
-8TIBst
-8TLPPt
-8TLPsI
-8TNveI
-8TSAPI
-8TSAPt
-8TSIhL
-8WOHSt
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-8gADpt
-8ke?;
-8sYHpt
-8tXEtI
-8tXTiI
-8tXTzI
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9D$@t
-9EVASt
-9RDHMt
-9RDHMt#E3
-9RDHMt$E3
-9RDHMt)E3
-9RDHMt+E3
-9TNvet
-9qDvCH
-9t$0t
-9t$8t
-9t$P~98\$vt3H
-9z@v.H
-9zDv0H
-9|$Ht,E3
-9|$Hu<
-9|$Pt
-:>)*	v
-:>t6k'
-:AMAgt
-:BGRst
-:CSIDt
-:DEEnt
-:DGKbt
-:EMItt
-:ETLPt
-:EVASt
-:EVOMt
-:IFEDt
-:IPXet
-:IRPft
-:ISABt
-:KCABt
-:KEESt
-:KYBDt
-:LDNEt
-:MARFt
-:MORPt
-:MRETt
-:MRHct
-:NGAMt
-:NOLCt
-:PCCit
-:PILCt
-:POOLt
-:PORDt
-:RDHDt
-:RDHIt
-:RDHIu
-:RDHMt
-:RDROt
-:SNRtt
-:TADIt
-:TIBst
-:TLPPt
-:TLPst
-:TNvet
-:TSAPt
-:TSIht
-:WOHSt
-:gADpt
-:sYHpt
-:tXEtt
-:tXTit
-:tXTzt
-;.uAL
-;7sUH
-;?tJA
-;DNEIu
-;DNEMu
-;\$p|
-;n<sX
-;u<s=H
-< tG<	tC
-<$-Hc
-<$@@@@u
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
-<0tL<1tHH
-<0|/<9
-<1~1<3~$<4t9<5t
-<>#n2
-<?u7H
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+2\n0(Y
+2\vp(Y
 <ellipsis>
 <unknown>
-<z~$<A|
+=\r?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
 ??0QByteArray@@QEAA@PEBD@Z
 ??0QImage@@QEAA@HHW4Format@0@@Z
 ??0QImage@@QEAA@XZ
@@ -330,11 +61,8 @@ $Ib?s
 ??4QImage@@QEAAAEAV0@$$QEAV0@@Z
 ??4QImage@@QEAAAEAV0@AEBV0@@Z
 ??BQColor@@QEBA?AVQVariant@@XZ
-?CuND8g
-?R0I?
 ?Transformation could not be initialized
 ?append@QListData@@QEAAPEAPEAXXZ
-?blue@QColor@@QEBAHXZ
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?connectNotify@QObject@@MEAAXPEBD@Z
@@ -354,124 +82,14 @@ $Ib?s
 ?green@QColor@@QEBAHXZ
 ?height@QImage@@QEBAHXZ
 ?invalidate@QColor@@AEAAXXZ
-?isOpen@QIODevice@@QEBA_NXZ
-?isReadable@QIODevice@@QEBA_NXZ
 ?metaObject@QImageIOPlugin@@UEBAPEBUQMetaObject@@XZ
-?peek@QIODevice@@QEAA?AVQByteArray@@_J@Z
-?qDebug@@YAXPEBDZZ
-?qFree@@YAXPEAX@Z
-?qWarning@@YAXPEBDZZ
-?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
-?read@QIODevice@@QEAA_JPEAD_J@Z
 ?removeGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
 ?shared_null@QListData@@2UData@1@A
 ?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
 ?userType@QVariant@@QEBAHXZ
 ?write@QIODevice@@QEAA_JPEBD_J@Z
-@.data
-@.reloc
-@.rsrc
-@8p3tEH
-@8pTuW@8pUuQ
-@8rPt%
-@8rQt%
-@8s5t
-@8sxtwH
-@8t$8t
-@8xTu
-@8xUt
-@8|$8t
-@@@@H
-@A\_[
-@A\_^
-@A]A\]
-@A]A\_^]
-@A]_]
-@A^A\_
-@A^A]A\
-@A_A^A]A\_
-@A__^
-@SAUAVAWH
-@SAUH
-@SAVH
-@SUVATAUH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATH
-@SUVWH
-@SUWAUH
-@SVWATAUAVAWH
-@SVWATH
-@SVWAVH
-@SWAVAWH
-@UATAUAVAWH
-@UAUH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWH
-@USWAUAVH
-@UVATAVAWH
-@UVATH
-@UVWATAVH
-@UVWH
-@VATH
-@VAUH
-@VWAUAVAWH
-@WATAVAWH
-@WAVAWH
-@p;pTv@E3
-@p@8x5t
-@text
 A required callback is not defined
-A03>A|
-A8Gxt
-A8KLtKA9
-A8t$L
-A8x@tTA
-A8}3t
-A8}4t
-A9	u<A
-A9	uxA
-A;1~	I
-A;@TsE
-A;BTsc
-A;CTsn
-A;PLr
-A;Q@r
-A>l$/
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-AHfffff
-AK>(v
-AMAgH
-AT9zTv9L
-ATAUAVAWH
-ATAUAVH
-ATAVH
-ATAWH
-A\_^][
-A]A\_
-A]A\_^[]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A]A\_^
-A_A]^]
-A_A^A\]
-A_A^A\_[]
-A_A^A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^][
-A_A^^[
 Application signalled CMS error
 Application signalled I/O error
 Application signalled an error
@@ -480,24 +98,8 @@ Application signalled timing error
 April
 Attempt to access an non-existing entry
 Attempt to access the wrong chunk
-Au9@8s
 August
-B(I9A(u
-B08A0t&H
-B08A0u
-B<9B8|
-BD8BRuz
-BGRsH
-BGRsL
-BpD:P@s
-C0HcH
-C48T$ht/8T$pu
-C5R?	
-C9ppv<H
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\imageformats\qmng4.pdb
-CL:>8
-CSIDH
-CWD>~3
 Canvas_style is invalid
 Chunk cannot be empty
 Chunk cannot occur multiple times
@@ -507,148 +109,12 @@ Chunk out of sequence
 Chunk-length is invalid
 Chunklength is incredibly large
 CorExitProcess
-Cp@8xL
-D W?{W
-D$ @@@@H
-D$ AMAgH
-D$ BGRsH
-D$ CSIDH
-D$ DEEnH
-D$ DGKbH
-D$ DNEIH
-D$ DNEMH
-D$ E3
-D$ EMItH
-D$ ETLPH
-D$ EVASH
-D$ EVOMH
-D$ GNPIH
-D$ IFEDH
-D$ IPXeH
-D$ IRPfH
-D$ KCABH
-D$ KEESH
-D$ KYBDH
-D$ LDNEH
-D$ MORPH
-D$ MRETH
-D$ MRHcH
-D$ NGAMH
-D$ NOLCH
-D$ PCCiH
-D$ PILCH
-D$ POOLH
-D$ PORDH
-D$ RDHDH
-D$ RDHIH
-D$ RDHMH
-D$ RDROH
-D$ SNRtH
-D$ TADIH
-D$ TIBsH
-D$ TLPPH
-D$ TLPsH
-D$ TNveH
-D$ TSAPH
-D$ TSIhH
-D$ WOHSH
-D$ gADpH
-D$ sYHpH
-D$ tXEtH
-D$ tXTzH
-D$"f;
-D$$f;
-D$&8\$&t-8X
-D$(E3
-D$4D+
-D$8E3
-D$8HcH
-D$@@@@@H
-D$@D8
-D$@fD
-D$DE3
-D$DH9
-D$PH#
-D$PL9oXt
-D$PfA;
-D$PfE
-D$TfA
-D$XA;
-D$XE3
-D$XfD
-D$`t#E;
-D$p H
-D$p@8
-D$pE3
-D$pH;
-D$xA;
-D$xfD
-D+c4+k<H
-D80tEH
-D80tTH
-D86tuH
-D8B@t
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8nKtOD8oKt
-D8nMt
-D8nNtd
-D8nOt
-D8nPttH
-D8nQtI
-D8oLt
-D8t$ t
-D9aTv6
-D9d$ 
-D9n uKH
-D9n@vAH
-D9nDv@H
-D9nTv.H
-D;+t1
-D;B@r
-D;BDr
-D;BLr
-D;FTr
-D;GTr
-D;JDr
-D;R@r
-D;RDr
-D;[pr
-D;`Tr
-D;gTsf
-D;gTsh
-D;k@}
-D;k@}~H
-DEEnH
-DGKbH
-DNEIH
-DNEMH
 December
 DecodePointer
 DeleteCriticalSection
 Delta block width and or height invalid
 Destination object for PAST must be abstract
-E8T$@
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-E;ATv#E3
-E;BDr
-E;BTr
-E;J@r
-E>nEA
-E@NOLCH
-EMItH
 ENDL without matching LOOP
-EPD9UL
-ETLPH
-EVASH
-EVOMH
 EncodePointer
 Encountered unexpected end-of-file
 EnterCriticalSection
@@ -656,11 +122,6 @@ EnumSystemLocalesA
 Event type is invalid
 ExitProcess
 F&?scanLine@QImage@@QEAAPEAEH@Z
-F0HcH
-F8T$`u
-F>qUxv
-FT9GTs
-F\ffff
 FatalAppExitA
 February
 FlsAlloc
@@ -673,10 +134,7 @@ FreeLibrary
 Friday
 Function is invalid at this point
 Function not yet implemented
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G0Hc	H
-G89w8tuH
-GNPIH
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -708,20 +166,9 @@ GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
 Global data length invalid
-H(H9J(u
-H+M0x
-H9L$Xt'H
-HA^_][
-HA^_^[
 HH:mm:ss
-H[><y5
+HMXB
 Handle could not be initialized
-HcC H
-HcD$8H
-HcH<H
-HcO H
-HcT$8McJ
-Hct$@H
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -729,17 +176,6 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-Hp:Q@u
-Hp@8y5
-Hp@8yQt
-I94$tt
-IFEDH
-IPXeH
-IRPfH
-ISABH
-IcqHH
-IcqHI
-Il?333333c?
 Image is frozen
 Image is larger than defined maximum
 Image is not an animation
@@ -751,38 +187,12 @@ Internal error in libmng
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
-JDf;JBu
 January
-K0HcQ
-K0LcY
-KCABH
+July
+June
 KCABISABPILCNOLCIFEDRDHDCSIDLDNEMARFTADIDNEIRDHIGNPIPOOLNGAMDNEMRDHMEVOMTSAPETLPTLPPMORPEVASKEESWOHSMRETDGKbMRHcTNveAMAgPCCitXTiDEEnBGRstXEtEMItPhotoshop ICC profile
-KEESH
 KERNEL32.dll
-KYBDH
 Keyword cannot be zero-length
-L!l$HL!l$@
-L$ H3
-L$ SUVWATH
-L$ SUVWH
-L$ fffffff
-L$0<`t
-L$0H3
-L$0H;
-L$8H3
-L$@;|
-L$@E3
-L$HH3
-L$PH3
-L$PfH
-L$PfI
-L$`H3
-L$`uT
-L$hH3
-L$p;S<s/
-L$pH3
-L9+uC
-L?UUUUUUU?
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -790,35 +200,24 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LDNEH
 LOOP encountered when playback cache is turned off
 Layernr out of bounds
-LcA<E3
-Lc\$8HcJ
 LeaveCriticalSection
 LoadLibraryW
-M9.t=H
-M94$tiA
-M94$t|A
-MARFH
 MHDR simplicity indicates unsupported feature(s)
 MM/dd/yy
 MNG error %d: %s; chunk %c%c%c%c; subcode %d:%d
-MORPH
-MRETH
-MRHcH
+MNG\r\n
 March
 Mask type is invalid
-Mc,$E
 MessageBoxW
 Method is invalid
 Missing IDAT chunk(s)
 Missing PLTE chunk
 Monday
 MultiByteToWideChar
-N3`d?
-N>O=I9
-NGAMH
+NKeb
+NULL
 NULL separator not found
 No MNG header (MHDR) found
 No error
@@ -828,38 +227,18 @@ No sRGB-profile defined for CMS
 No valid header-chunk
 Norwegian-Nynorsk
 November
-O0HcQ
-OF>;^
 Object already exists
 Object does not exist
 October
 Out of memory
-P>q_Y~
-PA\_^][
-PA^A]A\_^][
-PCCiH
-PILCH
-POOLH
-PORDH
 Palette-index out of bounds
 Parent chunk not found
 Playtime out of bounds
-Q5rHg,>
 QMngHandler::canRead() called with no device
 QtCore4.dll
 QtGui4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
-RDHDH
-RDHIH
-RDHIu
-RDHJt
-RDHMH
-RDHMt
-RDHMt E3
-RDHMt(E3
-RDHMu
-RDROH
 RSDSh
 RaiseException
 Reading suspended; waiting for I/O to catch up
@@ -870,22 +249,8 @@ RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
 S,?setRgb@QColor@@QEAAXHHHH@Z
-S>$hkDh$h>[2
-SATAVH
+S;uD
 SEEK suspension; application decides
-SNRtA
-SNRtH
-SRuEH
-SRuJH
-SRuLH
-SRuPL
-SRuZH
-SUAVAWH
-SUVWATH
-SUWAVH
-SVAVAWH
-SVWATAUAVAWH
-SWATH
 Saturday
 September
 SetConsoleCtrlHandler
@@ -895,18 +260,7 @@ SetUnhandledExceptionFilter
 Sleep
 Sunday
 SystemFunction036
-T$0E3
-T$PE3
-T$XE3
-T$pH3
-TADIH
 TERM misplaced during creation of MNG stream
-TIBsH
-TLPPH
-TLPsH
-TNveH
-TSAPH
-TSIhH
 Target object for DHDR must be concrete
 Target object must have alpha-channel
 TerminateProcess
@@ -930,71 +284,22 @@ Thursday
 Timer suspension; normal animation delay
 Too much data in IDAT chunk(s)
 Tuesday
-UA>N0Wl
-UATAUAVAWH
-UATAUH
-UATAVAWH
-UAUAVH
 UNKNOWN
-USVWATAUH
-USWATAVAWH
-UUUUUU
-UVATH
-UVAUAWH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
-UWAUH
 UnhandledExceptionFilter
 Unknown critical chunk encountered
 Unknown error
 Unknown exception
-VATAUH
-VD$pf
-VT$pD
-VWATAUAVH
-VWATAUAWH
-VWATH
-VWAUAVAWH
-VWAUAVH
-VWAWH
-WATAUAVAWH
-WATAUH
-WATAVH
-WOHSH
-WYfff
-WaNd?
 Wednesday
 WideCharToMultiByte
 WriteFile
 Writing was unsuccessful; disk full?
-XA_A^A]A\
-XA_A^_[
-Y>kX>M
-YD$`f
-Z\>z8
-Zod(^?
-[*ncd>0
 [thunk]:
-\$ UVWATAUAVAWH
-\$ UWAUH
-\$ WH
-\$0H;
-\$0HcJ
-\$0t"H
-\$0t[H
-\$0u(E3
-\$8L3
-\$@tf
-\$AE3
-\$PA;
-\$PM+
-\$XA+
-\$gm?
-])6M>&
-]>)2X
-^RfN>
+\f?blue@QColor@@QEBAHXZ
+\f?qDebug@@YAXPEBDZZ
+\f?qFree@@YAXPEAX@Z
+\n?isReadable@QIODevice@@QEBA_NXZ
+\r?qWarning@@YAXPEBDZZ
+\r?read@QIODevice@@QEAA_JPEAD_J@Z
 __based(
 __cdecl
 __clrcall
@@ -1011,22 +316,10 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
-_oD>Kg
-` AUH
-`+!]?
-`.rdata
-`A\_]
-`A\_^
-`A]_]
-`A^A\[
-`A^A]]
-`A^A]_[]
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1073,21 +366,22 @@ _oD>Kg
 `vtordispex{
 `vtordisp{
 abcdefghijklmnopqrstuvwxyz
+acos
 america
 american
 american english
 american-english
+asin
+atan
 atan2
 australian
-b?^Cy
 bad exception
 belgian
+bool
 britain
-buildkey=Windows x64 msvc release full-config
-c AUH
-c0&>`
-c?FA@s}
 canadian
+ceil
+char
 char 
 china
 chinese
@@ -1102,19 +396,9 @@ coclass
 cointerface 
 const
 const 
+cosh
 czech
-d$ 8Cxt.L
-d$ UH
-d$8@8wL
-d$8H+
-d$8M+
-d$XLc
-d$`E3
-d$pHc
-d$x8Cx
-d?000000`?
 dddd, MMMM dd, yyyy
-debug=false
 deflate
 deflateEnd
 deflateInit2_
@@ -1139,89 +423,37 @@ enum
 evNT points to unknown SEEK
 extern "C" 
 f"?qt_metacall@QImageIOPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-f9BBu
-f9BJuBA
-f9BLuNA
-f9BTL
-f9JNu^
-f9JPu
-f9JPujA
-f9JRu
-f9P0t	H
-f9i0v*H
-f9q0v*H
-f9r0t
-fA;D$
-fD9 t
-fD9#u
-fD9:r
-fD9A0v	H
-fD9t$b
-fJBGo
-fZ9NTv$H
-fffff
-ffffff
-fffffff
+fabs
 float
 floor
+fmod
 french-belgian
 french-canadian
 french-luxembourg
 french-swiss
 frexp
-gADpH
 generic-type-
 german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffA+
-gfffffffH
 great britain
-h>1my
-hA\_^[
 holland
 hong-kong
 inflate
 inflateEnd
 inflateInit_
+int 
 invalid fieldvalue (generic)
 invalid frame/image height
 invalid frame/image width
 irish-english
 italian-swiss
-j>>A?1
-j?V()
-j?{$*
-l$ ATAUAVH
-l$ D!
-l$ VATAUH
-l$ VAUAVAW
-l$ VH
-l$ VWATH
-l$ WH
-l$0A+
-l$0tLH
-l$@8Cx
-l$@@2
-l$@A_A^A]^
-l$P8Cx
-l$PE3
-l$PfD
-l$XLc
-l$`8Cx
-l$`@8
-l$`E2
-l$hA8E@
-l$hD;
-l$hE;
-l$hfA
-l$pE3
-l$pHc
+kU'9
 lcms encountered an error
 ldexp
 log10
+long
 long 
 mng trace: iFuncnr: %d iFuncseq: %d zFuncname: %s
 mng_cleanup
@@ -1514,34 +746,30 @@ mng_version_release
 mng_version_so
 mng_version_text
 mng_write
-n]?iJ
+modf
 new-zealand
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
-oI>O7
+o\n?isOpen@QIODevice@@QEBA_NXZ
 operator
-p WATAUAVAWH
-p WATAUH
-pattern=QT_PLUGIN_VERIFICATION_DATA
+p\f?peek@QIODevice@@QEAA?AVQByteArray@@_J@Z
+pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
 portuguese-brazilian
+powf
 pr china
 pr-china
 private: 
 protected: 
 public: 
 puerto-rico
-qS>g?h3
 qmng4.dll
 qt_plugin_instance
 qt_plugin_query_verification_data
-ra@8s
-s WATAUAVAWH
-sYHpH
-s\HcL$HH
 short
 short 
 signed 
+sinh
 slovak
 south africa
 south korea
@@ -1566,131 +794,29 @@ spanish-peru
 spanish-puerto rico
 spanish-uruguay
 spanish-venezuela
+sqrt
 static 
 std::nullptr_t
 struct 
 swedish-finland
 swiss
-t"fffff
-t$ @80
-t$ ATH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WATAVH
-t$ WATH
-t$ WAUAVH
-t$ WH
-t$(A+
-t$08Cx
-t$0M+
-t$0t0H
-t$0tKH
-t$0tkH
-t$0tyH
-t$8E+
-t$@8CxtuH
-t$@E2
-t$XE3
-t$hE;
-t$pHc
-t*HcO
-t0<@t
-t29x<t-A
-t=ffffff
-t@;~ w;H
-tM9x<tH
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tXEtH
-tXTiH
-tXTzH
-tXTzfA
-tb<A|M<P
+tanh
 template-parameter-
 tier0.dll
-tnLcV
 trinidad & tobago
-u	A!A
-u"E9Q t
-u&E8T$@w
-u-fE;
-u.D;a8}(E
-u.fE;
-u1!D$0
-u5E9Q t
-u7fE;
-u98Cxt
-u9fE;
-u=E8T$@w
-u?@8{^t9H9
-u?E8T$@w
-uBI98u2I
-uFE8T$@w
-uLffff
-uNM9u
-uQI91tLH
-u_D9u
 union 
 united-kingdom
 united-states
 unsigned 
-version=4.8.3
 virtual 
+void
 void 
 volatile
 volatile 
-v}`[>
-wRtA-
 wchar_t
-x ATAUAVH
-x ATAUAWH
-x ATH
-x#D;s8}
-x_^][
 z?aUY
-zY;>u:m	
 zc%C1
 zlib encountered an error
-zux!l$ E3
 {8?width@QImage@@QEBAHXZ
 {flat}
 {for 
-|$ A+
-|$ A8[L
-|$ ATAUAV
-|$ ATAUAVAW
-|$ ATAUAVH
-|$ ATH
-|$ H9
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$08Cxt
-|$0@8
-|$0A8Fx
-|$0D+
-|$0tTH
-|$0tqH
-|$0txH
-|$0t~H
-|$8D+
-|$@-D
-|$@-H
-|$@A+
-|$@D;
-|$@E+
-|$HfA
-|$PD8
-|$`E2
-|$`uu
-|$pHc
-}'ffffff
-}7ffff
-}Lfff
-}yfffffff
-~/8\$vt)H
-~@fff
-~ID;c
-~MfE;
-~Offfff

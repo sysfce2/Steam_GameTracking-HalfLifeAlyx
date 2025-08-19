@@ -1,34 +1,9 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-  (%s, v. %3d) '%s'
+  (%s, v. %3d) '%s'\n
  -enable_qaccessible
- -pid %d
  -retail
- 9(X`
- ;^8|
- A^A\_
- A^_[
- A^_]
- A^_^
- A_A^A\
- A_A^A]A\_H
- A_A^]
- A_A^_
  open 
- vJH+
 %f %f %f %f
 %i %i %i %i
-(D$ L
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$ H
-(t$@H
-(|$ H
-(|$@H
-)t$ H
-+C$Hc
-,|%)v
--LCPP
 -consoleapp
 -enable_qaccessible
 -nofocus
@@ -87,10 +62,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -101,66 +76,25 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A^^]
-0A^_^
-0A__^
-0v0b1
 0x%016llX
-131022120000Z
-141022000000Z
-181004000000Z
-1Jr&#
-200527195941Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2H9t$(t
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8SdaiB
-9C |K
-9_p~$
-9l$pu
-9qxs	
-9t$Pu
-;A ~W
-;C ~M
-;D$@@
-;GHt;
-;_0u	H
 <Unknown Shutdown Context>
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-=============== End VConsole Buffered Messages ===============
-=============== Excessive Messages Truncacted - Buffer Size: %d bytes ===============
-=============== VConsole Buffered Messages ===============
-==========================================================
-==============================================================
-=NAHCu&
-?5zlO
+=============== End VConsole Buffered Messages ===============\n
+=============== Excessive Messages Truncacted - Buffer Size: %d bytes ===============\n
+=============== VConsole Buffered Messages ===============\n
+==============================================================\n
+==========================================================\n
 ??0CThread@@QEAA@XZ
 ??0CThreadEvent@@QEAA@_N@Z
 ??1CThread@@UEAA@XZ
@@ -198,32 +132,7 @@
 ?Start@CThread@@UEAA_NIW4ThreadPriorityEnum_t@@@Z
 ?Wait@CThreadSyncObject@@QEAA_NI@Z
 ?WaitForCreateComplete@CThread@@MEAA_NPEAVCThreadEvent@@@Z
-@.data
-@.tls
-@8,8u
-@84:u
-@8k0tvH
-@8t$H
-@A_A^A\
-@A_A^A]A\_
-@A_A^A]A\_^]H
-@SAVH
-@SUWATAVH
-@SWAVH
-@UAVAWH
-@UVAVAWH
-@VWAVH
-@fE9|
-A8H	P(
-A;^@|
-ADONH
-AINFA
-AOPPA
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-A_A^A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 AcquireSRWLockExclusive
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
@@ -234,91 +143,55 @@ AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
-Bih9ixsJ
 BinaryProperties_GetValue
-C LcC(H
-C-yh/
-CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
-CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
-CD$8D
-CFGVH
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!\n
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!\n
 CGlobalConfigValueRegistry::HookUpConfigValue
-CH=3'
-CHANI
 CMemAllocSystemInitialize
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
-CPA2F
 CSchemaRegistration::RegisterAllModuleData
 CSocketConnection::ResetEndpoint
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<struct VConCommMessage_t *,0>::CTSQueue
 CTSQueue<struct VConCommMessage_t *,0>::Push
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlRBTree overflow with %u elements!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<unsigned int,struct MessageDataInfo_t *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,struct MessageDataInfo_t *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,struct MessageDataInfo_t *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
-CVARH
 CVConComm::Init
 Cannot recover from failed socket shutdown.
-Ch+Cx
-Ch;Cx
 CloseSocket
 CommandLine
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigurationSystem_001
 ConnectInterfaces
-Connection will timeout in %d seconds...
+Connection will timeout in %d seconds...\n
 CreateInterface
 CreateNonBlockingSocket
-D$ E3
-D$ fH
-D$,2CP$
-D$0H3L$0H3
-D$8fH
-D$<9T$0wE9T$4w?9T$8w9;
-D){(t
-D83t!H
-D8t$P
-D9>~WI
-DNMCH
 DebugTextureInfo001
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
 Dumps the state of all existing VConsole pipes
-Duplicate PIPE_CLOSE message received for pipe (%d|%s)!
-Duplicate PIPE_OPEN_ACK message received for pipe (%d|%s)!
-Duplicate PIPE_OPEN_REQUEST message received for pipe (%d|%s)!
-E0C07
+Duplicate PIPE_CLOSE message received for pipe (%d|%s)!\n
+Duplicate PIPE_OPEN_ACK message received for pipe (%d|%s)!\n
+Duplicate PIPE_OPEN_REQUEST message received for pipe (%d|%s)!\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
 EventSystem001
-F8<+u
-FATAL ERROR: unable to register all schema data: %s
-FONA@
+FATAL ERROR: unable to register all schema data: %s\n
 FindWindowA
 FlattenedSerializersVersion001
 FontManager_001
 G%lld
-G1t{%
-GNIPH
+GCTL
 GSFailure
-GT$(A
-GT$8H
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -330,45 +203,23 @@ GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
 GetTickCount
-H0F08
-H1D$0
-H97t<
-H9\$8t
-H9l$0t
-HA_A^^]
 HammerMapLoader001
-HcH<H
-HcI H
-HcI(H
-Hc{ ;{0u	H
 HelpSystem_001
 HostStateMgr001
 IQuickTime001
-IfG9t
 InitializeSListHead
 InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 Invalid connection type.
 InvokeMiniDumpHandler
-K LcC(Ic
 KERNEL32.dll
 KeyValueCache001
 KeyValuesSystem
-L$ E3
-L$ SH
-L$ fI
-L$(fH
-L$(fI
-L$0E3
-L$@H1D$0
 LOG_GENERAL
-LcA<E3
-LcC(H
-LcCPH
 Localize_001
 LoggingSystem_FindChannel
 LoggingSystem_GetChannel
@@ -384,18 +235,16 @@ LoggingSystem_SetChannelVerbosity
 MATCHFRAMEWORK_001
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
-MODMH
-Make VConsole Foreground(): RemoteWindow:0x%p
-Make VConsole Foreground(): ReturnToWindow:0x%p, Timeout:%d, UseHostPath:%d
+Make VConsole Foreground(): RemoteWindow:0x%p\n
+Make VConsole Foreground(): ReturnToWindow:0x%p, Timeout:%d, UseHostPath:%d\n
 MapListService_001
 MaterialUtils_001
 MeshSystem001
 MeshUtils001
-Message Version Mismatch: '%s', Expected %d, Got %d
-Message received for VConsolePipe_t with no registered helper (%s)
-Message received on closed VConsole Pipe! (%s)
+Message Version Mismatch: '%s', Expected %d, Got %d\n
+Message received for VConsolePipe_t with no registered helper (%s)\n
+Message received on closed VConsole Pipe! (%s)\n
 ModelDocUtils001
-NAHCH
 NavSystem001
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -404,14 +253,15 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-No VConsole, Ignoring.
-Ordered constructor wrapped type has no default constructor.
+No VConsole, Ignoring.\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 ParticleSystemMgr003
 Physics2 Interface Old v0.5
 PhysicsBuilderMgr001
+Pipe
 Plat_DebugPrint
 Plat_ExitProcess
 Plat_FloatTime
@@ -426,13 +276,9 @@ PropertyEditorSystem_001
 QWidget
 QueryPerformanceCounter
 QueuedLoaderVersion001
-RCPPH
-RCPPup;A |cE
-ROPPA
-ROPPtA
 RSDS/
-RegisterConfigValue: Unknown error constructing config value "%s"!
-Rejecting registering message '%s'. Already registered to an alternate handler.
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
+Rejecting registering message '%s'. Already registered to an alternate handler.\n
 Release
 ReleaseSRWLockExclusive
 RenderDevice003
@@ -446,10 +292,6 @@ ResourceHandleUtils001
 ResourceManifestRegistry001
 ResourceSystem013
 RtlUnwindEx
-SCFVH
-SVATH
-SVMEH
-SVMIH
 SceneSystem_002
 SceneUtils_001
 SchemaSystem_001
@@ -481,11 +323,6 @@ StackTools_InstallModuleMappingListener
 StackTools_RemoveModuleMappingListener
 StatsService_001
 SteamAudio001
-T$ Lc
-T$0E3
-T$xE3
-TNRPH
-TNRPu
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
@@ -496,11 +333,7 @@ ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-UATAUAVAWH
-UAVAWH
 USER32.dll
-UVATAUAWH
-UVWATAUAVAWH
 Unknown protocol.
 UserInfoChangeService_001
 VApplication001
@@ -509,20 +342,20 @@ VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm
-VConComm Discarding Oversized Outgoing Message: '%s' (%d bytes)
-VConComm Failed To Initialize!
+VConComm Discarding Oversized Outgoing Message: '%s' (%d bytes)\n
+VConComm Failed To Initialize!\n
 VConComm001
 VConCommThread_PC
-VConsole Connected.
-VConsole Rejecting Message: '%s', No Message Handler Claimed Ownership.
+VConsole Connected.\n
+VConsole Rejecting Message: '%s', No Message Handler Claimed Ownership.\n
 VConsole disconnect
-VConsole pipe (%s): PIPE_CLOSE message received - PIPE CLOSED
-VConsole pipe (%s): create message received, creating new pipe
-VConsole pipe (%s): open ack received - PIPE OPEN
-VConsole pipe (%s): open request accepted - PIPE OPEN
-VConsole pipe (%s): open request denied
-VConsole pipe (%s): open request parried
-VConsole pipes (game-side): %d
+VConsole pipe (%s): PIPE_CLOSE message received - PIPE CLOSED\n
+VConsole pipe (%s): create message received, creating new pipe\n
+VConsole pipe (%s): open ack received - PIPE OPEN\n
+VConsole pipe (%s): open request accepted - PIPE OPEN\n
+VConsole pipe (%s): open request denied\n
+VConsole pipe (%s): open request parried\n
+VConsole pipes (game-side): %d\n
 VConsole2
 VDebugService_001
 VEngineCvar007
@@ -551,9 +384,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VTCAH
-VWAVH
-VWAWH
 V_GetRtSupportFunctions
 V_UTF16ToUTF8
 V_atof
@@ -564,38 +394,24 @@ V_snprintf
 V_sscanf
 V_stricmp_fast
 V_vsnprintf
-Valve0
-Valve1
 VisBuilder_001
-WATAUAVAWH
-WATAVH
-WAVAWH
 WS2_32.dll
 WSAGetOverlappedResult
 WSARecv
 WSASend
 WaitForMultipleObjects
 WaitForSingleObject
-Waiting For VConsole To Connect...
+Waiting For VConsole To Connect...\n
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
 Xbox VDP is not supported on this platform.
-\$ UVAVH
-\$ UWAVH
-\$ VH
-\$ VWAVH
-\$ WH
-\$8;>
-\$@f;
 _V_strncpy
-`.rdata
-`A^A\_][
-`A_A]A\^]
 arg%d
+arg0
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\public\tier0\tslist.h
@@ -610,56 +426,14 @@ clear
 clearall
 closed
 commandline
-dJ0&o
 error
-fD9d)
-fE94(t/E
-ffffff
 g_Tier1_CRC32Table
 g_pMemAlloc
 global
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
 invalid
-k09l$pt
-k0i0$
-l$ AVH
-l$ E3
-l$ VH
-l$0Hc
-l$8fE;
-l$@tLD9AhA
-m0k0$
 nTries < 10000000
-oD$ H
-oO0fI
-p0n05
-p1f3q>
 purecall
-t!McY
-t$ AVH
-t$ WAVAWH
-t$ WH
-t$0+A$t
-t$09_8~#
-t$8;{
-t$@fE;
-t$Hf;
-t$XE3
-t$Xt	H
-t$`Hc
-t9H9=
-tefff
 tier0.dll
-u	@8=u
-u.fE;
-uD@8{0t
-uFfD;
-uGfD;
-v0t08
 vc_exit %s
 vcon_pipe_dump
 vconcomm
@@ -668,27 +442,3 @@ vconsole2.exe
 vstdlib
 win32
 win64
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x0v0$
-xX9sx
-xl]u$
-xm9kxr
-z0x0:
-{}()':
-|$ ATAVAWH
-|$ AVH
-|$0E3
-|$8).H
-|$@fD
-|$@u%
-|$H;_
-|$HI#
-|$P;Cx
-|$PE3
-|$PHcy@
-|$`Lc
-|$p@2
-}QfA;
-~ffff

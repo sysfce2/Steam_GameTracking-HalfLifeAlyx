@@ -1,171 +1,17 @@
-	!O3H
-	!O3L
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
- 9(X`
- ;x8|
- A]][
- A^A\]
- A^A\^
- A^A]^
- A^A]_
- A^][
- A^^]
- A^_[
- A^_^
- A_A\_
- A_A]A\_[
- A_A]^
- A_A]^][
- A_A]_
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^^
- A_A^_
- A_^[
- A_^]
- A__]
- A__^
- Hc1H
- Hc2L
- Hc9H
- Hc:L
- HcD;0H
- HcY H
- Hcy H
- HcyH3
- Lcy@3
- fD	`XH
- vJH+
-"pA3Q
-#D$(t
-#L$(u
-%f %f %f
+%02X
 %i %i %i %i
+%lld
+%llu
 %s (Color)
 %s (Material)
-%s#%d
-%s: %s
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s_color
 %s_matgrp
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-'":|;
-(A]A\^]
-(A^A\^]
-(A^A]A\]
-(A^A]A\^
-(A^A]^]
-(A_A\
-(A_A\_^][
-(A_A]A\[
-(A_A^
-(A_A^A]^
-(A_A^_^][
-(D$ H
-(D$0D
-(D$0H
-(D$@D
-(D$`E
-(D$`H
-(D$pH
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(H91t
-(L$ H
-(L$0D
-(L$PD
 (None)
-(T$ H
-(T$PD
-(\$@D
-(\$pD
-(d$0D
-(d$`I
-(d$pD
-(l$ D
-(l$PD
-(l$`D
-(l$pL
-(o:R	
-(t$ B
-(t$ H
-(t$ L
-(t$0H
-(t$@D
-(t$@H
-(t$PL
-(t$`D
-(t$`E
-(t$`H
-(t$pL
-(|$ D
-(|$0D
-(|$0H
-(|$@D
-(|$@H
-(|$PD
-(|$PI
-(|$pD
-(|$pE9}0
-)4$H;
-)D$ D
-)D$0H
-)D$`I
-)D$pD
-)E@IcM4
-)L$ D
-)L$0E
-)L$@H
-)L$PA
-)L$Pf
-)L$`A
-)L$`D
-)\$@D
-)\$@H
-)\$pD
-)d$`E
-)d$pD
-)l$ A
-)l$`D
-)l$pA
-)t$ B
-)t$ H
-)t$ I
-)t$0H
-)t$0L
-)t$@%
-)t$@L
-)t$PH
-)t$PI
-)t$`D
-)t$pE
-)t$pH
-)|$ t
-)|$0I
-)|$@D
-)|$@L
-)|$PA
-)|$PE
-)|$PL
-)|$pD
-*Hc+;k
-*Hc+A
-+A$Hc
-+B$Hc
-+C$Hc
-+F$Hc
-+G$Hc
-+HcD;0H
-+|$PH
-,0<	w
-,|%)v
++inf
+-avx
+-inf
 -sse2
 -sse3
 -sse4
@@ -347,10 +193,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -361,118 +207,25 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .vmdl
 .xdata
-/=$!6
-/D$0v
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 00000000-0000-0000-0000-000000000000
-061110000000Z
-0A\_[
-0A\_]
-0A]^[
-0A^A\]
-0A^A\_
-0A^^[
-0A^_^
-0A_A\^
-0A_A\_
-0A_A]A\_]
-0A_A]]
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]_^
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_^]
-0A__]
-0A__^
-0v0b1
 1 1 1
-131022120000Z
-141022000000Z
-181004000000Z
 1DBlend
-1HcC0H
-1Ic]xH
-200613003239Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2HcC0I
-2Ic>A;~
+2\r52t
 2_BONE_IK
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-6HcC0H
-7HcD$P
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8A^A\
-8A_A\
-8A_A^
-8A_A^A\[
-8vIML
-9)~vH
-91~bH
-91~mH
-91~vH
-99C }
-99~-H
-99~3H
-99~CH
-9D$@t
-9P ~(H
-9S0~1Lc
-9_H~+fff
-9_p~$
-9p ~DH
-:Hc{h;{xu
-:Lc7D;w
-;8u-3
-;9}mHc
-;A ~W
-;C ~M
-;D$0u
-;D$`u
-;L$0u
-;P u`E3
-;T$ }
-;T$0}
-;\$8|
-;]p}~H
-;l$0|
-;w u	H
-;{ u	H
-;{ ~@
-;|$@|
-<	u"H
-<	u*H
+3\fU348
+5tpN\n
 <!-- schema 
-<$E;Q
 <no failure reason set>
 <unknown>
-?5zlO
 ??0CThreadMultiWaitEvent@@QEAA@_N@Z
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMultiWaitEvent@@QEAA@XZ
@@ -506,115 +259,7 @@
 ?UnlockWrite@CThreadSpinRWLock@@QEAAXPEBDH@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?posxyz
-@.data
-@.tls
-@81u/H
-@85-{
-@8}ju0H
-@8}ku	H
-@:iOu
-@A]A\^
-@A]A\_
-@A^A]A\
-@A^A]A\^]
-@A^^[
-@A^^]
-@A_A]A\_^
-@A_A^A\
-@A_A^A\_^
-@A_A^A]A\_
-@A_A^[
-@A_A^_
-@D9AHM
-@HcAp3
-@HcCxH
-@L99t
-@SATAUAWH
-@SATAVAWH
-@SAVAWH
-@SAVH
-@SUAUH
-@SUAVH
-@SUVAUAWH
-@SUVH
-@SUVWATAUAVH
-@SUVWAUAWH
-@SUVWH
-@SUWAVAWH
-@SUWH
-@SVAUH
-@SVAVH
-@SVAWH
-@SVWH
-@SWATAUAWH
-@SWATH
-@SWAVH
-@UATAUAVAWH
-@UATAUAVH
-@UATAVH
-@UATH
-@UAUAWH
-@UAUH
-@UAVAWH
-@UAVH
-@UAWH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAVAWH
-@USVWAWH
-@USVWH
-@USWH
-@UVATAUH
-@UVATAVH
-@UVAUAVH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@UWATAVH
-@UWAVH
-@UWAWH
-@VATAUAVH
-@VATAVH
-@VATAWH
-@VAUAVAWH
-@VAVH
-@VAWH
-@VWAVH
-@VWAWH
-@WATAUAVAWHc
-@WATAUH
-@WATAVH
-@WATAWH
-@WATH
-@WAVAWH
-@WAVH
-@fA9l
-@fD9t
-@fE9|
-A	N I;
-A(I;E
-A+F$D
-A+G$E
 A-enable_2gb_morphs
-A0I9@0u
-A0I;E
-A8A9@8u
-A8H	P(
-A8Zxt
-A;@X}
-A;@`}
-A;A`}
-A;BX}
-A;Q`}
-A;RX}
-A;^@|
-A;t. |
-A<A9@<u
-A<z)u'A
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
 AE_CL_ADD_PARTICLE_EFFECT_CP
@@ -646,63 +291,20 @@ AE_VORTIGAUNT_ZAP_POWERUP
 AE_VORTIGAUNT_ZAP_SHOOT
 AE_ZOMBIE_POPHEADCRAB
 AE_ZOMBIE_TOGGLE_HEAD
-AGRPuL
 AIWalkable
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-ANIMu&
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-APu[H
-ASEQt%
-ATAUAVH
-ATAUAWH
-ATAVAWH
-ATAVH
-ATAWH
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ATTACHMENT_INFLUENCE_FLAGS_NONE
-AVAWH
-A]A\_[
-A]A\_^]
-A^A\[
-A^A\_]
-A^A\_^[]
-A^A]A\]
-A^A]A\_[
-A^A]A\_]
-A^A]^]
-A^A]_]
-A^A]_^[]
-A^_^[]
-A_A]A\^[
-A_A][
-A_A^A\
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]^[
-A_A^[
-A_A^]
-A_A^_
-A_A^_[
-A_A^_][
-A_A^_^[]
-A_^][
-A__[]
-A__][
-A__^[]
 AbsolutePoseControl
 AcquireSRWLockExclusive
 AddLayer
 Align
-AllocateAndLoad failed for '%s'
-AllocateAndLoad failed for '%s' (%s)
-AllocateResource: Error creating data for %s!
+AllocateAndLoad failed for '%s' (%s)\n
+AllocateAndLoad failed for '%s'\n
+AllocateResource: Error creating data for %s!\n
 AllocateResource: Error loading async data for %s
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -740,28 +342,25 @@ AnimationList
 AnimationSystemUtils_001
 AnimationSystem_001
 AssertMsg_ConditionFailed
-Assertion Failed in function %s():
+Assertion Failed in function %s():\n%s
 AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
-AsyncProcessData: Cannot find data/vbib block in resource!
+AsyncProcessData: Cannot find data/vbib block in resource!\n
 AutoLayer
-B;|5h|
-B;|6h|
-B;|>h|
-Bad KV3 data for resource: %s
-Bad KV3 data in control block for '%s': %s
-Bad KV3 mesh data for mesh ('%s': %d): %s
-Bad KV3 mesh data for mesh: %s
-Bad VBIB block index for mesh (%s: %d)
-Bad VBIB block type for mesh (%s: %d)
-Bad block type for embedded animation data
-Bad block type for embedded physics data
-Bad data block index for embedded animation data (%d,%d,%d)
-Bad data block index for embedded physics data (%d)
-Bad data block index for mesh (%s: %d)
-Bad data block type for mesh (%s: %d)
+Bad KV3 data for resource: %s\n
+Bad KV3 data in control block for '%s': %s\n
+Bad KV3 mesh data for mesh ('%s': %d): %s\n
+Bad KV3 mesh data for mesh: %s\n
+Bad VBIB block index for mesh (%s: %d)\n
+Bad VBIB block type for mesh (%s: %d)\n
+Bad block type for embedded animation data\n
+Bad block type for embedded physics data\n
+Bad data block index for embedded animation data (%d,%d,%d)\n
+Bad data block index for embedded physics data (%d)\n
+Bad data block index for mesh (%s: %d)\n
+Bad data block type for mesh (%s: %d)\n
 Bad header (unrecognized encoding specifier)
 Bad header format (expected ':'
 Bad header format (expected '<!--'
@@ -779,43 +378,30 @@ Bad header: invalid binary marker
 Bad header: invalid compression header
 Bad header: unrecognized encoding id
 Bad keyname
-Bad morph block index for mesh (%s: %d)
-Bad morph block type for mesh (%s: %d)
-Bad morph data for mesh (%s)
-Bad sequence in GetSequenceActivityName() for model '%s'!
+Bad morph block index for mesh (%s: %d)\n
+Bad morph block type for mesh (%s: %d)\n
+Bad morph data for mesh (%s)\n
+Bad sequence in GetSequenceActivityName() for model '%s'!\n
 Bad value
 BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
 BaseSceneObjectDesc
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
 BlendLayerPoseParam
 BlendList
+Body
 BodyGroup
 BodyGroupChoice
+Bone
 BoneConstraintList
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-Browse to the corresponding model in asset browser, right click and select Full Recompile.
-C Ic>A;~
-C$z!u
-C(I;A
-C)@l*3
-C-yh/
-C0Hc+;k
-C0Hc3;s
-C0Hc;
-C0I;A
-C0Lc3D;s
-C8H!o
-C940t%G
 CAimConstraint
 CAnimCycle
 CAnimMotorList
@@ -870,7 +456,7 @@ CModelConfigElement_SetRenderColor
 CModelConfigElement_UserPick
 CModelConfigList
 CModelTypeManager::FinalizeResource
-CModelTypeManager::GetErrorResource(152): GetErrorModel() called before error model exists!
+CModelTypeManager::GetErrorResource(152): GetErrorModel() called before error model exists!\n
 CMorphBundleData
 CMorphConstraint
 CMorphData
@@ -900,24 +486,23 @@ CSchemaClassInfo::ReportClassError
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
 CStrongHandle
-CTRLI
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTiltTwistConstraint
 CTransform
 CTwistConstraint
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<class Vector2D,int>::ChangeSize
 CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<class CRenderMesh const *,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CRenderMesh const * const &,class CRenderMesh const * const &)>::Node_t,unsigned short,class CUtlMap<class CRenderMesh const *,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CRenderMesh const * const &,class CRenderMesh const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CRenderMesh const *,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CRenderMesh const * const &,class CRenderMesh const * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
@@ -1030,145 +615,30 @@ Color
 CommandLine
 CommandProcedure
 CommandProcedureList
-ConVar(%s) defined with infinite float value (%s)
+ConVar(%s) defined with infinite float value (%s)\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
-Control block error for '%s'
+Control block error for '%s'\n
 CreateInterface
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D$ !>;
-D$ #C
-D$ 2C
-D$ BR
-D$ C>
-D$ E3
-D$ H;
-D$ Hc
-D$ Ic
-D$ L+
-D$ L;l$8
-D$ N&B:H
-D$ N)
-D$ P-
-D$ P1d
-D$ d=
-D$ fH
-D$ h[)
-D$ iw4
-D$ r|
-D$(@8;t
-D$(A;
-D$(E3
-D$(H;
-D$(Hc
-D$,E9|. ~YI
-D$0D;
-D$0E3
-D$0H3L$0H3
-D$0I;
-D$0L+
-D$0L9T$xI
-D$0Um
-D$0iw4
-D$0mp
-D$0r|
-D$0t0L
-D$0t?
-D$8H;
-D$8Ic
-D$8fH
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@;D$8
-D$@E3
-D$@H9
-D$@Ic
-D$@mp
-D$@r|
-D$@|R
-D$HE3
-D$HH;
-D$HHcG
-D$P"ZF
-D$P;Fpu
-D$PD;
-D$PE3
-D$Pk@_aH
-D$Pmp
-D$XH;
-D$`@2
-D$`E#
-D$`H;
-D$`Hc
-D$`LcD$DH
-D$`Ll
-D$`r|
-D$hE3
-D$hHcN(
-D$hIcA
-D$p 69
-D$p<L{
-D$pH;
-D$pHK8
-D$pL;
-D$x*>
-D$xH9
-D8*u A
-D8- ~	
-D8-.u	
-D8-0v	
-D8-Dw	
-D8-Ux	
-D8-[y	
-D8-^r	
-D8-`|	
-D8-hz	
-D8-ks	
-D8-k{	
-D8-m}	
-D8-s~	
-D8-tt	
-D8s!u
-D9'~4L
-D97tuD
-D9c4~GIc
-D;C }
-D;C4|
-D;L$0u
-D;Q |
-D;s u
-D;v u
-DATAI
-DHcD$<
 DebugTextureInfo001
 Decompression failure
 Default
 DegreeEuler
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
 Double-register of KV3 conversion (from '%s' to '%s')
 Double-save to Member '%s'
 DrawIndexedTriangles(160): 
 DynamicConfigList
-E0C07
-E9|. t
-E;}H|
-E;~(H
 ENCODING_TYPE_COUNT
 ENCODING_TYPE_OBJECT_SPACE
 ENCODING_TYPE_TANGENT_SPACE
-ERROR: CreateProjectedDecal cannot find scene world %p!
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+ERROR: CreateProjectedDecal cannot find scene world %p!\n
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
-E`HcF4
 EconItemToolModel_001
 EditorDynamicConfig
 EmptyAnim
@@ -1194,7 +664,7 @@ Expected value or ']'
 Expected value.
 Expected {
 Expected }
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FIELD_BOOLEAN
 FIELD_CHARACTER
 FIELD_CLASSPTR
@@ -1292,26 +762,17 @@ Failed to allocate an instance of a class
 Failed to allocate an instance of class '%s'
 Failed to assign bool literal value
 Failed to call CBaseIntrospectedToKV3TypeManager::Init
-Failed to convert KV3 to string; error: %s
+Failed to convert KV3 to string; error: %s\n
 Failed to determine polymorphic class name
 Failed to save unsupported class
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 FlexOpCode_t
 FontManager_001
+GCTL
 GCUtlString::FormatV
-GD$8H
-GD$HD
-GD$pH
-GL$8H
-GL$@H
-GL$HH
 GSFailure
-GT$8H
-GT$HH
-GT$XH
-G\$hH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameStartup
@@ -1325,95 +786,12 @@ GetDefaultMiniDumpTypeFlags
 GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
-Gl$XH
-Gt$8H
-Gt$x3
-H USH
-H UVAUAVH
-H+D$0H
-H+\$h+
-H+\$hIc<$H
-H0F08
-H1D$0
-H9\$8t
-H9o(H
-H9s(H
-H9sPH
-H9sXH
-H9uot	H
-H;UXH
-H;\$P|
-H=vmatu
-H=vmdl
-HA]A\_]
-HA_A\
 HELPER_BONE
-H_^][
 HammerMapLoader001
 HangWatchdogInternal_BeginScope
 HangWatchdogInternal_EndScope
-Hc+;k
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc;;{
-Hc@ ;
-HcA$H
-HcA0H
-HcAXE
-HcC$H
-HcC0H
-HcC0L
-HcC@Hk
-HcCHM
-HcC|L
-HcD$ H
-HcD$x
-HcF@Hk
-HcG H
-HcG$H
-HcG0H
-HcG0HcW4H
-HcGtH
-HcGxH
-HcH<H
-HcI@H
-HcK ;
-HcKx;
-HcL$ H
-HcL$P;
-HcO0H
-HcOxA
-HcS@H
-HcT$ H
-HcT$@3
-HcT$@H
-HcT$hH
-HcU@H
-Hc\$@;\$Pu
-Hc\$lD
-Hc\$xH
-Hc^`;^pu
-Hc_0L
-Hc_xHcOp;
-Hci@I
-Hck ;k0u
-HckHL
-Hcl$PE3
-HcnhI
-HcnpH
-HcoxH
-Hc{0;{@u
-Hc{8;{Hu
-Hc{P;{`u
-Hc|$`L
-Hc~ H
-Hc~tH
 HelpSystem_001
 HostStateMgr001
-Ht4<Xu[
-I A+I
 IKChain
 IKChainOld
 IKData
@@ -1423,15 +801,7 @@ IKRigBug
 IKRigSimple
 INVALID
 IQuickTime001
-Ic4$A;t$
-IcE0H
-IcF@A
-IcF@Lk
-Icm E3
-IcuhH
-Icw H
 Identity
-IfG9t
 IkLockLocal
 Index
 InfoForResourceTypeCAnimationGroup
@@ -1447,7 +817,7 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 Invalid compressed buffer size
 Invalid data for member '%s'
@@ -1457,76 +827,14 @@ Invalid member name '%s'
 InvokeMiniDumpHandler
 JIGGLE_BONE
 KERNEL32.dll
-KV3 load transfer failed for mesh '%s': %s
+KL2H
+KV3 load transfer failed for mesh '%s': %s\n
 KeyValueCache001
 KeyValues3
-L$ E3
-L$ Hc
-L$ Hi
-L$ Ic
-L$ SH
-L$ SWH
-L$ UATAUAVAWH
-L$ USWATAUAVAWH
-L$ USWAWH
-L$ UVWH
-L$ WH
-L$ fD
-L$ fI
-L$(fH
-L$0E+
-L$0E3
-L$0H;
-L$0fff
-L$8Ic
-L$8vD
-L$@E3
-L$@H1D$0
-L$HfD	cXL
-L$L;{
-L$TE3
-L$`H;
-L$`HcnP;n`u
-L$pE3
-L$pHcA H
-L9% Z
-L95b$
-L9e t
-L9g(H
-L9l$0t
-L9m(t	H
-L9mot	H
-L9ugt	H
-L;t$x
 LOG_GENERAL
 LOOKUP_TYPE_COUNT
 LOOKUP_TYPE_TEXCOORD
 LOOKUP_TYPE_VERTEX_ID
-Lc#D;c
-Lc3D;s
-Lc7D;w
-LcA J
-LcA<E3
-LcCPH
-LcI@E3
-LcIXE
-LcIhM
-LcL$4
-LcL$4D
-Lc\; M
-LcehE
-Lck D;k0u
-Lck8H
-Lcl$ A
-Lcl$HHct$LLcd$0LcD$DLcL$4
-Lcl$HHct$LLc|$0LcD$DLcL$4
-Lco@H
-Lco@I
-LcshM
-LcvLH
-Lcx M
-Lc|$ 3
-Lc|$pD
 LeaveCriticalSection
 Left Hand
 LightDesc_t
@@ -1547,11 +855,8 @@ LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-Lu(;{
 MATCHFRAMEWORK_001
-MBUFt#
 MClassHasCustomAlignedNewDelete
-MDATtH
 MDefaultString
 MESH_DRAW_FLAGS_CAN_BATCH_WITH_DYNAMIC_SHADER_CONSTANTS
 MESH_DRAW_FLAGS_DRAW_LAST
@@ -1566,7 +871,6 @@ MESH_DRAW_INPUT_LAYOUT_IS_NOT_MATCHED_TO_MATERIAL
 MESH_TRANSLUCENCY_FULLY_ALPHA_BLENDED
 MESH_TRANSLUCENCY_FULLY_OPAQUE
 MESH_TRANSLUCENCY_PARTIALLY_ALPHA_BLENDED
-MLc3D;s
 MODEL_BONE_FLEX_INVALID
 MODEL_BONE_FLEX_TX
 MODEL_BONE_FLEX_TY
@@ -1588,26 +892,22 @@ MORPH_FLEXCONTROLLER_REMAP_EYELID
 MORPH_FLEXCONTROLLER_REMAP_NWAY
 MORPH_FLEXCONTROLLER_REMAP_PASSTHRU
 MPropertyFriendlyName
-MRPHt*
 MapListService_001
 MaterialGroup_t
 MaterialUtils_001
 MathLib_Init
-Mc<>E;|>
-Mc>Hc
-Mcg L
-Mcw M
-Mesh needs recompiling: '%s' (invalid version: %d)
+MbP?
+Mesh needs recompiling: '%s' (invalid version: %d)\nBrowse to the corresponding model in asset browser, right click and select Full Recompile.
 MeshDrawPrimitiveFlags_t
 MeshSystem
 MeshSystem001
-MeshSystem::InitPosedProp: Bone mismatch between transforms out (%d) and transforms in skeleton (%d)
+MeshSystem::InitPosedProp: Bone mismatch between transforms out (%d) and transforms in skeleton (%d)\n
 MeshTranslucencyType_t
 MeshUtils001
 Middle
-Missing resource blocks for mesh (%s: %d)
-Model %s: Attempted to attach attachment %s to an unknown bone %s!
-Model conversion: %d conversions in %.3fsec (%.3fms each)
+Missing resource blocks for mesh (%s: %d)\n
+Model %s: Attempted to attach attachment %s to an unknown bone %s!\n
+Model conversion: %d conversions in %.3fsec (%.3fms each)\n
 ModelBoneFlexComponent_t
 ModelBoneFlexDriverControl_t
 ModelBoneFlexDriver_t
@@ -1643,8 +943,8 @@ MorphEncodingType_t
 MorphFlexControllerRemapType_t
 MorphLookupType_t
 MorphSetData_t
-N&B:H
-NULL RenderMesh with valid handle
+NULL
+NULL RenderMesh with valid handle\n
 NavSystem001
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -1656,34 +956,19 @@ NetworkSystemVersion001
 Newline in string literal
 No Buffer
 No DATA block for resource 
-No DATA block for resource '%s'
+No DATA block for resource '%s'\n
 No valid format conversion from '%s' to '%s'
 NoPoseControl
 Not safe to 'new' this class due to alignment requirements
-Nu);w
-O(t(H
-O8+G$
-O@IcZ
 ORIENT
 Offset
-Only the last override will be set!
-Ordered constructor wrapped type has no default constructor.
-P8H=vmdl
-P8H=vmdlt
-PA;] 
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 PARENT
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA^A]A\_^][
-PA_A^A]A\]
-PA_A^A]_^][
-PA_A^^][
-PA_A^_
-PA__^[]
-PD9AHM
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -1693,14 +978,11 @@ PF_TYPE_CONTROL_POINT_COMPONENT
 PF_TYPE_LITERAL
 PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
-PHYSt8
-PLcIxI
 POINT
 POSE_SPACE_BONE
 POSE_SPACE_MORPH
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
-PXLc}
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -1730,7 +1012,7 @@ PermModelInfo_t::FlagEnum
 PhysFeModelDesc_t
 PhysSoftbodyDesc_t
 Physics
-Physics interface checksum is 0x%08X, expected 0x%08X. One of the binaries is out of date, please rebuild %s.
+Physics interface checksum is 0x%08X, expected 0x%08X. One of the binaries is out of date, please rebuild %s.\n
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
 PhysicsBoneMarkup
@@ -1756,6 +1038,7 @@ Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
 Plat_UUIDFromString
 Plat_UUIDToString
+Po5H
 PostProcessingSystem_001
 PreviewAttachmentModel
 PreviewBoneAttachedModel
@@ -1768,16 +1051,12 @@ ProjectedDecalSceneObjectDesc
 PropWorldOrigin
 PropertyEditorSystem_001
 QAngle
-QD$PA
 Quaternion
 QueryPerformanceCounter
 QueuedLoaderVersion001
-RESLH
-RESLI
 RESOURCE_TYPE_MODEL
 RESOURCE_TYPE_MORPHSET_INTERNAL
 RESOURCE_TYPE_RENDERMESH_INTERNAL
-RESSH
 ROTATION
 RSDSZ
 RadianEuler
@@ -1803,6 +1082,7 @@ ResourceHandleUtils001
 ResourceManifestRegistry001
 ResourceSystem013
 Right Hand
+Ring
 RnCapsuleDesc_t
 RnHullDesc_t
 RnMeshDesc_t
@@ -1811,26 +1091,8 @@ RnSoftbodyParticle_t
 RnSoftbodySpring_t
 RnSphereDesc_t
 RtlUnwindEx
-SATAVH
-SAUAWH
+S+Ot
 SSE and SSE2 are required.
-SUAUAVH
-SUAVH
-SUVAVAWH
-SUVAWH
-SUVWATAUAVAWH
-SUVWATAWH
-SUVWAUAVAWH
-SUVWAVAWH
-SUWAWH
-SVATAUAWH
-SVAUAVAWH
-SWATAUAVH
-SWATAUH
-SWATH
-SWAUH
-SWAVAWH
-SWAWH
 SceneSystem_002
 SceneUtils_001
 SchemaSystem_001
@@ -1864,27 +1126,6 @@ StartLoop
 StatsService_001
 SteamAudio001
 Subtract
-T$ E3
-T$ H;
-T$ Ic
-T$(L9UX
-T$0E3
-T$0H;L$H
-T$8+G$A
-T$8+G$H
-T$8E3
-T$@+G$A
-T$@E3
-T$HE3
-T$HHc
-T$PE3
-T$PHc
-T$PIc
-T$XE3
-T$pE3
-T$xH;
-T;(OcD
-THcD$\
 TILT_TWIST
 TWIST
 TestFormatA
@@ -1904,36 +1145,11 @@ ToolService_001
 Trailing Data
 Tried to load a polymorphic pointer with no '%s' key
 Tried to load resource reference '%s' from a value without a resource reference flag.
-Trying to override the same draw call with two different materials!
+Trying to override the same draw call with two different materials!\nOnly the last override will be set!\n
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
 TypeManager
-UATAUAVAWH
-UATAUAVH
-UAVAWH
 UPDATE_STRING_TOKEN_DATABASE
-USAUH
-USVWATAUAVAWH
-USVWAUAVH
-USVWAVH
-USVWH
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVATAVH
-UVAVH
-UVAWH
-UVWATAUAVAW
-UVWATAUAVAWH
-UVWAVAWH
-UVWAVH
-UWATAUAWH
-UWATAUH
-UWATAVAWH
-UWATH
-UWAUAVH
-UWAVH
-UWAWH
 Unable to determine buffer encoding.
 Unexpected end of file
 Unknown
@@ -1941,12 +1157,9 @@ Unrecognized flag name '%s'
 Unrecognized type '%d'
 Unresolved object reference '%s'
 UserInfoChangeService_001
-VATAUH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
-VBIBH
 VBaseFileSystem011
 VBik001
 VConComm001
@@ -2011,12 +1224,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VUUUH
-VWATAUAWH
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
 V_FixSlashes
 V_GetErrno
 V_GetFileExtension
@@ -2054,8 +1261,6 @@ V_strtoi64
 V_strtoui64
 V_vsnprintf
 V_vsnprintfSize
-Valve0
-Valve1
 Vector
 Vector2D
 Vector4D
@@ -2064,65 +1269,17 @@ VertexPaintBlendParams
 VertexPaintBlendParams1
 VertexPaintTintColor
 VisBuilder_001
-WARNING: Failed to convert introspected block for file: %s
-WARNING: Invalid resource version (%d): %s
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAW
-WATAUAVAWH
-WAVAWH
+WARNING: Failed to convert introspected block for file: %s\n
+WARNING: Invalid resource version (%d): %s\n
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WeightList
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
-X2:jL
-XA_A]_^][
-XD$ D
-XD$ H
-XPxHc
-XPxIc
-XRxHc	
-YHcC0
-YXHcAPH
-YxHcApH
-[l)[r_Im
-\$ ATAVAWH
-\$ Hi
-\$ Ic
-\$ UH
-\$ UVWH
-\$ UWATH
-\$ VH
-\$ VWAVH
-\$ WH
-\$ |LH
-\$(Hc|$ H
-\$(L#
-\$0A+
-\$0E3
-\$0Hc
-\$0L+
-\$8;>
-\$8Hc
-\$8fD
-\$@9\$8
-\$@9\$8~I
-\$@A+
-\$@Hc
-\$@f;
-\$HHc
-\$Hta
-\$XHc
-\$hHco ;o0u
-\$xD9eXt
-\$xHc~(;~8u
-\\$ H
-\d$\A
-^HHcF@Hk
-^`Hc~XH
-_(D9w |AH
+\nCwf\r
 _V_strncat
 _V_strncmp
 _V_strncpy
@@ -2130,17 +1287,8 @@ _V_strnicmp_fast
 __oldschema_object_name
 __temp_unserialization_member__
 _class
-_pHc_`Hc
 _root_keyname
 _test_conversion_counter
-`.rdata
-`A^][
-`A_A]A\
-`A_A^A]A\_[]
-`HcY 3
-`HcY H
-`LcA H
-`Lca@M
 ai_model_info
 allowstatic
 anchor_angles
@@ -2182,6 +1330,7 @@ body_type
 bodygroup_choice
 bodygroup_driven_morph_list
 bodygroup_name
+bone
 bone_name
 bone_names
 bonemerge
@@ -2193,6 +1342,7 @@ break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 burst
 burstRandomize
 burst_randomize
@@ -2240,23 +1390,6 @@ control_point
 control_points_list
 create_particle
 curvature
-d$ A+
-d$ UAVAWH
-d$(Lc` M
-d$0;xX
-d$0E3
-d$0HcD1
-d$@Hcw
-d$HA+
-d$HE3
-d$HL;e
-d$P+A$t
-d$PE2
-d$PHc
-d$XE3
-d$`E3
-d$hE2
-d$pE3
 damage
 data_block
 debris
@@ -2271,14 +1404,6 @@ dmg.explosive
 dmg.fire
 duration
 dynamic_interaction
-e A_A^A]A\_^]
-e L9e
-e(A_A^A]A\_^[]
-e(D9e@t:H
-e@A_A^A]A\_^]
-eHA_A^A]A\_^[]
-ePA_A^A]A\]
-e`A_A^A]A\_^]
 embedded_animation
 embedded_meshes
 embedded_physics
@@ -2297,18 +1422,12 @@ explosive_damage
 explosive_radius
 eye_data
 eye_data_list
-f	CXH
-f!CXH
-fD	cX
-fD!kXH
-fE94(t/E
 faceMergeAngle
 fademaxdist
 fademindist
 fadetime
 falloff
 false
-ffffff
 fieldtype_t
 fltx4
 fog_lighting
@@ -2317,102 +1436,42 @@ force
 format
 frame
 friction
-g L9't
 g_hSkeletonMeshLayout
 g_pMemAlloc
 g_pThreadPool
-g`;_pu
 game_class
 game_keys
 generic
-gfffA
-gfffLc
+glow
 gravity
 group_data_block
-h(B9|5h~/H
-hA]^H
-hA^A\
-hA^A\^]
-hA^A]][
-hA^_^]
 handindex
 headtype
 health
 health_override
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
 ikdata
 ikrig
 innerconeangle
 interactive
 invert_orientation
 is_debris
-k H9+t
-k HcKX;
-k L9+t
-k0i0$
-k@_aH
-ksmCL
-l$ 9Q
-l$ AVH
-l$ D9l$0|LH
-l$ VAUAVH
-l$ VAUAWH
-l$ VAVAWH
-l$ VH
-l$ VWAVH
-l$ VWAWH
-l$ WATAUAVAWH
-l$ WATAWH
-l$ WAUAVH
-l$ WAUAWH
-l$ WH
-l$(;i
-l$(A+
-l$(Hc
-l$0E3
-l$0H+
-l$0Hc
-l$0HcA
-l$0Ic
-l$0u`H
-l$4Hc
-l$8H+
-l$8HcG
-l$8Hi
-l$8Hk
-l$8fD
-l$8fE;
-l$@Hc
-l$@Hch H
-l$@Lc
-l$HHc
-l$HfA
-l$XA+
-l$XHi
-l$XHk
-l$`t.
-l$pHc)
-l$xHc
 last_sniff
+lcQe
 length
 lightcookie
 lightsourceshape
 lighttype
 lockRotationAlpha
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 lowprecisionuv
 lowprecisionuv1
-lr?vL
-m0k0$
+mXr4
 m_Args
 m_AttachmentName
 m_AttachmentType
@@ -2965,6 +2024,7 @@ matrix3x4a_t
 maxHullVertices
 maxVerticesPerHull
 max_angle
+mesh
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
 mesh_calculate_curvature_smooth_weight
@@ -3018,27 +2078,18 @@ morph_texture
 motiondisabled
 multiplayer_break
 nTries < 10000000
+n\f"pA3Q
+name
 nav_attribute_avoid
 nav_data
 normal
+null
 numsegments
-o H9/t
-o@H9)t
-oD$ H
-oO0fI
 offset
 optionallycompressedtangentframe
 origin_max_delta
 origin_relative
 outerconeangle
-p(B9|6h~.H
-p(B9|6h~.I
-p(B9|6h~/H
-p(B9|6h~/I
-p(B9|>h~/H
-p0n05
-p1f3q>
-pA^][
 parent_bone
 particle
 particles/
@@ -3077,19 +2128,18 @@ rendertransmissive
 resource
 resourcesystem
 rootNode
-sHH9s0H
 schema
 secondary
 seqgroup_data_block
 sequence_name
 sequence_number
-shH9sPH
 shadowcascadecount
 shadowcascadedistance%d
 shadowcascaderesolution%d
 shadowtextureheight
 shadowtexturewidth
 shapeType
+size
 size0
 size1
 source_filename
@@ -3100,139 +2150,27 @@ stop_instantly
 stop_on_seq_change
 suppress
 surface_prop
-sxK;4&t=H
-t!IcO
-t!McY
-t#fff
-t$ A+
-t$ A;
-t$ AVH
-t$ AWH
-t$ E3
-t$ Ii
-t$ Mc
-t$ UH
-t$ UWATAUAVH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$0+A$t
-t$0D9t$@|LH
-t$0H+
-t$0Hc
-t$0Hc2
-t$0Hcw@;wPu
-t$0Hi
-t$0Hk
-t$0M;
-t$8E2
-t$8E3
-t$8Hk
-t$8Ic
-t$8Lk
-t$8Mc
-t$8fD;
-t$@E3
-t$@Hc
-t$@Ic
-t$@fE;
-t$@fff
-t$@u'
-t$HA+
-t$HD8{
-t$HE3
-t$HHc
-t$HHk
-t$HLcw
-t$Hf;
-t$Hu'
-t$PE3
-t$PfD;
-t$XA+
-t$XE3
-t$XHc
-t$XLc
-t$Xt	H
-t$`A+
-t$`D8
-t$`E3
-t$`E;
-t$`Hc
-t$`I;
-t$`Lk
-t$`uHH
-t$fE;
-t$h@2
-t$pE+
-t$x;_@u
-t*D8#t
-t+Hc3;s
-t-~"A
-t.@82t)
-t.@8:t)
-t/D80t*
-t/D83t*
-t0@87t+
-t0@8;t+
-t0D8;t+
-t4Ic>A;~
-tAfff
-tCHc7
-tDLcp
-tEHc7
-tFIcO
-tHcD$$H
-tJD80tEH
-tS@8(tNH
-tTHc.
-t[93tW
-t]<-u
 tangent
 tangentu_signv
-tefff
 test_angles_relative
 texcoord
+text
 texturescale
 tier0.dll
-trD8(tmH
-ttHcK0H
-tu+K$3
+true
 turn_rate
-t~IcO
-u H9u
-u$Lc3D;s
-u'Lc6D;v
-u-fD;
-u.fE;
-u4fD;
-u98D$`u;H
-uFfD;
-uGfD;
-uPIcEHL
-uY<0uU
-u`J	\8(3
-u`L;uh
-ulfD;
 uniform_burst
 use_additional_offset
-v0t08
-v@Icv
-vagrp
 value
 vanmgrph
-vanmgrphH
-vanmgrphI
 vbib_block
 version
-vmatH
-vmdlH
-vmdlL
+vmdl
 vmdlkeys0
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
-vmesh
-vmorf
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -3259,115 +2197,14 @@ vpcf6
 vpcf7
 vpcf8
 vpcf9
-vphys
 vphysics2
 vr_carry_type
-vseqH
 vsnap
 vstdlib.dll
-vtexH
 width
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcE
-x	HcG
-x	HcQ
-x A;@X}
-x AVH
-x UATAUAVAWH
-x!HcI
-x!HcK
-x";C }
-x*D;AH}$Ic
-x-A;G }'Hi
-x0v0$
-xRHcQ
-x_^][
-xlHcu
-y0HcA(M
 yaw_end
 yaw_start
-z0x0:
 z:KCAuthPhysBody
-{ H9;t
 {YIN?
-{}()'
-{}()':
-{}[]()=&, 	
-{}[]=, 	
-|$ A+
-|$ A;
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVAW
-|$ AVH
-|$ AWH
-|$ E2
-|$ E3
-|$ H;
-|$ Hc
-|$ Lk
-|$ M+
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ ff
-|$ u*H
-|$ |AH
-|$(HcD$ H
-|$0A_A^
-|$0D+
-|$0E3
-|$0Hc
-|$0Hi
-|$0Hk
-|$0Ic
-|$0Lcx M
-|$0fff
-|$8E3
-|$8Hc:
-|$8Hk
-|$@A;
-|$@E3
-|$@Hc
-|$@Hcyp;
-|$@Lcy8E
-|$@fA
-|$@fD;
-|$@ff
-|$@t	3
-|$HA+
-|$HA9] 
-|$HE3
-|$HHc
-|$HHc7;w
-|$HHi
-|$Ht#
-|$P;|$T
-|$PA;^ u
-|$PE3
-|$PHc{@$
-|$XA+
-|$XE3
-|$XHc
-|$XIc
-|$XLcx M
-|$XMk
-|$`@2
-|$`A+
-|$`Lc
-|$hA+
-|;HcL
-}7fff
-}:HcQ
-}OfD;
-}QfA;
-}WIcU
-}afA;
-~!A;~
-~*9q0
-~,IcZ
-~28\$0t
-~8HcMPA
-~HIcF@Hk
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;

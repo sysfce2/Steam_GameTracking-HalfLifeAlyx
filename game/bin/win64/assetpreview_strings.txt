@@ -1,48 +1,19 @@
-					
-						
-																									
-			AxisScale 2
-			Brightness 0.025
-			Brightness 0.5
-			Dir "1 0 0"
-			Pos "0 0 200"
-			Pos "0 200 0"
-			Radius 10000
-			Shadows 1
-		PointLight
-	!s99
-	?fromUtf8@QString@@SA?AV1@PEBDH@Z
-	?installEventFilter@QObject@@QEAAXPEAV1@@Z
-	D8r4
-	Default
-	IcA4=
-	NAN encountered in element '%s' guid %s attribute '%s'!
-	Range min value cannot be greater than max value
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
-	w?Hc
-	wGHc
-	~CE3
- 			Color "255 255 255"
-  			Pos "300 0 0"
-  		Sun
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ\'
         %3d %3d %3d %3d %3d %3d %3d %3d
         %4u %4u %4u %4u %4u %4u %4u %4u
-      x
-    %u iterated blocks
-    %u unfinished blocks
+    %u iterated blocks\n
+    %u unfinished blocks\n
     Component %d: %dhx%dv q=%d
     Component %d: dc=%d ac=%d
     with %d x %d thumbnail image
-  Bad Fax Lines: %lu
-  Consecutive Bad Fax Lines: %lu
-  Fax DCS: %s
+  Bad Fax Lines: %lu\n
+  Consecutive Bad Fax Lines: %lu\n
+  Fax DCS: %s\n
   Fax Data:
-  Fax Receive Parameters: %08lx
-  Fax Receive Time: %lu secs
-  Fax SubAddress: %s
+  Fax Receive Parameters: %08lx\n
+  Fax Receive Time: %lu secs\n
+  Fax SubAddress: %s\n
   Group 3 Options:
   Group 4 Options:
   Predictor: 
@@ -50,35 +21,21 @@
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %.4g kg
- %41g
  &Color
  &Colors
- 'L>[
- (%lu = 0x%lx)
- (%u = 0x%x)
+ (%lu = 0x%lx)\n
+ (%u = 0x%x)\n
  (?setColumnWidth@QTableView@@QEAAXHH@Z
  (Expand)
- (Hsl)
  (Scale)
- (hsv)
  (repeat)
- (rgb)
- * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"
- +AhH
+ * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"\n
  - Drop with Modifier, Open paste special pop-up
  - MMB press stopping buttonless drag
  - RMB Drop - open context menu of interactions
  - pass to parent
- - pos
  - reindexing from 
- - rot
- -o "
- -of 
  -testmode
- 0@P`p
- 9D$pu/L
- ;_h|
  ?palette@QWidget@@QEBAAEBVQPalette@@XZ
  ?paletteChange@QWidget@@MEAAXAEBVQPalette@@@Z
  ?parent@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
@@ -87,97 +44,19 @@
  ?parentWidget@QWidget@@QEBAPEAV1@XZ
  ?pathFromIndex@QCompleter@@UEBA?AVQString@@AEBVQModelIndex@@@Z
  ?pixel@QImage@@QEBAIHH@Z
- @ wF
- @SUATAUAWH
- @SUH
- A]A\[
- A]A\_^[
- A]_^
- A]_^][
- A^A\]
- A^A\^
- A^A\_
- A^A\_^[
- A^][
- A^^]
- A^_[
- A^_]
- A^_^
- A^_^H
- A_A\^][
- A_A\_
- A_A\_^[
- A_A\_^]
- A_A]A\][
- A_A]A\_[
- A_A]A\_^
- A_A]^
- A_A]_
- A_A]_][
- A_A^A\
- A_A^A\H
- A_A^A\][
- A_A^A\^[
- A_A^A\^]
- A_A^A\_^
- A_A^A\_^][
- A_A^A]
- A_A^A]A\]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_]
- A_A^A]_^
- A_A^]
- A_A^]H
- A_A^^
- A_A^^][
- A_A^_
- A_A^_H
- A_A^_^[
- A_A^_^]
- A_^[
- A_^]
- A__]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  CQSliderPlural::ScaleValuesToMax scale( 
  CQSliderPluralOLD::scaleValuesToMin scale( 
  Class Hierarchy Descriptor'
- Colors:
+ Colors:\n
  Complete Object Locator'
- D;e`
  DOUBLE_CLICK
- Failed to add face %i: %s
+ Failed to add face %i: %s\n
  Goal - HDR comp: 
  Goal - LDR*Mult: 
- H3E H3E
- Hc)3
- Hc)H
- Hc)L
- Hc1H
- Hc2H
- Hc2L
- Hc9H
- Hc:H
- Hc:L
- HcA0H
- HcY H
- HciHH
- Hcq 3
- Hcq83
- HcqX3
- Hcqp3
- Hcq|
- Hct$PM
- Hcy H
- HcyH3
  LZWSetupDecode
- Lc	M
- LcR M
- Lcq83
  OUTSIDE EXPECTED BOUNDARY
  PRESS
  RELEASE
@@ -185,12 +64,10 @@
  Start- HDR comp: 
  Start- LDR*Mult: 
  Type Descriptor'
- Values:
+ Values:\n
  [ %f %f %f %f  %f %f %f %f  %f %f %f %f  %f %f %f %f ]
- [%1]
  [SYNCED]
- [curvetype %s]
- _^[H
+ [curvetype %s]\n
  but running with 
  center %f %f scale %f %f rotate %f translate %f %f
  clean
@@ -198,48 +75,24 @@
  delete[]
  incr. value:
  kinematic
- new[]
+ new
  receiver regenerated
  static
- t:f;w
- t?D9
- tDE3
- tQD8c:u0M
  uncorrected errors
  vColSetOut: 
- vJH+
  values>... (Collapse)
-!!!!!!
-!!!!!!!!
-!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!
 !#?qt_metacast@QIntValidator@@UEAAPEAXPEBD@Z
 !*?setHsl@QColor@@QEAAXHHHH@Z
 !,?setRange@QAbstractSlider@@QEAAXHH@Z
-!,X< w
 !1AQaq
-!>6'Y
 !?pixmap@QCursor@@QEBA?AVQPixmap@@XZ
-!LcK@
-!T$(H!T$ 
-!hn7!
-!m7EO
-" -ie 
-" -oe 
-""""UUUU
-"%s" 
-"%s" "
-"%s" "%.10f"
-"%s" "%d"
-"%s" "%f"
-"%s" "%s"
-"%s" "%s" 
-"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"
-"%s" "[ %f %f %f %f ]"
-"%s" "[ %f %f %f ]"
-"%s" "[ %f %f ]"
-"%s" "{ %d %d %d }"
+!\r?canFetchMore@QSortFilterProxyModel@@UEBA_NAEBVQModelIndex@@@Z
+"%s" "%.10f"\n
+"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"\n
+"%s" "[ %f %f %f %f ]"\n
+"%s" "[ %f %f %f ]"\n
+"%s" "[ %f %f ]"\n
+"%s" "{ %d %d %d }"\n
 "%s": Bad mode
 "%s": Information lost writing value (%g) as (unsigned) RATIONAL
 ")?setExclusive@QButtonGroup@@QEAAX_N@Z
@@ -276,10 +129,11 @@
 "?qt_metacast@QDoubleSpinBox@@UEAAPEAXPEBD@Z
 "?qt_metacast@QDoubleValidator@@UEAAPEAXPEBD@Z
 "?qt_metacast@QDrag@@UEAAPEAXPEBD@Z
-"ActBusy.txt"
-"LightRigs"
+"ActBusy.txt"\n
+"LightRigs"\n{\n\tDefault\n\t{\n  \t\tSun\n\t\t{\n  \t\t\tPos "300 0 0"\n\t\t\tDir "1 0 0"\n \t\t\tColor "255 255 255"\n\t\t\tBrightness 0.5\n\t\t\tShadows 1\n\t\t\tAxisScale 2\n \t\t}\n\t\tPointLight\n\t\t{\n\t\t\tBrightness 0.025\n\t\t\tPos "0 200 0"\n\t\t\tRadius 10000\n\t\t}\n\t\tPointLight\n\t\t{\n\t\t\tBrightness 0.025\n\t\t\tPos "0 0 200"\n\t\t\tRadius 10000\n\t\t}\n\t}\n}\n
 "Predictor" value %d not supported
-"Proxies"
+"Proxies"\n
+"\r?canInsertFromMimeData@QPlainTextEdit@@MEBA_NPEBVQMimeData@@@Z
 "channels" attribute not found in the header.
 "compression" attribute not found in the header.
 "dataWindow" attribute not found in the header or invalid.
@@ -287,25 +141,23 @@
 "e?<<<<<<l?
 "id" "elementid" 
 "lineOrder" attribute not found in the header.
-"pA3Q
 "pixelAspectRatio" attribute not found in the header.
 "screenWindowCenter" attribute not found in the header.
 "screenWindowWidth" attribute not found in the header.
-#	%#t
-# of channels is zero.
-#%3[%2] %1
+# of channels is zero.\n
 #&?save@QPixmap@@QEBA_NPEAVQIODevice@@PEBDH@Z
 #*?setHsv@QColor@@QEAAXHHHH@Z
 #+?setModel@QListWidget@@EEAAXPEAVQAbstractItemModel@@@Z
 #,?setRange@QDoubleValidator@@UEAAXNNH@Z
 #3CScs
+#9fm
 #?qt_metacast@QFrame@@UEAAPEAXPEBD@Z
 #?qt_metacast@QGridLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QGroupBox@@UEAAPEAXPEBD@Z
 #?qt_metacast@QHBoxLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
 #?qt_metacast@QWidgetAction@@UEAAPEAXPEBD@Z
-#OLje
+#\f?number@QString@@SA?AV1@NDH@Z
 #base
 #base is NULL 
 #include
@@ -326,35 +178,38 @@ $?releaseMouse@QWidget@@QEAAXXZ
 $?removeAction@QWidget@@QEAAXPEAVQAction@@@Z
 $?removeColumns@QSortFilterProxyModel@@UEAA_NHHAEBVQModelIndex@@@Z
 $?removeColumns@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
-$A;\$
 $Ib?s
 $keyValueChildren
 $prefix_attribute$
 $prefix_element$
-$~aA;F
 %+?setModel@QTableView@@UEAAXPEAVQAbstractItemModel@@@Z
 %,?setRange@QProgressBar@@QEAAXHH@Z
-%-40s	%6d	%9d		%5.2f
+%-40s\t%6d\t%9d\t\t%5.2f
 %.100s: Can not read TIFF directory
 %.15lf
 %.2f FPS (%.2fms%s)
 %.3f %.3f %.3f
 %/?size@QWidget@@QEBA?AVQSize@@XZ
-%05d,     0x%p,     %5d,      '%s'
-%1	%2
+%01d
+%02X
+%02d
+%03d
+%04d
+%05d
+%05d,     0x%p,     %5d,      '%s'\n
+%06d
+%08x
 %1 -> %2 (%3)
-%1 :: %2
-%1 = '%2'
 %1 Constraints
 %1 Thumbnails - Processed for %2s
 %1 Thumbnails in cache
 %1 [W = %2, C = %3, Instance = %4, Mode = %5]
-%1 children: 
+%1 children: \n
 %1 meshes, %2 draw calls, %3 polygons
-%1 properties: 
-%1: %2
+%1 properties: \n
+%1t7
 %1x%2
-%30s		%5d		%5d
+%30s\t\t%5d\t\t%5d\n
 %5EUeu
 %?removeRows@QSortFilterProxyModel@@UEAA_NHHAEBVQModelIndex@@@Z
 %?removeRows@QStandardItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
@@ -366,39 +221,28 @@ $~aA;F
 %?rgb@QColor@@QEBAIXZ
 %?rowCount@QSortFilterProxyModel@@UEBAHAEBVQModelIndex@@@Z
 %?rowCount@QStandardItemModel@@UEBAHAEBVQModelIndex@@@Z
-%GoU?*
-%d %d %d
 %d %d %d %d
-%d (%s)
 %d (s/n %d)
-%d trace results
-%d,%d
-%d,%d,%d
+%d trace results\n
 %d,%d,%d,%d
 %d_%lld_%x.dmx
 %d_%lld_%x_in.dmx
-%f %f
-%f %f %f
 %f %f %f %f
 %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
-%f,%f
 %f,%f,%f,%f
-%g %g
-%g %g %g
 %g %g %g %g
 %i %i %i %i
 %i.txt
 %ld%c
-%lluus(%llums) to remap %i faces
+%llu
+%lluus(%llums) to remap %i faces\n
+%llx
 %lu: Row out of range, max %lu
 %lu: Sample out of range, max %lu
 %s %s decoding is not implemented
 %s %s encoding is not implemented
 %s (%s -> %s)
 %s (%s) = remove( pos %i, count %i )
-%s - %s
-%s <-> %s
-%s = '%f'
 %s AllViewsDirectLight
 %s AllViewsIndirectLight
 %s AllViewsParticles
@@ -408,21 +252,17 @@ $~aA;F
 %s View ScreenSpace
 %s View WorldSpace
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
-%s allocation count overflow( %llu >= %llu )
+%s allocation count overflow( %llu > %llu )\n
+%s allocation count overflow( %llu >= %llu )\n
 %s channel
 %s compression support is not configured
-%s encoding %s %d format %s %d %s
-%s$%i
-%s(%d) : %s
-%s(%s)
+%s encoding %s %d format %s %d %s\n
+%s(%d) : %s\n
 %s(%s) = %s
-%s.%s
 %s2-d encoding
-%s: %s
 %s: %s at line %u of %s %u (got %u, expected %u)
-%s: .%s %d (%.2fs @ %g fps) < %s Start Time of %.2fs
-%s: .%s %d (%.2fs @ %g fps) > %s End Time of %.2fs
+%s: .%s %d (%.2fs @ %g fps) < %s Start Time of %.2fs\n
+%s: .%s %d (%.2fs @ %g fps) > %s End Time of %.2fs\n
 %s: Bad code word at line %u of %s %u (x %u)
 %s: Bad field type %d for "%s"
 %s: Bad value %d for "%s" tag
@@ -430,15 +270,15 @@ $~aA;F
 %s: Bogus "%s" field, ignoring and calculating from imagelength
 %s: Can not read TIFF directory
 %s: Can not read TIFF directory count
-%s: Cannot Determine If Sequence %s Is Y Or Z Up, Assuming Z Up
+%s: Cannot Determine If Sequence %s Is Y Or Z Up, Assuming Z Up\n
 %s: Cannot determine size of unknown tag type %d
 %s: Cannot modify tag "%s" while writing
-%s: Couldn't Create Rotate Layer
-%s: Couldn't Create Translate Layer
-%s: Couldn't Find Translate & Rotate channels for DmeDag %s
+%s: Couldn't Create Rotate Layer\n
+%s: Couldn't Create Translate Layer\n
+%s: Couldn't Find Translate & Rotate channels for DmeDag %s\n
 %s: Data buffer too small to hold strip %lu
 %s: Decoding error at scanline %d, %s
-%s: Element uses unknown element type %s
+%s: Element uses unknown element type %s\n
 %s: Encoder error: %s
 %s: Error writing SubIFD directory link
 %s: Failed to allocate space for list of custom values
@@ -446,11 +286,11 @@ $~aA;F
 %s: Invalid %stag "%s" (not supported by codec)
 %s: Invalid InkNames value; expecting %d names, found %d
 %s: Invalid strip byte count %lu, strip %lu
-%s: Multiple Rotate Channels Found For Dag, Using %s, Ignoring %s
-%s: Multiple Translate Channels Found For Dag, Using %s, Ignoring %s
-%s: No Channel Found To Subtract From %s
-%s: No DmElement Specified specified
-%s: No DmeSequence Specified specified
+%s: Multiple Rotate Channels Found For Dag, Using %s, Ignoring %s\n
+%s: Multiple Translate Channels Found For Dag, Using %s, Ignoring %s\n
+%s: No Channel Found To Subtract From %s\n
+%s: No DmElement Specified specified\n
+%s: No DmeSequence Specified specified\n
 %s: No space for Group 3/4 reference line
 %s: No space for LogLuv state block
 %s: No space for SGILog translation buffer
@@ -468,37 +308,34 @@ $~aA;F
 %s: Seek error accessing TIFF directory
 %s: Seek error at scanline %lu, strip %lu
 %s: Sorry, cannot nest SubIFDs
-%s: Specified Sequence %s Has No Bone Mask
-%s: Specified Sequence %s Has No DmeChannelsClip
-%s: Specified Sequence %s Has No Skeleton
+%s: Specified Sequence %s Has No Bone Mask\n
+%s: Specified Sequence %s Has No DmeChannelsClip\n
+%s: Specified Sequence %s Has No Skeleton\n
 %s: TIFF directory is missing required "%s" field
 %s: TIFF directory is missing required "%s" field, calculating from imagelength
 %s: Uncompressed data (not supported) at line %u of %s %u (x %u)
 %s: Unknown %stag %u
-%s: Unsupported DmeLog Type: "%s" on sequence "%s"
+%s: Unsupported DmeLog Type: "%s" on sequence "%s"\n
 %s: Wrong "%s" field, ignoring and calculating from imagelength
 %s: cannot handle zero number of %s
 %s: cannot handle zero scanline size
 %s: cannot handle zero strip size
 %s: cannot handle zero tile size
 %s: invalid TIFF directory; tags are not sorted in ascending order
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s: unknown field with tag %d (0x%x) encountered
 %s: wrong data type %d for "%s"; tag ignored
 %s: zlib error: %s
-%s:%s
 %sEOL padding
 %sEdgeActive
 %sEdgeCurveType
 %sEdgeValue
 %sIndices
 %suncompressed data
-%u (0x%x)
 &"?qt_metacall@QAction@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 &+?setModel@QTableWidget@@EEAAXPEAVQAbstractItemModel@@@Z
 &6FVfv
 &?PPPPPPP?
-&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsAboutToBeRemoved@QListView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsAboutToBeRemoved@QTreeView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsInserted@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
@@ -527,7 +364,7 @@ $~aA;F
 &?selectionCommand@QAbstractItemView@@MEBA?AV?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@AEBVQModelIndex@@PEBVQEvent@@@Z
 &?selectionStart@QLineEdit@@QEBAHXZ
 &Accept
-&Add...
+&All
 &Allow Wrapping
 &Alpha Support
 &Area
@@ -536,19 +373,20 @@ $~aA;F
 &BG: Area
 &BG: Capsule
 &BG: Slot
+&Bar
 &Brick
 &Cancel
 &Center
 &Clear...
 &Copy
-&D;j0u
 &Divide...
 &Edit
-&Edit...
 &Editable
 &Empty
 &Gray Controls Until Mouseover
 &HDR Enabled
+&HSL
+&HSV
 &Header Buttons
 &Hidden
 &Hill
@@ -556,6 +394,8 @@ $~aA;F
 &Left
 &Light bar
 &Line
+&Max
+&Min
 &Mixer
 &Multiply...
 &None
@@ -572,6 +412,7 @@ $~aA;F
 &Plural
 &Power...
 &Properties
+&RGB
 &Ramp
 &Redo
 &Remap Curve...
@@ -589,7 +430,7 @@ $~aA;F
 &Scroll...
 &Select By
 &Set Curve...
-&Set...
+&Sgw
 &Show Accurate Hue/Sat
 &Show Alpha
 &Show Background
@@ -604,18 +445,11 @@ $~aA;F
 &Vertical Layout
 &View
 &Wells
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
+&\v?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 &percent
-'":|;
 '"?qt_metacall@QActionGroup@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 '#?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
-',=?k
 '-?setStatusTip@QWidget@@QEAAXAEBVQString@@@Z
-'... (x
 '7GWgw
 '?setAcceptDrops@QWidget@@QEAAX_N@Z
 '?setBackgroundMode@QPainter@@QEAAXW4BGMode@Qt@@@Z
@@ -634,25 +468,14 @@ $~aA;F
 '?setCheckable@QAction@@QEAAX_N@Z
 '?setChecked@QAbstractButton@@QEAAX_N@Z
 '?setChecked@QAction@@QEAAX_N@Z
-'D8l$@
-( %1, %2 )
 ( %1, %2, %3, %4% )
 ( 8PX
-(#%d)
-(%T:%
-(%d,%d
-(%d,%d,%d
 (%d,%d,%d,%d
-(%q:%
 ('8PW
-(*%s*), 
 (+?setModel@QTreeWidget@@EEAAXPEAVQAbstractItemModel@@@Z
-(-m:%
 (0?staticMetaObject@QColorDialog@@2UQMetaObject@@B
 (8?visualRect@QListView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
 (8HXhx
-(;s |
-(;~ |
 (?setColor@QPen@@QEAAXAEBVQColor@@@Z
 (?setColorAt@QGradient@@QEAAXNAEBVQColor@@@Z
 (?setColumnCount@QStandardItemModel@@QEAAXH@Z
@@ -670,217 +493,14 @@ $~aA;F
 (?setDefaultSectionSize@QHeaderView@@QEAAXH@Z
 (?setDefaultWidget@QWidgetAction@@QEAAXPEAVQWidget@@@Z
 (?setDropAction@QDropEvent@@QEAAXW4DropAction@Qt@@@Z
-(A;v |
-(A\_^]
-(A]A\^]
-(A^A\
-(A^A]_[
-(A^A]_[H
-(A^A]_^
-(A^^][
-(A^_^[
-(A^_^[H
-(A_A\_[
-(A_A\_^][
-(A_A^
-(A_A^A]A\
-(A_A^A]A\_^][
-(A_A^A][
-(A_A^^]
-(A_A^_^
-(A_A^_^][
-(A__][
 (Base)
 (Custom Colors Disabled)
-(D$ %
-(D$ A
-(D$ D
-(D$ H
-(D$ L
-(D$ f
-(D$0%
-(D$0A
-(D$0D
-(D$0E
-(D$0H
-(D$0z	u
-(D$@3
-(D$@A
-(D$@D
-(D$@H
-(D$PA
-(D$PD
-(D$PH
-(D$Pf
-(D$`D
-(D$`E
-(D$`H
-(D$pD
-(D$pH
-(D$pL
 (Edit w/ Spinbox)
-(Hc/;o
-(Hcs8;sHu
-(L$ D
-(L$ H
-(L$ f
-(L$0A9]
-(L$0D
-(L$0H
-(L$@3
-(L$@A9
-(L$@D
-(L$@E
-(L$@H
-(L$@I
-(L$@u
-(L$PD
-(L$PH
-(L$PL
-(L$`D
-(L$`H
-(L$pD
-(L$pH
-(N/A)
 (No User Picks)
 (None)
-(T$ D
-(T$ H
-(T$09_
-(T$09}
-(T$0A9]
-(T$0D
-(T$0E
-(T$0H
-(T$0L
-(T$0u	
-(T$@3
-(T$@D
-(T$@H
-(T$@I
-(T$@L
-(T$PD
-(T$`D
-(T$`L
-(T$pD
-(T$pH
-(T+ D
-(T?j?Y
-(U`Lc3
-(\$ D
-(\$0D
-(\$0H
-(\$@D
-(\$PD
-(\$`D
-(\$`H
-(\$pD
-(_^][
-(d$ D
-(d$ L
-(d$0D
-(d$@D
-(d$P3
-(d$PD
-(d$`D
-(d$pD
-(d$pH
-(d$pL
-(f*^[0
-(l$ D
-(l$ H
-(l$ L
-(l$0D
-(l$0E
-(l$@D
-(l$@L
-(l$PD
-(l$PL
-(l$`D
-(l$p3
-(l$pL
-(m0Hc3
-(m0Lc3
 (null)
-(t$ 2
-(t$ D
-(t$ H
-(t$ L
-(t$ M
-(t$ f
-(t$ t
-(t$0%
-(t$0@
-(t$0D
-(t$0H
-(t$0L
-(t$@3
-(t$@9}
-(t$@A
-(t$@D
-(t$@H
-(t$@L
-(t$@ff
-(t$P3
-(t$P@8
-(t$PD
-(t$PE
-(t$PE3
-(t$PH
-(t$PL
-(t$Ps
-(t$Pu	
-(t$`A
-(t$`D
-(t$`E
-(t$`E3
-(t$`H
-(t$`L
-(t$`f
-(t$pD
-(t$pD9x
-(t$pH
-(t$pI
-(t$pL
-(u0Lc3
-(upE3
-(|$ D
-(|$ H
-(|$ I
-(|$ L
-(|$ s.L
-(|$ t-
-(|$0A9]
-(|$0D
-(|$0H
-(|$0I
-(|$@D
-(|$@E
-(|$@H
-(|$@I
-(|$@L
-(|$@fff
-(|$PD
-(|$PH
-(|$PI
-(|$`3
-(|$`A
-(|$`D
-(|$`D9x
-(|$`H
-(|$`I
-(|$`L
-(|$p3
-(|$pD
-(|$pE9}0
-(|$pL
-)  max:
 )(?setCompleter@QComboBox@@QEAAXPEAVQCompleter@@@Z
-)4$E3
-)4$H;
-)9C }
 )9IYiy
-)>6{1n
 )?setEditTriggers@QAbstractItemView@@QEAAXV?$QFlags@W4EditTrigger@QAbstractItemView@@@@@Z
 )?setEditable@QComboBox@@QEAAX_N@Z
 )?setEnabled@QAction@@QEAAX_N@Z
@@ -899,210 +519,32 @@ $~aA;F
 )?setHeaderData@QSortFilterProxyModel@@UEAA_NHW4Orientation@Qt@@AEBVQVariant@@H@Z
 )?setHeaderData@QStandardItemModel@@UEAA_NHW4Orientation@Qt@@AEBVQVariant@@H@Z
 )?setHeaderLabels@QTreeWidget@@QEAAXAEBVQStringList@@@Z
-)D$ =
-)D$ A
-)D$ B
-)D$ D
-)D$ H
-)D$ I
-)D$ L
-)D$ Mc
-)D$ f
-)D$0A
-)D$0A;
-)D$0D
-)D$0E
-)D$0H
-)D$0L
-)D$@%
-)D$@B
-)D$@D
-)D$@H
-)D$@ff
-)D$PD
-)D$PE
-)D$PH
-)D$`D
-)D$`H
-)D$`I
-)D$`fD
-)D$pD
-)D$pE
-)D$pL
-)D+@D
-)EpE3
-)L$ D
-)L$ E
-)L$0B
-)L$0D
-)L$0E
-)L$0u"H
-)L$@A
-)L$@D
-)L$@f
-)L$@fff
-)L$PD
-)L$PE
-)L$Pf
-)L$`D
-)L$`E
-)L$`H
-)L$pA
-)L$pD
-)L$pH
-)MpIc
-)O@E3
-)T$ D
-)T$0E
-)T$0Hc
-)T$@;
-)T$@A
-)T$PD
-)T$`H
-)T$pD
-)T$pH
-)U`E;
-)\$ D
-)\$@H
-)\$@f
-)\$`D
-)\$`E
-)\$`vFD
-)\$pD
-)\+ H
-)d$0E
-)d$P3
-)d$PD
-)d$PE
-)d$`D
-)d$pD
-)l$ A
-)l$ E
-)l$0D
-)l$0z
-)l$@D
-)l$PD
-)l$`D
-)l$pA
-)t$ +
-)t$ 3
-)t$ 9A
-)t$ =
-)t$ A
-)t$ B
-)t$ D
-)t$ E3
-)t$ H
-)t$ H+
-)t$ Hc
-)t$ I
-)t$ Ic
-)t$ f
-)t$ fA
-)t$ t
-)t$ u
-)t$0@
-)t$0A
-)t$0C
-)t$0D
-)t$0E
-)t$0H
-)t$0Hc
-)t$0I
-)t$0L
-)t$@%
-)t$@A
-)t$@D
-)t$@E
-)t$@E3
-)t$@H
-)t$@Hc
-)t$@I
-)t$@L
-)t$@f
-)t$@ff
-)t$P3
-)t$PA
-)t$PD
-)t$PE
-)t$PE3
-)t$PH
-)t$PI
-)t$PL
-)t$`A
-)t$`D
-)t$`H
-)t$`Hc
-)t$`I
-)t$`L
-)t$`Lc
-)t$`f
-)t$p3
-)t$pD
-)t$pE
-)t$pH
-)t$pI
-)u(Hc+;k
-)|$ D
-)|$ H
-)|$ L
-)|$ t
-)|$0A
-)|$0D
-)|$0H
-)|$0I;
-)|$0M
-)|$0f
-)|$0ff
-)|$0u@H
-)|$@D
-)|$@E
-)|$@H
-)|$@L
-)|$PA
-)|$PD
-)|$PE
-)|$PH
-)|$Pf
-)|$`A
-)|$`D
-)|$`E
-)|$`H
-)|$`L
-)|$pD
-)|$pE
-)|$pIc
-)|$pf
-)|B?d!
-)}pIc
+)yIx
 * Rehandling active codes
 * { font-size: 10px }
 *"?qt_metacall@QButtonGroup@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 *#?qt_metacast@QLineEdit@@UEAAPEAXPEBD@Z
 *'?setActiveAction@QMenu@@QEAAXPEAVQAction@@@Z
-*** Converter error - element "%s" already has a non-int attribute "%s"!
-*** Element "%s" has attribute "%s" with an unexpected type!
-*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!
-*** Log "%s" is missing attribute "%s"!
-*** Problem in converter encountered!
-*** Problem in file encountered!
-*** Setting new attribute "%s" to 0
-*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!
-*** TimeFrame "%s" is missing attribute "%s"!
-*** Unable to find or add attribute "%s" to element "%s"!
-*** line %d: Bad command "%s"!
-*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!
-*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!
-*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!
-*** line error: incompatible packmode change when %d sequences already defined!
-*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!
+*** Converter error - element "%s" already has a non-int attribute "%s"!\n
+*** Element "%s" has attribute "%s" with an unexpected type!\n
+*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!\n
+*** Log "%s" is missing attribute "%s"!\n
+*** Problem in converter encountered!\n
+*** Problem in file encountered!\n
+*** Setting new attribute "%s" to 0\n
+*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!\n
+*** TimeFrame "%s" is missing attribute "%s"!\n
+*** Unable to find or add attribute "%s" to element "%s"!\n
+*** line %d: Bad command "%s"!\n
+*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!\n
+*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!\n
+*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!\n
+*** line error: incompatible packmode change when %d sequences already defined!\n
+*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!\n
 **?setIcon@QAbstractButton@@QEAAXAEBVQIcon@@@Z
 *0?staticMetaObject@QComboBox@@2UQMetaObject@@B
 *8?visualRect@QTableView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
-*9Z9N
-*9sP~
 *:JZjz
-*?setHidden@QWidget@@QEAAX_N@Z
 *?setHorizontalHeaderLabels@QStandardItemModel@@QEAAXAEBVQStringList@@@Z
 *?setHorizontalHeaderLabels@QTableWidget@@QEAAXAEBVQStringList@@@Z
 *?setHorizontalPolicy@QSizePolicy@@QEAAXW4Policy@1@@Z
@@ -1125,14 +567,11 @@ $~aA;F
 *?setMenuBar@QLayout@@QEAAXPEAVQWidget@@@Z
 *?setMimeData@QClipboard@@QEAAXPEAVQMimeData@@W4Mode@1@@Z
 *?setMimeData@QDrag@@QEAAXPEAVQMimeData@@@Z
-*LcD$0A
 *StO9>T
 +*?setIcon@QAction@@QEAAXAEBVQIcon@@@Z
 +8?visualRect@QTreeView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
-+;K[k{
 +?setMinimum@QAbstractSlider@@QEAAXH@Z
 +?setMinimum@QDoubleSpinBox@@QEAAXN@Z
-+?setMinimumHeight@QWidget@@QEAAXH@Z
 +?setMinimumSize@QWidget@@QEAAXHH@Z
 +?setMinimumWidth@QWidget@@QEAAXH@Z
 +?setOption@QColorDialog@@QEAAXW4ColorDialogOption@1@_N@Z
@@ -1153,48 +592,14 @@ $~aA;F
 +?setPointSizeF@QFont@@QEAAXN@Z
 +?setPopupMode@QToolButton@@QEAAXW4ToolButtonPopupMode@1@@Z
 +?setPos@QCursor@@SAXHH@Z
-+A$Hc
-+B$Hc
-+C$Hc
-+D$ H
-+D$ fE
-+D$X+
-+D$dA
-+D$dH
-+D$dHc
-+F$Hc
-+G$Hc
-+J$+B 
-+J$D8M@
-+L$0A
-+L$dHc
-+M<7>
-+T$4E
-+Xt@(
-+f)>0'
-+h->|
-+o'q)}
-+|$PH
-+|$XD
-, %1 KB
-, %1 MB
++\f?objectName@QObject@@QEBA?AVQString@@XZ
++inf
 , %1 mip levels, %2
 , HDRmultiplier: 
 , alpha: 
 , channels = 
 , height = 
 ,#?qt_metacast@QListWidget@@UEAAPEAXPEBD@Z
-,$D;u
-,.D;(
-,/<-w
-,/D;(
-,/D;)
-,/D;*
-,0<	w
-,7D;(
-,7D;)
-,<L\l|
-,?setPrefix@QDoubleSpinBox@@QEAAXAEBVQString@@@Z
 ,?setSelection@QLineEdit@@QEAAXHH@Z
 ,?setSelection@QListView@@MEAAXAEBVQRect@@V?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@@Z
 ,?setSelection@QTableView@@MEAAXAEBVQRect@@V?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@@Z
@@ -1213,27 +618,18 @@ $~aA;F
 ,?setSortingEnabled@QTableView@@QEAAX_N@Z
 ,?setSourceModel@QSortFilterProxyModel@@UEAAXPEAVQAbstractItemModel@@@Z
 ,?setSpacing@QBoxLayout@@QEAAXH@Z
-,@JcD!
 ,HR>O
-,I<%w
-,Ic|$
-,LcD$HH
-,W5y+
-,t0D9J0v*L
-,u*Ic>A;~
 - Add Active Code: %s
 - Remove Active Code: %s
 -"?qt_metacall@QCheckBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 -(?setCompletionMode@QCompleter@@QEAAXW4CompletionMode@1@@Z
 -*?setIcon@QMenu@@QEAAXAEBVQIcon@@@Z
----- dmxconvert cmdline ----
----- dmxconvert output ----
----------------------------
+---- dmxconvert cmdline ----\n
+---- dmxconvert output ----\n
+---------------------------\n
 --?setStretch@QBoxLayout@@QEAAXHH@Z
--9D	/9a
--=M]m}
+-9D\t/9a
 -?setSpacing@QGridLayout@@QEAAXH@Z
--?setStandardButtons@QDialogButtonBox@@QEAAXV?$QFlags@W4StandardButton@QDialogButtonBox@@@@@Z
 -?setStart@QLinearGradient@@QEAAXAEBVQPointF@@@Z
 -?setText@QClipboard@@QEAAXAEBVQString@@W4Mode@1@@Z
 -?setText@QLabel@@QEAAXAEBVQString@@@Z
@@ -1249,20 +645,20 @@ $~aA;F
 -?setTracking@QAbstractSlider@@QEAAX_N@Z
 -?setUnderline@QFont@@QEAAX_N@Z
 -BH>t
+-avx
 -enable_2gb_morphs
+-inf
 -min:
 -noassert
+-rgb
 -rgba
 -sse2
 -sse3
 -sse4
--uNI;
 -vsync
-..om?
 .00cfg
 .8?visualRegionForSelection@QListView@@MEBA?AVQRegion@@AEBVQItemSelection@@@Z
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU?$_InitialTaskHandle@XV<lambda_5a9ef80d79df7873994019ff15dceae5>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_60c5de84e69e46aa92419d47e2f3ad51>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_85226a1ade6d27c19b16702c44b1a394>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
@@ -2503,8 +1899,6 @@ $~aA;F
 .?AVtype_info@@
 .?AVunsupported_os@Concurrency@@
 .?setValidator@QLineEdit@@QEAAXPEBVQValidator@@@Z
-.?setValue@QDoubleSpinBox@@QEAAXN@Z
-.?setValue@QProgressBar@@QEAAXH@Z
 .?setVerticalPolicy@QSizePolicy@@QEAAXW4Policy@1@@Z
 .?setVerticalSpacing@QGridLayout@@QEAAXH@Z
 .?setWindowTitle@QWidget@@QEAAXAEBVQString@@@Z
@@ -2516,7 +1910,6 @@ $~aA;F
 .?showEvent@QTabWidget@@MEAAXPEAVQShowEvent@@@Z
 .?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z
 .?showPopup@QComboBox@@UEAAXXZ
-.A8tL
 .CRT$XCA
 .CRT$XCC
 .CRT$XCL
@@ -2534,81 +1927,63 @@ $~aA;F
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$ z)u'
-.D$ z7u5
-.D$$z
-.D$$z)u'
-.D$$z4u2
-.D$(z
-.D$(z#u!H
-.D$,z
-.D$Hz
-.D$Lz
-.D$Tz
-.D$Xz
-.G u.
-.G$u#
-.[,t<
+.bss
 .data
 .data$r
 .edata
-.ffffff
+.exr
 .gfids$x
 .gfids$y
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
 .idata$5
 .idata$6
+.jpg
 .pdata
+.pfm
+.png
+.psd
 .rdata
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.s(u>
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tga
+.tif
+.tls
 .tls$
 .tls$ZZZ
 .vmat
 .vsky
-.w$u(D
 .xJ>Hf
 .xdata
 .xdata$x
-// 						"BA_INT_AMBUSH"		someone please define this - I have no idea what it does
-// 						"BA_INT_COMBAT"		break out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached
-// 						"BA_INT_DANGER"		break out of this anim only if threatened
-// 						"BA_INT_NONE"		break out only when time runs out. No external influence will break me out.
-// 						"BA_INT_PLAYER"		break out of this anim if I can see the player, or I'm threatened
-// 	"busy_anim"			"Activity Name".
-// 	"busy_sequence"		"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.
-// 	"entry_anim"		"Activity Name"
-// 	"entry_sequence"	"Sequence Name". If specified, this is used over the entry anim.
-// 	"exit_anim"			"Activity Name"
-// 	"exit_sequence"		"Sequence Name". If specified, this is used over the exit anim.
-// 	"interrupts"		One of:
-// 	"max_time"			"Maximum time to spend in this busy anim"	0 = only stop when interrupted by external event
-// 	"min_time"			"Minimum time to spend in this busy anim"
-// "act busy name"		This is the name that a mapmaker must specify in the hint node.
+// "act busy name"\t\tThis is the name that a mapmaker must specify in the hint node.\n
+// \t"busy_anim"\t\t\t"Activity Name".\n
+// \t"busy_sequence"\t\t"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.\n
+// \t"entry_anim"\t\t"Activity Name"\n
+// \t"entry_sequence"\t"Sequence Name". If specified, this is used over the entry anim.\n
+// \t"exit_anim"\t\t\t"Activity Name"\n
+// \t"exit_sequence"\t\t"Sequence Name". If specified, this is used over the exit anim.\n
+// \t"interrupts"\t\tOne of:\n
+// \t"max_time"\t\t\t"Maximum time to spend in this busy anim"\t0 = only stop when interrupted by external event\n
+// \t"min_time"\t\t\t"Minimum time to spend in this busy anim"\n
+// \t\t\t\t\t\t"BA_INT_AMBUSH"\t\tsomeone please define this - I have no idea what it does\n
+// \t\t\t\t\t\t"BA_INT_COMBAT"\t\tbreak out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached\n
+// \t\t\t\t\t\t"BA_INT_DANGER"\t\tbreak out of this anim only if threatened\n
+// \t\t\t\t\t\t"BA_INT_NONE"\t\tbreak out only when time runs out. No external influence will break me out.\n
+// \t\t\t\t\t\t"BA_INT_PLAYER"\t\tbreak out of this anim if I can see the player, or I'm threatened\n
 /2GG>!B
-/4+sLLc'D;g
-/5S "
 /8?visualRegionForSelection@QTableView@@MEBA?AVQRegion@@AEBVQItemSelection@@@Z
-/<9w-
-/={n"
-/>58d%
-/?O_o
 /?showText@QToolTip@@SAXAEBVQPoint@@AEBVQString@@PEAVQWidget@@@Z
 /?size@QImage@@QEBA?AVQSize@@XZ
 /?sort@QSortFilterProxyModel@@UEAAXHW4SortOrder@Qt@@@Z
@@ -2621,105 +1996,33 @@ $~aA;F
 /?startDrag@QAbstractItemView@@MEAAXV?$QFlags@W4DropAction@Qt@@@@@Z
 /?startDrag@QListView@@MEAAXV?$QFlags@W4DropAction@Qt@@@@@Z
 /?startDragDistance@QApplication@@SAHXZ
-/C@veD
-/D$0v
-/D$4v
-/D$8v
-/D$@s
-/D$Ds
-/D$Hs
-/D$Pv
-/D$Tv
-/D$Xv
-/D$`s
-/D$ds
-/D$hs
-/D$pv
-/D$tv
-/D$xv
-/D$|v
 /TF<)VGy#WH
-/w$r5
-0 0 -1
+/\v?addMenu@QMenu@@QEAAPEAVQAction@@PEAV1@@Z
 0 0 0
 0"?qt_metacall@QColorDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 0#?qt_metacast@QMenu@@UEAAPEAXPEBD@Z
 0-1.0 (&float)
 0-255 (&integer)
+0.02
+0.04
+0000
 00000000-0000-0000-0000-000000000000
 00003333
 0123456789ABCDEF
 0123456789ABCDEFundefined
 0123456789abcdefghijklmnopqrstuvwxyz
 08?visualRegionForSelection@QTreeView@@MEBA?AVQRegion@@AEBVQItemSelection@@@Z
-0><[cZUg^>
 0?staticMetaObject@QAction@@2UQMetaObject@@B
 0?staticMetaObject@QPushButton@@2UQMetaObject@@B
 0?staticMetaObject@QTextEdit@@2UQMetaObject@@B
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
 0?staticMetaObject@QWindowsXPStyle@@2UQMetaObject@@B
-0A\_]
-0A]A\[
-0A]^[
-0A]^]
-0A]_[
-0A^A\]
-0A^A\_
-0A^A][
-0A^A]]
-0A^A]^
-0A^A]_
-0A^][
-0A^^[
-0A^_[
-0A^_]
-0A^_^
-0A^_^][
-0A_A]A\^[
-0A_A]A\_]
-0A_A]]
-0A_A]_
-0A_A]_][
-0A_A^A\
-0A_A^A\H
-0A_A^A\_^
-0A_A^A\_^[]
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_[
-0A_A^A]_^
-0A_A^A]_^][
-0A_A^]
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_][
-0A_A^_^]
-0A_^]
-0A__[
-0A__]
-0A__^
-0D8aDt
-0Hc1H
-0Hc2M
-0Hc3H
-0Hc5<?%
-0Hc7L
-0Hc9H
-0HcA M
-0Lc9L
+0E>X
 0X8b?~
-0^][H
-0_^[H
 0iN>/
-0w0c1
 0x%llx
+0x%p
 0x%p = %s '%s'
-0}0i1
 1#?qt_metacast@QMenuBar@@UEAAPEAXPEBD@Z
 1#IND
 1#INF
@@ -2732,10 +2035,9 @@ $~aA;F
 1.5.2
 1.?setVisible@QColorDialog@@UEAAX_N@Z
 1/?sizeHint@QAbstractScrollArea@@UEBA?AVQSize@@XZ
+11Y@
 123456789
-130801120000Z
 16-byte data pool
-1<.	/>:
 1?statusTip@QAction@@QEBA?AVQString@@XZ
 1?stepBy@QAbstractSpinBox@@UEAAXH@Z
 1?stepEnabled@QAbstractSpinBox@@MEBA?AV?$QFlags@W4StepEnabledFlag@QAbstractSpinBox@@@@XZ
@@ -2761,7 +2063,6 @@ $~aA;F
 1CopyColorSetToClipboard()
 1CopyToClipboard()
 1CopyValueSetToClipboard()
-1D;Ew|
 1DBlend
 1DivideSetBy(double)
 1DoDragOffsetStart()
@@ -3088,18 +2389,9 @@ $~aA;F
 2"?qt_metacall@QComboBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 2.?setVisible@QDialog@@UEAAX_N@Z
 2/?sizeHint@QAbstractSpinBox@@UEBA?AVQSize@@XZ
-210429000000Z
-211007000000Z
-220323000000Z
-220329000000Z
-220506232510Z0/
-241009235959Z0a1
 255 255 255
 2?suffix@QDoubleSpinBox@@QEBA?AVQString@@XZ
 2?supportedDropActions@QListWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QSortFilterProxyModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QStandardItemModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
-2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
 2?supportedDropActions@QTreeWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
 2?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z
 2?takeAt@QGridLayout@@UEAAPEAVQLayoutItem@@H@Z
@@ -3133,16 +2425,10 @@ $~aA;F
 2ComponentSetHSVSatChanged(QVector<double>)
 2ComponentSetHSVValueChanged(QVector<double>)
 2ComponentSetRedChanged(QVector<double>)
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
 2EditingCancelled()
 2EditingFinished()
 2EditingStarted()
-2H9A8t	H
 2HDRmultiplierSetChanged(QVector<double>)
-2I9FPt
-2Ic>A;~
-2L;zPt
 2OffsetPulse(double)
 2OnColorAccepted(FatColor_t)
 2OnColorPicked(FatColor_t)
@@ -3163,6 +2449,9 @@ $~aA;F
 2ValueSetXChanged(QVector<double>)
 2ValueSetYChanged(QVector<double>)
 2WidgetUpdated(int)
+2\r52t
+2\rE2h
+2\v?addMenu@QMenuBar@@QEAAPEAVQMenu@@AEBVQString@@@Z
 2aboutToShow()
 2accepted()
 2boo(bool)
@@ -3180,8 +2469,6 @@ $~aA;F
 2editingFinished()
 2editingTextFinished()
 2focusChanged( QWidget *, QWidget * )
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
 2iValueChanged(int)
 2makeMeYourColor()
 2mapped(QString)
@@ -3210,51 +2497,43 @@ $~aA;F
 2valueChanged(double)
 2valueChanged(int)
 2valueEdited()
-2xJK7*L
+3 FB
 3+5<t
 3,?setReadOnly@QPlainTextEdit@@QEAAX_N@Z
 3-?setStretchLastSection@QHeaderView@@QEAAX_N@Z
 3/?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ
 30?staticMetaObject@QDialog@@2UQMetaObject@@B
-330314235959Z0L1
+3333
 333333
-33333333H+
-360428235959Z0i1
-370322235959Z0c1
-380115120000Z0b1
+37>k
 38?warning@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z
-3;D$@wpA
-3;D$DwuA
 3>N;kU
 3>fvw
 3?textFromValue@QDoubleSpinBox@@UEBA?AVQString@@N@Z
 3?toRgb@QColor@@QEBA?AV1@XZ
 3?toolTip@QAction@@QEBA?AVQString@@XZ
-3A8A#
-3mq+<
+3?tr
+3\r%3t
 4-byte data pool
-4;t	H
-4@HcD)
-4HA;x
-4ND;{
 5"?qt_metacall@QCompleter@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 5/?sizeHint@QCheckBox@@UEBA?AVQSize@@XZ
-5@8|$"t.9|
-5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+51>W
+5\fE5
+5\r55t
 5sfm_v8
 5t8jD
-6*f(_
 63?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
 64 283 0
-6I]Dc
-6OB,n_
+6NK>
+6\fXO>\ntA
 7%?reset@QAbstractItemView@@UEAAXXZ
 7)?setFamily@QFont@@QEAAXAEBVQString@@@Z
 7.?setVisible@QMenuBar@@UEAAX_N@Z
 7/?sizeHint@QComboBox@@UEBA?AVQSize@@XZ
 700PP
 700WP
-70503
+7>I0
+7?GX
 7?type@QStandardItem@@UEBAHXZ
 7?updateGeometries@QListView@@MEAAXXZ
 7?updateGeometries@QTableView@@MEAAXXZ
@@ -3275,21 +2554,19 @@ $~aA;F
 7?verticalScrollbarAction@QAbstractItemView@@MEAAXH@Z
 7?verticalScrollbarAction@QTableView@@MEAAXH@Z
 7?verticalScrollbarValueChanged@QAbstractItemView@@MEAAXH@Z
-7HcD$P
 7h>?8
+7~xh
+8&Kx
 8'?setAlignment@QLabel@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 8(?setContentsMargins@QLayout@@QEAAXHHHH@Z
 8-byte data pool
 80?staticMetaObject@QDoubleSpinBox@@2UQMetaObject@@B
-80tWD
 83?timerEvent@QAbstractSlider@@MEAAXPEAVQTimerEvent@@@Z
-8;o |
 8?viewOptions@QAbstractItemView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewOptions@QListView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewOptions@QTableView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewportEvent@QAbstractItemView@@MEAA_NPEAVQEvent@@@Z
 8?viewportEvent@QAbstractScrollArea@@MEAA_NPEAVQEvent@@@Z
-8?viewportEvent@QTreeView@@MEAA_NPEAVQEvent@@@Z
 8?width@QPixmap@@QEBAHXZ
 8?width@QWidget@@QEBAHXZ
 8?winEvent@QWidget@@MEAA_NPEAUtagMSG@@PEAJ@Z
@@ -3303,332 +2580,71 @@ $~aA;F
 8?write@QTreeWidgetItem@@UEBAXAEAVQDataStream@@@Z
 8?x@QMouseEvent@@QEBAHXZ
 8?y@QMouseEvent@@QEBAHXZ
-8A]A\
-8A^A\][
-8A^A]_^][
-8A^^[]
-8A^^][
-8A^_][
-8A^_^[
-8A_A\
-8A_A\][
-8A_A\^]
-8A_A]A\[
-8A_A^
-8A_A^A\[
-8A_A^A]A\^]
-8A_A^A]A\_^[]
-8A_A^A]A\_^][
-8A_A^^[
-8A_A^_[
-8A_A^_]
-8A__[]
-8A__][
-8A__^[
-8CIu	8CJ
 8Csinf
-8D$ u+I
-8D$XuDD
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
 8DmAttributeRemovedListenerInfo_t CUtlMemoryPool
-8GbthH
-8H9}Xtp
-8HcsP;s`u
-8K0u7H
-8L$`t
-8Y0t]
-8\$`t
-8\$pt
-8\$xt
-8_^[]
-8_^][
 8b  16-May-2010
-8fF9|
 8ke?;
-8vmatt
-9"tCeH
-9#tCeH
-9$tCeH
-9%tCeH
-9'tCeH
-9(tCeH
-9)tCeH
-9)~vH
-9*tCeH
-9+tCeH
-9,tCeH
-9-tCeH
-9.tCeH
-9/tCeH
-90tCeH
-91t0H
-91~/E3
-92~tH
 93?timerEvent@QAbstractSpinBox@@MEAAXPEAVQTimerEvent@@@Z
-98~03
-99C }
-99~-H
-99~3H
-99~BH
-99~CH
-99~DH
-9;~<ff
+9>70
 9>powf
-9C |K
-9D$ u
-9D$ }(Hc/;o
-9D$(}y
-9D$@t
-9D$`u
-9D$x~
-9Eo~ 3
-9Eo~83
-9FXu6Hc
-9FXu;Hc
-9G$vAD
-9GXu2Lc
-9GXuCHc
-9Gdr:
-9HXu*H
-9L$8|7
-9L$8~
-9L$<~[
-9L$Pt#
-9OHt$H
-9P ~(H
-9P$u.9
-9Q8u	D9AHu
-9QQu'E
-9QhtWH
-9Sxv'L
-9T$<|
-9T$<~
-9W8~j
-9WP~GM
-9WP~HM
-9WP~KM
-9X@u4
-9YD~/3
-9YP~.H
-9Yh~WH
-9\$`~[
-9^(~+H
-9^<~.
-9^<~0f
-9^<~1
-9^<~2
-9^<~3
-9^<~5
-9_ ~YM
-9_8~h
-9_<~DH
-9_<~HH
-9_<~LH
-9_<~fH
-9_D~/3
-9_D~H3
-9_P~OE3
-9_QtFHc7
-9_p~$
-9i ~I
-9i(~"
-9i<~O
-9i@~VH
-9iP~TE3
-9k ~OH
-9k8u&H
-9k8~FH
-9k8~QH
-9k8~_H
-9k@~dH
-9o@~^H
-9oP~2E3
-9oP~3E3
-9p ~DH
-9q|~2H
-9s,u-
-9s@~DH
-9s@~HH
-9s@~IH
-9s@~JH
-9s@~Xfff
-9s@~bH
-9sHva
-9sLv|
-9t$ ~&H
-9t$@~7H
-9t$P~58
-9w@~IH
-9w@~QH
-9wP~IL
-9y8~YM
-9y@~ZL
-9{0t+H
-9{\~9H
-9}@~HH
-9~@~3
-9~@~7
-9~@~;
-9~@~x
-9~P~3
-9~P~7
-9~P~;
+9\f?background@QPainter@@QEBAAEBVQBrush@@XZ
+9\f?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+9\r?qrand@@YAHXZ
 : Add
-:#u0A
-:>)*	v
-:>t6k'
-:D;a}
-:Hc{h;{xu
-:Lc.D;n
 ;"?qt_metacall@QDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ;'?setAlignment@QLayoutItem@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 ;+?setMouseTracking@QWidget@@QEAAX_N@Z
 ;-?setStyle@QBrush@@QEAAXW4BrushStyle@Qt@@@Z
-;.u1L
 ;/?sizeHint@QDialog@@UEBA?AVQSize@@XZ
-;1}*H
-;2HcG
-;3}cH
-;7}JH
-;A ~W
-;A;E4~XA
-;B$vUH
-;B$vvI
-;C ~M
-;CP}8H
-;Ct~EH
-;Ct~MH
-;Ct~ZH
-;Ct~bH
-;Cxr(H
-;CxsR
-;D$0u
-;D$4u+
-;D$8u"
-;D$8u$
-;D$8u%
-;D$8u(
-;D$@@
-;D$@u
-;D$Hu
-;D$XwrA
-;D$`@
-;D$`u
-;D$hu
-;EguyH
-;G$u5
-;H9>&X
-;L$0u
-;L$@u
-;L$hu
-;SL|3
-;T$ |
-;T$0u
-;Vl}fD
-;\$ |
-;\$8|
-;\$@|
-;\$`|
-;\$p|
-;\$xu
-;]p}~H
-;_d}:
-;l$0|
-;l$hr
-;t$0u
-;t$8u"
-;t$H|
-;t$Xu 
-;wxu,H
-;|$ |
-;|$@|
-;|$`|
-;|$p|
-;~(u	H
-;~d}2
-<	u"H
-<	vN<
-<	vO<
-<	w	@
-< t;<	t7
-< tH<	tD<
+;1cb
+;\r?qsrand@@YAXI@Z
 <!-- DMXVersion
-<!-- dmx
-<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->
+<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
 <!-- schema 
 <"?qt_metacall@QDialogButtonBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-<$E;Q
 <%?reset@QListView@@UEAAXXZ
-<(A9oX
 <,?setRed@QColor@@QEAAXH@Z
 <-?setStyle@QFont@@QEAAXW4Style@1@@Z
-<0:08
-<0|C<9
 <3?timerEvent@QListView@@MEAAXPEAVQTimerEvent@@@Z
-<;CL}_Ic
-<< none >>
-<>#n2
-<@Lc,
-<@Lc<
-<DuBfff
 <Error reading texture description>
 <NONE>
 <NULL>
-<atc<r
 <deferred>
-<dt <it
-<dtk<itg<uu
 <error retrieving model info>
-<ft_<lu
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <sqrt
 <unconnected>
 <unknown>
-<uuNI
-<xuCA
-<}wWH
 =*?setIconSize@QToolBar@@QEAAXAEBVQSize@@@Z
 =,?setRedF@QColor@@QEAAXN@Z
+=1cb
 =333?333?333?333?
 =33s?VRenderingSiblingWidget
-======
+=87M
 =AuthPhys
-=SPB8
+=cQ6
+=e2m
 =imb;D
-=rIQU
->	?grow@QVectorData@@SAHHHH_N@Z
 >&?scaled@QPixmap@@QEBA?AV1@HHW4AspectRatioMode@Qt@@W4TransformationMode@3@@Z
->D8gp
->Mp$d
+>8UF
+>\t?grow@QVectorData@@SAHHHH_N@Z
+>cQ6
 >dme_position_map
->ff&?
 >fff?
->ffffff
 >jtm}S
->vmdl
 ?!5WOo
-?*u8H
-?*u:H
-?+>^m
 ?.?setVisible@QWidget@@UEAAX_N@Z
 ?/?sizeHint@QFrame@@UEBA?AVQSize@@XZ
+?1cb
 ?333333
 ?3?timerEvent@QMenu@@MEAAXPEAVQTimerEvent@@@Z
+?3Fx
 ?49HoKC
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8UUUUU
 ?8bunz8
-?:kP<
-?<!t	3
-?<!u*H
-?<!uEH
-?<!uQH
-?<"t>H
-?<%u	H
 ??0CThreadEvent@@QEAA@_N@Z
 ??0CThreadMultiWaitEvent@@QEAA@_N@Z
 ??0QAction@@QEAA@AEBVQString@@PEAVQObject@@@Z
@@ -3880,10 +2896,7 @@ $~aA;F
 ?ConColorMsg@@YAXAEBVColor@@PEBDZZ
 ?ConMsg@@YAXPEBDZZ
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
-?Cu0f9w
-?D8gmt#H
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
 ?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
 ?ExitScope@CVProfile@@QEAAXXZ
 ?ExtendPath@CBufferString@@QEAAPEBDPEBDD@Z
@@ -3892,7 +2905,6 @@ $~aA;F
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
 ?Format@CBufferString@@QEAAHPEBDZZ
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Ji@9
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
@@ -3902,7 +2914,6 @@ $~aA;F
 ?MakeAbsolutePath@CBufferString@@QEAAPEBDPEBD0@Z
 ?Purge@CBufferString@@QEAAXH@Z
 ?QStringList_join@QtPrivate@@YA?AVQString@@PEBVQStringList@@AEBV2@@Z
-?QY^&
 ?R0I?
 ?Relinquish@CBufferString@@QEAAPEADW4EAllocationOption_t@1@@Z
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
@@ -3919,63 +2930,25 @@ $~aA;F
 ?ShortenPath@CBufferString@@QEAAPEBD_N@Z
 ?SpinLockForWrite@CThreadSpinRWLock@@AEAAXPEBDHI@Z
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
-?TY,>5
 ?ToLowerFast@CBufferString@@QEAAXH@Z
 ?TruncateAt@CBufferString@@QEAAPEBDH_N@Z
 ?UUUUUU
-?U[y[
 ?Unknown
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
 ?UnlockRead@CThreadSpinRWLock@@QEAAXPEBDH@Z
 ?UnlockWrite@CThreadSpinRWLock@@QEAAXPEBDH@Z
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@PEADV?$CUtlMemory@PEADH@@@@@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-?W(~N
 ?WaitForMultiple@CThreadEvent@@SAIHPEAV1@_NI@Z
-?accept@QDialog@@UEAAXXZ
-?acceptProposedAction@QDropEvent@@QEAAXXZ
-?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QMenuBar@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QToolBar@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QToolButton@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
-?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
+?\rz0w
+?\vxMW
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
-?activeModalWidget@QApplication@@SAPEAVQWidget@@XZ
-?activePopupWidget@QApplication@@SAPEAVQWidget@@XZ
-?activeWindow@QApplication@@SAPEAVQWidget@@XZ
-?addAction@QActionGroup@@QEAAPEAVQAction@@PEAV2@@Z
-?addAction@QMenu@@QEAAPEAVQAction@@AEBVQString@@@Z
-?addAction@QMenu@@QEAAPEAVQAction@@AEBVQString@@PEBVQObject@@PEBDAEBVQKeySequence@@@Z
-?addAction@QToolBar@@QEAAPEAVQAction@@AEBVQIcon@@AEBVQString@@PEBVQObject@@PEBD@Z
-?addAction@QWidget@@QEAAXPEAVQAction@@@Z
-?addButton@QButtonGroup@@QEAAXPEAVQAbstractButton@@@Z
 ?addGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
-?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
-?addItem@QComboBox@@QEAAXAEBVQString@@AEBVQVariant@@@Z
-?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
-?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
-?addMenu@QMenu@@QEAAPEAVQAction@@PEAV1@@Z
-?addMenu@QMenuBar@@QEAAPEAVQMenu@@AEBVQString@@@Z
-?addSeparator@QMenu@@QEAAPEAVQAction@@XZ
-?addSpacerItem@QBoxLayout@@QEAAXPEAVQSpacerItem@@@Z
-?addSpacing@QBoxLayout@@QEAAXH@Z
-?addStretch@QBoxLayout@@QEAAXH@Z
-?addTab@QTabWidget@@QEAAHPEAVQWidget@@AEBVQIcon@@AEBVQString@@@Z
-?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QLayout@@QEAAXPEAVQWidget@@@Z
-?addWidget@QSplitter@@QEAAXPEAVQWidget@@@Z
-?addWidget@QStackedWidget@@QEAAHPEAVQWidget@@@Z
-?addWidget@QToolBar@@QEAAPEAVQAction@@PEAVQWidget@@@Z
 ?adjusted@QRect@@QEBA?AV1@HHHH@Z
 ?allocate@QVectorData@@SAPEAU1@HH@Z
-?alpha@QColor@@QEBAHXZ
-?alphaF@QColor@@QEBANXZ
 ?append@?$QVector@VQPoint@@@@QEAAXAEBVQPoint@@@Z
 ?append@QListData@@QEAAPEAPEAXXZ
 ?append@QString@@QEAAAEAV1@AEBV1@@Z
-?appendRow@QStandardItemModel@@QEAAXAEBV?$QList@PEAVQStandardItem@@@@@Z
 ?arg@QString@@QEBA?AV1@AEBV1@0@Z
 ?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
 ?arg@QString@@QEBA?AV1@FHHAEBVQChar@@@Z
@@ -3985,58 +2958,15 @@ $~aA;F
 ?arg@QString@@QEBA?AV1@_KHHAEBVQChar@@@Z
 ?at@QListData@@QEBAPEAPEAXH@Z
 ?at@QString@@QEBA?BVQChar@@H@Z
-?background@QPainter@@QEBAAEBVQBrush@@XZ
-?beep@QApplication@@SAXXZ
 ?begin@QListData@@QEBAPEAPEAXXZ
-?bits@QImage@@QEAAPEAEXZ
 ?blockSignals@QObject@@QEAA_N_N@Z
-?blue@QColor@@QEBAHXZ
-?blueF@QColor@@QEBANXZ
 ?bottomRight@QRect@@QEBA?AVQPoint@@XZ
-?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
 ?buddy@QAbstractItemModel@@UEBA?AVQModelIndex@@AEBV2@@Z
-?buddy@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
-?button@QDialogButtonBox@@QEBAPEAVQPushButton@@W4StandardButton@1@@Z
-?button@QMouseEvent@@QEBA?AW4MouseButton@Qt@@XZ
-?buttons@QButtonGroup@@QEBA?AV?$QList@PEAVQAbstractButton@@@@XZ
-?buttons@QMouseEvent@@QEBA?AV?$QFlags@W4MouseButton@Qt@@@@XZ
 ?canFetchMore@QAbstractItemModel@@UEBA_NAEBVQModelIndex@@@Z
-?canFetchMore@QSortFilterProxyModel@@UEBA_NAEBVQModelIndex@@@Z
-?canInsertFromMimeData@QPlainTextEdit@@MEBA_NPEBVQMimeData@@@Z
 ?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
-?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QAbstractSpinBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QColorDialog@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QDialogButtonBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QGroupBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QMenuBar@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QPlainTextEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QSplitter@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QTabWidget@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QToolBar@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QToolButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
-?checkStateSet@QAbstractButton@@MEAAXXZ
-?checkStateSet@QCheckBox@@MEAAXXZ
-?childEvent@QGroupBox@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QSplitter@@MEAAXPEAVQChildEvent@@@Z
-?childEvent@QToolBar@@MEAAXPEAVQChildEvent@@@Z
 ?children@QObject@@QEBAAEBV?$QList@PEAVQObject@@@@XZ
-?clear@QAbstractSpinBox@@UEAAXXZ
-?clear@QComboBox@@QEAAXXZ
-?clear@QListWidget@@QEAAXXZ
-?clear@QMenu@@QEAAXXZ
-?clear@QStandardItemModel@@QEAAXXZ
-?clearFocus@QWidget@@QEAAXXZ
 ?clipboard@QApplication@@SAPEAVQClipboard@@XZ
 ?clone@QStandardItem@@UEBAPEAV1@XZ
 ?clone@QTableWidgetItem@@UEBAPEAV1@XZ
@@ -4342,6 +3272,7 @@ $~aA;F
 ?hsvSaturation@QColor@@QEBAHXZ
 ?hsvSaturationF@QColor@@QEBANXZ
 ?icon@QAction@@QEBA?AVQIcon@@XZ
+?id7
 ?index@QSortFilterProxyModel@@UEBA?AVQModelIndex@@HHAEBV2@@Z
 ?index@QStandardItemModel@@UEBA?AVQModelIndex@@HHAEBV2@@Z
 ?indexAt@QListView@@UEBA?AVQModelIndex@@AEBVQPoint@@@Z
@@ -4384,9 +3315,7 @@ $~aA;F
 ?isIndexHidden@QTreeView@@MEBA_NAEBVQModelIndex@@@Z
 ?isNull@QPixmap@@QEBA_NXZ
 ?isValid@QColor@@QEBA_NXZ
-?isValid@QTime@@QEBA_NXZ
 ?isVisible@QWidget@@QEBA_NXZ
-?isWidgetType@QObject@@QEBA_NXZ
 ?item@QListWidget@@QEBAPEAVQListWidgetItem@@H@Z
 ?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z
 ?itemAt@QGridLayout@@UEBAPEAVQLayoutItem@@H@Z
@@ -4419,6 +3348,7 @@ $~aA;F
 ?keyboardSearch@QAbstractItemView@@UEAAXAEBVQString@@@Z
 ?keyboardSearch@QTreeView@@UEAAXAEBVQString@@@Z
 ?kxG2)
+?lZE
 ?languageChange@QWidget@@MEAAXXZ
 ?layout@QLayout@@UEAAPEAV1@XZ
 ?layout@QLayoutItem@@UEAAPEAVQLayout@@XZ
@@ -4437,7 +3367,6 @@ $~aA;F
 ?loadFromData@QPixmap@@QEAA_NPEBEIPEBDV?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
 ?loadResource@QPlainTextEdit@@UEAA?AVQVariant@@HAEBVQUrl@@@Z
 ?logf
-?manhattanLength@QPoint@@QEBAHXZ
 ?mapFromGlobal@QWidget@@QEBA?AVQPoint@@AEBV2@@Z
 ?mapFromSource@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
 ?mapSelectionFromSource@QSortFilterProxyModel@@UEBA?AVQItemSelection@@AEBV2@@Z
@@ -4445,7 +3374,6 @@ $~aA;F
 ?mapToGlobal@QWidget@@QEBA?AVQPoint@@AEBV2@@Z
 ?mapToParent@QWidget@@QEBA?AVQPoint@@AEBV2@@Z
 ?mapToSource@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
-?match@QAbstractItemModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
 ?match@QSortFilterProxyModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
 ?matches@QKeyEvent@@QEBA_NW4StandardKey@QKeySequence@@@Z
 ?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ
@@ -4472,7 +3400,6 @@ $~aA;F
 ?metaObject@QListWidget@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QMenu@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QMenuBar@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QMimeData@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QPlainTextEdit@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QProgressBar@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QPushButton@@UEBAPEBUQMetaObject@@XZ
@@ -4486,7 +3413,6 @@ $~aA;F
 ?metaObject@QTabWidget@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QTableView@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QTableWidget@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QTimer@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QToolBar@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QToolButton@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QTreeWidget@@UEBAPEBUQMetaObject@@XZ
@@ -4593,38 +3519,16 @@ $~aA;F
 ?moveCursor@QTableView@@MEAA?AVQModelIndex@@W4CursorAction@QAbstractItemView@@V?$QFlags@W4KeyboardModifier@Qt@@@@@Z
 ?moveCursor@QTreeView@@MEAA?AVQModelIndex@@W4CursorAction@QAbstractItemView@@V?$QFlags@W4KeyboardModifier@Qt@@@@@Z
 ?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z
-?msec@QTime@@QEBAHXZ
-?msecsTo@QTime@@QEBAHAEBV1@@Z
 ?name@QColor@@QEBA?AVQString@@XZ
 ?nextCheckState@QAbstractButton@@MEAAXXZ
 ?nextCheckState@QCheckBox@@MEAAXXZ
 ?nextCheckState@QToolButton@@MEAAXXZ
 ?nextInFocusChain@QWidget@@QEBAPEAV1@XZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
-?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
 ?numScreens@QDesktopWidget@@QEBAHXZ
-?number@QByteArray@@SA?AV1@HH@Z
-?number@QString@@SA?AV1@HH@Z
-?number@QString@@SA?AV1@NDH@Z
-?objectName@QObject@@QEBA?AVQString@@XZ
-?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?openUrl@QDesktopServices@@SA_NAEBVQUrl@@@Z
-?parent@QObject@@QEBAPEAV1@XZ
 ?position
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
-?qDebug@@YA?AVQDebug@@XZ
-?qFree@@YAXPEAX@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
-?qWarning@@YAXPEBDZZ
-?qrand@@YAHXZ
-?qsrand@@YAXI@Z
-?qt_metacall@QMimeData@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QTimer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QMimeData@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
-?qt_metacast@QTimer@@UEAAPEAXPEBD@Z
-?qt_qFindChildren_helper@@YAXPEBVQObject@@AEBVQString@@PEBVQRegExp@@AEBUQMetaObject@@PEAV?$QList@PEAX@@@Z
+?qBJ
+?rAj
 ?realloc@QListData@@QEAAXH@Z
 ?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
 ?ref@QBasicAtomicInt@@QEAA_NXZ
@@ -4684,354 +3588,25 @@ $~aA;F
 ?translate@QCoreApplication@@SA?AVQString@@PEBD00W4Encoding@1@@Z
 ?trimmed@QString@@QEBA?AV1@XZ
 ?truncate@QString@@QEAAXH@Z
-?u='@
 ?userType@QVariant@@QEBAHXZ
 ?value@QSettings@@QEBA?AVQVariant@@AEBVQString@@AEBV2@@Z
 ?width@QRect@@QEBAHXZ
 ?x@QPoint@@QEBAHXZ
 ?y@QPoint@@QEBAHXZ
-?{Q}<
-@ A+@
-@ D+@
+?ysB
 @"?qt_metacall@QDoubleSpinBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-@%.10f
-@%w	D
-@(A+@4;
-@.data
-@.gfids
-@.tls
-@09D$0
 @3?timerEvent@QMenuBar@@MEAAXPEAVQTimerEvent@@@Z
-@8,2u
-@80t9H
-@80u#H
-@81u/H
-@85f+>
-@85iP$
-@85su(
-@8=I99
-@8kut~L
-@8l$8t
-@8l$Pt-L
-@8l$`tAH
-@8nc@
-@8s0u
-@8sDt
-@8sDu
-@8sDu'E3
-@8t$hu
-@8t$x
-@8wDt
-@8wc@
-@8wuu;
-@8x tF@8
-@8x u
-@8y:t
-@8y}tUH
-@8{Xu
-@8{Yt
-@8{Yu
-@8{ht
-@8{pt
-@8{qt
-@8{rH
-@8{xtG
-@8|$Pt
-@8|$Pt	
-@8|$PtN
-@8|$PtP
-@8|$^t
-@8|$ju2H
-@8|$ku	H
-@8|0(t,H
-@8}ju0H
-@8}ku	H
-@;k@|
-@>%>b
-@@H9(t%I
-@A\^]
-@A\_[H
-@A]A\^
-@A]A\_
-@A]^[
-@A]_^][
-@A^A\]
-@A^A\^
-@A^A\_^]
-@A^A]A\
-@A^A]A\^]
-@A^A]A\_^
-@A^A]]
-@A^^]
-@A^_[
-@A^_]
-@A^_^
-@A^_^[]
-@A^_^][
-@A^_^][H
-@A_A\_
-@A_A]A\_^
-@A_A]^][
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A\_^][
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^A]A\_][
-@A_A^A]A\_^]
-@A_A^A]_^
-@A_A^A]_^[]
-@A_A^[
-@A_A^]
-@A_A^]H
-@A_A^^
-@A_A^_
-@A_A^_^]
-@A_][H
-@A__[H
-@A__^
-@C;t/
-@D9AHM
-@HcAp3
-@HcC(H
-@HcD)
-@HcD5
-@HcyxH
 @InputBindSystem
 @Integer overflow in %s
-@JcD!
-@Lc:E3
-@Lcqh3
-@SATAUAV
-@SATAUH
-@SATAVH
-@SATH
-@SAUAVAWH
-@SAUAVH
-@SAUH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAUH
-@SUATAVH
-@SUAVH
-@SUAWH
-@SUVATAVH
-@SUVATH
-@SUVAUAWH
-@SUVAVAWH
-@SUVAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAUH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAUAVAWH
-@SUWAUAWH
-@SUWAVAWH
-@SUWAVH
-@SUWAWH
-@SUWH
-@SVATAUAVH
-@SVATAUAWH
-@SVATAVAWH
-@SVAUH
-@SVAVAWH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWATAUH
-@SVWATAVH
-@SVWATAWH
-@SVWAUAVAWH
-@SVWAVAWH
-@SVWAVH
-@SVWAWH
-@SVWH
-@SWATAUAWH
-@SWATAVH
-@SWATH
-@SWAUAVH
-@SWAUAWH
-@SWAUH
-@SWAVAWH
-@SWAVH
-@SWAWH
 @Tools
-@UATAUAVAW
-@UATAUAVAWH
-@UATAUAWH
-@UATAUH
-@UATAVH
-@UATAWH
-@UATH
-@UAUAVH
-@UAUAWH
-@UAUH
-@UAV3
-@UAVAWH
-@UAVH
-@UAWH
-@USATAUH
-@USATAWH
-@USAUAVH
-@USAUAWH
-@USAUH
-@USAVAWH
-@USAVH
-@USVAUAVAWH
-@USVAUAWH
-@USVAVH
-@USVAWH
-@USVH
-@USVWATAUAVAWH
-@USVWATAUH
-@USVWATAVAWH
-@USVWATAVH
-@USVWATH
-@USVWAUAVAWH
-@USVWAUH
-@USVWAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWATAUAWH
-@USWATAVH
-@USWATAWH
-@USWATH
-@USWAVH
-@USWAWH
-@USWH
-@UVATAUAWH
-@UVATAUH
-@UVATAVAW
-@UVATAVH
-@UVATAWH
-@UVAUAWH
-@UVAUAWL
-@UVAUH
-@UVAVAWH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UVWATAUAWH
-@UVWATAUH
-@UVWATH
-@UVWAVH
-@UVWH
-@UWATAWH
-@UWATH
-@UWAUH
-@UWAVAWH
-@UWAVH
-@UWAWH
-@VATAVH
-@VATH
-@VAUAVH
-@VAWH
-@VWATAUAVH
-@VWATAUAWH
-@VWATAVAWH
-@VWAVH
-@VWAWH
-@WATAUAVAWH
-@WATAUH
-@WATAVH
-@WATAWH
-@WATH
-@WAUAVAWH
-@WAVAWH
-@WAVH
-@WAWH
-@X9CXu
 @^8U)zj
-@_^[H
-@_^]H
-@b;zO]
-@fE9|
-@ffffff
 @modellib
 @spawn
-@t#fA
-@t/H9w t)H
-@t/H9w8t)H
-A A+A
-A D+A
 A!;I2
 A"?qt_metacall@QDoubleValidator@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-A$+A,t[3
 A%?reset@QTreeView@@UEAAXXZ
 A'?setAlignment@QTextOption@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-A(9B(D
-A(I;E
-A)4$Hc
-A+F$D
-A+F$H
-A+F$Hc
-A+G$E
-A+G$Hc
-A+U$H
-A+n H
-A,A9A(v&L
-A,fA;
-A,u+H
-A03>A|
-A09A }>HcA H
-A0H9P
-A0I;E
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A8]Du
-A97~7H
-A9<2t&A
-A9>~Z
-A9?~YA;F
-A9FHt
-A9FHtQI
-A9U8tCMc]<McE@Lc
-A9Z<~bL
-A9^ ~\
-A9n ~SH
-A9vP~o
-A:(uiI
-A;6}#I
-A;<$|
-A;>|SA;~
-A;?|XA;
-A;@X}
-A;@`}
-A;A`}
-A;BX}
-A;E0~
-A;H$s
-A;H$v}H
-A;PhsKH
-A;Q`}
-A;RX}
-A;Z<|
-A;^ |
-A;^@|
-A;n$|
-A;oP|
-A;t. |
-A;vP|
-A;}(u
-A;~@u
-A>l$/
 A>pP&
-A@D+B 
-A@D+C 
-A@H98t%H
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 ABSTRACT - CQPropertyWidget::AcceptDropMenu
@@ -5040,9 +3615,6 @@ ABSTRACT - CQPropertyWidget::AcceptDropSpecialMenu
 ACTIVITY WEIGHTS
 ACT_IDLE
 ACT_NEUTRAL_REF_POSE
-AD+B$
-AD+B$fA
-AD+C$
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
 AE_CL_ADD_PARTICLE_EFFECT_CP
@@ -5077,154 +3649,18 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 AK>(v
 ALIGN_TYPE is wrong, please fix
-AMAgu
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-AP9A@}]HcA@Hk
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APIF
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
-ATAUAVAWH
-ATAUAVH
-ATAUAWH
-ATAUH
-ATAVAWH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-AUAVAWH
-AUAVH
-AUAWH
 AUUUUUU
-AVAWH
-AX9CXu
-AX9GXu
-A\^[]
-A\^][
-A\_[]
-A\_^[]
-A]A\[
-A]A\[]
-A]A\]
-A]A\][
-A]A\^]
-A]A\_
-A]A\_]
-A]A\_^[
-A]A\_^[]
-A]A\_^]
-A]^[]
-A]_^[]
-A]_^]
-A^A\[]
-A^A\]
-A^A\^]
-A^A\^][
-A^A\_
-A^A\_[]
-A^A\_^[
-A^A\_^[]
-A^A\_^]
-A^A]A\[
-A^A]A\]
-A^A]A\][
-A^A]A\^[]
-A^A]A\_]
-A^A]A\_][
-A^A]A\_^[
-A^A]A\_^[]
-A^A][
-A^A]]
-A^A]]H
-A^A]^]
-A^A]_[]
-A^A]_]
-A^A]_^[]
-A^^[]
-A^^][
-A^_[]
-A^_^[
-A^_^[]
-A^_^]
-A^_^][
-A_A\[
-A_A\[]
-A_A\]
-A_A\^]
-A_A\_[]
-A_A\_]
-A_A\_^[]
-A_A\_^]
-A_A\_^][
-A_A]A\
-A_A]A\[]
-A_A]A\]
-A_A]A\^]
-A_A]A\_[]
-A_A]A\_]
-A_A]A\_^
-A_A]A\_^]
-A_A][
-A_A][]
-A_A]]
-A_A]^
-A_A]^[
-A_A]^]
-A_A]_[
-A_A]_]
-A_A]_^]
-A_A^A\
-A_A^A\H
-A_A^A\]
-A_A^A\^[
-A_A^A\^]
-A_A^A\^][
-A_A^A\_[
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\
-A_A^A]A\[]
-A_A^A]A\]
-A_A^A]A\^]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^]H
-A_A^A]A\_^][
-A_A^A][
-A_A^A][]
-A_A^A]]
-A_A^A]^]
-A_A^A]_
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^[
-A_A^A]_^[]
-A_A^A]_^]
-A_A^[
-A_A^[]
-A_A^]
-A_A^^
-A_A^_
-A_A^_]
-A_A^_^[
-A_A^_^[]
-A_A^_^]
-A_A^_^][
-A_^[]
-A__^[
-A__^[]
-A__^]
-A__^][
-A`D9L8
 About...
 AbsolutePoseControl
 AcceptAndClose()
@@ -5242,13 +3678,13 @@ ActivateTypeInputSingle()
 Active Window Widget
 ActiveArea
 Activity
-Activity %s has %d sequences with a total weight of %d!
-Activity Weights keys not allocated!
+Activity %s has %d sequences with a total weight of %d!\n
+Activity Weights keys not allocated!\n
 AdaptFacesToDisplacement
 AddColor()
 AddLayer
 AddNewLayer
-AddUndoElement '%s'
+AddUndoElement '%s'\n
 AddValueToSet(double)
 Adding %s helper key at %d value 
 Address
@@ -5257,8 +3693,6 @@ AdobeDeflate
 Aggregate alias
 AggregateColor
 Ahd=<c]^7if1Rjg
-AjEB#AZ
-AjfD;
 Align
 AlignedPos
 Allocation of the face failed (not a topology failure).
@@ -5272,6 +3706,7 @@ Alpha:
 AlphaEnabledChanged(bool)
 AltShiftP
 AnalogBalance
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -5308,8 +3743,10 @@ Application built with libpng-
 Application transferred too few scanlines
 Application transferred too many scanlines
 April
+Area
 Arithmetic
 Arithmetic table 0x%02x was not defined
+Arms
 Artist
 AsShotICCProfile
 AsShotNeutral
@@ -5326,45 +3763,33 @@ AssetThumbnail
 At marker 0x%02x, recovery action %d
 AttachPos
 Attachments
-Attempted to add two format updaters with the same file format (%s)!
-Attempted to add two legacy updaters with the same file format (%s)!
-Attempted to add two serializers with the same file encoding (%s)!
-Attempted to read an attribute ("%s") of an inappropriate type %s!
-Attempted to read an attribute ("%s") of an inappropriate type!
-Attempted to read an attribute ("%s") of unknown type %s!
-Attempted to serialize an unsupported shader parameter type %s (%s)
-Attempted to set attribute %s as if it was a non-attribute key!
-Attempting to create unknown particle system '%s'
-Attempting to register the command %s for context %s multiple times
-Attempting to set %s when there is no current sequence!
-Attempting to set name when there is no current sequence!
-AuFHc
+Attempted to add two format updaters with the same file format (%s)!\n
+Attempted to add two legacy updaters with the same file format (%s)!\n
+Attempted to add two serializers with the same file encoding (%s)!\n
+Attempted to read an attribute ("%s") of an inappropriate type %s!\n
+Attempted to read an attribute ("%s") of an inappropriate type!\n
+Attempted to read an attribute ("%s") of unknown type %s!\n
+Attempted to serialize an unsupported shader parameter type %s (%s)\n
+Attempted to set attribute %s as if it was a non-attribute key!\n
+Attempting to create unknown particle system '%s'\n
+Attempting to register the command %s for context %s multiple times\n
+Attempting to set %s when there is no current sequence!\n
+Attempting to set name when there is no current sequence!\n
 August
-AuthE
+Auto
 AutoLayer
 AxisScale
-B +A@
-B A+B
-B D+B
-B channel not found!
+B channel not found!\n
 B"?qt_metacall@QDrag@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 B#?qt_metacast@QPlainTextEdit@@UEAAPEAXPEBD@Z
-B$+ADH
-B(I9A(
 B,?setRenderHint@QPainter@@QEAAXW4RenderHint@1@_N@Z
 B-Spline
 B.f?y
-B09B }<HcB H
-B0A9B }>IcB H
-B0E8XAt
 B3?timerEvent@QPlainTextEdit@@MEAAXPEAVQTimerEvent@@@Z
-B4u"A
-B88A8
-B8l8(t
-B8|09
 BA_INT_NONE
 BC1%M
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -5377,8 +3802,8 @@ BGRA8888_LINEAR
 BGRX5551
 BGRX8888
 BGRX8888_LINEAR
-BGRsu
 BKbhTb~XBK!;
+B\vP\n0
 BackBufferBlit
 BackGroundFill_t
 BackGroundStyle_t
@@ -5408,8 +3833,8 @@ Bad header format (no closing marker)
 Bad header: invalid binary marker
 Bad header: invalid compression header
 Bad header: unrecognized encoding id
-Bad sequence in GetSequenceActivityName() for model '%s'!
-Bad type %d in saved CVariant
+Bad sequence in GetSequenceActivityName() for model '%s'!\n
+Bad type %d in saved CVariant\n
 Bad value for hAlign in AlignedPos!
 Bad value for hAlign in AttachPos!
 Bad value for vAlign in AlignedPos!
@@ -5422,8 +3847,7 @@ BaselineExposure
 BaselineNoise
 BaselineSharpness
 BayerGreenSplit
-Begin mouse capture [%i]: %s
-Bellevue1
+Begin mouse capture [%i]: %s\n
 BenchmarkService001
 BentNormal
 BentNormalData
@@ -5431,7 +3855,7 @@ BestQualityScale
 Bezier
 Binary
 Binary (deterministic sequential ids)
-Binary: Element uses unknown element type %s
+Binary: Element uses unknown element type %s\n
 BinaryProperties_GetValue
 Binding removed due to active drag: %s
 Bits/sample must be 1 for Group 3/4 encoding/decoding
@@ -5452,6 +3876,7 @@ BlendLayer
 BlendLayerBase
 BlendLayerPoseParam
 BlendList
+Body
 BodyGroup
 BodyGroupChoice
 Bogus DAC index %d
@@ -5466,6 +3891,7 @@ Bogus marker length
 Bogus message code %d
 Bogus sampling factors
 Bogus virtual array access
+Bone
 Border Bottom
 Border Left
 Border Right
@@ -5483,48 +3909,19 @@ Buffer passed to JPEG library is too small
 BuildParticleSimList
 Button_AcceptAndCLose
 Button_Reset
-C H9A
-C$u	H
 C%lld
-C(9C u&
-C(D94(
-C(H9A u
-C(HcC$H
-C(I;A
-C(L9<
-C,9C$u
-C,;C(~6H
-C09A(
-C09C u
-C0@u3H
-C0H9C(r
-C0HcF
-C0I;A
-C4D+@ H
-C5R?	
-C8+C0
-C8<(u
-C8D9(
-C8H!o
-C940t%G
-C9|)$u?C
-C<+C@f
-C@D+B 
-C@H90t%H
-C@L90t%H
-C@t%H
-CA< t(<#t
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
 CAssetInfoDatabase
 CAssetInfoDatabase::LoadFromDisk
-CAssetInfoDatabase::LoadFromDisk Failed to find GAME search path.
+CAssetInfoDatabase::LoadFromDisk Failed to find GAME search path.\n
 CAssetInfoDatabase::SaveToDisk
 CAssetPreviewToolScene
-CAssetThumbnailCache::UpdateThumbnail( %s ) - thumbnail already up to date.
-CAssetThumbnailCache::UpdateThumbnail( %s ) - updated thumbnail for loaded asset.
-CAssetThumbnailCache::UpdateThumbnail() - Asset preferrs icon!
-CAssetThumbnailCache::UpdateThumbnail() - Asset was NULL!
+CAssetThumbnailCache::UpdateThumbnail( %s ) - thumbnail already up to date.\n
+CAssetThumbnailCache::UpdateThumbnail( %s ) - updated thumbnail for loaded asset.\n
+CAssetThumbnailCache::UpdateThumbnail() - Asset preferrs icon!\n
+CAssetThumbnailCache::UpdateThumbnail() - Asset was NULL!\n
 CAuthPhysJoint
 CBindableCamera
 CCIR601 sampling not implemented yet
@@ -5532,34 +3929,30 @@ CCITT Group 3
 CCITT Group 4
 CCITT RLE
 CCITT RLE/W
-CD$XD
-CD+B$f
-CD+B$fA
-CD8-4?"
-CDataModel:  %i elements left in memory!!!
-CDataModel: Invalid DMX encoding hint '%s' for file %s
-CDataModel: Unable to determine DMX encoding for file %s
-CDataModel: Unable to generate full path for file %s
-CDataModel: Unable to open file "%s"
-CDataModel: Unable to open file %s
-CDataModel: Unable to open file '%s'
-CDataModel: Unable to overwrite readonly file %s
-CDataModel::DisplayMemoryStats with invalid handle %u
-CDataModel::FindAndDeleteOrphanedElements() took %llums 
+CDataModel:  %i elements left in memory!!!\n
+CDataModel: Invalid DMX encoding hint '%s' for file %s\n
+CDataModel: Unable to determine DMX encoding for file %s\n
+CDataModel: Unable to generate full path for file %s\n
+CDataModel: Unable to open file "%s"\n
+CDataModel: Unable to open file %s\n
+CDataModel: Unable to open file '%s'\n
+CDataModel: Unable to overwrite readonly file %s\n
+CDataModel::DisplayMemoryStats with invalid handle %u\n
+CDataModel::FindAndDeleteOrphanedElements() took %llums \n
 CDependencyGraph::Cleanup
 CDependencyGraph::FindAttrNode
 CDependencyGraph::Reset
 CDmAttribute pool
 CDmElement CUtlMemoryPool
 CDmExtraVertexStream
-CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'
-CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'
-CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'
-CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!
-CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'
-CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...
+CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'\n
+CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'\n
+CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'\n
+CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!\n
+CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...\n
 CDmeAmalgamatedTexture
 CDmeAnimCmd CUtlMemoryPool
 CDmeAnimCmdAlign CUtlMemoryPool
@@ -5615,7 +4008,7 @@ CDmeConstraintSlave CUtlMemoryPool
 CDmeConstraintTarget CUtlMemoryPool
 CDmeControlGroup CUtlMemoryPool
 CDmeDag CUtlMemoryPool
-CDmeDag::GetParentWorldMatrix called on a dag that has different rotation and translation override parents - result will be incorrect!
+CDmeDag::GetParentWorldMatrix called on a dag that has different rotation and translation override parents - result will be incorrect!\n
 CDmeDotaTileGrid
 CDmeExpressionOperator CUtlMemoryPool
 CDmeFXClip CUtlMemoryPool
@@ -5757,7 +4150,7 @@ CEntityHandle
 CEntityIOOutput
 CEntityIdentity
 CEntityIdentity *
-CEntityIdentity::SetEntityName called, but there is no entity name string table pointer!
+CEntityIdentity::SetEntityName called, but there is no entity name string table pointer!\n
 CEntityIndex
 CEntityInstance
 CEntityOutputTemplate
@@ -5769,10 +4162,9 @@ CGlobalHotkeyCommands
 CHammerMesh
 CHandle
 CImagePlaneNode
-CInputBindManager::HandleInputCode recursion depth got too deep.
+CInputBindManager::HandleInputCode recursion depth got too deep.\n
 CKV3FormatManager::RegisterFormatConversion
 CL:>8
-CLD;CP|
 CLightingControlRig
 CLightingPreviewPopupUI
 CManifestInstance
@@ -5953,7 +4345,7 @@ CQModelConfigWidget
 CQNewColorDialog
 CQPopUpScroller
 CQPropertyWidget
-CQPropertyWidget { color: rgb(182, 182, 182); background-color: rgba(47, 47, 47);	}
+CQPropertyWidget { color: rgb(182, 182, 182); background-color: rgba(47, 47, 47);\t}
 CQPropertyWidget::CreateContextMenuDropOptions 
 CQScreenCaptureOverlay
 CQSkeletonPreviewWidget
@@ -6022,7 +4414,7 @@ CQToolSceneSettingsPopup
 CQToolSceneWidget
 CRC error
 CRenderOptionsPopupUI
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaRegistration::RegisterAllModuleData
 CScriptComponent
 CScriptComponent::Storage_t
@@ -6030,10 +4422,10 @@ CScriptComponentReferenced
 CScriptComponentReferencedPtr
 CSolveIKChainAnimNode
 CSplitScreenSlot
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTSQueue<struct ParticleSoundQueueEntry_t *,0>::CTSQueue
@@ -6044,7 +4436,7 @@ CToolAxisObjectDesc::DrawArray
 CToolHud
 CToolRenderContext::PopRenderMode - stack underflow
 CToolRenderContext::PopTransform - matrix stack underflow
-CToolRenderContext::PushRenderMode - exceeded stack depth
+CToolRenderContext::PushRenderMode - exceeded stack depth\n
 CToolRenderContext::PushTransform - busted through MAX_MATRIX_STACK_DEPTH (%d)
 CToolRenderContext::PushTransform - matrix stack underflow
 CToolSceneAttachmentNames
@@ -6091,7 +4483,7 @@ CToolSceneTextureOverlay
 CToolSceneTextureSequencePreview
 CToolSceneToolObject
 CToolSceneTraceEnvironment::Draw_SetupIdForCurrentNode
-CToolSceneTraceEnvironment::Draw_SetupIdForCurrentNode - Trying to draw with no node. You need to call Draw_SetCurrentNode() before drawing
+CToolSceneTraceEnvironment::Draw_SetupIdForCurrentNode - Trying to draw with no node. You need to call Draw_SetCurrentNode() before drawing\n
 CToolsVisPopupUI
 CTransform
 CUndoArrayAttributeSetMultipleValueElement
@@ -6109,27 +4501,27 @@ CUndoManager::GetUndoDescInternal
 CUndoManager::Redo
 CUndoManager::Undo
 CUtlBinaryBlock
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<class Vector2D,int>::ChangeSize
 CUtlBlockMemory<class std::function<void __cdecl(void)>,int>::ChangeSize
 CUtlBlockMemory<struct CPolygonMeshSubdivisionRemappingData::PatchData_t,int>::ChangeSize
 CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::ChangeSize
 CUtlBlockMemory<struct UtlRBTreeNode_t<struct CDmElementSerializationDictionary::ElementInfo_t,int>,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlFixedMemory overflow!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> >::Grow
 CUtlLeanVectorBase<struct CEntityKeyValues::KeyValueInfo_t,short>::EnsureCapacity
 CUtlLeanVectorFixedGrowableBase<unsigned int,9,short>::EnsureCapacity
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<struct CEntityKeyValues::KeyValueInfo_t,short>,struct CEntityKeyValues::KeyValueInfo_t,short>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned int,9,short>,unsigned int,short>::AddToTailGetPtr
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CToolRenderable *,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<class CToolRenderable *,int>,int> >::AllocInternal
 CUtlLinkedList<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> > >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<class CDmAttribute *,unsigned short,bool (__cdecl*)(class CDmAttribute * const &,class CDmAttribute * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmAttribute *,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<class CDmElement *,int,bool (__cdecl*)(class CDmElement * const &,class CDmElement * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmElement *,int>,int> >::NewNode
 CUtlRBTree<class DmeTime_t,unsigned short,bool (__cdecl*)(class DmeTime_t const &,class DmeTime_t const &),class CUtlMemory<struct UtlRBTreeNode_t<class DmeTime_t,unsigned short>,unsigned short> >::NewNode
@@ -6183,7 +4575,7 @@ CUtlRBTree<struct LayerEvent_t<int>,unsigned short,bool (__cdecl*)(struct LayerE
 CUtlRBTree<struct LayerEvent_t<unsigned __int64>,unsigned short,bool (__cdecl*)(struct LayerEvent_t<unsigned __int64> const &,struct LayerEvent_t<unsigned __int64> const &),class CUtlMemory<struct UtlRBTreeNode_t<struct LayerEvent_t<unsigned __int64>,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<struct LayerEvent_t<unsigned char>,unsigned short,bool (__cdecl*)(struct LayerEvent_t<unsigned char> const &,struct LayerEvent_t<unsigned char> const &),class CUtlMemory<struct UtlRBTreeNode_t<struct LayerEvent_t<unsigned char>,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
-CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer\n
 CUtlString
 CUtlString::FormatV
 CUtlStringToken
@@ -6195,8 +4587,6 @@ CVariantDefaultAllocator
 CVertexListSceneObject
 CVisibilityMgr
 CWD>~3
-CXHc8H
-CXHcCX;
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -6310,19 +4700,18 @@ Cannot save KV3 text to a non-text buffer!
 Cannot save as KV3_FORMAT_LOAD_WITH_NO_UPCONVERSION.
 Cannot transcode due to multiple use of quantization table %d
 Cannot unserialize a prefix element here (type "$prefix_element$")
-Cannot update thumbnail for non-cached asset: %s
+Cannot update thumbnail for non-cached asset: %s\n
 Cannot write directory, out of space
 CapToggle
+Caps
 CaptureNextPresent
 Catmull-Rom
 Catmull-Rom (Norm X)
 Catmull-Rom (Norm)
 Catmull-Rom (Tangent)
 Caution: quantization tables are too coarse for baseline JPEG
-Cd+C\
 CellLength
 CellWidth
-Ch+C`
 ChangeAccessorFieldPathIndex_t
 ChangeTimerQueueTimer
 Channel:
@@ -6404,9 +4793,9 @@ Compression
 Compression algorithm does not support random access
 Compression scheme %u %s decoding is not implemented
 Compression scheme %u %s encoding is not implemented
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -6415,7 +4804,8 @@ Constraints
 Context
 ContextPriority
 ContextStackSize
-Conversion from DmeMesh to PolygonMesh removed %i of %i faces.
+Conversion from DmeMesh to PolygonMesh removed %i of %i faces.\n
+Copy
 CopyAttrFrom
 CopyColor()
 CopyColor(int)
@@ -6432,7 +4822,6 @@ Corrupt JPEG data: bad arithmetic code
 Corrupt JPEG data: found marker 0x%02x instead of RST%d
 Corrupt JPEG data: premature end of data segment
 Courier
-Cp9Sxv(L
 Create In Hierarchy
 CreateEventExW
 CreateEventW
@@ -6455,489 +4844,32 @@ CreateTimerQueueTimer
 CreateUmsCompletionList
 CreateUmsThreadContext
 CreateVertexListObject
+Ctrl
 CtrlAltV
+Cube
 Cull Random
 CurrentFrameChanged(int)
 CurrentICCProfile
 CurrentPreProfileMatrix
 Custom Color
 Custom Colors
-Cx+G 
-Cx9S8~'H
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D W?{W
-D#J$A
-D$ !>;
-D$ !\$$H
-D$ 3A
-D$ 9F
-D$ ;(}#H
-D$ ;(}'H
-D$ ;(}+H
-D$ ;(}4H
-D$ ;(}BH
-D$ ;0}cH
-D$ ;V
-D$ A;
-D$ D;
-D$ E2
-D$ E3
-D$ H;
-D$ H;E
-D$ Hc
-D$ Hc(H
-D$ Hc0
-D$ Hc0H
-D$ HcX
-D$ I;
-D$ L9d$(t
-D$ L;
-D$ N&B:H
-D$ P-
-D$ d=
-D$ eH
-D$ fA
-D$ fD
-D$ fE
-D$ fH
-D$ r|
-D$ t.
-D$#A;~
-D$$9D$(u
-D$$A;
-D$$E;
-D$$fA9
-D$(;E
-D$(@8;t
-D$(A;
-D$(D;{
-D$(E3
-D$(H9
-D$(H9D$0
-D$(H;
-D$(Hc
-D$(HcX
-D$(L9
-D$(fI
-D$(tn
-D$(zEuC
-D$)fD
-D$,A;
-D$,D;
-D$,E9|. ~YI
-D$0+D$`
-D$0,M
-D$00u
-D$09(tSH
-D$09\$<
-D$0;(}#H
-D$0;0}
-D$0;0}'H
-D$0< u
-D$0A;
-D$0C+D0(
-D$0D9
-D$0D;
-D$0E3
-D$0E;
-D$0H#
-D$0H+
-D$0H9t$8t
-D$0H;
-D$0H;A t
-D$0H;G
-D$0Hc
-D$0HcC(I
-D$0HcH
-D$0HcX
-D$0I;
-D$0Ic
-D$0L;
-D$0Lc
-D$0Mc
-D$0f;UPu
-D$0fA
-D$0fD
-D$0fH
-D$0mp
-D$0r|
-D$0t7
-D$0t?
-D$0tHA
-D$0tbA
-D$0xL
-D$4+D$8A
-D$49C
-D$4;|$@u)
-D$4D;s
-D$4E3
-D$4fA
-D$8+C$H
-D$8;D$@
-D$8A+
-D$8A;
-D$8D8m
-D$8E3
-D$8H;
-D$8Hc
-D$8HcH
-D$8HcJ
-D$8HcX
-D$8Ic
-D$8L9
-D$8L;
-D$8fH
-D$8ff
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$<t.
-D$@%I
-D$@9D$8
-D$@;0} H
-D$@;D$8
-D$@@8
-D$@A+
-D$@A;
-D$@A;^
-D$@D;
-D$@D;s
-D$@E3
-D$@H+
-D$@H9
-D$@H;
-D$@H;G
-D$@Hc
-D$@HcX
-D$@Ic
-D$@L;
-D$@Lc
-D$@csm
-D$@f;
-D$@fA
-D$@fD
-D$@fff
-D$@mp
-D$@r|
-D$@ug
-D$A+L
-D$BE3
-D$D+D$T
-D$D+D$THc
-D$D9D$<
-D$DA+
-D$DE3
-D$DHc
-D$FE3
-D$H;D$`
-D$H@8
-D$HD;
-D$HD;G
-D$HE3
-D$HH+
-D$HH;
-D$HHc
-D$HHi
-D$HL+
-D$HL;
-D$HLc
-D$HMc
-D$Hu8
-D$LD;s
-D$P I
-D$P"ZF
-D$P9A
-D$P;C
-D$P;Fpu
-D$P;L$H
-D$P;L$L
-D$P@2
-D$PA;
-D$PD;
-D$PE3
-D$PE;O
-D$PH+
-D$PH;
-D$PHc
-D$PHcX
-D$PI;
-D$PIc
-D$PL;
-D$P]:
-D$Pk@_aH
-D$Pmp
-D$Pt$A
-D$QfD
-D$RE3
-D$RfD
-D$TA;
-D$THcC`H
-D$VIc
-D$X;u
-D$XA+
-D$XD8p
-D$XD90}
-D$XD;s
-D$XE3
-D$XH;
-D$XHc
-D$XHc>
-D$XHcG`H
-D$XKc
-D$XL+
-D$Xt1
-D$ZE3
-D$\+Fh
-D$\Hc
-D$`9D$Hs$H
-D$`@2
-D$`A+
-D$`A;
-D$`B;D
-D$`D+
-D$`E#
-D$`E3
-D$`H9t$ht
-D$`H;
-D$`Hc
-D$`HcH
-D$`Ic
-D$`L+
-D$`L;
-D$`Ll
-D$`r|
-D$`t4H
-D$`xxx
-D$dD;s
-D$dE3
-D$dfff
-D$h093
-D$hA+
-D$hA;
-D$hD;
-D$hE3
-D$hE9 ud
-D$hE;
-D$hHc
-D$hIc
-D$hff
-D$hu4D
-D$lE3
-D$p 69
-D$p<L{
-D$pD9
-D$pD;
-D$pE3
-D$pH+
-D$pH;
-D$pHK8
-D$pHc
-D$pL;
-D$pMc
-D$tE3
-D$x*>
-D$xE3
-D$xH;E
-D$xHc
-D$xHcH
-D$xI+
-D$xI;
-D$xIc
-D$xL+
-D$xL9+t
-D$xL;
-D$xfD
-D$|v5
-D(8Ht}
-D);A+
-D+B H
-D+D$8
-D+D$dA
-D+L$`E
-D+L$`f
-D08@t	
 D0?staticMetaObject@QFrame@@2UQMetaObject@@B
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
 D3?timerEvent@QTableView@@MEAAXPEAVQTimerEvent@@@Z
-D8%c6.
-D8&t!
-D8&t4H
-D8't(Ic
-D8*u A
-D8- p>
-D8-)q>
-D8-9k>
-D8-9t>
-D8-;u>
-D8-=r>
-D8-=s>
-D8-@x>
-D8-A{>
-D8-Bz>
-D8-B}>
-D8-C|>
-D8-Dw>
-D8-Fl>
-D8-Fy>
-D8-Hv>
-D8-K~>
-D8-Vm>
-D8-Xn>
-D8-lo>
-D8-}p>
-D82u&H
-D88Ht!
-D88Hte
-D8=D,>
-D8=EJ*
 D8?wheelEvent@QAbstractScrollArea@@MEAAXPEAVQWheelEvent@@@Z
-D8D$Q
-D8D)(u
-D8L$Yu53
-D8M@t
-D8M@t^
-D8Y:uEH
-D8a:uDH
-D8avt
-D8c&t
-D8c:u
-D8cPt
-D8d$8t
-D8d$H
-D8d$Ht
-D8d$ht
-D8gMt$H
-D8itt
-D8kDu
-D8ktt
-D8ktt#
-D8ktt-A
-D8kut
-D8kut E3
-D8kut#
-D8kvt:D
-D8kvtNH
-D8l$@t
-D8l$`
-D8l$ht
-D8m!u0H
-D8m"u	H
-D8m(u-Lc3D;s
-D8sAt
-D8s`A
-D8s`D
-D8t$8t
-D8t$Ht
-D8{&t
-D8|$Pt
-D8}ht
-D9&t\I
-D9,2H
-D90u	9X
-D98Ht;H
-D98tT
-D9AP~$E
-D9B,t
-D9G$s5
-D9IL}sL
-D9Ip~
-D9J,w
-D9T$8
-D9TA;
-D9_Dt
-D9c t
-D9d$ ~-I
-D9d$(u
-D9f@~0Hc
-D9gpt
-D9gputD
-D9i ~NA
-D9m`u*Ic
-D9n ~EI
-D9n ~HI
-D9n ~uI
-D9p(t
-D9p,t
-D9pXu
-D9p`t
-D9wXt
-D9wXt/H
-D9x(uiE
-D9xXL
-D9{(u
-D9|$ 
-D;8}aH
-D;AP|
-D;C }
-D;C`s
-D;Ctt
-D;Cx|
-D;D$(|
-D;D$(}:J
-D;D$0u
-D;D$8|
-D;D$8};J
-D;E@u
-D;EPu
-D;G8|
-D;HE3
-D;K4u
-D;L$0u
-D;L$`~!Hc
-D;L$d~
-D;L$l~
-D;L$t~ZH
-D;M@u
-D;M`u
-D;O u=
-D;T$8}
-D;[ D
-D;d$X
-D;j0v
-D;k ~=
-D;l$8u!
-D;s u
-D;s8|
-D;sXu
-D;sxu
-D;t$(r
-D;t$du
-D;t$x~1
-D;u |
-D;u(u
-D;u0u
-D;wXu
-D;xP|
-D;z,u
-D;z,v
-D;z,v(A
-D;{ ~
-D;{8|
-D;{Lr
-D;|$0
-D;|$H
-D;|$Hu'A
-D;|$P
-D;|$l
-D;|$xu
-D;} }PIc
-D;}(u
-D;}8L
-D;}P|
-D<P0I
-D<QD+
 DCT coefficient out of range
 DCT scaled block size %dx%d not supported
-DD$$H
+DDDD
 DDDDUUUU
-DGKbu
+DEMO
 DMX Model
 DMX Model Pipeline Animation Script File
 DMX Model Pipeline Bone Mask Script File
@@ -6950,18 +4882,20 @@ DMX Model Pipeline Physics Script File
 DMX Model Pipeline Preprocess File
 DMX Model Pipeline Root Script File
 DMX_MODEL_SOURCE_UNKNOWN
-DNEIu
 DNGBackwardVersion
 DNGPrivateData
 DNGVersion
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 Da\">c]$8c^
 Dampen Movement Relative to Control Point
 Data error in compressed datastream
 DataModel needs the file system to function
 DataType
-Datamodel symbol table: %d entries %llu bytes
+Datamodel symbol table: %d entries %llu bytes\n
 DatamodelSymbols
 DateTime
 DeActivateTypeInput()
@@ -7002,22 +4936,15 @@ DeleteUmsThreadContext
 DequeueUmsCompletionListItems
 Derived must implement
 DestroyThreadPool
-Did you forget to surround the vector with "s?
 Didn't expect more than one scan
-DigiCert Inc1
-DigiCert Timestamp 2022 - 20
-DigiCert Trusted Root G40
-DigiCert, Inc.1$0"
-DigiCert, Inc.1;09
-DigiCert, Inc.1A0?
 Direct Offset
 DisplayValue
 Distance
 Distance Between Control Points Scale
 Distance to Control Points Scale
 DivideSetBy(double)
-Dm Memory usage: type				count	totalsize	wastage %%	outer		inner		datamodel	refs		tree		atts		data	(att count)
-Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!
+Dm Memory usage: type\t\t\t\tcount\ttotalsize\twastage %%\touter\t\tinner\t\tdatamodel\trefs\t\ttree\t\tatts\t\tdata\t(att count)\n
+Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!\n
 DmAttributeAddedListenerInfo_t CUtlMemoryPool
 DmAttributeChangedListenerInfo_t CUtlMemoryPool
 DmAttributeList_t CUtlMemoryPool
@@ -7053,8 +4980,8 @@ DmeAssetBonePose
 DmeAssetPose
 DmeAssetRoot
 DmeAttributeReference
-DmeAttributesToKeyValues: Unexpected array element %s
-DmeAttributesToKeyValues: Unexpected type %d of attribute %s
+DmeAttributesToKeyValues: Unexpected array element %s\n
+DmeAttributesToKeyValues: Unexpected type %d of attribute %s\n
 DmeAxisSystem
 DmeBalanceToStereoCalculatorOperator
 DmeBaseResource
@@ -7238,6 +5165,7 @@ Done!
 DotRange
 DotaCardGameClient_001
 Double-register of KV3 conversion (from '%s' to '%s')
+Down
 DragOffsetAbsoluteStart()
 DragOffsetDeltaEdited(double)
 DragOffsetRelativeEnd()
@@ -7269,36 +5197,10 @@ Dynamic Configs
 Dynamic Increment
 DynamicConfigList
 DynamicProgressFeedback
-E HcX
-E(HcH
-E+BHI
-E+H(A
 E-?setStyleSheet@QWidget@@QEAAXAEBVQString@@@Z
-E09D$`u
-E0HcH
-E0Lcx
-E49D$dt
-E49F4t
 E8?wheelEvent@QAbstractSlider@@MEAAXPEAVQWheelEvent@@@Z
-E8A8_
-E8X@t8A
-E8l$ ueI
-E9$1~!E
-E9&t+A
-E9.t^I
-E9/t+A
-E;Bl}NE
-E;F$w
-E;f0u
-E;|$4sP
-E;}H|
-E;~(H
 E>nEA
-E@9GXu7Lc
-E@A8_
-E@t	H
-EL$pfA
-EMItu
+EJxT
 ENTITY_DORMANT
 ENTITY_IO_TARGET_CLASSNAME
 ENTITY_IO_TARGET_CLASSNAME_DERIVES_FROM
@@ -7311,24 +5213,19 @@ ENTITY_IO_TARGET_SPECIAL_ACTIVATOR
 ENTITY_IO_TARGET_SPECIAL_CALLER
 ENTITY_NOT_DORMANT
 ENTITY_SUSPENDED
-EP*?@
-EPHc<
-EPHc@
-ERROR! LoadFromJPG( %s ) failed!
-ERROR! LoadFromPNG( %s ) failed!
-ERROR! TiffReadFile( %s ) failed!
+ERROR! LoadFromJPG( %s ) failed!\n
+ERROR! LoadFromPNG( %s ) failed!\n
+ERROR! TiffReadFile( %s ) failed!\n
 ERROR: CQColorEditor::SetComponent: SIZE MISMATCH 
 ERROR: CQColorEditor::SetComponentHDR: SIZE MISMATCH IN
-ERROR: Failed to open file for key bindings:
-ERROR: Failed to read key bindings from:
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ERROR: Sequence %d already specified!
-ERROR: Sequence %d is missing, total of %d sequences!
-ERROR: Sequence number %d is too big!
-ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!
-ET$(H
-ETLPu
-ETLPu?
+ERROR: Failed to open file for key bindings:\n%1\n
+ERROR: Failed to read key bindings from:\n%1\n
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ERROR: Sequence %d already specified!\n
+ERROR: Sequence %d is missing, total of %d sequences!\n
+ERROR: Sequence number %d is too big!\n
+ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!\n
+ET5>
 EXEC-BEGIN (UNSUPRESSED): %s
 EXEC-BEGIN-MODIFIER: %s
 EXEC-BEGIN: %s
@@ -7338,11 +5235,10 @@ EXEC-END_SUPPRESSED: %s
 EXEC-HELD: %s
 EXEC-INVALID-END: %s
 EXEC-REMOVE-END: %s
-EXHcH
 EXIFIFDOffset
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EXRHeader variable is not initialized.
-E`+UX
+E[\rn?gc
 EarlyRetireParticleSystems
 Ease In
 Ease In/Out
@@ -7363,9 +5259,8 @@ EditingCancelled()
 EditingFinished()
 EditingStarted()
 EditorDynamicConfig
-Egv3A
-Eh+U`
-Element uses unknown element type %s
+EiUL
+Element uses unknown element type %s\n
 Emit EditingFinished
 EmitColorAverage(QColor)
 EmitRetrieveColorRequest()
@@ -7386,8 +5281,8 @@ Encountered an element array attribute '%s' while reading the prefix element
 Encountered an element attribute '%s' while reading the prefix element
 Encountered invalid element ID data!
 End Of Image
-End mouse capture [%i] due to hidden widget
-End mouse capture [%i]: %s
+End mouse capture [%i] due to hidden widget\n
+End mouse capture [%i]: %s\n
 EndCancelSequence()
 EndReset()
 EndTypeInput()
@@ -7409,34 +5304,28 @@ EntityIOQueuePrioritizedEvent_t
 EntityIOTargetType_t
 EnumSystemLocalesEx
 EnumSystemLocalesW
-Eo9GXu6Lc
-Eo9Gt
-Eo;Gt
-Ep<fu
 Error
 Error fetching data for field "%s"
 Error fetching directory count
 Error fetching directory link
 Error flushing data before directory write
-Error importing actbusy element %s
-Error importing txt file! %s
-Error importing vmt shader parameter %s
-Error in .VMT file: error parsing vector element "%s" in "%s"
-Error in the undo system! Grab a programmer!
+Error importing actbusy element %s\n
+Error importing txt file! %s\n
+Error importing vmt shader parameter %s\n
+Error in .VMT file: error parsing vector element "%s" in "%s"\n
+Error in the undo system! Grab a programmer!\n
 Error post-encoding before directory write
 Error reading attribute "%s"
 Error reading in array attribute "%s" element %d
-Error reading texture compile settings file "%s"!
+Error reading texture compile settings file "%s"!\n
 Error writing TIFF header
 Error writing data for field "%s"
 Error writing directory contents
 Error writing directory count
 Error writing directory link
 EstimateStripByteCounts
-Et$hL
-Event %u layer %i at time %i type %s
+Event %u layer %i at time %i type %s\n
 EventSystem001
-Ew+Uo
 Exceeded size limit while expanding chunk
 ExecuteUmsThread
 ExitProcess
@@ -7474,33 +5363,13 @@ Exposure
 Extra compressed data
 Extra compression data
 ExtraSamples
-F +F(
-F 9F(r
-F @8{ru
-F H;G t
-F(@8{Yu)H
-F(D;h
-F(I9@
-F(LcF I
 F.?setWeight@QFont@@QEAAXH@Z
 F/?sizeHint@QGridLayout@@UEBA?AVQSize@@XZ
-F0D;`
-F0I9@
-F0LcFDI
 F8?wheelEvent@QAbstractSpinBox@@MEAAXPEAVQWheelEvent@@@Z
-F8D98
-F8HcNDI
-F8I9@
-F8t (t
-F8|0(t5H
 F>qUxv
-F@F9$
-F@I9@ u	
-FATAL ERROR: unable to register all schema data: %s
-FBf9F
+FATAL ERROR: unable to register all schema data: %s\n
 FCVAR_NEVER_AS_STRING
-FHA9@(tRH
-FPIcD$ H
+FEMh\f
 Face did not have enough at least 3 vertices.
 Face specified a vertex that had multiple open edges and did not connect to and existing edge.
 Face specified a vertex which had edges attached, but none that were open.
@@ -7508,19 +5377,19 @@ Face specified an edge which already had two faces attached.
 Face specified two edges that are connected by a vertex but have or more existing edges separating them.
 Face was successfully added
 Facial Animation File
-Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)
+Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)\n
 Fail to schedule the chore!
 Failed to allocate field info array
 Failed to allocate memory for %s (%ld elements of %ld bytes each)
 Failed to assign bool literal value
-Failed to compute channel layout.
+Failed to compute channel layout.\n
 Failed to create temporary file %s
-Failed to get child DmeDag! Is it missing from the dmx?
-Failed to load bindings (%s)
-Failed to parse channel info.
-Failed to read attribute.
-Failed to read colors: %s
-Failed to save colors: %s
+Failed to get child DmeDag! Is it missing from the dmx?\n
+Failed to load bindings (%s)\n
+Failed to parse channel info.\n
+Failed to read attribute.\n
+Failed to read colors: %s\n
+Failed to save colors: %s\n
 Fax3Decode1D
 Fax3Decode2D
 Fax3DecodeRLE
@@ -7533,11 +5402,13 @@ FaxRecvParams
 FaxRecvTime
 FaxSubAddress
 February
+FfW?
 FieldOfViewCotangent
-File has not been opened!
+File has not been opened!\n
 File not open for reading
 FillAttr
 FillOrder
+Film
 Filter:
 Find:
 FindClose
@@ -7547,28 +5418,27 @@ FindRegisteredGlobalObjectInternal
 Fingers
 Fingers_L
 Fingers_R
-Finished %d Blocks out of %d
+Finished %d Blocks out of %d\n
 Fixed
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
-Fl+C 
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenLayers
 FlattenedSerializersVersion001
-FloatBitMap_t: Error loading %s
+FloatBitMap_t: Error loading %s\n
 FloatBitMap_t::ConvertGammaToLinear
-FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!
-FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
-FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
-FloatBitMap_t::LoadFromFile(2486): Error calling TGALoader::GetInfo( %s )
-FloatBitMap_t::LoadFromFile(2497): Error loading %s
-FloatBitMap_t::LoadFromFile(2520): Error! Unknown file type for %s
-FloatBitMap_t::LoadFromFile(2539): Error! Slice %d format %dx%dx%d Attr(%d) != previous slices of %dx%d Attr(%d) for %s
-FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!
-FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
-FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!
-FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
-FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!
-FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!\n
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!\n
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!\n
+FloatBitMap_t::LoadFromFile(2486): Error calling TGALoader::GetInfo( %s )\n
+FloatBitMap_t::LoadFromFile(2497): Error loading %s\n
+FloatBitMap_t::LoadFromFile(2520): Error! Unknown file type for %s\n
+FloatBitMap_t::LoadFromFile(2539): Error! Slice %d format %dx%dx%d Attr(%d) != previous slices of %dx%d Attr(%d) for %s\n
+FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!\n
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!\n
+FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!\n
+FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!\n
+FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!\n
+FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!\n
 Floating point "Predictor" not supported with %d data format
 FloatingPoint
 FlsAlloc
@@ -7602,43 +5472,17 @@ Freed EMS handle %u
 Freed XMS handle %u
 Friday
 Fsfm_v3
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G D;c |
-G H9,
-G H9F
-G channel not found!
-G unH
+G channel not found!\n
 G#?qt_metacast@QProgressBar@@UEAAPEAXPEBD@Z
-G$;G,
 G'?setAlpha@QColor@@QEAAXH@Z
-G(9G0|
-G(D9p
-G(D9x
-G(D;x
-G0D;p
-G0Hc	H
 G3?timerEvent@QToolButton@@MEAAXPEAVQTimerEvent@@@Z
 G8?wheelEvent@QComboBox@@MEAAXPEAVQWheelEvent@@@Z
-G8Hc@
-G@H9w8t	H
+G>US
+GAME
 GAMECONSOLE
-GD$(H
-GD$8H
-GD$8I
-GL$8I
-GP9G@
-GP9G@}]HcG@Hk
+GCTL
 GPSIFDOffset
-GT$(H
-GT$8A
-GT$8H
-GT$HD
-GT$HH
-GT$XH
-GYa6P
-G\$8H
-G\$hH
-G^r	A
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameStartup
@@ -7649,7 +5493,6 @@ Generic MovieObjects
 Generic SFM
 GenericGameData
 GenericType
-Genu3
 GetACP
 GetActiveWindow
 GetAsyncKeyState
@@ -7722,7 +5565,7 @@ GetSystemTimePreciseAsFileTime
 GetThreadGroupAffinity
 GetThreadPriority
 GetThreadTimes
-GetThumbnail - queue of %s
+GetThumbnail - queue of %s\n
 GetTickCount
 GetTickCount64
 GetTraceEnableFlags
@@ -7733,7 +5576,6 @@ GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GetVersionExW
-Gl$(H
 GlobalAlloc
 GlobalHotkeys
 GlobalLock
@@ -7748,172 +5590,33 @@ GrayResponseCurve
 GrayResponseUnit
 Group3Options
 Group4Options
-G|$8E
-G|$8H
-G|$HH
-H A+H
-H SVH
-H SVWH
-H UATAWH
-H UAVAWH
-H UAVH
-H USVWATAUAVH
-H UVAUAVH
-H UVWATAVH
-H!D$ E
-H!T$0D
-H!\$(L
-H!\$03
-H!u H
-H#L$8H
-H#t$0tB
-H$E+H,toA
-H(D;q
-H(HcY
 H)?setFilterCaseSensitivity@QSortFilterProxyModel@@QEAAXW4CaseSensitivity@Qt@@@Z
-H+C H=
-H+D$hH+D$P3
-H+G H=
-H+L$HH
-H+\$h+
-H+\$hIc<$H
-H+|$@H
-H0Hc\$p3
-H3=n) 
 H3?timerEvent@QTreeView@@MEAAXPEAVQTimerEvent@@@Z
-H3\$HH
-H9,8t
-H9.u?H
-H97t<
-H97u	D8
-H98t%H
-H98tPA
-H98u	H
-H99u{
-H9A u
-H9A(s
-H9A@u
-H9Ahs
-H9BhuTH
-H9C@H
-H9CPt
-H9D$PuCI
-H9D$x
-H9GPu
-H9J t1
-H9K u
-H9KPu
-H9L$H
-H9L$Ht?H
-H9L$`t
-H9OPu
-H9Q0t
-H9Qhv
-H9X u>
-H9X uC
-H9\$8t
-H9\$X
-H9] uO
-H9^ u
-H9^ u68D$xt
-H9^ uJD9oXuDIc
-H9^ utH
-H9_ u
-H9_Ht
-H9_ht0H
-H9k0H
-H9k@H
-H9k`t
-H9l$Ht
-H9l$Pt
-H9l$Xt
-H9s@u
-H9t$Ht
-H9u@t	H
-H9uot	H
-H9wPH
-H9y tYH
-H9|$0t
-H9}8t	H
-H9~Pu
-H;@0u
-H;@Xu
-H;A t
-H;C t
-H;D$Pu
-H;D$`
-H;Q(u
-H;T$`}9H
-H;XXs
-H;YXt 
-H;\$P|
-H;\$`
-H;\$`uAE9
-H;l$P
-H;t$8|
-H;t$@|
-H;t$H
-H;t$X
-H;xXu9
-H;{@t)H
-H;|$0
-H;|$0}
-H;|$8
-H;|$8I
-H;|$@
-H;|$x|
-H;}O|
-H;}gu
-H=vmatH
-H=vmattxH=vtextpH
-H=vmdl
-H=vpcfu
-H=vsvg
-HA\_^[
-HA]_][
-HA^A]A\]
-HA^A]A\_
-HA^A]_^][
-HA^_[]
-HA_A\
-HA_A\][
-HA_A]
-HA_A]A\_^[
-HA_A^A]A\_^][
-HA_A^A]_][
-HA_A^A]_^[
-HA_A^^]
 HBm_name
-HD;u(
 HDR Multiplier
 HDRmultiplierSetChanged(QVector<double>)
 HDRsupport
 HH:mm:ss
-HHcY0H
 HIGHDPI
-HL;l$Ht
-HSLA	
+HSLA
+HSLA\t
 HSLHDR
-HSLHDR	
+HSLHDR\t
 HSL_AlphaHue
 HSL_AlphaLightness
 HSL_AlphaSaturation
 HSL_HueLightness
 HSL_HueSaturation
 HSL_SaturationLightness
-HSVA	
-HSVHDR	
+HSVA
+HSVA\t
+HSVHDR\t
 HSV_AlphaHue
 HSV_AlphaSaturation
 HSV_AlphaValue
 HSV_HueSaturation
 HSV_HueValue
 HSV_SaturationValue
-HXA9NX
-HXA9OXt
-H[><y5
-H_^][
-H_^][H
 Hack Dota Layer Opaque
 Hack Dota Layer Opaque Translucent
 HalftoneHints
@@ -7922,232 +5625,23 @@ HammerMapLoader001
 HangWatchdogInternal_BeginScope
 HangWatchdogInternal_EndScope
 HangWatchdog_IndicateActivity
-Hc+;k
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc7A+
-Hc;;{
-Hc;HcK
-Hc<0H
-Hc>;~
-HcA$H
-HcAPL
-HcAxD
-HcC H
-HcC$H
-HcC(;
-HcC(A
-HcC0A
-HcC0H
-HcCdL
-HcChL
-HcClL
-HcCxH;
-HcCxL;
-HcD$ H
-HcD$0H
-HcD$4H
-HcD$8
-HcD$8H
-HcD$HE+
-HcD$P
-HcD$PA
-HcD$PH
-HcD$PL
-HcD$X
-HcD$XA
-HcD$XH
-HcD$XL
-HcD$dH;
-HcD$dI;
-HcD$lI;
-HcD$pA
-HcD$pH
-HcD$pt
-HcD$tI;
-HcD$xA
-HcD$xB
-HcD$xL
-HcE0H
-HcE@L
-HcEHH
-HcEPL
-HcEhH
-HcF0A
-HcFTL
-HcFXH
-HcFxH
-HcG$H
-HcG(H
-HcG@Hk
-HcGdL
-HcGhL
-HcGl;Gh}
-HcGlL
-HcGxH
-HcH<H
-HcI(H
-HcI8;
-HcI@H
-HcIXH
-HcJ ;
-HcK ;
-HcK H
-HcK8H
-HcKHE3
-HcKhH
-HcKx;
-HcKxH
-HcL$ H
-HcL$0L
-HcL$4I
-HcL$P;
-HcL$XA
-HcL$XH
-HcL$`I;
-HcL$dH
-HcL$x
-HcMhE3
-HcN(;
-HcQ(Mc
-HcQhA
-HcR ;
-HcR4L
-HcS ;
-HcS@H
-HcSPH
-HcS\LcU
-HcT$ H
-HcT$8H
-HcT$8IcA
-HcT$8IcJ
-HcT$@H
-HcT$@L
-HcT$XLc
-HcT$`H
-HcT$hH
-HcT$pt
-HcT$pt	;U
-HcU H
-HcU(A
-HcU(H
-HcU0H
-HcU0L
-HcU@H
-HcU`H
-HcUpH
-HcUxLc
-HcV0H
-HcW ;
-HcWxL
-Hc\$0
-Hc\$@3
-Hc\$@;\$Pu
-Hc\$@H
-Hc\$`I;
-Hc\$lD
-Hc\$tI
-Hc\$tL
-Hc]P;]`u
-Hc]`M
-Hc]wD
-Hc]wE3
-Hc]wH
-Hc]wL
-Hc]wL;
-Hc^8;^Hu
-Hc^`;^pu
-Hc_ ;_0u
-Hc_0H
-Hc_0L
-Hc_8;_Hu
-Hc_XH
-Hc_xHcOp;
-Hck0D
-HckHL
-HckHM
-Hcl$ 3
-Hcl$0H
-Hcl$pH
-Hcl$xH
-Hcn(;n8u
-Hco H
-HcoHM
-Hcq0H
-Hcr H
-Hcs 3
-Hcsp;
-Hct$ H
-Hct$$I;
-Hct$,I;
-Hct$0
-Hct$0H
-Hct$8H
-Hct$H3
-Hct$`H
-Hct$tH
-HcuhH
-HcuxL;
-Hcw ;w0u
-Hcw03
-HcwH;wXu
-Hcy0L
-HcyxL
-Hc{ ;{0u
-Hc{(H
-Hc{0H
-Hc{@;{Pu
-Hc{H;{Xu
-Hc{HB
-Hc{P;{`u
-Hc{h;{xu
-Hc|$ 
-Hc|$ 3
-Hc|$4H
-Hc|$PA
-Hc|$PD
-Hc}HE3
-Hc}PL
-Hc}gH
-Hc}h;}xu
-Hc}pH
-Hc}wMc
 HelpSystem_001
 HeroViewer
 Hit Boxes
-Hitbox indexing is incorrect for set %s, hitbox %s. Hitboxes will not be setup properly.
+Hitbox indexing is incorrect for set %s, hitbox %s. Hitboxes will not be setup properly.\n
+Hold
+Home
 Horizontal differencing "Predictor" not supported with %d-bit samples
 HorizontalStrafeCamera
 HostComputer
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
 HueHexagon
 HueLightness
 HueRing
 Huffman code size table overflow
 Huffman table 0x%02x was not defined
-I A+I
-I HcH
 I!?pos@QCursor@@SA?AVQPoint@@XZ
-I(D9I
-I96tdH
-I9@Pt~H
-I9EPu
-I9FPt
-I9\$ ~@H
-I9^ u4D9oXu.Lc
-I9^ u:
-I9^ u>
-I9^ u?
-I9^ u@D9oXu:Lc
-I9^ uED9oXu?Lc
-I9^ uGD9oXuALc
-I9_ uI9wXuDMc
-I9}(t9H
-I@+J 
+IA88
 IAssetSelectionListener
 IBindTarget
 IBindableCameraScene
@@ -8171,25 +5665,6 @@ ISO JBIG
 IToolFrameListener
 IToolSceneWindow
 IToolSpecificPopupUI
-Ic	L+
-Ic4$A
-Ic4$A;t$
-Ic7Hc\((
-Ic<$E3
-Ic>A;~
-Ic?A;
-Ic@4=
-IcA(H
-IcE<H
-IcExH
-IcFTH
-IcI A
-IcW,H
-IcXpM
-Ic^ A;^0u
-IcvxA;
-Ic~0I
-IfG9t
 Ignored
 Ignoring PLTE chunk in grayscale PNG
 Ignoring attempt to set cHRM RGB triangle with zero area
@@ -8202,7 +5677,6 @@ Ignoring incorrect cHRM white(@1,@2) r(@3,@4)g(@5,@6)b(@7,@8) when sRGB is also 
 Ignoring incorrect gAMA value @1 when sRGB is also present
 Ignoring invalid time value
 Ignoring nonzero compression type in iCCP chunk
-Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
 IkLockLocal
 Il?333333c?
 Illegal to wait on a task in a Windows Runtime STA
@@ -8239,8 +5713,8 @@ Incorrect sRGB chunk length
 Incorrect tIME chunk length
 Incorrect tRNS chunk length
 Increment()
-Index      Address       References   String
-Infinite recursion in patch file?
+Index      Address       References   String\n
+Infinite recursion in patch file?\n
 Inherit Velocity
 InitCCITTFax3
 InitOnceExecuteOnce
@@ -8266,11 +5740,11 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Insufficient data length.
-Insufficient data size for attributes.
+Insufficient data length.\n
+Insufficient data size for attributes.\n
 Insufficient data size in offset table.
-Insufficient data size.
-Insufficient header/data size.
+Insufficient data size.\n
+Insufficient header/data size.\n
 Insufficient memory (case %d)
 Insufficient memory for hIST chunk data
 Insufficient memory for pCAL parameter
@@ -8283,7 +5757,7 @@ Insufficient memory to process text chunk
 Insufficient memory to store iTXt chunk
 Insufficient memory to store zTXt chunk
 Integer
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 Interlace handling should be turned on when using png_read_image
 InterlockedFlushSList
 InterlockedPopEntrySList
@@ -8317,7 +5791,7 @@ Invalid component ID %d in SOS
 Invalid compressed buffer size
 Invalid crop request
 Invalid data for member '%s'
-Invalid data found when decoding pixels.
+Invalid data found when decoding pixels.\n
 Invalid data height value
 Invalid data width or data height: 
 Invalid data width value
@@ -8359,7 +5833,7 @@ Invalid sCAL width
 Invalid sPLT after IDAT
 Invalid sRGB after IDAT
 Invalid scan script at entry %d
-Invalid sequence type.
+Invalid sequence type.\n
 Invalid tRNS after IDAT
 Invalid tile size x : 
 Invalid tile size y : 
@@ -8370,302 +5844,54 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocale
 IsValidLocaleName
-J E+J
 J"?qt_metacall@QFrame@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 J)?setFilterKeyColumn@QSortFilterProxyModel@@QEAAXH@Z
-J>@G_
 JFIF APP0 marker: version %d.%02d, density %dx%d  %d
 JFIF extension marker: JPEG-compressed thumbnail image, length %u
 JFIF extension marker: RGB thumbnail image, length %u
 JFIF extension marker: palette thumbnail image, length %u
 JFIF extension marker: type 0x%02x, length %u
+JPEG
 JPEG datastream contains no image
 JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
 JPEGMEM
 January
+JawD
+JawH
+JawV
 Joint Axes
 Joint Names
 Joint Rotations
-K 9N v@H
-K ATAUAVAWH
-K D;K }
-K H9y
-K SUATAUH
-K SVWAVAWH
-K UAUI
+July
+June
 K#?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z
-K&>.yC
-K(J9<
 K/?sizeHint@QLabel@@UEBA?AVQSize@@XZ
-K0u,H
-K4A+H 
-K8+C$
-K@t	H
 KERNEL32.dll
-KP9sP
+KL2H
+KNQ\rMO
 KV Conditional Evaluation Error
-KXt'A
-KcD, E3
 Key Bindings
 KeyState
 KeyState[%1]
 KeyValueCache001
 KeyValues
-KeyValues Error: %s in file %s
+KeyValues Error: %s in file %s\n
 KeyValues2
 KeyValues2 (flat)
 KeyValues2 (no ids)
-KeyValues: Can't serialize attribute of type %s into KeyValues files!
-KeyValues: Element uses unknown element type %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues: Can't serialize attribute of type %s into KeyValues files!\n
+KeyValues: Element uses unknown element type %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
 Kochanek-Bartels
 Kochanek-Bartels Early
 Kochanek-Bartels Late
-K}*n:	
-K~Je#>!
-L!|$(L!
 L#?qt_metacast@QRadioButton@@UEAAPEAXPEBD@Z
-L$ ;1}WH
-L$ ;s
-L$ E3
-L$ E;
-L$ H9\$(t
-L$ H;
-L$ Hc
-L$ I+
-L$ Lc
-L$ Lc9H
-L$ SATAUAVH
-L$ SATAUAWH
-L$ SATAUH
-L$ SAUAVAWH
-L$ SH
-L$ SUVAVH
-L$ SUVWATAUAVAWH
-L$ SUVWATAVAWH
-L$ SUVWH
-L$ SVWH
-L$ SWATAWH
-L$ SWH
-L$ UATAUAVAWH
-L$ UATAVH
-L$ UAVAWH
-L$ USVWATAUAVAWH
-L$ USVWATAUAVH
-L$ USWATAUAVAWH
-L$ UVWATAUAVAWH
-L$ UVWH
-L$ UWAUAVAWH
-L$ UWAVAWH
-L$ VWAVH
-L$ WATAUAVAWH
-L$ WATAVH
-L$ WATH
-L$ WH
-L$ fI
-L$ iM
-L$ u*
-L$$D;
-L$$D;{
-L$$E+
-L$$Ic
-L$&@8t$&t0@8q
-L$(A+
-L$(Ai
-L$(D;
-L$(D;s
-L$(E+
-L$(E3
-L$(H3
-L$(L;L$P
-L$(fA!@
-L$(fH
-L$(fI
-L$(iM
-L$,=)#
-L$0D;
-L$0E+
-L$0E3
-L$0E;
-L$0H+
-L$0H3
-L$0H;
-L$0H;K
-L$0Hc
-L$0I;
-L$0Ic
-L$0L;
-L$0Lc
-L$0M;
-L$0fE
-L$0fH
-L$0fI
-L$0tIH
-L$0u2
-L$4E;
-L$8;L$0
-L$8A;
-L$8D;
-L$8D;}`
-L$8E3
-L$8H3
-L$8IcE
-L$8L;
-L$8Lc
-L$8fA
-L$@;|
-L$@A;l$
-L$@D9
-L$@D9G,u
-L$@D9c<
-L$@D;V$
-L$@D;}P
-L$@E3
-L$@E9!
-L$@H3
-L$@H;
-L$@H=
-L$@Lc
-L$@Lc9M
-L$@fA
-L$@t^L
-L$@t~L
-L$@uU
-L$D9S$
-L$D;L$T
-L$DD+
-L$DE3
-L$DLc3
-L$HA;
-L$HD+
-L$HD;
-L$HE3
-L$HH3
-L$HHc
-L$HI;
-L$HLc
-L$HMc
-L$HfA
-L$Hff
-L$LE3
-L$P+Fd
-L$P+L$8
-L$P+L$H
-L$PA;
-L$PE3
-L$PE;
-L$PH3
-L$PI;
-L$PfD
-L$TE3
-L$XA;
-L$XB;
-L$XD;
-L$XE3
-L$XE;e$
-L$XH9
-L$XH;M
-L$XfD
-L$\E3
-L$`9K 
-L$`A;
-L$`D;
-L$`D;ep
-L$`E3
-L$`E;
-L$`H3
-L$`H;
-L$`Lc
-L$`fD
-L$`tcA
-L$aE3
-L$dA+
-L$dE3
-L$hD;
-L$hE3
-L$hI;
-L$lE3
-L$pD9w8
-L$pD;w8
-L$pE2
-L$pE3
-L$pE;
-L$pH3
-L$pH;M
-L$pJc
-L$tE3
-L$tHc
-L$xAi	
-L$xD+
-L$xE3
-L$xIc
-L$xLc
-L$xfA;
-L$|E3
-L(:A:
-L(;A:
-L(;E:
-L(<A:
 L-?setSuffix@QDoubleSpinBox@@QEAAXAEBVQString@@@Z
 L/?sizeHint@QLineEdit@@UEBA?AVQSize@@XZ
-L1HthD
-L9	u4H
-L9*u&
-L9-]O'
-L93u_
-L93uc
-L9Ahs
-L9HtzE
-L9`8tA
-L9d$ 
-L9d$ t
-L9d$(t
-L9d$0t
-L9d$8t
-L9d$Pt
-L9d$Xt
-L9e@t	H
-L9egt	H
-L9g8t
-L9g@u=
-L9l$ 
-L9l$ht
-L9l$pt
-L9m(t	H
-L9m@t	H
-L9mot	H
-L9o(H
-L9t$@t
-L9t$`t
-L9u`t	H
-L9ugt	H
-L9w t#H
-L9}8t	H
-L9}@t	H
-L9~ t
-L9~Ht
-L;D$8L
-L;D$8v7H
-L;EHt
-L;d$ 
-L;d$8|
-L;d$@
-L;d$x
-L;l$ 
-L;l$Ht
-L;l$p
-L;t$@
-L;t$H
-L;t$P
-L;|$@
-L;|$@}
-L;|$P
+L>ev
 L?UUUUUUU?
-L?n(Zy&
 L@CDmeMdlList CUtlMemoryPool
-LACpu
-LACsu
 LCIDToLocaleName
 LCMapStringEx
 LCMapStringW
@@ -8687,6 +5913,8 @@ LMouse
 LMouseDoubleClick
 LOG_GENERAL
 LOWVIOLENCE
+LWG>
+LWW>
 LZWDecode: Bogus encoding, loop in the code table; scanline %d
 LZWDecode: Corrupted LZW table at scanline %d
 LZWDecode: Not enough data at scanline %d (short %ld bytes)
@@ -8699,7 +5927,7 @@ LZWPreDecode
 LZWSetupEncode
 Label
 LabelPos_t
-Last two rows as percentage of total size %f %%:
+Last two rows as percentage of total size %f %%:\n
 LaunchPopUpArithmetic(ArithmeticMode_t)
 LaunchPopUpArithmeticAdd()
 LaunchPopUpArithmeticDivide()
@@ -8712,67 +5940,13 @@ LaunchPopUpSliderFromMenu()
 LaunchPopUpSlider_Horizontal()
 LaunchPopUpSlider_Vertical()
 Layer %d:  adding key at time %d [%d -> %d], value 
-Lc&D;f
-Lc'E+
-Lc1E3
-Lc3D;s
-Lc3HcL8
-Lc3HcL8HI
-Lc7D;w
-LcA<E3
-LcC$H
-LcCLC
-LcCP3
-LcCPH
-LcD$|3
-LcE0H
-LcE@H
-LcEoH
-LcFDI
-LcF`D
-LcG$H
-LcGP3
-LcGXH
-LcIhM
-LcK$A;
-LcK<L
-LcK\LcU
-LcMPI
-LcMpD
-LcQ|M+
-LcT$p3
-LcUw3
-LcWDL
-Lc\$XH
-Lca L
-Lcd$8H
-Lcd$@D
-LceWH
-LcehE
-Lcew3
-Lck$Lc
-Lcl$ A
-Lcl$xfff
-Lcn LcvPA
-LcsHH
-Lcs`D;spu
-Lct$$I;
-Lct$8A
-Lct$H3
-Lct$h3
-Lcv D;v$
-LcwHI
-LcyHH
-Lc|$0E+
-Lc|$`D
-Lc|$hH
-Lc|$hI
-Leaking %i elements
+Leaking %i elements\n
 LeaveCriticalSection
+Left
 Left Mouse (Point)
 LeftFingers
+Legs
 LensInfo
-Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
 Lifespan Decay
 Lifespan from distance to world
 Lifetime Pre-Age Noise
@@ -8799,12 +5973,11 @@ LipsV
 Live Update
 LiveEmbbededPreviewAggregateView
 LiveEmbeddedPreviewReadback
-Lj[;>
 Lkh9Fgc^A
 LoadAtiCompress
-LoadEXRImageFromMemory failed! Error message: %s
+LoadEXRImageFromMemory failed! Error message: %s\n
 LoadFromBuffer: expected '{', found '%s'
-LoadFromInMemoryEXR( %s ) failed.
+LoadFromInMemoryEXR( %s ) failed.\n
 LoadISPCTexComp
 LoadLibraryExW
 LoadLibraryW
@@ -8829,19 +6002,13 @@ LoggingSystem_RegisterLoggingChannel
 LoggingSystem_RegisterLoggingListener
 LoggingSystem_SetLoggingResponsePolicy
 LookAt
+Loop
 LowPrecisionUv
 LowPrecisionUv1
 LrwcE
-Lu(;{
-M H1E
 M8?wheelEvent@QMenu@@MEAAXPEAVQWheelEvent@@@Z
-M98t^M
-M99tIM
-M9}ht
 MATCHFRAMEWORK_001
 MAX_ALLOC_CHUNK is wrong, please fix
-MB(iVR
-MLc3D;s
 MM/dd/yy
 MMouse
 MMouseDoubleClick
@@ -8856,15 +6023,15 @@ MNetworkVarNames
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MQC,ARD
-MRHcu
 MSAA Resolve
 MWheelDn
 MWheelLeft
 MWheelRight
 MWheelUp
+Make
 Make sheet file
 MakerNoteSafety
-Malformed fieldName in mesh: %s
+Malformed fieldName in mesh: %s\n
 Malformed iCCP chunk
 Malformed iTXt chunk
 MapClass
@@ -8877,6 +6044,7 @@ Match Particle Velocities
 Material
 Material Group:
 MaterialUtils_001
+Math
 MathLib_Init
 MatrixWorldToCamera
 MatrixWorldToScreen
@@ -8888,19 +6056,8 @@ MaxPolicyElementKey
 MaxSampleValue
 Maximum
 Maximum supported image dimension is %u pixels
+MbP?
 Mbp?333333
-Mc&E;f
-Mc,$E;l$
-Mc,$M
-Mc.E;n
-Mc<$L
-Mc>Hc
-McGHH
-McH(E
-McJlM
-McXlM
-Mce E;e$
-McsLA
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 Memory allocation failed while processing sCAL
@@ -8910,13 +6067,11 @@ Merging Deflate codec-specific tags failed
 Merging Predictor codec-specific tags failed
 Merging SGILog codec-specific tags failed
 Merging common CCITT Fax codec-specific tags failed
-Mesh %s has poylgonal faces defined which have bad vertex counts, these will be ignored
+Mesh %s has poylgonal faces defined which have bad vertex counts, these will be ignored\n
 MeshSystem001
 MeshUtils001
 MessageBoxA
 MessageBoxW
-Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
-Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0>
 MinConcurrency
 MinEV
 MinSampleValue
@@ -8953,7 +6108,7 @@ Mixer
 Modal Qt OS Picker
 ModalBrowse()
 Model
-Model conversion: %d conversions in %.3fsec (%.3fms each)
+Model conversion: %d conversions in %.3fsec (%.3fms each)\n
 ModelDocUtils001
 ModelEditorPhysics
 Modeless Qt OS Picker
@@ -8983,22 +6138,17 @@ Movement Max Velocity
 MovieSettings
 MultiByteToWideChar
 MultiplySetBy(double)
-MwB+L
-N	?hasColor@QMimeData@@QEBA_NXZ
 N ?paintEngine@QPixmap@@UEBAPEAVQPaintEngine@@XZ
-N u_I;
-N&B:H
 N'?setAlphaF@QColor@@QEAAXN@Z
 N)?setFilterWildcard@QSortFilterProxyModel@@QEAAXAEBVQString@@@Z
-N0HcP
-N0Hci
 N3`d?
 N8?wheelEvent@QPlainTextEdit@@MEAAXPEAVQWheelEvent@@@Z
-N8HcP
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
-NHcD$ H
+NQ?s
+NULL
 NULL row buffer
 NULL(Unknown):"Unknown"
 NV_DST16
@@ -9006,10 +6156,13 @@ NV_DST24
 NV_INTZ
 NV_NULL
 NV_RAWZ
-Name					Count		Particle Count
+N\t?hasColor@QMimeData@@QEBA_NXZ
+Name
+Name\t\t\t\t\tCount\t\tParticle Count\n
 NavSystem001
 Navigate To File
 NavigateToFile()
+NeXT
 NeXTDecode: Not enough data for scanline %ld
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -9027,8 +6180,8 @@ No Qt widget associated with the active window! (How did you execute this comman
 No Qt widget currently had focus! (How did you execute this command?)
 No Widget Under Mouse
 No Widget Under Mouse @(%1,%2)
-No conversion from %s to string at the moment!
-No free conversion of %s variant to Vector right now
+No conversion from %s to string at the moment!\n
+No free conversion of %s variant to Vector right now\n
 No image in file
 No memory for pCAL params
 No memory for pCAL purpose
@@ -9054,8 +6207,10 @@ No support for converting user data format to LogLuv
 No valid format conversion from '%s' to '%s'
 NoCollapse
 NoPoseControl
+Node
 Noise Scalar
 Noise Vector
+None
 Nonstandard tile length %d, convert file
 Nonstandard tile width %d, convert file
 Normal
@@ -9072,8 +6227,18 @@ Not enough memory to process iTXt chunk
 Not enough memory to process text chunk
 Not enough memory to process zTXt chunk
 Not implemented yet
-NotifyCacheStatusChanged - queued asset for thumbnail and removing pending requests %s
+NotifyCacheStatusChanged - queued asset for thumbnail and removing pending requests %s\n
 November
+Num0
+Num1
+Num2
+Num3
+Num4
+Num5
+Num6
+Num7
+Num8
+Num9
 NumAdd
 NumDec
 NumDiv
@@ -9082,20 +6247,10 @@ NumMul
 NumSub
 NumToggle
 NumberOfInks
-NxD9eP~1I
-O H+O
 O#?qt_metacast@QScrollArea@@UEAAPEAXPEBD@Z
 O'?setAlternatingRowColors@QAbstractItemView@@QEAAX_N@Z
-O(t(H
-O,D9O(vcH
-O0HcQ
-O8+G$
-OF>;^
-OHcs 
 OKandClose()
-OX9JXt
-OX9KXu
-O]oHcE
+OZQ%
 Obtained EMS handle %u
 Obtained XMS handle %u
 October
@@ -9190,15 +6345,15 @@ OnToolSpecificUIButton(QAbstractButton*)
 OnToolsVisModeChanged(QAbstractButton*)
 OnValueChanged(QString)
 One of the client procedures is NULL pointer.
-Only DXT1/DXT5 online texture compression supported.
+Only DXT1/DXT5 online texture compression supported.\n
 Open Local Browser
 OpenClipboard
 Opened temporary file %s
-Operator cycle found during dependency graph traversal!
+Operator cycle found during dependency graph traversal!\n
 OptionallyCompressedTangentFram
 Options
 OptionsButtonMenu()
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orient Rotation to 2D Direction
 Orientation
 OriginalRawFileData
@@ -9226,61 +6381,13 @@ Output unserialization of entities on map load. 0 - off, 1 - client/server, 2 - 
 OutputDebugStringW
 Override
 Overwrite With Current
-Oy<;y@
-P	C)	
-P A+P
-P Lce
-P Lc}
-P(Hcu
-P(Lc]
-P(Lc}
-P(fD!|
 P/?sizeHint@QMenu@@UEBA?AVQSize@@XZ
-P8H=vmat
-P8H=vsvg
-P8H=vtext
-P8I9D$
-P>q_Y~
-P@Hc>;~
 PARALLEL_PROCESS `anonymous-namespace'::CParticleJobUpdater::UpdateNewEffectsJobFn(), c:\buildslave\hlvr_rel_win64\build\src\particleslib\particlemgr.cpp:975
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA\][
-PA\_^][
-PA][]
-PA]^]
-PA]_[
-PA^A\[
-PA^A\[H
-PA^A\_^]
-PA^A]A\
-PA^A]A\^[
-PA^][
-PA^^]
-PA^_]
-PA^_^
-PA^_^H
-PA^_^][
-PA_A\[
-PA_A\_^]
-PA_A]A\
-PA_A]]
-PA_A]_][
-PA_A^A]A\_^]
-PA_A^A]_^[]
-PA_A^[
-PA_A^]
-PA_A^]H
-PA_A^^][
-PA_A^_
-PA_A^_^]
-PA_^]
-PAq=?Mp#
-PCCiu
-PD9AHM
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -9290,19 +6397,13 @@ PF_TYPE_CONTROL_POINT_COMPONENT
 PF_TYPE_LITERAL
 PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
-PHH=vpcf
-PHH=vpcfu
-PHH=vsndu
-PHcr H
 PNG file corrupted by ASCII conversion
 PNG fixed point integer out of range
-PNG load error %s
+PNG load error %s\n
 PNG unsigned integer out of range
 POSIX
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
-P_[]H
-P`:G`
 PackBits
 PackBitsDecode: Not enough data for scanline %ld
 PackBitsDecode: discarding %ld bytes to avoid buffer overrun
@@ -9313,7 +6414,7 @@ PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 ParentToCamera
-ParseEXRHeaderFromMemory failed! Error message: %s
+ParseEXRHeaderFromMemory failed! Error message: %s\n
 Partially Locked (Driven by some random choices in current config)
 Particle Configuration File
 Particle Simulation
@@ -9330,14 +6431,15 @@ PasteFromClipboardSpecial()
 PasteValueSetFromClipboard()
 Pause
 Percent
+PgDn
+PgUp
 Photometric tag is missing, assuming data is YCbCr
 Photometric tag value assumed incorrect, assuming data is YCbCr instead of RGB
 PhotometricInterpretation
 Photoshop
-Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
 Physics
 Physics Debug Draw
-Physics interface checksum is 0x%08X, expected 0x%08X. One of the binaries is out of date, please rebuild %s.
+Physics interface checksum is 0x%08X, expected 0x%08X. One of the binaries is out of date, please rebuild %s.\n
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
 PhysicsBoneMarkup
@@ -9351,6 +6453,7 @@ PhysicsShapeCapsule
 PhysicsShapeHull
 PhysicsShapeMesh
 PhysicsShapeSphere
+Pick
 Pick Global Background
 PickCancelled()
 PickColor(int)
@@ -9380,8 +6483,10 @@ Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
 Plat_UUIDFromString
 Plat_UUIDToString
+Play
 PlaybackSpeedChanged(float)
-Please make sure you deleted history on the mesh before exporting.
+Please make sure you deleted history on the mesh before exporting.\nThe mesh apparently has %d vertices, but %d blendWeights in field %s, while having %d weights per vertex\n
+Po5H
 PointLight
 Polygon Mesh Data Pool - level 1
 Polygon Mesh Data Pool - level 2
@@ -9406,8 +6511,6 @@ PostProcessingSystem_001
 PosterSettings
 Potential overflow in png_zalloc()
 Powerbar
-Pp9_d~)H
-PpH9|$H
 Pre-Age Noise
 Predictor
 PredictorEncodeTile
@@ -9445,18 +6548,15 @@ Pull From Global Browser
 PullSelectionFromGlobalBrowser()
 Push To Global Browser
 PushSelectionToGlobalBrowser()
-Pz}b!
-Q,A3P
 Q/?sizeHint@QMenuBar@@UEBA?AVQSize@@XZ
 Q2XXR
 Q5rHg,>
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
-Q8HkA8
+QAf?
 QAngle
 QColor
 QFlags(
 QIcon
-QL$pA
 QLineEdit { background-color: rgba( 247, 236, 215, 100%) }
 QLineEdit { background: rgba( 235, 235, 255, 50%) }
 QLineEdit { background: rgba( 255, 255, 255, 10%) }
@@ -9473,7 +6573,6 @@ QVector
 QVector<double>
 QVector<float>
 QVector<int>
-Ql;QD
 QtCore4.dll
 QtGui4.dll
 Quantization table 0x%02x was not defined
@@ -9486,17 +6585,16 @@ QueryPerformanceFrequency
 QueryUmsThreadInformation
 QueueUserWorkItem
 QueuedLoaderVersion001
-Queueing asset cache for thumbnail update: %s
-R channel not found!
-R(A9P4A
+Queueing asset cache for thumbnail update: %s\n
+R channel not found!\n
 R)?setFinalStop@QLinearGradient@@QEAAXAEBVQPointF@@@Z
-R0E8XAt
 R11_EAC
+R16F
 R16F_EXPAND
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
-RDHIu
 RG11_EAC
 RG1616
 RG1616F
@@ -9506,8 +6604,7 @@ RGB323232F
 RGB565
 RGB888
 RGB888_BLUESCREEN
-RGBA	
-RGBA	%1	%2	%3	%4
+RGBA
 RGBA1010102
 RGBA1010102F_EDRAM
 RGBA16161616
@@ -9520,7 +6617,9 @@ RGBA16161616_EDRAM_RGBA16161616
 RGBA32323232F
 RGBA8888
 RGBA8888_LINEAR
-RGBHDR	
+RGBA\t
+RGBA\t%1\t%2\t%3\t%4
+RGBHDR\t
 RGBX555
 RGBX8888
 RGB_AlphaBlue
@@ -9529,10 +6628,6 @@ RGB_AlphaRed
 RGB_GreenBlue
 RGB_RedBlue
 RGB_RedGreen
-RH@8t$@
-RHH=vpcf
-RHH=vpcfH
-RHcs 
 RMouse
 RMouseDoubleClick
 RPCRT4.dll
@@ -9565,10 +6660,11 @@ RecursiveLoadFromBuffer:  got conditional between key and value
 RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
+Redo\n======\n
 ReductionMatrix1
 ReductionMatrix2
 ReferenceBlackWhite
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 RegisterTraceGuidsW
 RegisterWaitForSingleObject
@@ -9599,8 +6695,8 @@ RenderDevice003
 RenderDeviceMgr001
 RenderHardwareConfig002
 RenderMeshFile
-RenderPendingAssetThumbnails - skipping no-longer-relevant thumbnail for %s
-RenderPendingAssetThumbnails - updating thumbnail for %s
+RenderPendingAssetThumbnails - skipping no-longer-relevant thumbnail for %s\n
+RenderPendingAssetThumbnails - updating thumbnail for %s\n
 RenderService_001
 RenderSystemSurface001
 RenderUtils_001
@@ -9638,6 +6734,7 @@ Right Mouse (Average)
 RightFingers
 RoInitialize
 RoUninitialize
+Root
 RootSelectionSet
 RotateAboutTarget3D
 RotateLights
@@ -9661,22 +6758,11 @@ RtlVirtualUnwind
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
 S!?pos@QMouseEvent@@QEBAAEBVQPoint@@XZ
 S*?setInsertPolicy@QComboBox@@QEAAXW4InsertPolicy@1@@Z
-S,, <Zw
+S+Ot
 S,?setRgb@QColor@@QEAAXHHHH@Z
-S,fA+
 S/?sizeHint@QProgressBar@@UEBA?AVQSize@@XZ
-S0Q0O
-S89S4
-S89SD|
-S;\$0tH
+S9>H
 S>$hkDh$h>[2
-SATAUH
-SATAVAWH
-SATAWH
-SAUAVH
-SAUAWH
-SAVAWH
-SA|X=G
 SFM Session
 SFM Settings
 SFM TrackGroup
@@ -9712,59 +6798,10 @@ SLIDER_VALTEXT_RIGHT
 SMaxSampleValue
 SMinSampleValue
 SNAN)
-SNRtu
 SSAOBias
 SSAORadius
 SSAOStrength
-SUATAUAVH
-SUATAVAWH
-SUATAWH
-SUATH
-SUAUAVH
-SUAUAWH
-SUAVH
-SUAWH
-SUHcl$@L
-SUVATAVAWH
-SUVATAWH
-SUVAVH
-SUVWATAUAVAWH
-SUVWATAVAWH
-SUVWATAW
-SUVWATAWH
-SUVWATH
-SUVWAUAVAWH
-SUVWAUAVH
-SUVWAUH
-SUVWAVAWH
-SUVWAVH
-SUVWAWH
-SUVWH
-SUWATAUAVH
-SUWAUAVAWH
-SUWAUAWH
-SUWAUH
-SVATAUH
-SVATAVAWH
-SVAUAWH
-SVAUH
-SVWATAUAVAWH
-SVWATAUAVH
-SVWATAUAWH
-SVWATAUH
-SVWATAVAWH
-SVWATH
-SVWAUAVAWH
-SVWAVAWH
-SVWAVH
-SVWAWH
-SWATAUAWH
-SWATAVAWH
-SWAUAVAWH
-SWAUH
-SWAVH
-SWAWH
-S^>#/
+S\v?addSeparator@QMenu@@QEAAPEAVQAction@@XZ
 Sample Pixel Color
 SampleFormat
 SamplesPerPixel
@@ -9773,7 +6810,7 @@ SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 3
 Sampling factors too large for interleaved scan
 SaturationValue
 Saturday
-Save changes to "%1"?
+Save changes to "%1"?\n(%2)
 Save color changes?
 SaveColorSetToWell()
 SaveCustomWellColors()
@@ -9806,14 +6843,14 @@ Selected %d colors for quantization
 SelectedAnimationChanged(QString)
 September
 Sequence
-Sequence %d out of order (@position %d).
+Sequence %d out of order (@position %d).\n
 Sequence Random
 Sequence Two Random
 SequenceMarkup
 SequenceMarkupList
-Serialize: File encoding %s is undefined!
-Serialize: File encoding '%s' is undefined!
-Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer
+Serialize: File encoding %s is undefined!\n
+Serialize: File encoding '%s' is undefined!\n
+Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer\n
 SerializedEntitiesVersion001
 Serializing(%d root elements)
 ServerUploadGameStats001
@@ -10062,6 +7099,7 @@ ShowText()
 SignalObjectAndWait
 Simple Cubic
 Simulation Playback
+Size
 SizePolicy
 Skeleton
 Skeletons
@@ -10078,7 +7116,7 @@ Slider key right:
 Slider key up: 
 Slider page down: 
 Slider page up: 
-Slider setRange:(%d, %d)
+Slider setRange:(%d, %d)\n\tRange min value cannot be greater than max value
 Slider shift down: 
 SliderPluralColor
 SliderSensititvity
@@ -10125,6 +7163,7 @@ Step(int)
 StepTimed()
 StereoFlip
 StoNits
+Stop
 Stop simulation
 StopSendingCameraTo(QWidget*)
 Store
@@ -10143,104 +7182,9 @@ Swatch - click:
 Swatch: Drag enter with application/x-color
 SwitchToEngineWindow
 SwitchToThread
-SxHcE
-Symbol table:  %d entries %llu bytes
+Symbol table:  %d entries %llu bytes\n
 T ?paintEvent@QAbstractScrollArea@@MEAAXPEAVQPaintEvent@@@Z
 T#?qt_metacast@QSlider@@UEAAPEAXPEBD@Z
-T$ #n
-T$ +G$D
-T$ ;{
-T$ @2
-T$ A3
-T$ A;
-T$ D;s
-T$ E+
-T$ E3
-T$ E;
-T$ H;
-T$ I;
-T$ Ic
-T$ Lc
-T$ Mc
-T$ McM
-T$$D9
-T$(9|$ t
-T$(D+
-T$(E3
-T$(E;
-T$(I+
-T$0D;
-T$0E3
-T$0H;
-T$0Hc
-T$4E9
-T$8+G$A
-T$8+G$H
-T$8A+
-T$8D;
-T$8D;t$(r
-T$8E3
-T$8Hc
-T$8t,
-T$<D;
-T$<H;
-T$<Ic
-T$@+G$A
-T$@@2
-T$@A;
-T$@E3
-T$@E9"
-T$@H+
-T$@H;
-T$@Ic
-T$HA;
-T$HE3
-T$HHc
-T$HHcH
-T$HIc
-T$LD9R$
-T$PA;
-T$PE3
-T$PH3
-T$PHc
-T$PHcD$T
-T$PIc
-T$Pff
-T$QE3
-T$XA;
-T$XE3
-T$XHc
-T$XLc
-T$`A;
-T$`D+
-T$`D;s
-T$h;K 
-T$hD9
-T$hD;
-T$hE92
-T$hE;
-T$hIc
-T$hff
-T$lD;s
-T$lE;
-T$pA;
-T$pD+
-T$pD;
-T$pE3
-T$pE;
-T$pH;
-T$pM+
-T$pfD
-T$xD;s
-T$xH;
-T$xHc
-T$xLc
-T%*s*
-TADIt	
-TADIu
-TADIu.
-TADIuT
-TIBsu
 TIFFAppendToStrip
 TIFFClientOpen
 TIFFFetchDirectory
@@ -10262,11 +7206,9 @@ TIFFSetField
 TIFFTileRowSize
 TIFFVStripSize
 TIFFVTileSize
-TLPsu
-TSIhu
 TUUUU
-TaO_[
 TabStyle_t
+Tag 
 Tag %d
 Tag Value
 Tahoma
@@ -10284,15 +7226,15 @@ TestFormatC
 TestFormatD
 TestFormatE
 TestScriptMgr001
+Text
 Text Color
 TextLayout_001
 TextMessageMgr_001
 Texture Configuration File
 TextureFormat
 TextureWrapModes
-The mesh apparently has %d vertices, but %d blendWeights in field %s, while having %d weights per vertex
 This function cannot be called on a default constructed task
-This is a BigTIFF file.  This format not supported
+This is a BigTIFF file.  This format not supported\nby this version of libtiff.
 ThreadGetCurrentProcessId
 ThreadMultiWaitObjectSetDestroy
 Threshholding
@@ -10321,7 +7263,7 @@ TongueV
 TongueWidth
 Too many IDATs found
 Too many color components: %d, max %d
-Too many simultaneously active particle systems!
+Too many simultaneously active particle systems!\n
 Too much
 ToolFramework2_002
 ToolObjects
@@ -10360,7 +7302,7 @@ TraceEvent
 Trail Length Random
 Trailing Data
 TransferFunction
-Tried to rename from '%s' to '%s', but '%s' already exists
+Tried to rename from '%s' to '%s', but '%s' already exists\n
 Truncated data
 Truncated iTXt chunk
 Truncated zTXt chunk
@@ -10368,138 +7310,43 @@ Truncating incorrect info tRNS chunk length
 Truncating incorrect tRNS chunk length
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
-Trying to add a frame when there is no current sequence.
-Trying to find a flex controller (%s) that doesn't actually exist in the model.
+Trying to add a frame when there is no current sequence.\n
+Trying to find a flex controller (%s) that doesn't actually exist in the model.\n
 Tuesday
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
-U	?hasFormat@QMimeData@@UEBA_NAEBVQString@@@Z
-U (\>
 U ?paintEvent@QAbstractSpinBox@@MEAAXPEAVQPaintEvent@@@Z
 U#?qt_metacast@QSortFilterProxyModel@@UEAAPEAXPEBD@Z
 U,?setRgbF@QColor@@QEAAXNNNN@Z
 U/?sizeHint@QPushButton@@UEBA?AVQSize@@XZ
-U0HcC
+U4tT
 UA>N0Wl
-UATAUAVAWH
-UATAUAVH
-UATAUAWI
-UATAUI
-UATAVAWH
-UATAVH
-UATAVI
-UATAWH
-UATAWI
-UAUAVAWH
-UAUAVH
-UAUAVI
-UAUAWH
-UAUAWI
-UAVAWH
-UAVAWI
 UNKNOWN
-UPA8]Xt
 UPDATE_STRING_TOKEN_DATABASE
-USATAUAVAWH
-USATAUAWH
-USATAUH
-USATAVH
-USATH
-USAUAVAWH
-USAUAVH
-USAUH
-USAVAWH
-USAVH
-USAVI
-USAWH
 USER32.dll
-USVATAUAVH
-USVATI
-USVAUAWH
-USVAUI
-USVAVH
-USVAWI
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAVAWH
-USVWATAWH
-USVWATH
-USVWAUAVAWH
-USVWAUAVH
-USVWAVAWH
-USVWAVH
-USVWH
-USWATAUAWH
-USWATAUH
-USWATAWH
-USWATH
-USWAUAVH
-USWAUAVI
+UUUU
 UUUUUU
-UUUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVAWH
-UVATAUAVH
-UVATAUH
-UVATAUI
-UVATAVAWH
-UVATAVH
-UVATAWH
-UVATH
-UVATI
-UVAUAVAWH
-UVAUAWH
-UVAUH
-UVAVAWH
-UVAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATAUAWH
-UVWATAVAWH
-UVWATAVH
-UVWATAWH
-UVWATH
-UVWAUAVAWH
-UVWAUAWH
-UVWAUH
-UVWAVAWH
-UVWAVH
-UVWAWH
 UVWQ8888
-UWATAUAVH
-UWATAUAWH
-UWATAUH
-UWATAVAWH
-UWATAWH
-UWATH
-UWAUAVAWH
-UWAUAVH
-UWAUAWH
-UWAUH
-UWAUI
-UWAVAWH
-UWAVH
-UWAVI
-UWAWH
-Ugx	H
+U\t?hasFormat@QMimeData@@UEBA_NAEBVQString@@@Z
 UmsThreadYield
 UnSync()
-Unable find required entry points in %s
-Unable to create new frame.
-Unable to create new sequence.
-Unable to create unknown element %s!
+Unable find required entry points in %s\n
+Unable to create new frame.\n
+Unable to create new sequence.\n
+Unable to create unknown element %s!\n
 Unable to determine buffer encoding.
-Unable to load %s, error %d
-Unable to read file %s
+Unable to load %s, error %d\n
+Unable to read file %s\n
 Unable to set packing mode.
-Unable to set type unless you're creating untyped elements!
-Unabled to parse frame images.
+Unable to set type unless you're creating untyped elements!\n
+Unabled to parse frame images.\n
+Undo\n======\n
 Unexpected EOF in quoted string
 Unexpected end of file
 Unexpected marker 0x%02x
-Unhandled proxy keyvalues type (proxy %s var %s)
+Unhandled proxy keyvalues type (proxy %s var %s)\n
 UnhandledExceptionFilter
 Uninitialized row
 UniqueCameraModel
@@ -10516,9 +7363,9 @@ Unknown exception
 Unknown filter method in IHDR
 Unknown iTXt compression type or method
 Unknown interlace method in IHDR
-Unknown interpolation type %d
+Unknown interpolation type %d\n
 Unknown sRGB intent
-Unknown vertex attribute type
+Unknown vertex attribute type\n
 Unknown zlib error
 UnlitPostPass
 Unrecognized component IDs %d %d %d, assuming YCbCr
@@ -10529,27 +7376,27 @@ UnregisterTraceGuids
 UnregisterWait
 UnregisterWaitEx
 Unresolved object reference '%s'
-Unserialize: Cannot determine encoding from file, and no encoding provided!
-Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!
-Unserialize: DMX file encoding %s is undefined!
-Unserialize: DMX header was present but contained no encoding name!
-Unserialize: Encoding expects DMX header but it doesn't exist!
-Unserialize: File format newer than executable's!
-Unserialize: Unable to open dmxconvert temp file "%s"
-Unserialize: Unable to start dmxconvert process
-Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'
-Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'
+Unserialize: Cannot determine encoding from file, and no encoding provided!\n
+Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!\n
+Unserialize: DMX file encoding %s is undefined!\n
+Unserialize: DMX header was present but contained no encoding name!\n
+Unserialize: Encoding expects DMX header but it doesn't exist!\n
+Unserialize: File format newer than executable's!\n
+Unserialize: Unable to open dmxconvert temp file "%s"\n
+Unserialize: Unable to start dmxconvert process\n
+Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'\n
+Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'\n
 Unspecified
-Unsupported ETC image format %d.
+Unsupported ETC image format %d.\n
 Unsupported JPEG data precision %d
 Unsupported JPEG process: SOF type 0x%02x
-Unsupported PSD color mode!
-Unsupported attribute type found!
+Unsupported PSD color mode!\n
+Unsupported attribute type found!\n
 Unsupported binary encoding id.
 Unsupported color conversion request
-Unsupported light type: %s
+Unsupported light type: %s\n
 Unsupported marker type 0x%02x
-Unsupported primitive type: %d
+Unsupported primitive type: %d\n
 Unsupported text encoding id.
 UokOP
 UpShiftPressTimer()
@@ -10569,31 +7416,23 @@ UpdateProcThreadAttribute
 UpdateSkeletonHelpers()
 UpdateSlider()
 UpdateSliderFromEdit()
-UpdateThumbnailListenerAsset - changing from %s to %s
+UpdateThumbnailListenerAsset - changing from %s to %s\n
 UpdateUI()
-Updating thumbnail for cached asset: %s
-Updating visible asset thumbnail: %s
+Updating thumbnail for cached asset: %s\n
+Updating visible asset thumbnail: %s\n
 UseTintColor
 UserInfoChangeService_001
 UuidCreate
 UuidFromStringA
 UuidToStringA
-UwH;U
 V ?paintEvent@QCheckBox@@MEAAXPEAVQPaintEvent@@@Z
 V/?sizeHint@QRadioButton@@UEBA?AVQSize@@XZ
-V0;Ct~ZH
-V6E>`"(5
-VATAUAVAWH
-VATAUH
-VAUAWH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDataModelVersion001
 VDebugService_001
 VDmElementFrameworkVersion001
@@ -10606,8 +7445,8 @@ VGUI_Scheme010
 VGUI_Surface032
 VGUI_System010
 VGUI_ivgui008
-VHcqP;q`u
 VMDLLIB001
+VMap
 VMaterialSystem2_001
 VMatrix
 VMediaFoundation001
@@ -10626,24 +7465,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VUUUA
-VUUUD
-VUUUE3
-VUUUH
-VWATAUAVAWL
-VWATAUAVH
-VWATAUAWH
-VWATAUH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUAVH
-VWAUAWH
-VWAUH
-VWAVAWH
-VWAVH
-VWAWH
 V_CopyMemory3D
 V_GetErrno
 V_GetFileExtension
@@ -10693,8 +7514,6 @@ V_vsnprintf
 V_vsnprintfSize
 V_wcstod
 V_wcstoi64
-V_~]	,
-V`;Ct~bH
 Value
 ValueChanged()
 ValueEdited()
@@ -10707,8 +7526,6 @@ ValueType_t
 ValueXChangedFF(double)
 ValueYChangedFF(double)
 Valve
-Valve Corp.0
-Valve Corp.1
 Valve Floater
 Valve Make Sheet File
 Valve Map File
@@ -10733,6 +7550,7 @@ VertexPaintTintColor
 VertexUVPosColorNormalAndTangent_t
 VerticalStrafeCamera
 Vgui editor file
+View
 Virtual array controller messed up
 VirtualAlloc
 VirtualFree
@@ -10742,40 +7560,29 @@ Vis:0
 Vis:1 
 VisBuilder_001
 Visit Developer Help URL
-Vp+S$H
+W 7x
 W ?paintEvent@QComboBox@@MEAAXPEAVQPaintEvent@@@Z
 W!?pos@QWidget@@QEBA?AVQPoint@@XZ
-W!t/H
 W.?setWidget@QScrollArea@@QEAAXPEAVQWidget@@@Z
 W/?sizeHint@QScrollArea@@UEBA?AVQSize@@XZ
-W8HcH
 W=vmdlkeys0
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WATAUAVH
-WATAUH
-WATAWH
-WAUAVH
-WAUAWH
-WAVAWH
-WD8l$@t
-WE0L+
-WHcs 
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WIN32
 WINDOWS
 WINXP
+W\f?beep@QApplication@@SAXXZ
+W\v?addSpacerItem@QBoxLayout@@QEAAXPEAVQSpacerItem@@@Z
 WaNd?
 WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.
-Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".
-Warning:  %s = '%s' is infinite, clamping value.
+Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.\n
+Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".\nDid you forget to surround the vector with "s?\n
+Warning:  %s = '%s' is infinite, clamping value.\n
 Warning: thumbnail image size does not match data length %u
 Warning: unknown JFIF revision number %d.%02d
-Washington1
 Wednesday
 WeightList
 Well - release: 
@@ -10787,8 +7594,8 @@ WideCharToMultiByte
 WidgetUpdated(int)
 Width is too large for libpng to process pixels
 WinRTInitialization
-WipeRedo '%s'
-WipeUndo '%s'
+WipeRedo '%s'\n
+WipeUndo '%s'\n
 Wireframe
 WireframeDecal
 WireframeTranslucent
@@ -10806,83 +7613,39 @@ WriteFile
 Writing Asset Dependency or Thumbnail Database
 Wrong JPEG library version: library is %d, caller expects %d
 Wrote symbol stats to file: %s
-Wu4E3
-X E9z
-X UVWH
-X!t5~
-X(D9y(
 X)?setFixedHeight@QWidget@@QEAAXH@Z
-X0HcE
+X/4B
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
-X=/`'
-XA;w@
-XA]A\^[
-XA^A\_[
-XA_A]
-XA_A^
-XA_A^A\]
-XA_A^A\^][
-XA_A^A\_^[
-XA_A^A]A\_^[]
-XA_A^A]^[]
-XA_A^^[
-XA_A^_^[]
-XA_^[]
-XA__^[
 XClipPathUnits
-XD$tH
-XL$4H
-XL$tL
 XMLPacket
 XPosition
-XPxHc
-XPxIc
 XResolution
-XRxHc	
 XYZ, Luv
-X_^][
-Xt$dE
-X|$ A
-X|$8E
-X|$XH
+X\v?addSpacing@QBoxLayout@@QEAAXH@Z
 Y#?qt_metacast@QSplitter@@UEAAPEAXPEBD@Z
-Y$D;R
 Y(?setCurrentIndex@QComboBox@@QEAAXH@Z
-Y-l])
-Y0t>H
-Y57W	
-Y5As*
-Y9"SD
-Y=l2.
-Y=v|*
+Y8a:
 Y>kX>M
 YCbCrCoefficients
 YCbCrPositioning
 YCbCrSubsampling
 YClipPathUnits
-YD$ A
-YD$8K
-YD$@f
 YPosition
 YResolution
-YT$$A
+Y\v?manhattanLength@QPoint@@QEBAHXZ
 YawCameraLeft
 YawCameraRight
-Yd$0D
-Yl$@A
 YpU_Z
-Y|$PA
-Z(D9Z
 Z)?setFixedSize@QWidget@@QEAAXAEBVQSize@@@Z
 Z.?setWidgetResizable@QScrollArea@@QEAAX_N@Z
 Z/?sizeHint@QSlider@@UEBA?AVQSize@@XZ
 Z0?staticMetaObject@QGroupBox@@2UQMetaObject@@B
 Z2?tabInserted@QTabWidget@@MEAAXH@Z
-Z@&LHA'
+Z@&LHA'\r:C(
 ZFP compression is not supported.
-ZHcs 
 ZIPDecode
 ZIPEncode
 ZIPPostEncode
@@ -10890,8 +7653,8 @@ ZIPSetupDecode
 ZIPSetupEncode
 ZIPVSetField
 Z\>z8
+Z\v?addStretch@QBoxLayout@@QEAAXH@Z
 Zero length tRNS chunk
-Zod(^?
 ZoomAllCamerasIn
 ZoomAllCamerasOut
 ZoomCameraIn
@@ -10899,183 +7662,125 @@ ZoomCameraOut
 ZoomForwardBack2D
 ZoomForwardBack3D
 Zpm"U
-[ UWAVH
-[$+^,+~(
-[%1] %2
-[%d] Aborting undo '%s'
-[%d] Popping undo '%s'
-[%d] Pushing undo '%s'
+[%d] Aborting undo '%s'\n
+[%d] Popping undo '%s'\n
+[%d] Pushing undo '%s'\n
 [%f %f %f %f]
-[%f %f %f]
 ['?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
 [)?setFixedSize@QWidget@@QEAAXHH@Z
 [*ncd>0
 [/?sizeHint@QSpacerItem@@UEBA?AVQSize@@XZ
-[0Hc3;s
-[@fE#
 [Inactive]
-[K]taM?
 [NoWidget]
 [Text too large to display. Press the attractive button above to show it.]
 [aOni*{
 \#?qt_metacast@QStackedWidget@@UEAAPEAXPEBD@Z
-\$ ATAVAWH
-\$ AVH
-\$ E3
-\$ H9|$`
-\$ H;
-\$ Hi
-\$ I;
-\$ Ic
-\$ M;
-\$ UATAVH
-\$ UAVAWH
-\$ UH
-\$ UVATAVAWH
-\$ UVATH
-\$ UVAVH
-\$ UVAWH
-\$ UVWATAUAVAWH
-\$ UVWAUAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ UWAUAVAWH
-\$ UWAVH
-\$ UWAWH
-\$ VAVAWH
-\$ VH
-\$ VWAUAVAWH
-\$ VWAVH
-\$ WAVAWH
-\$ WH
-\$ t>I
-\$(A_A]^]
-\$(E3
-\$(E;
-\$(Hc|$ H
-\$(I;
-\$(L#
-\$(fD;
-\$09^
-\$09i8
-\$0;^
-\$0A;
-\$0D;
-\$0E3
-\$0H;
-\$0Hc
-\$0HcH
-\$0I9
-\$0Ic
-\$0L+
-\$0Lc
-\$0t!H
-\$4E;O
-\$4Lc3
-\$8A+
-\$8E3
-\$8Hc
-\$8Hc_
-\$8fD
-\$<A;
-\$@9\$8
-\$@9\$8~I
-\$@@8=
-\$@H+
-\$@H;
-\$@Hc
-\$@Ic
-\$@f;
-\$@u$M
-\$@u+M
-\$@uFM
-\$HA;
-\$HHc
-\$Hta
-\$I;n
-\$L;u$
-\$PA_A^A]A\_^]
-\$PE3
-\$PE;
-\$PHc
-\$PfD
-\$Pff
-\$Pfff
-\$X9E
-\$XA;
-\$XE3
-\$XH;y
-\$XHc
-\$XIc
-\$Xt+H
-\$`A+
-\$`D9>
-\$`D;L$l~
-\$`E3
-\$`Hc
-\$`HcD
-\$`fA;z`
-\$`t-H
-\$gm?
-\$hA;
-\$hD;T$d~!Hc
-\$hE3
-\$hHcZ@H
-\$ht1H
-\$hw,
-\$p;D$0u'
-\$pA;
-\$pD+
-\$pD;T$d~ Hc
-\$pE3
-\$pH#
-\$pM;
-\$pu+H
-\$tD;
-\$xu7M
-\$xv.
 \%?resize@QWidget@@QEAAXAEBVQSize@@@Z
 \)?setFixedWidth@QWidget@@QEAAXH@Z
 \/?sizeHint@QSplitter@@UEBA?AVQSize@@XZ
-\D$8H
-\D$8L
-\D$Hf
-\S8+A
-\T$HMc
-\T$Hf
-\ffff
-\t$\L
-\t$`H
-\|$`I
-] - Red
+\\f?parent@QObject@@QEBAPEAV1@XZ
+\f+?setMinimumHeight@QWidget@@QEAAXH@Z
+\f,?setPrefix@QDoubleSpinBox@@QEAAXAEBVQString@@@Z
+\f?blue@QColor@@QEBAHXZ
+\f?blueF@QColor@@QEBANXZ
+\f?brush@QPalette@@QEBAAEBVQBrush@@W4ColorGroup@1@W4ColorRole@1@@Z
+\f?buddy@QSortFilterProxyModel@@UEBA?AVQModelIndex@@AEBV2@@Z
+\f?button@QDialogButtonBox@@QEBAPEAVQPushButton@@W4StandardButton@1@@Z
+\f?button@QMouseEvent@@QEBA?AW4MouseButton@Qt@@XZ
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
+\f?number@QByteArray@@SA?AV1@HH@Z
+\f?number@QString@@SA?AV1@HH@Z
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?qDebug@@YA?AVQDebug@@XZ
+\f?qFree@@YAXPEAX@Z
+\n*?setHidden@QWidget@@QEAAX_N@Z
+\n.?setValue@QDoubleSpinBox@@QEAAXN@Z
+\n2?supportedDropActions@QSortFilterProxyModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\n?acceptProposedAction@QDropEvent@@QEAAXXZ
+\n?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QMenuBar@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QToolBar@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QToolButton@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\n?actions@QWidget@@QEBA?AV?$QList@PEAVQAction@@@@XZ
+\n?activeModalWidget@QApplication@@SAPEAVQWidget@@XZ
+\n?activePopupWidget@QApplication@@SAPEAVQWidget@@XZ
+\n?activeWindow@QApplication@@SAPEAVQWidget@@XZ
+\n?addAction@QActionGroup@@QEAAPEAVQAction@@PEAV2@@Z
+\n?addAction@QMenu@@QEAAPEAVQAction@@AEBVQString@@@Z
+\n?addAction@QMenu@@QEAAPEAVQAction@@AEBVQString@@PEBVQObject@@PEBDAEBVQKeySequence@@@Z
+\n?addAction@QToolBar@@QEAAPEAVQAction@@AEBVQIcon@@AEBVQString@@PEBVQObject@@PEBD@Z
+\n?addAction@QWidget@@QEAAXPEAVQAction@@@Z
+\n?addButton@QButtonGroup@@QEAAXPEAVQAbstractButton@@@Z
+\n?isValid@QTime@@QEBA_NXZ
+\n?isWidgetType@QObject@@QEBA_NXZ
+\nCwf\r
+\nh?oT
+\nk>oB
+\r&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
+\r-?setStandardButtons@QDialogButtonBox@@QEAAXV?$QFlags@W4StandardButton@QDialogButtonBox@@@@@Z
+\r2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\r8?viewportEvent@QTreeView@@MEAA_NPEAVQEvent@@@Z
+\r?buttons@QButtonGroup@@QEBA?AV?$QList@PEAVQAbstractButton@@@@XZ
+\r?buttons@QMouseEvent@@QEBA?AV?$QFlags@W4MouseButton@Qt@@@@XZ
+\r?checkStateSet@QAbstractButton@@MEAAXXZ
+\r?checkStateSet@QCheckBox@@MEAAXXZ
+\r?childEvent@QGroupBox@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QSplitter@@MEAAXPEAVQChildEvent@@@Z
+\r?childEvent@QToolBar@@MEAAXPEAVQChildEvent@@@Z
+\r?clear@QAbstractSpinBox@@UEAAXXZ
+\r?clear@QComboBox@@QEAAXXZ
+\r?clear@QListWidget@@QEAAXXZ
+\r?clear@QMenu@@QEAAXXZ
+\r?clear@QStandardItemModel@@QEAAXXZ
+\r?clearFocus@QWidget@@QEAAXXZ
+\r?qWarning@@YAXPEBDZZ
+\r?qt_metacast@QMimeData@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QTimer@@UEAAPEAXPEBD@Z
+\r?qt_qFindChildren_helper@@YAXPEBVQObject@@AEBVQString@@PEBVQRegExp@@AEBUQMetaObject@@PEAV?$QList@PEAX@@@Z
+\r\f\v\v\n\n\t\t\t\t\t
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\t9sv
+\t?fromUtf8@QString@@SA?AV1@PEBDH@Z
+\t?installEventFilter@QObject@@QEAAXPEAV1@@Z
+\tN1a
+\tNAN encountered in element '%s' guid %s attribute '%s'!\n
+\tcQr
+\tkE>fvw
+\v.?setValue@QProgressBar@@QEAAXH@Z
+\v2?supportedDropActions@QStandardItemModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\v?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+\v?addItem@QComboBox@@QEAAXAEBVQString@@AEBVQVariant@@@Z
+\v?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
+\v?alpha@QColor@@QEBAHXZ
+\v?alphaF@QColor@@QEBANXZ
+\v?appendRow@QStandardItemModel@@QEAAXAEBV?$QList@PEAVQStandardItem@@@@@Z
+\v?metaObject@QMimeData@@UEBAPEBUQMetaObject@@XZ
+\v?metaObject@QTimer@@UEBAPEBUQMetaObject@@XZ
+\v?msec@QTime@@QEBAHXZ
+\v?msecsTo@QTime@@QEBAHAEBV1@@Z
+\vA03>A|
 ] ?paintEvent@QFrame@@MEAAXPEAVQPaintEvent@@@Z
 ]#?qt_metacast@QStandardItemModel@@UEAAPEAXPEBD@Z
 ]%?resize@QWidget@@QEAAXHH@Z
 ](?setCurrentIndex@QStackedWidget@@QEAAXH@Z
-])6M>&
 ],?setRootIndex@QListView@@UEAAXAEBVQModelIndex@@@Z
 ].?setWidth@QPen@@QEAAXH@Z
-]5e5$
-]8fff
-]>)2X
-]@fff
-]HE9F
-]HcD$ I
-]J<0"0i3
-]oHc8;x
+]u9g
 ^"?qt_metacall@QGridLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ^,?setRootIndex@QTableView@@UEAAXAEBVQModelIndex@@@Z
 ^8?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ
 ^<V7w
+^L7B
 ^RfN>
-^fD9+t
 _ ?paintEvent@QGroupBox@@MEAAXPEAVQPaintEvent@@@Z
 _"?qt_metacall@QGroupBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 _$?question@QMessageBox@@SAHPEAVQWidget@@AEBVQString@@1W4StandardButton@1@2@Z
 _,?setRootIndex@QTreeView@@UEAAXAEBVQModelIndex@@@Z
 _3?toHsl@QColor@@QEBA?AV1@XZ
-_8tDH
 _TIFFMergeFieldInfo
 _TIFFSetupFieldInfo
 _TIFFVGetField
@@ -11089,7 +7794,7 @@ _V_strncmp
 _V_strncpy
 _V_strnicmp_fast
 _V_strnistr_fast
-_^[]H
+_\r?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
 __UNKNOWN__
 __based(
 __cdecl
@@ -11109,7 +7814,6 @@ __unspecified_texture
 __vectorcall
 _cabs
 _class
-_gUT^
 _hypot
 _light
 _linked_type_
@@ -11117,46 +7821,10 @@ _logb
 _name
 _nextafter
 _oD>Kg
-_pHc_`Hc
 _test_conversion_counter
-` UAVAWH
-`+!]?
-`.rdata
 `3?toHsv@QColor@@QEBA?AV1@XZ
-`;k8|
-`A;m8
-`A;n8
-`A^A\]
-`A^A]A\_^
-`A^][
-`A^^]
-`A^_^[]
-`A_A\]
-`A_A\_
-`A_A]A\_[
-`A_A]]
-`A_A]^[]
-`A_A]_^]
-`A_A^A\
-`A_A^A\H
-`A_A^A]A\]H
-`A_A^A]A\_[]
-`A_A^A]A\_^]
-`A_A^A]_]
-`A_A^]
-`A_A^_
-`A_A^_^[
-`A_A^_^]
-`A_][
-`D;K8|
-`D;e8|
-`D;{8
-`HcY 3
-`Lc9L
-`LcA H
-`LcQ H
 `RTTI
-``J!MK
+`\r?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
 `copy constructor closure'
 `default constructor closure'
 `dynamic atexit destructor for '
@@ -11166,7 +7834,6 @@ _test_conversion_counter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -11195,16 +7862,19 @@ _test_conversion_counter
 `virtual displacement map'
 a"?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 a%?resizeColumnToContents@QTreeView@@QEAAXH@Z
-a(D9~p
+a6>r
+a\r?changeEvent@QAbstractSpinBox@@MEAAXPEAVQEvent@@@Z
+a\v?addTab@QTabWidget@@QEAAHPEAVQWidget@@AEBVQIcon@@AEBVQString@@@Z
 abcdefghijklmnopqrstuvwxyz
 accelerateHold
+acos
 actBusy
 actBusyList
 actbusy
 activeBookmarkSet
 activity
 addValueToSet()
-adding layer %d to stack
+adding layer %d to stack\n
 addlayer: log %p lc[%d], layer %p
 addlayer: log %p lc[%d], layer NULL
 address family not supported
@@ -11240,6 +7910,7 @@ angle
 angles_relative
 angularDamping
 angularMomentum
+anim
 animBlockStall
 animBlocks
 animSetList
@@ -11270,6 +7941,7 @@ aperture
 application/x-color
 argument list too long
 argument out of domain
+asin
 assemblyCmds
 asset_preview_thumbnail
 asset_preview_thumbnail_format
@@ -11278,7 +7950,7 @@ assetpreview.dll
 assetsystem
 assetsystem_clear_thumbnail_cache
 assumeWorldSpace
-at=<rt!<wt5L
+atan
 atan2
 attach
 attach_point
@@ -11297,11 +7969,11 @@ autoPlay
 auto_unragdoll_duration
 automaticMassComputation
 axies
+axis
 axisSystem
 b ?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z
 b%?resizeColumnsToContents@QTableView@@QEAAXXZ
 b/?sizeHint@QTabWidget@@UEBA?AVQSize@@XZ
-b?^Cy
 bChecked
 bDisplay
 bEnable
@@ -11315,6 +7987,7 @@ bSyncCamera
 bTakesFocusOnHover
 bUpdate
 bWrapValueIn
+b\r?changeEvent@QColorDialog@@MEAAXPEAVQEvent@@@Z
 background
 background-color: #22b14c
 backgroundColor
@@ -11356,6 +8029,7 @@ binary_bc
 binary_lz4
 binary_seqids
 binary_v
+bind
 bindState
 black
 blendCenter
@@ -11379,8 +8053,10 @@ blendweights$0
 blendweights$0Indices
 blockLOS
 bloomScale
+blue
 bnewState
 body_type
+bone
 boneFollower
 boneMask
 boneMatrix
@@ -11398,6 +8074,7 @@ bookmarksW
 bookmarksX
 bookmarksY
 bookmarksZ
+bool
 bool log
 bool_array
 boolean
@@ -11408,7 +8085,6 @@ box_maxs
 box_mins
 boxproject_maxs
 boxproject_mins
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakableForce
@@ -11421,6 +8097,7 @@ broadcastColor(QColor)
 broken pipe
 broken promise
 bspline
+bt3V
 bundleTypes
 burst_randomize
 burst_scale
@@ -11428,12 +8105,8 @@ busy_anim
 busy_sequence
 button_h_Layout
 buttons
-by this version of libtiff.
 c ?paintEvent@QLineEdit@@MEAAXPEAVQPaintEvent@@@Z
-c [1>H'
 c&?screenGeometry@QDesktopWidget@@QEBA?BVQRect@@H@Z
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\assetpreview\Retail\win64\assetpreview.pdb
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ati_compress_loader.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\floatbitmap.cpp
@@ -11478,8 +8151,8 @@ c:\buildslave\hlvr_rel_win64\build\src\tools\toolscene\toolscenetraceenvironment
 c:\buildslave\hlvr_rel_win64\build\src\tools\toolutils2\toolhud.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tools\toolutils2\toolrenderutils.cpp
 c?FA@s}
-cAMDD
-cP3KT
+cNDS
+c\r?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
 cable
 camera
 cancel()
@@ -11492,6 +8165,7 @@ catmullrom
 catmullrom_normalize
 catmullrom_normalize_x
 catmullrom_tangent
+ceil
 cellConfiguration
 cellsNodeID
 center
@@ -11593,7 +8267,7 @@ components
 composite
 compressed
 compression
-compression error would be too large %f [%f %f]
+compression error would be too large %f [%f %f]\n
 computeMipmaps
 concave
 concavePerJoint
@@ -11619,6 +8293,8 @@ controls
 convars
 coordSys
 corrected
+cosf
+cosh
 count
 crc32
 create from parent particles
@@ -11640,60 +8316,20 @@ curvetypes
 custom
 custom_colors
 d ?paintEvent@QListView@@MEAAXPEAVQPaintEvent@@@Z
-d$ ;s
-d$ D9d$0|SH
-d$ E3
-d$ UAVAWH
-d$ fC
-d$(E3
-d$0A+
-d$0D;u
-d$0E3
-d$0Hc
-d$0Hc3
-d$0Ic\$
-d$0Mc
-d$8D;
-d$8E3
 d$?raise@QWidget@@QEAAXXZ
-d$@D;e
-d$DE;
-d$HA;
-d$HE2
-d$HE3
-d$HHc
-d$P+A$t
-d$PD;
-d$PfD
-d$XE3
-d$XHc
-d$XLc
-d$`;C
-d$`A;F
-d$`D; 
-d$`E3
-d$`H;
-d$`fff
-d$dD;d$l
-d$h9s
-d$hE2
-d$hE3
-d$hIc
-d$heL
-d$p9N
-d$pE3
-d$pM+
-d$tM;
-d$tfff
-d$xE3
 d%?resizeEvent@QAbstractItemView@@MEAAXPEAVQResizeEvent@@@Z
 d&?screenGeometry@QDesktopWidget@@QEBA?BVQRect@@PEBVQWidget@@@Z
 d/?sizeHint@QToolButton@@UEBA?AVQSize@@XZ
 d2?tabRemoved@QTabWidget@@MEAAXH@Z
+d8-t
+d8L2
 d?000000`?
+dRL>
+d\r?changeEvent@QDialogButtonBox@@MEAAXPEAVQEvent@@@Z
 damage
 damping
 darkColors
+data
 data height too large.
 data width or data height is negative.
 data width too large.
@@ -11767,6 +8403,7 @@ dmx file
 dmxconvert -allowdebug -i "
 dominators
 double
+drag
 drawGameRenderablesMask
 drawToolRenderablesMask
 driveDampingSlerp
@@ -11786,26 +8423,13 @@ dropDraggedColorSetSpecial()
 dummyfilename.tif
 duration
 durationTime
+dxt5
 dynamicFriction
 dynamic_interaction
-e A_A^A]A\]
-e A_A^A]A\_^]
-e(A_A^A]A\_^[]
 e*?setItem@QTableWidget@@QEAAXHHPEAVQTableWidgetItem@@@Z
 e+000
-e,>~^
-e0A_A^A]A\]
-e0A_A^A]A\_^]
-e0A_A^]
-e8u~f
-e@A_A^A]A\]
-e@A_A^A]A\_^]
-e@A_A^]
-eHA_A^A]A\_^[]
+eF>t
 eLK(w
-ePA_A^A]A\]
-ePA_A^]
-eXA_A^A]A\_^[]
 easein
 easeinout
 easeout
@@ -11821,8 +8445,7 @@ editingTextStarted()
 editor
 editorType
 editstate,newColorToEdit
-effortblocks = %d
-ehA_A^A]A\_^[]
+effortblocks = %d\n
 ehandle
 element
 elementList
@@ -11841,14 +8464,13 @@ enableY
 enable_limit
 enabled
 encoding
-encoding %s %d format %s %d
+encoding %s %d format %s %d\n
 endFrame
 endJoint
 endTime
 endUp
 endframe
 ent_dota_lightinfo
-entiA
 entity
 entity2
 entityIdentityNameChanged
@@ -11868,7 +8490,6 @@ eventObject
 event_class
 event_keys
 eventindex
-exA_A^A]A\_^[]
 executable format error
 exitNode
 exit_anim
@@ -11882,80 +8503,25 @@ explosive_radius
 exponential_decay
 exportTags
 exporttags
+expr
 extreme cHRM chunk cannot be converted to tristimulus values
 eyeOffset
 eyelid
-f	?hasText@QMimeData@@QEBA_NXZ
-f!C"3
-f!L$bH
+eyes
 f%?resizeEvent@QAbstractSpinBox@@MEAAXPEAVQResizeEvent@@@Z
 f&?screenNumber@QDesktopWidget@@QEBAHAEBVQPoint@@@Z
 f)?setFlat@QPushButton@@QEAAX_N@Z
 f*?setItemData@QAbstractProxyModel@@UEAA_NAEBVQModelIndex@@AEBV?$QMap@HVQVariant@@@@@Z
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
-f9)u H
-f9)uTH
-f9,Ju
-f9,~u
-f9<Au
-f9<Bu
-f9G`u1H
-f9G`uCH
-f9PpI
-f9\$bu
-f9u"v
-f;S|sC
-f;i~spH
-fA9,Au
-fA9<\u
-fA9Ppu
-fA;z^
-fB9,Nu
-fB94Ou
-fB9<@u
-fB9<Bu
-fB9<Hu
-fD9	t(I
-fD9 t
-fD9 tMH
-fD9 u
-fD9$Hu
-fD9,Au
-fD9,Cu
-fD9,Ku
-fD9,Pu
-fD90t
-fD94Fu
-fD96u
-fD9;u
-fD9<Au
-fD9<Xu
-fD9?t&
-fD9Ab
-fD9Cpu@H
-fD9Ipu	H
-fD9cp~VE
-fD9t$b
-fD9{*t
-fD9{*u
-fD9|;p~E
-fD;C s#A
-fD;I:v
-fD;c\sT
-fE9,Du
-fE9,tu
-fE94(t/E
-fE98t'
-fE9J*t
-fE;en
-fF9<qu
-fG9$Ou
-fG9,wu
-fJBGo
+fD>b
 fNewDefaultValueIn
 fValueChanged(float)
 fValueIn
 fValueSetChanged(QVector<float>)
+fWi?
+f\r?qt_metacall@QMimeData@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+f\t?hasText@QMimeData@@QEBA_NXZ
+fabs
 faceMergeAngle
 faceSets
 faces
@@ -11977,9 +8543,7 @@ ffValueIn
 ffValueIn,userEdit
 ffValueOut
 fff?fff?fff?fff?%.04f
-fffff
 ffffff
-fffffff
 fieldOfView
 file exists
 file too large
@@ -11999,6 +8563,7 @@ flSpeed
 flValue
 flVaue
 flags
+flat
 flatten log %p lc[%d]
 flipVCoordinates
 flnewMaxVal
@@ -12010,6 +8575,7 @@ float_array
 floating point predictor 
 floor
 fltx4
+fmod
 fmodf
 focalDistance
 fog_lighting
@@ -12046,13 +8612,13 @@ future
 future already retrieved
 g ?paintEvent@QMenu@@MEAAXPEAVQPaintEvent@@@Z
 g#?qt_metacast@QTabWidget@@UEAAPEAXPEBD@Z
+g\v?match@QAbstractItemModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
 g_Mathlib_GammaToLinearByteTable
 g_Tier1_CRC32Table
 g_Tier1_CRC64Table
 g_VProfCurrentProfile
 g_pMemAlloc
 g_pThreadPool
-g`;_pu
 ga_frame
 gameSoundName
 game_class
@@ -12075,13 +8641,8 @@ getValueI()
 getValueSetF()
 getValueSetFF()
 getValueSetI()
-gfffA
-gfffD
-gfffH
-gfffLc
-gffff
-gfffffffH
 giveColorBack()
+glow
 goalAngularVelocity
 goalOrientation
 goalPosition
@@ -12093,33 +8654,15 @@ gridspacing
 groupColor
 groupName
 h ?paintEvent@QMenuBar@@MEAAXPEAVQPaintEvent@@@Z
-h VWAWH
-h WATAUAVAWH
 h#?qt_metacast@QTableView@@UEAAPEAXPEBD@Z
 h'?setAutoRaise@QToolButton@@QEAAX_N@Z
-h(E9wp
 h*?setItemData@QStandardItemModel@@UEAA_NAEBVQModelIndex@@AEBV?$QMap@HVQVariant@@@@@Z
+h0'D
 h3?toImage@QPixmap@@QEBA?AVQImage@@XZ
 h8?widgetAt@QApplication@@SAPEAVQWidget@@AEBVQPoint@@@Z
 h>1my
-h@f+hp
-hA\_^]
-hA]A\[]
-hA^A\
-hA^A\^]
-hA^A]
-hA^A]][
-hA^]H
-hA^_^[
-hA^_^]
-hA_A]A\_[]
-hA_A][]
-hA_A]_^
-hA_A^
-hA_A^A\_^]
-hA_A^A]A\_^[]
-hA_A^A]A\_^][
 hResource
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 hammer
 handindex
 hcrop
@@ -12135,6 +8678,7 @@ hiddenGroups
 hideYourself()
 hintDxt5Compression
 hitbox
+hold
 hold_left
 hold_right
 horizontal differencing 
@@ -12144,10 +8688,6 @@ host_framerate
 houdini
 hscript
 hscript_lightbinding
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0X
-http://ocsp.digicert.com0\
-http://www.digicert.com/CPS0
 hullivr_edge_merge_tan
 hullivr_faceisland_merge_disp
 hullivr_faceisland_merge_tan
@@ -12162,7 +8702,9 @@ iSetSizeIn
 iValueChanged(int)
 iValueIn
 iValueIn,userEdit
+i\r?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
 identifier removed
+idle
 ikChain
 ikLockList
 ikRuleList
@@ -12179,7 +8721,6 @@ incorrect count for field "%s" (%u, expecting %u); tag trimmed
 increment()
 index
 index,newValueIn
-ineIA
 inertia
 inertiaScale
 inflate
@@ -12250,20 +8791,14 @@ isPosition
 is_debris
 ispc_texcomp.dll
 iszString
-iu+-,
 j ?paintEvent@QProgressBar@@MEAAXPEAVQPaintEvent@@@Z
 j"?qt_metacall@QIntValidator@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 j'Vlk
 j-?setTabStopWidth@QPlainTextEdit@@QEAAXH@Z
 j2?tabStopWidth@QPlainTextEdit@@QEBAHXZ
-j>>A?1
-j?V()
-j?{$*
-jHc3H
 jitteriterations
 jitterscale
 jitterscale_vector
-jj@0HK4
 joint
 jointCollideList
 jointCount
@@ -12279,25 +8814,11 @@ js_array
 js_object
 js_raw_args
 js_value
-k ;k0u
 k ?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z
-k HcKX;
-k(H;_
 k,?setRowCount@QTableWidget@@QEAAXH@Z
-k0i0$
-k0t$I
 k7?update@QWidget@@QEAAXXZ
-k89k ~MH
-k<9s@~;L
-k<9s@~>L
-k<9s@~?L
-k<9s@~@L
-k<9s@~DL
-k<9s@~EL
-k<9{@~:L
-k<9{@~EL
-k<9{@~FL
-k@_aH
+k=yI
+k\r?changeEvent@QGroupBox@@MEAAXPEAVQEvent@@@Z
 keyRelease RETURN/ENTER:
 keyValues
 keysInTime_0
@@ -12319,151 +8840,24 @@ keyvalues2_flat
 keyvalues2_flat_v
 keyvalues2_noids
 keyvalues2_v
+knee
 kochanek
 kochanek_early
 kochanek_late
-kxu/H
 l ?paintEvent@QRadioButton@@MEAAXPEAVQPaintEvent@@@Z
-l$ 9Q
-l$ ;s
-l$ ATAVAWH
-l$ AVH
-l$ D8|$ tK
-l$ D9l$0|LH
-l$ D;s
-l$ E3
-l$ E;G|
-l$ Hc
-l$ Lc
-l$ V3
-l$ VAUAWH
-l$ VAV
-l$ VAVAWH
-l$ VH
-l$ VWATAUAVAWE3
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAUH
-l$ VWAVH
-l$ VWAWH
-l$ W3
-l$ WATAUAVAWH
-l$ WAVAWH
-l$ WH
-l$ eH
-l$$9L$(
-l$$D;
-l$(;i
-l$(A^A]A\[
-l$(E3
-l$(LcI
-l$,A9l$
-l$0;CP}8H
-l$0A^^
-l$0E3
-l$0H+
-l$0H9_
-l$0Hc
-l$0HcA
-l$0Ic
-l$0Lc
-l$0ff
-l$0v=fA
-l$0~8H
-l$0~T3
-l$4Hc
-l$8;{
-l$8@8
-l$8A2
-l$8A;
-l$8H+
-l$8Hc/
-l$8HcG
-l$8HcH
-l$8HcO
-l$8Hk
-l$8Ic@
-l$8fE;
-l$8t	
-l$@9k
-l$@@2
-l$@A3
-l$@D9s8~YH
-l$@E3
-l$@H;
-l$@Hc
-l$@HcJ
-l$@Hck
-l$@I;
-l$@Ic
-l$@eH
-l$H@2
-l$HA;
-l$HA_A^A]A\_^
-l$HD9l$x
-l$HE3
-l$HHc
-l$HHc/H
-l$HLcH
-l$HfA
-l$H~&E
-l$PA_A^A]A\_^
-l$PD30A
-l$PD;
-l$PE3
-l$PHc
-l$PHcl$X
-l$PIk
-l$PLc
-l$PfA
-l$Pu,L;
-l$X;M
-l$XA+
-l$XD;
-l$XE3
-l$XHc
-l$XJc
-l$XL9e
-l$`9sX~&H
-l$`C9,
-l$`D9(
-l$`D9f(u
-l$`D;s
-l$`E3
-l$`E9j
-l$`E;j
-l$`Hc)H
-l$`HcJ
-l$`Ic
-l$`Mc?H
-l$`u$H
-l$hE3
-l$hHc
-l$hHcH
-l$hI;
-l$hL;
-l$hM;
-l$hff
-l$ht!H
-l$lD;s
-l$pE3
-l$pHc)
-l$pIc~
-l$pfff
-l$tE3
-l$x@2
-l$xD;s
-l$xE3
 l%?resizeEvent@QDialog@@MEAAXPEAVQResizeEvent@@@Z
 l.?setWindowFlags@QWidget@@QEAAXV?$QFlags@W4WindowType@Qt@@@@@Z
 l/?sizeHintForColumn@QAbstractItemView@@UEBAHH@Z
-lJpZy
+lWi]
+l\r?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
 labelPos
 labelText
 last_sniff
 layerList
 layers
+lcQe
 ldexp
+left
 leftEdgeActive
 leftEdgeCurveType
 leftEdgeValue
@@ -12512,6 +8906,7 @@ lockPosition
 lockRotation
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
@@ -12519,7 +8914,11 @@ looping
 lower_hemisphere_is_black
 m,?setRowHeight@QTableView@@QEAAXHH@Z
 m/?sizeHintForColumn@QTableView@@MEBAHH@Z
-m8L9c
+m?H7
+mG4>
+mXr4
+m\nXo
+m\r?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
 m_Attenuation0
 m_Attenuation1
 m_Attenuation2
@@ -12679,6 +9078,7 @@ m_hOwner
 m_hSnapshot
 m_hTarget
 m_iEventListCount
+m_id
 m_int
 m_iszPrivateVScripts
 m_lightCookie
@@ -12798,6 +9198,7 @@ mapped(int,int)
 mapped(int,void*)
 mapped(void*)
 mapsequences
+mass
 massBias
 massCenter
 master_morph_weight
@@ -12867,6 +9268,8 @@ maximum
 maximumX
 maximumY
 maxvalue
+maya
+mesh
 meshGroups
 meshResources
 meshUtilsKeyValues
@@ -12877,7 +9280,6 @@ meshes
 meshsystem
 message size
 method
-mgfff
 midJoint
 midOffset
 midpoint
@@ -12891,8 +9293,10 @@ minimum
 minimumX
 minimumY
 minvalue
+mips
 mixer
 modal
+mode
 model
 model_attachment
 model_bone
@@ -12928,7 +9332,9 @@ modeldoc6
 modeldoc7
 modeldoc8
 modeldoc9
+modf
 modifierList
+modo
 motionBlurSamples
 motionControl
 motionRollback
@@ -12958,8 +9364,8 @@ multilevel
 multilevelchannel
 multiplayer_break
 must be either LogLUV or LogL
-mwLcEgH
-n D9e
+mute
+n$Kx
 n/?sizeHintForColumn@QTreeView@@MEBAHH@Z
 n03>Pu
 n0?staticMetaObject@QLineEdit@@2UQMetaObject@@B
@@ -12969,14 +9375,15 @@ nIndex
 nIndex,newColorIn
 nLayoffState
 nMode
-nN0fA
 nNewDesiredHeight
 nSelection
 nSlice
 nTries < 10000000
 nValidGroupIndex
 nValue
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -13062,6 +9469,7 @@ nolod
 nomip
 none 
 nonice
+norm
 normal
 normal$0
 normal$0Indices
@@ -13073,19 +9481,22 @@ not a stream
 not connected
 not enough memory
 not supported
+note
 notes
 npcclass
-ntelE
+null
 nullAttr
 numColors
 numValues
 numchannels
 numsegments
 o.?setWindowIcon@QWidget@@QEAAXAEBVQIcon@@@Z
-oD$ H
+o9sp
+o?GS
 oI>O7
-oO0fI
 oOffset
+o\r?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
+o\v?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 obwQ4
 offset
 offsetAmount
@@ -13115,7 +9526,6 @@ origin_max_delta
 origin_relative
 oscillate_scalar
 oscillate_vector
-ot$ H
 outerconeangle
 outputcolor
 outputs
@@ -13123,48 +9533,20 @@ overrideMassOrDensity
 overrideParent
 overridePos
 overrideRot
+owM&
 owner dead
 ownerlog
-oypfD
-o|$0f
 p ?paintEvent@QSlider@@MEAAXPEAVQPaintEvent@@@Z
-p ATAVAWH
-p AVH
-p AWH
-p UAVAWH
-p UWATAVAWH
 p"?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 p%?resizeEvent@QGroupBox@@MEAAXPEAVQResizeEvent@@@Z
 p)?setFocus@QWidget@@QEAAXW4FocusReason@Qt@@@Z
 p/?sizeHintForRow@QAbstractItemView@@UEBAHH@Z
-p0D9p
 p?ati_compress_wrapper.dll
-p@D9p
-pA]A\_[]
-pA][]
-pA^[]
-pA^^]
-pA^_^
-pA^_^[]
-pA_A\]
-pA_A\_
-pA_A]A\_]
-pA_A]]
-pA_A]^[]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_A^]
-pA_A^_^]
-pA_][
-pA__]
 pAsset
 pContext
-pD	s0
 pEvents
 pExecutionResource
-pLcyHL
 pLightRigButton
-pPD9p
 pPrevFocusWidget,pCurrentFocusWidget
 pScheduler
 pThreadProxy
@@ -13173,8 +9555,7 @@ pToolsVisModeButton
 pTraceResult
 pTraceResult,nMouseButton,nModifiers
 pWidget
-p_^[H
-p`D9p t
+p\r?changeEvent@QMenuBar@@MEAAXPEAVQEvent@@@Z
 packmode
 paramEnd
 paramStart
@@ -13193,8 +9574,9 @@ particles/dev/dev_preview_sequence_alpha_effect.vpcf
 particles/dev/dev_preview_sequence_color_effect.vpcf
 particles/dev/dev_preview_sequence_effect.vpcf
 particles/error/error.vpcf
-pass %u
+pass %u\n
 patch
+path
 peakFrame
 permission denied
 pfmscale
@@ -13243,11 +9625,11 @@ position_within_box
 position_within_sphere
 positions
 positionsIndices
+post
 posterSettings
 postion_lock_to_controlpoint
 postprocessing
 poupmode
-ppD9p$t
 ppVirtualProcessorRoots
 pqWidget
 preDelta
@@ -13262,6 +9644,7 @@ preview
 preview_camera_locked
 preview_menu_enabled
 priority
+proc
 procedural
 processors
 projectionAngle
@@ -13284,11 +9667,8 @@ pvTarget
 q$?read@QStandardItem@@UEAAXAEAVQDataStream@@@Z
 q%?resizeEvent@QListView@@MEAAXPEAVQResizeEvent@@@Z
 q&?scroll@QPixmap@@QEAAXHHAEBVQRect@@PEAVQRegion@@@Z
-q(9YD~tE3
 q(?setCurrentWidget@QStackedWidget@@QEAAXPEAVQWidget@@@Z
-q(@85
 q/?sizeHintForRow@QTableView@@MEBAHH@Z
-q0@80u
 qS>g?h3
 qangle
 qangle log
@@ -13296,15 +9676,11 @@ qangle_array
 quaternion
 quaternion log
 quaternion_array
-r	Vr.>T
-r	uOD;d$(uH
-r 9_ t
 r$?read@QTableWidgetItem@@UEAAXAEAVQDataStream@@@Z
-r'Hc.;n
-r:D8v
-r?IcH
-rBu/H
 rLp>B
+r\np!G
+r\r?changeEvent@QPlainTextEdit@@MEAAXPEAVQEvent@@@Z
+r\tVr.>T
 r_freezeparticles
 r_particle_timescale
 r_ssao_bias
@@ -13336,7 +9712,7 @@ relinquishFocus(QFocusEvent*)
 remap_scalar
 remove2d
 removeValueFromSet()
-removing layer %d from stack
+removing layer %d from stack\n
 renderOnlySelectedClips
 renderSettings
 renderTarget
@@ -13365,7 +9741,7 @@ revertToOriginal()
 revertToOriginalColor()
 revertToResetColor()
 rgb+a
-ri9V vdH
+rgba
 rigIdx
 right
 rightEdgeActive
@@ -13382,6 +9758,7 @@ rigidBodies
 rigidBody1
 rigidBody2
 rigidConstraints
+root
 rootBone
 rootControlGroup
 rootGroup
@@ -13394,28 +9771,17 @@ rotation_spin
 rotation_spin yaw
 rotationalDamping
 rotations
-s	A9;A
-s UAVAWH
-s WATAUAVAWH
 s!?prefix@QDoubleSpinBox@@QEBA?AVQString@@XZ
 s"?qt_metacall@QLineEdit@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-s"Hc}
 s$?read@QTreeWidgetItem@@UEAAXAEAVQDataStream@@@Z
-s$fff
-s%D;k
-s&Hc}
 s,?setRowMinimumHeight@QGridLayout@@QEAAXHH@Z
-s4+sP+
-s<9s@~XL
-s@t%@
 sAmTb
 sCAL chunk too short
-sFFou
+sHF'
 sPLT chunk has bad length
 sPLT chunk requires too much memory
 sPLT chunk too long
-sYHpu
-s]D9(tXI
+s\v?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 s_EntComponentInfo
 s_hColoredVertexLayout
 s`"DH
@@ -13453,6 +9819,7 @@ selectall
 selectedControls
 selectedControls2
 selectionGroups
+self
 selfCollisions
 self_with_wearables
 semanticName
@@ -13573,6 +9940,7 @@ shape
 shapeType
 shared
 sheetimages
+show
 showAllSliderSets()
 showAlphaSlider(bool)
 showAmbientOcclusion
@@ -13602,6 +9970,7 @@ showViewTargets
 showWells
 showwave
 shutterSpeed
+side
 sidelist
 simple_cubic
 simulating
@@ -13609,6 +9978,8 @@ simulationTime
 simulationTimeScale
 simulationType
 singleStep
+sinh
+size
 size0
 size1
 skeleton
@@ -13652,6 +10023,7 @@ smoothiterations
 smoothscale
 smoothscale_vector
 snan)
+snap
 snapDefaultValue(bool)
 snapToDefault
 snappable
@@ -13674,6 +10046,7 @@ speedIndices
 spewresult
 sphere_indices
 sphere_verts
+spin
 spinbox key SEQ Copy: 
 spinbox key SEQ Paste: 
 spinbox key enter/return: 
@@ -13683,9 +10056,6 @@ srcCropXEnd
 srcCropXStart
 srcCropYEnd
 srcCropYStart
-stCD;
-stED;
-st`D;
 staggerinterval
 standard
 standardIcon
@@ -13710,9 +10080,6 @@ stepValue
 stereo
 stereoSingleFile
 stereoscopic
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -13742,399 +10109,19 @@ swing2LimitValue
 switchState
 syncEngineFramerate
 synched
-t	H9s
-t	L9c
 t ?paintEvent@QTabWidget@@MEAAXPEAVQPaintEvent@@@Z
-t H9X8tN
-t!+S$L
-t!A84$t
-t!LcO
-t!McY
-t!fA;
-t"<.u
-t"fff
-t$ A;
-t$ ATAVAWH
-t$ AV
-t$ AVAWH
-t$ AVAWL
-t$ AVH
-t$ AWH
-t$ E2
-t$ E3
-t$ Hc
-t$ Lc
-t$ Mc
-t$ UATAWH
-t$ UAVAWH
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ UWAVH
-t$ WATAUAVAWD
-t$ WATAUAVAWH
-t$ WATAUAVD
-t$ WATAVH
-t$ WATAWH
-t$ WAUAWH
-t$ WAV
-t$ WAVA
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$ fA
-t$ t4A
-t$$A+
-t$$E3
-t$(;_
-t$(A;
-t$(D;
-t$(E3
-t$(H;l$@
-t$(Lc
-t$(Mc
-t$(fA;
-t$(ff
-t$,A+
-t$0+A$t
-t$09O
-t$0;{
-t$0A;
-t$0A^_
-t$0A_A^
-t$0D9t$@|LH
-t$0D;
-t$0E3
-t$0H+
-t$0H;
-t$0Hc
-t$0Hc1
-t$0Hc2
-t$0Hc7;w
-t$0HcK
-t$0Hc^
-t$0Hcq@H
-t$0Hcs
-t$0Hcs@;sPu
-t$0HcsX;shu
-t$0L+
-t$0Lc
-t$0M;
-t$0fD;
-t$0ff
-t$0fff
-t$4Hc
-t$8E2
-t$8E3
-t$8H+
-t$8H;
-t$8Hc
-t$8Hc7;w
-t$8Ic
-t$8Ic~
-t$8Lc
-t$8Lc3D;s
-t$8Mc
-t$8f#
-t$@9C
-t$@9Y8
-t$@;_
-t$@A^A]A\_
-t$@E3
-t$@Hc
-t$@Hc^
-t$@Hcu
-t$@Hk
-t$@Ic
-t$@fE;
-t$@tsLcK<L
-t$@ttLcK<L
-t$@twLcK<L
-t$@u(H
-t$@u/H;
-t$@u8A
-t$@uBH
-t$DHc
-t$H98t
-t$H9r$
-t$H;^Xt
-t$HA_A^A]A\_
-t$HD8{
-t$HE3
-t$HHc
-t$HHc;H
-t$HHc^
-t$HI;
-t$HM;
-t$HcS ;
-t$Hf;
-t$Hff
-t$Hfff
-t$Ht	H
-t$HtEH
-t$LD;
-t$P9O
-t$PE3
-t$PL+
-t$PL9cXt	H
-t$PLk
-t$Pt!
-t$Pu1H
-t$Puw
-t$TA9
-t$X;J
-t$XA+
-t$XD9d$0~
-t$XE3
-t$XE8
-t$XHc
-t$XHcs8;sHu
-t$Xt	H
-t$\D;
-t$`9oX~#H
-t$`9w
-t$`;w
-t$`A+
-t$`D8
-t$`E3
-t$`Hc
-t$`Hcs8;sHu
-t$`I;
-t$`Lc1@
-t$`Mcm
-t$`ff
-t$`fff
-t$`uDH
-t$fE;
-t$h9~
-t$hI;
-t$hL9ewt	H
-t$heH
-t$hfI
-t$hfff
-t$p9u
-t$pA+
-t$pE+
-t$pE3
-t$pHcH
-t$pIk
-t$ptiHcK<L
-t$ptkLcK<L
-t$ptsLcK<L
-t$x9N
-t$x;_@u
-t$xA;
-t$xu!H
 t%?resizeEvent@QMenuBar@@MEAAXPEAVQResizeEvent@@@Z
-t&H;y
-t&HcP
-t'B;| 
-t'HcF
-t'fE9
-t(A8(t
-t(D9&}#H
-t(Hc+;k
-t(Hc3;s
-t(Hc;;{
-t(Hc>;~
-t(fD;
-t(fE9J*t
-t(fff
-t)D8l$@t
-t)D96}$H
-t)Hc+;k
-t)Lc3D;s
-t)Lc7D;w
-t*D8#t
-t*H9X8u$@8
-t*H9l$Pt
-t+H;G
-t+Hc+;k
-t+Hc/;o
-t+IcA
-t+Lc@
-t+Lcs
-t,@8=z
-t-D8P
-t-Hc+;k
-t-Lc6D;v
-t-~"A
-t.8\$P
-t.@8:t)
-t.A88t)
-t.D9s
-t.Ic>A;~
-t.LcA
-t/@8u
-t/D83t*
-t/D8e
-t/Hc+;k
-t/HcT$8I
-t0+O$H
-t09+u,9s
 t0?staticMetaObject@QMenu@@2UQMetaObject@@B
-t0@87t+
-t0@8;t+
-t0D8;t+
-t0HcE
-t1+O$H
-t1HcE
-t2H9x0t,L
-t2HcE
-t2IcE
-t4HcE
-t4McF
-t4fff
-t5LcF
-t6Hc.D
 t8?width@QFontMetrics@@QEBAHAEBVQString@@H@Z
-t8H9^ t2H
-t9H9=
-t:D9s
-t:Ic~0I
-t:LcM
-t;A9;
-t<Lc3D;s
-t=+O$H
-t>Hc+;k
-t?fff
-t@HcF
-tB@8=
-tBHc/
-tCHcP
-tCfff
-tD+O$H
-tDD9V
-tDD9~Xt>H
-tDH90t?
-tDLcC
-tED;C
-tEHc.
-tEL9t$hu>
-tFD;C(s@H
-tFHcE
-tGD;C(sAH
-tGH;~XtA
-tH;S(sCI
-tH;S0sCI
-tH;{hsCH
-tHA;P
-tHA;P`sBI
-tI;S`sDI
-tI;ShsDI
-tI;U`sDI
-tI;W0sDI
-tI;W`sDI
-tI;WhsDI
-tI;{hsDH
-tI@8{:t
-tIA;PhsCH
-tIA;R(sCI
-tIHcK
-tIf9wbH
-tJ;S`sEI
-tJ;ShsEI
-tJA;P
-tJA;P`sDI
-tJA;Q
-tJA;Q`sDI
-tJA;R`sDI
-tJA;RhsDI
-tJD9J$t
-tJD;A0sDI
-tJD;C
-tJD;C`sDH
-tJD;ChsDH
-tJD;G0sDI
-tJD;s`sDI
-tJE;A
-tJE;AhsDH
-tK9Y$t
-tK@8{:t
-tKA;K0sEH
-tKD;AhsEI
-tKD;C
-tKD;C`sEI
-tKD;I`sEI
-tKD;IhsEI
-tKD;s
-tKE;A
-tKE;H`sEI
-tKE;X
-tKE;}
-tL;S0sGI
-tLA;T$0sEI
-tLD;C`sFI
-tLD;ChsFI
-tLD;G
-tLD;K`sFI
-tLD;S`sFI
-tLD;c`sFI
-tLD;s`sFI
-tLD;{`sFI
-tLE;x
-tLHc7
-tMHcC
-tNA9Z$t
-tNfff
-tOHc;H
-tP;ShsKI
-tP@8|$!u4@8|$"t-
-tPD;K`sJL
-tPD;s`sJI
-tPfE;
-tQ;WhsLI
-tQA;R(sKH
-tQD;ChsKH
-tQfD9 tK
-tRD;ChsLI
 tRNS chunk has out-of-range samples for bit_depth
 tRNS chunk not allowed with alpha channel
-tS;{hsNH
-tSK;D
-tSf91tNH
-tTD;A0sNI
-tUA;KhsOM
-tUD;AhsOI
-tVA;W
-tVD;AhsPI
-tVE;A
-tVf91tQH
-tW;S`sRI
-tWHcE
-tWfff
-tX<]tp<}tPH
-tXE;}
-tXEtu
-tXLcQ
-tXTiu
-tXTzu
-tY@8{XuSH
-tYD;AhsSI
-tYE;x
-tYfff
-tZD;C`sTI
-t[;S`sDI
-t[E;B
-t[H;J
-t[fff
-t\HcE
-t\HcL$`H
-t];Cxr
-t]<-u
-t]D;B
-t]E;H
-t]fff
-t^D;@
-t^E;H
-t_;VhsZL
-t_D9s
-t`E;B`sZI
-ta;Q(s\I
+t\f?bits@QImage@@QEAAPEAEXZ
+t\v?addWidget@QLayout@@QEAAXPEAVQWidget@@@Z
 tabStyle
 tag_list
 tag_list_dynamic
 tailFrame
+tanf
 tangent
 tangent$0
 tangent$0Indices
@@ -14142,6 +10129,7 @@ tangents
 tangentsIndices
 tangentu
 tangentv
+tanh
 target
 targetGroup
 targetGroupNodeID
@@ -14155,8 +10143,6 @@ target_name_or_class
 target_source
 targetname
 targets
-tbD9R
-tbHc~
 test_angles_relative
 testbed
 tex_source1
@@ -14164,6 +10150,7 @@ texcoord
 texcoord$0
 texcoord$0Indices
 texcoord$1
+text
 text compression mode is out of range
 text file busy
 text/plain
@@ -14179,14 +10166,11 @@ textureFrame
 textureScale
 textureType
 texturescale
-tfKcD
-tgfff
-thA;R
-thHcN
 threshold
-tiD9p
 tier0.dll
+tile
 tiles
+time
 time log
 timeFrame
 timeHold
@@ -14195,21 +10179,12 @@ timeOut
 time_array
 timed out
 times
-tjD;C
-tjD;F
-tkD9_Dt
-tkfff
-tl+K$3
-tlLcA
-tlMcH
-tnlxC
 to fetch array of rationals
 to fetch per-sample values
 to fetch strip tag
 to fetch tag value
 to read "TransferFunction" tag
 to read TIFF directory
-to;ShsjL
 toAttribute
 toElement
 toIndex
@@ -14274,12 +10249,6 @@ toolscenelightrigs.txt
 toolscenenodes
 toolscenevismodes.txt
 toplevel
-tp;VhskL
-tq;ShslI
-tqHct$ ;t$0u
-trD8(tmH
-trH9}
-trLcJ
 trackGroups
 tracks
 trail_length_random
@@ -14288,14 +10257,8 @@ transforms
 transparency
 treeColor
 trilinear
-ttIcF
-tu+K$3
-tu;ShspI
+true
 turn_rate
-tvHcE
-tvLcK
-twH;^XtH3
-twHcA
 twistHighLimitDamping
 twistHighLimitRestitution
 twistHighLimitSpring
@@ -14305,101 +10268,16 @@ twistLowLimitDamping
 twistLowLimitRestitution
 twistLowLimitSpring
 twistLowLimitValue
-txH99us
-txHc;;{
-tyD;C(ssH
-tyfD9 tsH
-tzLcK<L
-tzfff
-t{;Q`svI
-u	9w$
-u	@8=
+type
 u ?paintEvent@QTableView@@MEAAXPEAVQPaintEvent@@@Z
-u Hc^
-u f;N
-u uFH
-u!!D$(H
-u!8CHu
 u"?qt_metacall@QListWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-u"D;{
-u"IcF8
-u$@8z
-u$L9v(H
-u%!D$@H
-u%HcWxH
-u'D;p
 u(?setCursor@QWidget@@QEAAXAEBVQCursor@@@Z
-u(Hc3;s
-u(Hc^
-u(y'Ic
-u)!t$(H
 u)?setFocusPolicy@QWidget@@QEAAXW4FocusPolicy@Qt@@@Z
-u)D;p
-u*D8uwt$E
-u*Hc_ ;_0u
 u+?setOpacity@QPainter@@QEAAXN@Z
-u-Hc}P;}`u
-u-Lcu
-u.8CHu)8CIu$8CJu
-u.fE;
 u/?sizePolicy@QWidget@@QEBA?AVQSizePolicy@@XZ
 u0?staticMetaObject@QMenuBar@@2UQMetaObject@@B
-u0Hc^
-u1!D$0H
-u1B8D?
-u2A8D
-u2HcB
-u2fff
-u3HcH<H
-u4D9~
-u98D$`u;H
-u9Hc3;s
-u:E9n
-u:Hc3;s
-u:Hc^
-u:Lc@
-u;fD;
-u<Hco
-u<fD;
-u=Hc3;s
-u=Hc^
-u=L;k
-u@A9l$
-u@E9n
-uAHc^
-uDHc^
-uEHc3;s
-uFE9n
-uFfD;
-uGA9l$
-uGfD;
-uHfA;
-uIHcE A;F uD3
-uJfff
-uLE9n
-uMHcE
-uMfA9h uFfA9h0u?fA9h@u8fA9hPu1fA9h`u*fA9hpu#A
-uNA9l$
-uPD8ntuJD8
-uRE9n
-uT<0uP
-uTHc~
-uUA9l$
-uVfE9M uOfE9M0uHfE9M@uAfE9MPu:fE9M`u3fE9Mpu,A
-uXE9n
-uXHc^
-uXIc^
-uYfA9h uRfA9h0uKfA9h@uDfA9hPu=fA9h`u6fA9hpu/A
-u[HcI
-u\A9l$
-u`HcL
-ucA9l$
-ueHcS
-uf!T$(H!T$ 
-uh@8|$!t,
-uhIc4
-uhLcM0I
-uiD9~
+u\r?changeEvent@QSplitter@@MEAAXPEAVQEvent@@@Z
+u\v?addWidget@QSplitter@@QEAAXPEAVQWidget@@@Z
 uint32
 uint64
 uint64 log
@@ -14407,9 +10285,7 @@ uint64_array
 uint8
 uint8 log
 uint8_array
-umfE9H uffE9H0u_fE9H@uXfE9HPuQfE9H`uJfE9HpuCA
-unHcy
-unable to load mesh "%s"
+unable to load mesh "%s"\n
 unexpected count for field "%s", %u, expected 2; ignored
 uniform_burst
 uninitialized
@@ -14419,16 +10295,14 @@ unknown error
 unknown exception
 unknown_variant_type
 unnamed
-unrecognized option in text file - %s
+unrecognized option in text file - %s\n
 unsigned
-uot0I
 upAxis
 upSpaceTarget
 upType
 upVector
 updateButtons()
 updatePrimary(QColor)
-urHc~
 useAnimationName
 useEdgeInfo
 useMass
@@ -14444,17 +10318,13 @@ userEdit,immediate
 userResizable
 usesLaggedValues
 utlstringtoken
-uuHcF
-uxHcOP
 uzKs@>
-v A9~ w
 v#?qt_metacast@QToolBar@@UEAAPEAXPEBD@Z
 v$?reason@QFocusEvent@@QEAA?AW4FocusReason@Qt@@XZ
 v%?resizeEvent@QPlainTextEdit@@MEAAXPEAVQResizeEvent@@@Z
 v'?setBackground@QPainter@@QEAAXAEBVQBrush@@@Z
 v.?setWindowModality@QWidget@@QEAAXW4WindowModality@Qt@@@Z
 v2!L.2
-v=Y]Bv
 vColorSetIn
 vColorSetOut
 vMulSetOut
@@ -14538,19 +10408,23 @@ videoTarget
 virtualvolumetexture
 visbility
 visible
-vmatH
+vmap
+vmat
 vmatrix log
-vmdlH
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
 vmesh
+vmks
 vmtFallback
 vmtProxy
+void
 volume
 volumeTextureDepth
 volumefogenabled
 volumetexture
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -14583,26 +10457,18 @@ vr_carry_type
 vsDmxIO SketchUpScene
 vsDmxIO houdiniSceneIO
 vsUtils.py
+vsky
 vsnap
-vsndH
 vstdlib.dll
 vsutils_py
+vtex
+vvtx
 vwnod
 vwrld
-v}`[>
-v}fff
-w ;w0u
-w fA;
-w1kK0
-w4kK0
-w5L9|;XH
 w7?updateEditorData@QAbstractItemView@@MEAAXXZ
-w7tAA
 w8#_p
-w8fD;
-w:fA;
-w?fD;
-wAfD;
+w\r?changeEvent@QTabWidget@@MEAAXPEAVQEvent@@@Z
+w\v?addWidget@QStackedWidget@@QEAAHPEAVQWidget@@@Z
 weight
 weight$0
 weightListName
@@ -14627,7 +10493,6 @@ world
 worldSpace
 world_point
 worldnode
-wpu=H
 wrapValue
 wrapping
 wrinkle
@@ -14636,78 +10501,20 @@ wrinkle$0Indices
 wrinkleIndices
 wrinkleScales
 wrong protocol type
-www.digicert.com1!0
-wxH9wXH
-x	HcM
-x	HcQ
 x ?paintEvent@QToolBar@@MEAAXPEAVQPaintEvent@@@Z
-x A;@X}
-x ATAVA
-x ATAVAWH
-x AUAVAWH
-x AV3
-x AVE2
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x UATAWH
-x UAVAWH
-x!HcI
-x!HcK
-x";C }
 x#?qt_metacast@QToolButton@@UEAAPEAXPEBD@Z
-x$H9-8
-x$fff
-x%E;n
-x.;^x})L
 x.?setWindowOpacity@QWidget@@QEAAXN@Z
-x.HcAhL;
 x7?updateEditorGeometries@QAbstractItemView@@MEAAXXZ
-x9H;H
-x9HcGhH;
-x9HcS
-xA;Qp}<H
-xA]A\[]
-xA]A\_^
-xA]_][
-xA^A][]
-xA^_[]
-xA^_^[
-xA^_^[H
-xA^_^]
-xA_A]][
-xA_A^A\_^]
-xA_A^A]A\_^][
-xA_A^[]
-xA_A^_^
-xEH;^
-xJHcQ
-xMHcM
-xMHcQ
-xOD;K }>H
-xRHcQ
-xSH;H
-xZ;_x}UH
-xZH;A
-xZH;Q
-x]~\6
-x^j=|
-x_^[]
-x_^][
+xT?V
 xcoord
-xf;Qx}aHc
 xpxxxx
-xuJE3
 xwpwpp
 y ?paintEvent@QToolButton@@MEAAXPEAVQPaintEvent@@@Z
 y"?qt_metacall@QMenu@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 y%?resizeEvent@QScrollArea@@MEAAXPEAVQResizeEvent@@@Z
 y/?sliderChange@QAbstractSlider@@MEAAXW4SliderChange@1@@Z
-y899u
-yBNu'
-y\PD>!
+y\r?changeEvent@QToolBar@@MEAAXPEAVQEvent@@@Z
+y\v?addWidget@QToolBar@@QEAAPEAVQAction@@PEAVQWidget@@@Z
 yaw_end
 yaw_start
 ycoord
@@ -14715,284 +10522,28 @@ z ?paintEvent@QTreeView@@MEAAXPEAVQPaintEvent@@@Z
 z"?qt_metacall@QMenuBar@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 z#?qt_metacast@QTreeWidget@@UEAAPEAXPEBD@Z
 z%?resizeEvent@QSplitter@@MEAAXPEAVQResizeEvent@@@Z
-z/u-A
-z/u-E
 z:KCAuthPhysBody
 zDCDmeFaceSet CUtlMemoryPool
-zY;>u:m	
+zero
+zfar
 zlib memory error
 zlib stream error
 zlib version error
 znear
-{	?ignore@QEvent@@QEAAXXZ
 { ?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z
-{ ATAVAWH
-{ AVH
-{ UATAWI
-{(H9n
 {-?setText@QAbstractButton@@QEAAXAEBVQString@@@Z
-{0H9{
-{0L9{
-{8+{0
 {8?width@QImage@@QEBAHXZ
-{PD9sH|AH
-{Q@8{Pt
 {YIN?
-{un'%
-{w8&-
-{}[]()=&, 	
-{}[]=, 	
-|	;Eo
-|#tAM
-|$ A+
-|$ A;
-|$ ATAUAVAWL
-|$ ATAVAWD
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AV
-|$ AVAW
-|$ AVAWD
-|$ AVAWH
-|$ AVD
-|$ AVE3
-|$ AVH
-|$ AVL
-|$ AWH
-|$ D!
-|$ E3
-|$ E9
-|$ H;
-|$ Hc
-|$ Hc^
-|$ Lc
-|$ Mc
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ ff
-|$ fff
-|$ t	H
-|$ utM
-|$$D;
-|$$M+
-|$$fE;
-|$(A;
-|$(A^
-|$(E3
-|$(Hc
-|$(I;
-|$(fff
-|$,E3
-|$09{P~FH
-|$0;}`u
-|$0@"
-|$0A+
-|$0A9N
-|$0A;
-|$0A^A\
-|$0A_A^
-|$0B+
-|$0D;
-|$0E3
-|$0E;
-|$0H;
-|$0H;}
-|$0Hc
-|$0Hc:
-|$0Hc;;{
-|$0Hc{
-|$0Hc{0;{@u
-|$0I;
-|$0Ic
-|$0L;
-|$0Lc
-|$0fD
-|$0ff
-|$0fff
-|$0s-
-|$4A;
-|$4E;
-|$4L;
-|$89^
-|$8;3
-|$8@8h
-|$8A9L$
-|$8B8
-|$8E3
-|$8H+
-|$8Hc;;{
-|$8Ic
-|$8L;
-|$8f;
-|$8ff
-|$8fff
-|$8t,H
-|$<;{0
-|$@-D
-|$@-H
-|$@@"
-|$@A;
-|$@A_A^A]A\
-|$@D;
-|$@E3
-|$@H;
-|$@Hc
-|$@Hc:
-|$@HcL$<H
-|$@Hcyp;
-|$@Lc
-|$@Mc,$E;l$
-|$@fff
-|$@t	3
-|$@uKH
-|$DD;~
-|$HA#
-|$HA;
-|$HE3
-|$HHc
-|$HHc7;w
-|$HHcK
-|$HI;
-|$HIc
-|$HIk
-|$Hff
-|$Ht#
-|$HtwI
-|$P9k
-|$PA;^ u
-|$PD9
-|$PE3
-|$PE;
-|$PHc
-|$PHcX
-|$PHc{@$
-|$PI;
-|$PMc
-|$Pfff
-|$Pu%H
-|$XA+
-|$XE+
-|$XH=vmdlu
-|$XHc
-|$XHcU
-|$XHk
-|$XIc
-|$\.u
-|$`+Ad
-|$`30
-|$`@2
-|$`CI
-|$`D;
-|$`E3
-|$`H=vpcfu
-|$`Hc
-|$`Ic
-|$`Lc
-|$`ff
-|$`t	H
-|$`u<H
-|$h9i
-|$hA+
-|$hD+
-|$hE3
-|$hE;
-|$hM;
-|$h~oI
-|$lA+
-|$pA+
-|$pE3
-|$pH+
-|$pH;
-|$pHc
-|$pff
-|$xA;
-|$xE3
-|$xH;
-|$xLc
-|${H+
-|(tFM
+{\r?changeEvent@QToolButton@@MEAAXPEAVQEvent@@@Z
+{\t?ignore@QEvent@@QEAAXXZ
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
-|Lu?c
-|_A;^
-|aA;^
-|auK;
-|b=})>
-} Hcu`H
-} fE;A
-} fE;H
-} u0M
-}%;Q|
-}&f;{
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+|\r?qt_metacall@QTimer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 }(?setCursorPosition@QLineEdit@@QEAAXH@Z
-}(D8o
-}(H9}
-}*fff
-}0;_|
-}8fA;
-}:fA;
-}?fA;
-}F;_$
-}IfA;
-}JfA;
-}LfA;
-}LuHO
-}OL;e
-}OfA;
-}QfA;
-}UfD	
-}WA9L$
-}WIcU
-}_t!H
-}bfA;
-}iD;K$
-}pH9u
-}~D;I$
-~ $s%r
-~ fff
-~!A;~
-~"fff
 ~#?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
 ~%?resizeEvent@QTabWidget@@MEAAXPEAVQResizeEvent@@@Z
-~( ub
-~(HcNDI
-~*9q0
-~*9qP
 ~-?setText@QAction@@QEAAXAEBVQString@@@Z
-~-fff
-~28\$0t
-~8HcL$`L
-~?Hc_
-~BLcK0E3
-~CModelInstance destructor: leaking softbody because physics world disappeared
-~EI9|$
-~FHc+;k
-~IHc+;k
-~L$pA
-~L@8~8u
-~NLc7Hc
-~P~%3
-~QLc]
-~RD;n
-~TE;o
-~VIc>A;~
-~WE;f
-~XHcD$pL
-~\ u&I9
-~]Lc]
-~^fff
-~_A;F
-~`8A!t
-~`LcM
-~aLcM
-~bLcM
-~cLcM
-~cfff
-~eLcM
-~fLcM
-~jLcM
-~nfff
-~qHc|$8
-~t&LN
-~tfff
-~xfff
+~CModelInstance destructor: leaking softbody because physics world disappeared\n
+~\n?accept@QDialog@@UEAAXXZ

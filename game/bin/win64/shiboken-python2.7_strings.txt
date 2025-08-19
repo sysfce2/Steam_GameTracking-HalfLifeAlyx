@@ -1,37 +1,8 @@
                    
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
- A\^[
- A\_^
- A\_^][
- A]A\_
- A]^]
- A^A]A\_^
- A_A^A]
- A_A^A]A\_^]
-!This program cannot be run in DOS mode.
-" => 
 %s isn't a direct base class of %s
-%s(%ld)
-%s.%s
-' called with wrong argument types:
 ' called with wrong argument types: 
+' called with wrong argument types:\n  
 '__init__' method of object's base class (%s) not called.
-(A_A^A]^
-(t$ D
-(t$ H
-(t$ f
-(t$ fD
-(t$0H
-(t$`H
-)t$ I
-)t$0I
-)t$`I
 .?AV?$_Iosb@H@std@@
 .?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
 .?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
@@ -49,22 +20,6 @@
 .?AVexception@std@@
 .?AVios_base@std@@
 .?AVtype_info@@
-.pdata
-.text
-0A\_^
-0A]A\_
-0A]A\_^]
-0A]_^
-0A^A]A\
-0A^A]A\_^
-0A_A^A]A\_^]
-6H;w@tX
-6H;w@u
-8A\_^[
-8_^][
-<*t#I
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 ??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
 ??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
 ??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
@@ -108,8 +63,6 @@
 ??_7?$basic_ostream@DU?$char_traits@D@std@@@std@@6B@
 ??_7ios_base@std@@6B@
 ??_V@YAXPEAX@Z
-?H;{@t!
-?H;{@u
 ?_BADOFF@std@@3_JB
 ?_Ios_base_dtor@ios_base@std@@CAXPEAV12@@Z
 ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
@@ -299,123 +252,25 @@
 ?what@exception@std@@UEBAPEBDXZ
 ?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
 ?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
-@.data
-@.reloc
-@.rsrc
-@A\_^
-@A]A\_
-@A^A]A\_^
-@A^A]A\_^][
-@A_A^A]A\_
-@A_A^A]A\_^]
-@SAUAVAWH
-@SUATH
-@SVATH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@VAUAVAWH
-@VWATAUAVH
-@VWAUH
-@WATAUH
-@XI;@
-A^A]A\_]
-A^A]A\_^
-A_A^A]A\_^]
 Base constructor of the object (%s) not called.
-C H+8I
 C++ address....... 
-C++ address....... <<Deleted>>
-CD$(@
-CL$8L
-CT$(H
-CXH+C
-C`Hc8H
-D$(H;
-D$(H;D$Pt
-D$09X
-D$0H;
-D$8H;
-D$@L;D$Hu
-D$PH;
-D$XE3
-D$XH;
-D$`H#
-D$`H;
-D$`L;
-D$hH;
-D$pE3
-D$pHcH
+C++ address....... <<Deleted>>\n
 DecodePointer
 DisableThreadLibraryCalls
-E H9p
 EncodePointer
 GetCurrentProcess
 GetCurrentProcessId
 GetCurrentThreadId
 GetSystemTimeAsFileTime
 GetTickCount
-GhH+G
-H9*u1
-H92u'
-H9=.B
-H9=8C
-H9Aps
-H9C tJD
-H9Jps
-H9K u
-H9KXuOL
-H9L$p
-H9VhueH
-H9|$@s
-H;D$0|
-H;O(t
-H;O(t!H
-H;P u
-H;\$(
-H;\$(t3H
-H;](u
-H;^(u
-H;^@u
-H;_(u
-H;_@u
-HA\_^[
-H_^][
-HcH<H
-I9D$ t!M
-I9E t
-I;t$P
 Internal C++ object (%s) already deleted.
 Invalid base class used in type %s. PySide only support multiple inheritance from python new style class.
 Invalid keep reference object.
 Invalid type for unsigned long long conversion
 IsDebuggerPresent
 KERNEL32.dll
-L$ SUVWATH
-L$(H;
-L$8H+
-L$HHc
-L$PH3
-L$PH9Y
-L$XH3
-L$XH9y
-L$`H3
-L$hE3
-L$hH3
-L$xH3
-L9Bpv
-L9CXuQH
-L9CXuRH
-L9Ihu@H
-L9KXuOL
-L; u+A
-LcA<E3
 MSVCP100.dll
 MSVCR100.dll
-PA\][
-PA\_^
-PA]A\_
-PA]A\_^]
 PY_LONG_LONG
 PyArg_ParseTuple
 PyArg_ParseTupleAndKeywords
@@ -502,17 +357,12 @@ PyUnicode_Type
 Py_FatalError
 Py_InitModule4_64
 Py_IsInitialized
-Q@H92
-QHH92
 Qt::WindowType
 QueryPerformanceCounter
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
 SO!O!:sbktype
-SUVWATAUAVH
-SUVWH
-SVWATH
 SbkDeallocWrapper
 SbkDeallocWrapperWithPrivateDtor
 SbkEnumType_Type
@@ -526,45 +376,18 @@ Shiboken.Object
 Shiboken.ObjectType
 Sleep
 Supported signatures:
-T$(t'L
-T$0E3
-T$@H;
 TerminateProcess
-USVWH
-UVAUH
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
 UnhandledExceptionFilter
-VWATAUAVH
-VWATH
-WATAUAVAWH
-WATAUH
 WindowType
-XA_A^A][
-X_^[]
 You can't initialize an object twice!
 [libshiboken] Failed to initialise Shiboken.BaseWrapper type.
 [libshiboken] Failed to initialise Shiboken.BaseWrapperType metatype.
 [libshiboken] Failed to initialise Shiboken.SbkEnumType metatype.
-\$ VH
-\$ WATAUH
-\$0E3
-\$8L3
-\$@H;
-\$@r	H
-\$PE3
-\$PH;
-\$XH;
-\$`L9QhuPH
-\$`L;
-\$h@2
-\$hE2
-_0H;O(t
+\ncontainsCppWrapper 
+\nvalidCppObject.... 
+\nwasCreatedByPython 
 _Cpp_Api
 _CxxThrowException
-_HH;O@t
 _PyObject_GC_New
 _PyObject_New
 _PyThreadState_Current
@@ -579,9 +402,7 @@ __CppXcptFilter
 __CxxFrameHandler3
 __clean_type_info_names_internal
 __crt_debugger_hook
-__dict__
 __dllonexit
-__file__
 __trunc__
 _amsg_exit
 _encoded_null
@@ -594,43 +415,33 @@ _purecall
 _strdup
 _unlock
 _vsnprintf
-` AUAVAWH
-`.rdata
 bases
+bool
+char
 children.......... 
 const char *
-containsCppWrapper 
 could not import module '%s'
-d$@H+
-d$`I;
-d$`tNH
-d$hH;
+dict
 double
-fffff
 float
 fprintf
+free
 hasOwnership...... 
 invalid map/set<T> iterator
 invalid string position
-l$ VH
-l$ WH
-l$ fffff
-l$0L;l$H
-l$8L;
-l$HH;
-l$PL9
+ldiv
 list<T> too long
+long
 malloc
 map/set<T> too long
 memcmp
 memcpy
 memmove
 memset
+name
 object
-pA_A^A]A\_^]
 parent............ 
 python27.dll
-rZH9}
 realloc
 referred objects.. 
 shiboken-python2.7.dll
@@ -638,45 +449,13 @@ short
 signed char
 std::string
 string too long
-t	H9)
-t"H9s
-t"L9o
-t"ffff
-t$ ATAUAVH
-t$ ATH
-t$ WATAUH
-t$ WH
-t$ ffff
-t$(t(H
-t$0ff
-t$@I;
-t:L9`
-tXfffff
 tried to use invalid converter in 'C++ to Python' conversion
 tried to use invalid converter in 'Python to C++' conversion
-tuH9C
-u1ffff
-u9fff
-uEfff
-uFffff
-umH9p
 unsigned PY_LONG_LONG
 unsigned char
 unsigned int
 unsigned long
 unsigned short
-validCppObject.... 
 values
-veH+S
 vector<T> too long
 void*
-wasCreatedByPython 
-x ATH
-|$ ATH
-|$(L9
-|$PH;
-|$`H#l$x
-|$`fffffff
-|l:__new__
-~:fff
-~HH;N@t

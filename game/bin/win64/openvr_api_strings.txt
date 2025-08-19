@@ -1,144 +1,40 @@
-					
-							
-												
-																																												
-	eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdf
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- !"#$%&'()*+,-./0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>123456789:>;<=f
- !"#$%&'()77777777777777777777777777777777777777777777777777777777777*+,-./01237456f
- 'L>[
- 9(X`
- A9_ w
- A^A\_
- A^_^
- A_A\_
- A_A^A\
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^[
- A_A^]
- A_A^_
- A_^[
- A__[
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- D;=8
- D;j0u
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- for detail.
- new[]
- t(<#t
- tDE3
- tQD8c:u0M
- t^D9
- vJH+
-!,X< w
-!>6'Y
-!T$(H!T$ 
-!~?s5
+ for detail.\n
+ new
 "e?<<<<<<l?
-"f9;t
-#])#	
-$+xvA
-$< t6<$t,<+t"<vt
-$C#9$"
 $Ib?s
-$iMBm
-%%.%dg
 %.0Lf
-%D8d$@t
-%GoU?*
-%H : %M
 %H : %M : %S
 %I : %M : %S %p
-%Z/nJ?
 %b %d %H : %M : %S %Y
 %d / %m / %y
 %m / %d / %y
-&<	x4;O
 &?PPPPPPP?
-&uo r
+&Sgw
 ' is not a number.
 ( 8PX
 ('8PW
-(A^A]^[
-(A_A^^[
-(A_A^_]
-(D$ f
-(D$PE3
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(T?j?Y
 (null)
-(o:R	
-(t$ H
-(t$03
-(t$0H
-(t$@H
-(t$@L
-(t$PH
-(t$`H
-(t$`L
-(t$pL
-(uEKw
-(|$ H
-(|$0H
-(|$0I
-)-M-=
-)>6{1n
-)D$@A
-)D$PH
-)D$PM
-)D$pL
-)H+}0
-)t$ A
-)t$0H
-)t$@H
-)|$0H
-)|B?d!
+)yIx
 *StO9>T
-*uXI;
-+J$D8M@
-+M<7>
-+Z$cH
-+f)>0'
-+h->|
 +v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v +$v $++$ v+$ v$ v++$ v$+ v+xv$+ v$v$ +v+ $v$ ++x$v+ $v$v ++ $v$ +v
-,/<-w
-,0<	w
 ,HR>O
-,I<%w
-,t0D9J0v*L
-,zeDo
-,|%)v
-,~fMK
--0zAoL
 -1e+9999
--7"+x
 -BH>t
 -Infinity
--\!]N=
--uKI;
-..om?
 .00cfg
-.3=}%
-.8\$!t.9\
-.>PJ;I:qE>
+.>\rfJBGo
 .?AUIExecutionContext@Concurrency@@
 .?AUIExecutionResource@Concurrency@@
 .?AUIResourceManager@Concurrency@@
@@ -323,12 +219,10 @@ $iMBm
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.T(:"
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -345,22 +239,18 @@ $iMBm
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
 .xdata$x
 /2GG>!B
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 /user/camera
 /user/chest
 /user/elbow/left
@@ -380,266 +270,61 @@ $iMBm
 0123456789ABCDEFabcdef-+Xx
 0123456789ABCDEFabcdef-+XxPp
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
-0><[cZUg^>
-0A^_^
-0A^_^][
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_]
-0A_A^A]_^
-0A_A^_
-0A_A^_^]
-0A__^
-0A__^[]
+0E>X
 0X8b?~
 0iN>/
-0v0b1
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
+11Y@
 1e+9999
 1eaB@
-200228031759Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+2\vpt
+3 FB
+37>k
 3>N;kU
 3>fvw
-3A8A#
-3T$(H
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-6({wyyj:
-6D8\$`u
+3?tr
+51>W
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8*u;I
-8-uCH
-8-uGH
-80tWD
-8A^_^[
-8A_A^A\_^[
-8A_A^A]A\_^][
-8D$ u+H
-8G	uEH
-8G	utH
-8H;^XtB
-8HtKH
-8T$0u
-8T$Ht
-8\$0u`H
-8\$PtD
-8\$PtF
-8_	u7E3
-8_^][
+7>I0
+7?GX
+7~xh
 8ke?;
-91~/E3
+9>70
 9>powf
-9D$(}k
-9D$`t_
-9FHtGH
-9W$v8D
-9WP~GM
-9WP~HM
-9WP~KM
-9\$0u
-9^ t"H
-9_P~+E3
-9_P~,E3
-9_P~OE3
-9u@u	H
-9{D~H3
 : exception thrown in JSON library
-:>)*	v
-:>t6k'
 :AM:am:PM:pm
 :Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
-:O	t	I
 :Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
-:u,f9Q
-;.u1L
-;:u#H
-;:uNH
-;A$vTH
-;B$vUH
-;Ct~EH
-;Ct~ZH
-;Ct~gH
-;H9>&X
-;I9}(tiH
-;\$p|
-<	w	@
-< t;<	t7
-<%ufH
-</u#H
-<:u/H
-<:u3H
-<:wuH
-<>#n2
-<htr<jtb<lt6<tt&<wt
-<xu<D
-<}wYI
-=WIDATx
+=87M
+=cQ6
+=e2m
 =imb;D
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
->KpP`
->ffffff
+>cQ6
 >jtm}S
 ?!5WOo
-?+>^m
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
 ?@En[vP
-?Cu0f9w
-?D8d$@
-?E=$% B
-?QY^&
 ?R0I?
-?TY,>5
-?U'];
 ?UUUUUU
 ?f`Y4
 ?kxG2)
-?w,_3
-?{Q}<
-@(D9i(
-@.data
-@.reloc
-@.rsrc
-@80u#H
-@8<)u
-@8l$8t
-@8q$t
-@8t$0
-@8t$8t)A
-@8t(8}
-@8y:t
-@8{:t
-@8|$Pt
-@8|$Pu
-@8|$^t
-@>%>b
-@A^A\_^]
-@A^_^
-@A_A]A\_^
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A]A\_^[
-@A_A^A]A\_^]
-@A_A^]
-@A_A^_^]
-@HcC(H
-@LcqHD
-@SAUAVAWH
-@SAVAWH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAVH
-@SVAUAVH
-@SVAVAWH
-@SVAWH
-@SVWATAUAVAWH
-@SVWATAWH
-@SVWATH
-@SVWH
-@SWAWH
-@UATAUAVAWH
-@UAVAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAVAWH
-@USVWAWH
-@USVWH
-@USWAUAVH
-@USWH
-@UVWATAUAVAWH
-@UVWH
-@UWAVAWH
-@VWAVH
-@b;zO]
+?lZE
+?qBJ
+?rAj
+?ysB
 A valid JSON document must be either an array or an object value.
-A$+A,t\3
-A(9B(D
-A+B$+
-A+B$A
-A+B$D
-A+X$D
-A+n H
-A,A9A(v&L
-A,u+H
-A03>A|
-A0H9P
-A84.u
-A86taH
-A8H90t!H
-A8H98t!H
-A;6}#I
-A;H$I
-A;H$s
-A;J$vdH
-A>l$/
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AK>(v
-ATAUAVH
-ATAVAWH
-AUAVAWH
-A^A\[]
-A^A\]
-A^A\^
-A^A\_
-A^A]A\
-A^A]A\_^[]
-A^A]_[]
-A^_^[]
-A_A\_^[
-A_A]A\^[]
-A_A]_^]
-A_A^A\
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A][
-A_A^A]_]
-A_A^A]_^
-A_A^]
-A_A^_
-A_A^_^[]
-A_A^_^]
-A`D9L8
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
 Another app was already launching (117)
@@ -648,52 +333,15 @@ AppPolicyGetProcessTerminationMethod
 April
 AreFileApisANSI
 August
-AuthD
-B$D+B,toD+B(
-B(I9A(u
-B0E8XAt
-B8\(8
-B8\(9
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
-BHoxqF
-BL$(A
 Bad dynamic_cast!
 Bad escape sequence in string
 Bad unicode escape sequence in string: four digits expected.
 Bad unicode escape sequence in string: hexadecimal digit expected.
-Bellevue1
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
-C H9G
-C$u	H
-C'db-N
-C(H;C0r
-C-yh/
-C0HcF
-C0L9$
-C4D+@ H
-C5R?	
-C847u
-C8<(u
-C8H9(u
-C9|0$uA
-CA7%^[
-CB(A;J,A
-CB0A;B(A
-CD$0M
-CE,D;m0D
-CL$ H
-CL$0H
-CL$PH
+C5R?\t
 CL:>8
-CT$ L
-CT$0H
 CWD>~3
-C\$0H
-C\$PH
-C\$PL
-C\$pH
-C`D;Sh|
 ChangeTimerQueueTimer
 CloseHandle
 CloseThreadpoolTimer
@@ -728,116 +376,6 @@ CreateTimerQueue
 CreateTimerQueueTimer
 CreateUmsCompletionList
 CreateUmsThreadContext
-D	g I
-D W?{W
-D!l$x@
-D$ 3A
-D$ 3Q
-D$ A;
-D$ E3
-D$ H;
-D$ I;
-D$(H9
-D$(H;
-D$(L9
-D$(fD
-D$0,fD
-D$0.fD
-D$0E3
-D$0H#
-D$0H+
-D$0H;
-D$0HcH
-D$0L;
-D$0f;VPu
-D$0fD
-D$49C
-D$8E3
-D$8H;
-D$8H=
-D$8HcJ
-D$8L9
-D$@E3
-D$@H+
-D$@H9D$8t
-D$@H;
-D$@H;C
-D$@Ic
-D$@fD
-D$P I
-D$PA#
-D$PE3
-D$PH+
-D$PH;
-D$PI;
-D$PIc
-D$PL;
-D$XA+
-D$`D90}
-D$`E3
-D$`Hc
-D$`L;
-D$`fI
-D$hD;
-D$hE;
-D$pA+
-D$pE3
-D$pH;
-D$pHcH
-D$pfA;
-D$xfD
-D+AHH
-D+ShHcChM
-D+d$8H
-D08@t	
-D8"u3H
-D8$+u
-D8&t!
-D8&t3H
-D82u&H
-D8?t	H
-D8M@t
-D8M@t^
-D8Q:uEH
-D8\$`t
-D8a:uDH
-D8c:u
-D8d$1u
-D8d$8t
-D8d$8tEI
-D8d$@t
-D8d$Ht
-D8d$Xt
-D8l$`
-D8l$ht
-D8t$8t
-D8t$Ht
-D8yDt
-D8|$0u
-D8|$Ht
-D9&tXA
-D9B,t
-D9G$s5
-D9J,w
-D9L$,uDH
-D9L$0uFI
-D9Y$v+E
-D9c t
-D9d$$u
-D9g@~2Ic
-D9h(uiE
-D9k(u
-D;T$4
-D;d$$A
-D;d$$u
-D;j0v
-D;l$0
-D;v(s
-D;w@|
-D;z,A
-D;z,u
-D;z,v	A
-D<P0I
 December
 DecodePointer
 DeleteCriticalSection
@@ -848,13 +386,6 @@ DeleteUmsThreadContext
 DequeueUmsCompletionListItems
 Device Calibration is invalid (207)
 Device is not calibrated (206)
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
-Dl$8E
 Driver Failed (200)
 Driver Not Known (201)
 Driver Not Loaded (203)
@@ -863,36 +394,25 @@ Driver runtime is out of date (204)
 Duplicate key: '
 DuplicateHandle
 DynamicProgressFeedback
-E'i}p&b
-E+BHH
-E+BhIcBhM
-E0C07
-E0HcH
-E0Lcx
-E0t H
-E8X@t8A
-E;B0E
-E;Bl}DM
 E>nEA
-EP*?@
-EPHc@
-ET$(H
-Eg8C	
+ET5>
+E[\rn?gc
+EiUL
 Empty escape sequence in string
 EncodePointer
 EnterCriticalSection
 EnterUmsSchedulingMode
 EnumSystemLocalesEx
 EnumSystemLocalesW
-Eo%lf
 Exceeded stackLimit in readValue().
 ExecuteUmsThread
 ExitProcess
 Extra non-whitespace after JSON value.
-F(LcF I
 F>qUxv
+FEMh\f
 Factory Function Not Found (104)
 February
+FfW?
 File Not Found (103)
 FileTimeToSystemTime
 FindClose
@@ -911,14 +431,7 @@ FreeLibrary
 FreeLibraryAndExitThread
 FreeLibraryWhenCallbackReturns
 Friday
-G$;G,
-G(9G u
-G,9G$u
-G0Hc	H
-G0LcGDI
-G8HcODI
-GPP@&R7T
-GQ@R<E
+G>US
 GetACP
 GetCPInfo
 GetCommandLineA
@@ -979,68 +492,7 @@ GetUmsCompletionListEvent
 GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetVersionExW
-GrvD)
-H WATAUAVAWH
-H!C@H
-H!D$ E
-H!T$0D
-H#T$0H
-H#|$0tB
-H+C H=
-H+D$XH+D$@3
-H+G H=
-H+L$(x?H
-H+L$(xAH
-H+OpH
-H+SpA
-H+WpA
-H+WpH
-H+\$0H
-H+|$8
-H0F08
-H3\$HH
-H97uWH
-H98t%H
-H99u{
-H9=/:	
-H9=C@	
-H9=GM	
-H9=KN	
-H9=S9	
-H9=Yp
-H9=_<	
-H9=kL	
-H9=w7	
-H9=wF	
-H9A u
-H9Ahs
-H9D$@u
-H9D$Ht
-H9D$Pu@H
-H9J t1
-H9K u
-H9L$Ht?H
-H9Qhv#H
-H9\$ u
-H9\$P
-H9_ht0H
-H9i(u
-H9t$@r
-H9t$@t
-H;9u|A
-H;@0u
-H;@Xu
-H;A0s
-H;Axt
-H;Cxu
-H;D$Pu
-H;D$`
-H;D$pr
-H;XXs
-H;_Xt
-H;xXu5
 HH:mm:ss
-HHtfH
 HMD Not Known (202)
 HMD already in use by another application (205)
 HMD detected over USB, but Monitor may be mirrored instead of extended (212)
@@ -1058,21 +510,6 @@ HMD found, but problems with the data (1111)
 HMD found, but problems with the data (1112)
 HMD found, but unable to init ZLib (1106)
 HMD found, but unable to request config (1102)
-H[><y5
-H_^[]
-Hc9;q
-Hc;HcK
-HcC H
-HcC0H
-HcD$hH
-HcG(H
-HcGTL
-HcGl;Gh}
-HcK H
-HcKhH
-HcKpH
-HcS H
-Hc]`M
 HeapAlloc
 HeapFree
 HeapReAlloc
@@ -1081,11 +518,6 @@ Hmd DriverId is invalid (125)
 Hmd DriverId is our of bounds (211)
 Hmd Not Found (108)
 Hmd Not Found Presence Failed (126)
-H}*M;
-I96t4H
-I9Bhs
-I;4$H
-I;4$L
 ILiquidVR_001
 IND)ind)
 INITY
@@ -1099,9 +531,6 @@ IVRRenderModelsInternal_XXX
 IVRSceneGraph_001
 IVRTrackedCameraInternal_001
 IVRVirtualDisplay_002
-IcI A
-IcJ 3
-IcJPHc
 Il?333333c?
 Infinity
 InitOnceExecuteOnce
@@ -1126,103 +555,22 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocale
 IsValidLocaleName
-J$A;H$A
-JBIh	i
-JX<$N
-J`E;Bh|
 January
-K 9N v@H
-K H9y
-K&>.yC
-K0u2H
-K3tyI
-K4A+H 
-K74LN
-K8Hc@
+July
+June
 KERNEL32.dll
-KH;_XtW3
-KXHcS8
-K~Je#>!
-L!|$(L!
-L$ E3
-L$ I;
-L$ L;
-L$ SH
-L$ SUVWH
-L$ SVWH
-L$ UVWATAUAVAWH
-L$ VWAVH
-L$ WH
-L$ fff
-L$ |+L;
-L$&8\$&t-8Y
-L$(E3
-L$(H3
-L$0E3
-L$0E;
-L$0H3
-L$0H9
-L$0H;
-L$0H;K
-L$0fH
-L$0fI
-L$4E;
-L$8H3
-L$8M;
-L$<+L$4
-L$<+L$H
-L$@;L$T
-L$@;|
-L$@H3
-L$@H9
-L$@H9t$@ugH
-L$@uU
-L$HHc
-L$PH3
-L$XE3
-L$XH3
-L$pD9c
-L$pE3
-L$pH3
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L+t$0
-L9"u&
-L9-=x
-L9->|
-L9-C}
-L9-G}
-L9-Wr
-L9-g{
-L9-mu
-L9-}~
-L9L$(D
-L9`8u'L
-L9l$0
-L9|$@
-L9|$pveH;
-L9~ t
-L;8u6H
-L;FHu
-L;L$(A
-L;L$(t
+L>ev
 L?UUUUUUU?
 LCIDToLocaleName
 LCMapStringEx
 LCMapStringW
+LWG>
+LWW>
 LargestInt out of Int range
 LargestUInt out of Int range
-LcA<E3
-LcCP3
-LcGDI
-LcGP3
-LceoA
 LeaveCriticalSection
 Line %d, Column %d
 LiquidVR
-Lj[;>
 LoadLibraryExA
 LoadLibraryExW
 LoadLibraryW
@@ -1231,10 +579,6 @@ LocaleNameToLCID
 Lock already taken
 Log path could not be located (112)
 Low Power Watchdog Not Supported (129)
-LrvD)O
-M H1E
-M(f95
-M98u/
 MM/dd/yy
 March
 MaxConcurrency
@@ -1249,35 +593,25 @@ Monday
 MultiByteToWideChar
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
+NQ?s
 No Error (0)
 Not Initialized (109)
 Not available to watchdog apps (131)
 Not starting vrserver for background app (121)
 November
-O,D9O(vcH
-O0HcQ
-O0LcQ
-OF>;^
+OZQ%
 October
 On laptop, HMD detected over USB, but Monitor not found (213)
-P>q_Y~
-PA^_^
-PA_A^A]A\_^]
-PA_A^_^]
-PA__^[]
 PeekNamedPipe
-Pk7o`
 Q5rHg,>
-QmqTMv
-Qn 0G
+QAf?
 QueryDepthSList
 QueryPerformanceCounter
 QueryUmsThreadInformation
-R(1)Y9
-R0E8XAt
-R\hvv
+RSDS
 RaiseException
 ReadConsoleW
 ReadFile
@@ -1294,21 +628,15 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S;\$0tH
+S9>H
 S>$hkDh$h>[2
 SHELL32.dll
 SHGetFolderPathW
 SNAN)
-SUVWATAUAVAWH
-SUVWATAUAVAWL
-SUVWH
-SVWATAUAVAWH
-SVWATAVAWH
-SVWAVAWH
-SVWAVH
 Saturday
 SchedulerKind
 SchedulingProtocol
+See 
 September
 SetEndOfFile
 SetEnvironmentVariableA
@@ -1325,7 +653,6 @@ SetThreadpoolWait
 SetUmsThreadInformation
 SetUnhandledExceptionFilter
 Settings manager init failed (118)
-Sg^V;f
 Shared IPC Compositor Connect Failed (306)
 Shared IPC Compositor Init Failed (303)
 Shared IPC Compositor Invalid Connect Response (307)
@@ -1344,23 +671,6 @@ Sunday
 SwitchToThread
 Syntax error: value, object or array expected.
 SystemTimeToTzSpecificLocalTime
-T$ 3Q
-T$ D){
-T$ E3
-T$0D9d$@
-T$0E3
-T$8H+
-T$HE3
-T$PD+
-T$PE3
-T$PH3
-T$PH;T$Xu
-T$`A:
-T$`D8p
-T$hD+
-T$hH;T$pu
-T$pE3
-T$pkD$x<
 TUUUU
 TargetOversubscriptionFactor
 TerminateProcess
@@ -1376,24 +686,9 @@ TraceEvent
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
 Tuesday
-U8D8;A
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
-USATAVH
 USB Service Busy (140)
-USVATAUAWH
-USVWATAUAVAWH
-USVWATAUAVH
-USVWAVAWH
-USVWAVH
 UUUUUU
-UVWATAUAVAWH
-UVWATAVH
-UVWAUAWH
-UVWAVAWH
-UWATAVAWH
-UWAVH
 UmsThreadYield
 Unable to connect to Oculus Runtime (1000)
 Unable to connect to Oculus Runtime, possible bad install (1114)
@@ -1412,15 +707,12 @@ UnregisterWaitEx
 UpdateProcThreadAttribute
 User Canceled Init (116)
 User Config Directory Invalid (107)
-V6E>`"(5
-VATAVH
-VD$Pf
 VR Dashboard Not Found (133)
 VR Dashboard startup failed (134)
 VR Home Not Found (135)
 VR Monitor Not Found (127)
 VR Monitor startup failed (128)
-VR Path Registry node %s is not an array
+VR Path Registry node %s is not an array\n
 VR Server Init Failed (300)
 VR home startup failed (136)
 VR system shutting down (119)
@@ -1632,27 +924,9 @@ VR_OVERRIDE
 VR_PATHREG_OVERRIDE
 VR_RuntimePath
 VR_ShutdownInternal
-VT$PD
-VUD8oDu
-VWATAUAVAWL
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUH
-VWAVH
-VWAWH
-Valve0
-Valve1
 VirtualAlloc
 VirtualFree
 VirtualProtect
-W0;Ct~ZH
-W8HcH
-WATAUAVAWH
-WATAVH
-WATAWH
-WAVAWH
-W`;Ct~|H
 WaNd?
 WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
@@ -1664,72 +938,20 @@ WideCharToMultiByte
 WinRTInitialization
 WriteConsoleW
 WriteFile
-X E9j
-X_^][
-Y$D;R
-Y([~=
-Y0t>H
-Y7'v[M
-Y8(|bUhI;W4$eG8
+X/4B
+Y8a:
 Y>kX>M
-YD$@f
-YYyhe"B
-Z(D9Z
 Z\>z8
-Zod(^?
-[ 0@QT
 [*ncd>0
-[3F|}
-[@D8}oteH
 [aOni*{
-[zm4H
-\$ E3
-\$ UAVAWH
-\$ UH
-\$ UVAVH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ VWATAUAWH
-\$ WH
-\$(E3
-\$(H;
-\$(Hc
-\$0H+^
-\$0H9^
-\$0H;
-\$0eH
-\$2fE
-\$8E3
-\$8H;
-\$8I+_
-\$8I9_
-\$8I;
-\$<D2
-\$@H;
-\$@fD
-\$PE3
-\$PI;
-\$Pu-H
-\$gm?
-\$hI;
-\$pE3
-\@d#_
-\Fj;!h8
-\ffff
-\u=H;
-\wDgG
-])6M>&
-]+9pa
-]6%S*
-]>)2X
-]`u7H
-]g@8yhu
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\tcQr
+\tkE>fvw
+\vA03>A|
 ^<V7w
 ^RfN>
-^fD9(H
-_(H9n
-_C5D#
 __based(
 __cdecl
 __clrcall
@@ -1748,13 +970,6 @@ _hypot
 _logb
 _nextafter
 _oD>Kg
-` UAVAWH
-`+!]?
-`.rdata
-`A^_^
-`A_A^A]A\_^]
-`A_A^_^[
-`F8bI<bH;^C6H)
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -1765,7 +980,6 @@ _oD>Kg
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -1792,8 +1006,9 @@ _oD>Kg
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
-a8&Y.
+a6>r
 abcdefghijklmnopqrstuvwxyz
+acos
 additional six characters expected to parse unicode surrogate pair.
 address family not supported
 address in use
@@ -1804,12 +1019,13 @@ allowNumericKeys
 allowSingleQuotes
 allowSpecialFloats
 already connected
+alse
 argument list too long
 argument out of domain
+asin
 assert json failed
+atan
 atan2
-b4 a2
-b?^Cy
 bad address
 bad allocation
 bad array new length
@@ -1819,34 +1035,22 @@ bad exception
 bad file descriptor
 bad locale name
 bad message
-bp(=>?g
 broken pipe
-c [1>H'
-c%;>7
-c(>\,
-c0&>`
 c:\buildslave\steamvr_rel_win64\build\src\openvr_api\Retailopenvr_api\win64\2017\openvr_api.pdb
 c?FA@s}
-cD5U3#eF7v\NV5%J%
-cRpp`
-ceLfdfK3
-cg+tY
+ceil
 collectComments
 config
 connection aborted
 connection already in progress
 connection refused
 connection reset
+cosh
 count
 cross device link
-d$ E3
-d$ UAVAWH
-d$DE;
-d$XD9
-d$`H=
+d8L2
 d?000000`?
-dC4N(
-dI;D#
+dRL>
 dddd, MMMM dd, yyyy
 deque<T> too long
 destination address required
@@ -1854,101 +1058,28 @@ device or resource busy
 directory not empty
 double out of Int range
 e+000
-e0A^A]A\_^[]
-e0A_A^A]A\]
-e0A_A^A]A\_^]
-e0A_A^]
-e8A_A^A]A\_^[]
-e@A_A^]
+eF>t
 eLK(w
-eTe6 d4
 eventObject
 executable format error
 expecting another \u token to begin the second half of a unicode surrogate pair
 external_drivers
-f#D$@H
-f9)u H
-f9)uTH
-f9,Ju
-f9,Yu
-f9,~u
-f9/t	H
-f94H}7H
-f9<Ju
-f9D$pu
-f9t$bu
-f;M	tt
-fA9,Au
-fA9<\u
-fA;	H
-fB9,Nu
-fB94Ou
-fB9<@u
-fB9<@}eH
-fB9<Bu
-fB9<Hu
-fD9	t
-fD9	t(I
-fD9 t
-fD9 tMH
-fD9 u
-fD9$Hu
-fD9,Au
-fD90t
-fD91u
-fD92t
-fD92u
-fD94Fu
-fD94Gu
-fD96u
-fD97t
-fD9;u
-fD9<Au
-fD9<Cu
-fD9<Hu
-fD9<Xu
-fD9?t&
-fD9\$pt
-fD9\$pu
-fD9t$b
-fD9|$Xu
-fE90t
-fE98t'
-fE9<Au
-fF9<qu
-fG9$Ou
-fJBGo
+fD>b
+fWi?
+fabs
 failIfExtra
 false
-fffff
-ffffff
-fffffff
 file exists
 file too large
 filename too long
 floor
+fmod
 frexp
 function not supported
 generic
-gfe[D
-gfffA
-gfffL
-gfffffffH
-h VWATAVAWH
-h-y"3
-h< t <$
+h0'D
 h>1my
-hA\_^[
-hA_A^A]A\_^][
-hPP`*
 host unreachable
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-i,MFey<e
-iG8O(
-iW!]4/
 identifier removed
 illegal byte sequence
 in Json::Value::duplicateAndPrefixStringValue(): Failed to allocate string value buffer
@@ -1973,48 +1104,16 @@ ios_base::failbit set
 iostream
 iostream stream error
 is a directory
-iu+-,
-j>>A?1
-j?V()
-j?{$*
-jOIHg
-k0i0$
-kB0[/
-kC2\/
-kXL9sHu
+k=yI
 keylength >= 2^30
-l$ E3
-l$ H;
-l$ H=
-l$ UAVAWH
-l$ VWATAUAVAWE3
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAVH
-l$ VWAWH
-l$0E3
-l$4D8d$1u
-l$4E3
-l$4E;C
-l$4H9u
-l$4L9}
-l$8E3
-l$@H;
-l$HA_A^A]A\_^
-l$PA_A^A]A\_^
-l$PE;C
-l$Pu H
-l$`E;
-l$xM+
-l*$D+l*,tDD+l*(
-l*JHD
 ldexp
 log10
-lq%&1T
-lx"HL
-m0k0$
+m?H7
+mG4>
+m\nXo
 map/set<T> too long
 message size
+modf
 n03>Pu
 n]?iJ
 nan(ind)
@@ -2042,9 +1141,7 @@ not a stream
 not connected
 not enough memory
 not supported
-ntelD
-o0t$I
-oB(h8
+o?GS
 oI>O7
 obwQ4
 openvr
@@ -2058,264 +1155,56 @@ operation would block
 operator
 operator "" 
 operator co_await
-os.b	
-ot$ H
+owM&
 owner dead
-o|$0f
-p AWH
-p D9V
-p WATAUAVAWH
-p WAVAWH
-p*E?(
-p0n05
-p1f3q>
-pA_A^A]A\_^[
-pA_A^A]A\_^]
 pContext
 pEvents
 pExecutionResource
-pG6^0
-pKp$3
 pScheduler
 pThreadProxy
 permission denied
 ppVirtualProcessorRoots
+proc
 protocol error
 protocol not supported
-q(9qD~[E3
-q)]2<Mt
 qS>g?h3
-qe^3!Y-
-r	Vr.>T
-r	uAD;d$$u:
-r8w&M;
-r9D8v
-rB-<e*
-rBu/H
 rLp>B
+r\tVr.>T
 raB3G
-rcf9#b3
 read only file system
 rejectDupKeys
 resource deadlock would occur
 resource unavailable try again
 restrict(
 result out of range
-ri9O vdH
 runtime
-s WATAUAVAWH
-s WAVAWH
-s4+sP+
-sQA^7&^7%sP@
+sinh
 snan)
-stCD;
-stZD;
-st[D;
-staE;
+sqrt
 stackLimit
 state not recoverable
-stbE;
-stcE;
-stdE;
 stream timeout
 strictRoot
 string too long
 switchState
-sxu/H
-sxuIH
-sxutH
-t	L9c
-t @8x
-t H9X8t]
-t"<.u
-t#fA;
-t$ AVH
-t$ AWH
-t$ E3
-t$ UH
-t$ UWAUAVAWH
-t$ UWAVH
-t$ WATAUAVAW
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$(I;
-t$0E3
-t$8H+
-t$<D;t$@
-t$@A_A^A]A\_
-t$@H+
-t$@H=
-t$HI+
-t$HL;
-t$Hu{H
-t$PH=
-t$PuyH
-t$XE3
-t$XH;
-t$`;w
-t$hE3
-t$pH9\$ u
-t$xfD
-t&D8d$@t
-t'fE9
-t(B;\ 
-t*H9p8u$@8
-t+H;E
-t.8\$P
-t/D8e
-t4~ ;
-t5HcP
-t5LcF
-t<ffff
-t?8_:t
-t?H95Q
-t@LcM
-tA8_:t
-tAm4@
-tDLcC
-tG8\$ u08\$!t*E
-tKI;D
-tQfD9 tK
-tRCU+
-tRLcY
-tSf91tNH
-tTfA;
-tVf91tQH
+tanh
 text file busy
-tgfD9I
 timed out
-tlLcA
-tlMcH
-toA l<
 too many files open
 too many files open in system
 too many links
 too many symbolic link levels
-tpH91uk
-ttIcF
-tvLcK
-tyfD9 tsH
-t}D8O
-u	9o$
-u D9~
-u HcA<H
-u!!D$(H
-u%!D$@H
-u'L;k
-u)!t$(H
-u.H9>uBA
-u1!D$0H
-u2A8D
-u3HcH<H
-u4D9~
-u4I9}(
-uAiD$@
-uIL9[
-uY8\$ t
-ucD9~
-uf!T$(H!T$ 
-ug8Y$t
-ulD	3A
-unfD9A
+true
 unknown error
-uoA8F
-upE8N
-uxHcOP
 uzKs@>
-u|fD9I
-u~9t$Xt
-u~LcW
-v0D8eou\H
-v0t08
 v2!L.2
 value too large
 vector<T> too long
 version
-vj`7%X,
 vrclient Shared Lib Not Found (102)
 vrclient_x64.dll
 vrserver internal error (124)
-v}`[>
-w(HcODI
-wFHcN
-wXJR*
 wrong protocol type
-wtB{8
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x ATAVAWH
-x AUAVAWH
-x AVAWE3
-x AVAWL
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UAVAWH
-x0v0$
-xMHcC
-xP?b3
-xRB`2
-xWI96tRI
-x`cot~
-xmZ8(N*
+xT?V
 xpxxxx
 xwpwpp
-yH;YXtl
-y\PD>!
-y^QZ8(O*
-ygCH2
-z0x0:
-zY;>u:m	
-zwom}
-{ ATAVAWH
-{ AVH
-{ tjL
-{S@d6
-{XIZ/
-{ZLjF5jE5zZK
-{^5#W-
-{g_Hr
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVH
-|$ AVL
-|$ D!
-|$ E2
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ UATAVH
-|$ UAVAWH
-|$ fA
-|$":us
-|$(A^
-|$0@"
-|$0A_A^
-|$0H+
-|$4E3
-|$4H9]
-|$4H9u
-|$8;3
-|$8A_A^A\
-|$@-D
-|$@-H
-|$@-u
-|$@E3
-|$HE;
-|$HH;
-|$HH=
-|$XHcU
-|$XM9~
-|$\.u
-|$`CI
-|$h9i
-|$h9w
-|TBc4
-|^4#W,
-|b=})>
-}o@8{
-~ $s%r
-~`D8I!t-

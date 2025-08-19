@@ -1,41 +1,12 @@
-					
-										
-																															
-	u]Mc
-        
                           
-        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  '%s'
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
-  pango-querymodules > '%s'
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A]A\_][
- A^_^
- A_A]A\_]
- A_A^A\
- A_A^A\H
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^]H
- A_A^^
- A_A^_
- A_A^_H
  Glas fr
- Hct$`Hcl$hE3
  Kowalsky v
- LcITL
  a yl dybry gw
  apval
- au e 
+ arb
  cair no p
  d'un c
  de t
@@ -55,57 +26,27 @@
  na h
  neezgai da.
  noite, vov
+ nov
  pa m
  pas.
  skada meg.
- tDE3
  xylofon.
  yish
-!This program cannot be run in DOS mode.
 !font_map || PANGO_IS_FONT_MAP (font_map)
 !layout->log_attrs
-!t$(H!t$ I
+"\nccc
 #%04x%04x%04x
-#fD9M
-#t[H;C
-#wQIc
 %s must be one of %s
 %s must be one of %s or a number
-%s/%s
 %s: PangoLayout changed since PangoLayoutIter was created, iterator invalid
-%s: failed to allocate glyph string of length %i
-%s=%d
+%s: failed to allocate glyph string of length %i\n
 '%s' is not a valid value for the '%s' attribute on <span> tag, line %d; valid values are %s
 '%s' is not a valid value for the 'stretch' attribute on <span> tag, line %d; valid values are for example 'condensed', 'ultraexpanded', 'normal'
 '%s' is not a valid value for the 'style' attribute on <span> tag, line %d; valid values are 'normal', 'oblique', 'italic'
 '%s' is not a valid value for the 'variant' attribute on <span> tag, line %d; valid values are 'normal', 'smallcaps'
 '%s' is not a valid value for the 'weight' attribute on <span> tag, line %d; valid values are for example 'light', 'ultrabold' or a number
-(A]A\^]
-(A]A\^]H
-(A^_H
-(A_A^A\]
-(A_A^A]]
-(D$PH
-(L$@D
-(T$0v
-(T$@H
-(\$ v
-(\$0D
-(d$ v
 (guint) level <= 3
-(t$ H
-(t$0H
-(t$pH
 (unknown)
-(|$ H
-(|$PH
-)t$ I
-)t$ M
-)|$PH
-)~pIc
-+^8A;_
-+o8I;
-+o8L;
 -64OS
 -abcdefghijklmnopqrstuvwxyz
 ..\..\..\pango\break.c
@@ -140,146 +81,29 @@
 ..\..\..\pango\pango-layout.c:6443
 ..\..\..\pango\pango-markup.c
 ..\..\..\pango\pango-renderer.c
-.9)v;
 .o'i mu xagji sofybakni cu zvati le purdi
-.pdata
-.text
+/\nfff
 /dummy/lib/pango
 /dummy/lib/pango/1.8.0/modules/
 0123456789
-0A^A\_
-0A^A]A\_^
-0A^_]
-0A^_]H
-0A_A]A\^]
-0A_A^A\
-0A_A^A\_[
-0A_A^A]
-0A_A^A]A\_
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_][
-0A__^
-0D9o`u
 1#IND
 1#INF
 1#QNAN
 1#SNAN
 1.36.8
 1.8.0
-4Qu@H
-80tVD
-8A_A^A]A\^]
-8A_A^_^
+6\niii
 8Csin
-8D$8t
-8UXt$@
-98tOH
-9:~VH
-9L$D}
-9L$D}2H
-9\$<~wH
-9l$@~P
-9{h~&H
-;:, 	
-;C u$L
-;G(uH
-;QTt5
-;Q\t5
-;Q`t5
-;_ t'
-< tD<	t@
-<"t7<\t)H
-</assembly>
+;1cb
 </markup>
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
 <markup>
-=t	A;
+=1cb
+=\nkkk
+=\vjam
 ?333333
 ?UUUUUU
-@ H9(t
-@ H90t$
-@ H98t
-@ L9 t
-@.data
-@.reloc
-@.rsrc
-@8,1u
-@83t'
-@8t$8t
-@A^_^
-@A_A^A]A\^
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^]
-@A_A^_
-@A_][
-@A_][H
-@SUAWH
-@SUVAUAVAWH
-@SUVWATAVAWH
-@SUVWAVH
-@SUVWH
-@SVWATAWH
-@SVWAUAWH
-@SVWH
-@SWATAVAWH
-@SWAUAWH
-@UATAUAVAWH
-@UATAVH
-@USVWATAUAVAWH
-@USVWAUAVH
-@USVWH
-@USWAWH
-@UVATAUH
-@UVAUAVAWH
-@UVAVAWH
-@UVWATAUAVAWH
-@UVWH
-@UWATAUAWH
-@UWAUH
-@UWAVH
-@VAVAWH
-@VAVH
-@VWAVAWH
-@WAVH
-@WAWH
 @^8U)zj
-A	F fA
-A 3B 
-A 9C u-
-A$8C$u$H
-A$8C$u7
-A(D"I(H
-A(LcA
-A)hpL
-A3A$A3
-A81t@@8r
-A:8uiI
-A;NPtO
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUH
-ATAVAWH
-AUAVAWH
-A]A\_^]
-A]_]H
-A^A\]
-A^A\_
-A^A]_^[]
-A^_^[]
-A^_^][
-A_A]_[
-A_A^A\_]
-A_A^A\_^
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^]
-A_A^_
-A__[]
-A`;A\|
 Aku isa mangan beling tanpa lara.
 AliceBlue
 All font fallbacks failed!!!!
@@ -294,21 +118,11 @@ ArabicScriptEngineLang
 Attribute '%s' is not allowed on the <span> tag on line %d char %d
 Attribute '%s' occurs twice on <span> tag on line %d char %d, may only occur once
 August
-AuthA
-AxH9A u
-B 9A uH
-B$9A$u@
-B$9A$u_
-B(9A(u8
-B,9A,u0
-B0H9A0u
-BKxH9
-BKxI9
 Black
 BlanchedAlmond
 BlueViolet
-C0H;~8u
-C<Rich
+Bold
+Book
 CadetBlue
 CadetBlue1
 CadetBlue2
@@ -316,7 +130,6 @@ CadetBlue3
 CadetBlue4
 Ch'peux mingi du verre, cha m'fo
 Chruu, a kwik di kwik brong fox a jomp huova di liezi daag de, yu no siit?
-Cl9sl}
 CloseHandle
 CloseThreadpoolTimer
 CloseThreadpoolWait
@@ -326,56 +139,13 @@ Con s
 Condensed
 CorExitProcess
 CornflowerBlue
-CpH9s
 CreateEventExW
 CreateFileW
 CreateSemaphoreExW
 CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
-Cs*Hc
-D!l$h3
-D$ )G
-D$ ;^
-D$ E3
-D$(E3
-D$0L9
-D$@D;
-D$@Hc
-D$HHcSLLc
-D$Hv-H
-D$LIc
-D$XD+
-D$XH9l$P
-D$XHc
-D$[=H
-D$`H9D$pt
-D$`L;
-D$hIc
-D$p H
-D$pE3
-D$pfA
-D$xD)xpL
-D$xE3
-D)FpH
-D+moA
-D+s83
-D1:Hc
-D82u&H
-D8;u=H
-D8L$Ht
-D8t$Ht
-D9	u/H
-D9l$`
-D9l$dtXH
-D9o`u
-D9o`~+H
-D9t$htrH
-D9y u!H
-D9|$ 
-D;@T}?A
-D;t$ 
-D;w |
+D\nnnn
 DarkBlue
 DarkCyan
 DarkGoldenrod
@@ -443,15 +213,15 @@ DodgerBlue2
 DodgerBlue3
 DodgerBlue4
 Dw i'n gallu bwyta gwydr, 'dyw e ddim yn gwneud dolur i mi.
-E9f ~#I
-E;N |
+E ko
+East
 Eg kan eta glas utan 
 Egy h
 Ek kan glas eet, maar dit doen my nie skade nie.
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesEx
-Error reading Pango modules file
+Error reading Pango modules file\n
 Eu podo xantar cristais e non cortarme.
 ExitProcess
 Expanded
@@ -462,11 +232,7 @@ Extra-Condensed
 Extra-Expanded
 Extra-Heavy
 Extra-Light
-F 3G 
-F$3C$
-F0L9x
 Failed to load Pango module '%s' for id '%s'
-Fd$`<@
 February
 Fin d
 FloralWhite
@@ -483,7 +249,6 @@ FreeEnvironmentStringsW
 FreeLibraryWhenCallbackReturns
 Friday
 Fumeg
-GXHcO`H
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -520,50 +285,11 @@ GetTimeFormatEx
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GhostWhite
-GpD;~
 GreenYellow
 Gvxam mincetu apocikvyeh: 
-H3E H3E
-H9)u3L
-H9C u
-H9C u@H
-H9F u-H
-H9X t!H
-H9^(u2
-H9l$Ht
-H9q u
-H;AHu
-H;L$@
-H;L$P
-H;l$ 
-H;l$0u
-H;{8H
-HA]A\
-HA_A^A]^][
-HA_A^A]^][H
-HA_A^A]_^]
-HA_A^^]
-HA_A^^]H
 HH:mm:ss
-Had error when making markup parser: %s
-HcCLH
-HcD$$Mc
-HcD$0
-HcD$PH;
-HcD$XH
-HcH<H
-HcI(H
-HcIX;
-HcKhH
-HcKhLcCXH
-HcL$8A
-HcM H
-HcNTH
-HcO`H
-HcQ@F8
-HcT$LE
-Hckh;
-Hct$@H
+HMXB
+Had error when making markup parser: %s\n
 HeapAlloc
 HeapFree
 HeapReAlloc
@@ -576,11 +302,6 @@ HotPink2
 HotPink3
 HotPink4
 I koh Glos esa, und es duard ma ned wei.
-I!>E3
-I8HcA@L
-I96t-H
-I9h u*I
-I;I0u	A
 IN_BREAK_TABLE (break_type)
 IN_BREAK_TABLE (prev_break_type)
 IS_VALID_PART (part)
@@ -606,48 +327,13 @@ January
 Je puis mangier del voirre. Ne me nuit.
 Jove xef, porti whisky amb quinze gla
 Jovencillo emponzo
+July
+June
 KERNEL32.dll
-KHH9KxH
+K\nppp
 Kaya kong kumain nang bubog at hindi ako masaktan.
 Kristala jan dezaket, ez dit minik ematen.
-L$ A+
-L$ E3
-L$ H;
-L$ SWH
-L$(E3
-L$0E3
-L$0H3
-L$0H;
-L$8E3
-L$8H3
-L$@E3
-L$@H3
-L$DA;
-L$DLcT$8D
-L$Df;
-L$HH3
-L$HHc
-L$PE3
-L$PH3
-L$`9K
-L$`H3
-L$hA;
-L$hE3
-L$hH;
-L$pA+
-L$pE3
-L$pH3
-L$xH3
-L0	A:
-L09A:
-L0:A:
-L90u!L
-L9;to
-L9q8u^H
-L9t$`t
-L;K0t
-L;d$ 
-L;g t
+LANG
 LANGUAGE
 LCMapStringEx
 LCMapStringW
@@ -661,9 +347,6 @@ LavenderBlush2
 LavenderBlush3
 LavenderBlush4
 LawnGreen
-LcA<E3
-LcG(LcO$I
-LcL$P
 LeaveCriticalSection
 LemonChiffon
 LemonChiffon1
@@ -755,23 +438,23 @@ MistyRose1
 MistyRose2
 MistyRose3
 MistyRose4
+Mo l
 Monday
 Monospace
 MultiByteToWideChar
-N8IcU
+NKeb
+N\rlt
 NavajoWhite
 NavajoWhite1
 NavajoWhite2
 NavajoWhite3
 NavajoWhite4
 NavyBlue
-No builtin or dynamically loaded modules were found.
-No modules found:
+No modules found:\nNo builtin or dynamically loaded modules were found.\nPangoFc will not work correctly.\nThis probably means there was an error in the creation of:\n  '%s'\nYou should create this file by running:\n  pango-querymodules > '%s'
 Normal
 North
 Not-Rotated
 November
-O8HcV
 Oblique
 October
 OldLace
@@ -1002,12 +685,6 @@ PANGO_WEIGHT_ULTRALIGHT
 PANGO_WRAP_CHAR
 PANGO_WRAP_WORD
 PANGO_WRAP_WORD_CHAR
-PA]A\_^[
-PA]_]
-PA^_^
-PA_A]_^[
-PA_A^A\_^][
-PA_A^A]^]
 Pa's wijze lynx bezag vroom het fikse aquaduct.
 PaleGoldenrod
 PaleGreen
@@ -1043,7 +720,6 @@ PangoEngine
 PangoEngineLang
 PangoEngineShape
 PangoFallbackEngine
-PangoFc will not work correctly.
 PangoFont
 PangoFontDescription
 PangoFontFace
@@ -1078,6 +754,7 @@ PangoVariant
 PangoWeight
 PangoWrapMode
 PapayaWhip
+Pchn
 PeachPuff
 PeachPuff1
 PeachPuff2
@@ -1086,9 +763,10 @@ PeachPuff4
 Pijamal
 PowderBlue
 Puotsu mangiari u vitru, nun mi fa mali.
-QPL9YHsMH
 QueryPerformanceCounter
 Quizdeltagerne spiste jordb
+RSDS
+R\nsss
 RaiseException
 ReadConsoleW
 ReadFile
@@ -1111,15 +789,10 @@ RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
 S urrainn dhomh gloinne ithe; cha ghoirtich i mi.
-SUATAWH
-SUAWH
-SUVWATAVAWH
-SUWATAUH
-SVWATAUH
-SVWAVH
-SWAUH
+S;uD
 SaddleBrown
 SandyBrown
+Sans
 Sarkan
 Saturday
 Saya boleh makan kaca dan ia tidak mencederakan saya.
@@ -1169,46 +842,24 @@ SpringGreen1
 SpringGreen2
 SpringGreen3
 SpringGreen4
+Star
 SteelBlue
 SteelBlue1
 SteelBlue2
 SteelBlue3
 SteelBlue4
 Sunday
-T$&@8t$&t9@8r
-T$(9r
-T$PE3
-T$`E3
-T$`H;
-T$hE;
-T$xD+
-T$xD+K8+
 Tag '%s' does not support attribute '%s' on line %d char %d
 TerminateProcess
 The quick brown fox jumps over the lazy dog.
-This probably means there was an error in the creation of:
+Thin
 Thursday
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
 Tuesday
-UATAUAVAWH
-UATAVAWH
-UAUAVAWH
-UAVAWH
-UH;{Ptc
-USVWATAUAVAWH
-USVWAVH
 UUUUUU
-UVATAUAVAWH
-UVAUH
-UVWATAUAVAWH
-UVWATAUH
-UVWAUAVAWH
-UWATAUAWH
-UWAUH
-UWAVH
 Ultra-Black
 Ultra-Bold
 Ultra-Condensed
@@ -1218,13 +869,6 @@ Ultra-Light
 UnhandledExceptionFilter
 Unknown tag '%s' on line %d char %d
 Upside-Down
-VATAUAVAWH
-VAVAWH
-VWATAUAVH
-VWATAVAWH
-VWAUAWH
-VWAVH
-VWAWH
 Value of '%s' attribute on <span> tag line %d should have one of 'true/yes/t/y' or 'false/no/f/n': '%s' is not valid
 Value of '%s' attribute on <span> tag on line %d could not be parsed; should be a color specification, not '%s'
 Value of '%s' attribute on <span> tag on line %d could not be parsed; should be an integer, not '%s'
@@ -1238,54 +882,59 @@ VioletRed2
 VioletRed3
 VioletRed4
 Voix ambigu
-WATAUAVAWH
-WATAVH
-WAVAWH
 WaitForThreadpoolTimerCallbacks
 Wednesday
+West
 WhiteSmoke
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-X!t5~
-XA_A^A]A\_^[]
-Y %d %d
+Y\nuuu
 YellowGreen
-You should create this file by running:
-[(;|$@|
-\$ UAVAWH
-\$ UH
-\$ UVATAUAWH
-\$ UVWATAUAVAWH
-\$ WH
-\$0	pdH
-\$0)G
-\$0D9=
-\$0H3
-\$0H;
-\$0t(H
-\$1tH
-\$@t%M
-\$H;F4t
-\$HE3
-\$LHc
-\$XI9m(
+Z\thr
 \.libs
 \1.8.0\modules\
-\L96t
+\nYYY
+\naaa
+\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\t\t\t\t\t\t\t\t\t\t\v\t\t
+\rmap
+\t000
+\t333
+\t666
+\t888
+\tBBB
+\tEEE
+\tGGG
+\tJJJ
+\tMMM
+\tOOO
+\tRRR
+\tTTT
+\tWWW
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v
+\vjbo
 _cabs
 _hypot
 _logb
 _nextafter
 _pango_engine_shape_covers
 _pango_layout_line_ellipsize
-`	!!!
-` AUAVAWH
-`.rdata
-`A]^]
-`A^_]
-`A_A\_^[
-`A_A^A\_^][
+`\nxxx
 a agus 
 a lub o
 a yo' chumocho krestat, ti ha na'lalamen yo'.
@@ -1293,6 +942,7 @@ abcdefghijklmnopqrstuvwxyz
 absolute-size
 abucak g
 ac na h
+acos
 add_underline
 ado de whisky: 
 ai i ke aniani; 
@@ -1300,6 +950,7 @@ alignment == PANGO_TAB_LEFT
 ana e kai i te karahi, mea 
 analysis != NULL
 approximate
+aqua
 aquamarine
 aquamarine1
 aquamarine2
@@ -1308,11 +959,14 @@ aquamarine4
 arabic
 armenian
 as peld pa j
+asin
+atan
 atan2
 attr != NULL
 attr1 != NULL
 attr2 != NULL
 attrs != NULL
+auto
 az-az
 az-ir
 azure
@@ -1322,6 +976,7 @@ azure3
 azure4
 background
 balinese
+ban.
 batak
 be kn
 beige
@@ -1338,10 +993,13 @@ bisque2
 bisque3
 bisque4
 black
+blue
 blue1
 blue2
 blue3
 blue4
+bold
+book
 bopomofo
 brahmi
 braille
@@ -1358,12 +1016,14 @@ burlywood2
 burlywood3
 burlywood4
 c:\buildslave\pango_win32\build\pango-1.36.8\build\win32\vs12\Release\x64\bin\libpango-1.0-0.pdb
-cAMDD
 canadian-aboriginal
 car no ch
 carian
+ceil
 center
 chakma
+cham
+char
 chartreuse
 chartreuse1
 chartreuse2
@@ -1393,23 +1053,19 @@ cornsilk1
 cornsilk2
 cornsilk3
 cornsilk4
+cosh
 couldn't load font "%s", falling back to "%s", expect ugly output.
 coverage != NULL
 coverage->ref_count > 0
 crimson
 cuneiform
+cyan
 cyan1
 cyan2
 cyan3
 cyan4
 cypriot
 cyrillic
-d$ Mc
-d$0Hc
-d$HHc
-d$XE3
-d$`t'H
-d$hL+
 dddd, MMMM dd, yyyy
 de, mens cirkusklovnen Walther spillede p
 delim_len < 4
@@ -1425,6 +1081,7 @@ deseret
 devaIndicScriptEngineLang
 devanagari
 di manjar de veire, me nafrari
+dnut
 double
 drepa
 du o 
@@ -1433,15 +1090,15 @@ e bez moljca.
 e hauhau.
 e+000
 e, na st
-eHA_A^A]A\_^[]
+east
+eha.
 en Sylter Deich.
 end <= (layout->text + layout->length)
-entiE
 erif bo za vajo spet kuhal doma
 error
-error getting key '%s/%s' in config file '%s'
-error getting keys in group '%s' of config file '%s'
-error opening config file '%s': %s
+error getting key '%s/%s' in config file '%s'\n
+error getting keys in group '%s' of config file '%s'\n
+error opening config file '%s': %s\n
 etc\pango
 ethiopic
 exact
@@ -1449,17 +1106,14 @@ expanded
 extra-condensed
 extra-expanded
 f ny wra ow ankenya.
-fA9	u
-fD90t
-fD93u
+fabs
+face
 failed to choose a font, expect ugly output. engine-type='%s', script='%s'
 fallback
 false
 families == NULL || n_families != NULL
 family
 family != NULL
-fffff
-fffffff
 fgcolor
 field_matches
 find_initial_span
@@ -1469,6 +1123,8 @@ firebrick2
 firebrick3
 firebrick4
 floor
+fmod
+font
 font != NULL
 font-desc
 font_desc
@@ -1484,7 +1140,7 @@ frexp
 fuchsia
 fum n
 func != NULL
-g	$$$
+g\nzzz
 g_array_append_vals
 g_array_free
 g_array_new
@@ -1655,10 +1311,10 @@ gainsboro
 gance.
 georgian
 get_script_properties
-gfffA
-gfffffffH
 glagolitic
 glyphs != NULL
+go b
+gold
 gold1
 gold2
 gold3
@@ -1673,6 +1329,7 @@ gravity
 gravity != PANGO_GRAVITY_AUTO
 gravity-hint
 gravity_hint
+gray
 gray0
 gray1
 gray10
@@ -1780,6 +1437,7 @@ green1
 green2
 green3
 green4
+grey
 grey0
 grey1
 grey10
@@ -1885,8 +1543,6 @@ gujarati
 gujrIndicScriptEngineLang
 gurmukhi
 guruIndicScriptEngineLang
-hA^_^[
-hA^_^[H
 hangul
 hanunoo
 heavy
@@ -1924,7 +1580,7 @@ ivory3
 ivory4
 ivote.
 izol ce mamvj ka raq kuse bafkeh mew.
-j > 0
+kU'9
 ka strax hwila p
 kannada
 katakana
@@ -1945,21 +1601,7 @@ ku-iq
 ku-ir
 ku-tr
 l og 
-l$ 9^
-l$ AVH
-l$ VAVAWH
-l$ VWATAVAWH
-l$ VWAVH
-l$ VWAWH
-l$(Ic
-l$0D+
-l$0H;~ 
-l$0Hci
-l$HH;
-l$XD+
-l$`E3
-l$hu"
-l$xHc
+lang
 language
 large
 larger
@@ -1968,7 +1610,7 @@ lavender
 layout != NULL
 lder j
 ldexp
-len >= 0
+left
 length < 0 || range_end == text + length
 length == 0 || text != NULL
 length >= 0
@@ -1983,6 +1625,8 @@ libgobject-2.0-0.dll
 libpango-1.0-0.dll
 light
 limbu
+lime
+line
 line != NULL
 line->layout != NULL
 line->layout->ellipsize != PANGO_ELLIPSIZE_NONE && goal_width >= 0
@@ -2024,18 +1668,21 @@ meroitic-cursive
 meroitic-hieroglyphs
 metrics != NULL
 metrics->ref_count > 0
+mi n
+miao
 middle
 mlymIndicScriptEngineLang
 mn-cn
 mn-mn
 moccasin
+modf
 modules
 modules.cache
 mongolian
 mpfer jagen Viktor quer 
 myanmar
-n	&&&
 natural
+navy
 nd hipnotic sa
 neutral
 new-tai-lue
@@ -2044,9 +1691,10 @@ new_len >= 0
 new_match != NULL
 new_trailing != NULL
 next_para_index >= delimiter_index
+none
 normal
 north
-ntelD
+nyin
 o feliz que dorme regalado.
 oblique
 ogham
@@ -2072,13 +1720,12 @@ orig != NULL
 orig->item->length > 0
 oriya
 oryaIndicScriptEngineLang
+osa 
 osmanya
 other != NULL
 oula m' freut n
 p != NULL
 p != NULL || max == 0
-p AWH
-pA_A^A]A\_^]
 pa-pk
 paga sublyk
 pango
@@ -2506,19 +2153,21 @@ paragraph_text + paragraph_length >= item_text + item_length
 paragraph_text <= item_text
 pata.
 pe sa 
+peru
 phags-pa
 phoenician
 phyr, pr
+pink
 pink1
 pink2
 pink3
 pink4
+plum
 plum1
 plum2
 plum3
 plum4
 pos != NULL
-pos >= 0
 possible_sentence_boundary >= 0
 possible_sentence_end >= 0
 prev->data == attr
@@ -2537,26 +2186,29 @@ purple4
 r Wessel
 r med fl
 r ykist 
-r=D8v
-rQtOH
-r_t]H
 range_end == run_start
 range_start == state.iter.end_index && start_new_segment
 range_start == text
+rasc
 re Zulu fra bade
 re les jattes de kiwis.
+red1
+red2
+red3
+red4
 rejang
 renderer->active_count > 0
 result
 result == BREAK_SOME_FIT || result == BREAK_EMPTY_FIT
 right
+rise
 rle mreje 
 run_end_index > 0
 runic
 s mexik
 s1 != NULL
 s2 != NULL
-sYHcL$HH
+sHF'
 salmon
 salmon1
 salmon2
@@ -2591,25 +2243,30 @@ sienna3
 sienna4
 silver
 single
+sinh
 sinhIndicScriptEngineLang
 sinhala
+size
 size >= 0
 sizes == NULL || n_sizes != NULL
 small
 small-caps
 smaller
+snow
 snow1
 snow2
 snow3
 snow4
 sora-sompeng
 south
+span
 spec != NULL
 split_index < orig->item->length
 split_index < orig->length
 split_index > 0
 split_offset < orig->num_chars
 split_offset > 0
+sqrt
 src != NULL
 ssa, ond des macht mr nix!
 start
@@ -2628,48 +2285,6 @@ style
 sundanese
 syloti-nagri
 syriac
-t HcQ
-t"A88t
-t#;8}
-t$ AVH
-t$ UH
-t$ UWATAVAWH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WH
-t$0E3
-t$0Hc
-t$8E3
-t$8H+
-t$8H9w
-t$8Hc0I
-t$8tZ
-t$8uI
-t$@E+
-t$@fA
-t$@fD
-t$HA+
-t$PHc
-t$`Lcq
-t$`~!D
-t)D9Q
-t)E9nT|#A
-t1A9uT|+A
-t1D;gp~'D9
-t2~&A
-t49pT|/
-t9H;Q(t
-t9fff
-t;9spt
-t=L95Q
-t>D;D$Du
-t?HcB
-tE9K ~-
-tF;QXt]
-tPL9k
-tWfff
-t\HcD$0HcT$<;
 tab_array != NULL
 tab_index < tab_array->size
 tab_index >= 0
@@ -2679,12 +2294,18 @@ tai-le
 takri
 tamil
 tamlIndicScriptEngineLang
-tcH95
+tan1
+tan2
+tan3
+tan4
+tanh
+teal
 teluIndicScriptEngineLang
 telugu
 text != NULL || length == 0
-tg@89tUH
 thaana
+thai
+thin
 thistle
 thistle1
 thistle2
@@ -2694,14 +2315,13 @@ ti-er
 ti-et
 tibetan
 tifinagh
-tkHcO(H
 tlen vej
 tomato
 tomato1
 tomato2
 tomato3
 tomato4
-ttI9<
+true
 ttb-ltr
 ttb-rtl
 turquoise
@@ -2709,17 +2329,10 @@ turquoise1
 turquoise2
 turquoise3
 turquoise4
-u	)))
-u	A!B
 u ke 
-u$A9n
-u3HcL$ 3
-u@8D$ht)
-uJD;gp~DH
-uMD9s
+u nh
 uab rongile h
 uascail 
-udH9l$0tI
 ugaritic
 uje t
 ultra-condensed
@@ -2737,38 +2350,31 @@ variant
 vendi.
 violet
 vrst konji
-vxL9vxulH
 weak-ltr
 weak-rtl
 weight
+west
 wheat
 wheat1
 wheat2
 wheat3
 wheat4
 white
+word
 word-char
-x ATAVAWH
-x AUAVAWH
-x AVH
-x-)npIc
 x-large
 x-small
-x/D)^pIc
-x8t-LcA(H
-xA_A\][
-xA_A]_^
-x_^][
+xi h
 xx-large
 xx-small
 y qua con ch
+y\nis
 ya spilte jo whist og quickstep i min taxi.
 yellow
 yellow1
 yellow2
 yellow3
 yellow4
-z E:S$
 z?aUY
 zc%C1
 zh-cn
@@ -2777,31 +2383,3 @@ zh-mo
 zh-sg
 zh-tw
 zol Quit
-|	+++
-|#tAM
-|$ ATAVAWH
-|$ AVH
-|$ H;
-|$ UATAUAVAWH
-|$0-H
-|$0t7H
-|$410
-|$8tg
-|$<E3
-|$@-D
-|$@-H
-|$@E3
-|$PD;
-|$PE3
-|$PHcy
-|$PLc
-|$\A;
-|$`f#
-|$`u8H
-|$pHc
-|gIcC(
-}(HcO(I
-~(HcD$ L;
-~,D;~
-~.D;~
-~2D;A

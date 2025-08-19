@@ -1,15 +1,6 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
-  %s (path ID '%s')
- 9(X`
- A^A\_^]
- A^][
- A_A^_
- vJH+
-!LcK@
-"Language" "English"
-"Tokens"
-"lang"
+  %s (path ID '%s')\n
+"lang"\r\n{\r\n"Language" "English"\r\n"Tokens"\r\n{\r\n
 #GameUI_Language_Brazilian
 #GameUI_Language_Bulgarian
 #GameUI_Language_Czech
@@ -115,26 +106,15 @@
 #Valve_SelectLanguage_Turkish
 #Valve_SelectLanguage_Ukrainian
 #Valve_SelectLanguage_Vietnamese
+%02d
+%04d
 %04d_%02d_%02d_%02d_%02d_%02d
 %i %i %i %i
 %language%
-%s failed to localize: %s
-%s\%s
+%lld
+%s failed to localize: %s\n
 %s\Settings
-%s_[%s]
-&YA1L
-(A^_^[
-(A_A^
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$@H
-(|$@H
 *.txt
-+8y)!
-,0<	v
-,0<	w
-,|%)v
 -all_languages
 -ccsyntax
 -enablejongsung
@@ -172,10 +152,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -186,50 +166,15 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
-/fD9m
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-200527201809Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-6HfU1
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8D$`u!
-99~HH
-9_p~$
-9oD~7
-;D$@@
-;K+~T
-;SL|/H
-;SL|1f
-;\$4|
-;\$4}
-< tM,	<
+4344
 <deferred>
 <floating-point value out of range>
 <invalid currency %d>
@@ -244,8 +189,6 @@
 <null>
 <space>
 <unconnected>
->|u4E
-?5zlO
 ?AppendFormat@CBufferString@@QEAAHPEBDZZ
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?DevMsg@@YAXPEBDZZ
@@ -265,40 +208,9 @@
 ?V_UnicodeBufferLength@@YAHPEB_WHAEA_N@Z
 ?V_UnicodeLength@@YAHPEBD@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-@.data
-@.tls
-@A^A]A\
-@A^_^][
-@A_A^A]A\_
-@SAVH
-@SUAVH
-@SUVWH
-@SUWH
-@SVWAVH
-@UAVAWH
-@USVWATAUAVAWH
-@USVWAVH
-@USVWAWH
-@USWH
-@UVWATAUAVAWH
-@VAVH
-@WATAVH
-A8H	P(
-A8Zxt
-A;@X}
-A;BX}
-A;RX}
-A;^@|
 ADVAPI32.dll
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVH
-AVAWH
-A^A]^[]
-A^_^[]
-A_A^A]A\]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
+ARS$
 AcquireSRWLockExclusive
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
@@ -312,91 +224,66 @@ Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
 Bad expression token: %c
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 Brazilian
 Bulgarian
-C-yh/
 CGlobalConfigValueRegistry::HookUpConfigValue
-CLD;CP|
+CLP$
 CLocalize::AddTokenMiss
 CLocalize::FindSafe
-CLocalize::InstallChangeCallback: Attempted to add the same callback twice!
+CLocalize::InstallChangeCallback: Attempted to add the same callback twice!\n
 CLocalize::StringData_t::Add
 CMemAllocSystemInitialize
+COL$
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CSchemaRegistration::RegisterAllModuleData
 CTSListBase::CTSListBase
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<char,int>::ChangeSize
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CancelIo
 CloseHandle
 CommandLine
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigurationSystem_001
 ConnectInterfaces
 CreateFileW
 CreateInterface
 Czech
-D$ E3
-D$0H+
-D$0H3L$0H3
-D$8I;
-D$<9T$0wE9T$4w?9T$8w9;
-D$OH;
-D$`E#
-D$p A
-D$p L
-D$t+D$L
-D9IL}sL
-D;t$@u
+DEMO
 Danish
 DebugTextureInfo001
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
 DuplicateTokensAssert
 DuplicateTokensFail
 DuplicateTokensWarning
 Dutch
-E0C07
-E;~(H
-ERROR: Duplicate string token '%s' found in %s (original in %s)
+ERROR: Duplicate string token '%s' found in %s (original in %s)\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EngineServiceMgr001
 English
 EventSystem001
-FATAL ERROR: unable to register all schema data: %s
-Failed to read localization file %s
+FATAL ERROR: unable to register all schema data: %s\n
+Failed to read localization file %s\n
 Finnish
 FlattenedSerializersVersion001
 FontManager_001
 French
-Full paths not allowed in localization file specification '%s'
+Full paths not allowed in localization file specification '%s'\n
 GAMECONSOLE
-GCTSListBase: Misaligned list
+GCTL
+GCTSListBase: Misaligned list\n
 GSFailure
-GT$HA
-GT$XH
-GT$xD
-G\$PH
-G\$xD
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -409,40 +296,21 @@ GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
 GetUserDefaultLCID
-Gl$8E3
 Greek
-G|$(H
-H0F08
-H1D$0
-H98t[I
-H99tpH
-HA_A\_]
 HIGHDPI
-H_^][
 HammerMapLoader001
-HcH<H
-HcI8;
-HcL$ H
-HcMwH
-HcMxI
-HcS@H
-HcT$PH
-Hc\$ H
-Hc_0L
-Hct$xH
 HelpSystem_001
 HostStateMgr001
 Hungarian
-I9.tS
-ILocalize::AddFile() failed to load file "%s".
+ILocalize::AddFile() failed to load file "%s".\n
 IQuickTime001
-Ignoring unsupported encoding in localization file '%s'
+Ignoring unsupported encoding in localization file '%s'\n
 InitializeSListHead
 InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 Italian
@@ -451,19 +319,6 @@ KERNEL32.dll
 KeyValueCache001
 KeyValuesSystem
 Korean
-L$ Hc
-L$ SH
-L$ SUVWAVH
-L$ UVWATAUAVAWH
-L$ fI
-L$(fH
-L$0H;
-L$@D"
-L$@H1D$0
-L$XA+
-L$XLc
-L$hLc
-L9{8t
 LINUX
 LOC_Date_Today
 LOC_Date_Tomorrow
@@ -481,17 +336,13 @@ LOG_GENERAL
 LOWVIOLENCE
 Language
 Latam_Spanish
-LcA<E3
-LcCLC
-LcCPH
-LcD$$H
 List all loaded localization files
-Loaded localization files:
-Localization key '%s' has a conditional that is too long. Truncating.
-Localization key '%s' has a value that is too long. Truncating.
-Localization key '%s' is too long. Truncating.
-Localization string too long: %d chars in '%.20s...'
-Localization watching these dirs for changes:
+Loaded localization files:\n
+Localization key '%s' has a conditional that is too long. Truncating.\n
+Localization key '%s' has a value that is too long. Truncating.\n
+Localization key '%s' is too long. Truncating.\n
+Localization string too long: %d chars in '%.20s...'\n
+Localization watching these dirs for changes:\n
 Localize
 Localize_001
 Localize_Create
@@ -504,6 +355,7 @@ MapListService_001
 MaterialUtils_001
 MeshSystem001
 MeshUtils001
+Mex$
 ModelDocUtils001
 NavSystem001
 NetworkClientService_001
@@ -513,10 +365,9 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-Nh$RqLt
+None
 Norwegian
-O(t(H
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 POSIX
 PanoramaTextServices001
 PanoramaUIClient001
@@ -539,12 +390,13 @@ PostProcessingSystem_001
 PropertyEditorSystem_001
 QueryPerformanceCounter
 QueuedLoaderVersion001
+RSDS
 ReadDirectoryChangesW
 RegCloseKey
 RegCreateKeyExA
 RegQueryValueExA
 RegSetValueExA
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 Release
 ReleaseSRWLockExclusive
 RenderDevice003
@@ -557,12 +409,9 @@ ResourceCompilerSystem001
 ResourceHandleUtils001
 ResourceManifestRegistry001
 ResourceSystem013
-RoL	6i;G
 Romanian
 RtlUnwindEx
 Russian
-S89SD|
-SUAVH
 SceneSystem_002
 SceneUtils_001
 SchemaSystem_001
@@ -594,11 +443,10 @@ Spanish
 StatsService_001
 SteamAudio001
 Swedish
-T$ Lc
-T.g!n
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
+Thai
 Tokens
 ToolFramework2_002
 ToolSceneNodeFactory_001
@@ -606,16 +454,9 @@ ToolScriptManager001
 ToolService_001
 Traditional_Chinese
 Turkish
-UATAUAVAWH
-UAVAWH
 USER32.dll
-USVAUAVH
-USVWATAUAVAWH
-UVWATAUAVAWH
-UVWATAVH
-UWATAWH
 Ukrainian
-Unable to find localization token '%s'
+Unable to find localization token '%s'\n
 UserInfoChangeService_001
 VApplication001
 VAvi001
@@ -667,41 +508,28 @@ V_sscanf
 V_stricmp_fast
 V_vsnprintf
 V_wcstoi64
-Valve0
-Valve1
 Vietnamese
 VisBuilder_001
-WARNING: Duplicate string token '%s' found in %s (original in %s)
-WATAUAVAWH
-WAVAWH
+WARNING: Duplicate string token '%s' found in %s (original in %s)\n
 WIN32
 WINDOWS
 WINXP
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WorkshopSetup001
 WorldRendererBuilderMgr001
 WorldRendererMgr001
+X360
 [english]
 [unknown string]
 [unknown]
-\$ E3
-\$ UH
-\$ UVATH
-\$ WH
-\$0Hk
-\$8;>
-\$xA;
 _V_ComposeFileName
 _V_MakeAbsolutePath
 _V_strncmp
 _V_strncpy
 _V_strnicmp_fast
 _english.txt
-`.rdata
-`A^A\_
-`A__^[]
 bg_BG
 brazilian
 bulgarian
@@ -718,8 +546,6 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 cs_CZ
 czech
-d$ E3
-d$@E3
 da_DK
 danish
 de_DE
@@ -732,12 +558,7 @@ error
 es-419
 es_419
 es_ES
-f9A0t
-f9D$ 
-fD91t
-fD9D$0t
 false
-ffffff
 fi_FI
 finnish
 fr_FR
@@ -745,39 +566,22 @@ french
 g_pMemAlloc
 german
 greek
-hQUUZ
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hu_HU
 hungarian
-iD$|m
-iW!]4/
 it_IT
 italian
 ja_JP
 japanese
-k0i0$
-kl.J$
 ko_KR
 korean
 koreana
-l$ 9Q
-l$,Lc
-l$0Hc
-l$0tWH
-l$8E3
-l$8H+
 latam
 localize
 localize.dll
-m0k0$
 nl_NL
 no_NO
+none
 norwegian
-p0n05
-p1f3q>
 pl_PL
 polish
 portuguese
@@ -793,55 +597,17 @@ schinese
 spanish
 sv_SE
 swedish
-t$ AVH
-t$ WH
-t$0Hc
-t$8Hc
-t$@Hc
-t$PE3
-t$XE3
-t$Xt	H
-t$x;_@u
-t%<_u
-t9H9=F
-tFiL$Tm
-t]<\u$8F
-t^<0uK
-t`<0uB
-tb<0uO
 tchinese
 th_TH
+thai
 tier0.dll
 tr_TR
 turkish
-u	@8=
 uk_UA
 ukrainian
 unknown
-v0t08
-v;Z	PIS+b
 vi_VN
 vietnamese
 wsprintfA
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x0v0$
-xRHcQ
-z0x0:
 zh_CN
 zh_TW
-{hHc7;w
-|$ <"
-|$ AVH
-|$8Hc
-|$@ff
-|$HE3
-|$PA;^ u
-|$PHc{@$
-|$Xt6H
-|$`Lc
-|@HcT
-}|D;I$wvL
-~P~%3

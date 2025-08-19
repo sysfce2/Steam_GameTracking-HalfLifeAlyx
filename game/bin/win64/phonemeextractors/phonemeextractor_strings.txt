@@ -1,69 +1,22 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- 9(X`
- A^A]A\_^
- A^][
- A^_^
- A_A^A\
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^_
- A_^]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- HcyH3
  Type Descriptor'
  delete
  delete[]
- new[]
- tDE3
- vJH+
-!>6'Y
-"pA3Q(h
-%i:  
-%s: string format requested %d chars
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-(A]A\_^
-(A_A^
-(D$0H
-(D$`H
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$ H
-(t$ L
-(t$0H
-(t$PH
-(|$0H
-(|$@D
-)>6{1n
-)D$0H
-)t$ I
-)t$0L
-)t$@%
-)t$PH
-)t$pE
-)|$@L
-)|$pD
+ new
+%lld
+%llu
+%s: string format requested %d chars\n
 *StO9>T
-+M<7>
-+f)>0'
-+h->|
-,/<-w
-,|%)v
++inf
+-avx
+-inf
 -languageid
 -sse2
 -sse3
@@ -88,12 +41,12 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -104,135 +57,48 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
-0A\_]
-0A^A\_
-0A^^[
-0A^_^
-0A_A]A\_]
-0A_A^A\
-0A_A^A]A\]
-0A_A^A]_^
-0A_A^_
-0A_A^_^]
-0A__]
 0iN>/
-0v0b1
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
+11Y@
 1DBlend
-200527201129Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
+333?
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8A_A^
-9)~SH
-99~-H
-99~BH
-;D$0u
-;H9>&X
-;L$0u
-;l$0|
-;|$@|
-<	u"H
-< t;<	t7
+6>hh
 <sil>
+=cQ6
 =imb;D
+>cQ6
 >jtm}S
-?5zlO
 ?7zQ6$
-?:kP<
 ?CUtlString::FormatV
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
 ?UUUUUU
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
-@.data
-@.gfids
-@.tls
-@81u/H
-@85tM
-@8|$Pt
-@8|$^t
-@>%>b
-@A^A]A\
-@A^A]A\^]
-@A^_^
-@A_A^A\_^
-@A_A^A]A\_
-@A_A^[
-@A_A^_
-@A_^]
-@SAVAWH
-@SUAVH
-@SUVWH
-@SVAVH
-@SVWH
-@UATAUAVAWH
-@UATAVH
-@UAUH
-@UAVAWH
-@UAWH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVH
-@USVWH
-@USWH
-@UVAWH
-@UVWATAUAVAWH
-@UVWH
-@UWAWH
-@VWATAUH
-@WATAVH
-A81t@@8r
-A84.u
-A86taH
-A;@`}
-A;A`}
-A;Q`}
+?qBJ
+?ysB
 A>pP&
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ADVAPI32.dll
@@ -270,28 +136,12 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-ATAUAVH
-ATAVH
-ATAWH
-AVAWH
-A^A\]
-A^A\_^[]
-A^A]A\_]
-A^A]_^[]
-A^_^[]
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^]
-A_A^_
-A_A^_^]
 AbsolutePoseControl
 AddLayer
 Ago : lower-mid central unrounded vowel
 Ago : mid-central unrounded vowel
 Align
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -318,16 +168,12 @@ AnimationList
 April
 Ate : upper-mid front unrounded vowel
 August
-AuthE
 AutoLayer
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BaseIKRig
 BasePhysicsShape
-Bellevue1
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 Big : voiced alveolar stop
 BinaryProperties_GetValue
 BlendLayer
@@ -336,13 +182,10 @@ BlendLayerPoseParam
 BlendList
 BodyGroup
 BodyGroupChoice
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-C(D9#~7E
-C-yh/
-C8<(u
-C8H!o
 CAnimMotorList
 CAnimMovementManager
 CHin : voiceless postalveolar affricate
@@ -354,7 +197,7 @@ COLLISION_MODE_USE_NEAREST_TRACE
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CParticleSystemDefinition
 CSolveIKChainAnimNode
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
@@ -458,91 +301,40 @@ CreateFileW
 CreateInterface
 Cut : voiceless velar stop
 CycleOverride
-D$ !>;
-D$ E3
-D$ N&B:H
-D$ P-
-D$ d=
-D$ r|
-D$(E3
-D$(H;
-D$0mp
-D$0r|
-D$8H;
-D$8L9
-D$8r|
-D$@E3
-D$@H+
-D$@mp
-D$@r|
-D$HH;
-D$P"ZF
-D$PE3
-D$PH+
-D$PI;
-D$Pk@_aH
-D$Pmp
-D$XH;
-D$`E#
-D$`H;
-D$`Ll
-D$`r|
-D$hE3
-D$p 69
-D$p<L{
-D$pHK8
-D$x*>
-D08@t	
-D18 t
-D82u&H
-D85C	
-D8t$Ht
-D9n0~?E3
-D9|$ 
-D;n0|
-DD$$H
 December
 Default
 DeleteCriticalSection
 Dig : voiced alveolar flap or tap
 Dig : voiced bilabial stop
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DynamicConfigList
-E0C07
-E;~(H
-EP*?@
+ET5>
 EditorDynamicConfig
 EmptyAnim
 EnterCriticalSection
-Error:  In process recognizer object not installed?
-Error:  SAPI Cannot activate grammar rule. hr == %u
-Error:  SAPI Cannot add word transition to grammar rule.
-Error:  SAPI Cannot commit grammar.
-Error:  SAPI Cannot create grammar rule.
-Error:  SAPI Cannot load dictation grammar.
-Error:  SAPICannot set state for dictation grammar. hr=%u
-Error:  Stream object not installed?
-Error:  Unable to activate recognizer
-Error:  Unable to associate input stream
-Error:  Unable to close input stream
-Error:  Unable to create phoneme converter for English language id %i
-Error:  Unable to create recognizer context
-Error:  Unable to create recognizer grammar
-Error:  Unable to set interest level
-Error:  Unable to set win32 notify event
-Error:  couldn't extract WAVEFORMATEX * from intput data
-Error: couldn't open wav file %s
+Error:  In process recognizer object not installed?\n
+Error:  SAPI Cannot activate grammar rule. hr == %u\n
+Error:  SAPI Cannot add word transition to grammar rule.\n
+Error:  SAPI Cannot commit grammar.\n
+Error:  SAPI Cannot create grammar rule.\n
+Error:  SAPI Cannot load dictation grammar.\n
+Error:  SAPICannot set state for dictation grammar. hr=%u\n
+Error:  Stream object not installed?\n
+Error:  Unable to activate recognizer\n
+Error:  Unable to associate input stream\n
+Error:  Unable to close input stream\n
+Error:  Unable to create phoneme converter for English language id %i\n
+Error:  Unable to create recognizer context\n
+Error:  Unable to create recognizer grammar\n
+Error:  Unable to set interest level\n
+Error:  Unable to set win32 notify event\n
+Error:  couldn't extract WAVEFORMATEX * from intput data\n
+Error: couldn't open wav file %s\n
 ExitProcess
 February
 FindClose
 FindFirstFileExA
 FindNextFileA
-Finished.
+Finished.\n
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -552,8 +344,8 @@ Fork : voiceless labiodental fricative
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
+GCTL
 GenericGameData
-Genu3
 GetACP
 GetCPInfo
 GetCPUInformation
@@ -580,29 +372,10 @@ GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
 GetUserDefaultUILanguage
-H!D$ E
-H!T$0D
-H+\$h+
-H+\$hIc<$H
-H0F08
-H9uot	H
-H;\$P|
-HA_A\
-HA_A]A\_^[
 HH:mm:ss
-Hc.;n
-Hc/;o
-HcD$ H
-HcH<H
-HcK ;
-HcL$ H
-Hc]`M
-HckHL
 Help : breathy-voiced glottal fricative
 Help : voiceless glottal fricative
-Ht)I;
-Ht4<Xu[
-Hypothesized: %s
+Hypothesized: %s\n
 IKChain
 IKChainOld
 IKData
@@ -610,13 +383,12 @@ IKRig
 IKRigBiped
 IKRigBug
 IKRigSimple
-Ic4$A;t$
 IkLockLocal
 InitializeConditionVariable
 InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
 InitializeSListHead
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 IsDebuggerPresent
@@ -624,40 +396,24 @@ IsProcessorFeaturePresent
 IsValidCodePage
 January
 Joy : voiced postalveolar afficate
-K&>.yC
+July
+June
 KERNEL32.dll
-K~Je#>!
-L$ WATAUAVAWH
-L$ WH
-L$&@8t$&t0@8q
-L$0H;
-L$0fff
-L$8H3
-L$@E3
-L$@H3
-L9m(t	H
-L9ugt	H
+KL2H
+L>ev
 LCMapStringEx
 LCMapStringW
 LOG_GENERAL
-Lc'D;g
-Lc3D;s
-LcA<E3
-Lcl$ A
 LeaveCriticalSection
 Lid : velarized voiced alveolar lateral approximant
 Lid : voiced alveolar lateral approximant
 LinearDelta
-Lj[;>
 LoadLibraryExW
 LocaleNameToLCID
 LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-M H1E
-M$Hc^0;^@u	H
-MLc3D;s
 MM/dd/yy
 March
 Mat : voiced bilabial nasal
@@ -665,16 +421,15 @@ MathLib_Init
 Microsoft SAPI 5.x
 Monday
 MultiByteToWideChar
-N&B:H
 No : voiced alveolar nasal
 NoPoseControl
-Note:  Falling back to use english -languageid %i
-Note:  Using user specified -languageid %i
+Note:  Falling back to use english -languageid %i\n
+Note:  Using user specified -languageid %i\n
 November
-O(t(H
+OZQ%
 October
 Offset
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 OutputDebugStringW
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
@@ -694,7 +449,7 @@ PHONEME_EXTRACTOR_001
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
 PhonemeExtractor
-Phrase Start
+Phrase Start\n
 PhysicsBodyMarkup
 PhysicsBoneMarkup
 PhysicsFile
@@ -712,14 +467,16 @@ Plat_GetEnv
 Plat_IsInDebugSession
 Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
+Po5H
 PreviewAttachmentModel
 PreviewBoneAttachedModel
 PreviewBoneMergedModel
 PreviewPreset
 PreviewPresetList
-Processing...
+Processing...\n
 Put; voiceless alveolar stop
 QueryPerformanceCounter
+RSDS
 RaiseException
 Red : voiced alveolar approximant
 Red : voiced alveolar trill
@@ -736,9 +493,11 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
+S+Ot
+S9>H
+SAPI
 SHe : voiceless postalveolar fricative
 SSE and SSE2 are required.
-SVWATAUAWH
 Saturday
 September
 SequenceMarkup
@@ -752,16 +511,9 @@ SleepConditionVariableCS
 SmoothLoop
 Software\Microsoft\Speech\RecoProfiles
 StartLoop
-Starting:  %s
+Starting:  %s\n
 Subtract
 Sunday
-T$ A;
-T$ E3
-T$ Ic
-T$(E3
-T$0E3
-T$@E3
-T$pE3
 THen : voiced dental fricative
 THin : voiceless dental fricative
 TUUUU
@@ -782,29 +534,10 @@ Two Bone
 UPDATE_STRING_TOKEN_DATABASE
 URn : rhotacized lower-mid central vowel
 URn : rhotacized schwa
-USVWATAUAVAWH
-USVWAUAVH
-USVWAVH
 UUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVAWH
-UVWATAUAVAWH
-UVWAVAWH
-UWATAUAWH
-UWAVH
-UWAWH
 UnhandledExceptionFilter
-Unrecognized phoneme %s
-V6E>`"(5
+Unrecognized phoneme %s\n
 VSNAPFile
-VWATAUAVH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
 V_UTF32ToUTF16
 V_UTF8ToUTF16
 V_atofloat32
@@ -817,49 +550,31 @@ V_isnan
 V_stricmp_fast
 V_vsnprintfSize
 Val : voiced labialdental fricative
-Valve0
-Valve1
-WATAUAVAWH
-WAVAWH
 WakeAllConditionVariable
 Warning
-Warning:  Unable to create phoneme converter for command line override -languageid %i
-Warning:  Unable to create phoneme converter for default UI language %i
+Warning:  Unable to create phoneme converter for command line override -languageid %i\n
+Warning:  Unable to create phoneme converter for default UI language %i\n
 Wednesday
-WeightForPhoneme:: Unrecognized phoneme %s
+WeightForPhoneme:: Unrecognized phoneme %s\n
 WeightList
 WideCharToMultiByte
 With : voiced labial-velar approximant
 WriteConsoleW
 WriteFile
-Wu4E3
 X|(xi
-Y\&fgMO
 Yacht : voiced palatal approximant
 Zap : voiced alveolar fricative
-[ Hypothesis ] %s
-[ I No Signal ]
-[ I Noise ]
-[ I None ]
-[ I Too Fast ]
-[ I Too Loud ]
-[ I Too Quiet ]
-[ I Too Slow ]
-\$ ATAVAWH
-\$ H;
-\$ Hi
-\$ Ic
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ WH
-\$(Hc|$ H
-\$(L#
-\$0H;
-\$0L+
-\$@H;
+[ Hypothesis ] %s\n
+[ I No Signal ]\n
+[ I Noise ]\n
+[ I None ]\n
+[ I Too Fast ]\n
+[ I Too Loud ]\n
+[ I Too Quiet ]\n
+[ I Too Slow ]\n
+\nCwf\r
+\tkE>fvw
+]qBD
 _V_strncat
 _V_strncpy
 __based(
@@ -876,9 +591,6 @@ __unaligned
 __vectorcall
 _class
 _test_conversion_counter
-` +p^
-`.rdata
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -937,25 +649,23 @@ bUpdate
 blendamount
 blockLOS
 body_type
+bone
 bone_name
 bone_names
 bonemerge
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 burst_randomize
 burst_scale
-c [1>H'
-c(>\,
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\phonemeextractor\Retail\win64\phonemeextractor.pdb
-cAMDD
 cAt : semi-low front unrounded vowel
 cUt : lower-mid back unrounded vowel
 cable
@@ -986,11 +696,9 @@ dmg.explosive
 dmg.fire
 duration
 dynamic_interaction
-e0A_A^A]A\]
-e`A_A^A]A\_^]
+eF>t
 emitFromWorld
 enable_limit
-entiA
 error
 event_class
 event_keys
@@ -1003,20 +711,11 @@ explosive_damage
 explosive_radius
 fAther : low back unrounded vowel
 fAther : low front unrounded vowel
-fD9,Xu
-fD9,xu
-fD90t
-fD94Fu
-fD96u
-fD9<Hu
-fD9t$b
 fEEl : high front unrounded vowel
 fIll : high central unrounded vowel
 fIll : semi-high front unrounded vowel
 faceMergeAngle
 false
-ffffff
-fffffff
 force
 frame
 friction
@@ -1025,48 +724,31 @@ g_pMemAlloc
 game_class
 game_keys
 generic
+glow
 gravity
-hA^A\
-hA_A^A]A\_^[]
 handindex
 headtype
 health
 health_override
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
 ikdata
 ikrig
-ineIA
 invalid_parameter
 invert_orientation
 is_debris
-k HcKX;
-k0i0$
-k@_aH
-l$ 9Q
-l$ D9l$0|LH
-l$ VH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WAVAWH
-l$ WH
-l$0H+
-l$@E3
-l$XA+
 last_sniff
+lcQe
 length
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
-m0k0$
+mG4>
+mXr4
 m_Bone
 m_ChainData
 m_Children
@@ -1191,6 +873,7 @@ material
 maxHullVertices
 maxVerticesPerHull
 max_angle
+mesh
 meshes
 min_angle
 model_name
@@ -1225,19 +908,16 @@ modeldoc8
 modeldoc9
 multiplayer_break
 n03>Pu
+n\f"pA3Q(h
+name
 nav_attribute_avoid
 nav_data
-ntelE
 numsegments
 ole32.dll
 operator
 operator "" 
 origin_max_delta
 origin_relative
-ot$ H
-p AWH
-p0n05
-p1f3q>
 pEt : lower-mid front unrounded vowel
 parent_bone
 particle
@@ -1257,8 +937,7 @@ pose_control_type
 preferred_carryangles
 prop_data
 purecall
-r	Vr.>T
-r:D8v
+r\tVr.>T
 radius
 radius0
 radius1
@@ -1273,6 +952,7 @@ sequence_number
 shapeType
 siNG : voiced velar nasal
 silence
+size
 source_filename
 spawn_motion_disabled
 speed
@@ -1281,46 +961,24 @@ stop_instantly
 stop_on_seq_change
 suppress
 surface_prop
-t"<.u
-t$ A;
-t$ AVH
-t$ E3
-t$ UH
-t$ UWATAUAVH
-t$ WAVAWH
-t$ WH
-t$0D9t$@|LH
-t$8H+
-t$8Ic
-t$@Hc
-t$XE3
-t$`Hc
-t$`I;
-t*D8#t
-t.@8:t)
-t/D83t*
-t0@87t+
-t0D8;t+
 tOO : high back rounded vowel
-t]<-u
 taG : voiced velar stop
 test_angles_relative
 texturescale
 tier0.dll
-trD8(tmH
+true
 turn_rate
-u3HcH<H
-uf!T$(H!T$ 
 uniform_burst
 use_additional_offset
 uzKs@>
-v0t08
 value
 vanmgrph
+vmdl
 vmdlkeys0
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -1351,37 +1009,6 @@ vr_carry_type
 vsnap
 vstdlib.dll
 width
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x ATAVAWH
-x AV3
-x AVH
-x0v0$
-xRHcQ
-x_^][
-y\PD>!
 yaw_end
 yaw_start
-z0x0:
 {YIN?
-|$ A;
-|$ ATAVAWH
-|$ AVH
-|$ AWH
-|$ E3
-|$ UATAUAVAWH
-|$(A^
-|$(E3
-|$(I;
-|$0Hc
-|$0Ic
-|$8;3
-|$@H;
-|$PA;^ u
-|$\.u
-|$hA+
-|$pu&H
-|b=})>
-~!A;~

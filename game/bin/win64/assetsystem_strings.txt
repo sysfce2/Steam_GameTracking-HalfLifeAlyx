@@ -1,143 +1,58 @@
-					
-						
-								
-																									
-	!s99
-	#jT$
-	9$|~
-	CN:k
-	D8r4
-	NAN encountered in element '%s' guid %s attribute '%s'!
-	You can install the VWatch service by installing/updating VMPI from \\fileserver\vmpi
-	You can update your VWatch service by updating VMPI from \\fileserver\vmpi
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
- 	% t
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ@
         %3d %3d %3d %3d %3d %3d %3d %3d
         %4u %4u %4u %4u %4u %4u %4u %4u
-      AssetType[% 3d]: % 40s: %d assets
-      CAsset:                        %7d [ %7.2fMiB base + %7.2fMiB alloc ]
-      Dependency ReferencingMe Info: %7d [ %7.2fMiB base + %7.2fMiB alloc ]
+      AssetType[% 3d]: % 40s: %d assets\n
+      CAsset:                        %7d [ %7.2fMiB base + %7.2fMiB alloc ]\n
+      Dependency ReferencingMe Info: %7d [ %7.2fMiB base + %7.2fMiB alloc ]\n
       Mod%s[% 2d]: "%s"
-      Resource/MyReferences Info:    %7d [ %7.2fMiB base + %7.2fMiB alloc ]
-    %u iterated blocks
-    %u unfinished blocks
+      Resource/MyReferences Info:    %7d [ %7.2fMiB base + %7.2fMiB alloc ]\n
+    %u iterated blocks\n
+    %u unfinished blocks\n
     Component %d: %dhx%dv q=%d
     Component %d: dc=%d ac=%d
     with %d x %d thumbnail image
-  %u files initially, %u resolved files in whitelist (%u lines), %u files remaining
-  ( Full path: %s )
-  Bad Fax Lines: %lu
-  Consecutive Bad Fax Lines: %lu
-  Fax DCS: %s
+  %u files initially, %u resolved files in whitelist (%u lines), %u files remaining\n
+  ( Full path: %s )\n
+  Bad Fax Lines: %lu\n
+  Consecutive Bad Fax Lines: %lu\n
+  Fax DCS: %s\n
   Fax Data:
-  Fax Receive Parameters: %08lx
-  Fax Receive Time: %lu secs
-  Fax SubAddress: %s
+  Fax Receive Parameters: %08lx\n
+  Fax Receive Time: %lu secs\n
+  Fax SubAddress: %s\n
   Group 3 Options:
   Group 4 Options:
   Predictor: 
-  REASON: %s
+  REASON: %s\n
   Ss=%d, Se=%d, Ah=%d, Al=%d
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %41g
- 'L>[
- (%lu = 0x%lx)
- (%u = 0x%x)
- (%u assets, %u with overrides)
+ (%lu = 0x%lx)\n
+ (%u = 0x%x)\n
+ (%u assets, %u with overrides)\n
  (*MAYBE STALE*)
  (*NO CRC*)
  (Have CRC)
  (Not Stale)
  (Read-Only)
  (Writable)
- * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"
- - %s_c
- - pos
- - rot
- -- %s not being written.
- ----> No dependencies currently being written to.
- --> %s IS being written!
- -> On behalf of child: %s
- -> This likely indicates a disparity between the assetsystem and resourcecompiler's views of the hard disk. Perhaps you forgot to add an extension to (sdk)assettypes.txt?
- -> failed with error %d: %s
- -> reason: %s
- -o "
- -of 
+ * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"\n
+ -- %s not being written.\n
+ ----> No dependencies currently being written to.\n
+ --> %s IS being written!\n
+ -> On behalf of child: %s\n
+ -> This likely indicates a disparity between the assetsystem and resourcecompiler's views of the hard disk. Perhaps you forgot to add an extension to (sdk)assettypes.txt?\n
+ -> failed with error %d: %s\n
+ -> reason: %s\n
  -testmode
- 0@P`p
- 9D$pu/L
- ;_h|
- @SUATAUAWH
- @SUH
- A\_^
- A\_^][
- A]_^
- A]_^][
- A^A\_
- A^A]A\_[
- A^A]_^]
- A^][
- A^^[
- A^^]
- A^_[
- A^_]
- A^_^
- A^_^][
- A_A]A\][
- A_A]A\_^
- A_A]^
- A_A]^][
- A_A^A\
- A_A^A\^[
- A_A^A\^]
- A_A^A\_^
- A_A^A\_^][
- A_A^A]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_]
- A_A^A]_^
- A_A^]
- A_A^]H
- A_A^^
- A_A^^][
- A_A^_
- A_A^_H
- A_A^_^[
- A_A^_^]
- A_][
- A_^[
- A_^]
- A__]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- D;=9Y
- H3E H3E
- Hc)L
- Hc1H
- Hc2L
- Hc9H
- Hc:H
- HcAlH
- HciHH
- Hcq 3
- Hcq83
- HcqX3
- Hcq|
- Hct$PM
- HcyH3
  LZWSetupDecode
- Lc	M
  Type Descriptor'
  [ %f %f %f %f  %f %f %f %f  %f %f %f %f  %f %f %f %f ]
  but running with 
@@ -146,26 +61,12 @@
  delete
  delete[]
  fnumber=%d ofs=0x%x sz=%d
- new[]
+ new
  receiver regenerated
- t'E3
- t?D9
- tDE3
- tQD8c:u0M
  uncorrected errors
- vJH+
-!!!!!!
-!!!!!!!!
-!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!
-!,X< w
 !1AQaq
 != (or missing)
-!>6'Y
-!H9q H
-!LcK@
-!T$(H!T$ 
+!AxU
 !V_strcmp( m_NextExpectedRecompileReason.Get(), GetCompileStateReason_Transient() )
 !V_strcmp( pBaseWavThenLeafMP3->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/base/base_wav_then_leaf_mp3.wav" )
 !V_strcmp( pBaseWavThenLeafMP3_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/leaf/base_wav_then_leaf_mp3.mp3" )
@@ -175,7 +76,6 @@
 !V_strcmp( pMP3ThenWAV_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_mp3_then_wav.mp3" )
 !V_strcmp( pWAVThenMP3_First->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_wav_then_mp3.wav" )
 !V_strcmp( pWAVThenMP3_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_wav_then_mp3.mp3" )
-!hn7!
 !name
 !pBaseWavThenLeafMP3->HasFileInLocation( ASSET_LOCATION_GAME )
 !pBaseWavThenLeafMP3_Second->HasFileInLocation( ASSET_LOCATION_GAME )
@@ -188,43 +88,31 @@
 !pWAVThenMP3_Second->HasFileInLocation( ASSET_LOCATION_GAME )
 !type
 !type_raw
-" -ie 
-" -oe 
-""""UUUU
-"%s" 
-"%s" "
-"%s" "%.10f"
-"%s" "%d"
-"%s" "%f"
-"%s" "%s"
-"%s" "%s" 
-"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"
-"%s" "[ %f %f %f %f ]"
-"%s" "[ %f %f %f ]"
-"%s" "[ %f %f ]"
-"%s" "{ %d %d %d }"
+"%s" "%.10f"\n
+"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"\n
+"%s" "[ %f %f %f %f ]"\n
+"%s" "[ %f %f %f ]"\n
+"%s" "[ %f %f ]"\n
+"%s" "{ %d %d %d }"\n
 "%s" has no corresponding content file
 "%s" missing dependency "%s:%s"
 "%s": Bad mode
 "%s": Information lost writing value (%g) as (unsigned) RATIONAL
 "2BRbr
-"ActBusy.txt"
-"I		M
+"ActBusy.txt"\n
 "Predictor" value %d not supported
-"Proxies"
+"Proxies"\n
 "channels" attribute not found in the header.
 "compression" attribute not found in the header.
 "dataWindow" attribute not found in the header or invalid.
 "displayWindow" attribute not found in the header.
 "e?<<<<<<l?
-"f9;t
 "id" "elementid" 
 "lineOrder" attribute not found in the header.
-"pA3Q
 "pixelAspectRatio" attribute not found in the header.
 "screenWindowCenter" attribute not found in the header.
 "screenWindowWidth" attribute not found in the header.
-# of channels is zero.
+# of channels is zero.\n
 #3CScs
 #bML"
 #base
@@ -235,56 +123,45 @@ $4DTdt
 $Ib?s
 $prefix_attribute$
 $prefix_element$
-%-40s	%6d	%9d		%5.2f
+%-40s\t%6d\t%9d\t\t%5.2f
 %.100s: Can not read TIFF directory
 %.15lf
-%05d,     0x%p,     %5d,      '%s'
+%02X
+%05d,     0x%p,     %5d,      '%s'\n
+%1t7
 %5EUeu
-%@8t$`t
-%GoU?*
-%d %d %d
 %d %d %d %d
-%d,%d
-%d,%d,%d
 %d,%d,%d,%d
 %d_%lld_%x.dmx
 %d_%lld_%x_in.dmx
-%f %f
-%f %f %f
 %f %f %f %f
 %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
 %i %i %i %i
 %i.txt
 %ld%c
+%lld
+%llu
+%llx
 %lu: Row out of range, max %lu
 %lu: Sample out of range, max %lu
-%s	%s
 %s %s decoding is not implemented
 %s %s encoding is not implemented
-%s (%d)
 %s (%s -> %s)
 %s (%s) = remove( pos %i, count %i )
-%s - %s
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
-%s allocation count overflow( %llu >= %llu )
-%s allocation count overflow( add %llu + current %llu > max %llu )
+%s allocation count overflow( %llu > %llu )\n
+%s allocation count overflow( %llu >= %llu )\n
+%s allocation count overflow( add %llu + current %llu > max %llu )\n
 %s channel
 %s compression support is not configured
-%s encoding %s %d format %s %d %s
-%s failure
-%s#%d
+%s encoding %s %d format %s %d %s\n
+%s failure\n
 %s%s%s crc=0x%x metadatasz=%d
-%s%s/%s
-%s%s/%s_c
-%s%s\*.*
-%s(%d) : %s
-%s(%s)
+%s(%d) : %s\n
 %s(%s) = %s
-%s--> NO ASSET FOUND: %s
-%s--> NO FILE(s): %s
+%s--> NO ASSET FOUND: %s\n
+%s--> NO FILE(s): %s\n
 %s2-d encoding
-%s: %s
 %s: %s at line %u of %s %u (got %u, expected %u)
 %s: Bad code word at line %u of %s %u (x %u)
 %s: Bad field type %d for "%s"
@@ -297,7 +174,7 @@ $prefix_element$
 %s: Cannot modify tag "%s" while writing
 %s: Data buffer too small to hold strip %lu
 %s: Decoding error at scanline %d, %s
-%s: Element uses unknown element type %s
+%s: Element uses unknown element type %s\n
 %s: Encoder error: %s
 %s: Error writing SubIFD directory link
 %s: Failed to allocate space for list of custom values
@@ -330,273 +207,82 @@ $prefix_element$
 %s: cannot handle zero strip size
 %s: cannot handle zero tile size
 %s: invalid TIFF directory; tags are not sorted in ascending order
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s: unknown field with tag %d (0x%x) encountered
 %s: wrong data type %d for "%s"; tag ignored
 %s: zlib error: %s
-%s:%s
 %sEOL padding
-%sScanning for Asset Files (%d/%d): '%s' = %s, previously scanned %u directories and %u files
-%s\%s
+%sScanning for Asset Files (%d/%d): '%s' = %s, previously scanned %u directories and %u files\n
+%s\nUnable to find running VWatch service. Client expected version %lu. Running without VWatch performance benefits.\n\tYou can install the VWatch service by installing/updating VMPI from \\fileserver\vmpi\n
 %s_%03d.vpk
 %suncompressed data
-%u (0x%x)
 &6FVfv
 &?PPPPPPP?
-&D;j0u
-&L9cx
-&YA1A
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-' |m 
-'":|;
-'%s' has %s '%s' in unrecognized mod '%s'.
-'%s' has %s '%s' with invalid mod index %d.
-'%s' has %s '%s' without a mod.
-',=?k
+&Sgw
+'%s' has %s '%s' in unrecognized mod '%s'.\n
+'%s' has %s '%s' with invalid mod index %d.\n
+'%s' has %s '%s' without a mod.\n
 '7GWgw
-'D8l$@
 ( 8PX
 ( nMissedPoints == 0 )
-(%d,%d
-(%d,%d,%d
 (%d,%d,%d,%d
 ('8PW
-(*%s*), 
 (8HXhx
-(A]A\^]
-(A^A\
-(A^A]A\]
-(A^A]_[H
-(A^A]_^
-(A^^][
-(A_A\_^][
-(A_A]A\_
-(A_A^
-(A_A^A]A\_^][
-(A_A^A][
-(A_A^A]^
-(A_A^_[
-(A_A^_^][
-(A__^]
-(D$ A
-(D$ H
-(D$ f
-(D$0A
-(D$0H
-(D$0z	u
-(D$@D
-(D$@L
-(D$PD
-(D$`H
 (Dev command - regenerate the asset sort indicies)
-(Hc3;s
-(L$ D
-(L$0D
-(L$@I
-(L$PD
-(L$PH
-(L$`D
-(L$pD
-(T$ D
-(T$ H
-(T$0H
-(T$@D
-(T$PD
-(T$`D
-(T$`L
-(T$pD
-(T?j?Y
-(\$0D
-(\$@D
-(\$PD
-(\$`D
-(_^][
 (async) 
-(d$ D
-(d$ L
-(d$0D
-(d$@D
-(d$PD
-(f*^[0
-(l$ D
-(l$0D
-(l$@D
 (null)
-(t$ D
-(t$ H
-(t$ L
-(t$0@
-(t$0D
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$PE
-(t$PH
-(t$PL
-(t$Ps
-(t$`A
-(t$`H
-(t$`L
-(t$pD
-(t$pH
-(|$ D
-(|$ H
-(|$ L
-(|$ s.L
-(|$0D
-(|$0H
-(|$0I
-(|$@D
-(|$@E
-(|$@H
-(|$@I
-(|$PD
-(|$pL
-)9C }
 )9IYiy
-)>6{1n
-)D$ L
-)D$0A
-)D$0D
-)D$0H
-)D$0L
-)D$@D
-)D$PD
-)D$PH
-)D$`D
-)L$ D
-)L$0D
-)L$0E
-)L$@D
-)L$PE
-)L$pD
-)T$0Hc
-)\ZEo^m/
-)d$PE
-)d$`D
-)d$pD
-)l$0z
-)l$PD
-)l$`D
-)t$ 9A
-)t$ A
-)t$ E3
-)t$ H
-)t$ H+
-)t$ I
-)t$ L9cxu3H
-)t$ t
-)t$ u
-)t$0A
-)t$0C
-)t$0E
-)t$0H
-)t$0L
-)t$0f
-)t$@%
-)t$@A
-)t$@H
-)t$@L
-)t$@f
-)t$PA
-)t$PD
-)t$PH
-)t$PL
-)t$`A
-)t$pE
-)t$pH
-)|$ t
-)|$@L
-)|$PD
-)|$`D
-)|$pD
-)|B?d!
-* %d asset types:
-* %d assets in database, size per CAsset %u
-* %d mods (%d unrecognized):
-* %llu files CRC'ed
-* %llu paths registered, %u unique root paths, %u unique mod names, %u unique in-mod paths, %u unique base filenames, %u unique extensions
-* %llu stats satisfied from asset info, %llu stats from the filesystem
-* %u assets not in a mod/without any files
-* %u unique edit info keys (%llu registered), %u unique misc strings (%llu registered)
-* ==> Total assetsystem memory usage: ~%.2fMiB
-* Asset info saved %llu times
-* ~%.2fMiB additional used by asset system
-*** Converter error - element "%s" already has a non-int attribute "%s"!
-*** Element "%s" has attribute "%s" with an unexpected type!
-*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!
-*** Log "%s" is missing attribute "%s"!
+)yIx
+* %d asset types:\n
+* %d assets in database, size per CAsset %u\n
+* %d mods (%d unrecognized):\n
+* %llu files CRC'ed\n
+* %llu paths registered, %u unique root paths, %u unique mod names, %u unique in-mod paths, %u unique base filenames, %u unique extensions\n
+* %llu stats satisfied from asset info, %llu stats from the filesystem\n
+* %u assets not in a mod/without any files\n
+* %u unique edit info keys (%llu registered), %u unique misc strings (%llu registered)\n
+* ==> Total assetsystem memory usage: ~%.2fMiB\n
+* Asset info saved %llu times\n
+* ~%.2fMiB additional used by asset system\n
+*** Converter error - element "%s" already has a non-int attribute "%s"!\n
+*** Element "%s" has attribute "%s" with an unexpected type!\n
+*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!\n
+*** Log "%s" is missing attribute "%s"!\n
 *** No resource/reference info!
-*** Problem in converter encountered!
-*** Problem in file encountered!
-*** Setting new attribute "%s" to 0
-*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!
-*** TimeFrame "%s" is missing attribute "%s"!
-*** Unable to find or add attribute "%s" to element "%s"!
-*** line %d: Bad command "%s"!
-*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!
-*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!
-*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!
-*** line error: incompatible packmode change when %d sequences already defined!
-*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!
-*9Z9N
+*** Problem in converter encountered!\n
+*** Problem in file encountered!\n
+*** Setting new attribute "%s" to 0\n
+*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!\n
+*** TimeFrame "%s" is missing attribute "%s"!\n
+*** Unable to find or add attribute "%s" to element "%s"!\n
+*** line %d: Bad command "%s"!\n
+*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!\n
+*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!\n
+*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!\n
+*** line error: incompatible packmode change when %d sequences already defined!\n
+*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!\n
+*5KS
 *:JZjz
-*Hc3;s
 *StO9>T
-+;K[k{
-+A$Hc
-+B$Hc
-+C$Hc
-+C$Lc
-+D$ fE
-+D$HH
-+F$Hc
-+G$Hc
-+J$D8M@
-+L$0A
-+M<7>
-+T$4E
-+Xt@(
-+f)>0'
-+h->|
-+o'q)}
-+|$XD
++inf
 , channels = 
 , height = 
-,!fA;
-,.D;(
-,/<-w
-,/D;(
-,/D;)
-,/D;*
-,0<	w
-,7D;(
-,7D;)
-,<L\l|
 ,HR>O
-,I<%w
-,Ic|$
-,W5y+
-,t0D9J0v*L
----- dmxconvert cmdline ----
----- dmxconvert output ----
----------------------------
--=M]m}
--> Discarding child %d replacement '%s'
+---- dmxconvert cmdline ----\n
+---- dmxconvert output ----\n
+---------------------------\n
+-> Discarding child %d replacement '%s'\n
 -AssetTargetGameRoot
 -BH>t
 -allowasyncfilescan
 -allreadonlyassets
 -asyncassetscan
+-avx
 -buildallcontentreadonly
 -filterassetfiles
--filterassetfiles missing filename
--filterassetfiles unable to open '%s'
+-filterassetfiles missing filename\n
+-filterassetfiles unable to open '%s'\n
+-inf
 -noassert
 -noassetinfoload
 -nop4
@@ -605,6 +291,7 @@ $prefix_element$
 -publiccontent
 -readonlyexceptcoreandleafiest
 -readonlyexceptleafiest
+-rgb
 -rgba
 -saveonlyleafiestassets
 -savereadonlyassets
@@ -612,16 +299,13 @@ $prefix_element$
 -sse3
 -sse4
 -testmode
--uNI;
 -validatereadonlyassets
 -vwatch
 -vwatch_disabled
 -vwatch_locking
 -vwatch_not_required
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU?$_InitialTaskHandle@XV<lambda_5a9ef80d79df7873994019ff15dceae5>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_60c5de84e69e46aa92419d47e2f3ad51>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_85226a1ade6d27c19b16702c44b1a394>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
@@ -1197,22 +881,12 @@ $prefix_element$
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$ z)u'
-.D$ z7u5
-.D$$z
-.D$$z)u'
-.D$(z
-.D$,z
-.D$Hz
-.D$Lz
-.D$Tz
-.D$Xz
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -1223,99 +897,54 @@ $prefix_element$
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .vmat
+.vpk
 .xJ>Hf
 .xdata
 .xdata$x
-// 						"BA_INT_AMBUSH"		someone please define this - I have no idea what it does
-// 						"BA_INT_COMBAT"		break out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached
-// 						"BA_INT_DANGER"		break out of this anim only if threatened
-// 						"BA_INT_NONE"		break out only when time runs out. No external influence will break me out.
-// 						"BA_INT_PLAYER"		break out of this anim if I can see the player, or I'm threatened
-// 	"busy_anim"			"Activity Name".
-// 	"busy_sequence"		"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.
-// 	"entry_anim"		"Activity Name"
-// 	"entry_sequence"	"Sequence Name". If specified, this is used over the entry anim.
-// 	"exit_anim"			"Activity Name"
-// 	"exit_sequence"		"Sequence Name". If specified, this is used over the exit anim.
-// 	"interrupts"		One of:
-// 	"max_time"			"Maximum time to spend in this busy anim"	0 = only stop when interrupted by external event
-// 	"min_time"			"Minimum time to spend in this busy anim"
-// "act busy name"		This is the name that a mapmaker must specify in the hint node.
+// "act busy name"\t\tThis is the name that a mapmaker must specify in the hint node.\n
+// \t"busy_anim"\t\t\t"Activity Name".\n
+// \t"busy_sequence"\t\t"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.\n
+// \t"entry_anim"\t\t"Activity Name"\n
+// \t"entry_sequence"\t"Sequence Name". If specified, this is used over the entry anim.\n
+// \t"exit_anim"\t\t\t"Activity Name"\n
+// \t"exit_sequence"\t\t"Sequence Name". If specified, this is used over the exit anim.\n
+// \t"interrupts"\t\tOne of:\n
+// \t"max_time"\t\t\t"Maximum time to spend in this busy anim"\t0 = only stop when interrupted by external event\n
+// \t"min_time"\t\t\t"Minimum time to spend in this busy anim"\n
+// \t\t\t\t\t\t"BA_INT_AMBUSH"\t\tsomeone please define this - I have no idea what it does\n
+// \t\t\t\t\t\t"BA_INT_COMBAT"\t\tbreak out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached\n
+// \t\t\t\t\t\t"BA_INT_DANGER"\t\tbreak out of this anim only if threatened\n
+// \t\t\t\t\t\t"BA_INT_NONE"\t\tbreak out only when time runs out. No external influence will break me out.\n
+// \t\t\t\t\t\t"BA_INT_PLAYER"\t\tbreak out of this anim if I can see the player, or I'm threatened\n
 /2GG>!B
-/>58d%
-/?O_o
 /AssetSystemSuspendFileChanges
-/L9kx
+/P8i
 /TF<)VGy#WH
+/yQA
 0 0 0
+0000
 00000000-0000-0000-0000-000000000000
 00003333
 0123456789ABCDEF
 0123456789ABCDEFundefined
 0123456789abcdefghijklmnopqrstuvwxyz
-0><[cZUg^>
-0A\_]
-0A]A\_
-0A]A\_][
-0A]^[
-0A]^]
-0A]_[
-0A^A\]
-0A^A\_
-0A^A\_^[
-0A^A]A\
-0A^A][
-0A^A]]
-0A^A]_^]
-0A^^[
-0A^_[
-0A^_^
-0A_A]A\_]
-0A_A]]
-0A_A]_][
-0A_A^A\
-0A_A^A\H
-0A_A^A\_[
-0A_A^A\_^
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_[
-0A_A^A]_^
-0A_A^A]_^][
-0A_A^]
-0A_A^]H
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_^]
-0A__[
-0A__]
-0A__^
-0Hc9H
+0E>X
 0X8b?~
-0_^[H
 0iN>/
-0w0c1
 0x%llx
-0}0i1
 1#IND
 1#INF
 1#QNAN
@@ -1324,307 +953,71 @@ $prefix_element$
 1.2.7
 1.5.13
 1.5.2
+1000
+11Y@
 123456789
-130801120000Z
 16-byte data pool
-1<.	/>:
 1A26b
-1D;Ew|
 1DBlend
 1eaB@
 1wsHp
-210429000000Z
-211007000000Z
-220323000000Z
-220329000000Z
-220506232045Z0/
-241009235959Z0a1
-2@8o\
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
-2Hc+;k
-2I9FPt
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
-2xJK7*L
-330314235959Z0L1
-33333333H+
-360428235959Z0i1
-370322235959Z0c1
-380115120000Z0b1
-3;D$@wpA
-3;D$DwuA
+2\r52t
+2\vpH
+3 FB
+3333
+37>k
 3>N;kU
 3>fvw
-3A8A#
-3mq+<
+3?tr
 4-byte data pool
-40A;o
-4HA;x
-4ND;{
-5@8|$"t.9|
-5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+51>W
+52F*
+5\fE5
 5sfm_v8
-6*f(_
 64 283 0
-6H9kxu3H
-6I]Dc
-6OB,n_
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-70503
-7HcD$P
-7L9!t
-8#uaH
+7>I0
+7?GX
+7~8A
+7~xh
+8&Kx
 8-byte data pool
-80tWD
-8:tVH
-8A;>|
-8A\^H
-8A^A\][
-8A^A]_^][
-8A^^][
-8A^_^[
-8A_A\
-8A_A]A\[
-8A_A^
-8A_A^A]A\_^][
-8A_A^^[
-8A_A^_[
-8A_A^_]
-8D$ u+I
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
-8GbthH
-8Hc^0;^@u	H
-8L$`t
-8Q@tKH
-8QAtLH
-8Y*t.L
-8Y0t]
-8\$PD
-8\$Pt
-8\$`t
-8\$pt
-8\$xt
-8_^][
 8b  16-May-2010
-8fF9|
 8ke?;
-9)~vH
-9)~zH
-91t0H
-91~/E3
-91~XH
-98~03
-99C }
-99~-H
-99~BH
-99~CH
-99~EH
-9;~<ff
+8pB%
+9>70
 9>powf
-9?~VL
-9C |K
-9D$ u
-9D$(}y
-9D$@t
-9D$lu
-9D$x~
-9D$|u
-9G$vAD
-9GXu2Lc
-9GXuCHc
-9Gdr:
-9HXu*H
-9P$u.9
-9Sxv'L
-9W8~j
-9WP~GM
-9WP~HM
-9WP~KM
-9X@u4
-9Y8~VH
-9YD~/3
-9Yh~WH
-9\$`~[
-9^(~@H
-9^<~.
-9^<~0f
-9^<~1
-9^<~2
-9^<~3
-9^<~5
-9_ ~d3
-9_ ~fH
-9_8~h
-9_<~DH
-9_<~HH
-9_<~LH
-9_<~fH
-9_D~/3
-9_D~H3
-9_P~OE3
-9_p~$
-9i<~O
-9i@~VH
-9k8~FH
-9k8~QH
-9k8~_H
-9k@~dH
-9l$ ~aL
-9o@~^H
-9oP~2E3
-9oP~3E3
-9q|~2H
-9s@~DH
-9s@~HH
-9s@~IH
-9s@~JH
-9s@~W3
-9s@~Xfff
-9s@~bH
-9sHva
-9sLv|
-9sP~W3
-9t	A;
-9t$@t+H
-9t$@~0H
-9t$@~7H
-9t$P~58
-9t$Xt
-9u@u	H
-9w@~IH
-9w@~QH
-9wP~IL
-9xKHc
-9y8~YM
-9y@~ZL
-9{(~wH
-9{0~*D
-9{\~9H
-9{`~<
-9|$0~<H
-9|$X}
-9}@~HH
-9~@~3
-9~@~7
-9~@~;
-9~P~3
-9~P~7
-9~P~;
-:#u0A
-:>)*	v
-:>t6k'
-:Hc{h;{xu
+9a&g
 :readonly_
-:u,f9Q
-;*t!H
-;.u1L
-;8u-3
-;:u"H
-;:uLH
-;=u~H
-;A ~W
-;B$vUH
-;B$vvI
-;Ct~EH
-;Ct~MH
-;Ct~ZH
-;Ct~bH
-;Cxr(H
-;CxsR
-;D$0u
-;D$@@
-;D$XwrA
-;D$`@
-;D$`u
-;D$hu
-;H9>&X
-;L$0u
-;QTv	
-;SL|3
-;T$hu
-;Vl}fD
-;\$ |
-;\$8|
-;\$@|
-;\$`|
-;\$p|
-;l$ |
-;l$0|
-;l$hr
-;t$Hu 
-;t$H|
-;t$Xu 
-;|$ |
-;|$0}	
-;|$8|
-;|$@|
-;|$P|
-<	_tVE3
-<	u"H
-<	vN<
-<	vO<
-<	w	@
-< t;<	t7
-< tH<	tD<
+;1cb
 <!-- DMXVersion
-<!-- dmx
-<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->
+<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
 <!-- schema 
-<"xi 
-<$E;Q
-<0:08
-<;CL}_Ic
-<>#n2
-<DuBfff
 <ERROR>
-<Hc{0;{@u	H
 <NULL>
-<\u!L
-<atc<r
 <deferred>
-<dt <it
-<dtk<itg<uu
-<ft_<lu
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <sqrt
 <unconnected>
-<uuNI
-<xuCA
-<}wWH
+=1cb
+=87M
 == (or missing)
-==== AssetSystemTest Complete! ====
-======
-=SPB8
-=SPB8t
+==== AssetSystemTest Complete! ====\n
+=cQ6
+=e2m
 =imb;D
-=rIQU
->%.04f
->@t;H
 >Failed to save unsupported class
->Mp$d
->ffffff
+>cQ6
 >jtm}S
->n5QO_K
 ?!5WOo
-?*u8H
-?*u:H
-?+>^m
 ?49HoKC
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
-?<!t	3
-?<!u*H
-?<!uEH
-?<!uQH
-?<"t>H
-?<%u	H
 ??0CThreadEvent@@QEAA@_N@Z
 ??0CThreadFullMutex@@QEAA@_NPEBD00@Z
 ??0CThreadRWLock_FastRead@@QEAA@_N@Z
@@ -1641,9 +1034,7 @@ $prefix_element$
 ?ConMsg@@YAXPEBDZZ
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
 ?ConvertIn@CBufferString@@QEAAPEBDPEB_WH_N@Z
-?Cu0f9w
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
 ?EncounteredComplexReadLockOperation@CThreadRWLock_FastRead@@IEAA_NI_NPEBDH@Z
 ?EnsureTrailingSlash@CBufferString@@QEAAPEBDD_N@Z
 ?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
@@ -1655,7 +1046,6 @@ $prefix_element$
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
 ?Format@CBufferString@@QEAAHPEBDZZ
-?H33H
 ?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
@@ -1667,7 +1057,6 @@ $prefix_element$
 ?MakeAbsolutePath@CBufferString@@QEAAPEBDPEBD0@Z
 ?MakeRelativePath@CBufferString@@QEAAPEBDPEBD0@Z
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?Relinquish@CBufferString@@QEAAPEADW4EAllocationOption_t@1@@Z
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
@@ -1684,7 +1073,6 @@ $prefix_element$
 ?StripExtension@CBufferString@@QEAAPEBDXZ
 ?StripTrailingSlash@CBufferString@@QEAAPEBDXZ
 ?Swap@CBufferString@@QEAAXAEAV1@@Z
-?TY,>5
 ?ToLowerFast@CBufferString@@QEAAXH@Z
 ?TruncateAt@CBufferString@@QEAAPEBDH_N@Z
 ?UUUUUU
@@ -1700,265 +1088,23 @@ $prefix_element$
 ?WaitForRead@CThreadRWLock@@AEAAXXZ
 ?f`Y4
 ?kxG2)
+?lZE
+?mdl
+?qBJ
+?rAj
 ?sqrtf
-?u='@
-?{Q}<
-@ K9D&
-@%.10f
-@%w	D
-@(A+@4;
-@.data
-@.gfids
-@.tls
-@09D$0
-@8,2u
-@80t9H
-@80u#H
-@81trM
-@81u/H
-@85HT
-@8k|t"HcK
-@8l$8t
-@8q}u*@8t$`t
-@8t$`t
-@8t$p@
-@8x tF@8
-@8x u
-@8x|H
-@8y:t
-@8{Xu
-@8{Yt
-@8{Yu
-@8{ht
-@8{pt
-@8{qt
-@8{rH
-@8|$Pt
-@8|$PtN
-@8|$PtP
-@8|$^t
-@8|$`t
-@8|$ju2H
-@8|$ku	H
-@8~@H
-@8~AH
-@;k@|
-@>%>b
-@@H9(t%I
-@A\^]
-@A]A\^
-@A]^[
-@A]_^][
-@A^A\]
-@A^A\_^]
-@A^A]A\
-@A^A]A\^]
-@A^A]A\_]
-@A^A]A\_^
-@A^A]]
-@A^_[
-@A^_^
-@A^_^][
-@A_A\_
-@A_A]^
-@A_A]^][
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A\_^][
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^^
-@A_A^_
-@A_A^_^]
-@A__^
-@HcC(H
-@Hcy03
+?ysB
 @Integer overflow in %s
-@Lc:E3
-@SATAVAWH
-@SAUAVAWH
-@SAUAVH
-@SAUH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAUH
-@SUATAVH
-@SUAUH
-@SUAVH
-@SUAWH
-@SUVAUAWH
-@SUVAVAWH
-@SUVAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWATH
-@SUVWAUH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAUH
-@SUWH
-@SVATAUAVH
-@SVATAVAWH
-@SVAUH
-@SVAVAWH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWATAUH
-@SVWATAVH
-@SVWAVAWH
-@SVWAVH
-@SVWAWH
-@SVWH
-@SWATAUAVH
-@SWATAVH
-@SWAUAVAWH
-@SWAUAVH
-@SWAUH
-@SWAVAWH
-@SWAVH
-@SWAWH
 @Tools
-@UATAUAVAWH
-@UATAUAVH
-@UATAVH
-@UATAWH
-@UATH
-@UAUAVAWH
-@UAUAVH
-@UAUAWH
-@UAUH
-@UAV3
-@UAVAWH
-@UAVH
-@UAWH
-@USAUH
-@USAVH
-@USVATAWH
-@USVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAUH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWATAUAWH
-@USWATAVH
-@USWAVH
-@USWH
-@UVATAUH
-@UVATAVAW
-@UVATAVAWH
-@UVATAVH
-@UVAUAVH
-@UVAUH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWAWH
-@UVWH
-@UWATH
-@UWAVH
-@UWAWH
-@VATH
-@VAUAVAWH
-@VAUAWH
-@VAUH
-@VAVAWH
-@VAVH
-@VAWH
-@VWATAUAVH
-@VWATAVAWH
-@VWATAVH
-@VWAVH
-@WATAUAVAWH
-@WATAUAWH
-@WATAUH
-@WATAVH
-@WATH
-@WAUH
-@WAVAWH
-@WAWH
-@X9CXu
 @^8U)zj
-@b;zO]
 @child_asset
-@fA9<
 @inherited_asset
 @no_content_asset
 @overridden_asset
 @readonly_asset
 @unreferenced_by_content_asset
-A 9D1
-A H9F
 A!;I2
-A$+A,t[3
-A(9B(D
-A(I;E
-A(fB9
-A)|$HA
-A+@$H
-A+F$D
-A+F$H
-A+F$Hc
-A+G$E
-A+G$Hc
-A+U$H
-A+n H
-A,A9A(v&L
-A,fA;
-A,u+H
-A03>A|
-A0H9P
-A0H9i8u
-A0I;E
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A96u(
-A9D$|s[
-A9FHt
-A9FHtQI
-A9L$H
-A9U8tCMc]<McE@Lc
-A9Z<~bL
-A9v@t
-A9w@t
-A9~@t
-A:(uiI
-A;6}#I
-A;@X}
-A;@`}
-A;AX}
-A;A`}
-A;BX}
-A;B`}
-A;H$s
-A;H$v}H
-A;L$0v#A
-A;Q`}
-A;RX}
-A;Z<|
-A;^@|
-A;v I
-A;wD|
-A;}(u
-A>l$/
 A>pP&
-A@H98t%H
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 AE_ACTION_SET_TURN_RATE_SCALE
@@ -1992,20 +1138,18 @@ AE_VORTIGAUNT_ZAP_POWERUP
 AE_VORTIGAUNT_ZAP_SHOOT
 AE_ZOMBIE_POPHEADCRAB
 AE_ZOMBIE_TOGGLE_HEAD
-AHcE H
 AIWalkable
 AK>(v
 ALIGN_TYPE is wrong, please fix
-AMAgu
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
-ASSETS: File extension symbol table is over half full (%llu)
-ASSETS: File name symbol table is over half full (%llu)
-ASSETS: Mod name symbol table is over half full (%llu)
-ASSETS: Relative dir symbol table is over half full (%llu)
-ASSETS: Root path symbol table is over half full (%llu)
+ASSETS: File extension symbol table is over half full (%llu)\n
+ASSETS: File name symbol table is over half full (%llu)\n
+ASSETS: Mod name symbol table is over half full (%llu)\n
+ASSETS: Relative dir symbol table is over half full (%llu)\n
+ASSETS: Root path symbol table is over half full (%llu)\n
 ASSET_DISABLE_VWATCH
 ASSET_EDIT_INFO_DATA_TYPE_COUNT
 ASSET_EDIT_INFO_FLOAT
@@ -2027,89 +1171,13 @@ ASSET_FILTER_LESS
 ASSET_FILTER_LESS_EQUAL
 ASSET_FILTER_NOT_EQUAL
 ASSET_FILTER_NOT_EQUAL_OR_MISSING
-ATAUAVH
-ATAUAWH
-ATAUH
-ATAVAWH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-AUAVAWH
-AUAWH
-AVAWH
-AX9CXu
-AX9GXu
-A\_^[]
-A\_^]
-A]A\][
-A]A\^]
-A]A\_]
-A]A\_^[
-A]A\_^]
-A]_[]
-A]_^[]
-A]_^]
-A^A\]
-A^A\^]
-A^A\_[]
-A^A\_^[
-A^A\_^[]
-A^A\_^]
-A^A]A\]
-A^A]A\^]
-A^A]A\_]
-A^A]A\_][
-A^A]A\_^[
-A^A]A\_^[]
-A^A]]
-A^A]^]
-A^A]_[]
-A^A]_^[]
-A^^][
-A^_^[
-A^_^[]
-A^_^]
-A^_^][
-A_A\^
-A_A\_^]
-A_A]A\[]
-A_A]A\_^
-A_A]]
-A_A]^]
-A_A^A\
-A_A^A\[
-A_A^A\^]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\
-A_A^A]A\[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_[]
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^]
-A_A^]
-A_A^^
-A_A^_
-A_A^_]
-A_A^_^[
-A_A^_^]
-A__^[
-A__^[]
-A`D9L8
-Abandoning deferred file change for %s after %u attempts
+Abandoning deferred file change for %s after %u attempts\n
 AbsolutePoseControl
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
@@ -2117,12 +1185,10 @@ ActBusy Script File
 ActBusyList
 ActiveArea
 AddLayer
-AddUndoElement '%s'
+AddUndoElement '%s'\n
 Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
 AdobeDeflate
 Ahd=<c]^7if1Rjg
-AjEB#AZ
-AjfD;
 Align
 All %d parents of this child resource are orphans or leafier than it.
 All Assets
@@ -2131,6 +1197,7 @@ Alpha Fade Out Random
 Alpha Fade and Decay
 Alpha Random
 AnalogBalance
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -2166,34 +1233,35 @@ Application transferred too many scanlines
 April
 AreFileApisANSI
 Arithmetic table 0x%02x was not defined
+Arms
 Artist
 AsShotICCProfile
 AsShotNeutral
 AsShotPreProfileMatrix
 AsShotWhiteXY
 AssertMsg_ConditionFailed
-Assertion Failed in function %s():
-Asset '%s' auto-recompile suppressed (%d)
-Asset '%s' auto-recompile unsuppressed (%d)
-Asset '%s' does not have shipped file '%s/%s'
-Asset Fingerprint Changed: %s [%d -> %d]
-Asset Full Fingerprint Changed: %s [%d -> %d]
-Asset System - %s
-Asset System - Updating dependency information...
+Assertion Failed in function %s():\n%s
+Asset '%s' auto-recompile suppressed (%d)\n
+Asset '%s' auto-recompile unsuppressed (%d)\n
+Asset '%s' does not have shipped file '%s/%s'\n
+Asset Fingerprint Changed: %s [%d -> %d]\n
+Asset Full Fingerprint Changed: %s [%d -> %d]\n
+Asset System - %s\n
+Asset System - Updating dependency information...\n
 Asset System Reload Manifest
 Asset Without Content
 Asset appears in multiple search paths.
 Asset changed on disk: %s
 Asset does not have any content.
-Asset file deleted from disk: %s
+Asset file deleted from disk: %s\n
 Asset is Empty
 Asset is an uninteresting child resource.
 Asset is from a read-only search path.
 Asset is from a search path other than '%s'.
 Asset is not referenced by other content.  Be warned this doesn't account for code/ugc/scripts or shared with other mods.
-Asset resort '%s' - %.2f seconds for %d iterations of %d assets ==> %.2fms per run (%.2fus per asset)
-Asset system disabled - skipping dependency update for asset '%s'
-Asset:
+Asset resort '%s' - %.2f seconds for %d iterations of %d assets ==> %.2fms per run (%.2fus per asset)\n
+Asset system disabled - skipping dependency update for asset '%s'\n
+Asset:\n
 AssetAutoTagInfo_t
 AssetBrowserSystem_001
 AssetDependencies
@@ -2202,34 +1270,34 @@ AssetEditInfoFilterFunc_t
 AssetPath
 AssetPreviewSystem_001
 AssetSystem
-AssetSystem Stats:
-AssetSystem dependency data propagated in %.2fs (refreshed %u of %u)
-AssetSystem dependency graph created in %.2f seconds.
-AssetSystem file info doesn't match read-only info for '%s'.
-AssetSystem files scanned in %.2f seconds.
-AssetSystem found stale asset '%s'
-AssetSystem incremental dependency update completed for %u assets
-AssetSystem incremental dependency update for %u assets (up to %u of %u)
-AssetSystem initialized in %.2f seconds. [%.2f load, %.2f scan, %.2f dependencies, %.2f save]
-AssetSystem invalid file info '%s'.
-AssetSystem loaded persistent info from %u layers / %u assets in %.2fs
-AssetSystem processed %u async file updates
-AssetSystem pruned %u stale assets
-AssetSystem removing read-only stale asset file '%s' from '%s'
-AssetSystem removing stale asset file '%s' from '%s'
-AssetSystem saved persistent info for %u layers / %u assets in %.3f sec
-AssetSystem unable to load persistent info from '%s'
-AssetSystem unable to save persistent info to '%s'
+AssetSystem Stats:\n
+AssetSystem dependency data propagated in %.2fs (refreshed %u of %u)\n
+AssetSystem dependency graph created in %.2f seconds.\n
+AssetSystem file info doesn't match read-only info for '%s'.\n
+AssetSystem files scanned in %.2f seconds.\n
+AssetSystem found stale asset '%s'\n
+AssetSystem incremental dependency update completed for %u assets\n
+AssetSystem incremental dependency update for %u assets (up to %u of %u)\n
+AssetSystem initialized in %.2f seconds. [%.2f load, %.2f scan, %.2f dependencies, %.2f save]\n
+AssetSystem invalid file info '%s'.\n
+AssetSystem loaded persistent info from %u layers / %u assets in %.2fs\n
+AssetSystem processed %u async file updates\n
+AssetSystem pruned %u stale assets\n
+AssetSystem removing read-only stale asset file '%s' from '%s'\n
+AssetSystem removing stale asset file '%s' from '%s'\n
+AssetSystem saved persistent info for %u layers / %u assets in %.3f sec\n
+AssetSystem unable to load persistent info from '%s'\n
+AssetSystem unable to save persistent info to '%s'\n
 AssetSystem001
-AssetSystem: Mod '%s' set to read-only
-AssetSystem: Mod '%s' will use override info from '%s'
-AssetSystem: finished file scan, %u directories and %u files scanned
-AssetSystem: ignoring saved per-asset info for unresolvable (probably deleted) asset '%s'
+AssetSystem: Mod '%s' set to read-only\n
+AssetSystem: Mod '%s' will use override info from '%s'\n
+AssetSystem: finished file scan, %u directories and %u files scanned\n
+AssetSystem: ignoring saved per-asset info for unresolvable (probably deleted) asset '%s'\n
 AssetSystemTest001
 Assets in asset system: %d
 Assetsystem resource replacement buffer
-Assetsystem skipping reload of %d resources - no resourcesystem!
-Assigning replacement buffer to '%s' with parent '%s'
+Assetsystem skipping reload of %d resources - no resourcesystem!\n
+Assigning replacement buffer to '%s' with parent '%s'\n
 AsyncAssetScan
 At least one out-of-date dependency: %s (%s)
 At least one out-of-date dependency: content_wav_then_mp3_compile_test.mp3 (file CRC changed)
@@ -2239,28 +1307,21 @@ At least one out-of-date dependency: materials/test_tga.content (file CRC change
 At least one out-of-date dependency: materials/test_txt.content (file CRC changed)
 At marker 0x%02x, recovery action %d
 Attachments
-Attempted to add two format updaters with the same file format (%s)!
-Attempted to add two legacy updaters with the same file format (%s)!
-Attempted to add two serializers with the same file encoding (%s)!
-Attempted to read an attribute ("%s") of an inappropriate type %s!
-Attempted to read an attribute ("%s") of an inappropriate type!
-Attempted to read an attribute ("%s") of unknown type %s!
-Attempted to serialize an unsupported shader parameter type %s (%s)
-Attempting to set %s when there is no current sequence!
-Attempting to set name when there is no current sequence!
-AuFHc
+Attempted to add two format updaters with the same file format (%s)!\n
+Attempted to add two legacy updaters with the same file format (%s)!\n
+Attempted to add two serializers with the same file encoding (%s)!\n
+Attempted to read an attribute ("%s") of an inappropriate type %s!\n
+Attempted to read an attribute ("%s") of an inappropriate type!\n
+Attempted to read an attribute ("%s") of unknown type %s!\n
+Attempted to serialize an unsupported shader parameter type %s (%s)\n
+Attempting to set %s when there is no current sequence!\n
+Attempting to set name when there is no current sequence!\n
 August
-AuthE
 AutoLayer
-B(I9A(
 B.f?y
-B0E8XAt
-B4u"A
-B8<0u
-B8<8u
-B8|09
 BA_INT_NONE
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -2273,7 +1334,6 @@ BGRA8888_LINEAR
 BGRX5551
 BGRX8888
 BGRX8888_LINEAR
-BGRsu
 BKbhTb~XBK!;
 Backing store not supported
 Bad dynamic_cast!
@@ -2308,13 +1368,12 @@ BaselineSharpness
 BayerGreenSplit
 Before triggering a resource recompile, wait for input dependencies to stop being written
 Before triggering a resource reload, wait for input dependencies to stop being written
-Bellevue1
 BenchmarkService001
 BentNormalData
 BestQualityScale
 Binary
 Binary (deterministic sequential ids)
-Binary: Element uses unknown element type %s
+Binary: Element uses unknown element type %s\n
 BinaryProperties_GetValue
 Bits/sample must be 1 for Group 3/4 encoding/decoding
 BitsPerSample
@@ -2328,6 +1387,7 @@ BlendLayerBase
 BlendLayerPoseParam
 BlendList
 BlockingReloadCompileReplacementBufferAndChildren
+Body
 BodyGroup
 BodyGroupChoice
 Bogus DAC index %d
@@ -2342,56 +1402,26 @@ Bogus marker length
 Bogus message code %d
 Bogus sampling factors
 Bogus virtual array access
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
 BrowInV
 Buffer error in compressed datastream
 Buffer passed to JPEG library is too small
-C H94
-C Hc{@;{Pu
-C$u	H
-C(9C u&
-C(D;C
-C(I;A
-C(L9p
-C,9C$u
-C,;C(~6H
-C0;C,s
-C0@u3H
-C0D9p<t
-C0D9p<tN
-C0H9C(r
-C0H9K8u
-C0HcF
-C0I;A
-C0L9p
-C0L9p 
-C0L9p0
-C4;C,A
-C4D+@ H
-C5R?	
-C847u
-C8< u
-C8<(u
-C8D9(
-C8H!o
-C940t%G
-C9|)$u?C
-C@H90t%H
-C@L90t%H
-CA< t(<#t
+C-Yn
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
-CAsset::EnsureFileWritable( %s, %d ) -> %s
+CAsset::EnsureFileWritable( %s, %d ) -> %s\n
 CAsset::RequireInstanceInfo
 CAssetInfoFilterParams
 CAssetSystem::BuildDependencyData
 CAssetSystem::FilterAssetFiles
 CAssetSystem::GetAssetInfo
-CAssetSystem::HandleFileChange: %s
+CAssetSystem::HandleFileChange: %s\n
 CAssetSystem::InitializeAssetSystem
-CAssetSystem::NotifyResourceStatusChange( %s ) - %s
+CAssetSystem::NotifyResourceStatusChange( %s ) - %s\n
 CAssetSystemTest::RunTests
 CAssetTypeConfig
 CAuthPhysJoint
@@ -2403,18 +1433,16 @@ CCITT Group 3
 CCITT Group 4
 CCITT RLE
 CCITT RLE/W
-CD$8@
-CD$XD
-CDataModel:  %i elements left in memory!!!
-CDataModel: Invalid DMX encoding hint '%s' for file %s
-CDataModel: Unable to determine DMX encoding for file %s
-CDataModel: Unable to generate full path for file %s
-CDataModel: Unable to open file "%s"
-CDataModel: Unable to open file %s
-CDataModel: Unable to open file '%s'
-CDataModel: Unable to overwrite readonly file %s
-CDataModel::DisplayMemoryStats with invalid handle %u
-CDataModel::FindAndDeleteOrphanedElements() took %llums 
+CDataModel:  %i elements left in memory!!!\n
+CDataModel: Invalid DMX encoding hint '%s' for file %s\n
+CDataModel: Unable to determine DMX encoding for file %s\n
+CDataModel: Unable to generate full path for file %s\n
+CDataModel: Unable to open file "%s"\n
+CDataModel: Unable to open file %s\n
+CDataModel: Unable to open file '%s'\n
+CDataModel: Unable to overwrite readonly file %s\n
+CDataModel::DisplayMemoryStats with invalid handle %u\n
+CDataModel::FindAndDeleteOrphanedElements() took %llums \n
 CDatamodelAssetTypeInfo
 CDependencyGraph::Cleanup
 CDependencyGraph::FindAttrNode
@@ -2422,14 +1450,14 @@ CDependencyGraph::Reset
 CDmAttribute pool
 CDmElement CUtlMemoryPool
 CDmExtraVertexStream
-CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'
-CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'
-CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'
-CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!
-CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'
-CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...
+CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'\n
+CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'\n
+CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'\n
+CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!\n
+CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...\n
 CDmeAmalgamatedTexture
 CDmeDotaTileGrid
 CDmePolygonMeshDataStream
@@ -2441,7 +1469,7 @@ CEntityIndex
 CExternalToolInfo
 CFALayout
 CFAPlaneColor
-CFileChangeWatcher has detected that VWatch has stopped updating (Status=%s). It's probably a good idea to reset the engine. Converting vwatched directories to Windows watched.
+CFileChangeWatcher has detected that VWatch has stopped updating (Status=%s). It's probably a good idea to reset the engine. Converting vwatched directories to Windows watched.\n
 CGlobalConfigValueRegistry::HookUpConfigValue
 CHammerMesh
 CImagePlaneNode
@@ -2453,7 +1481,6 @@ CInMemoryFilesystem::SetFileWritable
 CInMemoryFilesystem::TouchFileModifiedTime
 CKV3FormatManager::RegisterFormatConversion
 CL:>8
-CLD;CP|
 CManifestInstance
 CMapAssetTypeInfo
 CMapCordon
@@ -2489,19 +1516,19 @@ CRC error
 CResourceAsset::RecompileAsset
 CResourceAsset::UpdateCacheRequest
 CResourceAssetTypeInfo
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaClassInfo::ReportClassError
 CSchemaRegistration::RegisterAllModuleData
 CSharedMemoryMgr::Open() MapViewOfFile() failed with error %d
 CSharedMemoryMgr::Open() OpenFileMapping() failed with error %d
-CSharedMemoryMgr::RemapView() MapViewOfFile() failed with error %d
+CSharedMemoryMgr::RemapView() MapViewOfFile() failed with error %d\n
 CSimpleAssetTypeInfo
 CSolveIKChainAnimNode
 CStdAssetFileSystem::LoadAssetTypesConfigurationFile
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTSQueue<struct AsyncScanResult_t *,0>::CTSQueue
@@ -2526,13 +1553,13 @@ CUndoDestroyElement
 CUndoManager::GetUndoDescInternal
 CUndoManager::Redo
 CUndoManager::Undo
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<struct UtlRBTreeNode_t<struct CDmElementSerializationDictionary::ElementInfo_t,int>,int>::ChangeSize
 CUtlBlockMemory<unsigned char,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
 CUtlCoverageTestGroup::VerifyCoverageGroup
-CUtlFixedMemory overflow!
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> >::Grow
 CUtlLeanVectorBase<struct FioBaseFileInfo_t,short>::EnsureCapacity
 CUtlLeanVectorFixedGrowableBase<class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,5,short>::EnsureCapacity
@@ -2568,14 +1595,14 @@ CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetSpecialDepe
 CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetUnrecognizedRelatedPath_t,3,int>,struct AssetUnrecognizedRelatedPath_t,int>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned char,64,int>,unsigned char,int>::AddMultipleToTail
 CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned short,6,short>,unsigned short,short>::AddToTailGetPtr
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CUtlKeyValuePair<unsigned __int64,class CAsset *>,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlKeyValuePair<unsigned __int64,class CAsset *>,unsigned int>,unsigned int> >::AllocInternal
 CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::AllocInternal
 CUtlLinkedList<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> > >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<class CDmAttribute *,unsigned short,bool (__cdecl*)(class CDmAttribute * const &,class CDmAttribute * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmAttribute *,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<class CDmElement *,int,bool (__cdecl*)(class CDmElement * const &,class CDmElement * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmElement *,int>,int> >::NewNode
 CUtlRBTree<class IDmeOperator *,unsigned short,bool (__cdecl*)(class IDmeOperator * const &,class IDmeOperator * const &),class CUtlMemory<struct UtlRBTreeNode_t<class IDmeOperator *,unsigned short>,unsigned short> >::NewNode
@@ -2587,7 +1614,7 @@ CUtlRBTree<struct CUtlMap<class CUtlSymbolLarge,struct DmMemoryInfo_t,unsigned s
 CUtlRBTree<struct CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::Node_t,int,class CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::Node_t,int,class CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
-CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer\n
 CUtlString
 CUtlStringToken
 CUtlSymbol
@@ -2604,7 +1631,6 @@ CVWatchClient::IsWatchingDir()
 CVWatchClient::UpdateLinkedWatchedDirectories()
 CVisibilityMgr
 CWD>~3
-CXHc8H
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -2697,7 +1723,7 @@ CameraCalibration1
 CameraCalibration2
 CameraSerialNumber
 Can not read scanlines from a tiled image
-Can't get VWatch process handle from pid %lu.
+Can't get VWatch process handle from pid %lu.\n
 Can't set both read_data_fn and write_data_fn in the same structure
 Can't write binary data to a text buffer.
 CancelIo
@@ -2707,7 +1733,7 @@ Cannot quantize more than %d color components
 Cannot quantize to fewer than %d colors
 Cannot quantize to more than %d colors
 Cannot read TIFF header
-Cannot recompile '%s': %s
+Cannot recompile '%s': %s\n
 Cannot recompile maps via Asset System
 Cannot reconstruct lineOffset table in DecodeEXRImage.
 Cannot register same format from/to a KV3 conversion (from '%s' to '%s')
@@ -2721,8 +1747,8 @@ Caution: quantization tables are too coarse for baseline JPEG
 CellLength
 CellWidth
 ChangeTimerQueueTimer
-Checking compile state for asset: %s
-Checking whether dependencies of asset %s are being written:
+Checking compile state for asset: %s\n
+Checking whether dependencies of asset %s are being written:\n
 CheekH
 Child Asset
 ChromaBlurRadius
@@ -2739,7 +1765,6 @@ Closed temporary file %s
 ClothShapeCapsule
 ClothShapeList
 ClothShapeSphere
-CoEb=Y
 Color
 Color Fade
 Color Light From Control Point
@@ -2765,9 +1790,9 @@ Compression
 Compression algorithm does not support random access
 Compression scheme %u %s decoding is not implemented
 Compression scheme %u %s encoding is not implemented
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -2786,7 +1811,7 @@ Corrupt JPEG data: bad Huffman code
 Corrupt JPEG data: bad arithmetic code
 Corrupt JPEG data: found marker 0x%02x instead of RST%d
 Corrupt JPEG data: premature end of data segment
-Could not find asset for shipped file '%s/%s'
+Could not find asset for shipped file '%s/%s'\n
 Cov_DetermineCompileState_CompileFailed
 Cov_DetermineCompileState_FileCRCChanged
 Cov_DetermineCompileState_FileExistenceChanged
@@ -2800,7 +1825,6 @@ Cov_DetermineCompileState_NoDependencies
 Cov_DetermineCompileState_NonexistentModReference
 Cov_DetermineCompileState_OutOfDate
 Cov_DetermineCompileState_SpecialDependencyChanged
-Cp9Sxv(L
 Create In Hierarchy
 CreateEventA
 CreateEventExW
@@ -2825,349 +1849,22 @@ CreateUmsThreadContext
 Cull Random
 CurrentICCProfile
 CurrentPreProfileMatrix
-Cx9S8~'H
-Cx;p0
-Cx;p@
-Cx;pP
-Cx;xP
-CxH9h uuH
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D W?{W
-D#C|D
-D#G|D
-D#K|D
-D$ !>;
-D$ !\$$H
-D$ 3A
-D$ 9F
-D$ ;V
-D$ A;
-D$ D;
-D$ E3
-D$ H;
-D$ Hc
-D$ Hc(H
-D$ Hc0H
-D$ I;
-D$ L9d$(t
-D$ L;
-D$ N&B:H
-D$ P-
-D$ [>
-D$ ]z
-D$ d=
-D$ fD
-D$ fH
-D$ r|
-D$ t.
-D$ w	
-D$$9D$(u
-D$$A;
-D$$E;
-D$(9F
-D$(;_hu	H
-D$(@8;t
-D$(A;
-D$(E3
-D$(H+
-D$(H9
-D$(H;
-D$(Hc
-D$(L9
-D$(fI
-D$)fD
-D$,A;
-D$,D;
-D$0+D$`
-D$0,M
-D$00u
-D$09(tSH
-D$09\$<
-D$0C+D0(
-D$0D9
-D$0E3
-D$0H#
-D$0H+
-D$0H9t$8t
-D$0H;
-D$0H;A t
-D$0H;G
-D$0Hc
-D$0HcC(I
-D$0HcH
-D$0I;
-D$0L+
-D$0L;
-D$0Lc
-D$0f;UPu
-D$0fD
-D$0mp
-D$0r|
-D$0t7
-D$0t?
-D$0tbA
-D$0xL
-D$4+D$8A
-D$49C
-D$4;D$L
-D$8+C$H
-D$8;D$@
-D$8;D$x
-D$8A+
-D$8A;
-D$8E3
-D$8H98t'L
-D$8H;
-D$8HcJ
-D$8HcK
-D$8Ic
-D$8L9
-D$8L;
-D$8Mc
-D$8fH
-D$8ff
-D$8r|
-D$8t_H
-D$<9T$0wE9T$4w?9T$8w9;
-D$@%I
-D$@9D$Hu
-D$@;D$8
-D$@< u
-D$@A+
-D$@A;^
-D$@E3
-D$@H+
-D$@H9
-D$@H;
-D$@H;G
-D$@Hc
-D$@Ic
-D$@L;
-D$@csm
-D$@f9
-D$@fA
-D$@fD
-D$@mp
-D$@r|
-D$A u
-D$A+L
-D$D+D$T
-D$D+D$THc
-D$DA+
-D$DHc
-D$H;D$`
-D$HE3
-D$HH;
-D$HHc
-D$HL+
-D$HL;
-D$JE3
-D$P I
-D$P"ZF
-D$P9A
-D$P;C
-D$P;L$H
-D$P;L$L
-D$PA#
-D$PA;
-D$PD;
-D$PE3
-D$PE;O
-D$PH+
-D$PH;
-D$PHc
-D$PI;
-D$PIc
-D$PL;
-D$PM+
-D$PfA;
-D$PfE
-D$Pk@_aH
-D$Pmp
-D$QLcL$T
-D$XA+
-D$XD8p
-D$XD90}
-D$XH9
-D$XH;
-D$XHc
-D$XHc>
-D$XL+
-D$\Hc
-D$`9D$Hs$H
-D$`@2
-D$`A+
-D$`A;
-D$`D;c@u
-D$`E#
-D$`E3
-D$`H9t$ht
-D$`H;
-D$`Hc
-D$`Ic
-D$`L+
-D$`L;
-D$`Ll
-D$`_^
-D$`r|
-D$dfff
-D$hA+
-D$hA;
-D$hD;
-D$hE3
-D$hE;
-D$hf9
-D$hf;
-D$hu4D
-D$lE3
-D$p 69
-D$p<L{
-D$pD;
-D$pE3
-D$pH;
-D$pHK8
-D$pHc
-D$pL;
-D$pMc
-D$tA9D$|
-D$x*>
-D$xE3
-D$xHc
-D$xI;
-D$xL+
-D$xL;
-D$xfD
-D$|A;D$pr
-D$|fE
-D(8Hc
-D(8Ht}
-D);A+
-D)p(H
-D+D$8
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8&t!
-D8&t4H
-D8't(Ic
-D8*u A
-D82u&H
-D83t	H
-D84;u
-D88Ht!
-D88Hte
-D88u2H
-D8?tnH
-D8M@t
-D8M@t^
-D8Y:uEH
-D8a:uDH
-D8c&t
-D8c:u
-D8d$8t
-D8d$H
-D8d$Ht
-D8d$ht
-D8l$0t
-D8l$@t
-D8l$`
-D8l$ht
-D8m!u0H
-D8m"u	H
-D8m(u-Lc3D;s
-D8o-uO
-D8sAt
-D8s`A
-D8s`D
-D8t$8t
-D8t$Ht
-D8{&t
-D8|$Pt
-D9#~$I
-D9,2H
-D90u	9X
-D98Ht;H
-D98tT
-D9=W<
-D9A(~,A
-D9A(~4A
-D9B,t
-D9G$s5
-D9IL}sL
-D9J,w
-D9T$8
-D9c t
-D9d$ 
-D9d$ ~-I
-D9d$(u
-D9eguS@8
-D9f@~0Hc
-D9g@t
-D9pXu
-D9s(t)H
-D9s,u
-D9t$X
-D9u0~iA
-D9wXt
-D9x(uiE
-D9xXL
-D9{(u
-D9|$ 
-D;8}aH
-D;C }
-D;Cx|
-D;D$(|
-D;D$(}:J
-D;D$8|
-D;D$8};J
-D;G8|
-D;K4u
-D;L$`~!Hc
-D;L$d~
-D;L$l~
-D;L$t~ZH
-D;T$8}
-D;[ D
-D;cxu
-D;d$H
-D;j0v
-D;k ~=
-D;s8|
-D;sXu
-D;t$(r
-D;t$H
-D;t$du
-D;t$h
-D;t$x~1
-D;u0u
-D;wXu
-D;z,u
-D;z,v
-D;z,v(A
-D;{ ~
-D;{8|
-D;{Lr
-D;|$ |
-D;|$H
-D;|$Hu'A
-D;|$P
-D;|$l
-D;}0|
-D<P0I
 DCT coefficient out of range
 DCT scaled block size %dx%d not supported
-DD$$H
+DDDD
 DDDDUUUU
-DEBUG: CAsset::UpdateDependencyInformationAndCompileState - %s
-DEBUG: CAssetSystem::HandleNewPossibleAssetFile - '%s'
-DGKbu
+DEBUG: CAsset::UpdateDependencyInformationAndCompileState - %s\n
+DEBUG: CAssetSystem::HandleNewPossibleAssetFile - '%s'\n
+DEMO
 DMX Model
 DMX Model Pipeline Animation Script File
 DMX Model Pipeline Bone Mask Script File
@@ -3180,18 +1877,20 @@ DMX Model Pipeline Physics Script File
 DMX Model Pipeline Preprocess File
 DMX Model Pipeline Root Script File
 DMX_MODEL_SOURCE_UNKNOWN
-DNEIu
 DNGBackwardVersion
 DNGPrivateData
 DNGVersion
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 Da\">c]$8c^
 Dampen Movement Relative to Control Point
 Data error in compressed datastream
 DataModel needs the file system to function
 DataType
-Datamodel symbol table: %d entries %llu bytes
+Datamodel symbol table: %d entries %llu bytes\n
 DatamodelSymbols
 DateTime
 DebugTextureInfo001
@@ -3215,24 +1914,17 @@ DeleteProcThreadAttributeList
 DeleteTimerQueueTimer
 DeleteUmsCompletionList
 DeleteUmsThreadContext
-Depends on out-of-date '%s':
+Depends on out-of-date '%s':\n -> reason: %s
 DequeueUmsCompletionListItems
 DeviceIoControl
-Did you forget to surround the vector with "s?
 Didn't expect more than one scan
-DigiCert Inc1
-DigiCert Timestamp 2022 - 20
-DigiCert Trusted Root G40
-DigiCert, Inc.1$0"
-DigiCert, Inc.1;09
-DigiCert, Inc.1A0?
 Discarding in-memory replacement
-Discarding replacement for '%s' - SKIPPED (no replacement data)
-Discarding replacement for '%s'...
+Discarding replacement for '%s' - SKIPPED (no replacement data)\n
+Discarding replacement for '%s'...\n
 Distance Between Control Points Scale
 Distance to Control Points Scale
-Dm Memory usage: type				count	totalsize	wastage %%	outer		inner		datamodel	refs		tree		atts		data	(att count)
-Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!
+Dm Memory usage: type\t\t\t\tcount\ttotalsize\twastage %%\touter\t\tinner\t\tdatamodel\trefs\t\ttree\t\tatts\t\tdata\t(att count)\n
+Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!\n
 DmAttributeAddedListenerInfo_t CUtlMemoryPool
 DmAttributeChangedListenerInfo_t CUtlMemoryPool
 DmAttributeList_t CUtlMemoryPool
@@ -3333,7 +2025,7 @@ DmeVertexData
 DocumentName
 DotRange
 DotaCardGameClient_001
-Double-checked compile state: %s (%s)
+Double-checked compile state: %s (%s)\n
 Double-register of KV3 conversion (from '%s' to '%s')
 Double-save to Member '%s'
 DumpModeDecode: Not enough data for scanline %d
@@ -3354,56 +2046,30 @@ Duplicate tRNS chunk
 DuplicateHandle
 DynamicConfigList
 DynamicProgressFeedback
-E(9p(u
-E)l$HL
-E+BHI
-E+H(A
-E0HcH
-E0Lcx
-E8A8_
-E8X@t8A
-E8l$ ueI
-E9A(~1A
-E9Q(~6E
-E;A(|
-E;Bl}NE
-E;F$w
-E;Q(|
-E;|$4sP
-E;~(H
 E>nEA
-E@9GXu7Lc
-E@A8_
-E@t	H
-EL$pfA
-EMItu
-EP*?@
-EPHc@
-ERROR recompiling: '%s'
-ERROR: Assetsystem cannot start: %s
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ERROR: Sequence %d already specified!
-ERROR: Sequence %d is missing, total of %d sequences!
-ERROR: Sequence number %d is too big!
-ERROR: Specified full path %s does not lie under the mod search path!)
-ERROR: Specified path %s could not be made content-relative
-ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!
-ET$(H
-ETLPu
-ETLPu?
+ERROR recompiling: '%s'\n
+ERROR: Assetsystem cannot start: %s\n
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ERROR: Sequence %d already specified!\n
+ERROR: Sequence %d is missing, total of %d sequences!\n
+ERROR: Sequence number %d is too big!\n
+ERROR: Specified full path %s does not lie under the mod search path!)\n
+ERROR: Specified path %s could not be made content-relative\n
+ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!\n
+ET5>
 EXECUTABLE_PATH
 EXIFIFDOffset
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EXRHeader variable is not initialized.
-EXRReadFile() - B channel not found!
-EXRReadFile() - G channel not found!
-EXRReadFile() - R channel not found!
-E`uaA;
+EXRReadFile() - B channel not found!\n
+EXRReadFile() - G channel not found!\n
+EXRReadFile() - R channel not found!\n
+E[\rn?gc
 EconItemToolModel_001
 EditGameClassProps
 EditorDynamicConfig
-Egv3A
-Element uses unknown element type %s
+EiUL
+Element uses unknown element type %s\n
 Empty JPEG image (DNL not supported)
 Empty input file
 EmptyAnim
@@ -3420,28 +2086,27 @@ EnterCriticalSection
 EnterUmsSchedulingMode
 EnumSystemLocalesEx
 EnumSystemLocalesW
-Eo9GXu6Lc
 Error
 Error fetching data for field "%s"
 Error fetching directory count
 Error fetching directory link
 Error flushing data before directory write
-Error importing actbusy element %s
-Error importing txt file! %s
-Error importing vmt shader parameter %s
-Error in .VMT file: error parsing vector element "%s" in "%s"
-Error in the undo system! Grab a programmer!
+Error importing actbusy element %s\n
+Error importing txt file! %s\n
+Error importing vmt shader parameter %s\n
+Error in .VMT file: error parsing vector element "%s" in "%s"\n
+Error in the undo system! Grab a programmer!\n
 Error post-encoding before directory write
 Error reading attribute "%s"
 Error reading in array attribute "%s" element %d
-Error reading texture compile settings file "%s"!
+Error reading texture compile settings file "%s"!\n
 Error writing TIFF header
 Error writing data for field "%s"
 Error writing directory contents
 Error writing directory count
 Error writing directory link
-Error: %s loading %s
-Error: %s parsing %s
+Error: %s loading %s\n
+Error: %s parsing %s\n
 EstimateStripByteCounts
 EventSystem001
 Exceeded size limit while expanding chunk
@@ -3458,7 +2123,7 @@ Expected '{'
 Expected ( <count> )
 Expected <member name> after type
 Expected []
-Expected compile state: %s (%s)
+Expected compile state: %s (%s)\n
 Expected hex byte (eg. 00-FF)
 Expected member name or '}'
 Expected token
@@ -3483,37 +2148,26 @@ Expecting quoted attribute value for attribute "%s", didn't find one!
 Extra compressed data
 Extra compression data
 ExtraSamples
-F +F(
-F 9F(r
-F @8{ru
-F()h(H
-F(@8{Yu)H
-F(D)p(H
-F(D9p(u
-F(LcF I
-F0H98t
-F0LcFDI
-F8D98
-F8HcNDI
 F>qUxv
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FCVAR_NEVER_AS_STRING
+FEMh\f
 Facial Animation File
-Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)
+Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)\n
 Fail to schedule the chore!
 Failed to allocate an instance of a class
 Failed to allocate an instance of class '%s'
 Failed to allocate field info array
 Failed to allocate memory for %s (%ld elements of %ld bytes each)
 Failed to assign bool literal value
-Failed to compute channel layout.
-Failed to convert KV3 to string; error: %s
+Failed to compute channel layout.\n
+Failed to convert KV3 to string; error: %s\n
 Failed to create temporary file %s
 Failed to identify the VWatch failure
-Failed to parse channel info.
-Failed to read %d bytes
-Failed to read attribute.
-Failed to remove expected relevant file '%s' for asset '%s' (can happen due to delays in processing file changes)
+Failed to parse channel info.\n
+Failed to read %d bytes\n
+Failed to read attribute.\n
+Failed to remove expected relevant file '%s' for asset '%s' (can happen due to delays in processing file changes)\n
 Fax3Decode1D
 Fax3Decode2D
 Fax3DecodeRLE
@@ -3526,15 +2180,16 @@ FaxRecvParams
 FaxRecvTime
 FaxSubAddress
 February
+FfW?
 FieldOfViewCotangent
-File has not been opened!
+File has not been opened!\n
 File not open for reading
-File: %s
+File: %s\n
 FileTimeToSystemTime
 FillAttr
 FillOrder
-Filtering asset files according to whitelist %s
-Filtering asset files finished in %.2f
+Filtering asset files according to whitelist %s\n
+Filtering asset files finished in %.2f\n
 Find the number of assets registered with the asset system
 FindClose
 FindFirstFileA
@@ -3546,20 +2201,20 @@ FindRegisteredGlobalObjectInternal
 Fingers
 Fingers_L
 Fingers_R
-Finished %d Blocks out of %d
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+Finished %d Blocks out of %d\n
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 FloatBitMap_t::ConvertGammaToLinear
-FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!
-FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
-FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
-FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!
-FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
-FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!
-FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
-FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!
-FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!\n
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!\n
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!\n
+FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!\n
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!\n
+FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!\n
+FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!\n
+FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!\n
+FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!\n
 Floating point "Predictor" not supported with %d data format
 FlsAlloc
 FlsFree
@@ -3567,7 +2222,7 @@ FlsGetValue
 FlsSetValue
 FlushFileBuffers
 FlushProcessWriteBuffers
-Flushing persistent asset info to disk, %g seconds since last, %u change delta
+Flushing persistent asset info to disk, %g seconds since last, %u change delta\n
 FoldLipLo
 FoldLipUp
 FontManager_001
@@ -3583,67 +2238,24 @@ Freed EMS handle %u
 Freed XMS handle %u
 Friday
 Fsfm_v3
-FullDependencyList:
-G 9D1
-G H9F
-G$;G,
-G(9G0|
-G(Ic/L
-G0Hc	H
-G8Hc@
-G@H9,
+FullDependencyList:\n
+G>US
+GAME
 GAMECONSOLE
 GAMEROOT
+GCTL
 GCUtlString::FormatV
-GD$(H
-GD$8H
-GD$8I
-GD$HH
-GD$HL;
-GD$xL
-GL$8A
-GL$8L
-GL$HL
-GL$XHc
-GL$hD
-GL$hL
-GL$xH
 GPSIFDOffset
-GT$(H
-GT$0H
-GT$8A
-GT$8D
-GT$8H
-GT$8I
-GT$HD
-GT$HH
-GT$XA
-GT$XH
-GT$XI
-GT$XL
-GT$`M
-GT$pH
-GT$xE3
-GT$xH
-G\$0H
-G\$8@
-G\$8E3
-G\$8H
-G\$HH
-G\$hH
-G\$pH
-G\$xH
-G\$xL
+Game
 Game (%s)
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!
+GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!\n
 Generic DMX
 Generic MovieObjects
 Generic SFM
 GenericGameData
-Genu3
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -3733,10 +2345,7 @@ GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GetVersionExW
-Getting CRC for %s
-Gl$(H
-Gl$PI
-Gl$XH
+Getting CRC for %s\n
 GlobalAlloc
 GlobalLock
 GlobalSize
@@ -3747,132 +2356,10 @@ GrayResponseCurve
 GrayResponseUnit
 Group3Options
 Group4Options
-Gt$8A
-Gt$x3
-Gx;X0
-Gx;X@
-GxL9p(
-GxL9x usH
-G|$(H
-G|$8A
-G|$8H
-G|$HH
-H SVH
-H SVWH
-H UVAUAVH
-H!D$ E
-H!T$0D
-H!\$(L
-H!\$03
-H!u H
-H#L$8H
-H#t$0tB
-H$E+H,toA
-H'$m 
-H(HcP H
+H$6t
 H*0"ZOW
-H+C H=
-H+D$hH+D$P3
-H+G H=
-H+L$HH
-H+\$h+
-H+\$hIc<$H
-H3\$HH
-H91tEH
-H97t<
-H98t%H
-H98tPA
-H98u	9h
-H98u	H
-H99u{
-H9=F	$
-H9A u
-H9A(s
-H9Ahs
-H9BhuTH
-H9C(t
-H9CPt
-H9D$PuCI
-H9GPu
-H9J t1
-H9K u
-H9KPu
-H9L$H
-H9L$Ht?H
-H9L$`t
-H9OPu
-H9Qhv
-H9\$8t
-H9\$X
-H9] uO
-H9^ u
-H9^ uJD9oXuDIc
-H9_ u
-H9_ht0H
-H9_xu3H
-H9ixu3H
-H9kxu3H
-H9l$@t
-H9l$Ht
-H9l$Pt
-H9l$Xt
-H9q H
-H9s H
-H9s8H
-H9s@H
-H9s@u
-H9sHH
-H9sXH
-H9t$0t
-H9t$@toH
-H9t$pt
-H9uot	H
-H9{xu3H
-H9~Pu
-H9~xt
-H;@0u
-H;@Xu
-H;A t
-H;C t
-H;D$Pu
-H;D$`
-H;T$`}9H
-H;XXs
-H;YXt 
-H;\$P|
-H;\$`uAE9
-H;t$x
-H;xXu9
-H;|$0
-H;|$0}
-H;|$8I
-HA\_^[
-HA]_][
-HA^A\_^
-HA^A]A\]
-HA^A]_^][
-HA^^][
-HA^_[]
-HA_A\
-HA_A\][
-HA_A]
-HA_A]A\_^[
-HA_A]^]
-HA_A]_^
-HA_A^A]A\_^][
-HA_A^A]]
-HA_A^^]
 HH:mm:ss
-HHcY0H
 HIGHDPI
-HL;l$Ht
-HTH9J v
-HXA9NX
-HXA9OXt
-H[><y5
-H_^[]
-H_^][
-H`;Nhr
 HalftoneHints
 Hammer temp export
 HammerMapLoader001
@@ -3880,147 +2367,14 @@ Handling batched file changes...
 HangWatchdogInternal_BeginScope
 HangWatchdogInternal_EndScope
 HangWatchdog_IndicateActivity
-Hc+;k
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc;;{
-Hc;HcK
-Hc<0H
-Hc>;~
-Hc@@H
-HcA$H
-HcC H
-HcC$H
-HcC(A
-HcC0A
-HcC0H
-HcCxH;
-HcCxL;
-HcD$ H
-HcD$HE+
-HcD$X
-HcD$dH;
-HcD$dI;
-HcD$lI;
-HcD$pA
-HcD$pH
-HcD$tI;
-HcD$x
-HcF0A
-HcFTL
-HcFxH
-HcG I
-HcG(H
-HcGl;Gh}
-HcH<H
-HcH@H
-HcI H
-HcI(H
-HcI8;
-HcI@H
-HcIXH
-HcK ;
-HcK H
-HcK8H
-HcK@H
-HcKHE3
-HcKhH
-HcKx;
-HcKxH
-HcL$ H
-HcL$$
-HcL$$E3
-HcL$(Hc
-HcL$0
-HcL$4
-HcL$4H
-HcL$4Hc
-HcL$@H
-HcL$P;
-HcL$dH
-HcN(;
-HcOlH
-HcP A
-HcQ(Mc
-HcR4L
-HcS@H
-HcS\LcU
-HcT$4
-HcT$XH
-HcU I
-HcU0H
-HcV0H
-HcWxL
-Hc\$@;\$Pu
-Hc\$@H
-Hc\$HH
-Hc\$PH
-Hc\$XH
-Hc\$`I;
-Hc\$hE3
-Hc\$tI
-Hc\$tL
-Hc]`M
-Hc]wD
-Hc]wE3
-Hc]wH
-Hc]wL
-Hc]wL;
-Hc^ ;^0u	H
-Hc_ ;_0u
-Hc_0L
-Hc_8;_Hu
-Hck@;kPu
-HckHL
-HckHM
-Hcl$0H
-Hcl$`3
-Hcn ;n0u	H
-HcoHM
-HcsP;s`u
-Hct$ H
-Hct$$I;
-Hct$,I;
-Hct$0
-Hct$8H
-Hct$tH
-Hcy0L
-Hc{(;{8u
-Hc{H;{Xu
-Hc{HB
-Hc|$ 3
-Hc}HE3
-Hc}gH
-Hc}pH
-Hc}wMc
 HelpSystem_001
 HiddenAssetFlag
 Horizontal differencing "Predictor" not supported with %d-bit samples
 HostComputer
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
 Huffman code size table overflow
 Huffman table 0x%02x was not defined
-I A+I
-I HcH
-I96t4H
-I9@Pt~H
-I9EPu
-I9FPt
-I9\$ ~@H
-I9^ u4D9oXu.Lc
-I9^ u:
-I9^ u>
-I9^ u?
-I9^ u@D9oXu:Lc
-I9^ uED9oXu?Lc
-I9^ uGD9oXuALc
-I9_ uI9wXuDMc
-I9}(t9H
-I;A t%M
+IA88
 ICC Profile
 IKChain
 IKChainOld
@@ -4035,24 +2389,15 @@ IND)ind)INF
 INITY
 IQuickTime001
 ISO JBIG
-Ic4$A;t$
-Ic<$A;|$
-Ic>A;~
-Ic?A;
-IcA(H
-IcE<H
-IcExH
-IcI A
-IcW,H
 IgnoreCompiledState set for type (%s)
 Ignoring PLTE chunk in grayscale PNG
 Ignoring attempt to set cHRM RGB triangle with zero area
 Ignoring attempt to set negative chromaticity value
 Ignoring cHRM chunk with negative chromaticities
-Ignoring file change for file that is being written ( %s ) [retry %u]
-Ignoring file change for malformed path ( %s )
-Ignoring file change for non-asset file ( %s )
-Ignoring file change from unknown path ( %s )
+Ignoring file change for file that is being written ( %s ) [retry %u]\n
+Ignoring file change for malformed path ( %s )\n
+Ignoring file change for non-asset file ( %s )\n
+Ignoring file change from unknown path ( %s )\n
 Ignoring gAMA chunk with out of range gamma
 Ignoring iCCP chunk with declared size = @1 and actual length = @2
 Ignoring incorrect cHRM value when sRGB is also present
@@ -4060,7 +2405,6 @@ Ignoring incorrect cHRM white(@1,@2) r(@3,@4)g(@5,@6)b(@7,@8) when sRGB is also 
 Ignoring incorrect gAMA value @1 when sRGB is also present
 Ignoring invalid time value
 Ignoring nonzero compression type in iCCP chunk
-Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
 IiGM>nw
 IkLockLocal
 Il?333333c?
@@ -4097,8 +2441,8 @@ Incorrect sBIT chunk length
 Incorrect sRGB chunk length
 Incorrect tIME chunk length
 Incorrect tRNS chunk length
-Index      Address       References   String
-Infinite recursion in patch file?
+Index      Address       References   String\n
+Infinite recursion in patch file?\n
 InfoDataFilter_t
 Information about the current assetsystem database.
 Inherit Velocity
@@ -4121,11 +2465,11 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Insufficient data length.
-Insufficient data size for attributes.
+Insufficient data length.\n
+Insufficient data size for attributes.\n
 Insufficient data size in offset table.
-Insufficient data size.
-Insufficient header/data size.
+Insufficient data size.\n
+Insufficient header/data size.\n
 Insufficient memory (case %d)
 Insufficient memory for hIST chunk data
 Insufficient memory for pCAL parameter
@@ -4137,7 +2481,7 @@ Insufficient memory to process iCCP profile
 Insufficient memory to process text chunk
 Insufficient memory to store iTXt chunk
 Insufficient memory to store zTXt chunk
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 Interlace handling should be turned on when using png_read_image
 InterlockedFlushSList
 InterlockedPopEntrySList
@@ -4172,7 +2516,7 @@ Invalid component ID %d in SOS
 Invalid compressed buffer size
 Invalid crop request
 Invalid data for member '%s'
-Invalid data found when decoding pixels.
+Invalid data found when decoding pixels.\n
 Invalid data height value
 Invalid data width or data height: 
 Invalid data width value
@@ -4214,220 +2558,50 @@ Invalid sCAL width
 Invalid sPLT after IDAT
 Invalid sRGB after IDAT
 Invalid scan script at entry %d
-Invalid sequence type.
+Invalid sequence type.\n
 Invalid tRNS after IDAT
 Invalid tile size x : 
 Invalid tile size y : 
 InvokeMiniDumpHandler
-Irrelevant deleted file: %s
+Irrelevant deleted file: %s\n
 IsChildResource
 IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocale
 IsValidLocaleName
-J8I;D	
-J>@G_
 JFIF APP0 marker: version %d.%02d, density %dx%d  %d
 JFIF extension marker: JPEG-compressed thumbnail image, length %u
 JFIF extension marker: RGB thumbnail image, length %u
 JFIF extension marker: palette thumbnail image, length %u
 JFIF extension marker: type 0x%02x, length %u
+JPEG
 JPEG datastream contains no image
 JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
 JPEGMEM
 January
-K 9N v@H
-K ATAUAVAWH
-K H9K0u
-K H9y
-K SUATAUH
-K SVWAVAWH
-K&>.yC
-K,D9s(A
-K0u,H
-K4A+H 
-K8+C$
+JawD
+JawH
+JawV
+July
+June
 KERNEL32.dll
+KL2H
+KNQ\rMO
 KV Conditional Evaluation Error
 KeyValueCache001
 KeyValues
-KeyValues Error: %s in file %s
+KeyValues Error: %s in file %s\n
 KeyValues2
 KeyValues2 (flat)
 KeyValues2 (no ids)
 KeyValues3
-KeyValues: Can't serialize attribute of type %s into KeyValues files!
-KeyValues: Element uses unknown element type %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues: Can't serialize attribute of type %s into KeyValues files!\n
+KeyValues: Element uses unknown element type %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-KhHcC`D
-Kx;y`}qE
-K}*n:	
-K~Je#>!
-L!|$(L!
-L$ E3
-L$ E;)
-L$ H9\$(t
-L$ H;
-L$ Hc
-L$ Lc
-L$ Lc9H
-L$ SATAUAWH
-L$ SH
-L$ SUVAVH
-L$ SUVWATAUAVAWH
-L$ SUVWATAVAWH
-L$ SUVWH
-L$ SVWH
-L$ UATAUAVAWH
-L$ UATAUAVH
-L$ UATAVH
-L$ UAVAWH
-L$ USWATAUAVAWH
-L$ UVWATAUAVAWH
-L$ UWAUAVAWH
-L$ VWAVH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$ iM
-L$$D;
-L$$E+
-L$&@8t$&t0@8q
-L$(Ai
-L$(E+
-L$(E3
-L$(H3
-L$(Ic
-L$(fH
-L$(fI
-L$(iM
-L$,=)#
-L$0E+
-L$0E3
-L$0E;
-L$0H+
-L$0H3
-L$0H;
-L$0H;K
-L$0I;
-L$0Ic
-L$0L+
-L$0Lc
-L$0M;
-L$0fH
-L$0fI
-L$0u2
-L$8;L$0
-L$8H3
-L$8Ic
-L$8Lc
-L$8fH
-L$@;|
-L$@D9
-L$@D9c<
-L$@E3
-L$@H3
-L$@H;
-L$@H=
-L$@Hc
-L$@Lc
-L$@Lc9M
-L$@uU
-L$D;L$T
-L$DD+
-L$DE3
-L$H;H(s	D
-L$H;H8s	D
-L$HA;
-L$HD;
-L$HE3
-L$HH3
-L$HHc
-L$HI;
-L$HLc
-L$P+L$8
-L$P+L$H
-L$PE;
-L$PH3
-L$PI;
-L$PfD
-L$XA;
-L$XE3
-L$XHc
-L$XIc
-L$XfD
-L$`A;
-L$`E3
-L$`E;
-L$`H3
-L$`fD
-L$`tcA
-L$aE3
-L$dA+
-L$hE3
-L$hI;
-L$pD+
-L$pD9w8
-L$pD;w8
-L$pE2
-L$pE3
-L$pE;
-L$pH3
-L$pJc
-L$tHc
-L$xAi	
-L$xD+
-L$xIc
-L$|fA
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L+|$PI+
-L38Ic
-L9*u&
-L93u_
-L93uc
-L96u4H
-L9Ahs
-L9`8tA
-L9axu3H
-L9chH
-L9cxu3H
-L9d$ t
-L9d$ht
-L9d$pt
-L9ghH
-L9kxu3H
-L9l$0t
-L9l$`t
-L9l$ht
-L9m(t	H
-L9mot	H
-L9sxu3H
-L9ugt	H
-L9vxu3H
-L9w t#H
-L9wxu3H
-L9yXu 
-L9{8t
-L9|$@t
-L9|$Ht
-L9|$pt
-L9~ t
-L9~PtgL9~`taL9~ht[H
-L;D$8L
-L;D$8v7H
-L;EHt
-L;d$8|
-L;l$Ht
-L;t$h
+L>ev
 L?UUUUUUU?
-L?n(Zy&
-LACpu
-LACsu
 LCIDToLocaleName
 LCMapStringEx
 LCMapStringW
@@ -4447,6 +2621,8 @@ LINEAR_RGBA8888
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
+LWG>
+LWW>
 LZWDecode: Bogus encoding, loop in the code table; scanline %d
 LZWDecode: Corrupted LZW table at scanline %d
 LZWDecode: Not enough data at scanline %d (short %ld bytes)
@@ -4457,49 +2633,13 @@ LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
 LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
 LZWPreDecode
 LZWSetupEncode
-Last two rows as percentage of total size %f %%:
-Lc3D;s
-Lc;D;{
-Lc?D;
-LcA<E3
-LcB$A
-LcCLC
-LcCP3
-LcCPH
-LcD$PH
-LcD$|3
-LcFDI
-LcF`D
-LcG H
-LcG$H
-LcGP3
-LcK$A;
-LcK<L
-LcK\LcU
-LcQ E3
-LcQ|M+
-LcT$p3
-LcUw3
-Lc\$(
-Lcc0D
-LcchH
-Lcew3
-LcewA
-Lcl$ A
-Lcl$xfff
-LcsHH
-Lct$$I;
-Lct$8A
-LcwHI
-Lc|$hH
-Lc|$hI
-Lc}oA
-Leaking %i elements
+Last two rows as percentage of total size %f %%:\n
+Leaking %i elements\n
 LeaveCriticalSection
 LeftFingers
+Legs
 LengthOfMatchingPaths
 LensInfo
-Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
 Lifespan Decay
 Lifespan from distance to world
 Lifetime Pre-Age Noise
@@ -4518,19 +2658,18 @@ LinearizationTable
 LipLoV
 LipUpV
 LipsV
-Lj[;>
 Lkh9Fgc^A
 LoadAtiCompress
-LoadEXRImageFromMemory() failed! Error message: %s
+LoadEXRImageFromMemory() failed! Error message: %s\n
 LoadFromBuffer: expected '{', found '%s'
 LoadISPCTexComp
-LoadKV3Object error: %s
+LoadKV3Object error: %s\n
 LoadLibraryExW
 LoadLibraryW
 Loaded
-Loaded %d tags for %d assets in %.2fs.
+Loaded %d tags for %d assets in %.2fs.\n
 Loaded Resources
-Loading Asset Tags...
+Loading Asset Tags...\n
 LocalContextCacheSize
 LocalFree
 LocaleNameToLCID
@@ -4551,24 +2690,19 @@ LoggingSystem_RegisterLoggingListener
 LoggingSystem_SetChannelVerbosity
 LoggingSystem_SetLoggingResponsePolicy
 LrwcE
-M H1E
-M(f95|
-M9>t(I
-M9gxu3H
-M9}ht
+M8MF
 MATCHFRAMEWORK_001
 MAX_ALLOC_CHUNK is wrong, please fix
-MB(iVR
 MClassHasCustomAlignedNewDelete
 MDefaultString
-MLc3D;s
+MGiI
 MM/dd/yy
 MNG features are not allowed in a PNG datastream
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MPropertyFriendlyName
 MQC,ARD
-MRHcu
+Make
 Make sheet file
 MakerNoteSafety
 Malformed iCCP chunk
@@ -4593,11 +2727,6 @@ MaxPolicyElementKey
 MaxSampleValue
 Maximum supported image dimension is %u pixels
 Mbp?333333
-Mc,$M
-Mc<$L
-Mc>Hc
-McH(E
-McsLA
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 Memory allocation failed while processing sCAL
@@ -4611,12 +2740,10 @@ MeshSystem001
 MeshUtils001
 MessageBoxA
 MessageBoxW
-Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
-Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0>
 MinConcurrency
 MinSampleValue
 Miscellaneous marker 0x%02x, length %u
-Mismatched VWatch protocol version number. Client expected version %lu, VWatch service running version %lu. Running without VWatch performance benefits.
+Mismatched VWatch protocol version number. Client expected version %lu, VWatch service running version %lu. Running without VWatch performance benefits.\n\tYou can update your VWatch service by updating VMPI from \\fileserver\vmpi\n
 Missing Huffman code table entry
 Missing IHDR before IDAT
 Missing IHDR before PLTE
@@ -4655,18 +2782,16 @@ Movement Match Particle Velocities
 Movement Max Velocity
 MovieSettings
 MultiByteToWideChar
-N&B:H
-N(9i(u
-N(D9q(u
 N/A (No recompile expected)
-N0Hci
 N3`d?
-N8+F$
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
 NEW_DATA
 NJ2"v
+NQ?s
+NULL
 NULL != pFile
 NULL == FindFile( pFileName, NULL )
 NULL == FindFile( pFilePathRelativeToSearchPath )
@@ -4677,6 +2802,7 @@ NV_INTZ
 NV_NULL
 NV_RAWZ
 NavSystem001
+NeXT
 NeXTDecode: Not enough data for scanline %ld
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -4714,6 +2840,7 @@ No valid format conversion from '%s' to '%s'
 NoPoseControl
 Noise Scalar
 Noise Vector
+None
 Nonstandard tile length %d, convert file
 Nonstandard tile width %d, convert file
 NoseV
@@ -4735,18 +2862,9 @@ Not loaded.
 Not safe to 'new' this class due to alignment requirements
 November
 NumberOfInks
-NxD9eP~1I
-O H+O
-O(t(H
 O*9y]
-O,D9O(vcH
-O0HcQ
-O8+G$
-OF>;^
-OQ9AN
 ORPHAN
-OX9JXt
-OX9KXu
+OZQ%
 OZw3(?
 Obtained EMS handle %u
 Obtained XMS handle %u
@@ -4755,16 +2873,16 @@ Offset
 Old-style JPEG
 Old-style LZW codes, convert file
 OldSubfileType
-On-demand recompile of asset %s
+On-demand recompile of asset %s\n
 One of the client procedures is NULL pointer.
-Only DXT1/DXT5 online texture compression supported.
+Only DXT1/DXT5 online texture compression supported.\n
 OpenClipboard
 OpenFileMappingA
 OpenMutexA
 OpenProcess
 Opened temporary file %s
-Operator cycle found during dependency graph traversal!
-Ordered constructor wrapped type has no default constructor.
+Operator cycle found during dependency graph traversal!\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orient Rotation to 2D Direction
 Orientation
 OriginalRawFileData
@@ -4789,35 +2907,11 @@ Out of range gamma value ignored
 Output file write error --- out of disk space?
 OutputDebugStringW
 Overriden Asset
-Ox;i`
-P Lc}
-P(Hcu
-P(Lc}
-P(fE;
-P>q_Y~
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA]_[
-PA^A]A\
-PA^A]A\^[
-PA^][
-PA^_]
-PA^_^
-PA_A\[
-PA_A\^[]
-PA_A\_^]
-PA_A]A\
-PA_A^A]A\_^]
-PA_A^[
-PA_A^]
-PA_A^_
-PA_A^_^]
-PA_^]
-PAq=?Mp#
-PCCiu
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -4829,32 +2923,31 @@ PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
 PNG file corrupted by ASCII conversion
 PNG fixed point integer out of range
-PNG load error %s
+PNG load error %s\n
 PNG unsigned integer out of range
 POSIX
-PPHcO
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
 PackBits
 PackBitsDecode: Not enough data for scanline %ld
 PackBitsDecode: discarding %ld bytes to avoid buffer overrun
-Packed store %s with refcount > 0.
+Packed store %s with refcount > 0.\n
 PageName
 PageNumber
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 Parent with missing children. (eg. '%s')
-ParseEXRHeaderFromMemory() failed! Error message: %s
+ParseEXRHeaderFromMemory() failed! Error message: %s\n
 Particle Configuration File
 ParticleSystemMgr003
+Pe6^
 PeekNamedPipe
 Perform a detailed check of an asset's compile state
 Photometric tag is missing, assuming data is YCbCr
 Photometric tag value assumed incorrect, assuming data is YCbCr instead of RGB
 PhotometricInterpretation
 Photoshop
-Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
 PhysicsBoneMarkup
@@ -4894,6 +2987,7 @@ Plat_TickDiffMilliSecF
 Plat_TickDiffSecF
 Plat_UUIDFromString
 Plat_UUIDToString
+Po5H
 Position Along Path Random
 Position Along Path Sequential
 Position From Parent Particles
@@ -4925,14 +3019,11 @@ Procedural
 Profile size field missing from iCCP chunk
 PropertyEditorSystem_001
 Proxies
-Pz}b!
-Q,A3P
 Q2XXR
 Q5rHg,>
+QAf?
 QAngle
-QTH9P w
 Qkkbal
-Ql;QD
 Quantization table 0x%02x was not defined
 Quantizing to %d = %d*%d*%d colors
 Quantizing to %d colors
@@ -4943,19 +3034,14 @@ QueryPerformanceFrequency
 QueryUmsThreadInformation
 QueueUserWorkItem
 QueuedLoaderVersion001
-R(A9P4A
-R0E8XAt
 R11_EAC
+R16F
 R16F_EXPAND
 R1h58
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
-RDHIu
-REDIH
-REDII
-RERLH
-RERLI
 RESOURCE_ENCODING_COMPRESSED_BYTES
 RESOURCE_ENCODING_COUNT
 RESOURCE_ENCODING_INTROSPECTED
@@ -4990,10 +3076,10 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
-RH@8t$@
 RPCRT4.dll
 RSDS^
 RST%d
+R\vpH
 RadianEuler
 Radius Random
 Radius Scale
@@ -5008,43 +3094,44 @@ Read from EMS failed
 Read from XMS failed
 Read palette index exceeding num_palette
 Read-Only Asset
-Read-Only AssetSystem: %s does not exist, using default info file
-Read-Only AssetSystem: ignoring change to %s in read-only mod
+Read-Only AssetSystem: %s does not exist, using default info file\n
+Read-Only AssetSystem: ignoring change to %s in read-only mod\n
 Read-Only Compiled Asset Information Always Up-to-Date
 ReadConsoleW
 ReadDirectoryChangesW
 ReadFile
 Recompiling asset
-Recompiling resource asset: '%s'
+Recompiling resource asset: '%s'\n
 RecursiveLoadFromBuffer:  got EOF instead of keyname
 RecursiveLoadFromBuffer:  got NULL key
 RecursiveLoadFromBuffer:  got conditional between key and value
 RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
+Redo\n======\n
 ReductionMatrix1
 ReductionMatrix2
 ReferenceBlackWhite
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterGlobalObject
 RegisterStringToken
 RegisterTraceGuidsW
 RegisterWaitForSingleObject
 Registering anonymous field with tag %d (0x%x) failed
-Registering in-memory compile result for resource: '%s' (root = '%s')
+Registering in-memory compile result for resource: '%s' (root = '%s')\n
 Release
 ReleaseMutex
 ReleaseSRWLockExclusive
 ReleaseSemaphore
 ReleaseThreadHandle
-Reloading Resource [%d/%d]: %s
-Reloading cached bitmap: %s [%s]
-Reloading cached datamodel asset: %s [%s]
+Reloading Resource [%d/%d]: %s\n
+Reloading cached bitmap: %s [%s]\n
+Reloading cached datamodel asset: %s [%s]\n
 Remap Distance Between Two Control Points to Scalar
 Remap Distance to Control Point to Scalar
 Remap Noise to Scalar
 Remap Scalar
-Remember to check in the asset tag database!
+Remember to check in the asset tag database!\n%s
 RemoveBoneAndChildren
 RenderDevice003
 RenderDeviceMgr001
@@ -5073,6 +3160,7 @@ RigRoot
 RightFingers
 RoInitialize
 RoUninitialize
+Root
 RootSelectionSet
 Rotation Basic
 Rotation Orient to 2D Direction
@@ -5091,15 +3179,9 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S(9C8sq
-S,, <Zw
-S,fA+
-S0Q0O
-S89SD|
-S;\$0tH
+S+Ot
+S9>H
 S>$hkDh$h>[2
-SATAWH
-SA|X=G
 SFM Session
 SFM Settings
 SFM TrackGroup
@@ -5109,39 +3191,11 @@ SGILog compression supported only for %s, or raw data
 SGILog24
 SGILogDataFmt
 SGILogEncode
+SKyu
 SMaxSampleValue
 SMinSampleValue
 SNAN)
-SNRtu
 SSE and SSE2 are required.
-SUATAWH
-SUAVH
-SUAWH
-SUHcl$@L
-SUVAVH
-SUVWATAUAVAWH
-SUVWATAWH
-SUVWAUAVAWH
-SUVWAUAVH
-SUVWAUH
-SUVWAVAWH
-SUVWAVH
-SUVWH
-SUWATAUAVH
-SUWAUAWH
-SUWAUH
-SVATAUH
-SVAUH
-SVWATAUAVAWH
-SVWATAUAVH
-SVWATAUAWH
-SVWATAVAWH
-SVWATH
-SVWAVH
-SVWAWH
-SWATAUAWH
-SWATAVAWH
-SWAUH
 SampleFormat
 SamplesPerPixel
 SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 1
@@ -5164,14 +3218,14 @@ Seek error at scanline %lu
 Seek failed on temporary file
 Selected %d colors for quantization
 September
-Sequence %d out of order (@position %d).
+Sequence %d out of order (@position %d).\n
 Sequence Random
 Sequence Two Random
 SequenceMarkup
 SequenceMarkupList
-Serialize: File encoding %s is undefined!
-Serialize: File encoding '%s' is undefined!
-Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer
+Serialize: File encoding %s is undefined!\n
+Serialize: File encoding '%s' is undefined!\n
+Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer\n
 SerializedEntitiesVersion001
 Serializing(%d root elements)
 ServerUploadGameStats001
@@ -5197,9 +3251,9 @@ Setting up field info failed
 ShadowScale
 SignalObjectAndWait
 Size mismatch determining size of signed data block (%d vs %d)
-Skipping registration of failed in-memory compile result for resource: '%s' (root = '%s')
-Skipping reload of in-memory compiled resource '%s' with no associated asset
-Skipping reload of in-memory compiled resource '%s' without a compiled replacement buffer
+Skipping registration of failed in-memory compile result for resource: '%s' (root = '%s')\n
+Skipping reload of in-memory compiled resource '%s' with no associated asset\n
+Skipping reload of in-memory compiled resource '%s' without a compiled replacement buffer\n
 Sleep
 SleepConditionVariableCS
 SleepConditionVariableSRW
@@ -5243,86 +3297,8 @@ Subtract
 Sunday
 Suspension not allowed here
 SwitchToThread
-Symbol table:  %d entries %llu bytes
+Symbol table:  %d entries %llu bytes\n
 SystemTimeToTzSpecificLocalTime
-T$ +F$A
-T$ +G$A
-T$ +G$D
-T$ A3
-T$ A;
-T$ E3
-T$ E;
-T$ H;
-T$ Hc
-T$ Ic
-T$ L;G
-T$ Lc
-T$ Mc
-T$$D9
-T$(+G$A
-T$(D+
-T$(E;
-T$0D;
-T$0E3
-T$0H;
-T$0Hc
-T$4E9
-T$8+G$A
-T$8+G$H
-T$8A+
-T$8D;
-T$8D;t$(r
-T$8E3
-T$<D;
-T$@+G$A
-T$@@2
-T$@A;
-T$@D+
-T$@D;
-T$@E3
-T$@H+
-T$@H;
-T$@Ic
-T$H+G$A
-T$H@8j0t
-T$HA;
-T$HE3
-T$HHc
-T$P+F$H
-T$PA;
-T$PD+
-T$PE3
-T$PH3
-T$PH;
-T$PIc
-T$Pff
-T$XA;
-T$XE3
-T$`D+
-T$hD+
-T$hD;
-T$hE;
-T$hfA
-T$lE;
-T$p;T$T
-T$pA;
-T$pD+
-T$pD;
-T$pE3
-T$pE;
-T$pH;
-T$pHc
-T$pHcL$T
-T$pM+
-T$pfD
-T$pkD$x<
-T$xH;
-T38Ic
-TADIt	
-TADIu
-TADIu.
-TADIuT
-TIBsu
 TIFFAppendToStrip
 TIFFClientOpen
 TIFFFetchDirectory
@@ -5344,18 +3320,17 @@ TIFFSetField
 TIFFTileRowSize
 TIFFVStripSize
 TIFFVTileSize
-TLPsu
-TODO: remove IAssetSystem::GetAssetInfo before checkin!
-TSIhu
+TODO: remove IAssetSystem::GetAssetInfo before checkin!\n
 TUUUU
+Tag 
 Tag %d
 Tag Update Failed
 Tag Value
 TargetOversubscriptionFactor
 TargetPrinter
 TerminateProcess
-Test coverage group '%s' missed some coverage points. (See above.)
-Test resort expected 1 argument: <number>
+Test coverage group '%s' missed some coverage points. (See above.)\n
+Test resort expected 1 argument: <number>\n
 TestAssetType_Content
 TestAssetType_Resource
 TestAssetType_Two_Content
@@ -5378,7 +3353,7 @@ TextureWrapModes
 There was a problem acquiring VWatch communication resources from Windows<br><br>To fix this, please try:<br> -restarting VMPI from "Start->Valve->Start VMPI Service"<br> -reinstalling VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br> -Looking through your console logs for more specific errors and emailing them to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_MISSINGHANDLES">Dave K</a><br> -Grabbing a programmer<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
 This a child resource with no parents.
 This function cannot be called on a default constructed task
-This is a BigTIFF file.  This format not supported
+This is a BigTIFF file.  This format not supported\nby this version of libtiff.
 ThreadGetCurrentProcessId
 ThreadSetDebugNameS2
 ThreadSleep
@@ -5418,7 +3393,7 @@ Trailing Data
 TransactNamedPipe
 TransferFunction
 Tried to load a polymorphic pointer with no '%s' key
-Tried to rename from '%s' to '%s', but '%s' already exists
+Tried to rename from '%s' to '%s', but '%s' already exists\n
 Truncated data
 Truncated iTXt chunk
 Truncated zTXt chunk
@@ -5426,100 +3401,44 @@ Truncating incorrect info tRNS chunk length
 Truncating incorrect tRNS chunk length
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
-Trying to add a frame when there is no current sequence.
+Trying to add a frame when there is no current sequence.\n
 Tuesday
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
-U8D83A
+U4tT
 UA>N0Wl
-UATAUAVAWH
-UATAUAVH
-UAUAVH
-UAUAVI
-UAUAWH
-UAVAWH
 UNKNOWN
 UNKNOWN ERROR
-UP+F$A
-UPA8]Xt
 UPDATE_STRING_TOKEN_DATABASE
-USATAUAVAWH
-USATAUAWH
-USATAUH
-USAUAVH
-USAUH
-USAVH
-USAVI
-USAWH
 USER32.dll
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAVAWH
-USVWATH
-USVWAUAVH
-USVWAVH
-USVWH
-USWATAUH
-USWAUAVAWH
-USWAUAVH
-USWAUAVI
-USWAUH
 UTF-16LEUNICODE
 UTF-8
+UUUU
 UUUUUU
-UUUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVATAUH
-UVATAVH
-UVAUAWH
-UVAVAWH
-UVAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATAVH
-UVWATAWH
-UVWATH
-UVWAUAVAWH
-UVWAUAVH
-UVWAUH
-UVWAVAWH
-UVWAVH
 UVWQ8888
-UWATAUAVH
-UWATAUAWH
-UWATAUH
-UWATAVAWH
-UWATH
-UWAUAVAWH
-UWAUH
-UWAVAWH
-UWAVH
-UWAWH
-Ugx	H
 UmsThreadYield
 UnRegisterGlobalObject
-Unable find required entry points in %s
-Unable to create async scan thread
-Unable to create new frame.
-Unable to create new sequence.
-Unable to create unknown element %s!
+Unable find required entry points in %s\n
+Unable to create async scan thread\n
+Unable to create new frame.\n
+Unable to create new sequence.\n
+Unable to create unknown element %s!\n
 Unable to determine buffer encoding.
-Unable to find running VWatch service. Client expected version %lu. Running without VWatch performance benefits.
-Unable to get file info to add asset '%s', ignoring
-Unable to load %s, error %d
+Unable to get file info to add asset '%s', ignoring\n
+Unable to load %s, error %d\n
 Unable to set packing mode.
-Unable to set type unless you're creating untyped elements!
+Unable to set type unless you're creating untyped elements!\n
 Unable to verify if the VWatch service is running.<br><br>Please verify that you have VMPI installed (a green dot in your system tray)<br>If there is no green dot, install VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
-Unable to watch '%s'
-Unable to write file '%s'
-Unabled to parse frame images.
+Unable to watch '%s'\n
+Unable to write file '%s'\n
+Unabled to parse frame images.\n
+Undo\n======\n
 Unexpected EOF in quoted string
 Unexpected end of file
 Unexpected marker 0x%02x
-Unhandled proxy keyvalues type (proxy %s var %s)
+Unhandled proxy keyvalues type (proxy %s var %s)\n
 UnhandledExceptionFilter
 Uninitialized row
 UniqueCameraModel
@@ -5551,22 +3470,22 @@ Unreferenced By Content
 UnregisterTraceGuids
 UnregisterWait
 UnregisterWaitEx
-Unregistered pending cache for asset: %s
+Unregistered pending cache for asset: %s\n
 Unresolved object reference '%s'
-Unserialize: Cannot determine encoding from file, and no encoding provided!
-Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!
-Unserialize: DMX file encoding %s is undefined!
-Unserialize: DMX header was present but contained no encoding name!
-Unserialize: Encoding expects DMX header but it doesn't exist!
-Unserialize: File format newer than executable's!
-Unserialize: Unable to open dmxconvert temp file "%s"
-Unserialize: Unable to start dmxconvert process
-Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'
-Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'
-Unsupported ETC image format %d.
+Unserialize: Cannot determine encoding from file, and no encoding provided!\n
+Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!\n
+Unserialize: DMX file encoding %s is undefined!\n
+Unserialize: DMX header was present but contained no encoding name!\n
+Unserialize: Encoding expects DMX header but it doesn't exist!\n
+Unserialize: File format newer than executable's!\n
+Unserialize: Unable to open dmxconvert temp file "%s"\n
+Unserialize: Unable to start dmxconvert process\n
+Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'\n
+Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'\n
+Unsupported ETC image format %d.\n
 Unsupported JPEG data precision %d
 Unsupported JPEG process: SOF type 0x%02x
-Unsupported PSD color mode!
+Unsupported PSD color mode!\n
 Unsupported binary encoding id.
 Unsupported color conversion request
 Unsupported marker type 0x%02x
@@ -5577,26 +3496,18 @@ UpdateProcThreadAttribute
 Updating Asset Tags...
 Updating asset dependency information...
 Updating dependencies: %d%% (%s/%s) - %s
-Usage: assetsystem_check_compile_state <asset_name>
+Usage: assetsystem_check_compile_state <asset_name>\n
 Use old behavior of calling ProcessFileChanges() immediately after recompiling a resource
 UserInfoChangeService_001
 UuidCreate
 UuidFromStringA
 UuidToStringA
-UwH;U
-V(D9r(u
-V0;Ct~ZH
-V6E>`"(5
-VATAUAVAWH
-VATAUH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDataModelVersion001
 VDebugService_001
 VDmElementFrameworkVersion001
@@ -5629,15 +3540,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VUUUA
-VUUUH
-VWATAUAVAWL
-VWATAUAVH
-VWATAUAWH
-VWATAUH
-VWATAVAW
-VWATAVAWH
 VWATCH NOT CONNECTED!
 VWATCHSERVICESTATUS_HUNG
 VWATCHSERVICESTATUS_NOPROCESS
@@ -5647,26 +3549,18 @@ VWATCHSERVICESTATUS_OUTOFMEMORY
 VWATCHSERVICESTATUS_REBASEDMEMORY
 VWATCHSERVICESTATUS_RESET
 VWATCH_LOCKING
-VWAUAVAWH
-VWAUAVH
-VWAUAWH
-VWAUH
-VWAVAWH
-VWAVH
-VWAWH
-VWatch SetNamedPipeHandleState() failure %d.
+VWatch SetNamedPipeHandleState() failure %d.\n
 VWatch Update
 VWatch is not connected
-VWatch service is in an error state and needs to be restarted. Running without VWatch performance benefits.
-VWatch timed out trying to do a connection lock of "Global\vwatch_mutex". Running without VWatch performance benefits.
-VWatch timed out waiting for the service to finish it's initial scan.
-VWatch timed out waiting for the service to initialize
-VWatch unable to connect app signal pipe (%d).
-VWatch unable to open mutex handle "Global\vwatch_mutex" because of error %d.
-VWatch unable to retrieve process handle with app signal pipe. TransactNamedPipe(%d)
-VWatch unable to transact with vwatch pipe, error %d.
+VWatch service is in an error state and needs to be restarted. Running without VWatch performance benefits.\n
+VWatch timed out trying to do a connection lock of "Global\vwatch_mutex". Running without VWatch performance benefits.\n
+VWatch timed out waiting for the service to finish it's initial scan.\n
+VWatch timed out waiting for the service to initialize\n
+VWatch unable to connect app signal pipe (%d).\n
+VWatch unable to open mutex handle "Global\vwatch_mutex" because of error %d.\n
+VWatch unable to retrieve process handle with app signal pipe. TransactNamedPipe(%d)\n
+VWatch unable to transact with vwatch pipe, error %d.\n
 VWatchSharedMemoryManager
-V_:X1:
 V_CompareNameWithWildcards
 V_CopyMemory3D
 V_FixDoubleSlashes
@@ -5721,14 +3615,11 @@ V_vsnprintf
 V_vsnprintfSize
 V_wcstod
 V_wcstoi64
-V_~]	,
-V`;Ct~bH
-Valve Corp.0
-Valve Corp.1
 Valve Make Sheet File
 Valve Map File
 Valve Material File
 Valve Texture Configuration File
+Vc0a
 VeaFOfb
 Vector
 Vector2D
@@ -5747,35 +3638,29 @@ VirtualFree
 VirtualProtect
 Virual volume texture file
 VisBuilder_001
-Vwatch Retrieval of synchronization handle through app signal pipe failed with error code %d
-W!t/H
-W(;QTv	
-W8HcH
+Vwatch Retrieval of synchronization handle through app signal pipe failed with error code %d\n
 W=vmdlkeys0
-WARNING: Asset '%s' refers to dependency '%s' from nonexistent mod '%s' (file '%s')
-WARNING: Asset database '%s' corrupted (%d bytes) - forcing a full rescan.
-WARNING: Asset database '%s' has bad format signature (0x%X) - forcing a full rescan.
-WARNING: Asset database '%s' has bad guard value (0x%X) - forcing a full rescan.
-WARNING: Asset database '%s' has bad version (%d) - forcing a full rescan.
-WARNING: Assetsystem encountered dependencies from nonexistent mod '%s' (first asset: '%s')
-WARNING: Assetsystem is trying to save persistent info but no changelist was specified!
-WARNING: CAsset::EnsureFileWritable: Asset '%s' does not have requested file. (%d)
-WARNING: CAsset::EnsureFileWritable: Asset '%s' has no file in the required mod. (%d)
-WARNING: CAsset::EnsureFileWritable: Asset '%s' is in a read-only mod. (%d)
-WARNING: CAssetSystem::OpenForEdit: Asset '%s' is in a read-only mod.
-WARNING: Coverage group '%s' missed coverage point '%s'
-WARNING: Discarding tags for unknown asset '%s'
-WARNING: Discarding unknown asset tag '%s'
-WARNING: Failed on-demand recompile for asset %s
-WARNING: Failed to load data for bitmap asset '%s'
-WARNING: Failed to read '%s': %s
-WARNING: Failed to register asset tag '%s'
-WARNING: Failed to write '%s': %s
-WARNING: LoadAndValidateResourceHeader - FileSystem not initialized!
-WARNING: Suppressing on-demand recompile of asset %s - already tried with this fingerprint.
-WATAUAVAWH
-WAVAWH
-WD8l$@t
+WARNING: Asset '%s' refers to dependency '%s' from nonexistent mod '%s' (file '%s')\n
+WARNING: Asset database '%s' corrupted (%d bytes) - forcing a full rescan.\n
+WARNING: Asset database '%s' has bad format signature (0x%X) - forcing a full rescan.\n
+WARNING: Asset database '%s' has bad guard value (0x%X) - forcing a full rescan.\n
+WARNING: Asset database '%s' has bad version (%d) - forcing a full rescan.\n
+WARNING: Assetsystem encountered dependencies from nonexistent mod '%s' (first asset: '%s')\n
+WARNING: Assetsystem is trying to save persistent info but no changelist was specified!\n
+WARNING: CAsset::EnsureFileWritable: Asset '%s' does not have requested file. (%d)\n
+WARNING: CAsset::EnsureFileWritable: Asset '%s' has no file in the required mod. (%d)\n
+WARNING: CAsset::EnsureFileWritable: Asset '%s' is in a read-only mod. (%d)\n
+WARNING: CAssetSystem::OpenForEdit: Asset '%s' is in a read-only mod.\n
+WARNING: Coverage group '%s' missed coverage point '%s'\n
+WARNING: Discarding tags for unknown asset '%s'\n
+WARNING: Discarding unknown asset tag '%s'\n
+WARNING: Failed on-demand recompile for asset %s\n
+WARNING: Failed to load data for bitmap asset '%s'\n
+WARNING: Failed to read '%s': %s\n
+WARNING: Failed to register asset tag '%s'\n
+WARNING: Failed to write '%s': %s\n
+WARNING: LoadAndValidateResourceHeader - FileSystem not initialized!\n
+WARNING: Suppressing on-demand recompile of asset %s - already tried with this fingerprint.\n
 WIN32
 WINDOWS
 WINXP
@@ -5784,19 +3669,18 @@ WaitForMultipleObjects
 WaitForSingleObject
 WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
-Waited %dms for quiet inputs of %s before recompiling.
-Waited too long (%dms) for quiet inputs of %s - abandoning recompile!
+Waited %dms for quiet inputs of %s before recompiling.\n
+Waited too long (%dms) for quiet inputs of %s - abandoning recompile!\n
 Waiting
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.
-Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".
-Warning:  %s = '%s' is infinite, clamping value.
-Warning: CVWatchClient::GetSlowSnapshotForDir( %s ) had to grow the block size %d times. Consider increasing VWATCH_SLOW_SNAPSHOT_SIZE.
+Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.\n
+Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".\nDid you forget to surround the vector with "s?\n
+Warning:  %s = '%s' is infinite, clamping value.\n
+Warning: CVWatchClient::GetSlowSnapshotForDir( %s ) had to grow the block size %d times. Consider increasing VWATCH_SLOW_SNAPSHOT_SIZE.\n
 Warning: thumbnail image size does not match data length %u
 Warning: unknown JFIF revision number %d.%02d
-Washington1
 Wednesday
 WeightList
 Whether to explicitly reload child resources of a QueueReloadIfLoaded
@@ -5805,8 +3689,8 @@ WhitePoint
 WideCharToMultiByte
 Width is too large for libpng to process pixels
 WinRTInitialization
-WipeRedo '%s'
-WipeUndo '%s'
+WipeRedo '%s'\n
+WipeUndo '%s'\n
 WorkingSetName
 WorkshopSetup001
 World Files
@@ -5821,50 +3705,31 @@ WriteConsoleW
 WriteFile
 Wrong JPEG library version: library is %d, caller expects %d
 Wrote symbol stats to file: %s
-Wu4E3
-X E9z
-X!t5~
-X(D9y(
+X/4B
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
-X=_6	
-XA]A\^[
-XA^A\_[
-XA_A]
-XA_A^A\_^[
-XA_A^A]A\_^][
-XA_A^^[
-XA__^[
 XClipPathUnits
-XJ#_{'G
-XL$tL
 XMLPacket
 XPosition
 XResolution
 XYZ, Luv
-X_^][
-X|$ A
-X|$8E
-Y$D;R
-Y%Y;	
-Y0t>H
-Y9"SD
+XpU 
+XsBI
+Y8a:
 Y>kX>M
 YCbCrCoefficients
 YCbCrPositioning
 YCbCrSubsampling
 YClipPathUnits
-YD$@f
 YPosition
 YResolution
 Your VWatch installation is out of date<br><br>Install the newest VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
 Your VWatch service is in an error state.<br><br>Please right click the VMPI Icon (green dot) in your system tray, click "VWatch...", then click "Restart"<br>If this happens frequently, please report it to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_SERVICEINERRORSTATE">Dave K</a>, preferably before you've restarted the service<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
 Your VWatch service is too busy for a connection attempt.<br><br>If you're doing something disk intensive, then this is expected.<br>You can try restarting in a moment, or reporting the failure to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_TIMEDOUT">Dave K</a><br>Please include notes on what else you were doing at the time. Especially syncing and/or rebuilding content.<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
 YpU_Z
-Z(D9Z
-Z* ,	
-Z@&LHA'
+Z@&LHA'\r:C(
 ZFP compression is not supported.
 ZIPDecode
 ZIPEncode
@@ -5874,126 +3739,36 @@ ZIPSetupEncode
 ZIPVSetField
 Z\>z8
 Zero length tRNS chunk
-Zod(^?
+Zjz\v
 Zpm"U
-[ UWAVH
-[ UWAWH
-[%d] Aborting undo '%s'
-[%d] Popping undo '%s'
-[%d] Pushing undo '%s'
+[%d] Aborting undo '%s'\n
+[%d] Popping undo '%s'\n
+[%d] Pushing undo '%s'\n
 [*ncd>0
-[-&LMb#{'
-[0Hc3;s
-[@fE#
-[K]taM?
 [Not a resource]
 [Unknown]
 [aOni*{
 [cached: %d][%d req]%s
+[h1R
 [manifest: %s]
 [no manifest]
-\$ ATAVAWH
-\$ AVH
-\$ E3
-\$ H;
-\$ Hi
-\$ I;
-\$ Ic
-\$ UATAVH
-\$ UAVAWH
-\$ UH
-\$ UVATAVAWH
-\$ UVATH
-\$ UVWATAUAVAWH
-\$ UVWAUAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ UWAWH
-\$ VH
-\$ VWAUAVAWH
-\$ VWAVH
-\$ WAVAWH
-\$ WH
-\$(D;
-\$(E3
-\$(Hc|$ H
-\$(I;
-\$(L#
-\$(fD;
-\$0)p(H
-\$09^
-\$09i8
-\$0;^
-\$0A;
-\$0D;
-\$0E3
-\$0H;
-\$0Hc
-\$0HcH
-\$0Hc_X
-\$0Ic
-\$0L+
-\$0Lc
-\$0u!@
-\$4E;O
-\$8A+
-\$8H;
-\$8Hc
-\$8Ic
-\$8fD
-\$8tn
-\$8uIH
-\$<A;
-\$@9\$8
-\$@9\$8~I
-\$@@8=]G
-\$@H+
-\$@H;
-\$@Hc
-\$@f;
-\$@u$M
-\$@u+M
-\$@uFM
-\$HHc
-\$Hta
-\$PA_A^A]A\_^]
-\$PE3
-\$PE;
-\$PHc
-\$PfD
-\$XE3
-\$XH;y
-\$XHc
-\$XIc
-\$`D;L$l~
-\$`E3
-\$`Hc
-\$gm?
-\$hD;T$d~!Hc
-\$hHcZ@H
-\$pD+
-\$pD;T$d~ Hc
-\$pE3
-\$pI;
-\$tD;
-\$xfA;
-\08Hc
 \\.\pipe\vwatch_appsignal
-\ffff
-\u%A8O
-])6M>&
-]>)2X
-]@fff
-]HfE;
-]J<0"0i3
+\nCwf\r
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\rmj>zjZ
+\tN1a
+\tNAN encountered in element '%s' guid %s attribute '%s'!\n
+\t\t\n\n\v\v\f\f\f\f\r\r\r\r
+\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\tcQr
+\tkE>fvw
+\vA03>A|
 ^<V7w
 ^RfN>
-^fD9+t
 ^oEZ_
 _(None)
-_0L9l$ t
-_8tDH
 _TIFFMergeFieldInfo
 _TIFFSetupFieldInfo
 _TIFFVGetField
@@ -6034,7 +3809,6 @@ _cabs
 _class
 _dir.vpk
 _flt.vpk
-_gUT^
 _hypot
 _imported
 _light
@@ -6047,28 +3821,6 @@ _root_keyname
 _test_conversion_counter
 _toolsettings\asset_settings\
 _user.txt
-` UAVAWH
-`+!]?
-`.rdata
-`;k8|
-`A;m8
-`A;n8
-`A^A]A\_^
-`A_A\]
-`A_A]A\_[
-`A_A]_^]
-`A_A^A]A\_[]
-`A_A^A]A\_^]
-`A_A^]
-`A_A^_^[
-`A_A^_^]
-`A_][
-`D;K8|
-`D;e8|
-`D;{8
-`Hc9H
-`LcA H
-`LcQ H
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -6079,7 +3831,6 @@ _user.txt
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -6106,7 +3857,9 @@ _user.txt
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
+a6>r
 abcdefghijklmnopqrstuvwxyz
+acos
 actBusy
 actBusyList
 actbusy
@@ -6137,6 +3890,7 @@ anchor_angles
 anchor_position
 angle
 angles_relative
+anim
 animSetList
 anim_duration
 anim_frameRate
@@ -6158,6 +3912,7 @@ anisotropic
 aoB>"
 argument list too long
 argument out of domain
+asin
 asset
 asset_tag_assignments.txt
 asset_tags.txt
@@ -6169,7 +3924,7 @@ assetsTheMaterialDependsOn[0] == pTestTGA
 assetsystem
 assetsystem.dll
 assetsystem_check_compile_state
-assetsystem_check_compile_state could not find asset: %s
+assetsystem_check_compile_state could not find asset: %s\n
 assetsystem_count
 assetsystem_debug_substring
 assetsystem_legacy_explicit_reload_child_resources
@@ -6181,7 +3936,7 @@ assetsystem_reload_queue_requeue_pause
 assetsystem_stats
 assetsystem_test_resort
 assettypes.txt
-at=<rt!<wt5L
+atan
 atan2
 ati_compress_wrapper.dll
 attach
@@ -6191,8 +3946,8 @@ attachment_offset
 attachment_type
 audioTarget
 auto_unragdoll_duration
+axis
 axisSystem
-b?^Cy
 bUpdate
 background
 backgroundMap
@@ -6209,6 +3964,7 @@ balance$0
 balance$0Indices
 balanceIndices
 balancechannel
+base
 baseLayer
 baseMapToOverride
 baseName
@@ -6227,6 +3983,7 @@ binary_bc
 binary_lz4
 binary_seqids
 binary_v
+bind
 blendColor
 blendMaxPathOpacity
 blendTransition
@@ -6238,13 +3995,16 @@ blendweights$0
 blendweights$0Indices
 blockLOS
 bloomScale
+blue
 body_type
+bone
 bone_name
 bone_names
 bonemask
 bonemerge
 bookmarkSets
 bookmarks
+bool
 bool log
 bool_array
 boolean
@@ -6253,7 +4013,6 @@ box_maxs
 box_mins
 boxproject_maxs
 boxproject_mins
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
@@ -6262,15 +4021,12 @@ breakable_skin
 brightness
 broken pipe
 broken promise
+bt3V
 buffer error
 burst_randomize
 burst_scale
 busy_anim
 busy_sequence
-by this version of libtiff.
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\assetsystem\Retail\win64\assetsystem.pdb
 c:\buildslave\hlvr_rel_win64\build\src\assetsystem\asset.cpp
 c:\buildslave\hlvr_rel_win64\build\src\assetsystem\assetfilesystem_stdio.cpp
@@ -6306,12 +4062,12 @@ c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\vwatch\vwatchlib\vwatch_internal.cpp
 c:\buildslave\hlvr_rel_win64\build\src\vpklib\packedstore.cpp
 c?FA@s}
-cAMDD
 cable
 cannot read TIFF_ANY type %d for field "%s"
 cantdie
 carry_type
 castshadows
+ceil
 cellConfiguration
 cellsNodeID
 center
@@ -6397,6 +4153,7 @@ controls
 coordSys
 core/__hack_nonexistent_folder/__hack_nonexistent_file.txt
 core/tools/images/
+cosh
 count
 create from parent particles
 create_particle
@@ -6405,38 +4162,12 @@ cubemap
 curve info
 curvetypes
 custom
-d$ A+
-d$ D9d$0|SH
-d$ E3
-d$ UAVAWH
-d$ fC
-d$(E3
-d$(H+
-d$0E3
-d$8E3
-d$@ff
-d$DE;
-d$HA;
-d$P+A$t
-d$PD9
-d$PD;
-d$PE3
-d$PfD
-d$PfD;
-d$XE3
-d$XuvM
-d$`E3
-d$h9s
-d$hE2
-d$hE3
-d$hIc
-d$pE3
-d$pM+
-d$tfff
-d$xE3
+d8L2
 d?000000`?
-dD fD9d$ u$
+dQy/
+dRL>
 damage
+data
 data error
 data height too large.
 data width or data height is negative.
@@ -6468,6 +4199,7 @@ delay
 delta
 dep.m_bOptional
 dependency
+desc
 destination address required
 device or resource busy
 direction
@@ -6493,23 +4225,13 @@ drawToolRenderablesMask
 dummyfilename.tif
 duration
 durationTime
+dxt5
 dynamic_interaction
-e A_A^A]A\]
-e A_A^A]A\_^]
-e(A_A^A]A\_^[]
 e+000
-e,>~^
-e0A_A^A]A\]
-e0A_A^]
-e8A_A^A]A\_^[]
-e8u~f
-e@A_A^]
-eH~uI
+eF>t
 eLK(w
-ePA_A^]
-eXA_A^A]A\_^[]
 editorType
-effortblocks = %d
+effortblocks = %d\n
 element
 elementList
 element_array
@@ -6520,12 +4242,11 @@ emitFromWorld
 emitting
 enable_limit
 encoding
-encoding %s %d format %s %d
+encoding %s %d format %s %d\n
 endFrame
 endTime
 endframe
 ent_dota_lightinfo
-entiA
 entity
 entity_properties
 entry_anim
@@ -6552,67 +4273,11 @@ explosive_radius
 exportTags
 exporttags
 extreme cHRM chunk cannot be converted to tristimulus values
-f9)u H
-f9)uTH
-f9,Ju
-f9,~u
-f9<Au
-f9<Bu
-f9G`u1H
-f9G`uCH
-f9HX|OH
-f9LwpuE
-f9\$bu
-f9u"v
-f;i }D
-fA9,Au
-fA94@t
-fA9<\u
-fA;DP
-fB9,Nu
-fB94Ou
-fB9<@u
-fB9<Bu
-fB9<Hu
-fC;TA
-fD9	t
-fD9	t(I
-fD9 t
-fD9 tMH
-fD9 u
-fD9$Hu
-fD9,Au
-fD9,Cu
-fD9,Ku
-fD9,Pu
-fD90t
-fD90u
-fD94Fu
-fD94Gu
-fD96u
-fD9;u
-fD9<Au
-fD9<Xu
-fD9?t&
-fD9Ab
-fD9t$b
-fD9tE
-fD9} ~<f
-fD9}`~<f
-fD;#}RI
-fD;#}s
-fD;+}:
-fD;C s#A
-fD;I:v
-fD;cx}]
-fD;kx}@
-fE9,Du
-fE9,tu
-fE98t'
-fF9<qu
-fG9$Ou
-fG9,wu
-fJBGo
+eyes
+fD>b
+fP~V
+fWi?
+fabs
 faceMergeAngle
 facial_animation
 fadeIn
@@ -6622,9 +4287,7 @@ falloff_left
 falloff_right
 false
 fbx2dmx
-fffff
-ffffff
-fffffff
+file
 file CRC changed
 file error
 file existence changed
@@ -6638,6 +4301,7 @@ filterType
 filterclass
 filtered_
 flags
+flat
 flipVCoordinates
 float
 float log
@@ -6645,6 +4309,7 @@ float_array
 floating point predictor 
 floor
 fltx4
+fmod
 fog_lighting
 for "ReferenceBlackWhite" array
 for "StripByteCounts" array
@@ -6666,6 +4331,7 @@ frexp
 friction
 fromAttribute
 fromElement
+fu`z
 function not supported
 functionName
 future
@@ -6679,6 +4345,7 @@ g_pMemAlloc
 g_pThreadPool
 g_pToolsSplashScreen->showMessage
 ga_frame
+game
 game/
 game_class
 game_keys
@@ -6688,18 +4355,15 @@ gameitemclass
 gameunitclass
 gamma table being rebuilt
 generic
-gfffA
-gfffffffH
+glow
+gqr<
 gravity
 green
 gridspacing
 groupColor
+h0'D
 h>1my
-hA^A\
-hA^A]^]
-hA_A]A\_[]
-hA_A^A]A\_^[]
-hA_A^A]A\_^][
+hPU3
 hammer
 handindex
 hcrop
@@ -6717,13 +4381,11 @@ hold_right
 horizontal differencing 
 host unreachable
 houdini
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0X
-http://ocsp.digicert.com0\
-http://www.digicert.com/CPS0
 hurt_me
 hurt_them
-i H9i0u
+i91k
+i]Wb
+icon
 identifier removed
 ikdata
 ikrig
@@ -6738,7 +4400,6 @@ incorrect count for field "%s" (%u, expecting %u); tag trimmed
 incorrect data check
 incorrect header check
 incorrect length check
-ineIA
 info_particle_system
 inity
 insert
@@ -6791,33 +4452,14 @@ isOrientation
 isPosition
 is_debris
 ispc_texcomp.dll
-iu+-,
 j'Vlk
-j>>A?1
-j?V()
-j?{$*
-jj@0HK4
 jointIndices
 jointIndicesIndices
 jointList
 jointTransforms
 jointWeights
 jointWeightsIndices
-k HcKX;
-k(H9+t
-k0i0$
-k0t$I
-k<9s@~;L
-k<9s@~>L
-k<9s@~?L
-k<9s@~@L
-k<9s@~DL
-k<9s@~EL
-k<9{@~:L
-k<9{@~EL
-k<9{@~FL
-k@_aH
-kN`8H
+k=yI
 keyvalues
 keyvalues file
 keyvalues2
@@ -6825,102 +4467,14 @@ keyvalues2_flat
 keyvalues2_flat_v
 keyvalues2_noids
 keyvalues2_v
-kgGzu
-kxu/H
-l!;b	F
-l$ 9Q
-l$ ATAVAWH
-l$ AVH
-l$ D9l$0|LH
-l$ E3
-l$ E;G|
-l$ I;
-l$ V3
-l$ VATAWH
-l$ VAUAWH
-l$ VAV
-l$ VAVAWH
-l$ VH
-l$ VWATAUAVAWE3
-l$ VWATAUAWH
-l$ VWATAVAWH
-l$ VWATH
-l$ VWAUAVAWH
-l$ VWAUH
-l$ VWAVH
-l$ VWAWH
-l$ W3
-l$ WATAUAVAWH
-l$ WAVAWH
-l$ WH
-l$ u>I;
-l$ uBI;
-l$$9L$(
-l$$D;
-l$(D;
-l$(E3
-l$(LcI
-l$(fI
-l$0A+
-l$0A^^
-l$0A_A^A]A\
-l$0E3
-l$0H+
-l$0Hc
-l$0HcA
-l$0Ic
-l$0ff
-l$0~8H
-l$8A2
-l$8A;
-l$8E3
-l$8H+
-l$8Hc
-l$8HcG
-l$8HcH
-l$8HcO
-l$8t	H
-l$@9k
-l$@@2
-l$@A3
-l$@A;
-l$@D9s8~YH
-l$@Hc
-l$@I;
-l$H@2
-l$HA_A]A\_^
-l$HA_A^A]A\_^
-l$HLcH
-l$HfA
-l$H~&E
-l$PA_A^A]A\_^
-l$PD30A
-l$PD;
-l$PHcO
-l$PLc
-l$XA+
-l$XE3
-l$XHc
-l$Xt	H
-l$`C9,
-l$`E3
-l$`E9j
-l$`E;j
-l$`Ic
-l$`Mc?H
-l$`u$H
-l$hHcH
-l$hL;
-l$hM;
-l$hff
-l$pE3
-l$pfff
-l$x@2
-l$xH;
 l6qnk
+lDa>
 last_sniff
 layers
+lcQe
 ldexp
+leaf
+left
 leftEdgeActive
 leftEdgeCurveType
 leftEdgeValue
@@ -6951,12 +4505,16 @@ localaxis
 lock to bone
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 lower_hemisphere_is_black
-m8L9c
+m?H7
+mG4>
+mXr4
+m\nXo
 m_AdditionalExtensions
 m_AssetTypes
 m_AutoTags
@@ -6990,6 +4548,7 @@ m_FilterFunc
 m_Filters
 m_ForceGenerators
 m_FriendlyName
+m_ID
 m_IKChains
 m_Icon
 m_IconLg
@@ -7161,14 +4720,15 @@ maxHullVertices
 maxVerticesPerHull
 max_angle
 max_time
+maya
+mesh
 meshes
 message size
-mgfff
 midpoint
 min_angle
 min_time
-mj>zjZ
-moA8]
+mips
+mode
 model
 model_attachment
 model_bone
@@ -7202,6 +4762,8 @@ modeldoc6
 modeldoc7
 modeldoc8
 modeldoc9
+modf
+modo
 movieSettings
 movieobjects
 mp3_content_1
@@ -7223,13 +4785,14 @@ multilevel
 multilevelchannel
 multiplayer_break
 must be either LogLUV or LogL
-n D9e
+n$Kx
 n03>Pu
 nCoverageHitPoints > 0
 nLayoffState
-nN0fA
 nTries < 10000000
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -7284,12 +4847,11 @@ not connected
 not enough memory
 not supported
 npcclass
-ntelE
+null
 numchannels
 numsegments
-oD$ H
+o?GS
 oI>O7
-oO0fI
 obwQ4
 offset
 offsetTime
@@ -7307,25 +4869,10 @@ origin_max_delta
 origin_relative
 oscillate_scalar
 oscillate_vector
-ot$ H
+owM&
 owner dead
 ownerlog
-oypfD
-o|$0f
-p AWH
-p UAVAWH
-p WATAUAVAWH
-p WAVAWH
 p?DmAttributeRemovedListenerInfo_t CUtlMemoryPool
-pA]A\_[]
-pA^[]
-pA^^]
-pA^_^
-pA_A]A\_]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_][
-pA__]
 pAsset->CompileState() == ASSET_FILE_COMPILED
 pAsset->Test_GetRecompileCount() == 1
 pAsset->Test_GetRecompileCount() == 2
@@ -7348,7 +4895,6 @@ pContentWAVAndGame != NULL
 pContentWAVAndGame->HasFileInLocation( ASSET_LOCATION_CONTENT )
 pContentWAVAndGame->HasFileInLocation( ASSET_LOCATION_GAME )
 pContext
-pD	s0
 pEvents
 pExecutionResource
 pGameOnly != NULL
@@ -7380,7 +4926,7 @@ parentConstraint
 parent_bone
 particle
 particles/
-pass %u
+pass %u\n
 patch
 permission denied
 pfmscale
@@ -7424,6 +4970,7 @@ preset
 presetGroups
 presetRemap
 presets
+proc
 procedural
 processors
 promise already satisfied
@@ -7436,23 +4983,14 @@ proxyType
 pseudo-
 publiccontent_
 purecall
-q(9YD~tE3
-q0@80u
 qS>g?h3
 qangle
 qangle_array
 quaternion
 quaternion_array
-r	Vr.>T
-r	uOD;d$(uH
-r 9_ t
-r'Hc.;n
-r(D;u
-r(D;v
 r.vres
-r:D8v
-rBu/H
 rLp>B
+r\tVr.>T
 radius
 radius0
 radius1
@@ -7484,7 +5022,7 @@ result out of range
 result_left
 result_right
 rgb+a
-ri9V vdH
+rgba
 rightEdgeActive
 rightEdgeCurveType
 rightEdgeTime
@@ -7495,6 +5033,7 @@ right_edge_curvetype
 right_edge_value
 rightedgetime
 rightvaluechannel
+root
 rootControlGroup
 rootGroup
 rootNode
@@ -7504,29 +5043,13 @@ rotation_random
 rotation_speed_random
 rotation_spin
 rotation_spin yaw
-s	A9;A
-s WATAUAVAWH
-s WAVAWH
-s"Hc}
-s$fff
-s%D;k
-s&Hc}
-s0H9s
-s4+sP+
-s8H9s
-s8fff
-s<9s@~XL
-s@H9s H
-s@H9s(H
-s@t%@
+ru&o
 sAmTb
 sCAL chunk too short
-sFFou
+sHF'
 sPLT chunk has bad length
 sPLT chunk requires too much memory
 sPLT chunk too long
-sYHpu
-s]D9(tXI
 saturation
 scale
 scaleColor
@@ -7579,10 +5102,13 @@ showCameraFrustum
 showFocalPlane
 showViewTargets
 shutterSpeed
+side
 sidelist
 simulating
 simulationTime
 simulationTimeScale
+sinh
+size
 skeleton
 sketchup
 skycolor
@@ -7594,7 +5120,6 @@ snapshotOverride
 snapshot_file
 sound
 source_filename
-spH9sPH
 spawnFlags
 spawn_motion_disabled
 special dependency mismatch
@@ -7609,9 +5134,6 @@ srcCropXEnd
 srcCropXStart
 srcCropYEnd
 srcCropYStart
-stCD;
-stED;
-st`D;
 staggerinterval
 standard
 start
@@ -7622,9 +5144,6 @@ state not recoverable
 stereo
 stereoSingleFile
 stereoscopic
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -7641,175 +5160,7 @@ subkeys
 suppress
 surface_prop
 switchState
-sxH9s`H
 syncEngineFramerate
-t	H9s
-t	L9c
-t H9X8tN
-t!+S$L
-t!HcK
-t"<.u
-t$ A;
-t$ ATAVAWH
-t$ AVAWH
-t$ AVAWL
-t$ AVH
-t$ AWH
-t$ E2
-t$ E3
-t$ M;
-t$ Mc
-t$ UAVAWH
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ UWAVH
-t$ WATAUAVAWD
-t$ WATAUAVAWH
-t$ WATAUAVD
-t$ WATAVH
-t$ WATAWH
-t$ WAV
-t$ WAVA
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$$A+
-t$(D;
-t$(E3
-t$(H;l$@
-t$(I;
-t$(L9kxu3H
-t$(Lc
-t$(Mc
-t$,A+
-t$0+A$t
-t$0A;
-t$0A^_
-t$0A_A^
-t$0D9t$@|LH
-t$0D;
-t$0E3
-t$0H+
-t$0H;
-t$0Hc
-t$0Hc2
-t$0Hcq@H
-t$0Hcs
-t$0Hcs0;s@u	H
-t$0Hcs@;sPu
-t$0HcsX;shu
-t$0Hi
-t$0M;
-t$0ff
-t$0u*
-t$8E2
-t$8E3
-t$8H+
-t$8H9
-t$8H;
-t$8Hc
-t$8Ic
-t$8Lc
-t$8Mc
-t$@9Y8
-t$@;_
-t$@A^A]A\_
-t$@E3
-t$@H;
-t$@Hc
-t$@Hcu
-t$@Ic
-t$@Lk
-t$@tsLcK<L
-t$@ttLcK<L
-t$@twLcK<L
-t$@u(H
-t$@u_H
-t$H;^Xt
-t$HA_A^A]A\_
-t$HD8{
-t$HE3
-t$HHc
-t$HI;
-t$HM;
-t$Hff
-t$LD;
-t$PE3
-t$PHc
-t$PL+
-t$Pt!
-t$Pu1H
-t$TL;
-t$XA+
-t$XE3
-t$XE8
-t$XIc1H
-t$Xt	H
-t$\D;
-t$`9w
-t$`;w
-t$`A+
-t$`D8
-t$`E3
-t$`Hc
-t$`I;
-t$`Mcm
-t$`uDH
-t$h9~
-t$hI;
-t$hfI
-t$pA+
-t$pE3
-t$pHcH
-t$ptiHcK<L
-t$ptkLcK<L
-t$ptsLcK<L
-t$x;_@u
-t$xA;
-t$xHc1+
-t%</t
-t&H;y
-t&HcK(3
-t'@8x0u!H
-t'B;| 
-t'fE9
-t(A8(t
-t(D9&}#H
-t(fD;
-t(fff
-t)D8l$@t
-t)D96}$H
-t*D8#t
-t*H9X8u$@8
-t+H;G
-t+fff
-t,HcK
-t-Hc{
-t.8\$P
-t.@87t)
-t.@8:t)
-t.@8;t)
-t.D9s
-t/D83t*
-t/D8e
-t0+O$H
-t09+u,9s
-t0@87t+
-t0@8;t+
-t0D8#t+
-t0D83t+
-t0D8;t+
-t0D8?t+
-t1+O$H
-t3HcK
-t4A;w t
-t4D8 t
-t4McF
-t4fff
-t5LcF
-t8HcD$4
-t9H9=
 t:/content/
 t:/content/base/
 t:/content/base/base_mp3_then_leaf_wav.mp3
@@ -7832,70 +5183,17 @@ t:/game/
 t:/game/base/
 t:/game/leaf/
 t:/game/mid/
-t:D9s
-t:LcM
-t;A9;
-t=+O$H
-t><\t
-t?fff
-t@HcS
-tAHcS
-tBHc/
-tBfE;
-tCHcP
-tCfff
-tD+O$H
-tDD9V
-tDD9~Xt>H
-tDLcC
-tEH9p(t
-tEL9t$hu>
-tEfA;
-tGH;~XtA
-tHfA;
-tI@8{:t
-tIHc_ H
-tIf9wbH
-tJHc;;{
-tK@8{:t
-tLD8 tGH
-tNHc;;{
-tP@8|$!u4@8|$"t-
-tPH95
-tPfE;
-tQfD9 tK
 tRNS chunk has out-of-range samples for bit_depth
 tRNS chunk not allowed with alpha channel
-tSK;D
-tSf91tNH
-tVf91tQH
-tX<]tp<}tPH
-tXEtu
-tXHcO@D
-tXLcQ
-tXTiu
-tXTzu
-tY@8p
-tY@8{XuSH
-t[fD9I
-t\<\u$8E
-t\HcL$`H
-t];Cxr
-t]<-u
-t]<\u$8F
-t]<\u%A8F
-t]fff
-t^<\u%A8F
-t^<\u%A8G
-t^D;@
-t_D9s
 tag_ids
 tag_list
 tag_list_dynamic
+tags
 tangent$0
 tangent$0Indices
 tangents
 tangentsIndices
+tanh
 targetGroup
 targetGroupNodeID
 targetName
@@ -7906,8 +5204,6 @@ target_destination
 target_name_or_class
 target_source
 targetname
-tbD9R
-tbHc~
 test_angles_relative
 test_content_2
 test_resource_1
@@ -7919,6 +5215,7 @@ test_txt_content_2
 tex_source1
 texcoord$0
 texcoord$0Indices
+text
 text compression mode is out of range
 text file busy
 text_block
@@ -7929,17 +5226,14 @@ textureCoordinatesIndices
 textureFrame
 textureType
 texturescale
-tgA9q
 tier0.dll
+tile
 tiles
+time
 timeFrame
 time_array
 timed out
 times
-tl+K$3
-tlLcA
-tlMcH
-tmLc\$0
 to fetch array of rationals
 to fetch per-sample values
 to fetch strip tag
@@ -7964,92 +5258,17 @@ toolimages:assettypes/generic_lg.png
 toolimages:assettypes/generic_sm.png
 tools_asset_info.bin
 toolutils2
-tqHct$ ;t$0u
-trD8(tmH
-trH9}
-trLcJ
 trail_length_random
 transform
 transparency
 treeColor
 trilinear
-ttIcF
-tu+K$3
+true
 turn_rate
-tvHcE
-tvL9cpH
-tvLcK
-twH;^XtH3
-txH99us
-tyA9[
-tyfD9 tsH
-tzLcK<L
-u	9w$
-u	@8=
-u f;N
-u!!D$(H
-u"D;{
-u"IcF8
-u$@8z
-u%!D$@H
-u%HcWxH
-u(Hc7;w
-u)!t$(H
-u-Hc}P;}`u
-u.Hc7;w
-u1!D$0H
-u2A8D
-u2HcB
-u2fff
-u3HcH<H
-u4D9~
-u98D$`u;H
-u9Hc3;s
-u:E9n
-u:Hc3;s
-u:Lc@
-u=Hc3;s
-u=L;k
-u>Lcv(D;v8u
-u@A9l$
-u@E9n
-uAiD$@
-uBf9l$5t
-uEHc3;s
-uFE9n
-uGA9l$
-uHfA;
-uLE9n
-uMHcE
-uMfA9h uFfA9h0u?fA9h@u8fA9hPu1fA9h`u*fA9hpu#A
-uNA9l$
-uRE9n
-uT<0uP
-uUA9l$
-uVfE9M uOfE9M0uHfE9M@uAfE9MPu:fE9M`u3fE9Mpu,A
-uXE9n
-uY<0uU
-uYfA9h uRfA9h0uKfA9h@uDfA9hPu=fA9h`u6fA9hpu/A
-u[HcI
-u\8]x
-u\A9l$
-u`HcL
-ubHcC
-ubfD9A
-ucA9l$
-ucHcG
-ueHcS
-uf!T$(H!T$ 
-uh@8|$!t,
-uhHcE`Lk
-uhIc4
-uiD9~
 uint64
 uint64_array
 uint8
 uint8_array
-umHcF(A
-umfE9H uffE9H0u_fE9H@uXfE9HPuQfE9H`uJfE9HpuCA
 unexpected count for field "%s", %u, expected 2; ignored
 uniform_burst
 unknown
@@ -8059,22 +5278,14 @@ unknown error
 unknown exception
 unknown header flags set
 unnamed
-unrecognized option in text file - %s
+unrecognized option in text file - %s\n
 upAxis
-upfD9I
-urHc~
-urfff
 useEdgeInfo
 use_additional_offset
 usecurvetypes
 useedgeinfo
-uuHcF
-ux@85
-uxHcOP
 uzKs@>
-v A9~ w
 v2!L.2
-v=Y]Bv
 vQO+t
 value
 value too large
@@ -8112,15 +5323,20 @@ videoTarget
 virtualvolumetexture
 visbility
 visible
+vmap
+vmat
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
 vmesh
+vmks
 vmtFallback
 vmtProxy
 volumeTextureDepth
 volumefogenabled
 volumetexture
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -8148,27 +5364,27 @@ vpcf7
 vpcf8
 vpcf9
 vphzc
+vpk:
 vpost
 vr_carry_type
+vres
 vsDmxIO SketchUpScene
 vsDmxIO houdiniSceneIO
 vsUtils.py
+vsky
 vsnap
+vsnd
 vstdlib
 vstdlib.dll
 vsutils_py
+vtex
+vvtx
 vwnod
 vwrld
-v}`[>
-w fA;
 w+OQvr
-w1kK0
-w4kK0
-w7tAA
-w:fA;
-w?fD;
-wAfD;
-wDfA;
+w3Xc
+w8#5
+wXR\r
 wav_content_1
 wav_content_2
 wav_content_3
@@ -8186,263 +5402,20 @@ wrinkle$0
 wrinkle$0Indices
 wrinkleIndices
 wrong protocol type
-www.digicert.com1!0
-x	HcM
-x	HcQ
-x A;@X}
-x ATAVA
-x ATAVAWH
-x AUAVAWH
-x AV3
-x AVE2
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x!HcI
-x!HcK
-x";C }
-x$H9-
-x.HcAhL;
-x9H;H
-x9HcGhH;
-x9HcS
-xA]A\[]
-xA]A\_^
-xA^A][]
-xA_A^A]A\_^][
-xA_A^_^
-xEH;^
-xMHcM
-xMHcQ
-xRHcQ
-xSH;H
-xWI96tRI
-xZH;A
-xZH;Q
-x]~\6
-x^j=|
-x_^][
+xT?V
 xcoord
 xpxxxx
-xuJE3
 xwpwpp
-y899u
-yBNu'
-y\PD>!
+y9*O
 yaw_end
 yaw_start
 ycoord
-z/u-A
-z/u-E
 z:KCAuthPhysBody
-zK47|
-zY;>u:m	
+zero
 zlib memory error
 zlib stream error
 zlib version error
-{ ATAVAWH
-{ AVH
-{(H9n
-{Xf9{Z~
 {YIN?
-{hw>H
-{un'%
-{}[]()=&, 	
-{}[]=, 	
-|#tAM
-|$ @8{
-|$ A;
-|$ ATAUAVAW
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ ATAVAWHcA
-|$ AUAVAWH
-|$ AVAW
-|$ AVAWD
-|$ AVAWH
-|$ AVE3
-|$ AVH
-|$ AWD
-|$ AWH
-|$ D!
-|$ E3
-|$ E9
-|$ H;
-|$ Hc
-|$ Lc
-|$ Lk
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ ff
-|$ fff
-|$ |AH
-|$":uq
-|$$M+
-|$(A;
-|$(A^
-|$(A_
-|$(E3
-|$(H+
-|$(I;
-|$,E3
-|$09{P~FH
-|$0@"
-|$0A+
-|$0A;
-|$0A^A\
-|$0A_A^
-|$0B+
-|$0E3
-|$0E;
-|$0H+
-|$0H;
-|$0H;}
-|$0Hc
-|$0Hc:
-|$0Hc{
-|$0Hc{0;{@u
-|$0Ic
-|$0L;
-|$0fD
-|$0fI
-|$0ff
-|$0fff
-|$0s-
-|$2*u
-|$4E;
-|$89^
-|$89s0~S3
-|$89t$x
-|$8;3
-|$8@8h
-|$8A_A^A\
-|$8B8
-|$8D9;~vL
-|$8D9;~wL
-|$8H+
-|$8Hc
-|$8L;
-|$8t,H
-|$8u*
-|$<;{0
-|$@-D
-|$@-H
-|$@@"
-|$@A_A^A]A\
-|$@E3
-|$@H;
-|$@Hc
-|$@HcL$<H
-|$@Hcyp;
-|$@Lc
-|$@ff
-|$@t	3
-|$H@2
-|$HA#
-|$HA;
-|$HE3
-|$HH9D$XtJM
-|$HHc
-|$HHc7;w
-|$HHcK
-|$HHi
-|$Ht	H
-|$Ht#
-|$HtwI
-|$Hu3H
-|$L.u
-|$PA;^ u
-|$PE3
-|$PE;
-|$PHc
-|$PHcy@
-|$PHc{@$
-|$PLk
-|$Pfff
-|$T0H
-|$XA+
-|$XE+
-|$XHc
-|$XHcU
-|$XIc
-|$XfA;
-|$XfD;
-|$\.u
-|$`30
-|$`9;~nH
-|$`@2
-|$`A+
-|$`CI
-|$`E3
-|$`Hc
-|$`Ic
-|$`Lc
-|$`ff
-|$h9i
-|$hA+
-|$hD+
-|$hE3
-|$hE;
-|$lA+
-|$p9:~JL
-|$p9l$ ~_L
-|$pE3
-|$pH;
-|$pHc
-|$xLc
-|${H+
-|Lu?c
-|b=})>
-} Hcu`H
-}%;Q|
-}&f;{
-}(D8o
-}0;_|
-}:fA;
-}?fA;
-}IfA;
-}LuHO
-}PHcU
-}UfD	
-}_t!H
-}iD;K$
-}tD;Q$wnH
-}|D;I$wvL
-~ $s%r
-~ fff
-~!A;~
-~"fff
-~(HcNDI
-~*9q0
-~*9qP
-~,IcZ
-~-LcP
-~28\$0t
-~2D8u
-~:fD9,
-~BLcK0E3
-~EI9|$
-~FHc+;k
-~IHc+;k
-~L@8~8u
-~OE{5
-~P~%3
-~QLc]
-~XHcD$pL
-~\ u&I9
-~]Lc]
-~`8A!t
-~`LcM
-~aLcM
-~bLcM
-~cLcM
-~cfff
-~eLcM
-~fLcM
-~jLcM
-~nfff
-~t&LN
-~tfff
+{kHw
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;

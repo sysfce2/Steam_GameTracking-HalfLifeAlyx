@@ -1,105 +1,50 @@
-					
-								
-	#jT$
-	D8r4
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
-	|\Hc
                           
         %3d %3d %3d %3d %3d %3d %3d %3d
         %4u %4u %4u %4u %4u %4u %4u %4u
     Component %d: %dhx%dv q=%d
     Component %d: dc=%d ac=%d
     with %d x %d thumbnail image
-  %s / %s MB
-  %s / %s MB (non-evictable: %s MB)
-  Bad Fax Lines: %lu
-  CB: %u buffers, %.2f MB
-  Consecutive Bad Fax Lines: %lu
-  Fax DCS: %s
+  %s / %s MB (non-evictable: %s MB)\n
+  %s / %s MB\n
+  Bad Fax Lines: %lu\n
+  CB: %u buffers, %.2f MB\n
+  Consecutive Bad Fax Lines: %lu\n
+  Fax DCS: %s\n
   Fax Data:
-  Fax Receive Parameters: %08lx
-  Fax Receive Time: %lu secs
-  Fax SubAddress: %s
+  Fax Receive Parameters: %08lx\n
+  Fax Receive Time: %lu secs\n
+  Fax SubAddress: %s\n
   Group 3 Options:
   Group 4 Options:
-  IB: %d buffers, %.2f MB
+  IB: %d buffers, %.2f MB\n
   Predictor: 
   Ss=%d, Se=%d, Ah=%d, Al=%d
-  TEX: %u textures, %.2f MB
-  TOTAL: %.2f MB
-  VB: %d buffers, %.2f MB
+  TEX: %u textures, %.2f MB\n
+  TOTAL: %.2f MB\n
+  VB: %d buffers, %.2f MB\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- (%lu = 0x%lx)
- (%u = 0x%x)
- -shadowTargetSize forcing nPoolSizeInMb size to %d from %d, bLarge %d, avail %lld
- 0@P`p
- 9(X`
- @SUATAUAWH
- @SUH
- A]_^
- A]_^][
- A^][
- A^^]
- A^_[
- A^_^
- A_A\_H
- A_A]A\][
- A_A]A\_^
- A_A]^
- A_A^A\
- A_A^A\^]
- A_A^A\_^
- A_A^A]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_H
- A_A^A]A\_^]
- A_A^A]_]
- A_A^^
- A_A^_
- A_A^_H
- A_A^_^]
- A_][
- A_^]
- A__]
- A__^
+ (%lu = 0x%lx)\n
+ (%u = 0x%x)\n
+ -shadowTargetSize forcing nPoolSizeInMb size to %d from %d, bLarge %d, avail %lld\n
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
- Can't specify initial state of dynamic constant buffers at creation time!
+ Can't specify initial state of dynamic constant buffers at creation time!\n
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- Hc1H
- Hci@3
- Hcq|
- Hct$PM
- Hcy@H
- HcyXH
  LZWSetupDecode
  Type Descriptor'
  but running with 
  clean
  delete
  delete[]
- new[]
+ new
  receiver regenerated
- t?D9
- tDE3
  uncorrected errors
- vJH+
-!!!!!!
-!!!!!!!!
-!!!!!!!!!!!!!!!!!!
-!,X< w
 !1AQaq
-!>6'Y
-!T$(H!T$ 
-""""UUUU
+!AxU
 "%s": Bad mode
 "%s": Information lost writing value (%g) as (unsigned) RATIONAL
 "2BRbr
@@ -113,7 +58,7 @@
 "pixelAspectRatio" attribute not found in the header.
 "screenWindowCenter" attribute not found in the header.
 "screenWindowWidth" attribute not found in the header.
-# of channels is zero.
+# of channels is zero.\n
 #3CScs
 #bML"
 #base
@@ -124,7 +69,6 @@ $4DTdt
 $Ib?s
 %.100s: Can not read TIFF directory
 %5EUeu
-%GoU?*
 %f %f %f %f
 %i %i %i %i
 %ld%c
@@ -134,7 +78,6 @@ $Ib?s
 %s %s encoding is not implemented
 %s compression support is not configured
 %s2-d encoding
-%s: %s
 %s: %s at line %u of %s %u (got %u, expected %u)
 %s: Bad code word at line %u of %s %u (x %u)
 %s: Bad field type %d for "%s"
@@ -179,132 +122,40 @@ $Ib?s
 %s: cannot handle zero strip size
 %s: cannot handle zero tile size
 %s: invalid TIFF directory; tags are not sorted in ascending order
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s: unknown field with tag %d (0x%x) encountered
 %s: wrong data type %d for "%s"; tag ignored
 %s: zlib error: %s
 %sEOL padding
 %suncompressed data
-%u (0x%x)
 &6FVfv
 &?PPPPPPP?
+&Sgw
 '7GWgw
-'D8l$@
 ( 8PX
-(%s): ADD %s = %s
-(%s): Setting %s to %s
+(%s): ADD %s = %s\n
+(%s): Setting %s to %s\n
 ('8PW
-(*%s*), 
 (8HXhx
-(A^A]_^
-(A^^][
-(A_A^A][
-(A_A^_[
-(D$ H
-(D$0A
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$ D
-(L$0D
-(L$0H
-(L$PD
-(L$`D
-(L$pD
-(T$ D
-(T$@D
-(T$PD
-(T$`D
-(T$pD
-(T?j?Y
-(\$0D
-(\$@D
-(\$PD
-(\$`D
-(_^][
-(d$ D
-(d$ L
-(d$0D
-(d$@D
-(d$PD
-(l$ D
-(l$0D
-(l$@D
 (null)
-(o:R	
-(t$ D
-(t$ H
-(t$ L
-(t$0A
-(t$0D
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$PH
-(t$PL
-(t$`A
-(t$`H
-(|$ D
-(|$ H
-(|$ L
-(|$0D
-(|$@H
-(|$pL
 )9IYiy
-)>6{1n
-)D$ H
-)D$0A
-)D$0H
-)D$@D
-)D$@H
-)D$PH
-)L$0D
-)L$0H
-)L$0H;
-)L$@H;
-)L$@L
-)L$PE
-)L$PH
-)L$Pf
-)\ZEo^m/
-)d$PE
-)t$ H
-)t$0H
-)t$@A
-)t$pH
-)|$PD
-)|B?d!
+)yIx
+*5KS
 *:JZjz
 *StO9>T
-+;K[k{
-+C$Hc
-+D$ fE
-+G$Hc
-+L$0A
-+M<7>
-+T$4E
-+f)>0'
-+h->|
-+|$XD
 , channels = 
 , height = 
-,/<-w
-,0<	w
-,<L\l|
-,D$dHi
 ,HR>O
-,I<%w
-,Ic|$
-,|%)v
--=M]m}
 -BH>t
 -adapter
 -autoconfig
 -autoconfig_level
+-avx
 -deferTextureLoads
 -disallowhwmorph
 -dontEvictTextures
 -dx11
+-dx9
 -empty
 -force_recommend_gl
 -ignoredxsupportcfg
@@ -320,10 +171,8 @@ $Ib?s
 -sse3
 -sse4
 -vulkan
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU_Crt_new_delete@std@@
 .?AUctype_base@std@@
 .?AV?$CBaseAppSystem@VIRenderDeviceMgr@@@@
@@ -443,13 +292,12 @@ $Ib?s
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -460,60 +308,35 @@ $Ib?s
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
+.txt
 .xJ>Hf
 .xdata
 .xdata$x
 /2GG>!B
-/=$!6
-/>58d%
-/?O_o
+/P8i
 /TF<)VGy#WH
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+/yQA
+0000
 00003333
 0123456789ABCDEF
 0123456789ABCDEFundefined
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
 0: Bilinear, 1: Trilinear, 2: Aniso 2x, 3: Aniso 4x, 4: Aniso 8x, 5: Aniso 16x
-0><[cZUg^>
-0A]^]
-0A]_[
-0A^A\]
-0A^A\^H
-0A^A]]
-0A^][
-0A^^[
-0A^_[
-0A^_^
-0A_A]_][
-0A_A^A\
-0A_A^A\^]
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^A]_^][
-0A_A^_
-0A_A^_^]
-0A__[
+0E>X
 0X8b?~
 0iN>/
-0v0b1
 0x%016llX
 1#IND
 1#INF
@@ -523,98 +346,39 @@ $Ib?s
 1.2.7
 1.5.13
 1.5.2
+11Y@
 123456789
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
+1600
 1A26b
-1D;Ew|
 1eaB@
 1wsHp
-200613003408Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+2\vpLD
+3 FB
+3333
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+3?tr
+51>W
+52F*
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-80tWD
-8A^A\][
-8A^_^[
-8A_A\
-8A_A\H
-8A_A^A]A\_^][
-8A_A^^[
-8GbthH
-8Lc!L
-8_^][
+7>I0
+7?GX
+7\v%74
+7~8A
+7~xh
+8&Kx
 8b  16-May-2010
 8ke?;
-8vtext
-91~lH
-98txH
-99C }
-9;~<ff
+9>70
 9>powf
-9C |K
-9C$u/
-9D$ u
-9D$x~
-9Gdr:
-9P$u.9
-9Sxv'L
-9W8~j
-9X@u4
-9_8~h
-9_p~$
-9k8~FH
-9k8~QH
-9k8~_H
-9q8|AH
-9q|~2H
-9t	A;
-9t$P~58
-9y8~YM
-9{\~9H
-:#u0A
-:>)*	v
-:>t6k'
-;.u1L
-;A ~W
-;C ~M
-;Cxr(H
-;CxsR
-;D$@@
-;H9>&X
-;\$p|
-;yPu	H
-;yhu	H
-;{ ~@
-;|$@u
-<	vN<
-<	vO<
-<	w	@
-< t;<	t7
-<$E;Q
-<;CL}_Ic
-<>#n2
-<DuBfff
+9a&g
+;1cb
 <NULL>
-<atc<r
 <deferred>
-<htr<jtb<lt6<tt&<wt
 <invalid %d>
 <no failure reason set>
 <none>
@@ -623,22 +387,19 @@ $Ib?s
 <unconnected>
 <unknown multisample type
 <x360>
-<}wWH
-=SPB8
-=SPB8t
+=1cb
+=87M
+=cQ6
+=e2m
 =imb;D
 >WIN32
->ffffff
+>cQ6
 >jtm}S
 ?!5WOo
-?*u8H
-?+>^m
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
 ??0CThreadEvent@@QEAA@_N@Z
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??0CThreadRWLock_FastRead@@QEAA@_N@Z
@@ -647,17 +408,14 @@ $Ib?s
 ??1CThreadSemaphore@@QEAA@XZ
 ?@En[vP
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
-?Cu0f9w
 ?DevMsg@@YAXPEBDZZ
 ?DevWarning@@YAXPEBDZZ
-?E=$% B
 ?EncounteredComplexReadLockOperation@CThreadRWLock_FastRead@@IEAA_NI_NPEBDH@Z
 ?FindOrCreateCounter@CVProfile@@QEAAPEA_KPEBDW4CounterGroup_t@@@Z
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
-?FixupResourceName: Illegal full path passed in ("%s")!
+?FixupResourceName: Illegal full path passed in ("%s")!\n
 ?Format@CBufferString@@QEAAHPEBDZZ
-?H33H
 ?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
@@ -665,13 +423,11 @@ $Ib?s
 ?LockForRead@CThreadSpinRWLock@@QEAAXPEBDH@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?SpinLockForWrite@CThreadSpinRWLock@@AEAAXPEBDHI@Z
-?TY,>5
 ?ToLowerFast@CBufferString@@QEAAXH@Z
 ?UUUUUU
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
@@ -683,182 +439,29 @@ $Ib?s
 ?Wait@CThreadSyncObject@@QEAA_NI@Z
 ?f`Y4
 ?kxG2)
-?u='@
-?{Q}<
-@%w	D
-@.data
-@.gfids
-@.tls
-@8,2u
-@8l$8t
-@8x tF@8
-@8x u
-@8{Xu
-@8{Yt
-@8{Yu
-@8{ht
-@8{pt
-@8{qt
-@8{rH
-@8|$Pt
-@8|$^t
-@>%>b
-@@H9(t%I
-@A\^]
-@A]A\^
-@A]^[
-@A^A\]
-@A^A]A\_^
-@A^A]]
-@A^][
-@A^_^
-@A_A\_
-@A_A]^][
-@A_A^A\
-@A_A^A\_^[]
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^_
+?lZE
+?qBJ
+?rAj
+?ysB
 @Integer overflow in %s
-@Lc:E3
-@SAUAVAWH
-@SAUH
-@SAVH
-@SAWH
-@SUATAUH
-@SUATAVH
-@SUAUH
-@SUAVH
-@SUAWH
-@SUVAUAWH
-@SUVAVH
-@SUVAWH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAUH
-@SUVWH
-@SUWH
-@SVATAUAVH
-@SVAUH
-@SVAVAWH
-@SVAVH
-@SVWATAUAVAWH
-@SVWATAWH
-@SVWAVAWH
-@SVWAVH
-@SVWH
-@SWATAVH
-@SWAUH
-@SWAVAWH
-@SWAVH
-@SWAWH
-@UATAUAVAWH
-@UATAVH
-@UAVAWH
-@USVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWAUAVH
-@USVWH
-@USWATAUAWH
-@USWH
-@UVATAVAW
-@UVAUH
-@UVAVH
-@UVWH
-@VATAVH
-@VAVAWH
-@VWATAVH
-@VWAVH
-@WATAUAVAWH
-@WAVAWH
-@WAWH
 @^8U)zj
-@b;zO]
 A!;I2
-A)|$HA
-A+G$Hc
-A,fA;
-A03>A|
-A0H9i8u
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A9D$|s[
-A9L$H
-A9U8tCMc]<McE@Lc
-A9Z<~bL
-A:(uiI
-A;L$0v#A
-A;Z<|
-A;^@|
-A>l$/
 A>pP&
-A@H98t%H
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 AK>(v
 ALIGN_TYPE is wrong, please fix
-AMAgu
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
-ATAUAVH
-ATAUH
-ATAVAWH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
-AUAVAWH
-A]A\][
-A]A\_[
-A^A\]
-A^A]A\_][
-A^A]A\_^[
-A^A]A\_^[]
-A^A]^
-A^A]_[]
-A^A]_^[]
-A^A]_^][
-A^^][
-A^_^[
-A^_^[]
-A_A\_^[H
-A_A]A\[]
-A_A^A\
-A_A^A\^]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\
-A_A^A]A\[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_]
-A_A^]
-A_A^^
-A_A^_
-A_A^_^[
-A_A^_^]
-A_^][
-A__^[
-A__^[]
 AcquireSRWLockExclusive
 ActiveArea
 Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
 AdobeDeflate
 Ahd=<c]^7if1Rjg
-AjfD;
 Allow immediately loading mips of textures (when possible) when their headers are loaded, saving IO & reducing latency.
 AnalogBalance
 AnimGraphEditorUtils001
@@ -883,14 +486,10 @@ Async Texture hookup uses its own threadpool instead of the global pool.
 AsyncHookUpTextureBits
 AsyncTextureHookup
 At marker 0x%02x, recovery action %d
-AuFHc
 August
-AuthE
-B(I9A(
 B.f?y
-B4u"A
-B8|09
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -903,10 +502,9 @@ BGRA8888_LINEAR
 BGRX5551
 BGRX8888
 BGRX8888_LINEAR
-BGRsu
 BKbhTb~XBK!;
 Backing store not supported
-Bad VTEX data for '%s'
+Bad VTEX data for '%s'\n
 Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
 Bad expression token: %c
@@ -916,10 +514,8 @@ BaselineExposure
 BaselineNoise
 BaselineSharpness
 BayerGreenSplit
-Bellevue1
 BenchmarkService001
 BestQualityScale
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 Biases the mip level the texture streaming system choses to stream for each texture.
 BinaryProperties_GetValue
 Bits/sample must be 1 for Group 3/4 encoding/decoding
@@ -943,33 +539,14 @@ Bogus sampling factors
 Bogus virtual array access
 Buffer error in compressed datastream
 Buffer passed to JPEG library is too small
-C(D;C
-C(L9p
-C,;C(~6H
-C-yh/
-C0;C,s
-C0@u3H
-C0D9p<t
-C0D9p<tN
-C0H9K8u
-C0HcF
-C0L9p
-C0L9p 
-C0L9p0
-C4;C,A
-C5R?	
-C8<(u
-C940t%G
-C@H90t%H
-C@L90t%H
-CA< t(<#t
+C-Yn
+C5R?\t
 CCIR601 sampling not implemented yet
 CCITT Group 3
 CCITT Group 4
 CCITT RLE
 CCITT RLE/W
 CCommandBufferChunk CUtlMemoryPoolMT
-CD$XD
 CEntityIndex
 CFALayout
 CFAPlaneColor
@@ -984,7 +561,7 @@ CRC error
 CRenderDeviceBase::AsyncSetTextureData(3229): 
 CRenderDeviceBase::CreateConstantBuffer(1530): 
 CRenderDeviceBase::FindOrCreateTexture(1694): 
-CRenderDeviceBase::FindOrCreateTexture: Trying to load multiple mipmaps into 3d or array texture: %s
+CRenderDeviceBase::FindOrCreateTexture: Trying to load multiple mipmaps into 3d or array texture: %s\n
 CRenderDeviceBase::Flush(941): 
 CRenderDeviceBase::ForceFlushGPU(958): 
 CRenderDeviceBase::Present(664): 
@@ -993,9 +570,9 @@ CResourceString
 CSchemaRegistration::RegisterAllModuleData
 CSheetDataTextureCache::AllocateAndUploadSequenceData
 CSheetDataTextureCache::AllocateAndUploadSequenceData(408): 
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<struct DynamicIndexBufferHandle_t__ *,0>::CTSQueue
 CTSQueue<struct DynamicVertexBufferHandle_t__ *,0>::CTSQueue
 CTextureManagerBase::AsyncHookUpTextureBits
@@ -1003,10 +580,10 @@ CTextureManagerBase::MN_BuildRequestedResourcesList
 CTextureManagerBase::MN_OnResourceFileLoaded
 CTextureManagerBase::MN_OnResourceLoadCompleted
 CTextureManagerBase::MN_OnResourceLoadFailed
-CTextureManagerBase::MarkAsyncUpdatedThisFrame - Invalid texture handle.
+CTextureManagerBase::MarkAsyncUpdatedThisFrame - Invalid texture handle.\n
 CTextureManagerBase::PreloadTextureBits
 CTextureManagerBase::RemoveTextureFromAnyQueues
-CTextureManagerBase::WasAsyncUpdatedThisFrame - Invalid texture handle.
+CTextureManagerBase::WasAsyncUpdatedThisFrame - Invalid texture handle.\n
 CThreadedJob
 CTransform
 CUBEMAP_FACE_NEGATIVE_X
@@ -1016,17 +593,17 @@ CUBEMAP_FACE_POSITIVE_X
 CUBEMAP_FACE_POSITIVE_Y
 CUBEMAP_FACE_POSITIVE_Z
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlFixedMemory overflow!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::Grow
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::Grow
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::AllocInternal
 CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
 CUtlString
 CUtlString::FormatV
@@ -1035,7 +612,6 @@ CUtlSymbol
 CUtlSymbolLarge
 CUtlVector
 CWD>~3
-CXHc8H
 CalibrationIlluminant1
 CalibrationIlluminant2
 Call to NULL read function
@@ -1043,9 +619,9 @@ CameraCalibration1
 CameraCalibration2
 CameraSerialNumber
 Can not read scanlines from a tiled image
-Can't clear TEXTURE_WAITING_FOR_IO flag because of streaming request mismatch: %d in handle, %d in request
-Can't clear TEXTURE_WAITING_FOR_IO flag because pTexture is NULL
-Can't detect memory size on this platform!
+Can't clear TEXTURE_WAITING_FOR_IO flag because of streaming request mismatch: %d in handle, %d in request\n
+Can't clear TEXTURE_WAITING_FOR_IO flag because pTexture is NULL\n
+Can't detect memory size on this platform!\n
 Can't set both read_data_fn and write_data_fn in the same structure
 Cannot handle different per-sample values for field "%s"
 Cannot quantize more than %d color components
@@ -1060,7 +636,7 @@ CellLength
 CellWidth
 ChromaBlurRadius
 CleanFaxData
-Clearing TEXTURE_WAITING_FOR_IO flag because it's has no streaming request id anymore
+Clearing TEXTURE_WAITING_FOR_IO flag because it's has no streaming request id anymore\n
 ClipPath
 CloseHandle
 CloseThreadpoolTimer
@@ -1076,14 +652,14 @@ Colormap
 CommandLine
 CompareStringEx
 Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
-Compressed texture decoded in %.2f ms
+Compressed texture decoded in %.2f ms\n
 Compression
 Compression algorithm does not support random access
 Compression scheme %u %s decoding is not implemented
 Compression scheme %u %s encoding is not implemented
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigurationSystem_001
 ConnectInterfaces
 ConsecutiveBadFaxLines
@@ -1098,7 +674,6 @@ Corrupt JPEG data: bad Huffman code
 Corrupt JPEG data: bad arithmetic code
 Corrupt JPEG data: found marker 0x%02x instead of RST%d
 Corrupt JPEG data: premature end of data segment
-Cp9Sxv(L
 CreateEventExW
 CreateEventW
 CreateFileW
@@ -1113,151 +688,26 @@ CreateThreadpoolWork
 CubeMapFace_t
 CurrentICCProfile
 CurrentPreProfileMatrix
-Cx9S8~'H
-D W?{W
-D#C|D
-D#G|D
-D#K|D
-D$ ;D$0u
-D$ E3
-D$ H;
-D$ L;
-D$$9D$(u
-D$(E3
-D$(H9
-D$(H;
-D$(L9
-D$)fD
-D$,D;
-D$0,M
-D$00u
-D$0D9
-D$0H#
-D$0H+
-D$0H;
-D$0HcC(I
-D$0HcH
-D$0I;
-D$0fD
-D$0xL
-D$4+D$8A
-D$49C
-D$8+C$H
-D$8A+
-D$8A;
-D$8E3
-D$8H;
-D$8Ic
-D$8L9
-D$8L;
-D$8Mc
-D$8fH
-D$8ff
-D$<9T$0wE9T$4w?9T$8w9;
-D$@%I
-D$@< u
-D$@E3
-D$@H+
-D$@H;
-D$@H;G
-D$@Hc
-D$@csm
-D$@fD
-D$A u
-D$A+L
-D$BfD;
-D$DHc
-D$H;D$`
-D$HE3
-D$HH;
-D$P I
-D$PE3
-D$PH+
-D$PH;
-D$PHc
-D$PI;
-D$PL;
-D$PfB
-D$XHc
-D$\Hc
-D$`9D$Hs$H
-D$`E3
-D$`H;
-D$`Hc
-D$`L;
-D$aE;
-D$h9_ t}I
-D$hD+
-D$hD;
-D$hE;
-D$hHc
-D$hu4D
-D$pD;
-D$pE3
-D$pMc
-D$tA9D$|
-D$tfD
-D$vf9EV
-D$vf;E
-D$xHc
-D$xfD
-D$|A;D$pr
-D$|fE
-D(8Ht}
-D)p(H
-D+D$8
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8&t!
-D8&t4H
-D8't(Ic
-D82u&H
-D88Ht!
-D88Hte
-D8c&t
-D8d$8t
-D8d$Ht
-D8d$ht
-D8l$@t
-D8l$ht
-D8s`A
-D8s`D
-D8t$8t
-D8t$Ht
-D8{&t
-D98Ht;H
-D98tT
-D9T$8
-D9c t
-D9s(t)H
-D9s,u
-D9|$ 
-D;Cx|
-D;G8|
-D;T$8}
-D;[ D
-D;s8|
-D;{8|
-D;|$0|
-D<P0I
-DATAL
 DCT coefficient out of range
 DCT scaled block size %dx%d not supported
-DD$$H
+DDDD
 DDDDUUUU
-DGKbu
-DNEIu
+DEMO
 DNGBackwardVersion
 DNGPrivateData
 DNGVersion
+DX11
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 Da\">c]$8c^
 Data error in compressed datastream
@@ -1266,7 +716,7 @@ DateTime
 DebugTextureInfo001
 December
 DecodePointer
-Decompressed %i texture mips in %.2f ms (%.1fmb/s)
+Decompressed %i texture mips in %.2f ms (%.1fmb/s)\n
 Decompression Error
 Decompression error
 DefaultCropOrigin
@@ -1279,18 +729,12 @@ Define Restart Interval %u
 Deflate
 DegreeEuler
 DeleteCriticalSection
-Deleting texture with outstanding streaming request (%s)
+Deleting texture with outstanding streaming request (%s)\n
 DeviceID
 Didn't expect more than one scan
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Direct3D 11
 Direct3D 9
-Discarding abandoned streaming texture load for %s
+Discarding abandoned streaming texture load for %s\n
 Display GPU memory usage.
 DocumentName
 DotRange
@@ -1311,31 +755,19 @@ Duplicate sRGB chunk
 Duplicate tIME chunk
 Duplicate tRNS chunk
 DynamicProgressFeedback
-E(9p(u
-E)l$HL
-E+BHI
-E0C07
-E0HcH
-E0Lcx
-E8A8_
-E;|$4sP
 E>nEA
-E@A8_
-E@t	H
-EL$pfA
-EMItu
-EP*?@
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ETLPu
-ETLPu?
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ET5>
 EXECUTABLE_PATH
 EXIFIFDOffset
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EXRHeader variable is not initialized.
-EXRReadFile() - B channel not found!
-EXRReadFile() - G channel not found!
-EXRReadFile() - R channel not found!
+EXRReadFile() - B channel not found!\n
+EXRReadFile() - G channel not found!\n
+EXRReadFile() - R channel not found!\n
+E[\rn?gc
 EconItemToolModel_001
+EiUL
 Empty
 Empty Driver
 Empty JPEG image (DNL not supported)
@@ -1364,23 +796,17 @@ ExitProcess
 Extra compressed data
 Extra compression data
 ExtraSamples
-F +F(
-F 9F(r
-F @8{ru
-F()h(H
-F(@8{Yu)H
-F(D)p(H
-F(D9p(u
 F>qUxv
-FATAL ERROR: unable to register all schema data: %s
-Failed AllocateTexture for '%s'
+FATAL ERROR: unable to register all schema data: %s\n
+FEMh\f
+Failed AllocateTexture for '%s'\n
 Failed to allocate field info array
 Failed to allocate memory for %s (%ld elements of %ld bytes each)
-Failed to compute channel layout.
+Failed to compute channel layout.\n
 Failed to create temporary file %s
-Failed to parse channel info.
-Failed to read attribute.
-Failed to save video settings config to '%s'
+Failed to parse channel info.\n
+Failed to read attribute.\n
+Failed to save video settings config to '%s'\n
 Fax3Decode1D
 Fax3Decode2D
 Fax3DecodeRLE
@@ -1393,6 +819,7 @@ FaxRecvParams
 FaxRecvTime
 FaxSubAddress
 February
+FfW?
 FieldOfViewCotangent
 File not open for reading
 FileKeys
@@ -1400,12 +827,12 @@ FillOrder
 FindClose
 FindFirstFileExA
 FindNextFileA
-FindOrCreateTexture: Cannot create static textures with no data!
-FindOrCreateTexture: Cannot load multiple mipmaps into cubemap texture: %s
-FindOrCreateTexture: Only dynamic textures can have non-global scope!
-FindOrCreateTexture: Texture scope is unspecified!
-FindOrCreateTexture: Texture usage is unspecified!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+FindOrCreateTexture: Cannot create static textures with no data!\n
+FindOrCreateTexture: Cannot load multiple mipmaps into cubemap texture: %s\n
+FindOrCreateTexture: Only dynamic textures can have non-global scope!\n
+FindOrCreateTexture: Texture scope is unspecified!\n
+FindOrCreateTexture: Texture usage is unspecified!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 Floating point "Predictor" not supported with %d data format
 FlsAlloc
@@ -1415,7 +842,7 @@ FlsSetValue
 FlushFileBuffers
 FlushProcessWriteBuffers
 FontManager_001
-Found %d streaming textures in array, but in-flight count is %d
+Found %d streaming textures in array, but in-flight count is %d\n
 Fractional sampling not implemented yet
 FreeByteCounts
 FreeEnvironmentStringsW
@@ -1426,16 +853,13 @@ Freed EMS handle %u
 Freed XMS handle %u
 Friday
 G%lld
-G0Hc	H
-G8Hc@
+G>US
 GAMECONSOLE
+GCTL
 GPSIFDOffset
-GT$8H
-GT$HH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-Genu3
 GetACP
 GetCPInfo
 GetCPUInformation
@@ -1473,95 +897,24 @@ GetThreadTimes
 GetTickCount64
 GetUserDefaultLCID
 GetUserDefaultLocaleName
-Graphics Device changed, resetting video config
+Graphics Device changed, resetting video config\n
 GrayResponseCurve
 GrayResponseUnit
 Group3Options
 Group4Options
-Gt$8A
-H!D$ E
-H!T$0D
+H$6t
 H*0"ZOW
-H+L$HH
-H0F08
-H3\$HH
-H97t<
-H98t%H
-H98u'
-H9Ahs
-H9C(t
-H9L$Ht?H
-H9L$`t
-H9QHt@H9QPt-H
-H9Qhv
-H9R0u
-H9R8u
-H9R8uOH
-H9\$8
-H9\$@
-H9\$H
-H9\$PH
-H9\$X
-H9_ tZA
-H9|$8
-H9|$@
-H9~Pu
-H;XXs
-H;xXu9
-H;|$0
-HA^A\_^
-HA^A]A\]
-HA^^][
-HA_A]A\_^[
 HH:mm:ss
 HIGHDPI
-HL;l$Ht
-H[><y5
 HalftoneHints
 HammerMapLoader001
-Hc7;w
-Hc;;{
-HcA$H
-HcB(H
-HcC H
-HcC$H
-HcC(A
-HcCxH;
-HcCxL;
-HcD$X
-HcFxH
-HcG(H
-HcH<H
-HcI H
-HcI(H
-HcK H
-HcK(H
-HcK8H
-HcKxH
-HcR4L
-HcS\LcU
-HcWxL
-Hc\$@H
-Hc]`M
-Hc]wD
-Hc]wE3
-Hc]wH
-Hc]wL
-Hc]wL;
-Hc^XH
-Hct$8H
-Hcw$H
-Hc}gH
-Hc}wMc
 HelpSystem_001
 Horizontal differencing "Predictor" not supported with %d-bit samples
 HostComputer
 HostStateMgr001
-Ht)I;
 Huffman code size table overflow
 Huffman table 0x%02x was not defined
-I HcH
-I9}(t9H
+IA88
 ICC Profile
 INPUT_LAYOUT_VARIATION_DEFAULT
 INPUT_LAYOUT_VARIATION_MAX
@@ -1571,10 +924,6 @@ INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID_MORPH_VERT_ID
 INPUT_LAYOUT_VARIATION_STREAM1_MAT3X4
 IQuickTime001
 ISO JBIG
-IcA(H
-IcE<H
-IcExH
-IcW,H
 Ignoring PLTE chunk in grayscale PNG
 Ignoring attempt to set cHRM RGB triangle with zero area
 Ignoring attempt to set negative chromaticity value
@@ -1631,11 +980,11 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Insufficient data length.
-Insufficient data size for attributes.
+Insufficient data length.\n
+Insufficient data size for attributes.\n
 Insufficient data size in offset table.
-Insufficient data size.
-Insufficient header/data size.
+Insufficient data size.\n
+Insufficient header/data size.\n
 Insufficient memory (case %d)
 Insufficient memory for hIST chunk data
 Insufficient memory for pCAL parameter
@@ -1647,7 +996,7 @@ Insufficient memory to process iCCP profile
 Insufficient memory to process text chunk
 Insufficient memory to store iTXt chunk
 Insufficient memory to store zTXt chunk
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 Interlace handling should be turned on when using png_read_image
 InterlockedFlushSList
 Internal error, unknown tag 0x%x
@@ -1677,7 +1026,7 @@ Invalid color type in IHDR
 Invalid color type/bit depth combination in IHDR
 Invalid component ID %d in SOS
 Invalid crop request
-Invalid data found when decoding pixels.
+Invalid data found when decoding pixels.\n
 Invalid data height value
 Invalid data width or data height: 
 Invalid data width value
@@ -1729,106 +1078,22 @@ JFIF extension marker: JPEG-compressed thumbnail image, length %u
 JFIF extension marker: RGB thumbnail image, length %u
 JFIF extension marker: palette thumbnail image, length %u
 JFIF extension marker: type 0x%02x, length %u
+JPEG
 JPEG datastream contains no image
 JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
 JPEGMEM
 January
-K ATAUAVAWH
-K H9K0u
-K SUATAUH
-K SVWAVAWH
-K&>.yC
-K,D9s(A
+July
+June
 KERNEL32.dll
+KNQ\rMO
 KV Conditional Evaluation Error
 KeyValueCache001
-KeyValues Error: %s in file %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues Error: %s in file %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L$ H9
-L$ H;
-L$ Hc
-L$ Lc9H
-L$ SH
-L$ SUVAVH
-L$ SUVWATAUAVAWH
-L$ SUVWH
-L$ SVWH
-L$ UATAVH
-L$ UVWATAUAVAWH
-L$ UWAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$ iM
-L$$E+
-L$&@8t$&t0@8q
-L$(Ai
-L$(E+
-L$(H3
-L$(fH
-L$(fI
-L$(iM
-L$,=)#
-L$0E+
-L$0E3
-L$0E;
-L$0H+
-L$0H3
-L$0H;
-L$0fH
-L$0fI
-L$8H3
-L$8Lc
-L$@;|
-L$@D9
-L$@D9c<
-L$@H3
-L$@H;
-L$@fE;
-L$@uU
-L$DD+
-L$DE3
-L$H;H(s	D
-L$H;H8s	D
-L$HA;
-L$HE3
-L$HH3
-L$HI;
-L$PE3
-L$PE;
-L$XA;
-L$XE3
-L$XfD
-L$^fA;
-L$`H3
-L$`fD
-L$hI;
-L$pD9w8
-L$pD;w8
-L$pE2
-L$pJc
-L$xD+
-L$|fA
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L9*u&
-L93u_
-L93uc
-L9Ahs
-L9`8tA
-L9|(xu
-L9~PtgL9~`taL9~ht[H
-L;D$8v7H
-L;d$8|
-L;l$Ht
+L>ev
 L?UUUUUUU?
-LACpu
-LACsu
 LCIDToLocaleName
 LCMapStringEx
 LCMapStringW
@@ -1848,6 +1113,8 @@ LINEAR_RGBA8888
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
+LWG>
+LWW>
 LZWDecode: Bogus encoding, loop in the code table; scanline %d
 LZWDecode: Corrupted LZW table at scanline %d
 LZWDecode: Not enough data at scanline %d (short %ld bytes)
@@ -1858,24 +1125,16 @@ LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
 LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
 LZWPreDecode
 LZWSetupEncode
-LcA<E3
-LcCPH
-LcK\LcU
-LcQ|M+
-LcT$p3
-LcUw3
-Lcew3
 LeaveCriticalSection
 LensInfo
 Line length mismatch
 LinearResponseLimit
 LinearizationTable
-Lj[;>
 Lkh9Fgc^A
-LoadEXRImageFromMemory() failed! Error message: %s
+LoadEXRImageFromMemory() failed! Error message: %s\n
 LoadFromBuffer: expected '{', found '%s'
 LoadLibraryExW
-Loaded video settings config from '%s'
+Loaded video settings config from '%s'\n
 LocalContextCacheSize
 LocaleNameToLCID
 Localize_001
@@ -1888,16 +1147,16 @@ LogLuvInitState
 LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
-M H1E
-M9[8u$M
+M8MF
 MATCHFRAMEWORK_001
 MAX_ALLOC_CHUNK is wrong, please fix
+MGiI
 MM/dd/yy
 MNG features are not allowed in a PNG datastream
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MQC,ARD
-MRHcu
+Make
 MakerNoteSafety
 Malformed iCCP chunk
 Malformed iTXt chunk
@@ -1916,9 +1175,6 @@ MaxPolicyElementKey
 MaxSampleValue
 Maximum resolution for top mip level in streaming textures. -1 = ignored.
 Maximum supported image dimension is %u pixels
-Mc4$L
-McH(E
-McsLA
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 Memory allocation failed while processing sCAL
@@ -1962,14 +1218,14 @@ Model
 ModelDocUtils001
 Monday
 MultiByteToWideChar
-N(9i(u
-N(D9q(u
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
 NJ2"v
+NQ?s
+NULL
 NULL row buffer
 NV_DST16
 NV_DST24
@@ -1977,6 +1233,7 @@ NV_INTZ
 NV_NULL
 NV_RAWZ
 NavSystem001
+NeXT
 NeXTDecode: Not enough data for scanline %ld
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -2007,6 +1264,7 @@ No space to write per-sample shorts
 No space to write per-sample values
 No support for converting user data format to LogL
 No support for converting user data format to LogLuv
+None
 Nonstandard tile length %d, convert file
 Nonstandard tile width %d, convert file
 Not a JPEG file: starts with 0x%02x 0x%02x
@@ -2022,12 +1280,9 @@ Not enough memory to process zTXt chunk
 Not implemented yet
 November
 NumberOfInks
-O H+O
-O(t(H
 O*9y]
-O0HcQ
-OF>;^
 OUTSTANDING_HOOKUP_REQUEST 
+OZQ%
 OZw3(?
 Obtained EMS handle %u
 Obtained XMS handle %u
@@ -2038,7 +1293,7 @@ OldSubfileType
 One of the client procedures is NULL pointer.
 OpenGL
 Opened temporary file %s
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orientation
 OriginalRawFileData
 OriginalRawFileName
@@ -2057,24 +1312,13 @@ Out of place sRGB chunk
 Out of place tIME chunk
 Out of range gamma value ignored
 Output file write error --- out of disk space?
-Overall System GPU memory use:
-Overflow of the sheet cache texture. Releasing and starting over. This is ok in asset browser, not so ok if the game is triggering this!
-Overflow of the sheet cache texture: Try increasing SheetCacheTextureRows in gameinfo.gi (current value %d)!
-P8H=vtexH
-P>q_Y~
-PA]_[
-PA^A]A\
-PA^A]A\^[
-PA^_]
-PA_A\[
-PA_A^A\_]
-PA_A^^
-PA_A^_
-PCCiu
-PERF WARNING: Texture pool size set to more than 80%% of total GPU memory.
+Overall System GPU memory use:\n
+Overflow of the sheet cache texture. Releasing and starting over. This is ok in asset browser, not so ok if the game is triggering this!\n
+Overflow of the sheet cache texture: Try increasing SheetCacheTextureRows in gameinfo.gi (current value %d)!\n
+PERF WARNING: Texture pool size set to more than 80%% of total GPU memory.\n
 PNG file corrupted by ASCII conversion
 PNG fixed point integer out of range
-PNG load error %s
+PNG load error %s\n
 PNG unsigned integer out of range
 POSIX
 PackBits
@@ -2085,8 +1329,9 @@ PageNumber
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
-ParseEXRHeaderFromMemory() failed! Error message: %s
+ParseEXRHeaderFromMemory() failed! Error message: %s\n
 ParticleSystemMgr003
+Pe6^
 Photometric tag is missing, assuming data is YCbCr
 Photometric tag value assumed incorrect, assuming data is YCbCr instead of RGB
 PhotometricInterpretation
@@ -2129,9 +1374,9 @@ Profile size field missing from iCCP chunk
 PropertyEditorSystem_001
 Q2XXR
 Q5rHg,>
+QAf?
 QAngle
 Qkkbal
-Ql;QD
 Quantization table 0x%02x was not defined
 Quantizing to %d = %d*%d*%d colors
 Quantizing to %d colors
@@ -2139,12 +1384,13 @@ Quaternion
 QueryPerformanceCounter
 QueuedLoaderVersion001
 R11_EAC
+R16F
 R16F_EXPAND
 R1h58
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
-RDHIu
 RENDER_BUFFER_APPEND_CONSUME_BUFFER
 RENDER_BUFFER_BYTEADDRESS_BUFFER
 RENDER_BUFFER_STRUCTURED_BUFFER
@@ -2234,7 +1480,7 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
-RH@8t$@
+RSDS
 RST%d
 RadianEuler
 RaiseException
@@ -2256,11 +1502,11 @@ RecursiveLoadFromBuffer:  recursion overflow
 ReductionMatrix1
 ReductionMatrix2
 ReferenceBlackWhite
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 Registering anonymous field with tag %d (0x%x) failed
 Release
 ReleaseSRWLockExclusive
-Render Device Empty
+Render Device Empty\n
 RenderBufferFlags_t
 RenderDevice003
 RenderDeviceMgr001
@@ -2304,46 +1550,25 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S(9C8sq
-S,, <Zw
-S;\$0tH
+S9>H
 S>$hkDh$h>[2
-SATAWH
 SGILog
 SGILog compression cannot handle non-contiguous data
 SGILog compression supported only for %s, or raw data
 SGILog24
 SGILogDataFmt
 SGILogEncode
+SKyu
 SMaxSampleValue
 SMinSampleValue
-SNRtu
 SSE and SSE2 are required.
-SUAWH
-SUHcl$@L
-SUVAVH
-SUVWATAUAVAWH
-SUVWAUAVAWH
-SUVWAUAVH
-SUVWH
-SUWATAUAVH
-SUWAUAWH
-SVATAUH
-SVWATAUAVAWH
-SVWATAUAVH
-SVWATAUAWH
-SVWATAUH
-SVWAWH
-SWATAUAWH
-SWATAUH
-SWAUH
 SampleFormat
 SamplesPerPixel
 SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 1
 SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 3
 Sampling factors too large for interleaved scan
 Saturday
-Saved video settings config to '%s'
+Saved video settings config to '%s'\n
 Scan script does not transmit all data
 SceneSystem_002
 SceneUtils_001
@@ -2369,7 +1594,7 @@ SetStdHandle
 SetThreadpoolTimer
 SetThreadpoolWait
 SetUnhandledExceptionFilter
-Setting max texture resolution to: %dx%d
+Setting max texture resolution to: %dx%d\n
 Setting up field info failed
 ShadowScale
 SheetFrameImage_t
@@ -2410,43 +1635,15 @@ SubfileType
 SubmitThreadpoolWork
 Sunday
 Suspension not allowed here
-T$ +G$A
-T$ A;
-T$ E;
-T$ H9
-T$ Lc
-T$(+G$A
-T$(D+
-T$0D;
-T$4E9
-T$@+G$A
-T$@A;
-T$@E3
-T$HA;
-T$HE3
-T$HHc
-T$PA;
-T$PE3
-T$PH3
-T$XA;
-T$XE3
-T$`D+
-T$pfA+
-T$xH;
-TADIt	
-TADIu
-TADIu.
-TADIuT
-TEXMAN: %s MarkTextureBitsLoaded (%s)
-TEXMAN: %s loaded %s %i/%i mips (%ix%i / %ix%i) of %s (%i bytes)
-TEXMAN: Abandoning job in %s
-TEXMAN: Abandoning streaming request early in %s
-TEXMAN: Abandoning streaming request in %s
-TEXMAN: Adding %s, %llx to abandoned hookup jobs
-TEXMAN: DeferTextureLoads %s MarkTextureBitsLoaded (%s)
-TEXMAN: Deleting %d textures
-TEXMAN: Outstanding stream count %d -> %d (%s)
-TIBsu
+TEXMAN: %s MarkTextureBitsLoaded (%s)\n
+TEXMAN: %s loaded %s %i/%i mips (%ix%i / %ix%i) of %s (%i bytes)\n
+TEXMAN: Abandoning job in %s\n
+TEXMAN: Abandoning streaming request early in %s\n
+TEXMAN: Abandoning streaming request in %s\n
+TEXMAN: Adding %s, %llx to abandoned hookup jobs\n
+TEXMAN: DeferTextureLoads %s MarkTextureBitsLoaded (%s)\n
+TEXMAN: Deleting %d textures\n
+TEXMAN: Outstanding stream count %d -> %d (%s)\n
 TIFFAppendToStrip
 TIFFClientOpen
 TIFFFetchDirectory
@@ -2468,9 +1665,6 @@ TIFFSetField
 TIFFTileRowSize
 TIFFVStripSize
 TIFFVTileSize
-TLPsu
-TRPGD
-TSIhu
 TSPEC_CUBE_CAN_SAMPLE_AS_ARRAY
 TSPEC_CUBE_TEXTURE
 TSPEC_FLAGS
@@ -2493,6 +1687,7 @@ TSPEC_USE_TYPED_IMAGEFORMAT
 TSPEC_VERTEX_TEXTURE
 TSPEC_VOLUME_TEXTURE
 TUUUU
+Tag 
 Tag %d
 Tag Value
 TargetOversubscriptionFactor
@@ -2501,13 +1696,13 @@ TerminateProcess
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
-Texture Streaming:
-Texture streaming validation OK (%d texture loads in flight).
+Texture Streaming:\n
+Texture streaming validation OK (%d texture loads in flight).\n
 TextureFormat
 TextureSpecificationFlags_t
 TextureWrapModes
-The minimum amount of GPU memory for streaming textures is set to %d MB.
-This is a BigTIFF file.  This format not supported
+The minimum amount of GPU memory for streaming textures is set to %d MB.\n
+This is a BigTIFF file.  This format not supported\nby this version of libtiff.
 ThreadYield
 Threshholding
 ThunderDecode: %s data at scanline %ld (%lu != %lu)
@@ -2536,44 +1731,19 @@ Truncated zTXt chunk
 Truncating incorrect info tRNS chunk length
 Truncating incorrect tRNS chunk length
 TryAcquireSRWLockExclusive
-Trying to set dxlevel (%d) which is higher than the card can support (%d)!
-Trying to set dxlevel (%d) which is lower than the card can support (%d)!
+Trying to set dxlevel (%d) which is higher than the card can support (%d)!\n
+Trying to set dxlevel (%d) which is lower than the card can support (%d)!\n
 Tuesday
 UA>N0Wl
-UATAUAVAWH
-UATAUAVH
-UAUAVH
-UAVAWH
 UNKNOWN
-USATAUAVAWH
-USATAUAWH
-USATAUH
-USAUH
-USAVI
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAVAWH
-USVWAVH
-USVWAWH
-USVWH
-USWAUAVH
+UUUU
 UUUUUU
-UUUUUUU
-UVATAVAWH
-UVAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWAVAWH
 UVWQ8888
-UWATAUAWH
-UWATH
-UWAUAVAWH
-UWAVH
-UWAWH
-Unable to stream in resource file "%s" (Error: %s)
+Unable to stream in resource file "%s" (Error: %s)\n
 Unexpected marker 0x%02x
-Unexpected resource version '%d' for '%s'
+Unexpected resource version '%d' for '%s'\n
 UnhandledExceptionFilter
 Uninitialized row
 UniqueCameraModel
@@ -2597,25 +1767,18 @@ Unrecognized component IDs %d %d %d, assuming YCbCr
 Unrecognized equation type for pCAL chunk
 Unsupported JPEG data precision %d
 Unsupported JPEG process: SOF type 0x%02x
-Unsupported PSD color mode!
+Unsupported PSD color mode!\n
 Unsupported color conversion request
 Unsupported marker type 0x%02x
 UokOP
 Upper limit on texture pool size.
 UserInfoChangeService_001
-V(D9r(u
-V6E>`"(5
-VATAUAVAWH
-VATAUH
-VAUAVH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDebugService_001
 VEngineCvar007
 VFileSystem017
@@ -2642,19 +1805,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VUUUA
-VUUUH
-VWATAUAVH
-VWATAUAWH
-VWATAVAW
-VWATAVAWH
-VWAUAVH
-VWAUH
-VWAVAWH
-VWAVH
-VWAWH
-V_:X1:
 V_GetErrno
 V_GetFileExtension
 V_IsAbsolutePath
@@ -2685,8 +1835,7 @@ V_vsnprintf
 V_vsnprintfSize
 V_wcstod
 V_wcstoi64
-Valve0
-Valve1
+Vc0a
 VeaFOfb
 Vector
 Vector2D
@@ -2694,20 +1843,16 @@ Vector4D
 VectorAligned
 VendorID
 Version
-Video Card %s (%04x : %04x)
-Video config version number changed ( '%s' is version %i, current version is %i ). Resetting video config.
+Video Card %s (%04x : %04x)\n
+Video config version number changed ( '%s' is version %i, current version is %i ). Resetting video config.\n
 Virtual array controller messed up
 VisBuilder_001
 VsInputSignatureElement_t
 VsInputSignature_t
 Vulkan
-W!t/H
 WAITING_FOR_HOOKUP_JOB 
 WAITING_FOR_IO 
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WAVAWH
-WD8l$@t
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WINDOWS
 WINXP
 WaNd?
@@ -2716,7 +1861,7 @@ WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 Warning: thumbnail image size does not match data length %u
 Warning: unknown JFIF revision number %d.%02d
 Wednesday
@@ -2735,31 +1880,28 @@ Write to XMS failed
 WriteConsoleW
 WriteFile
 Wrong JPEG library version: library is %d, caller expects %d
-Wu4E3
-X!t5~
+X/4B
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
-XA]A\^[
-XA^A\_[
-XA_A^^[
 XClipPathUnits
 XMLPacket
 XPosition
 XResolution
 XYZ, Luv
 Xbox 360
+XsBI
+Y8a:
 Y>kX>M
 YCbCrCoefficients
 YCbCrPositioning
 YCbCrSubsampling
 YClipPathUnits
-YD$@f
 YPosition
 YResolution
 YpU_Z
-Z* ,	
-Z@&LHA'
+Z@&LHA'\r:C(
 ZFP compression is not supported.
 ZIPDecode
 ZIPEncode
@@ -2769,60 +1911,24 @@ ZIPSetupEncode
 ZIPVSetField
 Z\>z8
 Zero length tRNS chunk
-Zod(^?
+Zjz\v
 Zpm"U
-[ UWAVH
 [*ncd>0
-[-&LMb#{'
-[@fE#
 [aOni*{
-\$ ATAVAWH
-\$ E3
-\$ H;
-\$ I;
-\$ UATAVH
-\$ UH
-\$ UVATH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATAVAWH
-\$ UWAWH
-\$ VH
-\$ VWAUAVAWH
-\$ WATAWH
-\$ WH
-\$(D;
-\$(fD;
-\$0)p(H
-\$09i8
-\$0A;
-\$0H;
-\$0HcH
-\$0Lc
-\$0u!@
-\$8Hc
-\$@@8=-7
-\$@D9
-\$@H;
-\$HH;
-\$HHc
-\$PA_A^A]A\_^]
-\$PE;
-\$PfD
-\$XH;y
-\$XHc
-\$XIc
-\$`Hc
-\$gm?
-\$hHcZ@H
-\$pE3
-\ffff
-])6M>&
-]>)2X
+[h1R
+\fpLD
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\rmj>zjZ
+\tN1a
+\t\t\n\n\v\v\f\f\f\f\r\r\r\r
+\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\tcQr
+\tkE>fvw
+\vA03>A|
 ^<V7w
 ^RfN>
-^fD9+t
 ^oEZ_
 _TIFFMergeFieldInfo
 _TIFFSetupFieldInfo
@@ -2850,21 +1956,6 @@ _logb
 _nextafter
 _oD>Kg
 _tools.txt
-`+!]?
-`.rdata
-`;k8|
-`A;m8
-`A;n8
-`A]A\_^[
-`A^^]
-`A_A]A\_[
-`A_A^A]A\_^]
-`A_A^_^[
-`A_][
-`D;K8|
-`D;e8|
-`D;{8
-`LcA H
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -2875,7 +1966,6 @@ _tools.txt
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -2902,7 +1992,9 @@ _tools.txt
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
+a6>r
 abcdefghijklmnopqrstuvwxyz
+acos
 address family not supported
 address in use
 address not available
@@ -2911,9 +2003,9 @@ already connected
 aoB>"
 argument list too long
 argument out of domain
-at=<rt!<wt5L
+asin
+atan
 atan2
-b?^Cy
 bad adaptive filter value
 bad address
 bad allocation
@@ -2921,14 +2013,9 @@ bad exception
 bad file descriptor
 bad locale name
 bad message
-blocking issue in occlusion queries!!
-bp(=>?g
+blocking issue in occlusion queries!!\n
 broken pipe
 buffer error
-by this version of libtiff.
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
@@ -2943,24 +2030,24 @@ c:\buildslave\hlvr_rel_win64\build\src\rendersystem\renderdevicebase.cpp
 c:\buildslave\hlvr_rel_win64\build\src\rendersystem\renderstatehelper.h
 c:\buildslave\hlvr_rel_win64\build\src\rendersystem\sheetcache.cpp
 c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(1861):Error loading texture: %s
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2798):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2821):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2832):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2843):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2854):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2875):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2886):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2897):ResourceHandleToData( %s ) failed! Falling back to error texture!
-c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2908):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(1861):Error loading texture: %s\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2798):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2821):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2832):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2843):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2854):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2875):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2886):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2897):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
+c:\buildslave\hlvr_rel_win64\build\src\rendersystem\texturebase.cpp(2908):ResourceHandleToData( %s ) failed! Falling back to error texture!\n
 c:\buildslave\hlvr_rel_win64\build\src\tier1\configvalue.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlbuffer.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c?FA@s}
-cAMDD
 cannot read TIFF_ANY type %d for field "%s"
+ceil
 cfg/video_version.txt
 cfg\moddefaults.txt
 cfg\video.txt
@@ -2973,12 +2060,12 @@ connection aborted
 connection already in progress
 connection refused
 connection reset
+cosh
 cross device link
-d$ E3
-d$ fC
-d$PfD
-d$h9s
+d8L2
 d?000000`?
+dQy/
+dRL>
 data error
 data height too large.
 data width or data height is negative.
@@ -2994,63 +2081,19 @@ displayWindow
 dummyfilename.tif
 dxsupport
 dxsupport.cfg
-e A_A^A]A\_^]
 e+000
-e0A_A^A]A\]
-e0A_A^]
-e8u~f
-e@A_A^]
+eF>t
 eLK(w
-entiA
 error
 error in user chunk
 ewh/?y
 executable format error
 extreme cHRM chunk cannot be converted to tristimulus values
-f9)u H
-f9)uTH
-f9,Ju
-f9,~u
-f9<Bu
-f9Bl~
-f9G`u1H
-f9G`uCH
-f9\$bu
-f9u"v
-fA9,Au
-fA9<\u
-fB9,Nu
-fB94Ou
-fB9<@u
-fB9<Bu
-fB9<Hu
-fD9	t(I
-fD9 t
-fD9 tMH
-fD9 u
-fD9$Hu
-fD9,Au
-fD90t
-fD90u
-fD94Fu
-fD96u
-fD9;u
-fD9<Au
-fD9<Xu
-fD9?t&
-fD9Ab
-fD9t$b
-fD9tE
-fD;C s#A
-fD;I:v
-fE98t'
-fF9<qu
-fG9$Ou
-fJBGo
+fD>b
+fP~V
+fWi?
+fabs
 false
-fffff
-ffffff
-fffffff
 file error
 file exists
 file too large
@@ -3059,6 +2102,7 @@ filesystem_stdio
 floating point predictor 
 floor
 fltx4
+fmod
 for "ReferenceBlackWhite" array
 for "StripByteCounts" array
 for Group 3/4 run arrays
@@ -3068,24 +2112,21 @@ for chopped "StripOffsets" array
 for field info array
 for strip array
 frexp
+fu`z
 function not supported
 g_VProfCurrentProfile
 g_pMemAlloc
 g_pThreadPool
 gamma table being rebuilt
-gfffA
-gfffffffH
+gqr<
+h0'D
 h>1my
-hA_A]A\_[]
+hPU3
 header crc mismatch
 horizontal differencing 
 host unreachable
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-i H9i0u
-iW!]4/
+i91k
+i]Wb
 identifier removed
 illegal byte sequence
 immediate
@@ -3096,7 +2137,6 @@ incorrect count for field "%s" (%u, expecting %u); tag trimmed
 incorrect data check
 incorrect header check
 incorrect length check
-ineIA
 insufficient memory
 internal error handling cHRM coefficients
 internal error handling cHRM->XYZ
@@ -3133,47 +2173,10 @@ ios_base::failbit set
 iostream
 iostream stream error
 is a directory
-iu+-,
 j'Vlk
-j>>A?1
-j?V()
-j?{$*
-k0i0$
-l!;b	F
-l$ AVH
-l$ E3
-l$ E;G|
-l$ VAUAWH
-l$ VH
-l$ VWATAUAWH
-l$ VWATAVAWH
-l$ VWAUH
-l$ VWAVH
-l$ WAVAWH
-l$ WH
-l$(D;
-l$(E3
-l$(LcI
-l$0A_A^A]A\
-l$0Hc
-l$0ff
-l$8A;
-l$8E3
-l$8HcG
-l$8HcH
-l$@A3
-l$@A;
-l$@D9s8~YH
-l$HA_A]A\_^
-l$HE3
-l$HLcH
-l$H~&E
-l$PLc
-l$XE3
-l$XHc
-l$hHcH
-l$vfD
+k=yI
 l6qnk
+lDa>
 ldexp
 libpng does not support gamma+background+rgb_to_gray
 libpng error: %s
@@ -3181,7 +2184,9 @@ libpng warning: %s
 lineOrder
 localize
 log10
-m0k0$
+m?H7
+mG4>
+m\nXo
 m_Format
 m_Frames
 m_Images
@@ -3218,10 +2223,12 @@ message size
 min megabytes
 min megatexels
 min_processor_count
-mj>zjZ
+modf
 must be either LogLUV or LogL
+n$Kx
 n03>Pu
 n]?iJ
+name
 nan(ind)
 nan(snan)
 need dictionary
@@ -3248,11 +2255,8 @@ not a stream
 not connected
 not enough memory
 not supported
-ntelE
-oD$ H
-oD$ f
+o?GS
 oI>O7
-oO0fI
 obwQ4
 operation canceled
 operation in progress
@@ -3261,19 +2265,8 @@ operation not supported
 operation would block
 operator
 operator "" 
-ot$ H
+owM&
 owner dead
-oypfD
-o|$0f
-p AWH
-p0n05
-p1f3q>
-pA]_[
-pA^^]
-pA_A]A\_]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_][
 permission denied
 pixelAspectRatio
 png/jpg
@@ -3286,12 +2279,8 @@ protocol not supported
 pseudo-
 purecall
 qS>g?h3
-r	Vr.>T
-r 9_ t
-r(D;u
-r(D;v
-r:D8v
 rLp>B
+r\tVr.>T
 r_fullscreen_gamma
 r_gpu_mem_stats
 r_max_texture_pool_size
@@ -3306,7 +2295,7 @@ r_textures_evict_all
 r_validate_texture_streaming
 r_wait_on_present
 read only file system
-rendersystem (%s) tracked resources:
+rendersystem (%s) tracked resources:\n
 rendersystemempty
 rendersystemempty.dll
 resource deadlock would occur
@@ -3314,22 +2303,17 @@ resource unavailable try again
 resourcesystem
 restrict(
 result out of range
-ri9V vdH
-s WATAUAVAWH
-s%D;k
-s4+sP+
+ru&o
 sAmTb
 sCAL chunk too short
-sFFou
+sHF'
 sPLT chunk has bad length
 sPLT chunk requires too much memory
 sPLT chunk too long
-sYHpu
-s]D9(tXI
 scanline
 screenWindowCenter
 screenWindowWidth
-sequence number %d too low in sheet file!!!
+sequence number %d too low in sheet file!!!\n
 sequential row overflow
 setting.
 setting.CentroidHack
@@ -3360,9 +2344,8 @@ setting.refreshrate_numerator
 setting.resettodefaults
 setting.shaderquality
 sheetcachetexture_.vtex
+sinh
 state not recoverable
-stfE;
-stgE;
 stream end
 stream error
 stream timeout
@@ -3371,104 +2354,15 @@ string
 string too long
 strip
 strips
-t"<.u
-t#fff
-t$ ATAVAWH
-t$ AVAWH
-t$ AVAWL
-t$ AVH
-t$ E3
-t$ Mc
-t$ UAVAWH
-t$ UH
-t$ WATAUAVAWD
-t$ WATAUAVAWH
-t$ WATAUAVD
-t$ WATAWH
-t$ WAV
-t$ WAVA
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$(Lc
-t$(Mc
-t$,ff
-t$0+A$t
-t$0A^_
-t$0A_A^
-t$0D;
-t$0E3
-t$0H+
-t$0H;
-t$0Hc(L
-t$0Hc2
-t$0M;
-t$8E2
-t$8H+
-t$8Hc
-t$@9Y8
-t$@A^A]A\_
-t$@Hcu
-t$@Ic
-t$@Lc
-t$@u_H
-t$HA_A^A]A\_
-t$HE3
-t$Hff
-t$PHc
-t$PLc
-t$Pt!
-t$XE3
-t$XE8
-t$XH+
-t$XH9
-t$Xt	H
-t$hI;
-t$pHcH
-t'fE9
-t(A8(t
-t(D9&}#H
-t)D8l$@t
-t)D96}$H
-t,Hct$ ;t$0u
-t.D9s
-t09+u,9s
-t1@8l
-t4D;`
-t4McF
-t4fff
-t5LcF
-t9H9=
-t:D9s
-t:LcM
-tCHcP
-tDLcC
-tEL9t$hu>
-tIf9wbH
-tPfE;
-tQfD9 tK
 tRNS chunk has out-of-range samples for bit_depth
 tRNS chunk not allowed with alpha channel
-tSf91tNH
-tTH9(tO
-tVf91tQH
-tXEtu
-tXLcQ
-tXTiu
-tXTzu
-tY@8{XuSH
-t\HcL$`H
-t];Cxr
-t^D;@
-t_D9s
-tbHc~
+tanh
 text compression mode is out of range
 text file busy
-thfff
 tier0.dll
+tile
 tiles
 timed out
-tmLc\$0
 to fetch array of rationals
 to fetch per-sample values
 to fetch strip tag
@@ -3480,65 +2374,17 @@ too many files open in system
 too many length or distance symbols
 too many links
 too many symbolic link levels
-trH9}
 transparency
-ttIcF
-tu+K$3
-txH99us
-tyfD9 tsH
-u	@8=E
-u f;N
-u"D;{
-u"IcF8
-u"fff
-u$@8z
-u%HcWxH
-u0M9[0u
-u1!D$0H
-u2HcB
-u2fff
-u3HcH<H
-u4D9~
-u:E9n
-u:Lc@
-u@A9l$
-u@E9n
-uBf9l$5t
-uFE9n
-uGA9l$
-uHfA;
-uLE9n
-uMHcE
-uMfA9h uFfA9h0u?fA9h@u8fA9hPu1fA9h`u*fA9hpu#A
-uNA9l$
-uOHc|$0A
-uRE9n
-uT<0uP
-uUA9l$
-uVfE9M uOfE9M0uHfE9M@uAfE9MPu:fE9M`u3fE9Mpu,A
-uXE9n
-uYfA9h uRfA9h0uKfA9h@uDfA9hPu=fA9h`u6fA9hpu/A
-u\A9l$
-u^A;]
-ucA9l$
-uf!T$(H!T$ 
-uf@8t$8t"A
-uiD9~
-umfE9H uffE9H0u_fE9H@uXfE9HPuQfE9H`uJfE9HpuCA
+true
 unexpected count for field "%s", %u, expected 2; ignored
 unknown compression method
 unknown critical chunk
 unknown error
 unknown exception
 unknown header flags set
-uo@8t$8tC
-urHc~
-urfff
-uuHcF
 uvCropped
 uvUncropped
 uzKs@>
-v0t08
 v2!L.2
 vQO+t
 value too large
@@ -3548,115 +2394,16 @@ video.cfg
 video_version
 vstdlib
 vstdlib.dll
-vtexH
-v}`[>
 w+OQvr
-w1kK0
-w4kK0
-w7tAA
+w3Xc
+wXR\r
 wn>Jj
 wrong protocol type
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x ATAVAWH
-x AUAVAWH
-x AV3
-x AVH
-x AWH
-x!HcI
-x!HcK
-x0v0$
-x9H;H
-xA]A\[]
-xA_A^A]A\_^][
-xA_A^_^
-xCL;[
-xRHcQ
-xSH;H
-xYL;S
-xZH;A
-xZH;Q
-x]L;B
-x^j=|
+xT?V
 xpxxxx
-xuJE3
 xwpwpp
-y899u
-y\PD>!
-z0x0:
-zY;>u:m	
+y9*O
 zlib memory error
 zlib stream error
 zlib version error
-|#tAM
-|$ ATAUAVAW
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVAW
-|$ AVAWD
-|$ AVAWH
-|$ AVH
-|$ D!
-|$ E3
-|$ E9
-|$ H;
-|$ Hc
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ ff
-|$$M+
-|$(A^
-|$(I;
-|$0A;
-|$0A_A^
-|$0B+
-|$0fD
-|$0fff
-|$0s-
-|$2*u
-|$8;3
-|$8@8h
-|$8H+
-|$8Hcz(H
-|$8t,H
-|$<;{0
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$@H;
-|$@HcL$<H
-|$@Hcyp;
-|$@Lc
-|$@t	3
-|$HA#
-|$HA;
-|$HHc
-|$HtwI
-|$PE3
-|$PH;
-|$PHcy@
-|$XE3
-|$\.u
-|$`CI
-|$`E3
-|$`Ic
-|$`Lc
-|$`ff
-|$pE3
-|$pH;
-|$xLc
-|b=})>
-}UfD	
-}_t!H
-}y>g@>W`{
-~ $s%r
-~-LcP
-~2D8u
-~:fD9,
-~EI9|$
-~L@8~8u
-~\ u&I9
-~hIc4$A;t$
+{kHw

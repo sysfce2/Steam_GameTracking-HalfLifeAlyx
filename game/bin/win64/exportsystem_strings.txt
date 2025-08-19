@@ -1,220 +1,129 @@
-					
-						
-								
-																									
-	#jT$
-	D)T$
-	Error
-	NAN encountered in element '%s' guid %s attribute '%s'!
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ+inf
         %3d %3d %3d %3d %3d %3d %3d %3d
         %4u %4u %4u %4u %4u %4u %4u %4u
-    %u iterated blocks
-    %u unfinished blocks
+    %u iterated blocks\n
+    %u unfinished blocks\n
     Component %d: %dhx%dv q=%d
     Component %d: dc=%d ac=%d
     with %d x %d thumbnail image
   Ss=%d, Se=%d, Ah=%d, Al=%d
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"
+ * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"\n
  + ConvertToPNG
  + DecodeHemiOctahedronNormal
- + WriteEXR
- + WriteJPEG
- + WritePNG
- + WriteTGA
- - pos
- - rot
- -o "
- -of 
+ + WriteEXR\n
+ + WriteJPEG\n
+ + WritePNG\n
+ + WriteTGA\n
  -testmode
- 0@P`p
- 9(X`
- 9D$pu/L
- ;_h|
- A;oX
- A;~X|
- A^A\_
- A^A]^
- A^A]_^[
- A^][
- A^^]
- A^_[
- A^_]
- A^_^
- A_A]^
- A_A]^][
- A_A]_][
- A_A^A\
- A_A^A\^[
- A_A^A\^]
- A_A^A\_^
- A_A^A\_^][
- A_A^A]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^]
- A_A^^
- A_A^_
- A_A^_^[
- A_A^_^]
- A_][
- A_^[
- A_^]
- A__^
- A__^][
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- E;wX
- E;}X
- H3E H3E
- Hc*H
- Hc1H
- Hc2H
- Hc9H
- Hc:H
- HcA<H
- HciHH
- Hcq 3
- Hcq83
- HcqX3
- HcyH3
- L9Spu
- Lc	M
- Lc1H
- LcR M
  PathId :: "
  Type Descriptor'
  [ %f %f %f %f  %f %f %f %f  %f %f %f %f  %f %f %f %f ]
- [curvetype %s]
+ [curvetype %s]\n
  but running with 
  center %f %f scale %f %f rotate %f translate %f %f
  delete
  delete[]
- new[]
- t?D9
- tDE3
- tQD8c:u0M
- vJH+
-!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!
+ new
 !&?SetGlobalTimeMode@FbxTime@fbxsdk@@SAXW4EMode@12@N@Z
-!,X< w
 !1AQaq
 != (or missing)
-!>6'Y
 !?MayaYUp@FbxAxisSystem@fbxsdk@@2V12@B
 !?ModifyFlag@FbxProperty@fbxsdk@@QEAAXW4EFlags@FbxPropertyFlags@2@_N@Z
 !?MultT@FbxAMatrix@fbxsdk@@QEBA?AVFbxVector4@2@AEBV32@@Z
 !?Normalize@FbxVector4@fbxsdk@@QEAAXXZ
-!LcK@
-" -ie 
-" -oe 
-""""UUUU
-"%s" 
-"%s" "
-"%s" "%.10f"
-"%s" "%d"
-"%s" "%f"
-"%s" "%s"
-"%s" "%s" 
-"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"
-"%s" "[ %f %f %f %f ]"
-"%s" "[ %f %f %f ]"
-"%s" "[ %f %f ]"
-"%s" "{ %d %d %d }"
+!AxU
+"%s" "%.10f"\n
+"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"\n
+"%s" "[ %f %f %f %f ]"\n
+"%s" "[ %f %f %f ]"\n
+"%s" "[ %f %f ]"\n
+"%s" "{ %d %d %d }"\n
 "2BRbr
-"ActBusy.txt"
-"Proxies"
+"ActBusy.txt"\n
+"Proxies"\n
 "e?<<<<<<l?
 "id" "elementid" 
-"pA3Q
 #3CScs
 #?RemovePose@FbxScene@fbxsdk@@QEAA_NPEAVFbxPose@2@@Z
-#D$(t
-#L$(u
 #bML"
 #base
 #base is NULL 
-#hb%t
 #include
 #include is NULL 
+$3br
 $4DTdt
 $?Set@FbxMatrix@fbxsdk@@QEAAXHHN@Z
 $?Set@FbxProperty@fbxsdk@@IEAA_NPEBXAEBW4EFbxType@2@_N@Z
-$A;\$
 $Ib?s
+$\f?Add@FbxLayerElementArray@fbxsdk@@QEAAHPEBXW4EFbxType@2@@Z
 $prefix_attribute$
 $prefix_element$
-$~aA;F
 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
-%-40s	%6d	%9d		%5.2f
+%-40s\t%6d\t%9d\t\t%5.2f
 %.04f
 %.10f
-%05d,     0x%p,     %5d,      '%s'
+%05d,     0x%p,     %5d,      '%s'\n
+%08x
+%1t7
 %5EUeu
 %?SetAt@FbxLayerElementArray@fbxsdk@@QEAAXHPEBXW4EFbxType@2@@Z
 %?SetAxisSystem@FbxGlobalSettings@fbxsdk@@QEAAXAEBVFbxAxisSystem@2@@Z
 %?SetFileName@FbxFileTexture@fbxsdk@@QEAA_NPEBD@Z
-%GoU?*
-%d %d
-%d %d %d
 %d %d %d %d
-%d,%d
-%d,%d,%d
 %d,%d,%d,%d
 %d.Add( %s, %d, %.2f )
+%d.Add( %s, %d, %.2f )\n
 %d.Blend( %d, %.2f )
+%d.Blend( %d, %.2f )\n
 %d.CallSequence( %s, %.2f, %.2f )
+%d.CallSequence( %s, %.2f, %.2f )\n
 %d.Copy( %d )
+%d.Copy( %d )\n
 %d.FetchCycle( %s, %.2f )
+%d.FetchCycle( %s, %.2f )\n
 %d.FetchFrame( %s, %.1f )
+%d.FetchFrame( %s, %.1f )\n
 %d.IKLockInPlace( %s, %.2f, %.2f )
+%d.IKLockInPlace( %s, %.2f, %.2f )\n
 %d.IKRestoreAll( )
+%d.IKRestoreAll( )\n
 %d.Scale( %.2f )
+%d.Scale( %.2f )\n
 %d.Slerp( %s, %d, %.2f )
+%d.Slerp( %s, %d, %.2f )\n
 %d.Subtract( %s, %d, %.2f )
-%d.Transform( %s, Vector( %.2f, %.2f, %.2f ), DegreeEuler( %.2f %.2f %.2f ) )
+%d.Subtract( %s, %d, %.2f )\n
+%d.Transform( %s, Vector( %.2f, %.2f, %.2f ), DegreeEuler( %.2f %.2f %.2f ) )\n
 %d.Worldspace( %s, %d, %.2f )
+%d.Worldspace( %s, %d, %.2f )\n
 %d_%lld_%x.dmx
 %d_%lld_%x_in.dmx
-%f %f
-%f %f %f
 %f %f %f %f
 %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
-%f,%f
 %f,%f,%f,%f
 %i %i %i %i
 %i.txt
 %ld%c
-%s %.2f
-%s %.3f
-%s (%.2f)
+%lld
+%llu
+%llx
 %s (%.2f, %.2f, %.2f)
 %s (%s -> %s)
 %s (%s) = remove( pos %i, count %i )
-%s - %s
-%s <-> %s
-%s = '%f'
 %s channel
-%s encoding %s %d format %s %d %s
-%s#%d
-%s(%d) : %s
-%s(%s)
+%s encoding %s %d format %s %d %s\n
+%s(%d) : %s\n
 %s(%s) = %s
-%s: Element uses unknown element type %s
-%s: string format requested %d chars
-%s:%s
+%s: Element uses unknown element type %s\n
+%s: string format requested %d chars\n
 %sEdgeActive
 %sEdgeCurveType
 %sEdgeValue
@@ -229,13 +138,7 @@ $~aA;F
 &?SetMaterials@FbxLayer@fbxsdk@@QEAAXPEAVFbxLayerElementMaterial@2@@Z
 &?SetName@FbxObject@fbxsdk@@QEAAXPEBD@Z
 &?SetNodeAttribute@FbxNode@fbxsdk@@QEAAPEAVFbxNodeAttribute@2@PEAV32@@Z
-&D;j0u
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-' Tn&
+&Sgw
 '7GWgw
 '?SetSwapUV@FbxTexture@fbxsdk@@QEAAX_N@Z
 '?SetTRS@FbxAMatrix@fbxsdk@@QEAAXAEBVFbxVector4@2@00@Z
@@ -244,366 +147,56 @@ $~aA;F
 '?SetTransformMatrix@FbxCluster@fbxsdk@@QEAAXAEBVFbxAMatrix@2@@Z
 '?SetTransformationInheritType@FbxNode@fbxsdk@@QEAAXW4EInheritType@FbxTransform@2@@Z
 '?SetTranslation@FbxTexture@fbxsdk@@QEAAXNN@Z
-'D8l$@
 ( 8PX
-(%d,%d
-(%d,%d,%d
 (%d,%d,%d,%d
-(*%s*), 
 (8HXhx
-(;l$(u
 (?Transpose@FbxAMatrix@fbxsdk@@QEBA?AV12@XZ
-(A]A\^]
-(A]_^[
-(A^A\
-(A^A]A\]
-(A^A]_[H
-(A^_^[H
-(A_A]_[
-(A_A]_]
-(A_A^
-(A_A^A]A\_^][
-(A_A^A]]
-(A_A^A]^
-(A_A^^]
-(A_A^_[
-(A_A^_^
-(A_A^_^][
-(D$ A
-(D$ H
-(D$ L
-(D$ f
-(D$0D
-(D$0H
-(D$0L
-(D$0z	u
-(D$@3
-(D$@A
-(D$@D
-(D$PD
-(D$`A
-(D$`B
-(D$`D
-(D$`H
-(D$pD
-(D$pH
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(Hc/;o
-(L$ H
-(L$0A
-(L$0A9]
-(L$0D
-(L$0H
-(L$@3
-(L$@A9
-(L$@D
-(L$@H
-(L$@I
-(L$@L
-(L$PD
-(L$PH
-(L$`D
-(L$`H
-(L$pA
-(L$pB
-(L$pD
-(L$pH
-(T$ D
-(T$ H
-(T$09_
-(T$09}
-(T$0A9]
-(T$0D
-(T$0H
-(T$@3
-(T$@L
-(T$PD
-(T$`D
-(T$`L
-(T$pD
-(T$pH
-(T?j?Y
-(\$ D
-(\$ H
-(\$@D
-(\$PD
-(\$`D
-(\$pD
-(d$0D
-(d$@D
-(d$P3
-(d$`D
-(d$pD
-(d$pH
-(l$ D
-(l$0D
-(l$PD
-(l$PL
-(l$`D
-(l$`L
-(l$pL
 (null)
-(o:R	
-(t$ D
-(t$ H
-(t$ L
-(t$ f
-(t$0@
-(t$0H
-(t$0L
-(t$@3
-(t$@9}
-(t$@A
-(t$@D
-(t$@H
-(t$@L
-(t$P3
-(t$PD
-(t$PE
-(t$PE3
-(t$PH
-(t$PL
-(t$Ps
-(t$`A
-(t$`D
-(t$`H
-(t$`Hco(;o8u
-(t$`L
-(t$pD
-(t$pH
-(t$pL
-(|$ D
-(|$ H
-(|$ s.L
-(|$0A9]
-(|$0D
-(|$0H
-(|$0I
-(|$@D
-(|$@E
-(|$@H
-(|$@I
-(|$PD
-(|$PI
-(|$`3
-(|$`H
-(|$`I
-(|$pA
-(|$pD
-(|$pL
 ) memory error
 ) stream error
 ) unknown error
 ) version error
-)4$E3
-)4$H;
-)9C }
 )9IYiy
-)<$Ai
-)>6{1n
-)D$ L
-)D$ f
-)D$0A
-)D$0D
-)D$0E
-)D$0H
-)D$0L
-)D$@A
-)D$@B
-)D$@D
-)D$@H
-)D$@f
-)D$@ff
-)D$PD
-)D$PE
-)D$Pf
-)D$`D
-)D$pE
-)E0Hc
-)L$ A
-)L$ D
-)L$0D
-)L$0E
-)L$0th
-)L$@A
-)L$@D
-)L$@f
-)L$@fff
-)L$PD
-)L$PE
-)L$`E
-)L$`H
-)L$pD
-)L$pH
-)L$pfD
-)MpIc
-)T$0D
-)T$0Hc
-)T$PD
-)T$Pf
-)T$`D
-)T$`fD
-)T$pD
-)T$pH
-)\$ E
-)\$@f
-)\$PD
-)\$`D
-)\$`H
-)\$pD
-)\ZEo^m/
-)d$@D
-)d$@fD
-)d$`D
-)d$pD
-)l$0D
-)l$0fD
-)l$0z
-)l$PD
-)l$`D
-)l$pA
-)t$ 9A
-)t$ A
-)t$ B
-)t$ D
-)t$ E3
-)t$ H
-)t$ H+
-)t$ Hc
-)t$ I
-)t$ fD
-)t$ t
-)t$ u
-)t$03
-)t$0@
-)t$0A
-)t$0C
-)t$0E
-)t$0H
-)t$0Hc
-)t$0L
-)t$@%
-)t$@3
-)t$@A
-)t$@E
-)t$@H
-)t$@Hc
-)t$@I
-)t$@L
-)t$@f
-)t$@ff
-)t$PA
-)t$PD
-)t$PE3
-)t$PH
-)t$PI
-)t$PL
-)t$`A
-)t$`D
-)t$`H
-)t$`Hc
-)t$`I
-)t$`Lc
-)t$pE
-)t$pH
-)u(Hc+;k
-)|$ D
-)|$ E3
-)|$ H
-)|$ Mc
-)|$ f
-)|$ t
-)|$0A
-)|$0H
-)|$@D
-)|$@H
-)|$@L
-)|$PA
-)|$PD
-)|$PH
-)|$Pf
-)|$`A
-)|$`D
-)|$`H
-)|$`I
-)|$`L
-)|$pD
-)|$pE
-)|$pH
-)|$pIc
-)|B?d!
-)}pIc
-*** Converter error - element "%s" already has a non-int attribute "%s"!
-*** Element "%s" has attribute "%s" with an unexpected type!
-*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!
-*** Log "%s" is missing attribute "%s"!
-*** Problem in converter encountered!
-*** Problem in file encountered!
-*** Setting new attribute "%s" to 0
-*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!
-*** TimeFrame "%s" is missing attribute "%s"!
-*** Unable to find or add attribute "%s" to element "%s"!
-*** line %d: Bad command "%s"!
-*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!
-*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!
-*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!
-*** line error: incompatible packmode change when %d sequences already defined!
-*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!
+)yIx
+*** Converter error - element "%s" already has a non-int attribute "%s"!\n
+*** Element "%s" has attribute "%s" with an unexpected type!\n
+*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!\n
+*** Log "%s" is missing attribute "%s"!\n
+*** Problem in converter encountered!\n
+*** Problem in file encountered!\n
+*** Setting new attribute "%s" to 0\n
+*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!\n
+*** TimeFrame "%s" is missing attribute "%s"!\n
+*** Unable to find or add attribute "%s" to element "%s"!\n
+*** line %d: Bad command "%s"!\n
+*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!\n
+*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!\n
+*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!\n
+*** line error: incompatible packmode change when %d sequences already defined!\n
+*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!\n
+*5KS
 *:JZjz
-*LcD$0A
 *StO9>T
 +&?SetIdentity@FbxAMatrix@fbxsdk@@QEAAXXZ
 +'?SetRotation@FbxTexture@fbxsdk@@QEAAXNNN@Z
-+;K[k{
-+B$Hc
-+C$Hc
-+D$ H
-+D$ fE
-+D$(i
-+D$X+
-+F$Hc
-+G$Hc
-+H;t$@u
-+J$D8M@
-+L$0A
-+M<7>
-+O$Lc
-+T$4E
-+f)>0'
-+h->|
-,.D;(
-,/<-w
-,/D;(
-,/D;)
-,/D;*
-,0<	w
-,7D;(
-,7D;)
-,<L\l|
++\f?Add@FbxPose@fbxsdk@@QEAAHPEAVFbxNode@2@AEBVFbxMatrix@2@_N2@Z
 ,HR>O
-,I<%w
-,t0D9J0v*L
-,|%)v
-,}v\n&
----- dmxconvert cmdline ----
----- dmxconvert output ----
----------------------------
--1.000000
--=M]m}
+---- dmxconvert cmdline ----\n
+---- dmxconvert output ----\n
+---------------------------\n
 -BH>t
 -animdecodecachemem
+-avx
 -enable_2gb_morphs
+-inf
 -noassert
+-rgb
 -rgba
 -sse2
 -sse3
 -sse4
--uNI;
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU?$_InitialTaskHandle@XV<lambda_5a9ef80d79df7873994019ff15dceae5>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_60c5de84e69e46aa92419d47e2f3ad51>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_85226a1ade6d27c19b16702c44b1a394>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
@@ -1537,127 +1130,72 @@ $~aA;F
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$ z)u'
-.D$ z7u5
-.D$$z
-.D$$z)u'
-.D$$z4u2
-.D$(z
-.D$(z#u!H
-.D$,z
-.D$Hz
-.D$Lz
-.D$Tz
-.D$Xz
+.bss
 .data
 .data$r
 .edata
+.exr
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
 .idata$5
 .idata$6
+.jpg
 .pdata
+.pfm
+.png
 .rdata
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tga
+.tls
 .tls$
 .tls$ZZZ
 .vmat
 .xJ>Hf
 .xdata
 .xdata$x
-// 						"BA_INT_AMBUSH"		someone please define this - I have no idea what it does
-// 						"BA_INT_COMBAT"		break out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached
-// 						"BA_INT_DANGER"		break out of this anim only if threatened
-// 						"BA_INT_NONE"		break out only when time runs out. No external influence will break me out.
-// 						"BA_INT_PLAYER"		break out of this anim if I can see the player, or I'm threatened
-// 	"busy_anim"			"Activity Name".
-// 	"busy_sequence"		"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.
-// 	"entry_anim"		"Activity Name"
-// 	"entry_sequence"	"Sequence Name". If specified, this is used over the entry anim.
-// 	"exit_anim"			"Activity Name"
-// 	"exit_sequence"		"Sequence Name". If specified, this is used over the exit anim.
-// 	"interrupts"		One of:
-// 	"max_time"			"Maximum time to spend in this busy anim"	0 = only stop when interrupted by external event
-// 	"min_time"			"Minimum time to spend in this busy anim"
-// "act busy name"		This is the name that a mapmaker must specify in the hint node.
+// "act busy name"\t\tThis is the name that a mapmaker must specify in the hint node.\n
+// \t"busy_anim"\t\t\t"Activity Name".\n
+// \t"busy_sequence"\t\t"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.\n
+// \t"entry_anim"\t\t"Activity Name"\n
+// \t"entry_sequence"\t"Sequence Name". If specified, this is used over the entry anim.\n
+// \t"exit_anim"\t\t\t"Activity Name"\n
+// \t"exit_sequence"\t\t"Sequence Name". If specified, this is used over the exit anim.\n
+// \t"interrupts"\t\tOne of:\n
+// \t"max_time"\t\t\t"Maximum time to spend in this busy anim"\t0 = only stop when interrupted by external event\n
+// \t"min_time"\t\t\t"Minimum time to spend in this busy anim"\n
+// \t\t\t\t\t\t"BA_INT_AMBUSH"\t\tsomeone please define this - I have no idea what it does\n
+// \t\t\t\t\t\t"BA_INT_COMBAT"\t\tbreak out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached\n
+// \t\t\t\t\t\t"BA_INT_DANGER"\t\tbreak out of this anim only if threatened\n
+// \t\t\t\t\t\t"BA_INT_NONE"\t\tbreak out only when time runs out. No external influence will break me out.\n
+// \t\t\t\t\t\t"BA_INT_PLAYER"\t\tbreak out of this anim if I can see the player, or I'm threatened\n
 /2GG>!B
-/=$!6
-/>58d%
-/?O_o
+/P8i
 /TF<)VGy#WH
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+/yQA
 0 0 0
+0000
 00003333
+00C"
 0123456789ABCDEF
 0123456789ABCDEFundefined
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
-0><[cZUg^>
-0A\_]
-0A\_^][
-0A]A\[
-0A]A\_][
-0A]^[
-0A^A\_
-0A^A][
-0A^A]]
-0A^A]_
-0A^^[
-0A^^]
-0A^_[
-0A^_]
-0A^_^
-0A^_^][
-0A_A]A\_]
-0A_A]_
-0A_A^A\
-0A_A^A\_^
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\^
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_[
-0A_A^A]_^
-0A_A^]
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_][
-0A_A^_^]
-0A_][
-0A_^[
-0A_^]
-0A__]
-0Hc3H
-0Hc7L
-0Hc9H
-0L;l$x
+0E>X
 0X8b?~
-0_^[H
 0iN>/
-0v0b1
 0x%llx
 1#IND
 1#INF
@@ -1665,266 +1203,69 @@ $~aA;F
 1#SNAN
 1.5.13
 1.5.2
+11Y@
 123456789
-131022120000Z
-141022000000Z
 16-byte data pool
-181004000000Z
-1<.	/>:
 1A26b
 1DBlend
+1\v%14
 1eaB@
 1sAL"
 1wsHp
 2%?SetBoolProp@FbxIOSettings@fbxsdk@@QEAAXPEBD_N@Z
-200613004113Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2Hc+L
-2Hc3L
-2I9FPt
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
+2\r52t
+3 FB
+3333
+37>k
 3>N;kU
 3>fvw
-3A8A#
+3?tr
 4-byte data pool
-4CCUtlRBTree overflow with %u elements!
-4HA;x
-4ND;{
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4pD9w
-5@8|$"t.9|
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+4CCUtlRBTree overflow with %u elements!\n
+51>W
+52F*
+5\fE5
 5sfm_v8
-5tP	)
+5tP\t)
 64 283 0
+6NK>
+6\fXO>\ntA
 700WP
-7I97u
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+7>I0
+7?GX
+7~8A
+7~xh
 8-byte data pool
-80tWD
-8A;>|
-8A^A]A\^
-8A^A]_^][
-8A^^][
-8A^_][
-8A^_^[
-8A_A\
-8A_A\][
-8A_A]A\[
-8A_A^
-8A_A^A\[
-8A_A^A]A\_^][
-8A_A^_[
-8A_A^_]
-8A__][
-8D$ u+I
-8D),$
-8D)l$
-8L$`t
-8Y0t]
-8\$`t
-8\$pt
-8\$xt
-8_^[]
-8_^][
 8b  16-May-2010
-8fF9|
 8ke?;
-8x`	)
-9"tCeH
-9#tCeH
-9$tCeH
-9%tCeH
-9'tCeH
-9(tCeH
 9)?WriterIsFBX@FbxIOPluginRegistry@fbxsdk@@QEBA_NH@Z
-9)tCeH
-9*tCeH
-9+tCeH
-9,tCeH
-9-tCeH
-9.tCeH
-9/tCeH
-90tCeH
-91t0H
-91~/E3
-98~03
-99C }
-99~-H
-99~BH
+9>70
 9>powf
-9C |K
-9D$ u
-9D$ }(Hc/;o
-9D$(}y
-9D$x~
-9Eo~ 3
-9Eo~83
-9G$vAD
-9GXu2Lc
-9GXuCHc
-9HXu*H
-9K\~QD
-9STvw
-9S\t+
-9WP~GM
-9WP~HM
-9WP~KM
-9X@u4
-9YD~/3
-9Yh~WH
-9^<~.
-9^<~0f
-9^<~1
-9^<~2
-9^<~3
-9^<~5
-9_<~DH
-9_<~HH
-9_<~LH
-9_<~fH
-9_D~/3
-9_D~H3
-9_P~OE3
-9_p~$
-9i<~O
-9i@~VH
-9i\~#H
-9k@~dH
-9k\~[H
-9o$t6H
-9o$t@ff
-9o$tIf
-9o@~^H
-9oP~2E3
-9oP~3E3
-9s@~DH
-9s@~HH
-9s@~IH
-9s@~JH
-9s@~Xfff
-9s@~bH
-9sHva
-9sLv|
-9s\~HL
-9t	A;
-9t$@~7H
-9w@~IH
-9w@~QH
-9wP~IL
-9xX~}H
-9y@~ZL
-9}@~HH
-9~@~3
-9~@~7
-9~@~;
-9~P~3
-9~P~7
-9~P~;
-:#u0A
-:>)*	v
-:>t6k'
-:Lc.D;n
-;*t!H
-;1}*H
-;7}JH
-;8u-3
-;9}|H
-;A ~W
-;B$vUH
-;B$vvI
-;C ~M
-;CL|KHc
-;Ct~EH
-;Ct~MH
-;Ct~ZH
-;Ct~bH
-;D$0u
-;D$4u+
-;D$8u"
-;D$8u$
-;D$8u%
-;D$8u(
-;D$@@
-;D$`@
-;D$`u
-;D$hu
-;H9>&X
-;L$0u
-;L$@u
-;L$hu
-;SL|3
-;T$0u
-;Vl}fD
-;\$ |
-;\$@|
-;\$`|
-;\$xu
-;l$0|
-;l$hr
-;t$0u
-;t$8u"
-;t$Xu 
-;|$ |
-;|$@|
-;|$`|
-;|$p|
-<	_tVE3
-<	u"H
-<	w	@
-< t;<	t7
-< tH<	tD<
+9a&g
+;1cb
 <!-- DMXVersion
-<!-- dmx
-<"Pj&
-<$E;Q
-<>#n2
 <NO_MAT>
 <NULL>
 <UNKNOWN_EXPORT_TYPE>
 <deferred>
-<dt <it
-<dtk<itg<uu
-<ft_<lu
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <sqrt
 <unconnected>
-<uuNI
-<xuCA
+=1cb
+=87M
 == (or missing)
-======
+=cQ6
+=e2m
 =imb;D
 >Physics
->ffffff
+>cQ6
 >jtm}S
-? u#H
 ?!5WOo
-?*u8H
-?*u:H
-?+>^m
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
-?<!t	3
-?<!u*H
-?<!uEH
-?<!uQH
-?<"t>H
-?<%u	H
 ??0FbxAMatrix@fbxsdk@@QEAA@AEBV01@@Z
 ??0FbxAMatrix@fbxsdk@@QEAA@XZ
 ??0FbxAnimCurveFilterGimbleKiller@fbxsdk@@QEAA@XZ
@@ -1943,30 +1284,14 @@ $~aA;F
 ??4FbxAMatrix@fbxsdk@@QEAAAEAV01@AEBV01@@Z
 ??4FbxString@fbxsdk@@QEAAAEBV01@AEBV01@@Z
 ??4FbxVector4@fbxsdk@@QEAAAEAV01@AEBV01@@Z
-??BFbxString@fbxsdk@@QEBAPEBDXZ
-??DFbxAMatrix@fbxsdk@@QEBA?AV01@AEBV01@@Z
-??Hfbxsdk@@YA?AVFbxString@0@AEBV10@PEBD@Z
 ?@En[vP
-?Add@FbxLayerElementArray@fbxsdk@@QEAAHPEBXW4EFbxType@2@@Z
-?Add@FbxPose@fbxsdk@@QEAAHPEAVFbxNode@2@AEBVFbxMatrix@2@_N2@Z
-?AddChild@FbxNode@fbxsdk@@QEAA_NPEAV12@@Z
-?AddCluster@FbxSkin@fbxsdk@@QEAA_NPEAVFbxCluster@2@@Z
-?AddControlPointIndex@FbxCluster@fbxsdk@@QEAAXHN@Z
-?AddDeformer@FbxGeometry@fbxsdk@@QEAAHPEAVFbxDeformer@2@@Z
-?AddMaterial@FbxNode@fbxsdk@@QEAAHPEAVFbxSurfaceMaterial@2@@Z
-?AddNodeAttribute@FbxNode@fbxsdk@@QEAA_NPEAVFbxNodeAttribute@2@PEAVFbxStatus@2@@Z
-?AddPolygon@FbxMesh@fbxsdk@@QEAAXHH@Z
-?AddPose@FbxScene@fbxsdk@@QEAA_NPEAVFbxPose@2@@Z
 ?AppendConcat@CBufferString@@QEAAPEBDHPEBQEBDPEBH_N@Z
 ?AppendFormat@CBufferString@@QEAAHPEBDZZ
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
-?Apply@FbxAnimCurveFilterGimbleKiller@fbxsdk@@UEAA_NPEAPEAVFbxAnimCurve@2@HPEAVFbxStatus@2@@Z
-?Apply@FbxAnimCurveFilterUnroll@fbxsdk@@UEAA_NPEAPEAVFbxAnimCurve@2@HPEAVFbxStatus@2@@Z
 ?BeginPolygon@FbxMesh@fbxsdk@@QEAAXHHH_N@Z
 ?Bind@FbxPathUtils@fbxsdk@@SA?AVFbxString@2@PEBD0_N@Z
 ?Buffer@FbxString@fbxsdk@@QEAAPEADXZ
 ?Buffer@FbxString@fbxsdk@@QEBAPEBDXZ
-?C<n&
 ?ChangeExtension@FbxPathUtils@fbxsdk@@SA?AVFbxString@2@PEBD0@Z
 ?ClassId@FbxFileTexture@fbxsdk@@2VFbxClassId@2@A
 ?ComposeFileName@CBufferString@@QEAAPEBDPEBD0D@Z
@@ -1999,7 +1324,6 @@ $~aA;F
 ?Delete@FbxFileUtils@fbxsdk@@SA_NPEBD@Z
 ?Destroy@FbxObject@fbxsdk@@QEAAX_N@Z
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
 ?EndPolygon@FbxMesh@fbxsdk@@QEAAXXZ
 ?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
 ?EvaluateGlobalTransform@FbxNode@fbxsdk@@QEAAAEAVFbxAMatrix@2@VFbxTime@2@W4EPivotSet@12@_N2@Z
@@ -2052,8 +1376,6 @@ $~aA;F
 ?GetWriterFormatCount@FbxIOPluginRegistry@fbxsdk@@QEBAHXZ
 ?GetWriterFormatDescription@FbxIOPluginRegistry@fbxsdk@@QEBAPEBDH@Z
 ?GetWriterFormatExtension@FbxIOPluginRegistry@fbxsdk@@QEBAPEBDH@Z
-?H33H
-?H9|$`t
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Inverse@FbxAMatrix@fbxsdk@@QEBA?AV12@XZ
 ?Is@FbxClassId@fbxsdk@@QEBA_NAEBV12@@Z
@@ -2064,7 +1386,6 @@ $~aA;F
 ?MakeAbsolutePath@CBufferString@@QEAAPEBDPEBD0@Z
 ?MakeRelativePath@CBufferString@@QEAAPEBDPEBD0@Z
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?Relinquish@CBufferString@@QEAAPEADW4EAllocationOption_t@1@@Z
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
@@ -2079,7 +1400,6 @@ $~aA;F
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
 ?StripExtension@CBufferString@@QEAAPEBDXZ
 ?Swap@CBufferString@@QEAAXAEAV1@@Z
-?TY,>5
 ?ToLowerFast@CBufferString@@QEAAXH@Z
 ?TruncateAt@CBufferString@@QEAAPEBDH_N@Z
 ?UUUUUU
@@ -2088,208 +1408,18 @@ $~aA;F
 ?ati_compress_wrapper.dll
 ?f`Y4
 ?kxG2)
+?lZE
 ?physics
+?qBJ
+?rAj
 ?sqrtf
-?{Q}<
-@ Lc4
+?ysB
 @&?SetIsBindPose@FbxPose@fbxsdk@@QEAAX_N@Z
-@(A+@4;
-@.data
-@.gfids
-@.tls
-@09D$0
-@80t9H
-@80u#H
-@81u/H
-@8=j9)
-@8t$x
-@8y:t
-@8|$Pt
-@8|$PtN
-@8|$PtP
-@8|$^t
-@8|$ju2H
-@8|$ku	H
-@;k@|
-@>%>b
-@A\^[
-@A]A\]
-@A]_^][
-@A^A\]
-@A^A\_^]
-@A^A]A\
-@A^A]A\^]
-@A^][
-@A^^]
-@A^_[
-@A^_^
-@A^_^][
-@A_A]A\_[
-@A_A]^][
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^][
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^^
-@A_A^_
-@A_A^_^]
-@A__^
-@Hc23
-@HcC(H
-@Lc:E3
-@SATAUAWH
-@SATAUH
-@SATH
-@SAUAVH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATH
-@SUAUH
-@SUAVH
-@SUAWH
-@SUVAUAWH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAW
-@SUVWATAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWAWH
-@SUVWH
-@SUWATAUH
-@SUWAUAWH
-@SUWAVAWH
-@SUWAVH
-@SUWAWH
-@SUWH
-@SVATAVAWH
-@SVATH
-@SVAUH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWATAVH
-@SVWAUAVH
-@SVWAVAWH
-@SVWAVH
-@SVWAWH
-@SVWH
-@SWATAUAWH
-@SWAUAVH
-@SWAUAWH
-@SWAVAWH
-@SWAVH
 @Tools
-@UATAUAVAWH
-@UATAUAVH
-@UATAUAWH
-@UATAVH
-@UATAWH
-@UAUAVAWH
-@UAUAVH
-@UAUAWH
-@UAUH
-@UAV3
-@UAVAWH
-@UAVH
-@UAWH
-@USAUAVH
-@USAUH
-@USAVH
-@USVAUAVAWH
-@USVAVAWH
-@USVWATAUAVAWH
-@USVWATAVH
-@USVWAUH
-@USVWAVH
-@USVWH
-@USWATAUAVAWH
-@USWATAVH
-@USWAVH
-@USWH
-@UVATAUH
-@UVATAVH
-@UVAUH
-@UVAVAWH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UVWH
-@UWATAWH
-@UWATH
-@UWAUAWH
-@UWAVAWH
-@UWAVH
-@UWAWH
-@VATAUAVAWH
-@VATAVAWH
-@VAUAVAWH
-@VAWH
-@VWATAUAVH
-@VWATAVAWH
-@VWATH
-@VWAVH
-@VWAWH
-@WATAUAVAWH
-@WATAVH
-@WAVAWH
-@WAVH
-@WAWH
-@X9CXu
 @^8U)zj
-@b;zO]
 A!;I2
-A$+A,t[3
-A$+AX;A,w
-A(9B(D
-A+F$H
-A+F$Hc
-A+FdL
-A+U$H
-A+n H
-A,A9A(v&L
-A,u+H
-A03>A|
-A0H9P
 A1.2.7
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A9<2t&A
-A9?~YA;F
-A9FHt
-A9FHtQI
-A9Fdu'A
-A9Z<~bL
-A9nX~rH
-A:(uiI
-A;6}#I
-A;>|SA;~
-A;?|XA;
-A;@X}
-A;@`}
-A;A`}
-A;BX}
-A;H$s
-A;H$v}H
-A;Q`}
-A;RX}
-A;Z<|
-A;^0}
-A;nX|
-A;}(u
-A>l$/
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 AE_ACTION_SET_TURN_RATE_SCALE
@@ -2326,10 +1456,9 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 AK>(v
 ALIGN_TYPE is wrong, please fix
-AMAgH
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
 ASSET_FILTER_CONTAINS
 ASSET_FILTER_DOES_NOT_CONTAIN
@@ -2342,100 +1471,12 @@ ASSET_FILTER_LESS
 ASSET_FILTER_LESS_EQUAL
 ASSET_FILTER_NOT_EQUAL
 ASSET_FILTER_NOT_EQUAL_OR_MISSING
-ATAUAVH
-ATAUAWH
-ATAVAWH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-AUAVAWH
-AUAWH
-AVAWH
-AX9CXu
-AX9GXu
-A\^[]
-A\_^[]
-A]A\]
-A]A\^[]
-A]A\^]
-A]A\_
-A]A\_]
-A]A\_^
-A]^[]
-A]_^[]
-A]_^]
-A^A\[]
-A^A\]
-A^A\^[]
-A^A\^]
-A^A\_[]
-A^A\_^[
-A^A\_^[]
-A^A\_^]
-A^A]A\]
-A^A]A\][
-A^A]A\^
-A^A]A\_]
-A^A][
-A^A][]
-A^A]]
-A^A]_[]
-A^A]_^[]
-A^^[]
-A^_^[]
-A^_^]
-A^_^][
-A_A\]
-A_A\^]
-A_A\_]
-A_A\_^]
-A_A]A\
-A_A]A\]
-A_A]A\^[]
-A_A]A\_[
-A_A]A\_^
-A_A]]
-A_A]^
-A_A]^]
-A_A]_^[]
-A_A]_^]
-A_A^A\
-A_A^A\^]
-A_A^A\^][
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^]
-A_A^A\_^][
-A_A^A]A\]
-A_A^A]A\^]
-A_A^A]A\_
-A_A^A]A\_[]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]]
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^]
-A_A^[
-A_A^[]
-A_A^]
-A_A^^
-A_A^^[]
-A_A^_
-A_A^_[]
-A_A^_]
-A_A^_][
-A_A^_^[]
-A_A^_^]
-A__^[
-A__^][
-A`D9L8
 AbsolutePoseControl
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
@@ -2443,7 +1484,7 @@ ActBusy Script File
 ActBusyList
 AddLayer
 AddNewLayer
-AddUndoElement '%s'
+AddUndoElement '%s'\n
 Adding %s helper key at %d value 
 Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
 Ahd=<c]^7if1Rjg
@@ -2452,6 +1493,7 @@ Alpha Fade In Random
 Alpha Fade Out Random
 Alpha Fade and Decay
 Alpha Random
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -2489,6 +1531,7 @@ Application transferred too few scanlines
 Application transferred too many scanlines
 April
 Arithmetic table 0x%02x was not defined
+Arms
 AssertMsg_ConditionFailed
 AssetAutoTagInfo_t
 AssetBrowserSystem_001
@@ -2498,25 +1541,21 @@ AssetSystem001
 AssetSystemTest001
 At marker 0x%02x, recovery action %d
 Attachments
-Attempted to add two format updaters with the same file format (%s)!
-Attempted to add two legacy updaters with the same file format (%s)!
-Attempted to add two serializers with the same file encoding (%s)!
-Attempted to read an attribute ("%s") of an inappropriate type %s!
-Attempted to read an attribute ("%s") of an inappropriate type!
-Attempted to read an attribute ("%s") of unknown type %s!
-Attempted to serialize an unsupported shader parameter type %s (%s)
-Attempting to set %s when there is no current sequence!
-Attempting to set name when there is no current sequence!
+Attempted to add two format updaters with the same file format (%s)!\n
+Attempted to add two legacy updaters with the same file format (%s)!\n
+Attempted to add two serializers with the same file encoding (%s)!\n
+Attempted to read an attribute ("%s") of an inappropriate type %s!\n
+Attempted to read an attribute ("%s") of an inappropriate type!\n
+Attempted to read an attribute ("%s") of unknown type %s!\n
+Attempted to serialize an unsupported shader parameter type %s (%s)\n
+Attempting to set %s when there is no current sequence!\n
+Attempting to set name when there is no current sequence!\n
 August
-AuthE
 AutoLayer
-B(I9A(
-B+l(0u
 B-Spline
-B0E8XAt
-B8|09
 BA_INT_NONE
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -2529,7 +1568,6 @@ BGRA8888_LINEAR
 BGRX5551
 BGRX8888
 BGRX8888_LINEAR
-BGRsH
 BKbhTb~XBK!;
 Backing store not supported
 Bad dynamic_cast!
@@ -2541,19 +1579,19 @@ Bad value
 BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
-Bellevue1
 BenchmarkService001
 BentNormalData
 Bezier
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 Binary
 Binary (deterministic sequential ids)
-Binary: Element uses unknown element type %s
+Binary: Element uses unknown element type %s\n
 BinaryProperties_GetValue
+Bind
 BlendLayer
 BlendLayerBase
 BlendLayerPoseParam
 BlendList
+Body
 BodyGroup
 BodyGroupChoice
 Bogus DAC index %d
@@ -2568,38 +1606,14 @@ Bogus marker length
 Bogus message code %d
 Bogus sampling factors
 Bogus virtual array access
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
 BrowInV
 Buffer passed to JPEG library is too small
-C HcH
-C$+CX;C,
-C$u	H
-C(9C u&
-C(D90
-C(D;C
-C(L9p
-C,9C$u
-C-yh/
-C0D9p<t
-C0D9p<tN
-C0H9C(r
-C0H9K8u
-C0Hc,
-C0HcF
-C0L9p
-C0L9p 
-C0L9p0
-C4D+@ H
-C5R?	
-C89C\t
-C8<(u
-C8D9(
-C8H!o
-C940t%G
-C9|)$u?C
-CA< t(<#t
+C-Yn
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
 CAnimationDecodeCache
@@ -2640,16 +1654,16 @@ CCompressedStaticQuaternion
 CCompressedStaticVector2D
 CCompressedStaticVector3
 CCompressedStaticVector4D
-CDataModel:  %i elements left in memory!!!
-CDataModel: Invalid DMX encoding hint '%s' for file %s
-CDataModel: Unable to determine DMX encoding for file %s
-CDataModel: Unable to generate full path for file %s
-CDataModel: Unable to open file "%s"
-CDataModel: Unable to open file %s
-CDataModel: Unable to open file '%s'
-CDataModel: Unable to overwrite readonly file %s
-CDataModel::DisplayMemoryStats with invalid handle %u
-CDataModel::FindAndDeleteOrphanedElements() took %llums 
+CDataModel:  %i elements left in memory!!!\n
+CDataModel: Invalid DMX encoding hint '%s' for file %s\n
+CDataModel: Unable to determine DMX encoding for file %s\n
+CDataModel: Unable to generate full path for file %s\n
+CDataModel: Unable to open file "%s"\n
+CDataModel: Unable to open file %s\n
+CDataModel: Unable to open file '%s'\n
+CDataModel: Unable to overwrite readonly file %s\n
+CDataModel::DisplayMemoryStats with invalid handle %u\n
+CDataModel::FindAndDeleteOrphanedElements() took %llums \n
 CDatamodelAssetTypeInfo
 CDependencyGraph::Cleanup
 CDependencyGraph::FindAttrNode
@@ -2657,15 +1671,15 @@ CDependencyGraph::Reset
 CDmAttribute pool
 CDmElement CUtlMemoryPool
 CDmExtraVertexStream
-CDmMeshUtils::CleanupDegenerateFaces(3972): Degenerate Face Found on %s.faceSet[%d](%s).f[%d] @ .faces[%d]
-CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'
-CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'
-CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'
-CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!
-CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'
-CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...
+CDmMeshUtils::CleanupDegenerateFaces(3972): Degenerate Face Found on %s.faceSet[%d](%s).f[%d] @ .faces[%d]\n
+CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'\n
+CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'\n
+CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'\n
+CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!\n
+CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...\n
 CDmeAmalgamatedTexture
 CDmeAmbientLight CUtlMemoryPool
 CDmeAnimationList CUtlMemoryPool
@@ -2695,7 +1709,7 @@ CDmeConstraintTarget CUtlMemoryPool
 CDmeControlGroup CUtlMemoryPool
 CDmeDCCMakefile CUtlMemoryPool
 CDmeDag CUtlMemoryPool
-CDmeDag::GetParentWorldMatrix called on a dag that has different rotation and translation override parents - result will be incorrect!
+CDmeDag::GetParentWorldMatrix called on a dag that has different rotation and translation override parents - result will be incorrect!\n
 CDmeDirectionalLight CUtlMemoryPool
 CDmeDotaTileGrid
 CDmeEditorAttributeInfo CUtlMemoryPool
@@ -2845,7 +1859,6 @@ CGlobalConfigValueRegistry::HookUpConfigValue
 CHammerMesh
 CImagePlaneNode
 CL:>8
-CLD;CP|
 CManifestInstance
 CMapAssetTypeInfo
 CMapCordon
@@ -2876,15 +1889,15 @@ CONTENTROOT
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CParticleSystemDefinition
 CResourceAssetTypeInfo
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaRegistration::RegisterAllModuleData
 CSimpleAssetTypeInfo
 CSolveIKChainAnimNode
 CStrongHandle
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTerrainSelection
@@ -2905,16 +1918,16 @@ CUndoManager::GetUndoDescInternal
 CUndoManager::Redo
 CUndoManager::Undo
 CUtlBinaryBlock
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<struct UtlRBTreeNode_t<struct CDmElementSerializationDictionary::ElementInfo_t,int>,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlFixedMemory overflow!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> >::Grow
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> > >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CUtlRBTree<class CDmAttribute *,unsigned short,bool (__cdecl*)(class CDmAttribute * const &,class CDmAttribute * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmAttribute *,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<class CDmElement *,int,bool (__cdecl*)(class CDmElement * const &,class CDmElement * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmElement *,int>,int> >::NewNode
@@ -2956,7 +1969,7 @@ CUtlRBTree<struct LayerEvent_t<int>,unsigned short,bool (__cdecl*)(struct LayerE
 CUtlRBTree<struct LayerEvent_t<unsigned __int64>,unsigned short,bool (__cdecl*)(struct LayerEvent_t<unsigned __int64> const &,struct LayerEvent_t<unsigned __int64> const &),class CUtlMemory<struct UtlRBTreeNode_t<struct LayerEvent_t<unsigned __int64>,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<struct LayerEvent_t<unsigned char>,unsigned short,bool (__cdecl*)(struct LayerEvent_t<unsigned char> const &,struct LayerEvent_t<unsigned char> const &),class CUtlMemory<struct UtlRBTreeNode_t<struct LayerEvent_t<unsigned char>,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
-CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer\n
 CUtlString
 CUtlString::FormatV
 CUtlStringToken
@@ -3051,7 +2064,6 @@ C_OP_StopAfterCPDuration
 C_OP_TwistAroundAxis
 C_OP_WorldTraceConstraint
 C_class
-C`Lc4
 Call to NULL write function
 Can't set both read_data_fn and write_data_fn in the same structure
 Can't write sCAL (buffer too small)
@@ -3093,9 +2105,9 @@ Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
 CompressBlocksBC6H
 CompressBlocksBC7
 Compressed texture bits for mip %i are corrupt, decompression error!
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -3135,353 +2147,18 @@ CreateUmsCompletionList
 CreateUmsThreadContext
 Cull Random
 CycleOverride
-D W?{W
-D#C|D
-D#G|D
-D#K|D
-D$ !>;
-D$ !\$$H
-D$ 3A
-D$ 9F
-D$ ;(}#H
-D$ ;(}'H
-D$ ;(}+H
-D$ ;(}4H
-D$ ;(}BH
-D$ ;0}cH
-D$ ;V
-D$ A;
-D$ D;
-D$ E3
-D$ H;
-D$ Hc(H
-D$ Hc0H
-D$ HcZ
-D$ I;
-D$ L9d$(t
-D$ L;
-D$ Lc4
-D$ N&B:H
-D$ P-
-D$ [>
-D$ ]z
-D$ d=
-D$ fA
-D$ fD
-D$ fH
-D$ fff
-D$ r|
-D$ t.
-D$ t`H
-D$ w	
-D$#A;~
-D$$9D$(u
-D$$A;
-D$$E;
-D$(;E
-D$(A+
-D$(D+
-D$(E3
-D$(H;
-D$(fA
-D$(fI
-D$(tn
-D$(zEuC
-D$0,M
-D$09(tSH
-D$09\$<
-D$0;(}#H
-D$0;0}
-D$0;0}'H
-D$0A;
-D$0C+D0(
-D$0D9BX
-D$0D;BX
-D$0D;o\|
-D$0E3
-D$0E;
-D$0H#
-D$0H9t$8t
-D$0H;
-D$0H;A t
-D$0H;G
-D$0Hc
-D$0HcH
-D$0I;
-D$0L;
-D$0Lc
-D$0f;UPu
-D$0fA
-D$0mp
-D$0r|
-D$0t7
-D$0t?
-D$0tHA
-D$0tbA
-D$0xL
-D$49C
-D$4;|$@u)
-D$4E3
-D$8+C$H
-D$8;D$@
-D$8A;
-D$8D8m
-D$8E3
-D$8H;
-D$8Hc
-D$8HcJ
-D$8Ic
-D$8L9
-D$8L;
-D$8Lc
-D$8fH
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@;0} H
-D$@@8
-D$@A;^
-D$@E3
-D$@E;
-D$@H+
-D$@H;
-D$@H;G
-D$@Hc
-D$@Ic
-D$@L;
-D$@csm
-D$@fff
-D$@mp
-D$@r|
-D$H@8
-D$HA;
-D$HD+
-D$HD9
-D$HD;
-D$HE3
-D$HH+
-D$HH;
-D$HHc
-D$HL+
-D$HL;
-D$HLc
-D$HMc
-D$LE3
-D$Lv/1
-D$P I
-D$P"ZF
-D$P9A
-D$P;C
-D$P;L$H
-D$P;L$L
-D$PA;
-D$PD9q8
-D$PD;
-D$PE3
-D$PE;O
-D$PH+
-D$PH;
-D$PHc
-D$PHcH
-D$PI;
-D$PIc
-D$PL;
-D$Pk@_aH
-D$Pmp
-D$Pt$A
-D$TA;
-D$X;u
-D$XD8p
-D$XD9
-D$XD90}
-D$XH;
-D$XHc
-D$XHc>
-D$XL+
-D$`9>s
-D$`@2
-D$`A+
-D$`B;D
-D$`D+
-D$`E#
-D$`E3
-D$`H9t$ht
-D$`H;
-D$`Hc
-D$`Jc
-D$`L+
-D$`L;
-D$`Ll
-D$`r|
-D$dfff
-D$h;p
-D$h;y
-D$hA+
-D$hA;
-D$hE3
-D$hHc
-D$hHcAxL;
-D$hIc
-D$lE3
-D$p 69
-D$p<L{
-D$pA+
-D$pD9
-D$pD;
-D$pE3
-D$pH;
-D$pHK8
-D$pHc
-D$pHc@
-D$pIc
-D$pL;
-D$pLc
-D$pMc
-D$ptq
-D$tE3
-D$x*>
-D$xE3
-D$xHc
-D$xI;
-D$xL+
-D$xL;
-D$xfD
-D);A+
-D)L$ 
-D)p(H
-D+D$8
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8- B
-D8-!>
-D8-!A
-D8-#;
-D8-$1
-D8-&@
-D8-)C
-D8-*J
-D8-/H
-D8-2E
-D8-3D
-D8-42
-D8-4F
-D8-6G
-D8-<I
-D8-=3
-D8-AK
-D8-N4
-D8-[5
-D8-f9
-D8-h6
-D8-k/
-D8-k7
-D8-nJ
-D8-r<
-D8-s?
-D8-t>
-D8-tA
-D8-u8
-D8-u@
-D8-v;
-D8-vB
-D8-x0
-D8-z:
-D8-{=
-D82u&H
-D8?tRf
-D8?tnH
-D8M@t
-D8M@t^
-D8Y:uEH
-D8a:uDH
-D8c&t
-D8c:u
-D8d$H
-D8d$Ht
-D8d$ht
-D8l$@t
-D8l$`
-D8l$ht
-D8m!u0H
-D8m"u	H
-D8m(u-Lc3D;s
-D8sAt
-D8t$Ht
-D8{&t
-D8|$Pt
-D8}ht
-D90u	9X
-D9B,t
-D9G$s5
-D9IL}sL
-D9J,w
-D9c t
-D9d$ ~-I
-D9d$(u
-D9f@~0Hc
-D9fxv@J
-D9m`u*Ic
-D9pXu
-D9p`t
-D9s(t)H
-D9wXt
-D9wXt/H
-D9x(uiE
-D9xXL
-D9{(u
-D9|$ 
-D;8}aH
-D;B0}
-D;C8|
-D;D$(|
-D;D$(}:J
-D;D$0u
-D;D$8|
-D;D$8};J
-D;E@u
-D;EPu
-D;G0}
-D;K4u
-D;L$0u
-D;M@u
-D;M`u
-D;f\|
-D;j0v
-D;k ~=
-D;l$8u!
-D;l$H
-D;q8|
-D;s8}-Ic
-D;sXu
-D;t$du
-D;t$hu
-D;t$hu 
-D;u0u
-D;wXu
-D;z,u
-D;z,v
-D;z,v(A
-D;{ ~
-D;{Lr
-D;|$H
-D;|$Hu'A
-D;|$xu
-D;}(u
-D<P0I
-DATAH
-DATAI
-DATAL
 DCT coefficient out of range
 DCT scaled block size %dx%d not supported
-DD$$H
+DDDD
 DDDDUUUU
-DGKbH
+DEMO
 DMX Model
 DMX Model Pipeline Animation Script File
 DMX Model Pipeline Bone Mask Script File
@@ -3496,13 +2173,15 @@ DMX Model Pipeline Root Script File
 DMX anim export can only do a single conversion
 DMX save failed
 DMX_MODEL_SOURCE_UNKNOWN
-DNEIH
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 Da\">c]$8c^
 Dampen Movement Relative to Control Point
 DataModel needs the file system to function
-Datamodel symbol table: %d entries %llu bytes
+Datamodel symbol table: %d entries %llu bytes\n
 DatamodelSymbols
 DebugTextureInfo001
 December
@@ -3520,20 +2199,12 @@ DeleteUmsCompletionList
 DeleteUmsThreadContext
 DequeueUmsCompletionListItems
 Derived must implement
-DiD$(
-Did you forget to surround the vector with "s?
 Didn't expect more than one scan
 DiffuseColor
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Distance Between Control Points Scale
 Distance to Control Points Scale
-Dm Memory usage: type				count	totalsize	wastage %%	outer		inner		datamodel	refs		tree		atts		data	(att count)
-Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!
+Dm Memory usage: type\t\t\t\tcount\ttotalsize\twastage %%\touter\t\tinner\t\tdatamodel\trefs\t\ttree\t\tatts\t\tdata\t(att count)\n
+Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!\n
 DmAttributeAddedListenerInfo_t CUtlMemoryPool
 DmAttributeChangedListenerInfo_t CUtlMemoryPool
 DmAttributeList_t CUtlMemoryPool
@@ -3615,8 +2286,8 @@ DmeMayaMakefile
 DmeMayaModelMakefile
 DmeMesh
 DmeModel
-DmeModel::CaptureJointsToBaseState( %s ) - DmeModel %s[%s].jointList[ %d ].transform ( %s[%s].transform ) is NULL
-DmeModel::CaptureJointsToBaseState( %s ): DmeModel %s[%s].jointList[ %d ] is NULL
+DmeModel::CaptureJointsToBaseState( %s ) - DmeModel %s[%s].jointList[ %d ].transform ( %s[%s].transform ) is NULL\n
+DmeModel::CaptureJointsToBaseState( %s ): DmeModel %s[%s].jointList[ %d ] is NULL\n
 DmeMorphOperator
 DmeOperator
 DmePackColorOperator
@@ -3719,50 +2390,27 @@ Double-save to Member '%s'
 DuplicateHandle
 DynamicConfigList
 DynamicProgressFeedback
-E Lc<
 E'?SetRow@FbxAMatrix@fbxsdk@@QEAAXHAEBVFbxVector4@2@@Z
-E(9p(u
-E+BHI
-E+H(A
-E0C07
-E0HcH
-E0Lcx
-E8H8t
-E8X@t8A
-E8l$ ueI
-E;B0}
-E;Bl}NE
-E;F$w
-E;~(H
 E>nEA
 E?WIN32
-E@9GXu7Lc
-E@A9v
-EMItD
-EP*?@
-EPHc@
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ERROR: Sequence %d already specified!
-ERROR: Sequence %d is missing, total of %d sequences!
-ERROR: Sequence number %d is too big!
-ERROR: Specified full path %s does not lie under the mod search path!)
-ERROR: Specified path %s could not be made content-relative
-ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!
-ET$(H
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ERROR: Sequence %d already specified!\n
+ERROR: Sequence %d is missing, total of %d sequences!\n
+ERROR: Sequence number %d is too big!\n
+ERROR: Specified full path %s does not lie under the mod search path!)\n
+ERROR: Specified path %s could not be made content-relative\n
+ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!\n
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
-E`+UX
+E[\rn?gc
 Ease In
 Ease In/Out
 Ease Out
 EconItemToolModel_001
 EditGameClassProps
 EditorDynamicConfig
-Egv3A
-Eh+U`
-Eh9uh|
-El9Ed
-El9EduS
-Element uses unknown element type %s
+EiUL
+Element uses unknown element type %s\n
 Embedded profile length in iCCP chunk is negative
 Embedded profile length too large in iCCP chunk
 Empty JPEG image (DNL not supported)
@@ -3781,21 +2429,19 @@ End Of Image
 EngineServiceMgr001
 EnterCriticalSection
 EnterUmsSchedulingMode
-Eo9GXu6Lc
 Error
-Error importing actbusy element %s
-Error importing txt file! %s
-Error importing vmt shader parameter %s
-Error in .VMT file: error parsing vector element "%s" in "%s"
-Error in the undo system! Grab a programmer!
+Error importing actbusy element %s\n
+Error importing txt file! %s\n
+Error importing vmt shader parameter %s\n
+Error in .VMT file: error parsing vector element "%s" in "%s"\n
+Error in the undo system! Grab a programmer!\n
 Error reading attribute "%s"
 Error reading in array attribute "%s" element %d
-Error reading texture compile settings file "%s"!
-Error! Cannot create FbxIOSettings
-Error! Cannot create FbxManager
-Event %u layer %i at time %i type %s
+Error reading texture compile settings file "%s"!\n
+Error! Cannot create FbxIOSettings\n
+Error! Cannot create FbxManager\n
+Event %u layer %i at time %i type %s\n
 EventSystem001
-Ew+Uo
 ExecuteUmsThread
 ExitProcess
 Expected value after =
@@ -3823,53 +2469,47 @@ Export|AdvOptGrp|Fbx|Gobo
 Export|AdvOptGrp|Fbx|Material
 Export|AdvOptGrp|Fbx|Shape
 Export|AdvOptGrp|Fbx|Texture
-F HcH
-F()h(H
-F(D)p(H
-F(D98~b
-F(D9p(u
-F(LcF I
-F0LcFDI
-F8D98
-F8HcNDI
 F>qUxv
-FATAL ERROR: unable to register all schema data: %s
-FBX export failed: %s
+FATAL ERROR: unable to register all schema data: %s\n
+FBX export failed: %s\n
 FBXSystem001
 FBX_vmatPath
+FEMh\f
 Facial Animation File
-Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)
+Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)\n
 Fail to schedule the chore!
 Failed to create temporary file %s
 Failed to load DMX file :: %s
 Failed to save unsupported class
-Fbx2Material :: Color Texture Replacment :: %s :: %s
-Fbx2Material::FbxProperty::Invalid :: "%s"
+Fbx2Material :: Color Texture Replacment :: %s :: %s\n
+Fbx2Material::FbxProperty::Invalid :: "%s"\n
 FbxSystem
 February
-File has not been opened!
+FfW?
+File has not been opened!\n
 FillAttr
+Film
 FindClose
 FindFirstFileExA
 FindNextFileA
 Fingers
 Fingers_L
 Fingers_R
-Finished %d Blocks out of %d
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+Finished %d Blocks out of %d\n
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenLayers
 FlattenedSerializersVersion001
 FloatBitMap_t::ConvertGammaToLinear
-FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!
-FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
-FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
-FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!
-FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
-FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!
-FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
-FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!
-FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!\n
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!\n
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!\n
+FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!\n
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!\n
+FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!\n
+FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!\n
+FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!\n
+FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!\n
 FlsAlloc
 FlsFree
 FlsGetValue
@@ -3889,35 +2529,19 @@ Freed XMS handle %u
 Friday
 Fsfm_v3
 Functor
-G H9F
-G$;G,
-G(9G0|
-G(D9 
-G0Hc	H
-G49E`uwE3
-G8Hc@
+G>US
+GAME
 GAMECONSOLE
-GD$(H
-GD$8H
-GD$8I
-GQ&8q
-GT$(H
-GT$8A
-GT$8H
-GT$HD
-GT$HH
-G\$8H
-G\$HI
+GCTL
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!
+GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!\n
 Generic DMX
 Generic MovieObjects
 Generic SFM
 GenericGameData
 GenericType
-Genu3
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -3992,252 +2616,28 @@ GetTraceLoggerHandle
 GetUmsCompletionListEvent
 GetUserObjectInformationW
 GetVersionExW
-Gl$(H
-Gl$XH
 GlobalAlloc
 GlobalLock
 GlobalSize
 GlobalUnlock
-Gt$x3
-G|$(H
-G|$8H
-G|$HH
-H HcA
-H SVH
-H SVWH
-H!D$ E
-H!T$0D
-H!\$(L
-H!\$03
-H!u H
-H#L$8H
-H#t$0tB
-H$E+H,toA
+H$6t
 H*0"ZOW
-H+C H=
-H+D$hH+D$P3
-H+G H=
-H+U I
-H+\$h+
-H+\$hIc<$H
-H0F08
-H0Hc\$p3
-H3\$HH
-H97t<
-H98tPA
-H98u	H
-H99t	M
-H99u{
-H9A u
-H9A(s
-H9BhuTH
-H9C0w<
-H9CPt
-H9D$PuCI
-H9GPu
-H9J t1
-H9K u
-H9KPu
-H9L$H
-H9OPu
-H9\$Ht
-H9] uO
-H9^ u
-H9^ u68D$xt
-H9^ uJD9oXuDIc
-H9_ u
-H9_ht0H
-H9s H
-H9s8H
-H9s@H
-H9s@u
-H9sHH
-H9t$`t
-H9uot	H
-H9y`t
-H9{xu
-H9|$Pt
-H;@0u
-H;@Xu
-H;A t
-H;C t
-H;D$Pu
-H;D$`
-H;E t	H
-H;T$`}9H
-H;XXs
-H;YXt 
-H;\$P|
-H;l$P
-H;t$8|
-H;t$@u
-H;t$@|
-H;t$H
-H;xXu9
-H;|$0}
-H;|$8
-H;|$@
-H;}O|
-H=vmdl
-HA\_^[
-HA]_][
-HA^A]_^][
-HA^_[]
-HA_A\
-HA_A\][
-HA_A]
-HA_A]A\[
-HA_A]A\_^[
-HA_A^A\^
-HA_A^A]A\_^[]
-HA_A^A]A\_^][
-HA_A^A]_][
-HA_A^A]_^[
-HA_A^^]
 HH:mm:ss
-HHcY0H
 HIGHDPI
-HXA9NX
-HXA9OXt
-H[><y5
-H_^][
 Hammer temp export
 HammerMapLoader001
 HangWatchdogInternal_BeginScope
 HangWatchdogInternal_EndScope
-Hc+;k
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc;;{
-Hc;HcK
-Hc<0H
-Hc>;~
-HcA$H
-HcC H
-HcC$H
-HcC(L
-HcC0A
-HcC0H
-HcD$ H
-HcD$0H
-HcD$4H
-HcD$HE+
-HcD$PA
-HcD$PH
-HcD$PL
-HcD$X
-HcD$XA
-HcD$XH
-HcD$XL
-HcD$pA
-HcD$pH
-HcD$x
-HcD$xL
-HcD$xLi
-HcE@L
-HcEPL
-HcF H
-HcF(Hk
-HcF(L
-HcF0A
-HcFTL
-HcFxI
-HcG(H
-HcG(L
-HcGl;Gh}
-HcH,H
-HcH<H
-HcI8;
-HcI@H
-HcIXH
-HcJ ;
-HcK ;
-HcK H
-HcKHE3
-HcKhH
-HcL$ H
-HcL$0L
-HcL$43
-HcL$4I
-HcL$XA
-HcL$XH
-HcL$`I;
-HcN(;
-HcN(L
-HcQ(Mc
-HcR ;
-HcS ;
-HcS@H
-HcT$ H
-HcT$@H
-HcT$@L
-HcT$HH
-HcT$XLc
-HcU H
-HcU(H
-HcU0H
-HcU0L
-HcU@H
-HcU`H
-HcUxLc
-HcV0H
-HcVxH
-HcW ;
-Hc\$@3
-Hc\$`L
-Hc]`M
-Hc_ ;_0u
-Hc_0L
-Hc_8;_Hu
-HckHL
-HckHM
-Hcl$ 3
-Hcl$0H
-Hcl$pH
-Hcl$xH
-HcoHM
-Hcr H
-Hct$ H
-Hct$0
-Hct$0H
-Hct$H3
-Hct$`H
-HcuhH
-HcuxL;
-Hcy0L
-Hc{(;{8u
-Hc{@;{Pu
-Hc{H;{Xu
-Hc{HB
-Hc|$ 3
-Hc}HE3
-Hc}pH
 HelpSystem_001
 HemiOctAnisoRoughness_RG_BA
 HemiOctIsoRoughness_RG_B
 HemiOctNormal
+Hold
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
 Huffman code size table overflow
 Huffman table 0x%02x was not defined
-I(D9I
-I98t	H
-I9@Pt~H
-I9EPu
-I9FPt
-I9\$ ~@H
-I9^ u4D9oXu.Lc
-I9^ u:
-I9^ u>
-I9^ u?
-I9^ u@D9oXu:Lc
-I9^ uED9oXu?Lc
-I9^ uGD9oXuALc
-I9_ uI9wXuDMc
-I9}(t9H
+IA88
+IDAT
 IKChain
 IKChainOld
 IKData
@@ -4250,14 +2650,6 @@ IND)ind)INF
 INITY
 IOSRoot
 IQuickTime001
-Ic4$A;t$
-Ic<$E3
-Ic>A;~
-Ic?A;
-IcI A
-IcNP;
-Ic_@H
-Ic_@I
 Ignoring attempt to set cHRM RGB triangle with zero area
 Ignoring attempt to set negative chromaticity value
 Ignoring attempt to write 16-bit bKGD chunk when bit_depth is 8
@@ -4278,8 +2670,8 @@ Image width is zero in IHDR
 Improper call to JPEG library in state %d
 Improper number of values for crop coordinates. Need 4 in the format of ( xstart, ystart, xend, yend )!
 Inconsistent progression sequence for component %d coefficient %d
-Index      Address       References   String
-Infinite recursion in patch file?
+Index      Address       References   String\n
+Infinite recursion in patch file?\n
 InfoDataFilter_t
 InfoForResourceTypeCTextureBase
 Inherit Velocity
@@ -4299,7 +2691,7 @@ InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
 Insufficient memory (case %d)
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InterlockedPopEntrySList
 InterlockedPushEntrySList
@@ -4344,7 +2736,7 @@ Invalid progressive parameters at scan script entry %d
 Invalid sBIT depth specified
 Invalid sRGB rendering intent specified
 Invalid scan script at entry %d
-Invalid sequence type.
+Invalid sequence type.\n
 Invalid time specified for tIME chunk
 Invalid zlib compression method or flags in IDAT
 Invalid zlib compression method or flags in non-IDAT chunk
@@ -4360,190 +2752,33 @@ JFIF extension marker: type 0x%02x, length %u
 JPEG datastream contains no image
 JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
 JPEGMEM
+J\n??Hfbxsdk@@YA?AVFbxString@0@AEBV10@PEBD@Z
 January
-Jc43E
-K 9N v@H
-K H9K0u
-K H9y
-K&>.yC
-K,D9s(A
-K0u,H
-K4A+H 
-K8+C$
-K@H;KHs
+JawD
+JawH
+JawV
+July
+June
 KERNEL32.dll
+KL2H
+KNQ\rMO
 KV Conditional Evaluation Error
-KcD, E3
 KeyValueCache001
 KeyValues
-KeyValues Error: %s in file %s
+KeyValues Error: %s in file %s\n
 KeyValues2
 KeyValues2 (flat)
 KeyValues2 (no ids)
 KeyValues3
-KeyValues: Can't serialize attribute of type %s into KeyValues files!
-KeyValues: Element uses unknown element type %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues: Can't serialize attribute of type %s into KeyValues files!\n
+KeyValues: Element uses unknown element type %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
 Kochanek-Bartels
 Kochanek-Bartels Early
 Kochanek-Bartels Late
-K~Je#>!
-L!|$(L!
-L$ ;1}WH
-L$ D)\$ B
-L$ E3
-L$ H3
-L$ H9\$(t
-L$ H;
-L$ Hc
-L$ I+
-L$ I;
-L$ Ic
-L$ Lc
-L$ Mc
-L$ SATAUAWH
-L$ SH
-L$ SUVWATAVAWH
-L$ SUVWH
-L$ SVWH
-L$ SWH
-L$ UATAUAVAWH
-L$ UVWATAUAVAWH
-L$ UVWAVH
-L$ VWATAUH
-L$ WATAUAVAWH
-L$ WH
-L$ fA
-L$ fI
-L$$D;
-L$$E+
-L$&@8t$&t0@8q
-L$(A+
-L$(E+
-L$(E3
-L$(H3
-L$(Ic
-L$(L;L$P
-L$(fH
-L$(fI
-L$0D;
-L$0E+
-L$0E3
-L$0H+
-L$0H3
-L$0H;
-L$0H;K
-L$0I;
-L$0L;
-L$0Lc
-L$0M;
-L$0fH
-L$0fI
-L$8;L$0
-L$8Ai
-L$8D;}`
-L$8E3
-L$8H3
-L$8Ic
-L$8L;
-L$8Lc
-L$8fA
-L$<Hc
-L$@;|
-L$@D;}P
-L$@E3
-L$@H+
-L$@H3
-L$@H;
-L$@H=
-L$@L;
-L$@Lc
-L$@Lc9M
-L$@uU
-L$D;L$T
-L$DE3
-L$HD+
-L$HD;
-L$HHc
-L$HLc
-L$HMc
-L$Hff
-L$P+L$8
-L$P+L$H
-L$PA;
-L$PD91u
-L$PE3
-L$PH3
-L$PHi
-L$PIc
-L$PfD
-L$XB;
-L$XE3
-L$XH;M
-L$XfD
-L$\Hc
-L$`)K
-L$`A;
-L$`D;
-L$`D;ep
-L$`E3
-L$`E;
-L$`H+
-L$`H3
-L$`H;
-L$`Ic
-L$`fD
-L$`tcA
-L$aE3
-L$h;C
-L$hD;
-L$hE3
-L$pE3
-L$pH3
-L$pH;M
-L$pL;
-L$xI+
-L$xMc
-L$xfA;
-L$|E3
-L)l$hH
-L+l$HH
-L+t$8H
-L9	u)H
-L9*u&
-L93u_
-L93uc
-L9Spt
-L9Spu
-L9`8tA
-L9a`t
-L9d$@t
-L9k8tfM
-L9m(t	H
-L9mPt	H
-L9mXt	H
-L9t$Ht
-L9ugt	H
-L9w t#H
-L9~ t
-L9~PtgL9~`taL9~ht[H
-L;EHt
-L;d$ 
-L;d$@
-L;l$ 
-L;l$p
-L;t$8
-L;t$@
-L;t$H
-L;t$P
-L;|$@
-L;|$@}
-L;|$P
-L;|$p
+L>ev
 L?UUUUUUU?
-LACpH
-LACsI
 LCMapStringEx
 LCMapStringW
 LE_BGRA8888
@@ -4563,42 +2798,15 @@ LINUX
 LOCAL
 LOG_GENERAL
 LOWVIOLENCE
+LWG>
+LWW>
 Lambert
-Last two rows as percentage of total size %f %%:
+Last two rows as percentage of total size %f %%:\n
 Layer %d:  adding key at time %d [%d -> %d], value 
-Lc&D;f
-Lc3D;s
-LcA<E3
-LcCLC
-LcCP3
-LcCPH
-LcD$|3
-LcE0H
-LcE@H
-LcFDI
-LcF`D
-LcG$H
-LcGP3
-LcK$A;
-LcK<L
-LcL$HH
-LcMPI
-LcT$p3
-Lcd$8H
-LceWH
-Lcl$ A
-Lcl$xfff
-LcsHH
-Lct$8A
-Lct$H3
-Lct$h3
-LcwHI
-Lc|$`I
-Lc|$hH
-Lc|$hI
-Leaking %i elements
+Leaking %i elements\n
 LeaveCriticalSection
 LeftFingers
+Legs
 Lifespan Decay
 Lifespan from distance to world
 Lifetime Pre-Age Noise
@@ -4611,7 +2819,6 @@ LinearDelta
 LipLoV
 LipUpV
 LipsV
-Lj[;>
 Lkh9Fgc^A
 LoadAtiCompress
 LoadFromBuffer: expected '{', found '%s'
@@ -4629,19 +2836,17 @@ LoggingSystem_RegisterLoggingChannel
 LoggingSystem_RegisterLoggingListener
 LoggingSystem_SetLoggingResponsePolicy
 LrwcE
-M H1E
-M9}ht
+M8MF
 MATCHFRAMEWORK_001
 MAX_ALLOC_CHUNK is wrong, please fix
 MDefaultString
-MLc3D;s
+MGiI
 MM/dd/yy
 MNG features are not allowed in a PNG datastream
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MPropertyFriendlyName
 MQC,ARD
-MRHcH
 Make sheet file
 MapClass
 MapListService_001
@@ -4664,17 +2869,11 @@ Max Velocity
 MaxConcurrency
 MaxPolicyElementKey
 Maximum supported image dimension is %u pixels
+MbP?
 Mbp?333333
-Mc,$E;l$
-Mc,$M
-Mc.E;n
-Mc4$D
-Mc4$M
-Mc<$L
-McF(Ik
-McH(E
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
+Mesh
 Mesh     :: 
 MeshSystem001
 MeshUtils
@@ -4688,7 +2887,7 @@ Missing file '%s'
 Model    :: 
 ModelDocUtils001
 Monday
-MorphOperator::Operate: invalid delta state name: %s
+MorphOperator::Operate: invalid delta state name: %s\n
 Movement Basic
 Movement Dampen Relative to Control Point
 Movement Lock to Bone
@@ -4698,19 +2897,15 @@ Movement Match Particle Velocities
 Movement Max Velocity
 MovieSettings
 MultiByteToWideChar
-MwB+L
-N Mc4
-N&B:H
 N'?SetScale@FbxTexture@fbxsdk@@QEAAXNN@Z
-N(9i(u
-N(D9q(u
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
-NHcD$ H
 NJ2"v
+NQ?s
+NULL
 NULL HModel
 NULL HModel passed
 NULL HSequence
@@ -4719,9 +2914,7 @@ NV_DST24
 NV_INTZ
 NV_NULL
 NV_RAWZ
-N\$(A
 NavSystem001
-Nc4#M
 Neither FBX nor DMX set as output format
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -4746,27 +2939,18 @@ NostrilFlare
 Not a JPEG file: starts with 0x%02x 0x%02x
 Not implemented yet
 November
-NxD9eP~1I
-O(t(H
 O*9y]
-O,D9O(vcH
-O0HcQ
-O8+G$
-OF>;^
-OHcs 
-OX9JXt
-OX9KXu
+OZQ%
 OZw3(?
-O]oHcE
 Obtained EMS handle %u
 Obtained XMS handle %u
 October
 Offset
-Only DXT1/DXT5 online texture compression supported.
+Only DXT1/DXT5 online texture compression supported.\n
 OpenClipboard
 Opened temporary file %s
-Operator cycle found during dependency graph traversal!
-Ordered constructor wrapped type has no default constructor.
+Operator cycle found during dependency graph traversal!\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orient Rotation to 2D Direction
 Original Foot 
 Original Knee
@@ -4779,36 +2963,14 @@ Out of memory while procesing keyword
 Output file write error --- out of disk space?
 Output memory size is zero
 OutputDebugStringW
-P Lce
-P Lc}
-P(Hcu
-P(Lc]
-P(Lc}
-P>q_Y~
-P@H;PHs
-P@Hc>;~
+P0C"
 PARALLEL_PROCESS FloatBitMap_t::WriteInMemoryEXRFast(), c:\buildslave\hlvr_rel_win64\build\src\bitmap\tinyexr_impl.cpp:163
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA\_^][
-PA]^]
-PA]_[
-PA^_^
-PA_A\]
-PA_A\_^]
-PA_A]A\
-PA_A]]
-PA_A^A]A\_^]
-PA_A^A]_^[]
-PA_A^[
-PA_A^]
-PA_A^_^]
-PA_^]
-PA__]
-PCCiD
+PF\n%d %d\n-1.000000\n
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -4818,8 +2980,7 @@ PF_TYPE_CONTROL_POINT_COMPONENT
 PF_TYPE_LITERAL
 PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
-PHcr H
-PNGLc
+PHL 
 POSIX
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
@@ -4828,6 +2989,8 @@ PanoramaUIClient001
 PanoramaUIEngine001
 Particle Configuration File
 ParticleSystemMgr003
+Pe6^
+Pf\n%d %d\n-1.000000\n
 Phong
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
@@ -4860,6 +3023,7 @@ Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
 Plat_VirtualAlloc
 Plat_VirtualFree
+Po5H
 Pole vector (raw dir: {%.2f, %.2f, %.2f})
 Position Along Path Random
 Position Along Path Sequential
@@ -4886,12 +3050,11 @@ PreviewPresetList
 Procedural
 PropertyEditorSystem_001
 Proxies
-Q(Lci
-Q,A3P
+Ptn&
 Q2XXR
 Q5rHg,>
+QAf?
 QAngle
-QiydYA
 Qkkbal
 Quantization table 0x%02x was not defined
 Quantizing to %d = %d*%d*%d colors
@@ -4903,16 +3066,14 @@ QueryPerformanceFrequency
 QueryUmsThreadInformation
 QueueUserWorkItem
 QueuedLoaderVersion001
-R(A9P4A
-R0E8XAt
 R11_EAC
+R16F
 R16F_EXPAND
 R1h58
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
-RDHID
-REDII
 RESOURCE_ENCODING_COMPRESSED_BYTES
 RESOURCE_ENCODING_COUNT
 RESOURCE_ENCODING_INTROSPECTED
@@ -4944,9 +3105,10 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
-RHcs 
 RPCRT4.dll
+RSDS
 RST%d
+R\vp0C"
 RadianEuler
 Radius Random
 Radius Scale
@@ -4963,7 +3125,8 @@ RecursiveLoadFromBuffer:  got conditional between key and value
 RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
-RegisterConfigValue: Unknown error constructing config value "%s"!
+Redo\n======\n
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 RegisterTraceGuidsW
 RegisterWaitForSingleObject
@@ -4984,7 +3147,7 @@ RenderSystemSurface001
 RenderUtils_001
 Requested feature was omitted at compile time
 ResetEvent
-Resource "%s" requested unknown animation decompressor "%s"
+Resource "%s" requested unknown animation decompressor "%s"\n
 ResourceBlockInfo_t
 ResourceCompilerSystem001
 ResourceDataEncodingType_t
@@ -5000,6 +3163,7 @@ RigRoot
 RightFingers
 RoInitialize
 RoUninitialize
+Root
 RootSelectionSet
 Rotation Basic
 Rotation Orient to 2D Direction
@@ -5015,57 +3179,18 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S(9C8sq
-S,, <Zw
-S,fA+
-S89S4
-S89SD|
+S+Ot
+S9>H
 S>$hkDh$h>[2
-SATAUH
-SATAVAWH
-SAUAVH
 SFM Session
 SFM Settings
 SFM TrackGroup
+SKyu
 SNAN)
 SSAOBias
 SSAORadius
 SSAOStrength
 SSE and SSE2 are required.
-SUATAUAVH
-SUATAUAWH
-SUATAWH
-SUAUAWH
-SUAWH
-SUVATAVAWH
-SUVAVH
-SUVWATAUAVAWH
-SUVWATAVAWH
-SUVWATH
-SUVWAUAVH
-SUVWAUAWH
-SUVWAUH
-SUVWAVAWH
-SUVWAVH
-SUVWAWH
-SUVWH
-SUWAUAVAWH
-SUWAUH
-SVATAUH
-SVAUH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATAVAWH
-SVWATH
-SVWAUAVAWH
-SVWAUH
-SVWAVAWH
-SVWAVH
-SVWAWH
-SWATAUAWH
-SWAUAVAWH
-SWAUAVH
-SWAUH
 Sampling factors too large for interleaved scan
 Saturday
 ScalpD
@@ -5081,16 +3206,16 @@ SchemaTestExternal_Two_001
 Seek failed on temporary file
 Selected %d colors for quantization
 September
-Sequence %d out of order (@position %d).
+Sequence %d out of order (@position %d).\n
 Sequence Random
 Sequence Two Random
 Sequence out of range: %d
 Sequence( %s, %.3f ) : %.3f
 SequenceMarkup
 SequenceMarkupList
-Serialize: File encoding %s is undefined!
-Serialize: File encoding '%s' is undefined!
-Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer
+Serialize: File encoding %s is undefined!\n
+Serialize: File encoding '%s' is undefined!\n
+Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer\n
 SerializedEntitiesVersion001
 Serializing(%d root elements)
 ServerUploadGameStats001
@@ -5146,70 +3271,7 @@ Subtract
 Sunday
 Suspension not allowed here
 SwitchToThread
-Symbol table:  %d entries %llu bytes
-T$ A3
-T$ A;
-T$ E3
-T$ H;
-T$ Hc
-T$ I;
-T$ Ic
-T$ L;t$@
-T$ Lc
-T$ Mc
-T$ McM
-T$(D+
-T$(H;
-T$(I+
-T$0E3
-T$0H;
-T$0Hc
-T$0M+
-T$8+G$A
-T$8+G$H
-T$8A+
-T$8E3
-T$8Hc
-T$8fff
-T$8u!I
-T$<D;
-T$<H;
-T$<Ic
-T$@+G$A
-T$@9p
-T$@@2
-T$@E3
-T$@H+
-T$@H;
-T$@HcM
-T$@Ic
-T$HD9{<
-T$HHc
-T$HIc
-T$HL+
-T$PE3
-T$PH3
-T$PIc
-T$Pff
-T$XA;
-T$XD+
-T$XHc
-T$XL+
-T$`A;
-T$`E;hx
-T$hD9
-T$pD+
-T$pE3
-T$pH;
-T$pHc
-T$pJc
-T$pM+
-T$pfD
-T$pfff
-T$xH;
-T$xHc
-TADIH
-TLPsD
+Symbol table:  %d entries %llu bytes\n
 TUUUU
 TargetOversubscriptionFactor
 TerminateProcess
@@ -5221,7 +3283,7 @@ TestFormatE
 TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
-Texture  :: %s
+Texture  :: %s\n
 Texture Compiler Version Mip 
 Texture Configuration File
 TextureColor
@@ -5248,111 +3310,37 @@ Totals
 TraceEvent
 Trail Length Random
 TransparentColor
-Tried to rename from '%s' to '%s', but '%s' already exists
+Tried to rename from '%s' to '%s', but '%s' already exists\n
 Truncating profile to actual length in iCCP chunk
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
-Trying to add a frame when there is no current sequence.
+Trying to add a frame when there is no current sequence.\n
 Tuesday
 Two Bone
+U4tT
 UA>N0Wl
-UATAUAVAWH
-UATAUAVH
-UATAUH
-UATAUI
-UATAVH
-UATAVI
-UATAWH
-UATAWI
-UAUAVAWH
-UAUAVI
-UAUAWH
-UAUAWI
-UAVAWH
 UNKNOWN
-UPA8]Xt
 UPDATE_STRING_TOKEN_DATABASE
-USATAVH
-USATH
-USAUAVH
-USAUH
-USAVAWH
-USAVH
-USAVI
-USAWH
 USER32.dll
-USVATAUAWH
-USVATAUI
-USVATAVH
-USVATH
-USVATI
-USVAUI
-USVAVH
-USVWATAUAVAWH
-USVWATH
-USVWAUAVAWH
-USVWAUAVH
-USVWAUAWH
-USVWAVAWH
-USVWAVH
-USVWAVI
-USVWH
-USWATAUAVAWH
-USWATAUH
-USWAUAVI
-USWAVAWI
+UUUU
 UUUUUU
-UUUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVAWH
-UVATAUAVH
-UVATAUH
-UVATAVAWH
-UVATAVH
-UVATAWH
-UVATH
-UVATI
-UVAUAWH
-UVAUH
-UVAVAWH
-UVAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATAVAWH
-UVWATAVH
-UVWATAWH
-UVWATH
-UVWAUAVAWH
-UVWAUAWH
-UVWAUH
-UVWAVAWH
-UVWAVH
 UVWQ8888
-UWATAUAWH
-UWATAUH
-UWATAVAWH
-UWATH
-UWAUAVAWH
-UWAVAWH
-UWAVH
-UWAVI
-UWAWH
-Ugx	H
 UmsThreadYield
-Unable find required entry points in %s
-Unable to allocate %d bytes for the animation decode cache
-Unable to create new frame.
-Unable to create new sequence.
-Unable to create unknown element %s!
-Unable to load %s, error %d
+Unable find required entry points in %s\n
+Unable to allocate %d bytes for the animation decode cache\n
+Unable to create new frame.\n
+Unable to create new sequence.\n
+Unable to create unknown element %s!\n
+Unable to load %s, error %d\n
 Unable to set packing mode.
-Unable to set type unless you're creating untyped elements!
-Unabled to parse frame images.
+Unable to set type unless you're creating untyped elements!\n
+Unabled to parse frame images.\n
+Undo\n======\n
 Unexpected EOF in quoted string
 Unexpected marker 0x%02x
-Unhandled proxy keyvalues type (proxy %s var %s)
+Unhandled proxy keyvalues type (proxy %s var %s)\n
 UnhandledExceptionFilter
 Unknown
 Unknown APP0 marker (not JFIF), length %u
@@ -5364,8 +3352,8 @@ Unknown compression type in iCCP chunk
 Unknown exception
 Unknown filter method in IHDR
 Unknown interlace method in IHDR
-Unknown interpolation type %d
-Unknown normal encoding, assuming no special encoding :: %s
+Unknown interpolation type %d\n
+Unknown normal encoding, assuming no special encoding :: %s\n
 Unrecognized component IDs %d %d %d, assuming YCbCr
 Unrecognized equation type for pCAL chunk
 Unrecognized unit type for oFFs chunk
@@ -5373,17 +3361,17 @@ Unrecognized unit type for pHYs chunk
 UnregisterTraceGuids
 UnregisterWait
 UnregisterWaitEx
-Unserialize: Cannot determine encoding from file, and no encoding provided!
-Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!
-Unserialize: DMX file encoding %s is undefined!
-Unserialize: DMX header was present but contained no encoding name!
-Unserialize: Encoding expects DMX header but it doesn't exist!
-Unserialize: File format newer than executable's!
-Unserialize: Unable to open dmxconvert temp file "%s"
-Unserialize: Unable to start dmxconvert process
-Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'
-Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'
-Unsupported ETC image format %d.
+Unserialize: Cannot determine encoding from file, and no encoding provided!\n
+Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!\n
+Unserialize: DMX file encoding %s is undefined!\n
+Unserialize: DMX header was present but contained no encoding name!\n
+Unserialize: Encoding expects DMX header but it doesn't exist!\n
+Unserialize: File format newer than executable's!\n
+Unserialize: Unable to open dmxconvert temp file "%s"\n
+Unserialize: Unable to start dmxconvert process\n
+Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'\n
+Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'\n
+Unsupported ETC image format %d.\n
 Unsupported JPEG data precision %d
 Unsupported JPEG process: SOF type 0x%02x
 Unsupported color conversion request
@@ -5396,21 +3384,13 @@ UserInfoChangeService_001
 UuidCreate
 UuidFromStringA
 UuidToStringA
-UwH;U
-V(D9r(u
-V0;Ct~ZH
-V6E>`"(5
-VATAUAVAWH
-VATAUAVH
-VAUAWH
-VAVAWH
+V4n&
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDataModelVersion001
 VDebugService_001
 VDmElementFrameworkVersion001
@@ -5441,19 +3421,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VWATAUAVAWA
-VWATAUAVAWL
-VWATAUAWH
-VWATAUH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUAWH
-VWAVAWH
-VWAVH
-VWAWH
-V_:X1:
 V_CopyMemory3D
 V_GetErrno
 V_GetFileExtension
@@ -5499,16 +3466,14 @@ V_vsnprintf
 V_vsnprintfSize
 V_wcstod
 V_wcstoi64
-V`;Ct~bH
 Valid palette required for paletted images
 Valve Make Sheet File
 Valve Map File
 Valve Material File
 Valve Texture Configuration File
-Valve0
-Valve1
 ValveBiped.
 ValveBiped_
+Vc0a
 VeaFOfb
 Vector
 Vector2D
@@ -5527,17 +3492,7 @@ VirtualFree
 VirtualProtect
 Virual volume texture file
 VisBuilder_001
-W8HcH
-W8KcD
 W=vmdlkeys0
-WATAUAVAWH
-WATAUH
-WATAWH
-WAUAVH
-WAUAWH
-WAVAWH
-WD8l$@t
-WHcs 
 WINDOWS
 WINXP
 WaNd?
@@ -5546,9 +3501,9 @@ WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.
-Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".
-Warning:  %s = '%s' is infinite, clamping value.
+Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.\n
+Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".\nDid you forget to surround the vector with "s?\n
+Warning:  %s = '%s' is infinite, clamping value.\n
 Warning: thumbnail image size does not match data length %u
 Warning: unknown JFIF revision number %d.%02d
 Wednesday
@@ -5556,8 +3511,8 @@ WeightList
 WideCharToMultiByte
 Width is too large for libpng to process pixels
 WinRTInitialization
-WipeRedo '%s'
-WipeUndo '%s'
+WipeRedo '%s'\n
+WipeUndo '%s'\n
 WorkshopSetup001
 World Files
 World Node Files
@@ -5573,163 +3528,61 @@ Writing zero-length unknown chunk
 Wrong JPEG library version: library is %d, caller expects %d
 Wrote palette index exceeding num_palette
 Wrote symbol stats to file: %s
-Wu4E3
 X ?IsValid@FbxProperty@fbxsdk@@QEBA_NXZ
-X E9z
-X UVWATAUAVAWH
-X!t5~
-X(D9y(
-X0HcE
+X/4B
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
-XA]A\^[
-XA_A]
-XA_A]_^][
-XA_A^
-XA_A^A\^][
-XA_A^A\_^[
-XA_A^A]A\_^][
-XA_A^A]^[]
-XA__^[
-XL$4H
-XL$\H
-XL$tL
-X_^][
-X|$ A
-X|$8E
-Y$D;R
-Y0LcQ\M
-Y0t>H
+XPV&
+XsBI
+Y8a:
 Y>kX>M
-YD$@f
-YL$ A
-YL$`A
-YLct$XI
 YpU_Z
-Z(D9Z
-Z* ,	
-Z@&LHA'
+Z@&LHA'\r:C(
 ZFP compression is not supported in this build
-ZHcs 
 Z\>z8
-Z]Na+P 4
 Zero length keyword
-Zod(^?
+Zjz\v
 Zpm"U
-[ UVWI
-[%d] Aborting undo '%s'
-[%d] Popping undo '%s'
-[%d] Pushing undo '%s'
+[%d] Aborting undo '%s'\n
+[%d] Popping undo '%s'\n
+[%d] Pushing undo '%s'\n
 [%f %f %f %f]
-[%f %f %f]
 [*ncd>0
-[-&LMb#{'
-[0Hc3;s
-[@fE#
 [aOni*{
+[h1R
 [no zlib message]
-\$ ATAVAWH
-\$ AVH
-\$ H;
-\$ Hi
-\$ Ic
-\$ L+
-\$ UAVAWH
-\$ UH
-\$ UVATAVAWH
-\$ UVWATAUAVAWH
-\$ UVWATAUAVD
-\$ UVWAUAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ UWAWH
-\$ VAVAWH
-\$ VH
-\$ VWAUAVAWH
-\$ VWAVH
-\$ WAVAWH
-\$ WH
-\$ t>I
-\$(A;
-\$(D;
-\$(Hc|$ H
-\$(I;
-\$(L#
-\$(L;
-\$(Mc
-\$0)p(H
-\$09^
-\$0;^
-\$0A)6H
-\$0E+
-\$0E3
-\$0H;
-\$0Hc
-\$0Ic
-\$0L+
-\$0M+
-\$0Mc
-\$0t	H
-\$4E;O
-\$8A+
-\$8E3
-\$8Hc
-\$8fff
-\$<A;
-\$@9n<
-\$@@8=]g
-\$@D;
-\$@H+
-\$@H;
-\$@Hc
-\$@I;
-\$@Ic
-\$@f;
-\$@u$M
-\$@u+M
-\$@uFM
-\$HA;
-\$HHc
-\$Hta
-\$PA^A]A\_^]
-\$PE3
-\$PHc
-\$PfD
-\$Pfff
-\$XD;
-\$Xt+H
-\$`E3
-\$`I99u
-\$`Ic
-\$gm?
-\$hA;
-\$p;D$0u'
-\$pA;
-\$pHc
-\$pKc
-\$pu+H
-\$xv.
 \'?SetSecondDouble@FbxTime@fbxsdk@@QEAAXN@Z
-\D$8H
-\D$8L
-\D$Hf
-\T$HMc
-\T$Hf
-\ffff
-])6M>&
-]5d;$
-]8fff
-]>)2X
-]@fff
-]HE9F
-]HcD$ I
+\f?AddControlPointIndex@FbxCluster@fbxsdk@@QEAAXHN@Z
+\f?AddDeformer@FbxGeometry@fbxsdk@@QEAAHPEAVFbxDeformer@2@@Z
+\f?AddMaterial@FbxNode@fbxsdk@@QEAAHPEAVFbxSurfaceMaterial@2@@Z
+\f?AddNodeAttribute@FbxNode@fbxsdk@@QEAA_NPEAVFbxNodeAttribute@2@PEAVFbxStatus@2@@Z
+\f?AddPolygon@FbxMesh@fbxsdk@@QEAAXHH@Z
+\f?AddPose@FbxScene@fbxsdk@@QEAA_NPEAVFbxPose@2@@Z
+\n??BFbxString@fbxsdk@@QEBAPEBDXZ
+\n??DFbxAMatrix@fbxsdk@@QEBA?AV01@AEBV01@@Z
+\nCwf\r
+\nh?oT
+\nk>oB
+\r?Apply@FbxAnimCurveFilterGimbleKiller@fbxsdk@@UEAA_NPEAPEAVFbxAnimCurve@2@HPEAVFbxStatus@2@@Z
+\r?Apply@FbxAnimCurveFilterUnroll@fbxsdk@@UEAA_NPEAPEAVFbxAnimCurve@2@HPEAVFbxStatus@2@@Z
+\r\f\v\v\n\n\t\t\t\t\t
+\rmj>zjZ
+\t58o
+\tError\n
+\tN1a
+\tNAN encountered in element '%s' guid %s attribute '%s'!\n
+\t\t\n\n\v\v\f\f\f\f\r\r\r\r
+\t\t\t\t\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\tcQr
+\tkE>fvw
+\vA03>A|
+\vp0C"
 ^<V7w
 ^RfN>
-^dA)^`A
 ^oEZ_
-_8tDH
 _V_ExtractFileExtension
 _V_SetExtension
 _V_StringAfterPrefix
@@ -5758,29 +3611,8 @@ _light
 _linked_type_
 _name
 _oD>Kg
-_p)_tH
 _root_keyname
 _test_conversion_counter
-` UAVAWH
-`+!]?
-`.rdata
-`;s\|
-`A\_^
-`A]_[
-`A^A\]
-`A^A]A\_^
-`A^^]
-`A_A\]
-`A_A]_^]
-`A_A^A]A\_^]
-`A_A^]
-`A_A^^
-`A_A^_^[
-`A_A^_^]
-`D;s\
-`Hcu@M
-`LcA H
-`LcQ H
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -5791,7 +3623,6 @@ _test_conversion_counter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -5817,12 +3648,13 @@ _test_conversion_counter
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
+a6>r
 abcdefghijklmnopqrstuvwxyz
 actBusy
 actBusyList
 actbusy
 activeBookmarkSet
-adding layer %d to stack
+adding layer %d to stack\n
 addlayer: log %p lc[%d], layer %p
 addlayer: log %p lc[%d], layer NULL
 address family not supported
@@ -5851,6 +3683,7 @@ anchor_angles
 anchor_position
 angle
 angles_relative
+anim
 animSetList
 anim_duration
 anim_frameRate
@@ -5884,9 +3717,9 @@ attribute
 audioTarget
 auto_unragdoll_duration
 axies
+axis
 axisSystem
 b'?SetShadingMode@FbxNode@fbxsdk@@QEAAXW4EShadingMode@12@@Z
-b?^Cy
 bUpdate
 background
 backgroundColor
@@ -5914,6 +3747,7 @@ binary
 binary_array
 binary_seqids
 binary_v
+bind
 bindState
 blendColor
 blendMaxPathOpacity
@@ -5928,7 +3762,9 @@ blendweights$0
 blendweights$0Indices
 blockLOS
 bloomScale
+blue
 body_type
+bone
 bone_decode_cache_enabled
 bone_name
 bone_names
@@ -5940,6 +3776,7 @@ bookmarksW
 bookmarksX
 bookmarksY
 bookmarksZ
+bool
 bool log
 bool_array
 boolean
@@ -5949,7 +3786,6 @@ box_maxs
 box_mins
 boxproject_maxs
 boxproject_mins
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
@@ -5959,14 +3795,12 @@ brightness
 broken pipe
 broken promise
 bspline
+bt3V
 buffer error
 burst_randomize
 burst_scale
 busy_anim
 busy_sequence
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ati_compress_loader.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\floatbitmap.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ispc_compressor_loader.cpp
@@ -5991,7 +3825,7 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\exportsystem\Retail\win64\exportsystem.pdb
 c?FA@s}
-cAMDD
+cNDS
 cable
 camera
 cantdie
@@ -6060,7 +3894,7 @@ components
 composite
 compressed
 compression
-compression error would be too large %f [%f %f]
+compression error would be too large %f [%f %f]\n
 computeMipmaps
 concommands
 connection aborted
@@ -6092,35 +3926,15 @@ curve_%s_to_curve_%s
 curveinfo
 curvetypes
 custom
-d$ A+
-d$ D9d$0|SH
-d$ E3
-d$ UAVAWH
-d$ fC
-d$(E3
-d$0Mc
-d$8E3
-d$8ff
-d$DE;
-d$HA;
-d$HE3
-d$P+A$t
-d$XE3
-d$XLc
-d$`E3
-d$`I;
-d$`fff
-d$hE2
-d$hE3
-d$heL
-d$p9N
-d$pE3
-d$pM+
-d$xE3
+d8L2
 d?000000`?
+dQy/
+dRL>
 damage
+data
 data error
 dataWindow
+date
 dddd, MMMM dd, yyyy
 debris
 decalDepth
@@ -6175,27 +3989,17 @@ drawGameRenderablesMask
 drawToolRenderablesMask
 duration
 durationTime
+dxt5
 dynamic_interaction
-e A_A^A]A\]
-e A_A^A]A\_^]
-e(A_A^A]A\_^[]
 e+000
-e0A_A^A]A\]
-e0A_A^A]A\_^]
-e@A_A^]
-eHA_A^A]A\_^[]
+eF>t
 eLK(w
-ePA_A^A]A\_^]
-ePA_A^]
-eXA_A^A]A\_^[]
 easein
 easeinout
 easeout
-edD)e`
 editLog
 editorType
-effortblocks = %d
-ehA_A^A]A\_^[]
+effortblocks = %d\n
 element
 elementList
 element_array
@@ -6206,14 +4010,13 @@ emitFromWorld
 emitting
 enable_limit
 enabled
-encoding %s %d format %s %d
+encoding %s %d format %s %d\n
 endFrame
 endJoint
 endTime
 endUp
 endframe
 ent_dota_lightinfo
-entiA
 entity
 entity_properties
 entry_anim
@@ -6227,7 +4030,6 @@ event_class
 event_keys
 eventindex
 ewh/?y
-exA_A^A]A\_^[]
 executable format error
 exit_anim
 exit_sequence
@@ -6244,23 +4046,14 @@ exportType
 exportsystem
 exportsystem.dll
 exporttags
+expr
 extra interior spaces removed from keyword
 eyeOffset
 eyelid
-f9<Au
-f;k"s(D
-f;t$,u
-fD9,Cu
-fD9,Ku
-fD9,Pu
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fE9,Du
-fE9,tu
-fG9,wu
-fJBGo
+eyes
+fD>b
+fP~V
+fWi?
 faceMergeAngle
 faceSets
 faces
@@ -6272,10 +4065,7 @@ falloff_left
 falloff_right
 false
 fbx2dmx
-fetched: %s : %.3f
-fffff
-ffffff
-fffffff
+fetched: %s : %.3f\n
 fieldOfView
 file error
 file exists
@@ -6286,6 +4076,7 @@ filenameBase
 filterType
 filterclass
 flags
+flat
 flatten log %p lc[%d]
 flipVCoordinates
 float
@@ -6309,6 +4100,7 @@ friction
 fromAttribute
 fromElement
 fromIndex
+fu`z
 function not supported
 functionName
 future
@@ -6326,21 +4118,17 @@ game_keys
 gameitemclass
 gameunitclass
 generic
-gfffA
-gfffffffH
+glow
+gqr<
 graphCurve
 gravity
 green
 gridSize
 gridspacing
 groupColor
+h0'D
 h>1my
-hA\_^]
-hA^A\
-hA^_^[
-hA_A]_^
-hA_A^A\_^]
-hA_A^A]A\_^][
+hPU3
 hammer
 handindex
 hcrop
@@ -6348,26 +4136,22 @@ headtype
 health
 health_override
 height
+help
 hiddenFlags
 hiddenGroups
 hideType
 hideValue
 hintDxt5Compression
 hitbox
+hold
 hold_left
 hold_right
 host unreachable
 houdini
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-h{z7F
-iL$$>
-iL$(u.
-iW!]4/
+i91k
+i]Wb
 identifier removed
 ik_debug_perlin_solver
 ikdata
@@ -6381,7 +4165,6 @@ incompatible version
 incorrect png_set_filler call ignored
 index
 indices
-ineIA
 info_particle_system
 inity
 input
@@ -6419,12 +4202,8 @@ isVisible
 isWorldAligned
 is_debris
 ispc_texcomp.dll
-iu+-,
 j'?SetSkeletonType@FbxSkeleton@fbxsdk@@QEAAXW4EType@12@@Z
 j'Vlk
-j>>A?1
-j?V()
-j?{$*
 jitteriterations
 jitterscale
 jitterscale_vector
@@ -6435,20 +4214,8 @@ jointList
 jointTransforms
 jointWeights
 jointWeightsIndices
-k HcKX;
-k0i0$
-k0t$I
-k<9s@~;L
-k<9s@~>L
-k<9s@~?L
-k<9s@~@L
-k<9s@~DL
-k<9s@~EL
-k<9{@~:L
-k<9{@~EL
-k<9{@~FL
-k@_aH
-kN`8H
+k=yI
+k\f?AddChild@FbxNode@fbxsdk@@QEAA_NPEAV12@@Z
 keysInTime_0
 keysInTime_1
 keysInTime_2
@@ -6472,91 +4239,8 @@ keyword length must be 1 - 79 characters
 kochanek
 kochanek_early
 kochanek_late
-kxu/H
-l!;b	F
-l$ 9Q
-l$ A+
-l$ AVH
-l$ D8|$ tK
-l$ D9l$0|LH
-l$ E3
-l$ H+
-l$ Lc
-l$ V3
-l$ VAUAVH
-l$ VAUAWH
-l$ VAVAWH
-l$ VH
-l$ VWATAUAVAWE3
-l$ VWATAUAWH
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAVH
-l$ VWAWH
-l$ W3
-l$ WATAUAVAWH
-l$ WAVAWH
-l$ WH
-l$$9L$(
-l$$D;
-l$(D;
-l$(E3
-l$0A_A^A]A\
-l$0E3
-l$0H+
-l$0Hc
-l$0HcA
-l$0I;
-l$0ff
-l$0~8H
-l$4A+
-l$8;{
-l$8A2
-l$8H+
-l$8HcG
-l$8HcO
-l$8Hk
-l$@9k
-l$@@2
-l$@A3
-l$@A;
-l$@H;
-l$@Hc
-l$@I;
-l$@Ic
-l$H@2
-l$HA_A]A\_^
-l$HA_A^A]A\_^
-l$HE3
-l$HHc*H
-l$PA_A^A]A\_^
-l$PD30A
-l$PD;
-l$PE3
-l$PHcl$X
-l$PI+
-l$PLc
-l$PfA
-l$XA+
-l$XE3
-l$XHc
-l$`C9,
-l$`E3
-l$`E9j
-l$`E;j
-l$`Ic
-l$`L;mp
-l$`Mc?H
-l$`u$H
-l$hE3
-l$hL;
-l$hM;
-l$hff
-l$pE3
-l$pfff
-l$x@2
-l$xHc
 l6qnk
+lDa>
 labelled_debug_helper_arc_segments
 labelled_debug_helper_enabled
 labelled_debug_helper_scale
@@ -6565,7 +4249,9 @@ labelled_debug_helper_show_text
 labelled_debug_helper_skeleton_show_bone_names
 last_sniff
 layers
+lcQe
 leading spaces removed from keyword
+left
 leftEdgeActive
 leftEdgeCurveType
 leftEdgeValue
@@ -6599,14 +4285,18 @@ localaxis
 lock to bone
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 lower_hemisphere_is_black
 m%d%d
-m0k0$
-m8L9c
+m?H7
+mG4>
+mXr4
+m\f?AddCluster@FbxSkin@fbxsdk@@QEAA_NPEAVFbxCluster@2@@Z
+m\nXo
 m_AdditionalExtensions
 m_AssetTypes
 m_AutoTags
@@ -6640,6 +4330,7 @@ m_FilterFunc
 m_Filters
 m_ForceGenerators
 m_FriendlyName
+m_ID
 m_IKChains
 m_Icon
 m_IconLg
@@ -6820,6 +4511,8 @@ machine
 maintain position along path
 makefile
 manipulatorSettings
+map1
+map2
 mapNodeName
 mapUsageType
 mapname
@@ -6838,7 +4531,9 @@ maxVerticesPerHull
 max_angle
 max_time
 maxvalue
+maya
 memory
+mesh
 mesh_%d
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
@@ -6846,7 +4541,6 @@ mesh_calculate_curvature_smooth_weight
 meshes
 meshsystem
 message size
-mgfff
 midJoint
 midOffset
 midpoint
@@ -6854,8 +4548,9 @@ min_angle
 min_time
 minimized
 minvalue
-missing all pose parameters
-mj>zjZ
+mips
+missing all pose parameters\n
+mode
 model
 model_attachment
 model_bone
@@ -6890,6 +4585,7 @@ modeldoc6
 modeldoc7
 modeldoc8
 modeldoc9
+modo
 motionBlurSamples
 movieSettings
 movieobjects
@@ -6909,12 +4605,13 @@ multi_%s
 multilevel
 multilevelchannel
 multiplayer_break
-n D9e
+mute
 n03>Pu
 nLayoffState
-nN0fA
 nTries < 10000000
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -6923,7 +4620,6 @@ need dictionary
 network down
 network reset
 network unreachable
-nhfff
 no buffer space
 no child process
 no link
@@ -6965,18 +4661,16 @@ not a stream
 not connected
 not enough memory
 not supported
+note
 npcclass
-ntelE
 numchannels
 numsegments
-oD$ H
+o?GS
 oI>O7
-oO0fI
 oOffset
 obwQ4
 offset
 offsetTime
-oh9w\~lL
 operation canceled
 operation in progress
 operation not permitted
@@ -6996,35 +4690,19 @@ origin_max_delta
 origin_relative
 oscillate_scalar
 oscillate_vector
-ot$ H
 outputs
 overrideParent
 overridePos
 overrideRot
+owM&
 owner dead
 ownerlog
-oypfD
-o|$0f
-p AWH
-p UAVAWH
-p0n05
-p1f3q>
+p0C"
 p?BoneSetup
-pA]A\[
-pA]A\_[]
-pA][]
-pA^[]
-pA^_^
-pA^_^][
-pA_A\]
-pA_A\_
-pA_A]A\][
-pA_A^A]A\_^[
-pA_A^A]A\_^]
 pContext
-pD	s0
 pEvents
 pExecutionResource
+pHL 
 pScheduler
 pThreadProxy
 packmode
@@ -7034,7 +4712,7 @@ parentConstraint
 parent_bone
 particle
 particles/
-pass %u
+pass %u\n
 patch
 permission denied
 pfmscale
@@ -7080,6 +4758,7 @@ preset
 presetGroups
 presetRemap
 presets
+proc
 procedural
 processors
 promise already satisfied
@@ -7091,8 +4770,6 @@ proxies
 proxyType
 purecall
 pvTarget
-q(9YD~tE3
-q0@80u
 qS>g?h3
 qangle
 qangle log
@@ -7101,15 +4778,9 @@ quadraticAttenuation
 quaternion
 quaternion log
 quaternion_array
-r	Vr.>T
-r	uOD;d$(uH
-r 9_ t
-r'Hc.;n
-r(D;u
-r(D;v
-r:D8v
-rBu/H
 rLp>B
+r\fp0C"
+r\tVr.>T
 radius
 radius0
 radius1
@@ -7128,7 +4799,7 @@ relative
 relative_angles
 relative_origin
 remap_scalar
-removing layer %d from stack
+removing layer %d from stack\n
 renderMesh%d
 renderMeshShape%d
 renderOnlySelectedClips
@@ -7148,7 +4819,7 @@ result out of range
 result_left
 result_right
 rgb+a
-ri9V vdH
+rgba
 right
 rightEdgeActive
 rightEdgeCurveType
@@ -7160,6 +4831,7 @@ right_edge_curvetype
 right_edge_value
 rightedgetime
 rightvaluechannel
+root
 rootControlGroup
 rootDCCObjects
 rootGroup
@@ -7171,20 +4843,10 @@ rotation_speed_random
 rotation_spin
 rotation_spin yaw
 rotations
-s	A9;A
-s AVH
-s H9s
+ru&o
 s%?SetCount@FbxLayerElementArray@fbxsdk@@QEAAXH@Z
-s%D;k
-s0H9s
-s4+sP+
-s<9s@~XL
-s@H9s H
-s@H9s(H
-s@t%@
 sAmTb
-sFFoH
-sYHpH
+sHF'
 saturation
 scale
 scaleColor
@@ -7237,11 +4899,13 @@ showFocalPlane
 showViewTargets
 showwave
 shutterSpeed
+side
 sidelist
 simple_cubic
 simulating
 simulationTime
 simulationTimeScale
+size
 skeleton
 sketchup
 skycolor
@@ -7261,7 +4925,6 @@ sound
 soundname
 source_filename
 sources
-spH9sPH
 spawnFlags
 spawn_motion_disabled
 specular_direction_day
@@ -7279,9 +4942,6 @@ srcCropXEnd
 srcCropXStart
 srcCropYEnd
 srcCropYStart
-stCD;
-stED;
-st`D;
 staggerinterval
 standard
 start
@@ -7296,9 +4956,6 @@ static
 stereo
 stereoSingleFile
 stereoscopic
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -7319,217 +4976,6 @@ surface_prop
 switchState
 syncEngineFramerate
 synched
-t	H9s
-t	HcB
-t	L9c
-t D8c
-t E8H9u
-t H9X8tN
-t!+S$L
-t!HcO(L
-t!IcW(L
-t!McY
-t!fA;
-t"<.u
-t$ A+
-t$ A;
-t$ AV
-t$ AVH
-t$ AWH
-t$ D;
-t$ E2
-t$ E3
-t$ Hc
-t$ HcP8
-t$ Lc
-t$ Mc
-t$ UAVAWH
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ UWAWH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAV
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$ fI
-t$ t3A
-t$(;_
-t$(A^
-t$(D;
-t$(E3
-t$(H;l$@
-t$(Hc
-t$0+A$t
-t$09O
-t$0A;
-t$0A^_
-t$0D9t$@|LH
-t$0D;
-t$0E3
-t$0H;
-t$0Hc
-t$0Hc2
-t$0Hc7;w
-t$0Hcq@H
-t$0Hcs
-t$0Hcs@;sPu
-t$0HcsX;shu
-t$0Hi
-t$0Hk
-t$0L+
-t$0Lc
-t$0M;
-t$0fD;
-t$0ff
-t$8A+
-t$8E2
-t$8E3
-t$8H+
-t$8H;
-t$8Hc
-t$8Ic
-t$8Lc
-t$8Lc3D;s
-t$8Li
-t$@;_
-t$@E3
-t$@E;
-t$@Hc
-t$@Hk
-t$@Ic
-t$@Kc<<
-t$@Li
-t$@Lk
-t$@fff
-t$@tsLcK<L
-t$@ttLcK<L
-t$@twLcK<L
-t$@u(H
-t$@u_H
-t$H;^Xt
-t$HE3
-t$HHc
-t$HHc;H
-t$HI;
-t$HL;
-t$HLc
-t$HcS ;
-t$Hfff
-t$LD;
-t$P9O
-t$PE3
-t$PL+
-t$PLk
-t$PM;
-t$Pu1H
-t$Puw
-t$XA+
-t$XE3
-t$XHc
-t$Xff
-t$Xt*
-t$\D;
-t$`9w
-t$`;w
-t$`A+
-t$`D8
-t$`E3
-t$`H+
-t$`Hc
-t$`I;
-t$`Lc|$XI
-t$`Mcm
-t$`uDH
-t$fE;
-t$h9~
-t$hE3
-t$hfI
-t$lD9v
-t$pH+
-t$ptiHcK<L
-t$ptkLcK<L
-t$ptsLcK<L
-t$x9N
-t$x;_@u
-t%HcD(
-t&H;y
-t&fff
-t'B;| 
-t'HcD
-t'fff
-t(A8(t
-t(Hc*;j
-t(Hc+;k
-t(Hc3;s
-t(Hc;;{
-t(Hc>;~
-t(fD;
-t(fff
-t)D8l$@t
-t)Lc3D;s
-t*D8#t
-t*H9X8u$@8
-t+H;G
-t+HcE(H
-t,9O0~'I
-t-D8P
-t.8\$P
-t.@8:t)
-t.E8&t)H
-t/D83t*
-t/D8e
-t0+O$H
-t0@87t+
-t0D8;t+
-t0HcE
-t0HcT
-t0HcT(
-t1+O$H
-t1HcE
-t2HcE
-t4HcE
-t4McF
-t5;S<u
-t7HcF
-t89n0u0
-t8H9^ t2H
-t9H9=
-t9HcT(
-t:LcM
-t;A9;
-t=+O$H
-t=L9t$Ht
-t?fff
-tBD9E0~<I
-tBHc/
-tCHcP
-tCHc}
-tCfff
-tD+O$H
-tDD9V
-tDD9~Xt>H
-tEHcT(
-tFHcE
-tGH;~XtA
-tHE;Z
-tI@8{:t
-tK@8{:t
-tP@8|$!u4@8|$"t-
-tSK;D
-tWHcE
-tX<]tp<}tPH
-tXEtD
-tXLcQ
-tXTiD
-tXTzH
-t\HcE
-t\Hcu
-t]<-u
-t]fff
-ta9{(u\H9
 tag_list
 tag_list_dynamic
 tangent$0
@@ -7549,12 +4995,12 @@ target_name_or_class
 target_source
 targetname
 targets
-tbD9R
 test_angles_relative
 tex_source1
 texcoord$0
 texcoord$0Indices
 texcoord$1
+text
 text file busy
 text_block
 texture
@@ -7564,20 +5010,14 @@ textureCoordinatesIndices
 textureFrame
 textureType
 texturescale
-tgfff
 threshold
 tier0.dll
+time
 time log
 timeFrame
 time_array
 timed out
 times
-tkfff
-tl+K$3
-tlLcA
-tlMcH
-tmLc\$0
-tn@8(tWIcv@A;vPu
 toAttribute
 toElement
 toIndex
@@ -7589,9 +5029,6 @@ too many symbolic link levels
 toolimages:assettypes/generic_lg.png
 toolimages:assettypes/generic_sm.png
 toolutils2
-tqHct$ ;t$0u
-trD8(tmH
-trLcJ
 trackGroups
 tracks
 trail_length_random
@@ -7600,67 +5037,22 @@ transform
 transforms
 treeColor
 trilinear
-ttIcF
-tu+K$3
+true
 turn_rate
-tvHcE
-tvLcK
-twH;^XtH3
 twistJoints
-txHc;;{
-txHcu
-tzLcK<L
-tzfff
-u	9w$
-u	@8=}
-u	HcB
-u!!D$(H
-u%!D$@H
 u&?SetLink@FbxCluster@fbxsdk@@QEAAXPEBVFbxNode@2@@Z
-u(Hc3;s
-u)!t$(H
-u*D8uwt$E
-u*Hc_ ;_0u
-u-Hc}P;}`u
-u2A8D
-u2HcB
-u3HcH<H
-u98D$`u;H
-u9Hc3;s
-u:Hc3;s
-u;fD;
-u<fD;
-u=Hc3;s
-u=L;k
-u@Hc}
-uEHc3;s
-uJLct$XI
-uMHcE
-uS9{tuN
-uT<0uP
-uXD;u
-uY<0uU
-u[HcI
-u`HcL
-ueHcS
-uf!T$(H!T$ 
-uh@8|$!t,
-uhD9}\~wH
-uhIc4
-uhLcM0I
 uint64
 uint64 log
 uint64_array
 uint8
 uint8 log
 uint8_array
-umHcu
 uniform_burst
 unknown
 unknown error
 unknown exception
 unnamed
-unrecognized option in text file - %s
+unrecognized option in text file - %s\n
 upAxis
 upSpaceTarget
 upType
@@ -7670,17 +5062,12 @@ use_additional_offset
 usecurvetypes
 usedefaultvalue
 useedgeinfo
+user
 usesLaggedValues
-uuHcF
-uxHcOP
-uzHcu
 uzKs@>
-v A9~ w
 v&?SetLinkMode@FbxCluster@fbxsdk@@QEAAXW4ELinkMode@12@@Z
-v0t08
 v2!L.2
 vQO+t
-v`D;}\|
 value
 value too large
 valueDeltaRotation
@@ -7723,20 +5110,23 @@ videoTarget
 virtualvolumetexture
 visbility
 visible
-vmatH
+vmap
+vmat
 vmatrix
 vmatrix log
-vmdlH
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
 vmesh
+vmks
 vmtFallback
 vmtProxy
 volume
 volumeTextureDepth
 volumefogenabled
 volumetexture
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -7769,18 +5159,17 @@ vr_carry_type
 vsDmxIO SketchUpScene
 vsDmxIO houdiniSceneIO
 vsUtils.py
+vsky
 vsnap
-vsndH
 vstdlib.dll
 vsutils_py
+vtex
+vvtx
 vwnod
 vwrld
-v}`[>
-w fA;
 w+OQvr
-w:fA;
-w?fD;
-wAfD;
+w3Xc
+wXR\r
 weight
 weight$0
 weights
@@ -7798,254 +5187,21 @@ wrinkle$0Indices
 wrinkleIndices
 wrinkleScales
 wrong protocol type
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcM
-x	HcQ
-x A;@X}
-x ATAVA
-x ATAVAWH
-x AV3
-x AVE2
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x!HcI
-x!HcK
-x$H9-
-x';QH}"I
-x.HcAhL;
-x0D;B0}*H
-x0v0$
-x9H;H
-x9HcGhH;
-x9HcS
-xA]A\_^
-xA^A][]
-xA^A]_[
-xA_A]
-xA_A]][
-xA_A^A\_^]
-xA_A^A]A\_^][
-xEH;^
-xMHcM
-xMHcQ
-xRHcQ
-xSH;H
-xZH;A
-xZH;Q
-x_^][
-xc;QH}^Hc
+xT?V
 xcoord
 xpxxxx
-xuJE3
-y0Hci8x@
-yBNu'
-y\PD>!
+y9*O
 yaw_end
 yaw_start
 ycoord
-z/u-A
-z/u-E
-z0x0:
-zY;>u:m	
+zero
 zero length keyword
+zfar
 zlib error
 zlib failed to initialize compressor (
 zlib failed to reset compressor: @1(@2): @3
 znear
 zstream already in use (internal error)
 zstream not in use (internal error)
-{ ATAVAWH
-{ AVH
-{(H9n
 {YIN?
-{h9k\
-{h9s\~RL
-{hw>H
-|	;Eo
-|#tAM
-|$ A+
-|$ A;
-|$ ATAUAVAW
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AVAW
-|$ AVAWD
-|$ AVAWH
-|$ AVD
-|$ AVE3
-|$ AVH
-|$ AVM
-|$ AWH
-|$ D!
-|$ E3
-|$ Hc
-|$ Lc
-|$ Lk
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ |AH
-|$(A;
-|$(A^
-|$(E3
-|$(I;
-|$(t%
-|$09{P~FH
-|$0@"
-|$0A+
-|$0A9N
-|$0A^A\
-|$0A_A^
-|$0E3
-|$0H+
-|$0H;
-|$0Hc
-|$0Hc;;{
-|$0Hc{
-|$0Hc{0;{@u
-|$0Hi
-|$0Hk
-|$0I;
-|$0Ic
-|$0L;
-|$0M;
-|$0fD
-|$0ff
-|$0fff
-|$0s-
-|$4A;
-|$4E;
-|$4L;
-|$8).H
-|$89^
-|$8;3
-|$8A9L$
-|$8B8
-|$8E3
-|$8Hc
-|$8Hc;;{
-|$8Ic
-|$8Lc
-|$8f;
-|$8ff
-|$8fff
-|$@-D
-|$@-H
-|$@@"
-|$@A_A^A]A\
-|$@E3
-|$@H;
-|$@Hc
-|$@Hcyp;
-|$@Mc,$E;l$
-|$@t	3
-|$DA;
-|$HA#
-|$HA+
-|$HE3
-|$HHc
-|$HHcK
-|$HHi
-|$HI;
-|$HIc
-|$HL+
-|$Ht#
-|$P@8
-|$PA;^ u
-|$PE3
-|$PHc
-|$PLk
-|$Pfff
-|$Pu%H
-|$XA+
-|$XD;d$h~	D
-|$XE+
-|$XE3
-|$XHc
-|$XHcU
-|$\.u
-|$`30
-|$`@2
-|$`A+
-|$`E3
-|$`Hc
-|$`Ic
-|$`Lc
-|$`ff
-|$h9i
-|$hA+
-|$hE3
-|$hHcE
-|$hff
-|$p9:~JL
-|$pE3
-|$pHc
-|_A;^
-|aA;^
-|auK;
-|b=})>
-} Hcu`H
-} fE;A
-} fE;H
-}%;Q|
-}&f;{
-}(D8o
-}(H9}
-}*fff
-}0;_|
-}:fA;
-}?fA;
-}IfA;
-}JfA;
-}LfA;
-}OL;e
-}OfA;
-}QfA;
-}WA9L$
-}_t!H
-}iD;K$
-}pH9u
-~ $s%r
-~ fff
-~!A;~
-~"fff
-~'Hc>;~
-~'dn&
-~(HcNDI
-~*9q0
-~*9qP
-~,IcZ
-~-LcP
-~3fff
-~:fD9,
-~?Hc_
-~BLcK0E3
-~FHc+;k
-~IHc+;k
-~P~%3
-~QLc]
-~RD;n
-~TE;o
-~VIc>A;~
-~WE;f
-~XHcD$pL
-~]Lc]
-~^fff
-~_A;F
-~`8A!t
-~`LcM
-~aLcM
-~bLcM
-~cLcM
-~cfff
-~eLcM
-~fLcM
-~jLcM
-~nfff
-~tfff
+{kHw

@@ -1,89 +1,65 @@
-	JR>8o
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    %2d: %5g %5g
+    %2d: %5g %5g\n
     %2lu: %5u
-    %3lu: [%8lu, %8lu]
-    </security>
-    <security>
-   %5lu: %5u %5u %5u
-  %lu %s:
-  %s: 
-  %s: "
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
-  Bad Fax Lines: %lu
-  Bits/Sample: %u
+    %3lu: [%8lu, %8lu]\n
+   %5lu: %5u %5u %5u\n
+  Bad Fax Lines: %lu\n
+  Bits/Sample: %u\n
   Color Map: 
   Compression Scheme: 
-  Consecutive Bad Fax Lines: %lu
-  Dot Range: %u-%u
+  Consecutive Bad Fax Lines: %lu\n
+  Dot Range: %u-%u\n
   Extra Samples: %u<
-  Fax DCS: %s
+  Fax DCS: %s\n
   Fax Data:
-  Fax Receive Parameters: %08lx
-  Fax Receive Time: %lu secs
-  Fax SubAddress: %s
+  Fax Receive Parameters: %08lx\n
+  Fax Receive Time: %lu secs\n
+  Fax SubAddress: %s\n
   FillOrder: 
   Group 3 Options:
   Group 4 Options:
-  Halftone Hints: light %u dark %u
-  ICC Profile: <present>, %lu bytes
+  Halftone Hints: light %u dark %u\n
+  ICC Profile: <present>, %lu bytes\n
   Image Width: %lu Image Length: %lu
   Ink Names: 
   Ink Set: 
-  Max Sample Value: %u
-  Min Sample Value: %u
+  Max Sample Value: %u\n
+  Min Sample Value: %u\n
   Orientation: 
-  Page Number: %u-%u
+  Page Number: %u-%u\n
   Photometric Interpretation: 
-  Photoshop Data: <present>, %lu bytes
+  Photoshop Data: <present>, %lu bytes\n
   Planar Configuration: 
-  Position: %g, %g
+  Position: %g, %g\n
   Predictor: 
-  Reference Black/White:
+  Reference Black/White:\n
   Resolution: %g, %g
-  RichTIFFIPTC Data: <present>, %lu bytes
+  RichTIFFIPTC Data: <present>, %lu bytes\n
   Rows/Strip: 
-  SMax Sample Value: %g
-  SMin Sample Value: %g
+  SMax Sample Value: %g\n
+  SMin Sample Value: %g\n
   Sample Format: 
-  Sample to Nits conversion factor: %.4e
-  Samples/Pixel: %u
+  Sample to Nits conversion factor: %.4e\n
+  Samples/Pixel: %u\n
   SubIFD Offsets:
   Subfile Type:
   Thresholding: 
   Tile Width: %lu Tile Length: %lu
   Transfer Function: 
-  White Point: %g-%g
-  XMLPacket (XMP Metadata):
+  White Point: %g-%g\n
+  XMLPacket (XMP Metadata):\n
   YCbCr Positioning: 
-  YCbCr Subsampling: %u, %u
+  YCbCr Subsampling: %u, %u\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  %5lu
- (%lu = 0x%lx)
- (%u = 0x%x)
+ (%lu = 0x%lx)\n
+ (%u = 0x%x)\n
  (unit %u = 0x%x)
  (unitless)
- A\_^
- A]A\_
- A]A\_^]
- A]_^
- A^A]A\
- A^A]A\_^
- A_A]A\
- A_A]A\^]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A__^][
  Base Class Array'
  Base Class Descriptor at (
- C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Image Depth: %lu
@@ -91,38 +67,21 @@
  Tile Depth: %lu
  Type Descriptor'
  clean
- data
  delete
  delete[]
- new[]
+ new
  pixels/cm
  pixels/inch
  receiver regenerated
- t?D9
  throw(
  uncorrected errors
  volatile
-!	@cb
-!!!!!!
-!!!!!!!!
-!!!!!!!!!!!!!!!!!!
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
-!|$DHc
-!|$XI
 "%s": Bad mode
 "%s": Information lost writing value (%g) as (unsigned) RATIONAL
 "Predictor" value %d not supported
-"e?<<<<<<l?
 #?qt_metacast@QImageIOPlugin@@UEAAPEAXPEBD@Z
-$Ib?s
 %.100s: Can not read TIFF directory
 %?rotate@QMatrix@@QEAAAEAV1@N@Z
-%A9l$
-%GoU?*
 %S: Cannot open
 %d bit input not supported in PixarLog
 %d: Sample out of range, max %d
@@ -211,105 +170,19 @@ $Ib?s
 %sunassoc-alpha
 %suncompressed data
 %sunspecified
-%u (0x%x)
-&?PPPPPPP?
 ( 8PX
 ('8PW
 (?setColorTable@QImage@@QEAAXV?$QVector@I@@@Z
 (?setDevice@QImageIOHandler@@QEAAXPEAVQIODevice@@@Z
 (?setDotsPerMeterX@QImage@@QEAAXH@Z
 (?setDotsPerMeterY@QImage@@QEAAXH@Z
-(A\_^[
-(A_A]][
-(D$ H
-(D$0D
-(D$@H
-(L$ D
-(L$ H
-(L$ sB
-(L$0D
-(L$PD
-(L$PH
-(L$`D
-(L$pD
-(T$ D
-(T$ H
-(T$@D
-(T$@H
-(T$PD
-(T$`D
-(T$pD
-(T?j?Y
-(\$0D
-(\$@L
-(\$PL
-(\$`D
-(d$ D
-(d$0D
-(d$@D
-(d$PD
-(infinite)
-(l$ D
-(l$ H
-(l$0D
-(l$0H
-(l$0f
-(l$@L
-(l$@f
-(l$PH
-(l$`f
-(l$pH
+(infinite)\n
 (null)
-(present)
-(t$ H
-(t$ L
-(t$0D
-(t$0H
-(t$0L
-(t$@D
-(t$@H
-(t$PH
-(t$PL
-(t$`H
-(t$`I
-(|$ 3
-(|$ D
-(|$ H
-(|$0D
-(|$@D
-(|$@L
-(|$@fD
-)/o>	
+(present)\n
 )?setFormat@QImageIOHandler@@QEAAXAEBVQByteArray@@@Z
 )?setFormat@QImageIOHandler@@QEBAXAEBVQByteArray@@@Z
-)D$0D
-)D$0f
-)D$`D
-)L$PE
-)T$ H
-)T$@D
-)T$PH#
-)\$PD
-)\$`fE
-)l$0D
-)t$0I
-)t$0f
-)t$@E
-)t$Pf
-)t$`A
-)|$ I
-)|$ f
-)|$0D
-)|$@L
-)|B?d!
-, u&H9
 ,<ellipsis>
-,HR>O
-,L9d$xu
 -64OS
--BH>t
-..om?
-.>PJ;I:qE>
 .?AUQFactoryInterface@@
 .?AUQImageIOHandlerFactoryInterface@@
 .?AVQImageIOHandler@@
@@ -323,113 +196,32 @@ $Ib?s
 .?AVbad_typeid@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.i?0@I
-.pdata
-.text
-/2GG>!B
 /?size@QImage@@QEBA?AVQSize@@XZ
-/L9\$ t
 0 (0x0)
-0><[cZUg^>
-0A\_^
-0A]A\_
-0A]^[
-0A^A\^][
-0A^A]A\
-0A^_]
-0A_A]A\
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0X8b?~
 0x%ulx
+0x%x
 1#IND
 1#INF
 1#QNAN
 1#SNAN
 1.2.5
-3wuIc
-4$Lct$hI
+11UT
+2\n0 8
+2\vp 8
 6?transformed@QImage@@QEBA?AV1@AEBVQMatrix@@W4TransformationMode@Qt@@@Z
 7 (0x7)
 700PP
 700WP
-7;|$0t,
-8$u$L9U
-8$u$L9]
-8$u,D
-8$u.D
-80tVD
-80|'A
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A]_^[
-8D$8t
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8_^][
-8_uNH
-8ke?;
-9	t	H
-9	tmH
-91~O3
-9?uPH
-9D$Du
-9D$Ttg
-9D$XufE
-9\$ ~>H
-9\$Pvd
+7yp>
+8&Kx
 9g>@3
-9l$`t
-9t$HI
-9t$Pv1f
-9t$P~98\$vt3H
-9t$\t
-9t$|t
-:>)*	v
-:>t6k'
-;.uAL
-;7sUH
-;?tJA
-;\$ |
-;\$Pr
-;\$p|
-;t$Pr
-<	v`<
-< tG<	tC
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
-<0|/<9
-<1~1<3~$<4t9<5t
-<>#n2
-<?u7H
-<A|2<P
-<Et	H
-<Xt	D
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-<atc<r
 <ellipsis>
-<tH=B
 <unknown>
 <unsupported data type in TIFFPrint>
-<z~$<A|
+=\r?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
 >8UUUUU
 >Tag 
-?%s: %s
 ?%s: No space for SGILog translation buffer
-?7zQ6$
-?8bunz8
-?:kP<
 ??0QByteArray@@QEAA@PEBD@Z
 ??0QImage@@QEAA@HHW4Format@0@@Z
 ??0QImageIOHandler@@QEAA@XZ
@@ -446,14 +238,8 @@ $Ib?s
 ??1QString@@QEAA@XZ
 ??4QImage@@QEAAAEAV0@$$QEAV0@@Z
 ??4QImage@@QEAAAEAV0@AEBV0@@Z
-?@En[vP
-?CuND8g
-?QY^&
-?R0I?
-?UUUUUU
 ?allocate@QVectorData@@SAPEAU1@HH@Z
 ?append@QListData@@QEAAPEAPEAXXZ
-?bits@QImage@@QEAAPEAEXZ
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?colorTable@QImage@@QEBA?AV?$QVector@I@@XZ
@@ -471,7 +257,6 @@ $Ib?s
 ?dotsPerMeterY@QImage@@QEBAHXZ
 ?event@QObject@@UEAA_NPEAVQEvent@@@Z
 ?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z
-?f`Y4
 ?format@QImage@@QEBA?AW4Format@1@XZ
 ?free@QString@@CAXPEAUData@1@@Z
 ?free@QVectorData@@SAXPEAU1@H@Z
@@ -480,9 +265,6 @@ $Ib?s
 ?height@QImage@@QEBAHXZ
 ?imageCount@QImageIOHandler@@UEBAHXZ
 ?isNull@QImage@@QEBA_NXZ
-?isOpen@QIODevice@@QEBA_NXZ
-?isReadable@QIODevice@@QEBA_NXZ
-?isWritable@QIODevice@@QEBA_NXZ
 ?jumpToImage@QImageIOHandler@@UEAA_NH@Z
 ?jumpToNextImage@QImageIOHandler@@UEAA_NXZ
 ?logicalDpiX@QPaintDevice@@QEBAHXZ
@@ -491,115 +273,19 @@ $Ib?s
 ?metaObject@QImageIOPlugin@@UEBAPEBUQMetaObject@@XZ
 ?mirrored@QImage@@QEBA?AV1@_N0@Z
 ?nextImageDelay@QImageIOHandler@@UEBAHXZ
-?peek@QIODevice@@QEAA?AVQByteArray@@_J@Z
-?qFree@@YAXPEAX@Z
-?qMalloc@@YAPEAX_K@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
-?qWarning@@YAXPEBDZZ
-?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
-?read@QIODevice@@QEAA_JPEAD_J@Z
 ?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
 ?removeGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
 ?shared_null@QListData@@2UData@1@A
-?t_v>
 ?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
 ?toInt@QVariant@@QEBAHPEA_N@Z
 ?type@QVariant@@QEBA?AW4Type@1@XZ
 ?write@QIODevice@@QEAA_JPEBD_J@Z
-?{Q}<
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@8|$x
-@8|$xt
-@A\_^
-@A]A\]
-@A]A\_
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A_A][
-@A_A^A]A\_
-@A_A^A]A\_^]
 @Compression algorithm does not support random access
 @No space for "TransferFunction" tag
-@SAUAWH
-@SAUH
-@SAUIc
-@SAVH
-@SUVATAVH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATAUH
-@SUVWATH
-@SUVWAWH
-@SUVWH
-@SUWH
-@SVAUH
-@SVWATAUAVAWH
-@SVWATH
-@SVWAUH
-@SVWH
-@SWAVD
-@UATAUAVAWH
-@UATAVH
-@USVATAUH
-@USVWATAUAVAWH
-@USVWATAUH
-@USVWH
-@USWAVH
-@UVWATAUAVAWH
-@UVWATAUH
-@VATH
-@VAWH
-@WATAUH
-@WATH
-@text
-A fA9
-A03>A|
-A9	u<A
-A9	uxA
-A;1~	I
-A>l$/
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-AHHci
-AK>(v
-ATAUAVH
-ATAUAWH
-ATAVH
-A\_^][
-A]A\]
-A]A\^[]
-A]A\_
-A]A\_][
-A]A\_^[]
-A]A\_^]
-A]A\_^][
-A]^][
-A]_^][
-A^A\]
-A^A\^
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A]A\_^[
-A_A]A\_^][
-A_A][
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 A`1w>
 ActiveArea
 AdobeDeflate
-AjfD;
 AnalogBalance
 AntiAliasStrength
 ApertureValue
@@ -611,7 +297,6 @@ AsShotPreProfileMatrix
 AsShotWhiteXY
 Assuming 8-bit colormap
 August
-B(I9A(u
 BadFaxLines
 BaselineExposure
 BaselineNoise
@@ -626,10 +311,6 @@ BlackLevelDeltaH
 BlackLevelDeltaV
 BlackLevelRepeatDim
 BrightnessValue
-C,;C(~6H
-C0@u3H
-C0HcH
-C5R?	
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\plugins\imageformats\qtiff4.pdb
 CCITT Group 3
 CCITT Group 4
@@ -639,10 +320,9 @@ CFALayout
 CFAPattern
 CFAPlaneColor
 CIE L*a*b*
-CIE Log2(L)
-CIE Log2(L) (u',v')
-CL:>8
-CWD>~3
+CIE Log2(L) (u',v')\n
+CIE Log2(L)\n
+CMYK\n
 CalibrationIlluminant1
 CalibrationIlluminant2
 CameraCalibration1
@@ -684,8 +364,6 @@ Compression scheme does not support access to raw uncompressed data
 ConsecutiveBadFaxLines
 Contrast
 Copyright
-Copyright (c) 1988-1996 Sam Leffler
-Copyright (c) 1991-1996 Silicon Graphics, Inc.
 CorExitProcess
 CreateFileA
 CreateFileMappingW
@@ -694,57 +372,6 @@ CurrentICCProfile
 CurrentPreProfileMatrix
 CustomRendered
 Cy2@K>
-D W?{W
-D$ H;
-D$&8\$&t-8X
-D$(E3
-D$(H;
-D$(fA
-D$0t!
-D$8;C
-D$8E3
-D$8HcH
-D$8fA
-D$8ff
-D$@D;
-D$@H;
-D$DE3
-D$HA;
-D$HD9T$\
-D$HE3
-D$Hfffff
-D$Ht]I
-D$LE3
-D$P0A
-D$PH#
-D$PL9oXt
-D$TD;
-D$XE3
-D$`D;
-D$`E3
-D$p H
-D$pA+
-D$pH;
-D$xfD
-D+=$W
-D+=pQ
-D+d$TD+
-D8"u%H
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8d$x
-D8t$ t
-D9	tI
-D9 tW
-D9T$l
-D9T$p
-D9d$ 
-D;+t1
 DNGBackwardVersion
 DNGPrivateData
 DNGVersion
@@ -765,14 +392,6 @@ Directory %d does not exist
 DocumentName
 DotRange
 DumpModeDecode: Not enough data for scanline %d
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-E>nEA
-E@t	H
 EXIFIFDOffset
 EncodePointer
 EnterCriticalSection
@@ -798,8 +417,6 @@ ExposureProgram
 ExposureTime
 ExtraSamples
 F&?scanLine@QImage@@QEAAPEAEH@Z
-F0HcH
-F>qUxv
 FALSE
 FNumber
 Failed to allocate field info array
@@ -840,8 +457,6 @@ FreeEnvironmentStringsW
 FreeLibrary
 FreeOffsets
 Friday
-G0 tyH
-G0Hc	H
 GPSIFDOffset
 GainControl
 GetACP
@@ -885,36 +500,9 @@ GrayResponseCurve
 GrayResponseUnit
 Group3Options
 Group4Options
-H ATH
-H SVWATH
-H SVWH
-H SWH
-H!\$ H
-H!|$ L
-H(H9J(u
-H+M0x
-H9L$Xt'H
-H9l$Pt
-H;t$8v5H
 HH:mm:ss
-H[><y5
+HMXB
 HalftoneHints
-HcC H
-HcD$8H
-HcD$HH;
-HcD$xLc\$pH
-HcEwL
-HcH<H
-HcM H
-HcO H
-HcT$8McJ
-HcUpD
-HcUwD
-Hc\$@H
-Hc\$`E
-Hcl$@H
-Hcl$HH
-Hct$@H
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -924,15 +512,11 @@ HeapSetInformation
 HeapSize
 Horizontal differencing "Predictor" not supported with %d-bit samples
 HostComputer
-I94$tt
 I;u>A
 ICC Profile
-IEEE floating point
+IEEE floating point\n
 ISO JBIG
 ISOSpeedRatings
-IcqHH
-IcqHI
-Il?333333c?
 ImageDepth
 ImageDescription
 ImageFullLength
@@ -953,59 +537,11 @@ Invalid YCbCr subsampling
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
-J `>,
+JPEG
 January
-K0HcQ
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ E3
-L$ H3
-L$ Mc
-L$ SUVWH
-L$ SVWH
-L$ SWH
-L$ USWH
-L$ UVATAUAWH
-L$ UVWH
-L$0<`t
-L$0E3
-L$0H3
-L$0H;
-L$0u8
-L$8A+
-L$8H3
-L$@;|
-L$@E+
-L$@E3
-L$@H3
-L$@vd
-L$DA+
-L$DD+
-L$HA;
-L$HH3
-L$HHc
-L$PH3
-L$PLc
-L$PLcA
-L$PfH
-L$PfI
-L$XLcA
-L$XLcI
-L$`H3
-L$`Lc
-L$`uT
-L$dLc
-L$hD+
-L$pE3
-L$pH3
-L9d$`t
-L;T$Xt
-L;T$Xt#D;
-L;|$H
-L;|$Ht
-L;|$Ht)D;
-L?UUUUUUU?
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -1013,7 +549,7 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LIBTIFF, Version 3.9.2
+LIBTIFF, Version 3.9.2\nCopyright (c) 1988-1996 Sam Leffler\nCopyright (c) 1991-1996 Silicon Graphics, Inc.
 LZWDecode: Bogus encoding, loop in the code table; scanline %d
 LZWDecode: Corrupted LZW table at scanline %d
 LZWDecode: Not enough data at scanline %d (short %ld bytes)
@@ -1024,15 +560,6 @@ LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
 LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
 LZWPreDecode
 LZWSetupEncode
-LcA<E3
-LcD$@H
-LcMwD
-Lc\$8HcJ
-Lc\$XHcD$`L
-Lcd$XL
-Lcd$hL
-Lcl$XL
-Lcl$hL
 LeaveCriticalSection
 LensInfo
 LightSource
@@ -1047,10 +574,8 @@ LogLuvDecode24: Not enough data at row %d (short %d pixels)
 LogLuvDecode32: Not enough data at row %d (short %d pixels)
 LogLuvInitState
 M'y>0y
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
+Make
 MakerNote
 MakerNoteSafety
 MapViewOfFile
@@ -1061,7 +586,6 @@ MatrixWorldToScreen
 Matteing
 MaxApertureValue
 MaxSampleValue
-Mc,$E
 Merging CCITT Fax 3 codec-specific tags failed
 Merging CCITT Fax 4 codec-specific tags failed
 Merging Deflate codec-specific tags failed
@@ -1079,8 +603,9 @@ MissingRequired
 Model
 Monday
 MultiByteToWideChar
-N3`d?
-N>O=I9
+NKeb
+NULL
+NeXT
 NeXTDecode: Not enough data for scanline %ld
 No "get" routine setup
 No "put" routine setupl; probably can not handle image format
@@ -1104,6 +629,7 @@ No space to write per-sample shorts
 No space to write per-sample values
 No support for converting user data format to LogL
 No support for converting user data format to LogLuv
+None
 Nonstandard tile length %d, convert file
 Nonstandard tile width %d, convert file
 Norwegian-Nynorsk
@@ -1112,8 +638,6 @@ Not a TIFF or MDI file, bad magic number %d (0x%x)
 Not enough
 November
 NumberOfInks
-O0HcQ
-OF>;^
 October
 Old-style JPEG
 Old-style LZW codes, convert file
@@ -1125,10 +649,6 @@ OriginalRawFileData
 OriginalRawFileName
 Out of memory allocating %d byte temp buffer.
 Out of memory for colormap copy
-P>q_Y~
-PA\_^][
-PA]A\_^]
-PA^A]A\_^][
 PackBits
 PackBitsDecode: Not enough data for scanline %ld
 PackBitsDecode: discarding %ld bytes to avoid buffer overrun
@@ -1158,15 +678,14 @@ PredictorEncodeTile
 PredictorSetup
 Premature EOL
 PrimaryChromaticities
-P|> ,o
-Q5rHg,>
-Q>.3Z<
 QTiffHandler::canRead() called with no device
 QtCore4.dll
 QtGui4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
 RGB color
+RSDS
+R\vp 8
 RaiseException
 RawDataUniqueID
 ReadFile
@@ -1185,8 +704,7 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S>$hkDh$h>[2
-SAUAWH
+S;uD
 SGILog
 SGILog compression cannot handle non-contiguous data
 SGILog compression supported only for %s, or raw data
@@ -1195,14 +713,6 @@ SGILogDataFmt
 SGILogEncode
 SMaxSampleValue
 SMinSampleValue
-SUAUAWH
-SUVAUH
-SUVWATAUAWH
-SUVWAUH
-SUWATAUH
-SVWATAUAVAWH
-SVWATAUAWH
-S`ffff
 SampleFormat
 Samples/pixel
 SamplesPerPixel
@@ -1254,26 +764,7 @@ SubjectDistanceRange
 SubjectLocation
 Sunday
 SystemFunction036
-T$,fD;
-T$0E3
-T$0H#
-T$@A;
-T$@E3
-T$@fE
-T$HA;
-T$HL;T$X
-T$PA;
-T$PE3
-T$XA;
-T$\E3
-T$`H9
-T$`f;
-T$dD;
-T$eLc
-T$iLc
-T$pH3
-T$tE3
-TIFF Directory at offset 0x%lx (%lu)
+TIFF Directory at offset 0x%lx (%lu)\n
 TIFFAdvanceDirectory
 TIFFAppendToStrip
 TIFFClientOpen
@@ -1316,14 +807,14 @@ TIFFWriteEncodedTile
 TIFFWriteRawStrip
 TIFFWriteRawTile
 TIFFWriteScanline
-TUUUU
+TRUE
 Tag %d
 Tag Value
 TargetPrinter
 TerminateProcess
 TextureFormat
 TextureWrapModes
-This is a BigTIFF file.  This format not supported
+This is a BigTIFF file.  This format not supported\nby this version of libtiff.
 Threshholding
 ThunderDecode: %s data at scanline %ld (%lu != %lu)
 ThunderScan
@@ -1337,20 +828,8 @@ Tiles
 Too much
 TransferFunction
 Tuesday
-UA>N0Wl
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUH
-UUUUUU
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
-UWAUH
-U`LcMxL
-Uhffff
+UUUU
 UnhandledExceptionFilter
 UniqueCameraModel
 Unknown
@@ -1359,18 +838,6 @@ Unknown encoding %d for LogLuv compression
 Unknown exception
 UnmapViewOfFile
 UserComment
-VATAUAVAWH
-VD$pf
-VT$pD
-VUUUH
-VWATAUAVH
-VWATH
-VWAUH
-VWAVH
-WATAUAVAWH
-WATAUH
-WATAVH
-WaNd?
 Wak>E
 Warning, 
 Wednesday
@@ -1381,23 +848,16 @@ WideCharToMultiByte
 Write error at scanline %lu
 WriteConsoleW
 WriteFile
-XA\_^[
-XA^A\
 XClipPathUnits
 XMLPacket
 XPosition
 XResolution
 XYZ, Luv
-Xt)fA
-XuxfA
-Y>kX>M
 YCbCr
 YCbCrCoefficients
 YCbCrPositioning
 YCbCrSubsampling
 YClipPathUnits
-YD$0H
-YD$`f
 YPosition
 YResolution
 ZIPDecode
@@ -1406,41 +866,17 @@ ZIPPostEncode
 ZIPSetupDecode
 ZIPSetupEncode
 ZIPVSetField
-ZL;|$Ht
-Z\>z8
-Zod(^?
-[*ncd>0
+ZSq>
 [thunk]:
-\$ A+
-\$ Hc\$PH
-\$ UVWATAUAVAWH
-\$ UWAVH
-\$ VATAVH
-\$ WH
-\$0A;
-\$0H;
-\$0HcJ
-\$0Hc\$`H
-\$0Mc
-\$0t,H
-\$8L3
-\$8fA
-\$@A;
-\$@D;
-\$@fA
-\$DA;
-\$DfA9	u
-\$Pt*
-\$TE3
-\$`t7
-\$gm?
-\$hE;
-\$pfD;
 \%03o
-])6M>&
-]>)2X
-^RfN>
-_H9\$xu
+\f?qFree@@YAXPEAX@Z
+\n?isReadable@QIODevice@@QEBA_NXZ
+\n?isWritable@QIODevice@@QEBA_NXZ
+\n\r?qMalloc@@YAPEAX_K@Z
+\r?qWarning@@YAXPEBDZZ
+\r?read@QIODevice@@QEAA_JPEAD_J@Z
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\tJR>8o
 _TIFFMergeFieldInfo
 _TIFFSetupFieldInfo
 _TIFFVGetField
@@ -1461,21 +897,10 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
-_oD>Kg
-` AUH
-` AVH
-`+!]?
-`.rdata
-`>n>w%
-`A\_]
-`A]A\_^]
-`A^_^
-`A_A^A]A\_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -1488,7 +913,6 @@ _oD>Kg
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -1524,27 +948,28 @@ _oD>Kg
 `vtordispex{
 `vtordisp{
 abcdefghijklmnopqrstuvwxyz
+acos
 america
 american
 american english
 american-english
 aoB>"
-at5<rt!<wt-L
+asin
+atan
 atan2
 australian
-b?^Cy
+b\rr\nn\vv
 bad exception
 belgian
-bilevel art scan
+bilevel art scan\n
+bool
 britain
-buildkey=Windows x64 msvc release full-config
-by this version of libtiff.
-c AUH
-c0&>`
-c?FA@s}
+c>F2
 canadian
 cannot read TIFF_ANY type %d for field "%s"
-centered
+ceil
+centered\n
+char
 char 
 china
 chinese
@@ -1557,37 +982,22 @@ cli::array<
 cli::pin_ptr<
 coclass 
 cointerface 
-complex IEEE floating point
-complex signed integer
+complex IEEE floating point\n
+complex signed integer\n
 const
 const 
-cosited
+cosh
+cosited\n
 czech
-d$ Lcd$HM
-d$ UH
-d$(Hc
-d$0A][
-d$0Lcd$XL
-d$8H+
-d$8Lcd$XL
-d$PMk
-d?000000`?
 dddd, MMMM dd, yyyy
-debug=false
 deflate
 deflateEnd
 deflateInit_
 deflateParams
 deflateReset
 double
-dt D:
-dt"fD;
-dt%fD;
-dtfD:
-dtwfD;
 dutch-belgian
 e+000
-eHIcD$
 england
 english-american
 english-aus
@@ -1603,40 +1013,17 @@ english-uk
 english-us
 english-usa
 enum 
-error diffused
+error diffused\n
+expf
 extern "C" 
 f"?qt_metacall@QImageIOPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-f9G`u0H
-f9G`uBH
-f9Gbt
-f9qjuw
-f;D$@uD
-f;D$@ug
-f;K,r
-f;_jr
-f;}jr
-fA9D$
-fC)DP
-fD9 t
-fD9#u
-fD9:r
-fD9?t
-fD9Abf
-fD9K`
-fD9M@t
-fD9t$b
-fD9u8r#H
-fD9}H
-fD;I:v
-fD;wjs/
-fJBGo
-fffff
-ffffff
-fffffff
-field[%2d] %5lu, %2d, %2d, %d, %2d, %5s, %5s, %s
+fGa>
+fabs
+field[%2d] %5lu, %2d, %2d, %d, %2d, %5s, %5s, %s\n
 float
 floating point predictor 
 floor
+fmod
 for "ReferenceBlackWhite" array
 for "StripByteCounts" array
 for Group 3/4 run arrays
@@ -1655,13 +1042,8 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
-gu E3
-h>1my
-hA^_[]
-halftone or dithered scan
+halftone or dithered scan\n
 holland
 hong-kong
 horizontal differencing 
@@ -1674,57 +1056,40 @@ inflateReset
 inflateSync
 initCIELabConversion
 initYCbCrConversion
+int 
 irish-english
 italian-swiss
-j>>A?1
-j?V()
-j?{$*
-k>4	F
-l$ ATD
-l$ A^_[
-l$ D!
-l$ VWATAU
-l$ VWATH
-l$ WATAUH
-l$ WH
-l$(A\
-l$0wXH
-l$8Lc
-l$@@2
-l$@A]A\_^
-l$@E3
-l$@Lc
-l$HE;
-l$PD+
-l$PMcE
-l$`E3
-l$xE+
+jeTb
+k>4\tF
+kU'9
 ldexp
 log10
 log10f
+logf
+long
 long 
-lsb-to-msb
+lsb-to-msb\n
+mO-B
 min-is-black
 min-is-white
-msb-to-lsb
+modf
+msb-to-lsb\n
 must be either LogLUV or LogL
-nT$PH
-n]?iJ
+n$Kx
 new-zealand
 none 
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
-oI>O7
+o\n?isOpen@QIODevice@@QEBA_NXZ
 operator
-ot$@H
-ot>fA
-p WATAUAVAWH
-p WATAUH
 p>.G1
+p>Y3
+p\f?peek@QIODevice@@QEAA?AVQByteArray@@_J@Z
 palette color (RGB from colormap)
-pattern=QT_PLUGIN_VERIFICATION_DATA
+pattern=QT_PLUGIN_VERIFICATION_DATA\nversion=4.8.3\ndebug=false\nbuildkey=Windows x64 msvc release full-config
 portuguese-brazilian
+powf
 pr china
 pr-china
 private: 
@@ -1733,11 +1098,9 @@ pseudo-
 public: 
 puerto-rico
 q>F,3
-qS>g?h3
 qt_plugin_instance
 qt_plugin_query_verification_data
 qtiff4.dll
-r&D8g
 rNm>)
 row 0 bottom, col 0 lhs
 row 0 bottom, col 0 rhs
@@ -1747,17 +1110,15 @@ row 0 rhs, col 0 bottom
 row 0 rhs, col 0 top
 row 0 top, col 0 lhs
 row 0 top, col 0 rhs
-s WATAUAVAWH
-s'D9q
-s\HcL$HH
 scanline
-separate image planes
+separate image planes\n
 separated
 short
 short 
 signed 
-signed integer
-single image plane
+signed integer\n
+single image plane\n
+sinh
 slovak
 south africa
 south korea
@@ -1782,6 +1143,7 @@ spanish-peru
 spanish-puerto rico
 spanish-uruguay
 spanish-venezuela
+sqrt
 static 
 std::nullptr_t
 strip
@@ -1789,46 +1151,13 @@ strips
 struct 
 swedish-finland
 swiss
-t	D8+
-t#ffff
-t$ @80
-t$ ATAUAVH
-t$ ATH
-t$ Hct$HH
-t$ Hct$HL
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$0Hct$PL
-t$8ffff
-t$<	t
-t$@E3
-t$@H3
-t$HD;
-t$PE3
-t$Pt2
-t$PuI
-t$pD+d$HD+
-t$xE+
-t%;{Dr4f
-t)fff
-t*HcO
-t*fff
-t+<	v
-t+<	v|<
-t0<@t
-tCs"3
-tIf9wbH
-tO<_t<<$t8<<t4<>t0<-t,<a|
-t^D;@
-t^D;P
-tb<A|M<P
+t\f?bits@QImage@@QEAAPEAEXZ
+tanh
 template-parameter-
 tier0.dll
+tiff
+tile
 tiles
-tkHc}
-tnLcV
 to fetch array of rationals
 to fetch per-sample values
 to fetch strip tag
@@ -1837,86 +1166,24 @@ to read "TransferFunction" tag
 to read TIFF directory
 transparency mask
 trinidad & tobago
-u	A!A
-u"E9Q t
-u'HcUHH
-u0fA;
-u1!D$0
-u5E9Q t
-u=D8U
-uLffff
-uNM9u
-uQI91tLH
-u_D9u
 unexpected count for field "%s", %u, expected 2; ignored
 union 
 united-kingdom
 united-states
 unsigned 
-unsigned integer
-ut7fA
-v-ffff
-version=4.8.3
+unsigned integer\n
 virtual 
+void
 void 
+void\n
 volatile
 volatile 
-v}`[>
 wchar_t
-x ATAUAVH
-x ATAUAWH
-x ATH
-xA]A\_^[]
-x^j=|
-x_^][
 xppwpp
 xpxxxx
-xt0fA
-xv;=O
-yE>}-
-z>@G'h
+z>h4
 z?aUY
-zNuLf
-zY;>u:m	
 zc%C1
-zux!l$ E3
-{&1q>
 {8?width@QImage@@QEBAHXZ
-{8A9;u
 {flat}
 {for 
-|$ ATAUAVH
-|$ ATD
-|$ ATH
-|$ AUH
-|$ H;
-|$ Hc
-|$ Hc|$HHc
-|$ UATAUAVAWH
-|$ UH
-|$(A\
-|$(E;
-|$(~)E
-|$0-H
-|$8Hc
-|$@-D
-|$@-H
-|$@E;
-|$@u!H
-|$DA;
-|$DD9d$X
-|$DE3
-|$HA;
-|$HE3
-|$HfA
-|$XA;
-|$`fD
-|$hL9t$`t
-|$p9{
-|>fj;
-}HfD	
-}Qffff
-~ ffff
-~/8\$vt)H
-~Gffffff
-~ID;c

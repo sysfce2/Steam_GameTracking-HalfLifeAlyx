@@ -1,42 +1,8 @@
-					
-	;H }
-	CODE_SIZE
-	H;H s
-	JS_NORMAL
-	JS_NUMBER
-	JS_STRING
-	TYPE_BOOL
-	TYPE_ENUM
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	enum_type
-	extension
-	host_loss
-	json_name
-	kE>fvw
-	map_entry
-	map_field
-	name_part
-	s:HcGT
-	tickcount
-	type_name
-	usermsg_t
-	val_float
-	val_short
-	worldname
-	wzHc
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ\'
-    Actual    : 
-    Expected  : 
-    Field type: 
   Actual   : 
   Comment started here.
   Expected : 
-  Field       : 
-  Message type: 
-  Problem     : 
-  Problem     : Enum value did not match field type:
-  Problem     : Field is not the right type for this message:
  !"#$%&'()*+,-./0123
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
@@ -48,66 +14,21 @@
  #GameUI_ServerRejectBadChallenge
  #Valve_Reject_Connect_From_Lobby
  #Valve_Reject_Reserved_For_Lobby
- '%s'
- 'L>[
- ... }
- 9(X`
  = { <proto text format> }". To set fields within it, use syntax like "
- A^A\[
- A^A\^
- A^A]A\_^
- A^][
- A^^[
- A^^]
- A^_^
- A_A]A\_^
- A_A]_
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_^
- A_A^]
- A_A^^
- A_A^_
- A_][
- A_^[
- A_^]
- A__]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
- CNETMsg_SpawnGroup_LoadCompleted
- CSVCMsg_GameSessionConfiguration
  Class Hierarchy Descriptor'
  Complete Object Locator'
- D;7|
- H3E H3E
- H9n@u
- H;G@u
- Hc)L
- Hc9H
- Hc:A
- HcA H
- Hcl$p3
- Hct$p3
- Hcy0I
- HcyH3
- Lct$p3
- NETWORK_DISCONNECT_CLIENT_NO_MAP
- NETWORK_DISCONNECT_REJECT_BANNED
- NETWORK_DISCONNECT_SNAPSHOTERROR
- NETWORK_DISCONNECT_STEAM_DROPPED
  Outdent() without matching Indent().
  Tokenizer::ParseFloat() passed text that could not have been tokenized as a float: 
  Tokenizer::ParseStringAppend() passed text that could not have been tokenized as a string: 
  Type Descriptor'
- [$0]
  [default = $0
  a protocol 
  args were given.  Full format string was: "
  but not used.
+ bytes).  To increase the limit (or to disable these warnings), see CodedInputStream::SetTotalBytesLimit() in google/protobuf/io/coded_stream.h.
  conflicts with an existing enum type.
  conflicts with an existing field.
  conflicts with an existing nested message type.
@@ -115,21 +36,17 @@
  contains invalid 
  delete
  delete[]
+ google/protobuf/descriptor.proto*
+ google/protobuf/descriptor.proto:9\n\tmap_field
  message of type "
- new[]
+ new
  not found
  of the Protocol Buffer runtime library, but the installed version is 
  of the Protocol Buffer runtime library, which is not compatible with the installed version (
- t9HcGPA
- t:HcG0
- t?D9
- tDE3
- type does not match
+ type does not match\n
  unexpected for field 
- vJH+
  was modified concurrently during serialization.
  with type 
- { ... };
 !#GameUI_Disconnect_ConnectionLost
 !#GameUI_Disconnect_HLTVRestricted
 !#GameUI_Disconnect_LoopDeactivate
@@ -140,15 +57,7 @@
 !#GameUI_Disconnect_SteamOwnership
 !#GameUI_Disconnect_TempEntMessage
 !#GameUI_ServerRejectFailedChannel
-!,X< w
-!>6'Y
-!CNETMsg_SpawnGroup_ManifestUpdate
-!NETWORK_DISCONNECT_HLTVRESTRICTED
-!NETWORK_DISCONNECT_INTERNAL_ERROR
-!NETWORK_DISCONNECT_LOOPDEACTIVATE
-!NETWORK_DISCONNECT_REJECT_NOLOBBY
-!NETWORK_DISCONNECT_REMOTE_TIMEOUT
-!host_framestarttime_std_deviation
+!.google.protobuf.EnumValueOptions
 " because it is missing required fields: 
 " conflicts with field "
 " conflicts with the existing symbol "
@@ -179,6 +88,8 @@
 " must be unique within 
 " not previously defined in symbols_by_name_, but was defined in symbols_by_parent_; this shouldn't be possible.
 " seems to be defined in "
+" stored in google.protobuf.Any has missing required fields
+" stored in google.protobuf.Any.
 " unknown.
 " uses the same enum value as "
 " was already set.
@@ -189,17 +100,18 @@
 "#GameUI_Disconnect_DeltaEntMessage
 "#GameUI_Disconnect_HLTVUnavailable
 "#GameUI_ServerRejectInvalidCertLen
+"#\n\nCEntityMsg
 "$0" does not declare $1 as an extension number.
-"$0", 
+"$\n\fCMsgVector2D
 ") is not compatible with this reflection object (which is for type "
 ") to start from the outermost scope.
 ").  Note that the exact same class is required; not just the same descriptor.
 ", another member of oneof "
 ", but only 
 ", field number 
-", found "
 ", which is not defined. The innermost scope is searched first in name resolution. Consider using a leading '.'(i.e., ".
 ", which is not imported by "
+"-\n\nCMsgQAngle
 ".  To use it here, please add the necessary import.
 ". If this is intended, set 'option allow_alias = true;' to the enum definition.
 ". This appears to be a value from a sibling type.
@@ -207,7 +119,7 @@
 ". Value: "
 "/*" inside block comment.  Block comments cannot be nested.
 "0x" must be followed by hex digits.
-"CNETMsg_SpawnGroup_SetCreationTick
+"<\n CNETMsg_SpawnGroup_LoadCompleted
 "DeleteMapValue"
 "GetMapData"
 "GetRawRepeatedField"
@@ -217,17 +129,11 @@
 "MapEnd"
 "MapSize"
 "MutableRawRepeatedField"
-"NETWORK_DISCONNECT_HLTVUNAVAILABLE
-"NETWORK_DISCONNECT_REMOTE_BADCRYPT
-"NETWORK_DISCONNECT_SERVER_SHUTDOWN
-"NETWORK_DISCONNECT_STEAM_DENY_MISC
-"NETWORK_DISCONNECT_STEAM_OWNERSHIP
-"SPAWN_GROUP_CREATE_NEW_SCENE_WORLD
-"SPAWN_GROUP_IS_INITIAL_SPAWN_GROUP
+"^\n\fOneofOptions
 "e" must be followed by exponent.
 "e?<<<<<<l?
-"host_computationtime_std_deviation
-"pA3Q
+"k\n"CNETMsg_SpawnGroup_SetCreationTick
+"u\n!CNETMsg_SpawnGroup_ManifestUpdate
 ##GameUI_Disconnect_BadRelayPassword
 ##GameUI_Disconnect_ReliableOverflow
 ##GameUI_Disconnect_SnapshotOverflow
@@ -263,19 +169,13 @@
 #GameUI_ServerCDKeyAuthInvalid
 #GameUI_ServerNoLobby
 #GameUI_ServerRejectBadPassword
-#GameUI_ServerRejectBanned:E
+#GameUI_ServerRejectBanned:E\n
 #GameUI_ServerRejectLANRestrict
 #GameUI_ServerRejectNewProtocol
 #GameUI_ServerRejectOldProtocol
 #GameUI_ServerRejectServerFull
 #GameUI_ServerRejectSteam
 #GameUI_ServerRequireSteams
-#NETWORK_DISCONNECT_BADRELAYPASSWORD
-#NETWORK_DISCONNECT_REJECTED_BY_GAME
-#NETWORK_DISCONNECT_RELIABLEOVERFLOW
-#NETWORK_DISCONNECT_SNAPSHOTOVERFLOW
-#NETWORK_DISCONNECT_TICKMSG_OVERFLOW
-#SPAWN_GROUP_LOAD_ENTITIES_FROM_SAVE
 #Valve_Reject_Background_Map
 #Valve_Reject_Hidden_Game
 #Valve_Reject_Single_Player
@@ -283,24 +183,15 @@ $#GameUI_Disconnect_BadServerPassword
 $#GameUI_Disconnect_ConnectionFailure
 $#GameUI_Disconnect_MessageParseError
 $#GameUI_Disconnect_Request_HLTVRelay
-$0  extend .$1 {
-$0  extensions $1 to $2;
+$0  extend .$1 {\n
+$0  extensions $1 to $2;\n
 $0  reserved 
-$0  }
-$0 to $1, 
-$0$1 = $2
 $0$1$2 $3 = $4
-$0// $1
-$0enum $1 {
+$0enum $1 {\n
 $0message $1
 $0oneof $1 {
-$0option $1;
-$A8@)
-$HcA,H
+$0option $1;\n
 $Ib?s
-$NETWORK_DISCONNECT_REJECT_SERVERFULL
-$NETWORK_DISCONNECT_STEAM_AUTHINVALID
-$NETWORK_DISCONNECT_STEAM_VACBANSTATE
 %#GameUI_Disconnect_BadClientDeltaTick
 %#GameUI_Disconnect_ConnectionOverflow
 %#GameUI_Disconnect_ConnectionTimedout
@@ -313,286 +204,106 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 %#GameUI_ServerRejectInvalidConnection
 %#GameUI_ServerReject_InvalidKeyLength
 %.15lf
-%.1fs total merge time
-%.3f cpu s cast, %.3f cpu s rasterize
+%.1fs total merge time\n
+%.3f cpu s cast, %.3f cpu s rasterize\n
+%02X
 %08dx.geo
-%5.1fs::cast %s rays, Found %s valid LOS (%d jobs)
-%GoU?*
+%5.1fs::cast %s rays, Found %s valid LOS (%d jobs)\n
 %I64u
-%NETWORK_DISCONNECT_CONNECTION_FAILURE
-%NETWORK_DISCONNECT_DISCONNECT_BY_USER
-%NETWORK_DISCONNECT_LOCALPROBLEM_OTHER
-%NETWORK_DISCONNECT_REJECT_BADPASSWORD
-%NETWORK_DISCONNECT_REJECT_HIDDEN_GAME
-%NETWORK_DISCONNECT_REJECT_LANRESTRICT
-%NETWORK_DISCONNECT_REJECT_NEWPROTOCOL
-%NETWORK_DISCONNECT_REJECT_OLDPROTOCOL
-%NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
-%d clusters, %d steps
-%d initial clusters, merging.
-%d) 64x64x64 voxel hint
-%d) 8x8x8 voxel hint
-%d) <unknown> hint %d
-%d) z-axis split hint %.2f
-%d.%d.%d
+%d clusters, %d steps\n
+%d initial clusters, merging.\n
+%d) 64x64x64 voxel hint\n
+%d) 8x8x8 voxel hint\n
+%d) <unknown> hint %d\n
+%d) z-axis split hint %.2f\n
 %i %i %i %i
-%s rays complete.
+%lld
+%llu
+%s rays complete.\n
 %s.los
 %s/%s/%s.los
 %s/%s/%s.rte
 %s/%s/%s.viscfg
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 &#GameUI_Disconnect_InvalidMessageError
 &#GameUI_Disconnect_NoPeerGroupHandlers
 &#GameUI_Disconnect_PureServer_Mismatch
 &#GameUI_Disconnect_RemoteProblem_Other
 &#GameUI_ServerRejectInvalidReservation
 &?PPPPPPP?
-&NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
-&NETWORK_DISCONNECT_MESSAGE_PARSE_ERROR
-&NETWORK_DISCONNECT_PURESERVER_MISMATCH
-&NETWORK_DISCONNECT_REJECT_BADCHALLENGE
-&NETWORK_DISCONNECT_REPLAY_INCOMPATIBLE
-&NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
-&NETWORK_DISCONNECT_SERVER_INCOMPATIBLE
-&NETWORK_DISCONNECT_STEAM_AUTHCANCELLED
-&NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-'":|;
+&Sgw
+&\n"SPAWN_GROUP_IS_INITIAL_SPAWN_GROUP
 '#GameUI_Disconnect_BadSpectatorPassword
 '#GameUI_Disconnect_DifferentClassTables
 '#GameUI_ServerRejectInvalidSteamCertLen
-'NETWORK_DISCONNECT_BADSPECTATORPASSWORD
-'NETWORK_DISCONNECT_CLIENT_DIFFERENT_MAP
-'NETWORK_DISCONNECT_CREATE_SERVER_FAILED
-'NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
-'NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
-'NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
-'NETWORK_DISCONNECT_REJECT_FAILEDCHANNEL
-'NETWORK_DISCONNECT_REJECT_SINGLE_PLAYER
-'SPAWN_GROUP_CREATE_CLIENT_ONLY_ENTITIES
+'\n"SPAWN_GROUP_CREATE_NEW_SCENE_WORLD
+'\n#SPAWN_GROUP_LOAD_ENTITIES_FROM_SAVE
 'out_location' must not be NULL
 ( 8PX
 (#GameUI_Disconnect_LoopLevelLoadActivate
 (#GameUI_Disconnect_RemoteProblem_BadCert
 (#GameUI_Disconnect_RemoteProblem_Timeout
-(9}`~
-(;^ |
-(;^,|
-(;s,|
-(A^A]A\^
-(A^^][
-(A_A\_^][
-(A_A^
-(A_A^A\_^[
-(A_A^A]A\_^][
-(A_A^_^][
-(D$ A
-(D$ D
-(D$ H
-(D$ L
-(D$ f
-(D$0A
-(D$0H
-(D$0f
-(D$@A
-(D$@H
-(D$@f
-(D$PA
-(D$PH
-(D$Pf
-(D$`H
-(D$`f
-(D$pA
-(D$pH
-(D$pf
-(D;v,}e
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$ H
-(L$0D
-(NETWORK_DISCONNECT_INVALID_MESSAGE_ERROR
-(NETWORK_DISCONNECT_REJECT_BACKGROUND_MAP
-(NETWORK_DISCONNECT_REJECT_INVALIDCERTLEN
-(NETWORK_DISCONNECT_REMOTE_CERTNOTTRUSTED
-(NETWORK_DISCONNECT_SERVER_REQUIRES_STEAM
-(NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED
 (None)
-(T$PD
-(T?j?Y
-(\$@D
-(\$`D
+(\r"R\n\nCMsg_CVars
+(\t"\r\n\vCNETMsg_NOP"'\n
+(\v2 .google.protobuf.DescriptorProto
+(\v2!.google.protobuf.EnumValueOptions"
+(\v2#.CSVCMsgList_UserMessages.usermsg_t
+(\v2$.google.protobuf.EnumDescriptorProto
+(\v2$.google.protobuf.FileDescriptorProto"
+(\v2$.google.protobuf.UninterpretedOption"/\n
+(\v2$.google.protobuf.UninterpretedOption":\n\fOptimizeMode
+(\v2$.google.protobuf.UninterpretedOption"P\n
+(\v2$.google.protobuf.UninterpretedOption*\t
+(\v2%.google.protobuf.FieldDescriptorProto
+(\v2%.google.protobuf.OneofDescriptorProto
+(\v2&.google.protobuf.ExtensionRangeOptions
+(\v2&.google.protobuf.MethodDescriptorProto
+(\v2'.google.protobuf.ServiceDescriptorProto
+(\v2(.google.protobuf.SourceCodeInfo.Location
+(\v2).google.protobuf.EnumValueDescriptorProto
+(\v2-.google.protobuf.GeneratedCodeInfo.Annotation
+(\v2-.google.protobuf.UninterpretedOption.NamePart
+(\v2..google.protobuf.DescriptorProto.ReservedRange
+(\v2/.google.protobuf.DescriptorProto.ExtensionRange
+(\v26.google.protobuf.EnumDescriptorProto.EnumReservedRange
+(\v2\v.CMsgQAngle
+(\v2\v.CMsgVector
+(\v2\v.CMsg_CVars"
 (cannot determine missing fields for lite message)
-(d$0D
-(d$pD
-(l$ D
-(l$@D
-(l$`3
-(l$`D
 (merge 
 (null)
-(o:R	
-(t$ H
-(t$ L
-(t$0D
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$@f
-(t$PH
-(t$PL
-(t$`H
-(t$`L
-(t$pH
-(t$pI
-(t$pL
-(|$ D
-(|$ H
-(|$0D
-(|$0H
-(|$0I
-(|$0L
-(|$0f
-(|$@D
-(|$@H
-(|$@I
-(|$PH
-(|$PI
-(|$`3
-(|$`D
 )", which is not defined. The innermost scope is searched first in name resolution. Consider using a leading '.'(i.e., "(.
 )#GameUI_Disconnect_PureServer_ClientExtra
 )#GameUI_Disconnect_RemoteProblem_BadCrypt
 )#GameUI_Disconnect_SteamDeny_BadAntiCheat
 ), this value label conflicts with 
 ).  Contact the program author for an update.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in "
-)>6{1n
-)D$ D
-)D$ H
-)D$ f
-)D$ fff
-)D$0H
-)D$@D
-)D$@H
-)D$PH
-)D$`L
-)D$pD
-)L$`D
-)L$`E
-)NETWORK_DISCONNECT_NO_PEER_GROUP_HANDLERS
-)NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
-)NETWORK_DISCONNECT_REQUEST_HOSTSTATE_IDLE
-)O@E3
-)T$@A
-)T$@D
-)T$`H
-)T$p3
-)T$pD
-)\$@H
-)\$PE
-)\$`E
-)\$pD
-)d$PM
-)l$ A
-)l$PD
-)l$pD
-)t$ H
-)t$ I
-)t$03
-)t$0A
-)t$0H
-)t$0L
-)t$0Mc
-)t$@%
-)t$@H
-)t$@I
-)t$@L
-)t$PH
-)t$PL
-)t$`D
-)t$`H
-)t$`L
-)t$pD
-)t$pE
-)|$ D
-)|$0D
-)|$0H
-)|$0f
-)|$@E
-)|$@L
-)|$PD
-)|$PE
-)|$pD
-)|B?d!
+)\n!host_framestarttime_std_deviation
+)yIx
 *#GameUI_Disconnect_LocalProblem_ManyRelays
-*H+H0H
-*H+H0I
-*NETWORK_DISCONNECT_CLIENT_CONSISTENCY_FAIL
-*NETWORK_DISCONNECT_LOCALPROBLEM_MANYRELAYS
-*NETWORK_DISCONNECT_LOOP_LEVELLOAD_ACTIVATE
-*NETWORK_DISCONNECT_REJECT_INVALIDKEYLENGTH
-*NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
 *StO9>T
+*\n"host_computationtime_std_deviation
 *dE0*TD0*4C0*
-+A$Hc
-+A,+A
-+B$Hc
-+C$Hc
-+C$Lc
-+E$Hc
-+F$Hc
-+G$Hc
-+K,+K
-+M<7>
-+NETWORK_DISCONNECT_CLIENT_UNABLE_TO_CRC_MAP
-+NETWORK_DISCONNECT_CONNECT_REQUEST_TIMEDOUT
-+NETWORK_DISCONNECT_REJECT_INVALIDCONNECTION
-+NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
-+Q ;Q
-+f)>0'
-+h->|
-+|$PH
-, from: 
++\n'SPAWN_GROUP_CREATE_CLIENT_ONLY_ENTITIES
++\n\rReservedRange
++inf
 , not just within "
 ,#GameUI_Disconnect_Splitpacket_Send_Overflow
-,+<:w
-,/<-w
-,0<	w
-,0<	wo
-,0<6w H
-,A<9w
 ,HR>O
-,I<%w
-,NETWORK_DISCONNECT_REJECT_CONNECT_FROM_LOBBY
-,NETWORK_DISCONNECT_REJECT_INVALIDRESERVATION
-,NETWORK_DISCONNECT_REJECT_RESERVED_FOR_LOBBY
-,NETWORK_DISCONNECT_REJECT_SERVERAUTHDISABLED
-,NETWORK_DISCONNECT_REMOTE_TIMEOUT_CONNECTING
-,NETWORK_DISCONNECT_SPLITPACKET_SEND_OVERFLOW
-,NETWORK_DISCONNECT_STEAM_DENY_BAD_ANTI_CHEAT
-,NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE
-,|%)v
-,}vT+
 -#GameUI_Disconnect_LocalProblem_NetworkConfig
--<	u#
 -BH>t
--NETWORK_DISCONNECT_DIRECT_CONNECT_RESERVATION
--NETWORK_DISCONNECT_LOCALPROBLEM_NETWORKCONFIG
--NETWORK_DISCONNECT_REJECT_INVALIDSTEAMCERTLEN
+-avx
+-inf
 -sse2
 -sse3
 -sse4
 .  Please update your library.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in "
 . This will make the proto fail to compile for some languages, such as C#.
 ...<truncated>...
-..om?
 .00cfg
-.>PJ;I:qE>
+.>\rfJBGo
+.?AUContainer@?$InternalMetadataWithArenaBase@VUnknownFieldSet@protobuf@google@@VInternalMetadataWithArena@internal@23@@internal@protobuf@google@@
 .?AV?$CBaseAppSystem@VIMapBuilderMgr@@@@
 .?AV?$CBaseAppSystem@VIResourceTypeCompiler@@@@
 .?AV?$CMemberFunctor1@PEAV?$CParallelProcessorAbstract@V?$CFunctorParallelController@V<lambda_4ca8ec93892c43afe601791bcfa645d4>@@@@@@P81@EAAXH@ZHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
@@ -628,7 +339,44 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .?AV?$CTier1AppSystem@VIMapBuilderMgr@@$0A@@@
 .?AV?$CTier2AppSystem@VIMapBuilderMgr@@$0A@@@
 .?AV?$CTier3AppSystem@VIMapBuilderMgr@@$0A@@@
+.?AV?$FunctionClosure1@PEAU?$pair@PEBVFileDescriptorTables@protobuf@google@@PEBVSourceCodeInfo@23@@std@@@internal@protobuf@google@@
+.?AV?$FunctionClosure1@PEAVLazyDescriptor@internal@protobuf@google@@@internal@protobuf@google@@
+.?AV?$FunctionClosure1@PEBVFieldDescriptor@protobuf@google@@@internal@protobuf@google@@
+.?AV?$FunctionClosure1@PEBVFileDescriptor@protobuf@google@@@internal@protobuf@google@@
+.?AV?$FunctionClosure1@PEBVFileDescriptorTables@protobuf@google@@@internal@protobuf@google@@
+.?AV?$RepeatedField@H@protobuf@google@@
+.?AV?$RepeatedField@I@protobuf@google@@
+.?AV?$RepeatedField@M@protobuf@google@@
+.?AV?$RepeatedField@N@protobuf@google@@
+.?AV?$RepeatedField@_J@protobuf@google@@
+.?AV?$RepeatedField@_K@protobuf@google@@
+.?AV?$RepeatedField@_N@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@H@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@I@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@M@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@N@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@_J@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@_K@internal@protobuf@google@@
+.?AV?$RepeatedFieldPrimitiveAccessor@_N@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@H@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@I@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@M@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@N@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@_J@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@_K@internal@protobuf@google@@
+.?AV?$RepeatedFieldWrapper@_N@internal@protobuf@google@@
+.?AV?$RepeatedPtrField@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@protobuf@google@@
+.?AV?$RepeatedPtrField@VMessage@protobuf@google@@@protobuf@google@@
+.?AV?$RepeatedPtrField@VMessageLite@protobuf@google@@@protobuf@google@@
+.?AV?$RepeatedPtrFieldWrapper@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@internal@protobuf@google@@
+.?AV?$RepeatedPtrFieldWrapper@VMessage@protobuf@google@@@internal@protobuf@google@@
+.?AV?$TypeDefinedMapFieldBase@VMapKey@protobuf@google@@VMapValueRef@23@@internal@protobuf@google@@
 .?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVAggregateErrorCollector@?A0xc9545c76@protobuf@google@@
+.?AVAggregateOptionFinder@OptionInterpreter@DescriptorBuilder@protobuf@google@@
+.?AVArrayInputStream@io@protobuf@google@@
+.?AVArrayOutputStream@io@protobuf@google@@
+.?AVBaseTextGenerator@TextFormat@protobuf@google@@
 .?AVCAxialRayGenerator@@
 .?AVCClusterViewRayGenerator@@
 .?AVCDefaultAccessor@@
@@ -681,8 +429,41 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .?AVCVertColorHalfLambert@@
 .?AVCVisBuilder@@
 .?AVCVisBuilderMgr@@
+.?AVClosure@protobuf@google@@
 .?AVConCommandBase@@
 .?AVConVar@@
+.?AVDescriptorDatabase@protobuf@google@@
+.?AVDescriptorPoolExtensionFinder@internal@protobuf@google@@
+.?AVDescriptorProto@protobuf@google@@
+.?AVDescriptorProto_ExtensionRange@protobuf@google@@
+.?AVDescriptorProto_ReservedRange@protobuf@google@@
+.?AVDynamicMapField@internal@protobuf@google@@
+.?AVDynamicMessage@protobuf@google@@
+.?AVDynamicMessageFactory@protobuf@google@@
+.?AVEncodedDescriptorDatabase@protobuf@google@@
+.?AVEnumDescriptorProto@protobuf@google@@
+.?AVEnumDescriptorProto_EnumReservedRange@protobuf@google@@
+.?AVEnumOptions@protobuf@google@@
+.?AVEnumValueDescriptorProto@protobuf@google@@
+.?AVEnumValueOptions@protobuf@google@@
+.?AVErrorCollector@io@protobuf@google@@
+.?AVExtensionFinder@internal@protobuf@google@@
+.?AVExtensionRangeOptions@protobuf@google@@
+.?AVFastFieldValuePrinter@TextFormat@protobuf@google@@
+.?AVFatalException@protobuf@google@@
+.?AVFieldDescriptorProto@protobuf@google@@
+.?AVFieldOptions@protobuf@google@@
+.?AVFieldSkipper@internal@protobuf@google@@
+.?AVFileDescriptorProto@protobuf@google@@
+.?AVFileDescriptorSet@protobuf@google@@
+.?AVFileOptions@protobuf@google@@
+.?AVFinder@TextFormat@protobuf@google@@
+.?AVFunctionClosure0@internal@protobuf@google@@
+.?AVGeneratedCodeInfo@protobuf@google@@
+.?AVGeneratedCodeInfo_Annotation@protobuf@google@@
+.?AVGeneratedExtensionFinder@internal@protobuf@google@@
+.?AVGeneratedMessageFactory@?A0x5c51d97d@protobuf@google@@
+.?AVGeneratedMessageReflection@internal@protobuf@google@@
 .?AVIAppSystem@@
 .?AVIBaseSequence@@
 .?AVIConCommandBaseAccessor@@
@@ -695,6 +476,34 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .?AVISequence@@
 .?AVIVSSequence@@
 .?AVIVertColorBase@@
+.?AVInnerMap@?$Map@VMapKey@protobuf@google@@VMapValueRef@23@@protobuf@google@@
+.?AVMapFieldAccessor@internal@protobuf@google@@
+.?AVMapFieldBase@internal@protobuf@google@@
+.?AVMessage@protobuf@google@@
+.?AVMessageFactory@protobuf@google@@
+.?AVMessageLite@protobuf@google@@
+.?AVMessageOptions@protobuf@google@@
+.?AVMethodDescriptorProto@protobuf@google@@
+.?AVMethodOptions@protobuf@google@@
+.?AVOneofDescriptorProto@protobuf@google@@
+.?AVOneofOptions@protobuf@google@@
+.?AVParserErrorCollector@ParserImpl@Parser@TextFormat@protobuf@google@@
+.?AVRandomAccessRepeatedFieldAccessor@internal@protobuf@google@@
+.?AVReflection@protobuf@google@@
+.?AVRepeatedFieldAccessor@internal@protobuf@google@@
+.?AVRepeatedPtrFieldMessageAccessor@internal@protobuf@google@@
+.?AVRepeatedPtrFieldStringAccessor@internal@protobuf@google@@
+.?AVServiceDescriptorProto@protobuf@google@@
+.?AVServiceOptions@protobuf@google@@
+.?AVSourceCodeInfo@protobuf@google@@
+.?AVSourceCodeInfo_Location@protobuf@google@@
+.?AVStringOutputStream@io@protobuf@google@@
+.?AVTextGenerator@Printer@TextFormat@protobuf@google@@
+.?AVUninterpretedOption@protobuf@google@@
+.?AVUninterpretedOption_NamePart@protobuf@google@@
+.?AVUnknownFieldSetFieldSkipper@internal@protobuf@google@@
+.?AVZeroCopyInputStream@io@protobuf@google@@
+.?AVZeroCopyOutputStream@io@protobuf@google@@
 .?AV__non_rtti_object@std@@
 .?AVbad_alloc@std@@
 .?AVbad_cast@std@@
@@ -705,9 +514,6 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .?AVlogic_error@std@@
 .?AVout_of_range@std@@
 .?AVtype_info@@
-.CMsgQAngle
-.CMsgVector
-.CMsg_CVars"
 .CMsg_CVars.CVar
 .CRT$XCA
 .CRT$XCC
@@ -726,22 +532,28 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .CRT$XTA
 .CRT$XTZ
 .CSVCMsgList_GameEvents.event_t
-.CSVCMsg_GameEvent"9
+.CSVCMsg_GameEvent"9\n
 .CSVCMsg_GameEvent.key_t
 .CSVCMsg_UserMessage"
 .ENetworkDisconnectionReason"
-.NETWORK_DISCONNECT_REQUEST_HOSTSTATE_HLTVRELAY
 .PLACEHOLDER_VALUE
+.bss
 .data
 .data$r
 .dummy
 .edata
 .foo = value".
-.gfids
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
+.google.protobuf.EnumOptions
+.google.protobuf.FieldOptions
+.google.protobuf.FieldOptions"
+.google.protobuf.FileOptions
+.google.protobuf.MessageOptions
+.google.protobuf.MethodOptions
+.google.protobuf.OneofOptions"
+.google.protobuf.ServiceOptions"
+.google.protobuf.SourceCodeInfo
 .idata$2
 .idata$3
 .idata$4
@@ -757,255 +569,89 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
 .xdata$x
 /2GG>!B
-/=$!6
-/>58d%
-/D$pv
-/D$tv
-/D$xv
-/D$|v
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 00000000-0000-0000-0000-000000000000
 00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
 0123456789abcdef
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
-0;|$0
-0><[cZUg^>
-0A;n4|
-0A\_]
-0A]A\_
-0A]^[
-0A^A\]
-0A^A\_
-0A^^[
-0A^^]
-0A^_^
-0A^_^][
-0A_A\]
-0A_A\^
-0A_A]A\_]
-0A_A][
-0A_A^A\
-0A_A^A\H
-0A_A^A\_]
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_^]
-0A_^[
-0A__]
-0A__^
-0D;Bl
-0D;ul|
-0D;w4L
-0E;gl
-0NETWORK_DISCONNECT_REJECT_SERVERCDKEYAUTHINVALID
+0:<\n\fdelta_ignore
+0E>X
 0X8b?~
-0_^[H
 0iN>/
-0v0b1
+0x%p
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
-1A9p 
+11Y@
 1DBlend
-1H;>u>I
-1H;>u?I
-1I9p 
-2#.CSVCMsgList_UserMessages.usermsg_t
+1\n-NETWORK_DISCONNECT_DIRECT_CONNECT_RESERVATION
+2#.google.protobuf.FieldOptions.CType:
 2#GameUI_Disconnect_RemoteProblem_TimeoutConnecting
-200613004404Z0#
-211007120000Z0M1
-211110000000Z0b1
-2333333
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-3333333
-33333333H+
-3;D$@wpA
-3;D$DwuA
+2$.google.protobuf.FieldOptions.JSType:\tJS_NORMAL
+2).google.protobuf.FileOptions.OptimizeMode:
+2*.google.protobuf.FieldDescriptorProto.Type
+2+.google.protobuf.FieldDescriptorProto.Label
+2/.google.protobuf.MethodOptions.IdempotencyLevel:
+2\r52t
+3 FB
+37>k
 3>N;kU
 3>fvw
+3?tr
 456789:;<=
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+51>W
+5\n\vnested_type
+6NK>
+6\fXO>\ntA
+6\n\fmessage_type
 700WP
-7HcD$P
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+7>I0
+7?GX
+7\n\tenum_type
+7~xh
 8#GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay
-8.u|I
-80tWD
-8A*tZE3
-8A^A]_[
-8A^^][
-8A^_][
-8A^_^[
-8A_A\
-8A_A^
-8A_A^^[
-8A_A^_^][
-8NETWORK_DISCONNECT_LOCALPROBLEM_HOSTEDSERVERPRIMARYRELAY
-8O0u]A
-8Y*t'D
-8\$@t
-8\$pt
-8\$xt
-8_^][
+8\n\textension
 8ke?;
-9)~vH
-90u,H
-91~gH
-98~+H
-99C }
-99~-H
-99~2H
-99~CH
-99~sH
-99~uH
+9>70
 9>powf
-9B(|(
-9C |K
-9C }(H
-9D$@t
-9UxvY
-9X@u4
-9Y ~C
-9Z,~43
-9Z8~<
-9Zp~@3
-9\$`~[
-9^,~#3
-9^h~63
-9^t~x3
-9^|~<3
-9_(~5L
-9_0~.
-9_0~93
-9_4~)3
-9_8~>3
-9_p~$
-9i`v(f
-9k0v\H
-9n ~]3
-9n`t5
-9o$~>I
-9o(~GI
-9o0~{
-9rp~&
-9sp~OH
-9w0~$H
-9x|uhA9n<ub9xxu]9xpuX9xtuS
-9y`t*H
-9z8~>
-9zh~>3
-9{,~'f
-9{,~4H
-9{0~]L
-9{P~nL
-9{`v)
-9{p~:3
-9{t~93
-9{xv:fff
-9{|~;3
-9|$@H
-9}x~uL
+9\n\noneof_decl
 : Protocol message serialized to a size different from what was originally expected.  Perhaps it was modified by another thread during serialization?
 : Tried to copy from a message with a different type. to: 
 : Tried to merge from a message with a different type.  to: 
 : failed to parse contents
-:>)*	v
-:>t6k'
-:Hc{h;{xu
-;9}lHc
-;A ~W
-;A`sWH
-;Ah}5
-;D$0u
-;D$@@
-;D$XwrA
-;D$`u
-;D$hu
-;D$pu
-;Fh}e
-;H9>&X
-;Kl}5
-;L$0u
-;S }EH
-;\$8|
-;\$`|
-;l$0|
-;t$@u
-;t$H|
-;{$}"H
-;|$@H
-;|$@|
-;~h}8
-<	u"H
-<	w	@
-<	w*H
-< t;<	t7
-<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->
+<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
 <!-- schema 
-<$uFA
-<*tq</tm<
-<1uHH
-<2$u8B
-<8I;>u
-<9A|+H
-<9_tYH
-<9w/H
-<>#n2
-<Eu1H
+<\n\tusermsg_t
 <deferred>
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <unconnected>
+=87M
+=\n NETWORK_DISCONNECT_CLIENT_NO_MAP
+=cQ6
+=e2m
 =imb;D
->-ufH
+>cQ6
 >jtm}S
 ?!5WOo
-?*u8H
-?+>^m
 ?333?
 ?456789:;<=
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
 ??0CThreadMultiWaitEvent@@QEAA@_N@Z
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMultiWaitEvent@@QEAA@XZ
@@ -1014,20 +660,17 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
 ?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
 ?ExitScope@CVProfile@@QEAAXXZ
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
 ?Format@CBufferString@@QEAAHPEBDZZ
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?Lock@CThreadMutex@@QEAAXPEBDH@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@VColor@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
 ?Replace@CBufferString@@QEAAHPEBD0_N@Z
@@ -1037,190 +680,22 @@ $NETWORK_DISCONNECT_STEAM_VACBANSTATE
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?SetPtr@CBufferString@@QEAAXPEADHH_N1@Z
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
-?TY,>5
 ?UUUUUU
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
-?VBKVu2
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
 ?kxG2)
-?{Q}<
-@ I+@
-@.data
-@.reloc
-@.tls
-@81u/H
-@8=\t
-@8t$p@
-@8xAuAA
-@8|$9t
-@8|$^t
-@8}ju0H
-@8}ku	H
-@8~	t
-@>%>b
-@A]A\^
-@A^A\^
-@A^A]A\
-@A^A]A\^]
-@A^_^
-@A_A^A\
-@A_A^A\_^
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_^[
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^^
-@A_A^_
-@A_A^_^[
-@A_A^_^]
-@A__]
-@D9ALA
-@DD;BDI
-@H9nHu
-@Hc9H
-@PH+X(
-@PL+@(
-@SATAVAWH
-@SATAVH
-@SAUAWH
-@SAVAWH
-@SUATAVAWH
-@SUAVAWH
-@SUAVH
-@SUAWH
-@SUVATAUAVH
-@SUVATH
-@SUVAUAVAWH
-@SUVAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAUAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWAVH
-@SUWH
-@SVAUH
-@SVAVAWH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWAUH
-@SVWAVAWH
-@SVWAVH
-@SVWH
-@SWAUAVH
-@UATAUAVAWH
-@UATAVH
-@UAUH
-@UAVAWH
-@UAVH
-@UAWH
-@USAVH
-@USAWH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAUAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWAVAWH
-@USWH
-@UVAVH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWAVAWH
-@UVWH
-@UWAVH
-@UWAWH
-@VATAUAVH
-@VATAVAWH
-@VAVH
-@VAWH
-@VWATAVAWH
-@VWAVH
-@WATAUAVAWH
-@WATAUH
-@WATAVH
-@WATH
-@WAVAWH
-@WAVH
-@b;zO]
-@t3HcGH
+?lZE
+?qBJ
+?rAj
+?ysB
 A file with this name is already in the pool.
 A protocol message was rejected because it was too big (more than 
-A(9A0
-A(A9A0
-A(I;E
-A+F$D
-A+G$E
-A+S A;S
-A03>A|
-A0I;E
-A81t@@8r
-A84.u
-A86taH
-A8@*uMA8@+u4H
-A8H	P(
-A96~FH
-A9B(|
-A9L$$~%3
-A9O$~
-A9P }
-A9Q }
-A9R }
-A9U`v
-A9Vl~#D
-A9] ~?3
-A9^,~93
-A9^8~=3
-A9^h~F3
-A9n4~yE3
-A9q }EI
-A9}8~L3
-A:(uiI
-A;@`}
-A;A`}
-A;E$u
-A;E<u
-A;ETu
-A;Hh}5
-A;L$$|
-A;L$l}
-A;M }
-A;O$|
-A;Q`}
-A;U`r
-A;Xp}M
-A;] |
-A;]8|
-A;]P|
-A;]h|
-A;^,|
-A;^8|
-A;^h}	
-A;q }?I
-A;vh}8
-A;}8|
-A>l$/
 A>pP&
-A@H+A8H
-AA,A$
-AA<Fu
 AABB_t
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
-AD9BD}
-AD9CD}
-ADA9@D}
-ADA9CD}
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
 AE_CL_ADD_PARTICLE_EFFECT_CP
@@ -1256,54 +731,9 @@ AIWalkable
 AK>(v
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVH
-ATAVAWH
-ATAVH
-ATAWH
-AUAVAWH
-AVAWH
-A\_^[]
-A]A\_[]
-A]A\_^]
-A]^[]
-A^A\]
-A^A\_^[]
-A^A]A\_[]
-A^A]A\_]
-A^A]A\_^[]
-A^A]^]
-A^A]_[]
-A^A]_^[]
-A^_^[]
-A^_^][
-A_A\[]
-A_A\_
-A_A]]
-A_A]_^[]
-A_A^A\
-A_A^A\^
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_^[]
-A_A^A]_^][
-A_A^]
-A_A^^
-A_A^_
-A_A^_[]
-A_A^_^[]
-A_A^_^]
-A_A^_^][
-A__^[]
-A`H+AXH
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
+A\n!NETWORK_DISCONNECT_REJECT_NOLOBBY
+A\n\nannotation
 AbsolutePoseControl
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
@@ -1322,6 +752,7 @@ AddUInt32
 AddUInt64
 Align
 Already saw decimal point or exponent; can't have another one.
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -1348,27 +779,19 @@ Animation
 AnimationList
 AnimationSystemUtils_001
 AnimationSystem_001
-Annotation
 April
 AssertMsg_ConditionFailed
 AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
-Assigned %d clusters in %.2f seconds
+Assigned %d clusters in %.2f seconds\n
 August
-AuthE
 AutoLayer
 AxialRays
-B(A9A
-B(A9C
-B(I9A(
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
-BPH+P(
-BPH+P(I
-BT$0H
+B\vp\nP
 BackUp() can only be called after a successful Next().
 Bad dynamic_cast!
 Bad header (unrecognized encoding specifier)
@@ -1392,10 +815,8 @@ BakedLightingInfo_t
 BaseIKRig
 BasePhysicsShape
 BaseSceneObjectOverride_t
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
@@ -1403,45 +824,22 @@ BlendLayerPoseParam
 BlendList
 BodyGroup
 BodyGroupChoice
+Bone
 BoneOverride_t
 Boolean default must be true or false.
-Border adapted regions
+Border adapted regions\n
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-Building map visibility
-Building view cells
-Built %s clusters in %.1fs
+Building map visibility\n
+Built %s clusters in %.1fs\n
 Bvmdlkeys0
-BxHcxP
 Byte size calculation and serialization were inconsistent.  This may indicate a bug in protocol buffers or it may be caused by concurrent modification of 
-C 9~ ~7H
-C H+C
-C(9C0I
-C(I;A
-C(kV hI
-C-yh/
-C0I;A
-C4;C8}
-C5R?	
-C847u
-C8<(u
-C8D8t$8t?@
-C8H!o
-C8H+C0H
-C8f+M`f
-C8fA+
-C@9E }
-CA< t(<#t
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
 CAuthPhysJoint
-CD$8@
-CD$hH
-CD$pH
-CD$xH
 CEntityIndex
-CEntityMsg
 CGlobalConfigValueRegistry::HookUpConfigValue
 CHECK failed: !coded_out.HadError(): 
 CHECK failed: !descriptor_: 
@@ -1504,35 +902,26 @@ CHECK failed: target_ != NULL:
 CHECK failed: this == other_mutator: 
 CHECK failed: trees: 
 CHECK failed: uninterpreted_options_field != NULL: 
-CHHcL
 CKV3FormatManager::RegisterFormatConversion
-CL$`H
 CL:>8
 CLOSRayGenerator
 CMemAllocSystemInitialize
 CMsgPlayerInfo
-CMsgQAngle
 CMsgRGBA
-CMsgVector
-CMsgVector2D
-CMsg_CVars
 CNETMsg_Disconnect
-CNETMsg_NOP"'
 CNETMsg_SetConVar
 CNETMsg_SignonState
 CNETMsg_SpawnGroup_Load
 CNETMsg_SpawnGroup_Unload
 CNETMsg_SplitScreenUser
 CNETMsg_StringCmd
-CNETMsg_Tick
 COLLISION_MODE_INITIAL_TRACE_DOWN
 COLLISION_MODE_PER_FRAME_PLANESET
 COLLISION_MODE_PER_PARTICLE_TRACE
 COLLISION_MODE_USE_NEAREST_TRACE
 COLORCORRECTION_VERSION_1
+CORD
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
-CPH+H(
-CPH+X(
 CPPTYPE_BOOL
 CPPTYPE_DOUBLE
 CPPTYPE_ENUM
@@ -1544,6 +933,7 @@ CPPTYPE_STRING
 CPPTYPE_UINT32
 CPPTYPE_UINT64
 CParticleSystemDefinition
+CProtobufLogHandler::LogHandler
 CRenderBufferBinding
 CResourceCompilerMapVisibility::LoadRTE
 CSVCMsgList_GameEvents
@@ -1554,15 +944,10 @@ CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
 CStrongHandle
 CStrongHandleCopyable
-CT$@H
-CT$XH
-CT$`H
-CT$hH
-CT$xD
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTSQueue<class CRayList *,0>::CTSQueue
@@ -1570,13 +955,13 @@ CTSQueue<class CRayList *,0>::Push
 CThreadedJob
 CTransform
 CType
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<class CVectorPair,int>::ChangeSize
 CUtlBlockMemory<class Vector2D,int>::ChangeSize
 CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CUtlString
 CUtlString::FormatV
@@ -1584,11 +969,10 @@ CUtlStringToken
 CUtlSymbol
 CUtlSymbolLarge
 CUtlVector
+CVar
 CVisBuilder::Build
 CVoxelVisibility
 CWD>~3
-CX9CHu
-CX;C |
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -1674,8 +1058,6 @@ C_OP_SetSingleControlPointPosition
 C_OP_StopAfterCPDuration
 C_OP_TwistAroundAxis
 C_OP_WorldTraceConstraint
-C`9C(u^
-C`H+CXH
 Call set methods to initialize MapKey.
 Can't 
 Can't get here.
@@ -1686,7 +1068,6 @@ Cannot get here
 Cannot register same format from/to a KV3 conversion (from '%s' to '%s')
 Cannot save KV3 text to a non-text buffer!
 Cannot save as KV3_FORMAT_LOAD_WITH_NO_UPCONVERSION.
-Ch9C,uVH
 ClearField
 CloseHandle
 CloseThreadpoolTimer
@@ -1702,12 +1083,12 @@ CommandProcedure
 CommandProcedureList
 CompareStringEx
 CompareStringW
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
-Convert RTE with %d triangles in %.2fs
+Convert RTE with %d triangles in %.2fs\n
 Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
 CorExitProcess
 Could not create an instance of 
@@ -1724,258 +1105,9 @@ CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
 CreateThreadpoolWork
-Ct$0H
 Cycle or diamond double-reference to '%s'
 CycleOverride
-D W?{W
-D#J$A
-D$ !>;
-D$ 9D$ H
-D$ D9A
-D$ E3
-D$ H;
-D$ Hc
-D$ I;
-D$ L+
-D$ N&B:H
-D$ P-
-D$ d=
-D$ fH
-D$ fI
-D$ r|
-D$()L$0
-D$(;SP~
-D$(@8;t
-D$(A;
-D$(D;
-D$(E3
-D$(H99u 
-D$(H;
-D$(Hc
-D$(I;G
-D$(u$
-D$,A;
-D$0+D$`
-D$0D8
-D$0E3
-D$0H#
-D$0H+
-D$0H;
-D$0H;C
-D$0HcF8
-D$0HcH
-D$0I;
-D$0Ic
-D$0mp
-D$0r|
-D$0t7
-D$0t?
-D$49C
-D$8@8xBu
-D$8A;
-D$8D8
-D$8H;
-D$8H;D$8
-D$8HcJ
-D$8I;
-D$8L+
-D$8L9
-D$8L;
-D$8L;E
-D$8VBKV
-D$8fH
-D$8r|
-D$8sDE
-D$<9T$0wE9T$4w?9T$8w9;
-D$@;D$8
-D$@A+
-D$@A;|$
-D$@E3
-D$@H+
-D$@H+D$8H
-D$@H9
-D$@H;
-D$@H;C
-D$@H;G
-D$@H=
-D$@I;
-D$@L+
-D$@L;D$Hu
-D$@fA
-D$@mp
-D$@r|
-D$D+D$T
-D$D+D$THc
-D$DA+
-D$H=@B
-D$HE3
-D$HH+
-D$HH;
-D$HL+
-D$HL;
-D$P I
-D$P"ZF
-D$P;Fpu
-D$PE3
-D$PH+
-D$PH;
-D$PH;F
-D$PI;
-D$PL;
-D$PL;D$Xu
-D$Pk@_aH
-D$Pmp
-D$XA+
-D$XD8p
-D$XD90}
-D$XH;
-D$XIc
-D$XJc
-D$XL;
-D$XfD
-D$`;XtL
-D$`@2
-D$`A;
-D$`D;Kh}M
-D$`E#
-D$`E3
-D$`H+D$XH
-D$`H;
-D$`Hc
-D$`Ic
-D$`L;
-D$`Ll
-D$`M+
-D$`r|
-D$hA+
-D$hA;HxI
-D$hE3
-D$hH+
-D$hH;
-D$hHc
-D$hIc
-D$hL;
-D$hMc
-D$p 69
-D$p9y0
-D$p;A0
-D$p<L{
-D$pH+
-D$pH;GHu
-D$pHK8
-D$pL;
-D$pM;
-D$tE3
-D$x*>
-D$xE+
-D$xE3
-D$xH+
-D$xL+
-D+L$`f
-D08@t	
-D18 t
-D7\A9|3
-D8*u A
-D8-"6
-D8-#9
-D8-$8
-D8-$;
-D8-%2
-D8-%:
-D8-&5
-D8-&<
-D8-(*
-D8-*4
-D8-+7
-D8-1+
-D8-3=
-D8-5E
-D8-6>
-D8-8?
-D8-9A
-D8-:,
-D8-:@
-D8-<B
-D8-FC
-D8-G-
-D8-X.
-D8-a/
-D8-bD
-D8-q)
-D8-q2
-D8-s3
-D8-u0
-D8-u1
-D8-x6
-D8-y9
-D8-z8
-D8-z;
-D8-{:
-D8-|5
-D8-~*
-D8-~7
-D82u&H
-D8d$H
-D8d$Ht
-D8d$ht
-D8i*t E
-D8l$ht
-D8t$Ht
-D8x)u#H
-D8x)u%A
-D8y*t
-D9	~SE
-D9	~UE
-D9	~rE3
-D9	~sE
-D9	~uE
-D9&~2
-D9,2H
-D9@ }
-D9A }
-D9C0~+f
-D9c t
-D9c,~1
-D9d$P
-D9|$ 
-D9|$0
-D9}osA
-D;B }
-D;BDI
-D;C }
-D;C }JH
-D;C0|
-D;D$<u
-D;JD}!fff
-D;K0r
-D;L$`~!Hc
-D;L$d~
-D;L$l~
-D;L$t~ZH
-D;O`r
-D;S`u
-D;c u
-D;c(u
-D;d$P
-D;o(u
-D;s u
-D;s8}
-D;t$(r
-D;t$Hu
-D;t$P
-D;t$x~1
-D;w H
-D;w u
-D;w$|
-D;w(|
-D;|$l
-D;}PI
-D;}`u
-D<P0I
-DD$$H
-DD$(H
 DEFAULT_WRITE_PATH
-D\$0H
 DebugTextureInfo001
 December
 DecodePointer
@@ -1987,45 +1119,20 @@ DeleteCriticalSection
 DescriptorProto
 DescriptorProtosH
 DestroyThreadPool
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DotaCardGameClient_001
 Double-register of KV3 conversion (from '%s' to '%s')
 Double-save to Member '%s'
 DynamicConfigList
-E @8xHt
-E H;C
-E+BHI
-E.E;fx
-E0C07
-E0HcH
-E0Ic}0Lc
-E0Lcx
-E0f!H
-E8,$t
-E9A(|
-E;Fl|
-E;t7 u
-E;}P}
-E;}`u
-E;~(H
-E;~,}5
-E;~hL
 E>nEA
-ED$(H
 ENetworkDisconnectionReason
-EP*?@
-EP;Cpu
-EPH+h(H
 ERROR
-EX;Pxr
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
+E[\rn?gc
+E\n NETWORK_DISCONNECT_REJECT_BANNED
 EconItemToolModel_001
 EditorDynamicConfig
+EiUL
 EmptyAnim
 EncodePointer
 End-of-file inside block comment.
@@ -2043,15 +1150,12 @@ EnumReservedRange
 EnumValueDescriptorProto
 EnumValueOptions
 Enums must contain at least one value.
-EoA;Hh|
-EoHcHh
-Error loading %s!
+Error loading %s!\n
 Error parsing text-format 
 Error while parsing option value for "
-Error: %s loading vis config!
-Et$hL
+Error: %s loading vis config!\n
 EventSystem001
-Ex9HHtRA
+Exceeded maximum protobuf size of 2GB: 
 ExitProcess
 Expanded map entry type 
 Expect a decimal number, got: 
@@ -2099,26 +1203,20 @@ Extensions in proto3 are only allowed for defining options.
 Extensions of MessageSets must be optional messages.
 Extensions to non-lite types can only be declared in non-lite files.  Note that you cannot extend a non-lite type to contain a lite type, but the reverse is allowed.
 ExtraVertexStreamOverride_t
-F 9C@|
-F A9D$@|
-F HcN
-F-enable_2gb_morphs
-F8HcN0H
 F>qUxv
 FATAL
-FATAL ERROR: unable to register all schema data: %s
-FI	N(H
-FK	N(H
-FL	N(H
-FP	N(H
-FPH;C
+FATAL ERROR: unable to register all schema data: %s\n
+FEMh\f
+F\n%NETWORK_DISCONNECT_DISCONNECT_BY_USER
+F\n\foptimize_for
 Failed to assign bool literal value
-Failed to read %s
+Failed to read %s\n
 Failed to save unsupported class
-Failed to unserialize ray tracing environment.
-Failed to write %d LOS hints in file %s!
+Failed to unserialize ray tracing environment.\n
+Failed to write %d LOS hints in file %s!\n
 False
 February
+FfW?
 Field "
 Field "$0" uses reserved number $1.
 Field does not match message type.
@@ -2170,28 +1268,13 @@ FreeEnvironmentStringsW
 FreeLibrary
 FreeLibraryWhenCallbackReturns
 Friday
-G 9F |
-G HcO
-G t/J
-G(?t	3
-G0Hc	H
-G8fD;\
-GD$8H
-GD$8I
-GEOVH
-GPH+H(
-GPH+x(H
-GPH9L
-GPIcM 
-GT$XH
-G\$hH
+G>US
+GCTL
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
 GeneratedCodeInfo
 GenericGameData
-Genu3
-GeoViewBH
 GetACP
 GetBool
 GetCPInfo
@@ -2248,190 +1331,15 @@ GetSystemTimePreciseAsFileTime
 GetTickCount64
 GetUInt32
 GetUInt64
-GhiQ 
+Google.Protobuf.Reflection
 Groups are not supported in proto3 syntax.
-G|$8H
-G|3F|%
-H 8YK
-H 8YKt
-H D8iKt
-H D8qKt
-H UVAUAVH
-H!D$ E
-H!T$0D
-H#V0H
-H#W0H
-H+H0H
-H+H0I
-H+P0H
-H+Q(H
-H+Q0H
-H+\$h+
-H+\$hIc<$H
-H+p0H
-H+x8H
-H+x@H
-H+xhH
-H+xpH
-H0F08
-H0Jc<!H
-H0Lc$1H
-H92u&
-H92u'
-H92u,
-H97t<
-H9;uAA
-H9C s(H
-H9CPu H
-H9D$ 
-H9D$PuCI
-H9H s*
-H9P A
-H9Q s
-H9Z s
-H9\$8t
-H9\$p
-H9\$pu
-H9k0u
-H9kPu H
-H9n u
-H9n(u
-H9n0u
-H9n8u
-H9nPu
-H9o u
-H9o0u
-H9o`u
-H9ohu
-H9uot	H
-H9} H
-H;0u7
-H;D$8t^H
-H;D$Pu
-H;D$`
-H;G@u
-H;H s
-H;L$pv
-H;P A
-H;S s>H
-H;S sDH
-H;X s
-H;XXs
-H;\$(u
-H;\$8tTH
-H;\$8t[H
-H;\$P|
-H;\$`uAE9
-H;\$p@
-H;xXu9
-H;|$8I
-HA\^][
-HA^A]A\^
-HA^^][
-HA_A\
-HA_A]A\_^[
-HA_A^A\[
-HA_A^_^][
-HD9JD}
-HD9KD}
-HDA9HD}
-HDA9KD}
 HH:mm:ss
-HPL+A(
-H[><y5
-H_^][
-H_^][H
 HammerMapLoader001
 HasField
-Hc.;n
-Hc/;o
-Hc3D8k
-Hc;;{
-HcA E3
-HcA,A
-HcAxE3
-HcC H
-HcC,H
-HcC8A
-HcC8H
-HcC@=
-HcCPL
-HcD$ H
-HcD$0Hi
-HcD$`H
-HcD$dH;
-HcD$dI;
-HcD$lI;
-HcD$tI;
-HcF8A
-HcG(H
-HcG8H
-HcG<H
-HcGPH
-HcGxH
-HcH<H
-HcK ;
-HcK H
-HcK8A
-HcK8H
-HcKPH
-HcKx;
-HcL$ H
-HcL$P;
-HcL$dH
-HcM H
-HcN H
-HcN L
-HcOhH
-HcPhI
-HcS@H
-HcS@I
-HcT$$
-HcW`E3
-Hc\$0
-Hc\$@;\$Pu
-Hc\$`I;
-Hc\$lD
-Hc\$tI
-Hc\$tL
-Hc]`M
-Hc^`;^pu
-Hc_xHcOp;
-HckHL
-HckPH
-Hco H
-HcoPL
-Hcp H
-Hcs$H
-Hcs0;s@u
-Hcs`Hc
-Hct$ H
-Hct$$I;
-Hct$,I;
-Hct$0
-Hct$tH
-Hcu8A
-Hcw I
-Hcw0H
-HcwPH
-Hc{`;{pu
 HelpSystem_001
 Hex and octal numbers must be integers.
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
-I A+I
-I96t4H
-I9HPt
-I9IPt
-I9P s
-I9q sEI
-I9}(t9H
-I;\$ t
-I;^hu
-I;q s?I
 IDEMPOTENCY_UNKNOWN
-IDEMPOTENT
 IKChain
 IKChainOld
 IKData
@@ -2440,22 +1348,20 @@ IKRigBiped
 IKRigBug
 IKRigSimple
 IND)ind)
+INFO
 INITY
 INVALID_CPPTYPE
 IQuickTime001
-Ic4$A;t$
-IcE8A
-IcM I
-IcM8I
-Ic]PA
-Ic]x3
+I\n NETWORK_DISCONNECT_STEAM_DROPPED
+I\n$NETWORK_DISCONNECT_STEAM_VACBANSTATE
+I\n%NETWORK_DISCONNECT_REJECT_HIDDEN_GAME
 IdempotencyLevel
 IkLockLocal
 Il?333333c?
 Illegal jstype for int64, uint64, sint64, fixed64 or sfixed64 field: 
 Import 
 Import "
-Increased LOS limit for debugging!
+Increased LOS limit for debugging!\n
 Index out-of-bounds (field is empty).
 InfoForResourceTypeCEntityLump
 InfoForResourceTypeCModel
@@ -2476,7 +1382,7 @@ InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
 Integer out of range (
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 Interpreting non ascii codepoint %d.
 Invalid compressed buffer size
@@ -2504,173 +1410,23 @@ InvokeMiniDumpHandler
 IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
-J H+J
-JD9KD|
 JSType
+J\n NETWORK_DISCONNECT_SNAPSHOTERROR
+J\n'NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
 January
-K H+K
-K&>.yC
-K8+C$
-K8;K0r
-K8H+K0H
-K@H+K8H
-KDD;ID}
+July
+June
 KERNEL32.dll
-KLc;L
+KL2H
+K\n!NETWORK_DISCONNECT_INTERNAL_ERROR
+K\n#NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+K\n$NETWORK_DISCONNECT_STEAM_AUTHINVALID
+K\n'NETWORK_DISCONNECT_CLIENT_DIFFERENT_MAP
 Key in map fields cannot be enum types.
 Key in map fields cannot be float/double, bytes or message types.
 KeyValueCache001
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L#Q0L
-L$ 9D$ H
-L$ D8I	tQ
-L$ Ic
-L$ SH
-L$ SUVWH
-L$ SVWH
-L$ UAVAWH
-L$ USWATAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$"fD
-L$$;o
-L$&@8t$&t0@8q
-L$(H+
-L$(H3
-L$(H;
-L$(H=
-L$(L9
-L$(Lc
-L$(fH
-L$0E3
-L$0H3
-L$0H9T$0H
-L$0H;
-L$0H=
-L$0Hc
-L$0I9HPt
-L$0I;
-L$0Ic
-L$0L+
-L$0M;
-L$0fH
-L$0fI
-L$0tBH
-L$0u2
-L$2uw
-L$4E3
-L$8+E$Hc
-L$8E3
-L$8H+
-L$8H3
-L$8H=
-L$8HcC8
-L$8I9HPt
-L$8Ic
-L$8Lc
-L$8M;
-L$@;|
-L$@E3
-L$@H+L$8H
-L$@H3
-L$@H;
-L$@H=
-L$@L#
-L$@Lc
-L$@LcD$0K
-L$@uGfH
-L$@uU
-L$D;L$T
-L$DE3
-L$HD;
-L$HH3
-L$HH=
-L$HI;
-L$HM;
-L$LD;|
-L$LfD
-L$P+L$8
-L$P+L$H
-L$PE3
-L$PH3
-L$PH;
-L$PH=
-L$PI;
-L$XE3
-L$XH+
-L$XH3
-L$XH;
-L$XH=
-L$XL+
-L$`9Y ~S3
-L$`9Y8~O3
-L$`9YP~S3
-L$`9Yh~B3
-L$`;Y |
-L$`;Y8|
-L$`;YP|
-L$`;Yh|
-L$`;{h|
-L$`;{pL
-L$`;{x|
-L$`;{||
-L$`A+
-L$`A8
-L$`A9
-L$`H+
-L$`H+L$XH
-L$`H3
-L$`H;
-L$`H=
-L$`L;
-L$dA+
-L$h9Kt
-L$h9Yh
-L$hD;Ax
-L$hE3
-L$hH+
-L$hH3
-L$hH=
-L$hL+
-L$pE3
-L$pE;
-L$pE;l7
-L$pH3
-L$pH=
-L$tHc
-L$x;whL
-L$xAi	
-L$xH3
-L$xH;
-L$xH=
-L$xIc
-L+@0H
-L+@0I
-L+A0I
-L+H0I
-L+P0H
-L9B s
-L9J s
-L9`8tA
-L9d$ A
-L9m(t	H
-L9mot	H
-L9ugt	H
-L9v0u
-L9v8u
-L9w u
-L9w(u
-L; u8
-L; u9H
-L;!u8
-L;9u;
-L;@ s
-L;D$8L
-L;H s
-L;R s
+L>ev
 L?UUUUUUU?
 L?fff?w
 LABEL_OPTIONAL
@@ -2678,28 +1434,15 @@ LABEL_REPEATED
 LABEL_REQUIRED
 LCMapStringEx
 LCMapStringW
-LITE_RUNTIME
 LOG_GENERAL
+LWG>
+LWW>
+L\n!NETWORK_DISCONNECT_HLTVRESTRICTED
+L\n!NETWORK_DISCONNECT_LOOPDEACTIVATE
 Label
-Lc3D;s
-Lc6D;v
-Lc7A+
-LcA<E3
-LcC$H
-LcCPH
-LcG0H
-LcO0fff
-Lcl$ A
-Lcs H
-Lcs M
-Lct$ H
-Lct$$I;
-Lcv D;v$
-Lcw`D;wpu
-Lc}PI
-Leaked %d batches!
+Leaked %d batches!\n
 LeaveCriticalSection
-Level geo input to VIS
+Level geo input to VIS\n
 LightDesc_t
 LightSourceShape_t
 LightType_t
@@ -2708,10 +1451,8 @@ Line %d: %s
 Line %d: Invalid literal value "%s"
 Line %d: Invalid value "%s"
 LinearDelta
-Lj[;>
 LoadLibraryExW
-Loaded %d LOS hints from %s! (%.1f seconds)
-Loading kd-trees
+Loaded %d LOS hints from %s! (%.1f seconds)\n
 LocaleNameToLCID
 Localize_001
 Location
@@ -2720,16 +1461,18 @@ LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-M H1E
-M#A0I
-M#~0I
-M9f(u
 MATCHFRAMEWORK_001
-MLc3D;s
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
-Map has %s (%s max) lines of sight
+M\n"NETWORK_DISCONNECT_SERVER_SHUTDOWN
+M\n"NETWORK_DISCONNECT_STEAM_DENY_MISC
+M\n"NETWORK_DISCONNECT_STEAM_OWNERSHIP
+M\n$NETWORK_DISCONNECT_REJECT_SERVERFULL
+M\n&NETWORK_DISCONNECT_STEAM_AUTHCANCELLED
+M\n'NETWORK_DISCONNECT_REJECT_SINGLE_PLAYER
+M\n(NETWORK_DISCONNECT_SERVER_REQUIRES_STEAM
+Map has %s (%s max) lines of sight\nTruncating debug lines of sight!, this will affect debug tools.\n
 MapBuilder
 MapKey::GetBoolValue
 MapKey::GetInt32Value
@@ -2755,14 +1498,10 @@ March
 MaterialOverride_t
 MaterialUtils_001
 MathLib_Init
-Mc>E;~
-Mc>Hc
-McEPI
-Mcl$X3
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 Merge vis clusters:
-Merged to %s clusters in %.1fs (%.1fs recompute, %d passes)
+Merged to %s clusters in %.1fs (%.1fs recompute, %d passes)\n
 MeshDrawPrimitiveFlags_t
 MeshSystem001
 MeshUtils001
@@ -2776,11 +1515,9 @@ Messages can't have default values!
 Messages can't have default values.
 MethodDescriptorProto
 MethodOptions
-MhD9$
 Missing field: FileDescriptorProto.name.
 Missing file '%s'
 Missing name.
-MoD;Al|
 ModelDocUtils001
 Monday
 MultiByteToWideChar
@@ -2789,13 +1526,9 @@ MutableMessage
 MutableRawRepeatedField
 MutableRepeatedMessage
 MutualVisibilityMatrix
-N t	H
-N t&H
-N&B:H
-N0+V8
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
 NETWORK_DISCONNECT_BADDELTATICK
@@ -2825,10 +1558,11 @@ NETWORK_DISCONNECT_STEAM_TICKET
 NETWORK_DISCONNECT_TIMEDOUT
 NETWORK_DISCONNECT_UNUSUAL
 NETWORK_DISCONNECT_USERCMD
-NET_Messages
-NH+VP
 NO_SIDE_EFFECTS
-N`+Vh
+NQ?s
+NULL
+N\n"NETWORK_DISCONNECT_HLTVUNAVAILABLE
+N\n#NETWORK_DISCONNECT_REJECTED_BY_GAME
 NamePart
 NavSystem001
 Need space between identifier and decimal point.
@@ -2844,7 +1578,7 @@ Newline in string literal
 No Buffer
 No default value
 No field named "uninterpreted_option" in the Options proto.
-No triangles found to compute visibility
+No triangles found to compute visibility\n
 No valid format conversion from '%s' to '%s'
 NoPoseControl
 NodeData_t
@@ -2854,15 +1588,9 @@ Non-repeated field "
 Not implemented field number 
 Not implemented.
 Note that enum values use C++ scoping rules, meaning that enum values are siblings of their type, not children of it.  Therefore, "
-Note, removing %u lines of sight, too much memory! (was %s, use -debuglos to preserve more of these for debugging)
+Note, removing %u lines of sight, too much memory! (was %s, use -debuglos to preserve more of these for debugging)\n
 November
 Numbers starting with leading zero must be in octal.
-O t	H
-O t&H
-O(t(H
-O0+W8
-O0HcQ
-O8+G$
 OBJECT_TYPE_BLOCK_LIGHT
 OBJECT_TYPE_DECAL
 OBJECT_TYPE_DISABLED_IN_LOW_QUALITY
@@ -2875,38 +1603,34 @@ OBJECT_TYPE_PRECOMPUTED_VISMEMBERS
 OBJECT_TYPE_RENDER_TO_CUBEMAPS
 OBJECT_TYPE_RENDER_WITH_DYNAMIC
 OBJECT_TYPE_WORLDSPACE_TEXURE_BLEND
-OF>;^
-OH+WP
-O`+Wh
+OZQ%
+O\n%NETWORK_DISCONNECT_REJECT_BADPASSWORD
+O\n%NETWORK_DISCONNECT_REJECT_LANRESTRICT
+O\n%NETWORK_DISCONNECT_REJECT_NEWPROTOCOL
+O\n%NETWORK_DISCONNECT_REJECT_OLDPROTOCOL
+O\n%NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
+O\n(NETWORK_DISCONNECT_REJECT_BACKGROUND_MAP
+O\n(NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED
+O\n\nAnnotation
 ObjectTypeFlags_t
 October
 Offset
 Oneof must have at least one field.
 OneofDescriptorProto
 OneofOptions
-OptimizeMode
 Option "
 Option field "
 Option must have a name.
 Option must not use reserved name "uninterpreted_option".
 Options could not be fully parsed using the proto descriptors compiled into this binary. Missing required fields: 
-Ordered constructor wrapped type has no default constructor.
-Outside detection took %.2f seconds
-P>q_Y~
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
+Outside detection took %.2f seconds\n
 PARALLEL_PROCESS CVisibilitySampler::FastMergeClustersUntil(), c:\buildslave\hlvr_rel_win64\build\src\utils\visbuilder\vis2.cpp:2140
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA^^]
-PA^_]
-PA^_^
-PA^_^][
-PA_A^A]A\_^[
-PA_A^A]A\_^]
-PA_A^_^]
-PE;~0|
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -2916,16 +1640,17 @@ PF_TYPE_CONTROL_POINT_COMPONENT
 PF_TYPE_LITERAL
 PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
-PI;\$ u
 PLACEHOLDER_VALUE
 PVEC_TYPE_LITERAL
 PVEC_TYPE_LITERAL_COLOR
-P`@8|$PtDA
+P\n#NETWORK_DISCONNECT_BADRELAYPASSWORD
+P\n#NETWORK_DISCONNECT_RELIABLEOVERFLOW
+P\n#NETWORK_DISCONNECT_SNAPSHOTOVERFLOW
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 ParticleSystemMgr003
-Partitioned into %d islands
+Partitioned into %d islands\n
 Physics
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
@@ -2954,6 +1679,7 @@ Plat_TickDiffMilliSec
 Plat_TickDiffSecF
 Plat_UUIDFromString
 Plat_UUIDToString
+Po5H
 PostProcessingSystem_001
 PreviewAttachmentModel
 PreviewBoneAttachedModel
@@ -2962,21 +1688,24 @@ PreviewPreset
 PreviewPresetList
 PropertyEditorSystem_001
 Proto type 
-Protocol Buffer map usage error:
-Protocol Buffer reflection usage error:
+Protobuf: %s(%d): %s\n
+Protocol Buffer map usage error:\n
+Protocol Buffer reflection usage error:\n  Method      : google::protobuf::Reflection::
 Protocol message could not be serialized.
 Protocol message serialized itself in invalid fashion.
-Q LcI
-Q(9Q0A
-Q0HcAP
 Q5rHg,>
+QAf?
 QAngle
-QDA9PD}5O
+Q\n&NETWORK_DISCONNECT_REJECT_BADCHALLENGE
+Q\n&NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+Q\n*NETWORK_DISCONNECT_CLIENT_CONSISTENCY_FAIL
+Q\n+NETWORK_DISCONNECT_CLIENT_UNABLE_TO_CRC_MAP
+Q\n,NETWORK_DISCONNECT_REJECT_SERVERAUTHDISABLED
 Quaternion
 QueryPerformanceCounter
-Queue drained to %d!!! %d completed %d processed %ums (%d were queued)
+Queue drained to %d!!! %d completed %d processed %ums (%d were queued)\n
 QueuedLoaderVersion001
-R0fff
+RSDS
 RadianEuler
 RaiseException
 RandomFloat
@@ -2988,7 +1717,7 @@ RayTracingEnvironment::RefineNodeJob
 Reached an unintended state: CPPTYPE_MESSAGE
 Reached impossible case in HasBit().
 Region %d / cluster %d not in list: [
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Release
 ReleaseLast
@@ -2996,7 +1725,7 @@ ReleaseMessage
 ReleaseSRWLockExclusive
 RemoveBoneAndChildren
 RemoveLast
-Removed %s bytes from tree structure
+Removed %s bytes from tree structure\n
 RenderDevice003
 RenderDeviceMgr001
 RenderHardwareConfig002
@@ -3011,7 +1740,6 @@ Required fields are not allowed in proto3.
 Reserved numbers must be positive integers.
 Reserved range $0 to $1 overlaps with already-defined range $2 to $3.
 Reserved range end number must be greater than start number.
-ReservedRange
 ResetEvent
 ResourceCompiler/VisBuilder/MaxVisClusters
 ResourceCompilerSystem001
@@ -3024,8 +1752,8 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S(IcH
-S,, <Zw
+S+Ot
+S9>H
 S>$hkDh$h>[2
 SNAN)
 SPAWN_GROUP_BLOCK_UNTIL_LOADED
@@ -3035,21 +1763,11 @@ SPAWN_GROUP_SYNCHRONOUS_SPAWN
 SPEED
 SSE and SSE2 are required.
 STRING
-STRING_PIECE
-SUAVH
-SUVWATAUAVAW
-SUVWATAUAVAWH
-SUVWATAVAWH
-SUVWATAWH
-SUVWAVAWH
-SUVWAWH
-SUVWH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATAVAWH
-SVWAVAWH
-SVWAVH
-SWAUAVH
+S\n!NETWORK_DISCONNECT_REMOTE_TIMEOUT
+S\n%NETWORK_DISCONNECT_CONNECTION_FAILURE
+S\n'NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+S\n'NETWORK_DISCONNECT_REJECT_FAILEDCHANNEL
+S\n,NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE
 Saturday
 SceneObject_t
 SceneSystem_002
@@ -3120,7 +1838,7 @@ Source2Server001
 Source2ServerSerializers002
 SourceCodeInfo
 SpawnGroupFlags_t
-Split %d outside regions into %d regions, passed through %d outside regions
+Split %d outside regions into %d regions, passed through %d outside regions\n
 Stack depth limit hit (%d)
 StartLoop
 StatsService_001
@@ -3130,87 +1848,19 @@ String literals cannot cross line boundaries.
 StringOutputStream.
 SubmitThreadpoolWork
 Subtract
-Successfully read %s
-Successfully unserialized ray tracing environment.
+Successfully read %s\n
+Successfully unserialized ray tracing environment.\n
 Sunday
-Sw[Hc
+Swap
 Symbol name "
-T$ +G$D
-T$ A;
-T$ E3
-T$ H+
-T$ H;
-T$ HcC8L
-T$ HcG8
-T$ Ic
-T$ L+
-T$ L;G
-T$ Lc
-T$$D9
-T$(E;
-T$(H;
-T$(L+
-T$(Lc3
-T$,A;
-T$09Q }
-T$0E3
-T$0H;
-T$0I;
-T$0L+
-T$0t?H
-T$0tuH
-T$4I+
-T$8+G$A
-T$8+G$H
-T$8A+
-T$8D;
-T$8D;s
-T$8D;t$(r
-T$<D;
-T$@+G$A
-T$@E3
-T$@H+
-T$@H;
-T$@tuH
-T$HE3
-T$PE3
-T$PH3
-T$PH;
-T$XH+
-T$XHcF8H
-T$XM+
-T$`;Kt
-T$`H;
-T$`fff
-T$`tuH
-T$hD;
-T$hE;
-T$lE;
-T$p;Bx
-T$pA;
-T$pD;
-T$pE3
-T$pE;
-T$xM+
+TEMP
 TUUUU
-TUUUUUU
-TYPE_BYTES
-TYPE_DOUBLE
-TYPE_FIXED32
-TYPE_FIXED64
-TYPE_FLOAT
-TYPE_GROUP
-TYPE_INT32
-TYPE_INT64
-TYPE_MESSAGE
-TYPE_SFIXED32
-TYPE_SFIXED64
-TYPE_SINT32
-TYPE_SINT64
-TYPE_STRING
-TYPE_UINT32
-TYPE_UINT64
-Target %d clusters, clamped to %d
+T\n%NETWORK_DISCONNECT_LOCALPROBLEM_OTHER
+T\n&NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
+T\n&NETWORK_DISCONNECT_MESSAGE_PARSE_ERROR
+T\n)NETWORK_DISCONNECT_REQUEST_HOSTSTATE_IDLE
+T\n+NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+Target %d clusters, clamped to %d\n
 TerminateProcess
 TestFormatA
 TestFormatB
@@ -3234,64 +1884,62 @@ TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
-Too many clusters (%s) at grid resolution %.0f, reducing resolution!
+Too many clusters (%s) at grid resolution %.0f, reducing resolution!\n
 ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-Traced %s rays in %.3f seconds [%s rays per second]
+Traced %s rays in %.3f seconds [%s rays per second]\n
 Trailing Data
 Tried to merge messages of different types 
+True
 Truncated data
-Truncating debug lines of sight!, this will affect debug tools.
 TryAcquireSRWLockExclusive
 Tuesday
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
+Type
 Type appears to be in generated pool but wasn't 
 Type is already registered: 
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google/protobuf/dynamic_message.h
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google/protobuf/map_field.h
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google/protobuf/map_field_inl.h
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google/protobuf/reflection_internal.h
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google/protobuf/stubs/logging.h
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\arena.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\descriptor.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\descriptor.pb.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\descriptor_database.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\dynamic_message.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\extension_set.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\extension_set_heavy.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\generated_message_reflection.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\generated_message_util.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\io\coded_stream.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\io\strtod.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\io\tokenizer.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\io\zero_copy_stream.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\io\zero_copy_stream_impl_lite.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\map_field.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\message.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\message_lite.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\reflection_ops.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\repeated_field.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\stubs\common.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\stubs\substitute.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\text_format.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\wire_format.cc
+U:\dev\source2\main\src\thirdparty\protobuf-3.5.1\src\google\protobuf\wire_format_lite.cc
 UA>N0Wl
-UATAUAVAWH
-UATAVH
-UATAWH
-UAUAWH
-UAVAWH
 UNKNOWN_ENUM_VALUE_%s_%d
 UPDATE_STRING_TOKEN_DATABASE
-USATAWH
-USAUH
-USVAUH
-USVWATAUAVAWH
-USVWATAVAWH
-USVWATH
-USVWAUAVAWH
-USVWAUAVH
-USVWAUAWH
-USVWAVAWH
-USVWAVAWI
-USVWAVH
-USVWAWH
-USVWH
-USWATAUAVH
-USWATAUH
-USWAUAVH
 UTF-8 data when 
 UUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVATAVAWH
-UVAUI
-UVAVH
-UVAWH
-UVWATAUAVAWH
-UVWAVAWH
-UVWAVH
-UWATAUAWH
-UWATAVAWH
-UWAUH
-UWAVH
-UWAWH
+U\n"NETWORK_DISCONNECT_REMOTE_BADCRYPT
+U\n&NETWORK_DISCONNECT_REPLAY_INCOMPATIBLE
+U\n&NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
+U\n&NETWORK_DISCONNECT_SERVER_INCOMPATIBLE
+U\n(NETWORK_DISCONNECT_REJECT_INVALIDCERTLEN
 Unable to determine buffer encoding.
 Unaccounted
 Unexpected end of file
@@ -3312,19 +1960,13 @@ Unsupported binary encoding id.
 Unsupported text encoding id.
 Unsupported: type mismatch
 UserInfoChangeService_001
-V.u}H
-V6E>`"(5
-VATAUH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDebugService_001
-VD|7L
 VEngineCvar007
 VFileSystem017
 VGUI_Input005
@@ -3353,17 +1995,8 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VUUUA
-VWATAUAVAWL
-VWATAUAVH
-VWATAUAWH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
-VXVSD
+V\n&NETWORK_DISCONNECT_PURESERVER_MISMATCH
+V\n'NETWORK_DISCONNECT_CREATE_SERVER_FAILED
 V_PrettifyMem
 V_PrettifyNum
 V_StringToVector
@@ -3405,28 +2038,19 @@ Value of type "
 Value out of range for int32 option "
 Value out of range for int64 option "
 Value out of range for uint32 option "
-Valve0
-Valve1
 Vector
 Vector2D
 Vector4D
 VectorAligned
 VisBuilder
 VisBuilder_001
-Visibility cannot be determined in this map, disabling PVS!
-Visibility complete in %.2fs.
-Voxel GeoView with %s nodes
-Voxelize (%.f units) took %.2f seconds (%s nodes)
-W(|9L
-W(|=L
-W@HcL
-W@|:L
+Visibility cannot be determined in this map, disabling PVS!\n
+Visibility complete in %.2fs.\n
+Voxel GeoView with %s nodes\n
+Voxelize (%.f units) took %.2f seconds (%s nodes)\n
 WARNING
-WATAUAVAW
-WATAUAVAWH
-WAVAWH
-WDA9PD}
-WE0L+
+W\n,NETWORK_DISCONNECT_REJECT_CONNECT_FROM_LOBBY
+W\n,NETWORK_DISCONNECT_REJECT_RESERVED_FOR_LOBBY
 WaNd?
 WaitForSingleObjectEx
 WaitForThreadpoolTimerCallbacks
@@ -3434,7 +2058,7 @@ WakeAllConditionVariable
 WakeConditionVariable
 Warning
 Warning parsing text-format 
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 Wednesday
 WeightList
 When enum name is stripped and label is PascalCased (
@@ -3448,107 +2072,136 @@ WorldRendererMgr001
 World_t
 WriteConsoleW
 WriteFile
-Wrote %d LOS hints for next time %s!
-Wrote merge clusters %d clusters, %d sets
-Wrote vis resource %s bytes
-Wu4E3
-XA]_^[
-XA^A]A\^][
-XA^A]_[
-XA_A^A]^][
-XA_A^][
-XPxHc
-XPxIc
-XRxHc	
-XT$@L
-X\$8H
-Y0HcR
+Wrote %d LOS hints for next time %s!\n
+Wrote merge clusters %d clusters, %d sets\n
+Wrote vis resource %s bytes\n
+X/4B
+X\n'NETWORK_DISCONNECT_BADSPECTATORPASSWORD
+X\n'NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
+X\n(NETWORK_DISCONNECT_INVALID_MESSAGE_ERROR
+Y8a:
 Y>kX>M
-YD$@f
-You must build with -world before you can build with -vis!  Couldn't find raytrace.rte
+Y\n)NETWORK_DISCONNECT_NO_PEER_GROUP_HANDLERS
+Y\n*NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+Y\n0NETWORK_DISCONNECT_REJECT_SERVERCDKEYAUTHINVALID
+You must build with -world before you can build with -vis!  Couldn't find raytrace.rte\n
+Z>github.com/golang/protobuf/protoc-gen-go/descriptor;descriptor
 Z\>z8
-Zod(^?
+Z\n(NETWORK_DISCONNECT_REMOTE_CERTNOTTRUSTED
+Z\n*NETWORK_DISCONNECT_REJECT_INVALIDKEYLENGTH
+Z\n+NETWORK_DISCONNECT_CONNECT_REQUEST_TIMEDOUT
 [*ncd>0
+[\n+NETWORK_DISCONNECT_REJECT_INVALIDCONNECTION
 [aOni*{
 [lazy = true] can only be specified for submessage fields.
+[libprotobuf %s %s:%d] %s\n
 [packed = true] can only be specified for repeated primitive fields.
-\$ ATAVAWH
-\$ E3
-\$ H;
-\$ Hi
-\$ Ic
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ VATAVH
-\$ VATAWH
-\$ VH
-\$ VWAVH
-\$ WH
-\$$9Y
-\$$H9Y
-\$$I;
-\$(E3
-\$(Hc|$ H
-\$(L#
-\$0).H
-\$09^,
-\$09^h
-\$0A8
-\$0D;
-\$0H;
-\$0Hc
-\$0L+
-\$0t0H
-\$4E9} 
-\$8A+
-\$8Hc
-\$8I9HPt
-\$8fD
-\$<A;
-\$@9\$8
-\$@9\$8~I
-\$@@8=}
-\$@H;
-\$@Hc
-\$D;\$H
-\$HHc
-\$Hta
-\$PA+
-\$PHc
-\$PI;
-\$XE2
-\$`A+
-\$`D;L$l~
-\$`H;\$h
-\$`Hk
-\$`L+
-\$`M+
-\$gm?
-\$hD;T$d~!Hc
-\$pD+
-\$pD;T$d~ Hc
-\$pI+
-\$pM;
-\$pff
-\$tD;
-\$xE3
-\D$PD
 \U%08x
-\\$PI
-\d$pA
-\t$`E
-\|$`D
-])6M>&
-]>)2X
+\\n)NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
+\\n*NETWORK_DISCONNECT_LOOP_LEVELLOAD_ACTIVATE
+\\n.NETWORK_DISCONNECT_REQUEST_HOSTSTATE_HLTVRELAY
+\fF-enable_2gb_morphs
+\n    Actual    : 
+\n    Field type: 
+\n  Field       : 
+\n  Message type: 
+\n  Problem     : 
+\n  Problem     : Enum value did not match field type:\n    Expected  : 
+\n  Problem     : Field is not the right type for this message:\n    Expected  : 
+\n CSVCMsg_GameSessionConfiguration
+\n google/protobuf/descriptor.proto
+\nBuilding view cells\n
+\nCwf\r
+\nLoading kd-trees\n
+\n\fCNETMsg_Tick
+\n\fFieldOptions
+\n\fLITE_RUNTIME
+\n\fNET_Messages
+\n\fSTRING_PIECE
+\n\fTYPE_FIXED32
+\n\fTYPE_FIXED64
+\n\fTYPE_MESSAGE
+\n\fdouble_value
+\n\fis_extension
+\n\fis_localonly
+\n\fjava_package
+\n\flandmarkname
+\n\fsavegamename
+\n\fsignon_state
+\n\fstring_value
+\n\fswift_prefix
+\n\fworldgroupid
+\n\nIDEMPOTENT
+\n\nTYPE_BYTES
+\n\nTYPE_FLOAT
+\n\nTYPE_GROUP
+\n\nTYPE_INT32
+\n\nTYPE_INT64
+\n\ndependency
+\n\ndeprecated
+\n\nevent_name
+\n\nfakeplayer
+\n\ngo_package
+\n\ninput_type
+\n\ns1_mapname
+\n\nval_string
+\n\nval_uint64
+\n\rMethodOptions
+\n\rTYPE_SFIXED32
+\n\rTYPE_SFIXED64
+\n\rdefault_value
+\n\ris_transition
+\n\rnet_SetConVar
+\n\rnet_StringCmd
+\n\rphp_namespace
+\n\rpreviouslevel
+\n\rreserved_name
+\n\rtarget_entity
+\n\rtick_interval
+\n\thost_loss
+\n\tjson_name
+\n\tmap_entry
+\n\tname_part
+\n\ttickcount
+\n\ttype_name
+\n\tval_float
+\n\tval_short
+\n\tworldname
+\n\vEnumOptions
+\n\vFileOptions
+\n\vTYPE_DOUBLE
+\n\vTYPE_SINT32
+\n\vTYPE_SINT64
+\n\vTYPE_STRING
+\n\vTYPE_UINT32
+\n\vTYPE_UINT64
+\n\vallow_alias
+\n\vis_headless
+\n\vmax_clients
+\n\voneof_index
+\n\voutput_type
+\n\vsource_file
+\n\vspawn_count
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\r\n\tCODE_SIZE
+\r\n\tJS_NORMAL
+\r\n\tJS_NUMBER
+\r\n\tJS_STRING
+\r\n\tTYPE_BOOL
+\r\n\tTYPE_ENUM
+\tcQr
+\tkE>fvw
+\vA03>A|
+]\n,NETWORK_DISCONNECT_REJECT_INVALIDRESERVATION
 ^<V7w
-^A(Lc
-^C(Lc
 ^RfN>
+^\n*NETWORK_DISCONNECT_LOCALPROBLEM_MANYRELAYS
 _V_strncmp
 _V_strncpy
+_\n,NETWORK_DISCONNECT_STEAM_DENY_BAD_ANTI_CHEAT
+_\n-NETWORK_DISCONNECT_REJECT_INVALIDSTEAMCERTLEN
 __based(
 __cdecl
 __clrcall
@@ -3565,20 +2218,7 @@ __unaligned
 __vectorcall
 _class
 _oD>Kg
-_pHc_`Hc
 _test_conversion_counter
-`+!]?
-`.rdata
-`A^][
-`A^^[
-`A^_^
-`A_A^A\^]
-`A_A^A]A\_[]
-`A_A^A]A\_^]
-`A_A^]
-`A_A^_^]
-`A__^][
-`D;]x|
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -3589,7 +2229,6 @@ _test_conversion_counter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -3615,7 +2254,7 @@ _test_conversion_counter
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
-a.umL
+a6>r
 abcdefghijklmnopqrstuvwxyz
 adapted.gl
 addons
@@ -3624,7 +2263,6 @@ address in use
 address not available
 aggregate_value
 ai_model_info
-allow_alias
 allowed in proto3.
 allowstatic
 already connected
@@ -3636,7 +2274,6 @@ anim_name_a
 anim_name_b
 animgraph0
 animgraph1
-annotation
 argument list too long
 argument out of domain
 attach
@@ -3648,8 +2285,9 @@ attenuation0
 attenuation1
 attenuation2
 auto_unragdoll_duration
-b?^Cy
 bUpdate
+b\fp\v0
+b\n,NETWORK_DISCONNECT_SPLITPACKET_SEND_OVERFLOW
 bad address
 bad allocation
 bad exception
@@ -3666,28 +2304,27 @@ binary_lz4
 blendamount
 blockLOS
 body_type
+bone
 bone_name
 bone_names
 bonemerge
+bool
 bouncecolor
 box_maxs
 box_mins
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
 broken pipe
+bt3V
 buffer. Use the 'bytes' type if you intend to send raw 
 burst_randomize
 burst_scale
 bytes
 bytes. 
-c [1>H'
-c(>\,
-c.tzI
-c0&>`
+c:\buildslave\hlvr_rel_win64\build\src\common\protobuf_helpers.cpp
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\kv3lib\kv3format_manager.cpp
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
@@ -3705,7 +2342,6 @@ c:\buildslave\hlvr_rel_win64\build\src\utils\visbuilder\Retail\win64\visbuilder.
 c:\buildslave\hlvr_rel_win64\build\src\utils\visbuilder\generated_proto\win64\networkbasetypes.pb.cc
 c:\buildslave\hlvr_rel_win64\build\src\utils\visbuilder\vis2.cpp
 c?FA@s}
-cAMDD
 cable
 can't reach here.
 cantdie
@@ -3724,6 +2360,7 @@ cloth_collision_layer3
 collision_group
 collision_prop
 color
+com.google.protobufB
 command
 composite
 connection aborted
@@ -3739,36 +2376,18 @@ cross device link
 csharp_namespace
 ctype
 cvars
-d$ Ic
-d$ UAVAWH
-d$(E3
-d$(H;
-d$8H+
-d$8I;
-d$8Lc;D;{
-d$P+A$t
-d$PD;
-d$PE9~0~QE3
-d$PH;
-d$XH91u 
-d$Xx*Hc
-d$hE2
-d$hE3
-d$hIc
-d$pI;
-d$tfff
+d8L2
 d?000000`?
+dRL>
+d\n-NETWORK_DISCONNECT_LOCALPROBLEM_NETWORKCONFIG
 damage
+data
 dddd, MMMM dd, yyyy
 debris
 debuglos
 default
-default_value
 delay
 delta
-delta_ignore
-dependency
-deprecated
 destination address required
 device or resource busy
 diff_encode_field
@@ -3781,29 +2400,26 @@ dmg.club
 dmg.explosive
 dmg.fire
 double
-double_value
 duration
 dynamic_interaction
 e+000
-e0A_A^A]A\]
-e8A_A^A]A\_^[]
+eF>t
 eLK(w
-effffff
 emitFromWorld
 enable_limit
 encoding
-entiA
 entityfiltername
 entitylumpname
+enum
 error
 event
 event_class
 event_keys
-event_name
 event_t
 eventid
 eventindex
 events
+exd+
 executable format error
 explosion_behavior
 explosion_buildup
@@ -3811,26 +2427,20 @@ explosion_delay
 explosion_type
 explosive_damage
 explosive_radius
-extend .$0 {
+extend .$0 {\n
 extendee
 extension_range
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fJBGo
+fD>b
+fWi?
 faceMergeAngle
-fakeplayer
 falloff
 false
 false"
-false:7
-false:=
+false:7\n
+false:=\n
 falseB
-fffff
-ffffff
-fffffff
 field
+file
 file exists
 file too large
 filename too long
@@ -3852,33 +2462,31 @@ g_Tier1_CRC32Table
 g_VProfCurrentProfile
 g_pMemAlloc
 g_pThreadPool
-g`;_pu
 game\
 game_class
 game_keys
 gamemode
 generic
-gfffA
-gfffE+
-gfffLc
-gfffM
-gfffffff
-gfffffffH
-gfffffffH+O
-gfffffffI
-gfffffffL
-gfffffffL+
-gfffffffM+
+glow
 glview
-go_package
+google.protobuf"G\n
+google.protobuf.
+google.protobuf.Any
+google.protobuf.Empty
+google.protobuf.EnumOptions
+google.protobuf.EnumValueOptions
+google.protobuf.FieldOptions
+google.protobuf.FileOptions
+google.protobuf.MessageOptions
+google.protobuf.MethodOptions
+google.protobuf.ServiceOptions
+google.protobuf.StreamOptions
+google/protobuf/descriptor.proto
 gravity
 group
-h(HcH
+h0'D
 h>1my
-hA^A\
-hA^_^]
-hA_A^A]A\_^][
-h_^][
+h\n,NETWORK_DISCONNECT_REMOTE_TIMEOUT_CONNECTING
 handindex
 headtype
 health
@@ -3889,13 +2497,8 @@ host_computationtime
 host_frametime
 host_frametime_std_deviation
 hostname
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
 idempotency_level
 identifier removed
 identifier_value
@@ -3903,11 +2506,9 @@ ikdata
 ikrig
 illegal byte sequence
 inappropriate io control operation
-ineIA
 infinity
 inity
 innerconeangle
-input_type
 inside.gl
 int32
 int64
@@ -3922,77 +2523,24 @@ io error
 is a directory
 is_background_map
 is_debris
-is_extension
-is_headless
 is_loadsavegame
-is_localonly
 is_multiplayer
-is_transition
 ishltv
-iu+-,
-j>>A?1
-j?V()
-j?{$*
 java_generate_equals_and_hash
 java_generic_services
 java_multiple_files
 java_outer_classname
-java_package
 java_string_check_utf8
 json_name = "
 jstype
 jstype is only allowed on int64, uint64, sint64, fixed64 or sfixed64 fields.
-k HcKX;
-k0i0$
-k@_aH
-kX;C8|
+k=yI
 key_t
-l$ 9Q
-l$ D9l$0|LH
-l$ E3
-l$ Hc~
-l$ Hk
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WAUAWH
-l$ WAVAWH
-l$ WH
-l$(;i
-l$(HcV
-l$0H+
-l$0Hc
-l$0HcA
-l$0Ic
-l$0Ic.
-l$0ff
-l$8Hc.H
-l$8t+H
-l$8t6
-l$@A9>~-Hcs0;s@u
-l$@H9^
-l$@Hc
-l$@L+q0I
-l$@L9!u"A
-l$HA_A^A]A\_^
-l$HfA
-l$PH;
-l$XA+
-l$XE3
-l$XJc
-l$XL+
-l$`L+
-l$`M;
-l$hL9jxu	
-l$pE3
-l$pHc)
-l$pI;
-l$xI;
-l$|D9o`vXfff
+keys
 label
-landmarkname
 last_sniff
+lazy
+lcQe
 leading_comments
 leading_detached_comments
 length
@@ -4006,12 +2554,16 @@ localnamefixup
 location
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 los_errors
-m0k0$
+m?H7
+mG4>
+mXr4
+m\nXo
 m_Attenuation0
 m_Attenuation1
 m_Attenuation2
@@ -4293,7 +2845,7 @@ maxHullVertices
 maxVerticesPerHull
 max_angle
 max_client_limit
-max_clients
+mesh
 meshUtilsKeyValues
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
@@ -4302,7 +2854,6 @@ meshes
 message
 message size
 message_set_wire_format
-message_type
 method
 min_angle
 min_client_limit
@@ -4342,16 +2893,16 @@ msg_type
 multiplayer_break
 n03>Pu
 nTries < 10000000
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
 nav_data
 negative_int_value
-nested_type
 net_Disconnect
 net_NOP
-net_SetConVar
 net_SignonState
 net_SpawnGroup_Load
 net_SpawnGroup_LoadCompleted
@@ -4359,13 +2910,12 @@ net_SpawnGroup_ManifestUpdate
 net_SpawnGroup_SetCreationTick
 net_SpawnGroup_Unload
 net_SplitScreenUser
-net_StringCmd
 net_Tick
 network down
 network reset
 network unreachable
 network_connection.proto
-network_connection.proto"-
+network_connection.proto"-\n\nCMsgVector
 network_connection_token
 networkbasetypes.proto
 no buffer space
@@ -4389,17 +2939,14 @@ not a stream
 not connected
 not enough memory
 not supported
-ntelE
+null
 num_server_players
 number
 numsegments
-oD$ H
+o?GS
 oI>O7
-oO0fI
 objc_class_prefix
 obwQ4
-oneof_decl
-oneof_index
 operation canceled
 operation in progress
 operation not permitted
@@ -4407,33 +2954,14 @@ operation not supported
 operation would block
 operator
 operator "" 
-optimize_for
 optional
 options
 origin
 origin_max_delta
 origin_relative
-ot$ H
 outerconeangle
-output_type
+owM&
 owner dead
-o|$0f
-p AWH
-p(|@L
-p0n05
-p1f3q>
-pA^^]
-pA^_^
-pA^_^[]
-pA^_^][
-pA_A^A\][
-pA_A^A\_^
-pA_A^A\_^[]
-pA_A^A\_^][
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_A^_^[
-p_^]H
 package
 packed
 parent_bone
@@ -4442,10 +2970,10 @@ parse
 parsing
 particle
 particles/
+path
 permission denied
 php_class_prefix
 php_generic_services
-php_namespace
 physgun_interactions
 physicsmode
 placement_attach
@@ -4461,7 +2989,6 @@ position
 positive_int_value
 precomputedmaxrange
 preferred_carryangles
-previouslevel
 priority
 prop_data
 proto
@@ -4473,20 +3000,8 @@ public_dependency
 purecall
 pvstype
 py_generic_services
-q.uEL
 qS>g?h3
-r	D;@(}
-r	Vr.>T
-r 9_ t
-r fff
-r!fff
-r"fff
-r$fff
-r%w#H
-r*w(H9{
-r:D8v
-rCwAH
-rFwDH
+r\tVr.>T
 radius
 radius0
 radius1
@@ -4502,7 +3017,6 @@ renderspecular
 rendertransmissive
 repeated
 required
-reserved_name
 reserved_range
 resource
 resource deadlock would occur
@@ -4510,26 +3024,8 @@ resource unavailable try again
 resourcesystem
 restrict(
 result out of range
-ri9V vdH
-rkwiH
 rootNode
-s HcC8H
-s"Hc}
-s$fff
-s&Hc}
-s&fff
-s1_mapname
-s3Lcc
-s4+sP+
-s8HcCP
-s8fff
-s:HcEp
-s:HcGP
-s<HcEl
-s@fff
-sPHcCh
 savegamefilename
-savegamename
 schema
 secondary
 sequence_name
@@ -4546,259 +3042,70 @@ shadowcascaderesolution%d
 shadowtextureheight
 shadowtexturewidth
 shapeType
-signon_state
 sint32
 sint64
+size
 size0
 size1
+slot
 snan)
 source_code_info
-source_file
 source_filename
-spawn_count
+span
 spawn_motion_disabled
 spawngrouphandle
 spawngroupmanifest
 spawngroupownerhandle
 spawngroupparenthandle
 speed
-stCD;
-stED;
-st`D;
 start
 state not recoverable
 steamid
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
 stream timeout
 string
 string too long
-string_value
 strings::Substitute format string invalid: asked for "$
 subtype mismatch
 suppress
 surface_prop
-swift_prefix
 syntax
-t	8XH
-t	9P A
-t HcS
-t!HcU ;
-t!IcM 
-t!IcM8
-t!IcUP
-t"<.u
-t"fff
-t#@8(t
-t$ @2
-t$ A;
-t$ AVH
-t$ AWH
-t$ E3
-t$ H+
-t$ H9qxt
-t$ HcA
-t$ HcA 
-t$ Mc
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ WATAUAVAWH
-t$ WATAWH
-t$ WAUAWH
-t$ WAVAWH
-t$ WH
-t$ fI
-t$$@8q@uPA
-t$$A+
-t$$E3
-t$$I;
-t$(E3
-t$(H+
-t$,A+
-t$0+A$t
-t$0D9t$@|LH
-t$0E3
-t$0H+
-t$0Hc2
-t$0Hi
-t$0Hk
-t$0I9HPt
-t$0tRH
-t$89~|~
-t$8E3
-t$8H+
-t$8Hk
-t$8Ic
-t$8Mc
-t$@H+
-t$@Hc
-t$@Ic
-t$DH;
-t$H;i
-t$HA9],
-t$HD8{
-t$HE3
-t$HHc
-t$HHc{`;{pu
-t$HHk
-t$HM;
-t$HcS
-t$Hff
-t$PA9],
-t$PE3
-t$PH+
-t$PH;
-t$Pff
-t$XE3
-t$`A+
-t$`D8
-t$`E3
-t$`Hc
-t$`I;
-t$hH9r u
-t$hff
-t$hfff
-t$pA+
-t$pE+
-t$pH+
-t$pH;
-t$pI;
-t$xA;
-t$xH;
-t'y*H
-t(A8(t
-t(Hc;;{
-t)y,L
-t*D8#t
-t*Hc]
-t*fff
-t+fff
-t-H9Bxt
-t.@8:t)
-t/D83t*
-t/HcV ;
-t0@87t+
-t0@8;t+
-t0D8;t+
-t0H9Bxt
-t1H9uxt
-t1HcG0
-t1y4H
-t2IcE
-t3HcG8H
-t3HcKx
-t4McF
-t5HcA
-t6HcO8
-t7HcA$H
-t7HcG A
-t8HcA
-t8HcG M
-t9H9=V
-t9IcA
-t:HcA
-t:HcG(
-t:HcG,
-t:HcG<
-t:IcA H
-t:IcA$H
-t<IcA H
-t=Hc/;o
-t=HcA
-t=HcG(H
-t>HcA H
-t?H9\$0u8H
-t?IcA
-tAHcAHA
-tBH;H
-tBHcA M
-tCHcP
-tFH9\$0u?L
-tGLcG
-tHIc/
-tIHcA
-tLHc>
-tPH95
-tRLcx|3
-tTHcA
-tVHc_0H
-tXKcD
-tXLcQ
-tY@8p
-t\LcFL
-t]<-u
-target_entity
 test_angles_relative
+text
 text file busy
 text format contains deprecated field "
 texturescale
 the actual field type (for enums T should be the generated enum 
 the global scope
-ti<	u#
-tick_interval
+tick
 tier0.dll
 timed out
 too many files open
 too many files open in system
 too many links
 too many symbolic link levels
-tpA8xBu
-trD8(tmH
 trailing_comments
-ttIcF
-tu+K$3
+true
 turn_rate
-tx<	u#
-txIcD7
+type
 type or int32).
 type.googleapis.com/
 type.googleprod.com/
-t}HcBD;B(stH
-u	@8=eh
-u!9p }
-u$H;|$Hu
-u%H99u
-u'L;v
-u)Hc_
-u*Hc{
-u1Lcw
-u3HcH<H
-u3Lcs
-u6HcD
-u7fff
-u98D$`u;H
-u9fff
-u@Ict?
-uDMct7
-uJ;w`s7H
-uOHcQD;
-uUF9d3
-u[HcI
-uf!T$(H!T$ 
-ufHco
 uint32
 uint64
-ujH+C
 uniform_burst
 uninterpreted_option
 unknown
 use_additional_offset
 userid
 usermsgs
-uyHcC
 uzKs@>
-v0t08
 v2!L.2
 val_bool
 val_byte
 val_long
-val_string
-val_uint64
 value
 value 
 value too large
@@ -4810,12 +3117,14 @@ visbuilder
 visbuilder.dll
 viscfg
 visibility_hints
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
 voxel_vis_cluster_t
 voxel_vis_compression_t
 voxel_vis_mergelist_t
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -4845,158 +3154,22 @@ vpcf9
 vr_carry_type
 vsnap
 vstdlib.dll
-v}`[>
+vvis
+weak
 weak_dependency
 width
 world_offset_angle
 world_offset_pos
 world_visibility.vvis
-worldgroupid
 wrong protocol type
 wrong submessage type
-wwH9{
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	E;7}
-x	HcQ
-x ATAVAWH
-x AV3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x";C }
-x0=433
-x0v0$
-x=A;U }7H
-xA_A^A]A\_^][
-xA_A^_^][
-xRHcQ
-xWI96tRI
-x_^][
+xT?V
 xpxxxx
-y;HcGL
-y\PD>!
+xuid
 yaw_end
 yaw_start
-z0x0:
 z:KCAuthPhysBody
-zY;>u:m	
-{ HcC8
-{8HcCP
+z\n8NETWORK_DISCONNECT_LOCALPROBLEM_HOSTEDSERVERPRIMARYRELAY
 {YIN?
-{}[]()=&, 	
-{}[]=, 	
-|$ A+
-|$ A;
-|$ ATAUAVAWA
-|$ ATAVAWH
-|$ ATAVAWL
-|$ AVH
-|$ AVL
-|$ D!
-|$ E3
-|$ H+
-|$ HcA
-|$ HcA 
-|$ UATAUAVAWH
-|$$H9y
-|$$H;
-|$$HcA
-|$(	u
-|$(@8:t
-|$(A^
-|$(H+
-|$(I;
-|$(u"
-|$,E3
-|$0	u
-|$0A+
-|$0A;
-|$0E3
-|$0E;
-|$0H+
-|$0H+H(H
-|$0H;
-|$0H;}
-|$0Hc
-|$0Ic
-|$0s-
-|$0t?H
-|$0tXI
-|$0|<M
-|$89^
-|$8;3
-|$8A_A^A\
-|$8L;
-|$@	u
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$@D9|$P|NH
-|$@E;
-|$@H+
-|$@H;
-|$@Hc
-|$@Hcyp;
-|$@ff
-|$@t	3
-|$@t%
-|$@t3
-|$H	u H
-|$HH;
-|$HHc
-|$HHc7;w
-|$HHcK
-|$HHi
-|$HHk
-|$Ht#
-|$P	u H
-|$P;^,}}
-|$PA;^ u
-|$PE;
-|$PH+
-|$PHc
-|$PI;_
-|$PMc>M
-|$XH;
-|$XHcU
-|$XIc
-|$\.u
-|$`@2
-|$`E3
-|$`H+
-|$`H;
-|$`I;~X
-|$`Ic
-|$`L9g
-|$`Lc
-|$`fff
-|$hA+
-|$hD+
-|$hD9|$D
-|$hE;
-|$lA+
-|$p	u
-|$pE3
-|$pIc
-|$tA;
-|$tfB
-|$x	u H
-|${H+
-|)Hcs
-|/Hc{
-|b=})>
-|l;K(tgA
-}'Ic@
-}WIcU
-}vfff
-}wy5Ic
-~ $s%r
-~!A;~
-~*9q0
-~+fff
-~28\$0t
-~GLc7M
-~^L;H
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;

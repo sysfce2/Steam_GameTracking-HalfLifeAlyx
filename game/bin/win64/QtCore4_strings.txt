@@ -1,170 +1,51 @@
-					
-						
-							
-								
-									
-																				
-																					
-																						
-																																																									
-		$	M	$	0	 
-	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	[	\	]	^	_	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	
-	 	#	&	)	,	/	2	5	8	;	>	A	D	
-	 en_JM
-	#	?	 
-	#	@	I
-	#jT$
-	$	,	>	0	;
-	$	5	>	0	;
-	&	?	$	M	/	5	>	0	;
-	(	5	0	@	;
-	(en_BZ
-	)	)	;	n	z	
-	*	0	>	9	M	(	d
-	*	8	E	f	n	y	
-	*	M	0	?	2	;
-	*	M	0	?	;
-	*	M	0	G	2	;
-	*	M	0	H	2	;
-	,	0	;
-	,en_TT
-	/	>	;
-	0	@	;
-	2	,	>	0	;
-	2	5	>	0	;
-	3	5	>	0	;
-	3	>	0	;
-	8	M	
-	8	M	$	;
-	9	=	=	X	a	
-	<	<	>	L	M	M	Q	T	b	c	
-	>	(	G	5	>	0	@	;
-	A	(	;
-	A	0	A	5	>	0	;
-	A	0	A	;
-	A	2	>	
-	A	2	>	;
-	A	2	H	;
-	B	(	;
-	C	$	 
-	G	.	M	,	0	;
-	Iscii-Bng
-	Iscii-Pnj
-	JR>8o
-	K	,	0	;
-	M	$	B	,	0	;
-	M	0	,	>	0	;
-	M	0	.
-	M	0	5	>	0	;
-	M	0	;
-	uuE3
                           
            could not load
          not a plugin
-        %s::%s --> %s::%s
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-       a. Set EPOCDEVICE environment variable to a valid device
-      </requestedPrivileges>
-      <requestedPrivileges>
-    1. Set EPOCROOT environment variable to a valid value.
-    </security>
-    <security>
-    or b. Specify a default device in the devices.xml file.
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
-  Plugin uses incompatible Qt library
-  Plugin uses incompatible Qt library (%d.%d.%d) [%s]
-  expected build key "%s", got "%s"
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./_0123456789
- !"<<<<<<<<<<<<<<<<<<<<<<<#$<<<<<<<<%&&''((((<<<<<<<<<<<<<<<<<<<<<<<<<)*+&&''((((<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&&,,((((<<<<<<<<-<<<<<./01234567<<((<<<<<<<<<<8<<9:;;;;;
  " % ( + . 1 4 7 : = @ C F I M Q U Y ] a d g j m p s v y | 
  "<>[\]^`{|}
- "<>\^`{|}
- &   ! 
- *0/0
  + + + + + ; E E N N N N N ] o o o o o o o 
- 0	A	.
  0 0 0 0 0 0 0 0 P p 
- 9 : 
- <a|Q<z
- A\][
- A\^[
- A\^]
- A\_[
- A\_]
- A\_^
- A\_^][
- A]A\[
- A]A\]
- A]A\^
- A]A\^H
- A]A\_
- A]A\_^]
- A]^]
- A]_]
- A]_^
- A]_^][
- A^A\_
- A^A]A\
- A^A]A\_^
- A^A]_
- A^A]_][
- A^^]
- A_A]A\
- A_A]A\_^
- A_A^A\][
- A_A^A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^_^]
  Base Class Array'
  Base Class Descriptor at (
- C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H;^ u
- I;_(u
- L9d$@to
- P"p"
+ O5g
  Type Descriptor'
  ar_OM
+ avx
  char
  cmov
- data
  deflate 1.2.5 Copyright 1995-2010 Jean-loup Gailly and Mark Adler 
  delete
  delete[]
- es_VE
- fD;L
  inflate 1.2.5 Copyright 1995-2010 Mark Adler 
+ int
  iwmmxt
  long
+ mmx
  mmx3dnow
  mmx3dnowext
  mmxext
  neon
- new[]
+ new
  no-stl
- or 2. Ensure that the HKEY_LOCAL_MACHINE\Software\Symbian\EPOC SDKs\CommonPath registry key is set, and then
+ oal
+ okn
  short
+ sse
  sse2
  sse3
  sse4.1
  sse4.2
  ssse3
- t?D9
  throw(
  volatile
  xmlns:
  xmlns="
-!	?	8	G	
-!	?	8	G	.	M	,	0	;
-!	?	8	G	;
-!	?	;
-!	@cb
 !!!$!'!*!-!0!3!6!9!<!?!B!E!H!K!N!Q!T!W!Z!]!`!c!f!i!l!o!r!u!x!{!~!
 !$&'()*+,;=
 !$&'()*+,;=:
@@ -172,11 +53,9 @@
 !$&'()*+,;=:@/
 !$&'()*+,;=:@/?
 !,!>!>!T!T!T!T!`!`!`!f!
-!0!P!p!
-!D$8!D$HM
-!D$8I
-!IcD$
-!This program cannot be run in DOS mode.
+!AxU
+!\t?\t8\tG\t.\tM\t,\t0\t;
+!\v?\v8\vG\v.\vM\v,\v0\v;
 !bl.uk
 !british-library.uk
 !city.chiba.jp
@@ -271,57 +150,28 @@
 !siemens.om
 !songfest.om
 !statecouncil.om
-!t$(H!t$ A
-!t$(H!t$ H
 !uba.ar
-!|$DHc
-!|$XI
 " "#"&")","/"2"5"8";">"A"D"G"J"M"P"S"V"Y"\"_"b"e"h"k"n"q"t"w"z"}"
 " encoding="
 " standalone="no"?>
 " standalone="yes"?>
 "!":"U"["i"i"v"
-""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""
-""??''\\
-"#"$"%"&"<"A"C"D"E"G"H"I"M"m"a"b"d"p"e"q"r"t"s"u"v"x"w"y"z"
-"#$%&'(
-"H"d"e"
-"L;'t
-"e?<<<<<<l?
+"\t"\v"\f"#"$"%"&"<"A"C"D"E"G"H"I"M"m"a"b"d"p"e"q"r"t"s"u"v"x"w"y"z"
 #"#&#*#.#2#6#:#>#B#F#J#N#R#V#Z#^#b#f#j#n#r#v#z#~#
 ###5#A#A#A#M#M#X#X#X#X#X#X#X#X#b#o#{#{#{#
-#0#P#p#
-#0$P$
 #3:O4j
-#A^A]A\_
-#AtA;
 #bML"
+#t9J
 $"$&$*$.$2$6$:$>$B$F$J$N$R$V$Z$^$b$f$j$n$r$v$z$~$
 $/$=$=$N$`$`$`$`$`$`$`$`$`$s$
-$<;{d
-$@HcB
-$HcD$XH
-$HcL$ 3
-$HcMwH
-$I;O(u
-$Ib?s
-$LcD$XMcJ
 $ar_YE
-$es_CO
-$fA;F
-$fD;@@
-$uCIcD$
 % %"%$%&%(%*%,%
 % xSD
-%$%,%4%<%
 %$%a%b%V%U%c%Q%W%]%\%[%
 %0 %1 %2 %3
-%0%P%p%
 %1 is an invalid PUBLIC identifier.
 %1 is an invalid encoding name.
 %1 is an invalid processing instruction name.
-%1%2:%3
 %1/qt_temp.XXXXXX
 %1: already exists
 %1: create size is less then 0
@@ -335,166 +185,42 @@ $uCIcD$
 %1: unable to set key on lock
 %1: unable to unlock
 %1: unknown error %2
-%1:%2:%3
-%4%,%
 %<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
-%GoU?*
 %M%M%W%c%c%c%c%v%v%v%v%v%
 %general
-%s (%s)
 %s Hwnd (0x%p)
 %s::exec: Must be called from the main thread
-&	?	8	.	M	,	0	;
-&	?	;
 & &"&$&&&(&*&,&.&0&2&4&6&8&:&<&>&@&B&D&F&H&J&L&N&P&R&T&V&X&Z&\&^&`&b&d&f&h&j&l&n&p&r&t&v&x&z&|&~&
 &!&!*!+!.!.!
-&#10;
-&#13;
 &)&)&)&:&:&\&e&e&k&w&w&
-&0&P&p&
-&?PPPPPPP?
-&HcD$0Hc
-&L;'t
-&P%P%
+&\n8\np\n,\n0\n;
+&\t?\t8\t.\tM\t,\t0\t;
 &amp;
 &quot;
 ' '"'$'&'('*','.'0'2'4'6'8':'<'>'@'B'D'F'H'J'L'N'P'R'T'V'X'Z'\'^'`'b'd'f'h'j'l'n'p'r't'v'x'z'|'~'
 '&'&'+'+'5'P'P't'}'}'
-'+)+++-+/+
-'0'P'p'p'
-'IcD$
-'u{Hc
+'Yck
 'zO{T
-(	)	0	1	3	4	
-(	5	.	M	,	0	;
-(	G	*	>	2	@	(	G	*	>	2	n
-(	G	0	B	
-(	K	-	G	.	M	,	0	;
-(	K	-	G	;
-(	K	5	M	9	G	
-(	K	;
 ( ("($(&(((*(,(.(0(2(4(6(8(:(<(>(@(B(D(
 ( 8PX
 (#()(/(/(/(/(C(C(Y(Y(Y(i(i(o(o(|(
 ('8PW
-(0(P(p(P(
-(A\_^[
-(A]A\][
-(A_A]A\[
-(A_A]^]
-(A_A^A\[
-(A_A^A]A\_^][
-(A_A^A]]
-(A_A^^[
-(A_^][
-(A__^]
-(D$ H
-(D$ f
-(D$0D
-(D$@D
-(D$@H
-(D$@f
-(D$pH
-(D$pf
-(H;+t)H
-(L$ H
-(L$0D
-(L$0H
-(L$PH
-(L$Pf
-(L$pH
-(L$pf
-(L9l$8ty
-(Make sure '%s' is registered using qRegisterMetaType().)
-(Parent is %s(%p), parent's thread is %s(%p), current thread is %s(%p)
-(T$ D
-(T$ H
-(T?j?Y
-(\\*)"
+(\n5\np\n,\n0\n;
+(\t)\t0\t1\t3\t4\t
+(\t5\t.\tM\t,\t0\t;
+(\tG\t*\t>\t2\t@\t(\tG\t*\t>\t2\tn
+(\tK\t-\tG\t.\tM\t,\t0\t;
+(\tK\t5\tM\t9\tG\t
+(\v-\vG\v.\vM\v,\v0\v;
 (ar_SY
-(es_PE
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
 (null)
-(t$ H
-(t$ f
-(t$ w+
-(t$0H
-(t$0f
-(t$@D
-(t$@H
-(t$PH
-(t$PI
-(t$PL
-(t$PfD
-(t$`H
-(t$`I
-(t$`f
-(|$ H
-(|$ f
-(|$0D
-(|$0H
-(|$@D
-(|$PD
 ) in model
 )!)#)%)')))+)-)/)1)3)5)7)9);)=)?)A)C)E)G)I)K)M)O)Q)S)U)W)Y)[)])_)a)c)e)g)i)k)m)o)q)s)u)
 )!)/)6)6)6)6)G)G)Q)Q)Q)X)h)
 )*+,-./0123456789:
-)/o>	
 )47$D
-)D$ H
-)D$0D
-)D$0f
-)D$@D
-)D$@f
-)D$pA
-)L$ fD
-)L$0f
-)L$PfE
-)L$pD
 )P(0)P)p)P(P(
-)P(P(
 )P(P(P(P(P(P(P(P(P(P(P(P(P(P(P(P(P(P(
-)T$ D
-)T$ fD
-)T$PH#
-)\ZEo^m/
-)t$ A
-)t$ H
-)t$ M
-)t$ f
-)t$ u-H
-)t$03
-)t$0A
-)t$0D
-)t$0H
-)t$0I
-)t$0f
-)t$@E
-)t$@H
-)t$@I
-)t$PH
-)t$PL
-)t$Pf
-)t$`H
-)|$ H
-)|$0D
-)|$0H
-)|$@D
-)|$@H
-)|$PD
-)|$PE
-)|$Pf
-)|$pfD
-)|B?d!
-*	B	.
-*	B	0	M	5	 
-*	B	0	M	5	>	9	M	(	d
 *!*#*%*'*)*+*-*
 *)*8*?*F*L*`*g*q*x*
 *.aichi.jp
@@ -552,63 +278,48 @@ $uCIcD$
 *.yamaguchi.jp
 *.yamanashi.jp
 *.yokohama.jp
-*0*P*p*
-*<,uC
-*H;/t
-*L;.t
-+	0	5	0	@	;
-+	<	;
-+	G	,	;
-+	G	,	M	0	A	
-+	G	,	M	0	A	5	>	0	@	;
-+	G	;
-+!+#+%+
-+"+"+"
-+"+"+"+"
+*5KS
+*\tB\t0\tM\t5\t 
+*\tB\t0\tM\t5\t>\t9\tM\t(\td
 +$+.+5+J+`+g+w+
-+)I;<$v;H
-+;/}$f
 +P(0+P+P(p+P%P%
-+T$0H
-+T$xH
-+l$ A
-+t$@A
-+t$PF
-+|$@A
-+|$XH
-,	?	9	@	,	>	0	;
-,	?	9	@	5	>	0	;
-,	?	9	@	;
-,	A	'	,	>	0	;
-,	A	'	.
-,	A	'	5	>	0	;
-,	A	'	;
-,	A	;
-,	C	9	.
-,	C	9	8	M	*	$	?	5	>	0	;
++\f?\f,\fM\f0\f5\f0\f?\f;
++\n<\n0\n5\n0\n@\n;
++\rF\r,\rM\r0\rA\r5\r0\r?\r;
++\rF\r,\rM\r0\rA\r;
++\t0\t5\t0\t@\t;
++\tG\t,\tM\t0\tA\t
++\tG\t,\tM\t0\tA\t5\t>\t0\t@\t;
++\vG\v,\vM\v0\vA\v_\v>\v0\v@\v;
++inf
++nan
 , but found '
 , but got '
-, name = 
 , nameFilters = {
-, or 
 ,!,#,%,',),+,-,/,1,3,5,7,9,;,=,?,A,C,E,G,I,K,M,O,Q,S,U,W,Y,[,],_,a,c,e,g,i,k,m,o,q,s,u,w,y,{,},
-,$3D$
 ,,,9,@,G,n,n,
-,0,P,p,
 ,<ellipsis>
-,HR>O
 ,P%P%P%P%P%P%P%
+,\fA\f'\f5\f>\f0\f
+,\nA\n'\n5\n>\n0\n;
+,\rA\r'\r(\r>\r4\rM\r
+,\rA\r'\r(\rM\r\r ;
+,\t?\t9\t@\t,\t>\t0\t;
+,\t?\t9\t@\t5\t>\t0\t;
+,\tA\t'\t,\t>\t0\t;
+,\tA\t'\t5\t>\t0\t;
+,\tC\t9\t8\tM\t*\t$\t?\t5\t>\t0\t;
+,\vA\v'\v,\v>\v0\v;
 ,ar_JO
-,es_AR
-,rHc@
--	>	0	$	@	/	 
--	>	7	>	-	>	0	$	.	M	!
 -!-#-%-'-)-+---/-1-3-5-7-9-;-=-?-A-C-E-G-I-K-M-O-Q-S-U-W-Y-[-]-_-a-c-e-g-i-k-m-o-q-s-u-w-y-{-}-
 -4-9-@-@-J-J-Q-Q-W-W-f-j-j-j-y-~-
 -64OS
--BH>t
 -P%P%P%P%P%P%P%P%P%P%P%P%0-P-p-
+-\t>\t0\t$\t@\t/\t 
+-\t>\t7\t>\t-\t>\t0\t$\t.\tM\t!
 -graphicssystem
+-inf
+-nan
 -qdebug
 -qdevel
 -qmljsdebugger=
@@ -619,17 +330,9 @@ $uCIcD$
 -stylesheet
 -testability
 -widgetcount
-.	'	M	/	>	(	M	9	:
-.	0	>	 	@	<
-.	>	0	M	
-.	>	;
-.	G	;
 .!.#.%.'.).+.-./.1.3.5.7.9.;.=.?.A.C.E.G.I.K.M.O.Q.S.U.W.Y.[.]._.a.c.e.g.i.k.m.o.q.s.u.w.y.{.}.
-."."."
 .%0%2%4%6%8%:%<%>%@%B%D%F%H%J%L%N%P%R%T%V%
 ...A.Y.`.`.g.n.~.
-..om?
-.>PJ;I:qE>
 .?AUBackEase@@
 .?AUBounceEase@@
 .?AUElasticEase@@
@@ -812,120 +515,85 @@ $uCIcD$
 .?AVoverflow_error@std@@
 .?AVruntime_error@std@@
 .?AVtype_info@@
-.H;C(
 .XXXXXX
+.\f0\f?\f/\fA\f 
+.\r>\r0\rM\r\r ;
+.\t'\tM\t/\t>\t(\tM\t9\t:
+.\t0\t>\t \t@\t<
+.bat
+.cmd
+.com
 .conf
-.i?0@I
+.dll
+.exe
+.ini
+.lnk
 .museum
 .nordland.no
-.pdata
+.pif
 .telemark.no
-.text
 /!/#/%/'/)/+/-///1/3/5/7/9/;/=/?/A/C/E/G/I/K/M/O/Q/S/U/W/Y/[/]/_/a/c/e/g/i/k/m/o/q/s/u/w/y/{/}/
 /)/0/0/0/M/M/S/b/x/
-//?/UNC/
-/0/P/p/
-/2GG>!B
-/4*&{
-/L9\$ t
+/P8i
 /codecs
 /devices.xml
-/fD;D
 /nCQ;
 /nyr%RL
 /nyr+RL
 /qt_temp.XXXXXX
 /size
-0	5	?	.
-0	5	?	5	>	0	;
-0	5	?	;
-0	A	B
-0	B	*	/	>	;
-0	B	*	?	
+/yQA
 0!0#0%0'0)0+0-0/0
 0!0)0
+0,5g
 0-7-T-I-N- 
 0-=-U-0-Y-;
-0-=-U-;
 0-=-a-0-Y-;
-0-=-a-;
-0-Y-0-;
 0-Y-0-N-0-Y-;
-0-Y-I-9-;
 0-Y-I-9-b-0-Y-;
-0-Y-I-;
-0-Y-I-N-;
 0-Y-I-O-0-Y-;
 0-b-O-0-Y-;
-0-b-O-;
+0.bg
 000P0p0
 01050
 0123456789ABCDEF
 0123456789abcdef
+01\rg
+06*g
+08)g
+08+g
 090I0U0U0U0U0Z0j0
-0><[cZUg^>
-0A\][
-0A\^]
-0A\_]
-0A\_^
-0A\_^[]
-0A\_^][
-0A]A\^[]
-0A]A\_
-0A]A\_^[
-0A]A\_^]
-0A]^]
-0A]_[
-0A]_^
-0A^A\^
-0A^A\_
-0A^A\_^]
-0A^A]A\
-0A^A]A\^]
-0A^A]A\_^
-0A^A]A\_^[]
-0A^A]A\_^][
-0A^][
-0A^^[
-0A^_^
-0A_A\^][
-0A_A\_^]
-0A_A]A\
-0A_A]_^[
-0A_A]_^]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_][
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^_
-0A__[
-0A__]
-0A__^
-0H9u8ta
-0H9u8tf
-0I;<$t
-0I;<$u
 0K0L0M0N0O0P0Q0R0S0T0U0V0W0X0Y0Z0[0\0]0^0_0`0a0b0d0e0f0g0h0i0o0p0r0s0u0v0x0y0{0|0
-0X8b?~
+0R*g
+0S\rg
+0U*g
+0X*g
+0\fB\f*\f>\f/\f?\f;
+0\nA\n*\n?\n/\n;
+0\r>\r5\r?\r2\rF\rQ
+0\rB\rN
+0\t0\v0\r0
+0\t5\t?\t5\t>\t0\t;
+0\tA\tB
+0\tB\t*\t/\t>\t;
+0\v,\v?\v,\v>\v0\v;
 0ar_LB
-0es_EC
-0r-fA
-0|8E3
+0d'g
 1 1"1$1&1(1*1,1.10121416181:1<1>1@1B1D1F1H1J1L1N1Q1S1U1W1Y1[1]1`1c1e1g1i1k1m1o1q1s1u1w1z1|1~1
 1#IND
 1#INF
 1#QNAN
 1#SNAN
 1*3*5*7*9*;*=*
-1-U-0-;
 1-U-0-b-U-;
 1.2.5
-1/1<1L1g1|1
+1.bg
 101P1p1
 1030507090;0=0?0A0C0E0G0I0K0M0O0Q0S0U0W0Y0[0]0_0a0c0e0g0i0k0m0o0q0s0u0w0y0{0}0
+11UT
 1A26b
-1McD$
+1\f1/1<1L1g1|1
+1\t1\v1
 1_q_animationFinished()
 1_q_directoryChanged(QString,bool)
 1_q_fileChanged(QString,bool)
@@ -937,14 +605,14 @@ $uCIcD$
 1objectDestroyed(QObject*)
 1timeout()
 1wsHp
-2 2 2 
-2 2 2 2 
 2 22222A2H2Z2q2x2
 2!2#2%2'2*2,2.20222426282:2<2>2@2C2E2G2I2K2M2O2Q2S2U2W2Y2[2]2_2a2c2e2g2j2l2n2p2r2t2w2y2{2}2
+2.bg
 2000.hu
 202P2p2
-2H;7t
-2]fQ	?
+2\n0D
+2\n2\f2
+2\vpD
 2aboutToClose()
 2activated(HANDLE)
 2dem 
@@ -953,6 +621,7 @@ $uCIcD$
 2directoryChanged(QString,bool)
 2fileChanged(QString,bool)
 2finished()
+2nif
 2readChannelFinished()
 2readProgress(qint64,qint64)
 2readyRead()
@@ -960,278 +629,108 @@ $uCIcD$
 2timeout()
 3!3#3%3'3)3,3.313336383;3>3A3C3E3G3J3M3P3S3U3W3Y3[3]3_3a3c3f3h3j3l3n3q3s3v3y3{3}3
 3+5+7+9+;+=+?+
+3.bg
 303P3p3
 31313=3=3`3x3
-333333
-3333333
-3D$$A3
-3D$0A3
-3H;7t4H
-3T$<A
-3\$0A
-3t$ 3l$4A
-3t$0A#
-3|$(3t$0A3
-3|$(A3
+3\t3\f3
+3nif
 4 4"4$4&4(4+4.41434547494<4>4A4C4E4H4K4M4O4Q4S4U4W4Y4[4]4_4a4c4e4g4i4k4m4o4q4t4v4x4z4|4~4
 4!4!4(4(4(4(4;4P4W4W4W4^4^4
-4$D3t$
 4.8.3
+4.bg
 404P4p3p3p3p3p4
-4KfD;
+4\t4\v4\r4
 4ar_KW
-4es_CL
 4mc-N
 4p3p3
-5 5 5 
 5!5$5'5)5+5-5/515355575
 5+6G6Y6Y6r6y6y6~6
+5.bg
 505P5P%P%p5
 515=5b5z5z5
-5E+ZpE;
-6	(	?	,	>	0	;
-6	(	?	.
-6	(	?	5	>	0	;
-6	(	?	;
-6	A	;
+52F*
+550D
+5\n5\r5
+5\n@\n0\n5\n>\n0\n;
+5\rF\r3\rM\r3\r?\r/\r>\r4\rM\r
+5\rF\r3\rM\r3\r?\r;
+5\rM\r/\r>\r4\r>\r4\rM\r
+5\v8\v;\v>\vA\vD\vF\vI\vL\vN\vQ\vT\vW\vZ\v]\v
+6.bg
 606P6p6p6p6p6p6p6p6p6
-6H97t/
 6P7p7
+6\f(\f?\f5\f>\f0\f
+6\r(\r?\r/\r>\r4\rM\r
+6\t(\t?\t,\t>\t0\t;
+6\t(\t?\t5\t>\t0\t;
+6\v(\v?\v,\v>\v0\v;
 6bone.pl
+6u^g
 7%7;7K7W7l7
 7-S-J-0-O-1-I-T-;
-7-S-J-;
+7.bg
 700PP
 700WP
-79s$u4
-7;|$0t,
-7f;O s#
-8	*	M	
-8	?	$	.	M	,	0	;
-8	?	;
-8	G	*	M	
-8	K	.	,	>	0	;
-8	K	.	.
-8	K	.	5	>	0	;
-8	K	.	;
-8	K	;
+7yp>
+7~8A
 8"878G8G8\8s8|8|8
-8$u$L9U
-8$u$L9]
-8$u,D
-8$u.D
-8%t	I
-80tVD
-80|'A
-8:u H
-8?u$H
-8?u-H
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8A]A\_^[]
-8A]A\_^][
-8A^A]
-8A^A]A\[
-8A^A]^]
-8A^A]_^][
-8A^^][
-8A_A\_^][
-8A_A]A\^
-8A_A^A]A\_^[]
-8A_A^A]A\_^][
-8A_A^_^
-8C:uKH
-8D$8t
-8D$PL
-8D$Pt
-8Ft0A
-8H9|$0ti
-8H9|$8tk
-8H9}Pta
-8H9}gtl
-8Ht*A
-8I;<$t
-8L$8t
+8.bg
+82+g
+89+g
+8O&g
 8P%P%P%P%P%P%08P8p8
-8PuGH
-8QupI
-8Xu3H
-8Zu"H
-8\$0tw
-8\uDf
-8\uEA
-8_^][
-8_uNH
+8P*g
+8S*g
+8Z*g
+8\fK\f.\f5\f>\f0\f
+8\n$\np\n,\n0\n;
+8\n5\nG\n0\nG\nN
+8\nK\n.\n5\n>\n0\n;
+8\rF\r*\rM\r1\rM\r1\r
+8\t?\t$\t.\tM\t,\t0\t;
+8\tK\t.\t,\t>\t0\t;
+8\tK\t.\t5\t>\t0\t;
+8\vK\v.\v,\v>\v0\v;
 8ar_AE
-8es_UY
-8ke?;
-8zueH
-9	?	(	M	&	@	-	>	0	$	m
-9	t	H
-9	tmH
 9#9*9@9G9N9V9V9m9m9t9{9
-9/tfH
-9/u	fD
-9/|p9o
+9.bg
 909P9p9
 90:P:p:
-91~O3
-9:uTH
-9?uPH
-9AX}2H
-9D$@t
-9D$Du
-9D$Ht
-9D$Ttg
-9D$XufE
-9D$`u
-9D$pu
-9EH}*H
-9HcD$lA
-9L$0A
-9L$h|
-9L$x|
-9MuWE3
 9P%P%P%
-9T$x}[f
-9\$ ~>H
-9\$0|?M;
-9\$8u
-9\$p|3H
-9\u	fD
-9duWL
+9\t?\t(\tM\t&\t@\t-\t>\t0\t$\tm
+9a&g
 9g>@3
-9mutH
-9suvH
-9t$HI
-9t$P~98\$vt3H
-9y$~2
-9{$uB
+9mG-
 : error at position 
 : expected '
-:%uNL
 :/?#@!$&'()*+,;=
 :/?#[]@!$&'()*+,;=
 :/qt/etc/qt.conf
 :5:C:U:b:i:i:
-:>)*	v
-:>t6k'
-:H97u H
-:[u7H
-:\$ tFL
-:uV@83uQ
 ;);8;A;A;I;V;e;~;
-;.uAL
-;0;P;p;
-;7sUH
-;8u,H
-;?tJA
-;D$`~
-;E(t 
-;H;>t
-;KD|Q
-;QT~d
-;\$ |
-;\$p|
 ;base64
-;l$@|
-;nreku
-;t$`~
-;|$ r
-;|$ s!f
-;|$PuGH
-;|$T|
-<	w	I
-<	w#A
-<	w(I
-<	w1I
-<	w5H
-<	w@H
-<	w@L
-<	wUM
-< tG<	tC
-<!<"<+<dd
 <![CDATA[
-<"t:<'t6H
-<$-Hc
-<(<@<{<{<
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
 </hXt
-<0<P<p<
-<0u A
-<0|/<9
-<1~1<3~$<4t9<5t
-<9~#,a<
-<9~8<-t4<.t0<_t,<~t(I
-<9~m<_tiH
-<:%uN
-<<<<<
-<<<<<<<<
-<<<<<<<<<
-<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<
-<>#n2
-<?u7H
 <?xml
 <?xml version="
-<A|2<P
-<D/u/H
-<Et	H
-<G/t	
-<H'u3L
-<Q/t!I
-<Qnui
-<X'u	@
-<Xt	D
-<Z'u;L
-<Z~@<0|
-<Z~u<0|
-<_u*A
-<_uyI
-<_w&L;
+<\f>\f@\fB\fD\fF\fH\fJ\fL\fN\fP\fR\fT\fV\fX\fZ\f\\f^\f`\fb\fd\ff\fh\fj\fl\fn\fp\f
 <acos
 <ar_BH
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-<a}+<z~'<A}#<Z~
 <ellipsis>
-<es_PY
-<fd:%d>
 <null>
-<p.t6
-<t^u^A
 <unknown>
-<x=t9f9,xt3H
-<y/u'A
-<zu\I
-<z~#<A|
-<z~$<A|
-<z~H<A|
-<z~}<A|
 =-\-S-1-T-;
-=-\-S-;
 =.=====c=c=c=
 =0=0=0=P=0=0=p=
-=HcCpH
-=HcGpH
-=p,p,
->1>1>8>B>B>N>N>[>t>t>{>
->9{$u+
+=\n>\n>1>1>8>B>B>N>N>[>t>t>{>
 >?@ABCFGHEJKLIM<d
 >P%P%0>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>P>p>
 >P%P%P%P%P%P%
 >P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%
->fD9?
->fffffff
-?!_!{
 ?"?)???I?S?S?S?_?k?k?k?k?s?
 ?*A*C*E*G*I*K*M*O*Q*S*U*W*Y*[*]*_*a*c*e*g*i*k*m*o*q*s*u*w*y*{*}*
 ?0?P?p?P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%
 ?333333
-?:u.H
-?:udH
 ??0?$QVector@VQPoint@@@@QEAA@AEBV0@@Z
 ??0?$QVector@VQPoint@@@@QEAA@H@Z
 ??0?$QVector@VQPoint@@@@QEAA@HAEBVQPoint@@@Z
@@ -2429,9 +1928,6 @@ $uCIcD$
 ??_FQTranslator@@QEAAXXZ
 ??_FQVariantAnimation@@QEAAXXZ
 ??_FQWinEventNotifier@@QEAAXXZ
-?CuND8g
-?H9;t*
-?HcFpH
 ?QStringList_contains@QtPrivate@@YA?AVQBool@@PEBVQStringList@@AEBVQString@@W4CaseSensitivity@Qt@@@Z
 ?QStringList_filter@QtPrivate@@YA?AVQStringList@@PEBV2@AEBVQRegExp@@@Z
 ?QStringList_filter@QtPrivate@@YA?AVQStringList@@PEBV2@AEBVQString@@W4CaseSensitivity@Qt@@@Z
@@ -2444,10 +1940,7 @@ $uCIcD$
 ?QStringList_replaceInStrings@QtPrivate@@YAXPEAVQStringList@@AEBVQRegExp@@AEBVQString@@@Z
 ?QStringList_replaceInStrings@QtPrivate@@YAXPEAVQStringList@@AEBVQString@@1W4CaseSensitivity@Qt@@@Z
 ?QStringList_sort@QtPrivate@@YAXPEAVQStringList@@@Z
-?R0I?
 ?WindowsVersion@QSysInfo@@2W4WinVersion@1@B
-?[u/H
-?]u	H
 ?_q_animationFinished@QStateMachinePrivate@@QEAAXXZ
 ?_q_process@QStateMachinePrivate@@QEAAXXZ
 ?_q_reregisterTimers@QObjectPrivate@@QEAAXPEAX@Z
@@ -2575,6 +2068,7 @@ $uCIcD$
 ?applicationPid@QCoreApplication@@SA_JXZ
 ?applicationVersion@QCoreApplication@@SA?AVQString@@XZ
 ?applyProperties@QStateMachinePrivate@@QEAAXAEBV?$QList@PEAVQAbstractTransition@@@@AEBV?$QList@PEAVQAbstractState@@@@1@Z
+?aq8
 ?arg@QString@@QEBA?AV1@AEBV1@00000000@Z
 ?arg@QString@@QEBA?AV1@AEBV1@0000000@Z
 ?arg@QString@@QEBA?AV1@AEBV1@000000@Z
@@ -2699,6 +2193,7 @@ $uCIcD$
 ?bytesWritten@QIODevice@@IEAAX_J@Z
 ?bytesWritten@QWindowsPipeWriter@@IEAAX_J@Z
 ?c@QLocale@@SA?AV1@XZ
+?cIh
 ?cO~j
 ?caching@QFileInfo@@QEBA_NXZ
 ?callEventTest@QAbstractTransitionPrivate@@QEAA_NPEAVQEvent@@@Z
@@ -3250,9 +2745,6 @@ $uCIcD$
 ?dy@QLine@@QEBAHXZ
 ?dy@QLineF@@QEBANXZ
 ?dynamicPropertyNames@QObject@@QEBA?AV?$QList@VQByteArray@@@@XZ
-?e:S-N
-?e:SA~
-?e@S-N
 ?easingCurve@QTimeLine@@QEBA?AVQEasingCurve@@XZ
 ?easingCurve@QVariantAnimation@@QEBA?AVQEasingCurve@@XZ
 ?elapsed@QElapsedTimer@@QEBA_JXZ
@@ -5760,7 +5252,6 @@ $uCIcD$
 ?systemEnvironment@QProcessEnvironment@@SA?AV1@XZ
 ?systemId@QXmlStreamEntityDeclaration@@QEBA?AVQStringRef@@XZ
 ?systemId@QXmlStreamNotationDeclaration@@QEBA?AVQStringRef@@XZ
-?t_v>
 ?tag@QMetaMethod@@QEBAPEBDXZ
 ?takeAnimation@QAnimationGroup@@QEAAPEAVQAbstractAnimation@@H@Z
 ?targetObject@QPropertyAnimation@@QEBAPEAVQObject@@XZ
@@ -6453,204 +5944,23 @@ $uCIcD$
 ?yieldCurrentThread@QThread@@SAXXZ
 ?zero@QLocalePrivate@@QEBA?AVQChar@@XZ
 ?zeroDigit@QLocale@@QEBA?AVQChar@@XZ
-@ A9@
-@*|$p@
-@.data
-@.reloc
-@.rsrc
-@0@P@
 @0@Z@Z@k@|@|@
-@0@p@P%P%
-@8;tK
 @8UUUUU
-@8i t
-@8l$H
-@8l$Ht
-@8p$t
-@8t$2
-@8t$8t
-@8t$h
-@8t$i
-@8t$j
-@8y t
-@8|$8t
-@8|$x
-@8|$xt
-@:,1u'L
-@:48u'L
-@:48u*L
 @ABCD
-@A\_]
-@A\_^
-@A\_^[]
-@A\_^][
-@A]A\]
-@A]A\_
-@A]A\_^[
-@A]A\_^]
-@A]_^
-@A^A\]
-@A^A\^][
-@A^A\_
-@A^A\_^[
-@A^A\_^]
-@A^A]A\
-@A^A]A\_^
-@A^A]A\_^][
-@A^A]_
-@A_A]A\^]
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^_
-@A__]
 @ByteArray(
-@H@uvH
 @Invalid()
 @Point(
 @Rect(
-@SATAUAVH
-@SATAUAWH
-@SATAUH
-@SATAVAWH
-@SATH
-@SAUH
-@SAVH
-@SAWH
-@SUATAUAVAWH
-@SUATAUAVH
-@SUATAUH
-@SUATAVAWH
-@SUATH
-@SUAVH
-@SUVATAWH
-@SUVAVH
-@SUVAWH
-@SUVH
-@SUVWATAUAVAW
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATAUH
-@SUVWATAVAW
-@SUVWATH
-@SUVWAUH
-@SUVWH
-@SUWATAUAVAWH
-@SUWATH
-@SUWAUAVH
-@SUWH
-@SVATH
-@SVAVAWH
-@SVAVH
-@SVWATAUAVAWH
-@SVWATAUAVH
-@SVWATAUH
-@SVWAWH
-@SVWH
-@SWATAUH
-@SWATH
-@SWAUAWH
-@SWAUH
-@SWAVH
-@SWAWH
 @Size(
-@UATAUAVAWH
-@UATAUH
-@UATH
-@UAUAVAWH
-@UAUH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWATAUH
-@USVWATAVAWH
-@USVWATH
-@USVWH
-@USWH
-@UVATAUAVAW
-@UVATAUAVH
-@UVATAUAWH
-@UVATH
-@UVAUAVH
-@UVAUAWH
-@UVAUH
-@UVAVH
-@UVWATAU
-@UVWATAUAVAW
-@UVWATAUAVAWH
-@UVWATAUAVH
-@UVWATAUH
-@UVWATAWH
-@UVWAUAVH
-@UVWAUAWH
-@UVWAWH
-@UVWH
-@UWATH
-@UWAUH
-@UWAVH
-@UWAWH
-@VATAUAWH
-@VATAUH
-@VATAVH
-@VAUH
-@VWATAUAVH
-@VWATH
-@VWAUH
-@VWAVAWH
-@VWAVH
-@VWAWH
 @Variant(
-@WATAUAVAWH
-@WATAUH
-@WATAVH
-@WATH
-@WAUAVH
-@WAVAWH
-@WAVH
+@\nC\nF\nI\nL\nO\nR\nU\nX\n[\n^\na\nd\ng\nj\nm\np\ns\nv\nx\n{\n}\n
 @ar_QA
-@es_BO
-@fA+TI
-@fA+\H
-@fA;<Ir
-@text
-A @tC
-A A3@
-A A9A
-A A;P
-A fA9
-A'qQU
-A)^HA
+A'qQU\v
 A+C+E+G+I+K+M+O+Q+S+U+W+Y+[+]+_+a+c+e+g+i+k+m+o+q+s+u+w+y+{+}+
-A+C<H
-A,E+C
-A03>A|
-A09GLu
 A0A0A0A0A:ACAQAZAwAwA~A
 A0A0APAP%pA
 A0BPB
-A1C A
 A8L"k1
-A8\$(
-A8jHt
-A8jItK
-A8jXt
-A9	u<A
-A9	uxA
-A9L$$|
-A9OLv&L
-A9Ql|)3
-A9Rl|)3
-A;1~	I
-A;4$~Affff
-A;<$|
-A;<$}v
-A;N0v!A
-A;Ql~
-A;Rl~
-A;wPr
-A;}<w{I
-A;~Pr
-A>l$/
-A@H9A@t
-A@H9C@t
 AA_AttributeCount
 AA_CaptureMultimediaKeys
 AA_DontCreateNativeWidgetSiblings
@@ -6667,52 +5977,12 @@ AA_X11InitThreads
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
 ADVAPI32.dll
-AH ujL
-AK>(v
 APCpC
 ASMO-708
 ASSERT failure in %s: "%s", file %s, line %d
 ASSERT: "%s" in file %s, line %d
-ATAUAVH
-ATAUAWH
 ATTLIST
-AUAVH
-AVAWH
-AXHcI`;H
-A\_][
-A\_^[]
-A\_^][
-A]A\]
-A]A\^]
-A]A\_
-A]A\_^[]
-A]A\_^]
-A]A\_^][
-A]_^][
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A^A]_^]
-A_A]A\
-A_A]A\_]
-A_A]A\_^
-A_A]A\_^][
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]A\
-A_A^A]A\]
-A_A^A]A\^
-A_A^A]A\^]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^_[
-A_A^_[]
+A\rB\rB
 A`1w>
 Abkhazian
 AbsoluteSize
@@ -6732,8 +6002,11 @@ ActivateControl
 ActivationChange
 Active
 Active Titlebar
+Afan
+Afar
 Afghanistan
 Afrikaans
+Akan
 Albania
 Albanian
 Algeria
@@ -6796,7 +6069,6 @@ AspectRatioMode
 Assamese
 Atsam
 Attribute redefined.
-Au4L;
 August
 Australia
 Austria
@@ -6806,18 +6078,14 @@ AutoConnection
 AutoDither
 AutoText
 AvoidDither
+Axis
 Aymara
 Azerbaijan
 Azerbaijani
-B 3A 
-B(I9A(u
 B/B?BEBEBnB
-B@Hcp
-B@fffffff
+B5*S
 BDiagPattern
 BGMode
-BPfffffff
-BUSGI
 Backward
 Bad address
 Bad file descriptor
@@ -6833,6 +6101,7 @@ Belarus
 Belgium
 Belize
 Bemba
+Bena
 Bengali
 Benin
 Bermuda
@@ -6844,6 +6113,7 @@ Binaries
 Bislama
 BitmapCursor
 BlankCursor
+Blin
 BlockingQueuedConnection
 Bolivia
 BosniaAndHerzegowina
@@ -6854,7 +6124,6 @@ BottomLeftCorner
 BottomRightCorner
 BottomToolBarArea
 BouvetIsland
-BpLcb,Hcp
 Brazil
 Breton
 BritishIndianOceanTerritory
@@ -6871,36 +6140,13 @@ Burundi
 BusyCursor
 Byelorussian
 BypassGraphicsProxyWidget
-C  tD
-C 3G 
-C H9B u
-C H9F
-C$%ww
-C$HcF 
-C(9C t
-C(D;C
-C(HcC(H
-C(L9C0u-
-C(L9`
-C0D9`<t
-C0D9`<tN
-C0D9|$P
-C0D;`
-C0H+C8H
-C0HcH
-C0L9`
-C0L9` 
-C0L9`0
+C-Yn
 C4C;C;CUCdCkCrCrCyCyCyCyC
-C5R?	
 C:/tmp
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtCore4.pdb
 C:\temp\qt-common
 C:\temp\qt-user
-C@H9P
 CDATA
-CH ulA
-CL:>8
 CP1250
 CP1251
 CP1252
@@ -6914,8 +6160,6 @@ CP819
 CP850
 CP866
 CP874
-CWD>~3
-C`D9kh~vH
 CallNextHookEx
 Cambodia
 Cambodian
@@ -6924,7 +6168,6 @@ Canada
 Cannot create %1 for output
 Cannot load library %1: %2
 Cannot mix incompatible Qt library (version 0x%x) with this library (version 0x%x)
-Cannot move to target thread (%p)
 Cannot open %1 for input
 Cannot open for output
 Cannot remove source file
@@ -6939,10 +6182,7 @@ CaymanIslands
 Central Morocco Tamazight
 CentralAfricanRepublic
 CentralMoroccoTamazight
-CfD9#u
-ChD#C|D
-ChHcKp
-ChHcKpH
+Chad
 CharNextExA
 Characters
 CheckState
@@ -6958,7 +6198,6 @@ Chile
 China
 Chinese
 ChristmasIsland
-Cl%ww
 ClickFocus
 ClipOperation
 Clipboard
@@ -7000,8 +6239,6 @@ CostaRica
 Could not open input redirection for reading
 Could not open output redirection for writing
 Country
-Cp9Apt
-CpHcKp
 Create
 CreateDirectoryW
 CreateEventW
@@ -7017,8 +6254,7 @@ Croatia
 Croatian
 CrossCursor
 CrossPattern
-Ct=&H
-Cu@M;
+Cuba
 CursorChange
 CursorMoveStyle
 CursorShape
@@ -7034,322 +6270,14 @@ Cyprus
 Cyrillic
 Czech
 CzechRepublic
-D W?{W
 D#D/D:DGD{D
-D#G|D
-D#O|M#
-D$ 9D$`u
-D$ ;P
-D$ ;X
-D$ ;p
-D$ @B
-D$ A3
-D$ A9D$
-D$ D3|$4
-D$ D9p
-D$ E2
-D$ E3
-D$ H;
-D$ Hc
-D$ HcH
-D$ HcP
-D$ HcX
-D$ Hcx
-D$ I;
-D$ Lc@
-D$ fA;
-D$ fE3
-D$ t,H
-D$!E3
-D$"fA;
-D$$A#
-D$$A;
-D$$D;
-D$$fA;
-D$&8\$&t-8X
-D$(	H
-D$(@B
-D$(A+J
-D$(E3
-D$(F3
-D$(HcH
-D$(HcP
-D$(fff
-D$(t	H
-D$(t%
-D$(u#E
-D$)/H
-D$,Ek
-D$-Hc
-D$.Ei
-D$0+D$4
-D$09A
-D$09D$4H
-D$0;p
-D$0A+
-D$0A3
-D$0A;
-D$0E3
-D$0F3
-D$0H+P
-D$0H;
-D$0Hc
-D$0HcB
-D$0HcH
-D$0HcP
-D$0HcX
-D$0I;
-D$0L;
-D$0Lc
-D$0McZ
-D$0f;D$2
-D$0f;D$8s?H
-D$0fA
-D$0fA;
-D$0fA;E
-D$0fD
-D$0fE;u
-D$0ff
-D$0fffff
-D$0ww
-D$4E+
-D$4Hc
-D$6E3
-D$6f;
-D$6f;B
-D$6fD;
-D$6fD;J
-D$8+D$<
-D$8+D$<f
-D$8;P
-D$8D9p
-D$8E3
-D$8E;
-D$8H;
-D$8H;D$@t
-D$8HcA
-D$8HcH
-D$8HcP
-D$8L+[ I;
-D$8Lc,
-D$8Lc@
-D$8f;
-D$8fA;
-D$<fD
-D$@9E_L
-D$@D;
-D$@D;B
-D$@E3
-D$@H+
-D$@H9
-D$@H;
-D$@HcH
-D$@HcP
-D$@Ic
-D$@IcB
-D$@IcI
-D$@Lc@
-D$@M9
-D$@fD
-D$@fff
-D$@t&I
-D$A:.
-D$DD9@
-D$DE3
-D$H uqL
-D$H/H
-D$HD9T$\
-D$HD;h
-D$HE3
-D$HH;
-D$HH;D$@t
-D$HHcH
-D$HHcP
-D$HLc@
-D$I/H
-D$J/H
-D$JE3
-D$LE3
-D$P0A
-D$P;D$D}
-D$P;GP~
-D$P;P
-D$PD9~
-D$PD;
-D$PE3
-D$PH#
-D$PH9A
-D$PH;
-D$PHc
-D$PHc<
-D$PHcH
-D$PHcP
-D$PHc\$PH
-D$PI;
-D$PIc)
-D$PL9oXt
-D$PLc@
-D$Pf;C"r
-D$PfA;
-D$PfE;
-D$T;GT}
-D$TA;
-D$XE3
-D$XH;
-D$XHc
-D$XHcP
-D$XI;
-D$XIc
-D$XLc@
-D$XfE;
-D$Xu+H
-D$\;U
-D$`/H
-D$`9H
-D$`;X
-D$`@2
-D$`A9C
-D$`D+p
-D$`D;
-D$`D;@
-D$`E3
-D$`H9A
-D$`H;
-D$`H;p(
-D$`Hc
-D$`HcH
-D$`I;
-D$`f;
-D$`f;G
-D$`fA;
-D$h9D$p
-D$hA;C
-D$hE3
-D$hH9H
-D$hH;
-D$hH;X
-D$hHcy
-D$hIc
-D$hLc@
-D$hMc
-D$hf;
-D$hfA;
-D$ht+
-D$p H
-D$p+X
-D$p9H
-D$pE3
-D$pE;
-D$pH;
-D$pHcH
-D$pLc
-D$pf;
-D$pf;F r
-D$pfA;
-D$tA8
-D$x;X
-D$xA:/
-D$xA;
-D$xD9p
-D$xD;
-D$xE3
-D$xHcH
-D$xHcp
-D$xLc@
-D$xfA
-D$xfA;
-D$xfD
-D$xt3D
-D)^@3
-D+L$P
-D+L$PD
-D+Y`D
-D+apH
-D+d$0E
-D+d$TD+
-D+ewH
-D+l$TH
-D+mwH
-D+qpA
-D+t$PA
-D+ypA
 D0DPDpD
-D1:Hc
-D3,$A
-D3,$A3
-D3D$ 3
-D3D$,A
-D3L$83
-D3d$$A3
-D3d$$D
-D3l$ A
-D3l$,
-D3t$$D
-D3t$(A#
-D3t$4A
-D8	t	H;
-D8"u%H
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8c(u
-D8d$Ht
-D8d$x
-D8h1u&D9
-D8k(u
-D8l$xM
-D8qrt
-D8qst
-D8t$ t
-D9A0t H
-D9D$h}1ff
-D9T$l
-D9T$p
-D9Yl|/M
-D9a(u
-D9a<v
-D9c(t)H
-D9c,u
-D9d$ 
-D9d$T~1A
-D9d$`
-D9l$P
-D9l$p
-D9l$xttI
-D9l$xtuI
-D9mp~j
-D9n<u!D
-D9nxu
-D9q\t!
-D9t$PuxA
-D9w<t
-D:$)u'L
-D;#t)I
-D;#t/I
-D;#t1I
-D;#teI
-D;+t1
-D;+tOI
-D;ATu
-D;C<t
-D;L$Pu
-D;O<|
-D;T$$E
-D;Zl~
-D;]p|
-D;d$ u
-D;kh|
-D;n |
-D;t$P
 DOCTYPE
-D\$PH
 Danish
 DashDotDotLine
 DashDotLine
 DashLine
+Data
 DateFormat
 DayOfWeek
 DayOfWeekSection
@@ -7378,7 +6306,6 @@ Dense4Pattern
 Dense5Pattern
 Dense6Pattern
 Dense7Pattern
-Des_SV
 DescendingOrder
 Deseret
 Desktop
@@ -7394,6 +6321,7 @@ DiffuseDither
 DirectConnection
 Direction
 Directory not empty
+Dirs
 DirsFirst
 DirsLast
 DispatchMessageW
@@ -7420,86 +6348,37 @@ DragMoveCursor
 DragResponse
 Drawer
 Drives
+Drop
 DropAction
 DropActions
-Dt$XH
 DuplicateHandle
 Dutch
-DwUIc
+Dw=I
 DynamicPropertyChange
-D|$@H
-E @t>L
-E A9E
-E A;P
-E Hcx
-E f;F
-E f;Fjv
-E fD;
-E"f;Fnv
-E"fD;
-E$f;FXv
-E$f;Flv
-E$fD;
 E%E(E2E2EHERE\EdE
-E)gHE+
-E)~HD
-E+Y`E
-E-Ak!
-E0D;@
 E0EPEpE
-E2fD;
-E4fD;
-E8HcH
-E8fA;
-E8fE;
-E9,$~T3
-E94$t
-E94$u}
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-E;A(}
-E;_<sLI
-E=Kv-
-E>nEA
-E@f;u8
-E@fE;
 ECMA-114
 ECMA-118
-EHHcH
-EHHcP
-EL$0H
 ELEMENT
 EMPTY
 ENTITIES
 ENTITY
 EP%P%P%P%P%P%P%P%P%P%P%
-EPD;h
 EPOCDEVICE
 EPOCDEVICE (
 EPOCROOT
 EPOCROOT environment variable
-ETA+E(
-ETA+E(;
-EXHcH
-EXHcP
-EXIcP
-EXf9D
-EXfffff
+E\rKv
 EastTimor
 Ecuador
-Eg/#?
-Eg/HcP
 Egypt
-Either
-El$ E
 ElSalvador
 ElideLeft
 ElideMiddle
 ElideNone
 ElideRight
 EmbeddingControl
+Embu
 EnabledChange
 EncodePointer
 Encoding %1 is unsupported
@@ -7514,8 +6393,6 @@ Entity '%1' not declared.
 EntityReference
 EnumSystemLocalesA
 EnumWindows
-EoD;9H
-EpfA;
 EquatorialGuinea
 Eritrea
 Error reading from process
@@ -7524,10 +6401,6 @@ Esperanto
 Estonia
 Estonian
 Ethiopia
-EwH;_
-EwHcP
-ExD9`
-ExD;`
 Examples
 Exception
 ExclusiveStates
@@ -7539,27 +6412,17 @@ Expected
 Expected character data.
 ExportExternalSymbolsHint
 Extra content at end of document.
-E|$@H
-F 9\$`
-F A9F
-F()h(H
-F(9l$`
-F(D)`(H
 F(H(J(L(N(P(
 F090FP%PFpF
-F0D;`
-F0D;h
-F0HcH
+F0:s
+F0:s\f
 F9FCFIFPFcFrFyF
-F>qUxv
-F@D9h
-F@H9A@t
 FDiagPattern
-FEDGI
+FF\n@Y
 FGHIJ
-FH ulA
 FIXED
 FP%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%
+FU\r8r+
 Failure to write block
 FalklandIslands
 FaroeIslands
@@ -7567,9 +6430,7 @@ Faroese
 FastTransformation
 FatalAppExitA
 February
-Ff;C(s;
-Ff;C@s;
-FhHcNp
+Fiji
 FijiCountry
 FijiLanguage
 File exists
@@ -7603,9 +6464,6 @@ FontChange
 ForbiddenCursor
 FormatMessageW
 Forward
-FpA9F|r
-FpA9F|s\
-FpD9nxu
 FramelessWindowHint
 France
 FreeEnvironmentStringsW
@@ -7618,38 +6476,22 @@ FrenchSouthernTerritories
 Friday
 Frisian
 Friulian
-FtA9F|
 Fulah
 Function not implemented
 Function pointer must not be null
 FutureCallOut
-FxD9nxu
-G	J	M	P	S	V	Y	\	_	b	e	h	k	n	q	t	w	z	}	
-G %ww
-G$%ww
 G'HDHDHYH\HkHyHyH
 G*GjGqG{G
 G0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 G0 0 0 0 0 0 0G0 0 0 0 0 0 0 PGpG
-G090u
-G09Xp
-G0Hc	H
-G0Hc@
-G<@8o4
-GD%ww
-GH uTI
-GH uWIc
-GH ueA
-GH ulA
-GH uqL
-GLD#G|L#
-GPLc@
-GXIcP
+GFVX
+G\tJ\tM\tP\tS\tV\tY\t\\t_\tb\te\th\tk\tn\tq\tt\tw\tz\t}\t
 Gabon
 Gaelic
 Galician
 Gambia
 Ganda
+Geez
 Georgia
 Georgian
 German
@@ -7732,7 +6574,6 @@ GetWindowThreadProcessId
 Ghana
 Gibraltar
 GlobalColor
-GpA9G|r
 GrJoq>@
 GrabKeyboard
 GrabMouse
@@ -7758,8 +6599,8 @@ Greenland
 Greenlandic
 Grenada
 GroupSwitchModifier
-GtA9G|
 Guadeloupe
+Guam
 Guarani
 Guatemala
 Guinea
@@ -7768,101 +6609,9 @@ Gujarati
 Gurmukhi
 Gusii
 Guyana
-H ATH
-H SUVWATH
-H SVWATH
-H SVWH
-H SWH
-H WATAUAVAWH
-H!\$ H
-H!|$ L
-H(D9i
-H(H9J(u
+H$6t
 H*0"ZOW
-H+C H
-H+M0x
-H+~ H
-H0HcA
-H9)th
-H9)u$
-H9/t.D
-H91tK
-H93t2H
-H98uVH
-H99t$
-H99t&
-H99t(
-H99t+
-H99t-
-H99t.
-H99t0H
-H99t?
-H99tCH;
-H9A t
-H9A u
-H9A8uGH
-H9AHt
-H9C(t
-H9C(u0H
-H9CXtj
-H9D$0
-H9D$@
-H9FHt
-H9GHt
-H9H t
-H9H(u
-H9L$Xt'H
-H9P8t
-H9^ t
-H9hHt
-H9o8t?
-H9oPt1H
-H9p(u
-H9s t
-H9s8t
-H9yptCf
-H9{(t
-H9{8t
-H;D$Pu
-H;K(w
-H;L$0
-H;\$0
-H;\$H
-H;]Ht
-H;^ t
-H;^ t 
-H;^ t H
-H;^ t)
-H;^ u
-H;^(t
-H;^(t$
-H;^(t)f
-H;^(t*H
-H;^(t,
-H;^(u
-H;^0t
-H;^0tC
-H;^0tF
-H;_0tC
-H;t$Ht
-H;|$8
-H;~0t
-H;~0u
-H@H9O@t
-HA\_^[
-HA]A\_^][
-HA^A]A\_^[
-HA^A]A\_^]
-HA^A]][
-HA^_^[
-HA_A]_[
-HA_A^
-HA_A^A]A\][
-HA_A^A]A\_^[]
-HA_A^A]A\_^][
-HA_A^A]_^[
-HA__[]
-HA__^[
+H5+g
 HH:mm:ss
 HKEY_CLASSES_ROOT
 HKEY_CLASSES_ROOT\
@@ -7872,6 +6621,8 @@ HKEY_LOCAL_MACHINE
 HKEY_LOCAL_MACHINE\
 HKEY_USERS
 HKEY_USERS\
+HMXB
+HOME
 HOMEDRIVE
 HOMEPATH
 HSMRa
@@ -7879,74 +6630,10 @@ HWND_BOTTOM
 HWND_NOTOPMOST
 HWND_TOP
 HWND_TOPMOST
-H[><y5
-H_^][
+HZ*g
 Haiti
 Hausa
 Hawaiian
-Hc1D;
-Hc;;x
-HcA`H
-HcApH
-HcB`H
-HcB`H+
-HcC H
-HcC0H
-HcC\Hc
-HcC`H
-HcCpH
-HcD$$Lc\$ D
-HcD$(
-HcD$0H
-HcD$4D
-HcD$8H
-HcD$8I
-HcD$HH;
-HcD$XH
-HcD$XI
-HcD$hA
-HcD$hH
-HcD$xH
-HcE Hc
-HcE8H
-HcEHH
-HcEWD
-HcE`H
-HcF`H
-HcFpH
-HcG`H
-HcGpH
-HcH<H
-HcJlD
-HcJlH
-HcK(L
-HcKpH
-HcL$`H;
-HcM H
-HcM`LcEHM
-HcN(L
-HcO H
-HcQ0H
-HcQpH
-HcS(H
-HcShH
-HcSlH
-HcT$8McJ
-HcT$H
-HcWlH
-Hc\$8H
-Hc\$HL
-Hc]$H
-Hc^<L
-HcslH
-Hct$@H
-HculH
-HcxlH
-Hc{lH
-Hc|$4
-Hc}lH
-Hc~lD
-Hc~lH
 Headers
 HeapAlloc
 HeapCreate
@@ -7958,18 +6645,8 @@ HeapSize
 HeardAndMcDonaldIslands
 Hebrew
 HelpRequest
-Hes_HN
-Hf9DJ
-Hhu H
-Hhu3H
-Hhu7H
-Hhu9H
-Hhu>H
-HhuMH
-HhuQH
-HhuWH
-HhuYH
 Hidden
+Hide
 HideToParent
 Hindi
 HistoryType
@@ -7987,33 +6664,9 @@ Hungarian
 Hungary
 Hwnd gaining capture (0x%p)
 Hwnd gaining keyboard focus (0x%p)
-I fD;A(scA
 I!I;I;IIIIISIdIuIuI
-I-1-T-;
 I-1-T-I-T-;
 I-O-O-0-b-T-;
-I-O-O-;
-I8HcA
-I94$tt
-I9A@uyL
-I9C(t
-I9EHt
-I9\$0t8
-I;<$t
-I;<$t+
-I;<$t;f
-I;F(t
-I;N(u
-I;O(t
-I;\$ 
-I;_ t
-I;_ t-
-I;_ u
-I;_(t
-I;_(t(
-I;_0t
-I;_0t$
-I;_0u
 I;u>A
 IBM819
 IBM850
@@ -8060,39 +6713,15 @@ ISO-8859-7
 ISO-8859-8
 ISO-8859-9
 ISODate
-Ic,$H
-Ic<$I
-Ic@lM
-IcF(H
-IcHlM
-IcIlH
-IcJlH
-IcL$$HcB
-IcRlH
-IcSlH
-IcZlH
 Iceland
 Icelandic
 IconDrag
 IconTextChange
-IcqHH
-IcqHI
-Ict$l
-Ict$lH
-Ic|$lH
-IfA+TA
+Igbo
 IgnoreAction
 IgnoreAspectRatio
 IgnoreCase
-Ihu!H
-Ihu/H
-Ihu7H
-IhuHH
-IhuLH
-IhuNH
-IhuSH
 IiGM>nw
-Il?333333c?
 Illegal byte sequence
 Illegal namespace declaration.
 ImageConversionFlags
@@ -8114,7 +6743,8 @@ ImhUrlCharactersOnly
 Imports
 Improper link
 ImprovedSearchHeuristics
-In %s:
+In %s:\n  Plugin uses incompatible Qt library (%d.%d.%d) [%s]
+In %s:\n  Plugin uses incompatible Qt library\n  expected build key "%s", got "%s"
 In file %s, line %d: Out of memory
 InBack
 InBounce
@@ -8174,7 +6804,8 @@ Invalid document.
 Invalid entity value.
 Invalid processing instruction name.
 Invalid seek
-IpHcA
+Iran
+Iraq
 Ireland
 Irish
 Is a directory
@@ -8324,12 +6955,6 @@ IsYiRadicals
 IsYiSyllables
 IsYijingHexagramSymbols
 Iscii-Dev
-Iscii-Gjr
-Iscii-Knd
-Iscii-Mlm
-Iscii-Ori
-Iscii-Tlg
-Iscii-Tml
 Israel
 Italian
 Italy
@@ -8343,28 +6968,17 @@ ItemIsTristate
 ItemIsUserCheckable
 ItemSelectionMode
 IvoryCoast
-J	K!K=KKKtKtKtK~K~K
-J `>,
 J-J-JUJXJmJ~J
-J9*`+
+J\tK!K=KKKtKtKtK~K~K
 Jamaica
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
 Japan
 Japanese
 Javanese
-Jhu	H
-Jhu!H
-JhuJH
 Jordan
-K 3O 
-K A9S
-K SWH
-K(HcQ
-K0HcQ
-K0LcY
-K8HcQ
-K@HcQ
+July
+June
 KERNEL32.dll
 KOI8-R
 KOI8-RU
@@ -8804,9 +7418,6 @@ KeyboardLayoutChange
 KeyboardModifierMask
 KeyboardModifiers
 KeypadModifier
-Khu9H
-KhuBH
-KhuYH
 Kikuyu
 KillTimer
 Kinyarwanda
@@ -8815,189 +7426,18 @@ Kiribati
 Klqto%
 Konkani
 Korean
+Koro
 Koyra Chiini
 KoyraChiini
 Koyraboro Senni
 KoyraboroSenni
-KpHcA
 Kpelle
 Kurdish
 Kurundi
 Kuwait
 Kyrgyzstan
-L!l$HL!l$@
-L$ ;Q
-L$ A;
-L$ AUAWH
-L$ D+
-L$ D;
-L$ E3
-L$ E;
-L$ H3
-L$ H;
-L$ HcA
-L$ HcQ
-L$ L;
-L$ SH
-L$ SUVWATH
-L$ SUVWH
-L$ SWH
-L$ USWH
-L$ UVWATAUAVAWH
-L$ UVWH
-L$ UWAWH
-L$ VWATAUAVH
-L$ WH
-L$ fD
-L$ t!
-L$ t"
-L$ t'
-L$ ubI
-L$$;H
-L$$E3
-L$(H3
-L$(I+
-L$(I;
-L$(L;
-L$(ff
-L$.Ei
-L$.Hi
-L$0;Q
-L$0<`t
-L$0A;
-L$0E3
-L$0H3
-L$0H;
-L$0HcQ
-L$0Hc\$0H
-L$0Hcx
-L$0fE91u
-L$0t!
-L$0t"
-L$0t#3
-L$0t'
-L$0t(
-L$0u8
-L$1E2
-L$2fD;
-L$4;H
-L$4fF
-L$8;y
-L$8E+
-L$8E3
-L$8H+
-L$8H3
-L$8H;
-L$8Hc
-L$8HcA
-L$8Hc\$8H
-L$8I;
-L$8f;
-L$8fD94iu
-L$8fD;
-L$8t9
-L$@;|
-L$@A;
-L$@D;
-L$@E3
-L$@H3
-L$@HcA
-L$@HcQ
-L$@Hc\$@H
-L$@Mc
-L$@f;
-L$@t!
-L$@t'
-L$@vd
-L$DA3
-L$HD;
-L$HE3
-L$HH3
-L$HH;
-L$HHcQ
-L$HIcS
-L$Ht 
-L$LE3
-L$PE3
-L$PH3
-L$PHcQ
-L$PL+
-L$PLc
-L$PfH
-L$PfI
-L$T;L$PI
-L$T;L$Pu"D
-L$TA;
-L$TE3
-L$TIc
-L$XE3
-L$XH3
-L$XH;
-L$XHcy
-L$XLc
-L$XLcA
-L$XLc`
-L$Xt'
-L$Xu)
-L$\E3
-L$`D9A
-L$`H3
-L$`HcQ
-L$`Ic
-L$`Lc
-L$`fG
-L$`uT
-L$dLc
-L$h;H
-L$h@"
-L$hA;
-L$hD;
-L$hE3
-L$hH3
-L$hH;
-L$hHcQ
-L$lE;
-L$p9H
-L$p;H
-L$pE3
-L$pH3
-L$pH99t	D
-L$pHcA
-L$pHcQ
-L$pIc
-L$pLcA
-L$pt"
-L$xA;
-L$xD;
-L$xE3
-L$xH;
-L$xHc
-L$xIc
-L$xfE;
 L'L0L0LALALALPLPLaLaLaLoLrLrL
-L)t$0L
-L+T$0A
-L+t$0H
-L0	A:
-L09A:
-L0:A:
-L9	u	H
-L9!u$
-L9!u'
-L9(uo
-L9.t!H
-L9/u'M
-L91u#
-L98u"H
-L9?usH
-L9@@t
-L9cPt
-L9cXt
-L9l$xt'
-L9mHu3D
-L9nPtcL9n`t]L9nhtWM
-L9p t
-L?UUUUUUU?
+LANG
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -9022,36 +7462,7 @@ LayoutDirection
 LayoutDirectionAuto
 LayoutDirectionChange
 LayoutRequest
-Lc!D;
-Lc"E3
-Lc(D;
-Lc)D;
-Lc0D;
-Lc2E;
-LcA(H
-LcA<E3
-LcBlL
-LcD$hA
-LcD$lM
-LcEHH
-LcIlI
-LcL$@I+
-LcL$HD
-LcL$xK
-LcMHK
-LcM`K
-LcX,D
-Lc\$8A
-Lc\$8HcJ
-Lc\$PI
-Lc\$XA
-Lc\$hA
-LcclM
-Lcd$(E
-Lcd$pH
-LcglM
-LcqlM
-Lct$LM
+Lb`w
 Leave
 LeaveCriticalSection
 LeaveWhatsThisMode
@@ -9061,7 +7472,6 @@ LeftButton
 LeftDockWidgetArea
 LeftToRight
 LeftToolBarArea
-Les_NI
 Lesotho
 Liberia
 Libraries
@@ -9094,14 +7504,11 @@ Low German
 LowGerman
 Luxembourg
 Luyia
-M ubI
-M"f;N8v
 M'y>0y
 M-N-V-T-I-1-;
 M0M3M6M6MGMPMPMPMaM
-M9.t=H
-M94$tiA
-M94$t|A
+M8MF
+MGiI
 MIB: 
 MK_CONTROL
 MK_LBUTTON
@@ -9111,15 +7518,12 @@ MK_SHIFT
 MK_XBUTTON1
 MK_XBUTTON2
 MM/dd/yy
+MMMM
 MPenCapStyle
 MPenJoinStyle
 MSWindowsFixedSizeDialogHint
 MSWindowsOwnDC
 MSecSection
-MXHcA
-MXHcQ
-MXLcA
-MXLca
 MacGLClearDrawable
 MacGLWindowChange
 MacRoman
@@ -9137,8 +7541,10 @@ Malay
 Malayalam
 Malaysia
 Maldives
+Mali
 Malta
 Maltese
+Manx
 Maori
 MapViewOfFile
 Marathi
@@ -9166,19 +7572,14 @@ MaxUser
 MaximumSize
 Mayotte
 Mb@?X
-Mc,$E
-McClH
-McJlM
-McZlM
-McelM
+MbP?
 MenubarUpdated
+Meru
 MessageBoxW
 MetaCall
 MetaModifier
 MetropolitanFrance
 Mexico
-Mg<?u#
-MhuNH
 Micronesia
 MidButton
 MiddleButton
@@ -9209,37 +7610,32 @@ MouseButtonRelease
 MouseButtons
 MouseMove
 MouseTrackingChange
+Move
 MoveAction
 MoveFileW
 Mozambique
 MsgWaitForMultipleObjectsEx
+MtY&
 MultiByteToWideChar
 MultiByteToWideChar: Cannot convert multibyte text
-MwHcA
 Myanmar
+N$XA
 N'N3N?NIN[NgNjN
-N(9i(u
-N(D9a(u
-N-0-U-;
-N-0-U-Z-;
-N-0-b-;
 N-0-b-b-S-;
-N3`d?
-N8HcA
-N>O=I9
-N@HcA
 NCurveTypes
 NDATA
 NDATA in parameter entity declaration.
-NH;H(s
-NH;H8s
-NHcFpH
 NJ2"v
+NKeb
 NMTOKEN
 NMTOKENS
+NOPQ
 NOTATION
 NSizeHints
+NULL
 N_3haO
+Nama
+Name
 Namespace prefix '%1' not declared
 Namibia
 NativeGesture
@@ -9256,10 +7652,10 @@ NetherlandsAntilles
 NetworkReplyUpdated
 NewCaledonia
 NewZealand
-NhunH
 Nicaragua
 Niger
 Nigeria
+Niue
 No child processes
 No common ancestor for targets and source of transition from state '%1'
 No epocroot element found
@@ -9301,6 +7697,7 @@ NonClientAreaMouseButtonPress
 NonClientAreaMouseButtonRelease
 NonClientAreaMouseMove
 NonModal
+None
 NorfolkIsland
 North Ndebele
 NorthNdebele
@@ -9321,17 +7718,11 @@ November
 Nyankole
 Nynorsk
 O&O)O8OKOWOcOfOfOfOiOiOiOlOlOlO
-O(8G:t"L
 O(hHj
 O*9y]
 O-S-a-0-O-1-I-T-;
-O-S-a-;
-O0HcA
-O0HcQ
-O8u"H
-OF>;^
-OPt^;
-OPt_;
+O8M2
+OY<0
 OZw3(?
 Object::%s:  (receiver name: '%s')
 Object::%s:  (sender name:   '%s')
@@ -9345,9 +7736,8 @@ Occitan
 October
 OddEvenFill
 OffsetFromUTC
-Ohu9H
-OhufH
 OkRequest
+Oman
 OpaqueMode
 OpenFileMappingW
 OpenHandCursor
@@ -9382,36 +7772,20 @@ OutQuart
 OutQuint
 OutSine
 OutputDebugStringW
-P H+F H;
-P H9G 
+O}N8
 P%Q%R%Q
-P.fA;
 P0PDPDPWPWPWPWPmP
-P2fA;
-P6fA;
-P:fA;
-P>q_Y~
-PA\][
-PA\_]
-PA\_^
-PA\_^][
-PA]A\_
-PA]A\_^]
-PA]][
-PA]_[
-PA]_]
-PA]_^
-PA^A]A\][
-PA^A]A\^]
-PA^A]A\_^[]
-PA^A]A\_^][
-PA^_[
-PA^_]
-PA_A^A]A\_^[
-PA_A^A]A\_^]
-PA__]
+P3*g
+P6)g
+P65g
+PATH
 PCDATA
+PD&g
+PE&g
+PF\rg
+PO*g
 PUBLIC
+PV\vg
 Paint
 Pakistan
 Palau
@@ -9428,6 +7802,7 @@ PartiallyChecked
 Pashto
 Paths
 Paused
+Pe6^
 PeekMessageW
 PeekNamedPipe
 PenCapStyle
@@ -9436,8 +7811,9 @@ PenStyle
 PeoplesRepublicOfCongo
 Permission denied
 Persian
-Pes_PR
+Peru
 Philippines
+Pi\vg
 PinchGesture
 Pitcairn
 PlainText
@@ -9463,20 +7839,8 @@ ProcessingInstruction
 Processor features: 
 PuertoRico
 Punjabi
-PxH+CPH
-PxH9C 
-PxH9C(
-PzfA;
-P|> ,o
-P~fA;
-Q	R/R;R;R_RpRpR
-Q D;B
-Q D;j
-Q H9Q0u
 Q*Q9Q<QUQUQXQaQqQ
 Q3CString
-Q5rHg,>
-Q>.3Z<
 QAbstractAnimation
 QAbstractAnimation*
 QAbstractAnimation::pause: Cannot pause a stopped animation
@@ -9580,7 +7944,7 @@ QEasingCurve
 QEasingCurve: Invalid curve type %d
 QEvent
 QEvent::Type
-QEventDispatcher: Failed to create QEventDispatcherWin32 internal window: %d
+QEventDispatcher: Failed to create QEventDispatcherWin32 internal window: %d\n
 QEventDispatcherWin32
 QEventDispatcherWin32::registerTimer: Failed to create a timer
 QEventDispatcherWin32::registerTimer: invalid arguments
@@ -9681,13 +8045,13 @@ QObject()
 QObject(0x0) 
 QObject(QObject*)
 QObject*
-QObject: Cannot create children for a parent that is in a different thread.
+QObject: Cannot create children for a parent that is in a different thread.\n(Parent is %s(%p), parent's thread is %s(%p), current thread is %s(%p)
 QObject: shared QObject was deleted directly. The program is malformed and may crash.
 QObject::connect: Can't find method %s on instance of class %s
 QObject::connect: Can't find signal %s on instance of class %s
 QObject::connect: Cannot connect %s::%s to %s::%s
-QObject::connect: Cannot queue arguments of type '%s'
-QObject::connect: Incompatible sender/receiver arguments
+QObject::connect: Cannot queue arguments of type '%s'\n(Make sure '%s' is registered using qRegisterMetaType().)
+QObject::connect: Incompatible sender/receiver arguments\n        %s::%s --> %s::%s
 QObject::disconect: cannot use constructor as argument %s::%s
 QObject::disconect: method %s not found on class %s
 QObject::disconect: signal %s not found on class %s
@@ -9695,7 +8059,7 @@ QObject::installEventFilter(): Cannot filter events for objects in a different t
 QObject::killTimer: timers cannot be stopped from another thread
 QObject::killTimers: timers cannot be stopped from another thread
 QObject::moveToThread: Cannot move objects with a parent
-QObject::moveToThread: Current thread (%p) is not the object's thread (%p).
+QObject::moveToThread: Current thread (%p) is not the object's thread (%p).\nCannot move to target thread (%p)\n
 QObject::moveToThread: Widgets cannot be moved to a new thread
 QObject::setParent: Cannot set parent, new parent is in a different thread
 QObject::startTimer: QTimer can only be used with threads started with QThread
@@ -9706,6 +8070,7 @@ QPalette
 QParallelAnimationGroup
 QPauseAnimation
 QPauseAnimation::setDuration: cannot set a negative duration
+QPen
 QPixmap
 QPluginLoader
 QPoint
@@ -9862,6 +8227,7 @@ QTimer::singleShot: Invalid slot specification
 QTransform
 QTranslator
 QUnifiedTimer: Cannot change animation driver while animations are running
+QUrl
 QUrl(
 QUrl::setPort: Out of range
 QVariant
@@ -9892,17 +8258,14 @@ QWindowsFileSystemWatcherEngine
 QWindowsFileSystemWatcherEngine: unknown message '%c' send to thread
 QWindowsFileSystemWatcherEngineThread
 QWindowsPipeWriter
-QXHcI`;J
-QXHcJ
 QXmlStream
 QXmlStreamReader: addData() with device()
 QXmlStreamWriter: No device
 QXmlStreamWriter: writeCurrentToken() with invalid state.
-QZ^&A
+Q\tR/R;R;R_RpRpR
 Q_LLONG
 Q_ULLONG
 Qatar
-Qfffffff
 Qkkbal
 Qt Factory Cache %1.%2/%3:/%4
 Qt Plugin Cache %1.%2.%3/%4
@@ -9918,12 +8281,17 @@ QueryPerformanceCounter failed, although QueryPerformanceFrequency succeeded.
 QueryPerformanceFrequency
 QueryWhatsThis
 QueuedConnection
+Quit
 R(T(V(X(Z(\(
 R1h58
 REQUIRED
+RSDS
+RX0e
+R\vpD
 RaWCQ;
 RadialGradientPattern
 RaiseException
+Read
 Read-only file system
 ReadFile
 ReadOnly
@@ -9960,10 +8328,8 @@ RestoreProperties
 Result too large
 ResumeThread
 Reunion
-RfA+\@
 RhaetoRomance
 RichText
-RichgI
 RightArrow
 RightButton
 RightDockWidgetArea
@@ -9985,40 +8351,14 @@ RussianFederation
 Rwanda
 S%T%U%V%W%X%Y%Z%[%\%]%^%_%`%a%
 S'S5S>SZSuS
-S(9C8sq
-S(HcJ
-S>$hkDh$h>[2
+S;uD
 SHGetSpecialFolderPathW
 SIZE_MAXHIDE
 SIZE_MAXIMIZED
 SIZE_MAXSHOW
 SIZE_MINIMIZED
 SIZE_RESTORED
-SOPGI
-SUATH
-SUAUAVH
-SUAUH
-SUVATAVH
-SUVWATAUAVAWH
-SUVWATAUAVH
-SUVWATAUAWH
-SUVWATAUH
-SUVWATAWH
-SUVWATH
-SUVWAUAVH
-SUVWAUH
-SUVWH
-SVAUAVH
-SVAWH
-SVWATAUAVAWH
-SVWATAUH
-SVWATAVH
-SVWATH
-SVWAUAVAWH
-SVWAUAWH
-SVWAVH
-SWAUH
-SWAVAWH
+SKyu
 SWP_DRAWFRAME
 SWP_FRAMECHANGED
 SWP_HIDEWINDOW
@@ -10032,8 +8372,9 @@ SWP_NOSENDCHANGING
 SWP_NOSIZE
 SWP_NOZORDER
 SWP_SHOWWINDOW
-SXHcK`;J
 SYSTEM
+S[bH
+Saho
 Saint Barthelemy
 Saint Martin
 SaintBarthelemy
@@ -10054,6 +8395,7 @@ ScrollBarAlwaysOn
 ScrollBarAsNeeded
 ScrollBarPolicy
 SecondSection
+Sena
 Senegal
 September
 Sequence ']]>' not allowed in content.
@@ -10092,6 +8434,7 @@ Shona
 Shortcut
 ShortcutContext
 ShortcutOverride
+Show
 ShowToParent
 ShowWindowRequest
 Sichuan Yi
@@ -10104,6 +8447,7 @@ SineCurve
 Singapore
 Singhalese
 Siswati
+Size
 SizeAllCursor
 SizeBDiagCursor
 SizeFDiagCursor
@@ -10120,6 +8464,7 @@ SmoothTransformation
 SockAct
 Software\
 Software\Symbian\EPOC SDKs\CommonPath
+Soga
 SolidLine
 SolidPattern
 SolomonIslands
@@ -10181,61 +8526,14 @@ SystemLocaleLongDate
 SystemLocaleShortDate
 SystemRoot
 SystemTimeToTzSpecificLocalTime
-T$ E3
-T$ M;
-T$0A;
-T$0E3
-T$0Hc
-T$0Hc0L
-T$0t@H
-T$8;H
-T$8A;
-T$8E3
-T$8fA
-T$@A;
-T$@E2
-T$@E3
-T$@E;
-T$@fE
-T$HE3
-T$HH;
-T$HI;
-T$PD+
-T$PE3
-T$PE;
-T$PI;
-T$PIc
-T$Pf;W(r
-T$Pt'H
-T$Pu'
-T$T;M
-T$X+T$P
-T$X9)H
-T$XE3
-T$XH;
-T$\+T$T
-T$\;T$XH
-T$\E3
-T$`A;
-T$`E3
-T$`I;
-T$eLc
-T$hD9S
-T$hE3
-T$hfA
-T$iLc
-T$pE3
-T$pH3
-T$pHcH
-T$tHc
-T$x+S
-T$xA+
-T$xD9S
 T&<rskO
 T)T,T<T<T[T[TgTuTuT}T
+T65g
+THxV
 TIS-620
 TLW(0x%p) HittestCode(0x%x) MouseMsg(%s)
 TSCII
+T\tT\fT
 TabFocus
 TabletEnterProximity
 TabletLeaveProximity
@@ -10258,6 +8556,8 @@ Tatar
 Telugu
 TerminateProcess
 TerminateThread
+Teso
+Text
 TextBrowserInteraction
 TextDate
 TextEditable
@@ -10269,6 +8569,7 @@ TextInteractionFlags
 TextSelectableByKeyboard
 TextSelectableByMouse
 TexturePattern
+Thai
 Thailand
 The file '%1' is not a valid Qt plugin.
 The plugin '%1' uses incompatible Qt library. (%2.%3.%4) [%5]
@@ -10287,12 +8588,15 @@ Tibetan
 Tifinagh
 Tigre
 Tigrinya
+Time
 TimeSpec
 Timer
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
+Tn9{
+Togo
 Tokelau
 Tonga
 TongaCountry
@@ -10300,6 +8604,7 @@ TongaLanguage
 Too many links
 Too many open files
 Too many open files in system
+Tool
 ToolBarArea
 ToolBarArea_Mask
 ToolBarAreas
@@ -10336,27 +8641,14 @@ Turkmen
 Turkmenistan
 TurksAndCaicosIslands
 Tuvalu
-U HcJ
+Tyap
+Type
 U#U8UBUBUBUEUEUNU
-UA>N0Wl
-UATAUAVAWH
-UATAUH
-UATAVAWH
-UATAVH
-UAUAVH
+UNC\
 UNKNOWN
-USAVH
 USER32.dll
 USERPROFILE
-USVATAUH
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAUH
-USVWATH
-USVWH
 USVirginIslands
-USWAVAWH
-USWAWH
 UTF-16
 UTF-16BE
 UTF-16LE
@@ -10364,19 +8656,8 @@ UTF-32
 UTF-32BE
 UTF-32LE
 UTF-8
+UUUU
 UUUUUU
-UVATAUAVH
-UVATAUI
-UVATH
-UVAWH
-UVWATAUAVAWH
-UVWATAUAVAWL
-UVWATAUH
-UVWATAVH
-UWATAUAVH
-UWATAUAWH
-UWATH
-UXHcJ
 Uganda
 Uigur
 Ukraine
@@ -10408,37 +8689,24 @@ Unsorted
 Unsupported XML version.
 UpArrow
 UpArrowCursor
-UpIcR
 UpdateLater
 UpdateRequest
 UpdateSoftKeys
+Urdu
 Uruguay
+User
 UserType
-Uy]E3
 Uzbek
 Uzbekistan
-V-S-[-;
-V-S-[-\-;
-V0HcB
 V7VRVRVYV}V}V}V}V
-VATAUH
-VD$pf
-VT$pD
-VUUUA
-VUUUUUUUH
-VWATAUAVH
-VWATAUAWH
-VWATAVAWH
-VWATH
-VWAUH
-VXHcN`;J
-V_:X1:
 Vanuatu
 VaticanCityState
+Vc0a
 Venda
 Venezuela
 VerPattern
 Vertical
+Vh`D
 VietNam
 Vietnamese
 VirtualQuery
@@ -10447,15 +8715,10 @@ Visual C++ CRT: Not enough memory to complete call to strerror.
 VisualMoveStyle
 Volapuk
 Vunjo
-W%X%Y%Z%[%
 W'tVa
-W(IcR
 W*W7W>WHWHWOWOWOW_WlWxW
-W0HcB
+W4vC
 WARNING: QApplication was not created in the main() thread.
-WATAUAVAWH
-WATAUH
-WATAVH
 WA_AcceptDrops
 WA_AcceptTouchEvents
 WA_AlwaysShowToolTips
@@ -10576,7 +8839,6 @@ WA_X11NetWmWindowTypeUtility
 WA_X11OpenGLOverlay
 WINSAMI2
 WJ?,C
-WM_(%1)
 WM_ACTIVATE
 WM_ACTIVATEAPP
 WM_AFXFIRST
@@ -10921,8 +9183,7 @@ WS_TILED
 WS_TILEDWINDOW
 WS_VISIBLE
 WS_VSCROLL
-WXHcO`;J
-WaNd?
+W\vX\vX\vX"X4X4XDXVXfXuXuX
 WaitCursor
 WaitForMultipleObjects
 WaitForSingleObject
@@ -10937,7 +9198,7 @@ Warning: Missing or invalid epocroot attribute in default device in devices.xml.
 Warning: Missing or invalid epocroot attribute in device '%s' in devices.xml.
 Warning: No default device set in devices.xml.
 Warning: No device matching EPOCDEVICE (%s) in devices.xml.
-Warning: failed to resolve epocroot.
+Warning: failed to resolve epocroot.\nEither\n    1. Set EPOCROOT environment variable to a valid value.\n or 2. Ensure that the HKEY_LOCAL_MACHINE\Software\Symbian\EPOC SDKs\CommonPath registry key is set, and then\n       a. Set EPOCDEVICE environment variable to a valid device\n    or b. Specify a default device in the devices.xml file.
 Wednesday
 Welsh
 WesternSahara
@@ -10997,215 +9258,181 @@ Write
 WriteConsoleW
 WriteFile
 WriteOnly
-X"X4X4XDXVXfXuXuX
 X%Z%\%^%`%b%d%f%h%j%l%n%
 X11BypassWindowManagerHint
 X7iii9P
-XA]A\_[
-XA]A\_^][
-XA^A]^[
-XA_A^
-XA_A^A]A\_^[]
-XA_A^A]A\_^][
 XAxis
 XButton1
 XButton2
+XJQ\vx
 XML declaration not at start of document.
-X_^[]
+Xa&g
 Xhosa
-Xt)fA
-XuxfA
-Y f;Q(r
+XsBI
 Y!Y<YHYHYHYHYHYPYWY|Y
 Y-I-N-a-0-Y-;
-Y>kX>M
 YAxis
-YD$`f
 YFDAt
+YcwN
 YearSection
 YearSection2Digits
 Yemen
-YfA;F
 Yiddish
 Yoruba
 Yugoslavia
 Z%T%i%f%`%P%l%
 Z'ZGZlZvZ~Z
-Z* ,	
 ZAxis
-ZD$0H
 ZOrderChange
-Z\>z8
+ZSq>
 Zambia
 ZeroTimerEvent
 Zhuang
 Zimbabwe
-Zod(^?
+Zjz\v
+Zulu
 [%General]
-[(IcC
-[*ncd>0
-[,D9c(A
-[-&LMb#{'
 [-S-\-0-O-1-I-T-;
-[-S-\-;
 [.[.[;[g[g[
-[0-9]
-[8IcC
-[@IcC
 [A-Za-z][A-Za-z0-9._\-]*
 [CDATA[
 [General]
-[XIcC
-[^A-Za-z]
-[a-zA-Z]
+[h1R
 [thunk]:
-[xIcC
-\$ ;9Hc
-\$ ATH
-\$ E3
-\$ H;
-\$ Hc
-\$ HcA
-\$ IcK
-\$ NcD&
-\$ UVAUH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ VH
-\$ VWATAUAVH
-\$ WATAUH
-\$ WATAVH
-\$ WH
-\$$A;
-\$(Ek
-\$(H;
-\$,E3
-\$0)x(H
-\$0+F 
-\$03E 
-\$09i\t
-\$0@2
-\$0A;
-\$0E9c
-\$0H9F H
-\$0H;
-\$0Hc
-\$0HcA
-\$0HcJ
-\$0Ic@
-\$0IcH
-\$0IcQ
-\$0L+
-\$0Mc
-\$0McC
-\$0fA
-\$0fff
-\$0t)H
-\$0t/H
-\$8HcA
-\$8IcC
-\$8L3
-\$8McC
-\$8fD
-\$@@8=
-\$@E3
-\$@E;|$
-\$@H;
-\$@Hc
-\$@IcK
-\$DA;
-\$DE2
-\$DE3
-\$Df;
-\$DfA9	u
-\$HE;t$
-\$HH;
-\$HHc
-\$HHcA
-\$HIcC
-\$HfD
-\$Hfff
-\$P+B
-\$P9Z
-\$PD8d$PM
-\$PE3
-\$PE;|$
-\$PH;
-\$PHcJ
-\$PHcP
-\$PIc
-\$TE3
-\$XA_A^A]A\_^]
-\$XD+i
-\$XE;|$
-\$XH;
-\$XHc
-\$XHc|$`H
-\$XIcC
-\$Xu	H
 \$\$\{EPOCROOT\}
-\$\(.*\)
-\$`Ei
-\$`H;
-\$`I9\$0t9
-\$`Ic
-\$`IcC
-\$`Mc
-\$`fA;
-\$`fff
-\$`t	H
-\$gm?
-\$h+X
-\$hE3
-\$lD9\$xu
-\$p@8t$4tFH
-\$pA9Z
-\$pHc
-\$pHc{
-\$pIc
-\$pIcC
-\$pL9c
-\$xE3
-\$xHc|$4
 \*\*\*\4\4\4\4\G\S\]\]\d\j\q\y\y\
 \-0-7-3-3-o-0-\-n
 \-0-N-0-c-I-V-\-M-N-V-T-I-1-T
 \-I-<-0-a-\-n
-\1\1\"
 \HKEY_CURRENT_USER\
 \HKEY_LOCAL_MACHINE\
 \OrganizationDefaults
-\\?\UNC
-\\?\UNC\
-] IcC
+\f \f!\f"\f#\f$\f%\f&\f'\f(\f)\f*\f+\f,\f-\f.\f/\f0\f1\f2\f3\f4\f5\f6\f7\f8\f9\f:\f;\f<\f=\f>\f?\f@\fA\fB\fC\fD\fE\fF\fG\fH\fI\fJ\fK\fL\fM\fN\fO\fP\fQ\fR\fS\fT\fU\fV\fW\fX\fY\fZ\f[\f\\f]\f^\f_\f`\fa\fb\fc\fd\fe\ff\fg\fh\fi\fj\fk\fl\fm\fn\fo\fp\fq\fr\fs\ft\fu\fv\fw\fx\fy\fz\f{\f|\f}\f~\f
+\f&\f?\f5\f>\f0\f
+\f(\f*\f3\f5\f9\f`\fa\f
+\f*\fM\f0\f?\f2\fM\f;
+\f,\f<\fL\f\\fl\f|\f
+\f4\f4\f>\f>\f>\f>\fW\fa\fa\fh\f
+\f>\fD\fF\fH\fJ\fM\fU\fV\f
+\fA\f-\f>\f0\f$\f 
+\fA\f0\fA\f5\f>\f0\f
+\fIscii-Knd
+\fIscii-Mlm
+\fM\f0\f5\f>\f0\f
+\f\f\f\f\f\f\f\f\f\f\f\f
+\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f
+\f\ffr_CA
+\f\t\f\n\f\v\f\f\f\r\f
+\far_EG
+\fde_AT
+\fzh_HK
+\n \n!\n"\n#\n$\n%\n&\n'\n(\n)\n*\n+\n,\n-\n.\n/\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n;\n<\n=\n>\n?\n@\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\n[\n\\n]\n^\n_\n`\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\nk\nl\nm\nn\no\np\nq\nr\ns\nt\nu\nv\nw\nx\ny\nz\n{\n|\n}\n~\n
+\n es_VE
+\n"\n%\n(\n+\n.\n1\n4\n
+\n#\n.\n5\nF\nS\n
+\n$es_CO
+\n'\nC\nK\nR\nz\nz\n
+\n(\n*\n0\n2\n3\n5\n6\n8\n9\nY\n\\n^\n^\nr\nt\n
+\n(es_PE
+\n*\nM\n0\nH\n2\n;
+\n,es_AR
+\n0es_EC
+\n4es_CL
+\n8es_UY
+\n<\n<\n>\n>\n?\n?\n@\nB\nG\nH\nK\nM\np\nq\n
+\n<es_PY
+\n>\n,\n@\n-\n>\n0\n$\n~
+\n@es_BO
+\nDes_SV
+\nHes_HN
+\nIscii-Gjr
+\nIscii-Ori
+\nLes_NI
+\nNHSd
+\nPes_PR
+\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\t\n\n\n\v\n\f\n\r\n
+\r \r!\r"\r#\r$\r%\r&\r'\r(\r)\r*\r+\r,\r-\r.\r/\r0\r1\r2\r3\r4\r5\r6\r7\r8\r9\r:\r;\r<\r=\r>\r?\r@\rA\rB\rC\rD\rE\rF\rG\rH\rI\rJ\rK\rL\rM\rN\rO\rP\rQ\rR\rS\rT\rU\rV\rW\rX\rY\rZ\r[\r\\r]\r^\r_\r`\ra\rb\rc\rd\re\rf\rg\rh\ri\rj\rk\rl\rm\rn\ro\rp\rq\rr\rs\rt\ru\rv\rw\rx\ry\rz\r{\r|\r}\r~\r
+\r \r$\r(\r,\r0\r3\r5\r8\r<\r?\rA\rD\rH\rM\rP\rR\rU\rY\r[\r]\r_\ra\rc\rf\rj\rm\ro\rr\rv\r{\r~\r
+\r(\r*\r9\r`\ra\r
+\r(\rA\r5\r0\r?\r;
+\r(\rM\r$\rM\r/\r(\rM\r\r  
+\r(\rM\r$\rM\r/\rM
+\r*\rM\r0\r?\r2\rM\r\r ;
+\r,\r<\rL\r\\rl\r|\r
+\r7\rF\rF\rd\ry\r
+\r8\rM\r1\rM\r1\rM\r;
+\r>\r/\r0\rM\r\r ;
+\r>\r/\r1\r>\r4\rM\r
+\r>\rC\rF\rH\rJ\rM\rW\rW\r1
+\rA\r(\rM\r(\rG\r0\r
+\rJ\r5\rM\r5\r>\r4\rM\r
+\rK\r,\r0\rM\r\r ;
+\r\r\r\r\r\r\r\r\r\r\r\r
+\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\r\t\r\n\r\v\r\f\r\r\r
+\rmj>zjZ
+\t \t!\t"\t#\t$\t%\t&\t'\t(\t)\t*\t+\t,\t-\t.\t/\t0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t:\t;\t<\t=\t>\t?\t@\tA\tB\tC\tD\tE\tF\tG\tH\tI\tJ\tK\tL\tM\tN\tO\tP\tQ\tR\tS\tT\tU\tV\tW\tX\tY\tZ\t[\t\\t]\t^\t_\t`\ta\tb\tc\td\te\tf\tg\th\ti\tj\tk\tl\tm\tn\to\tp\tq\tr\ts\tt\tu\tv\tw\tx\ty\tz\t{\t|\t}\t~\t
+\t \t#\t&\t)\t,\t/\t2\t5\t8\t;\t>\tA\tD\t
+\t en_JM
+\t&\t?\t$\tM\t/\t5\t>\t0\t;
+\t(en_BZ
+\t)\t)\t;\tn\tz\t
+\t*\t0\t>\t9\tM\t(\td
+\t*\t8\tE\tf\tn\ty\t
+\t*\tM\t0\t?\t2\t;
+\t*\tM\t0\tG\t2\t;
+\t*\tM\t0\tH\t2\t;
+\t,en_TT
+\t49Z
+\t9\t=\t=\tX\ta\t
+\t<\t<\t>\tL\tM\tM\tQ\tT\tb\tc\t
+\t>\t(\tG\t5\t>\t0\t@\t;
+\tA\t0\tA\t5\t>\t0\t;
+\tG\t.\tM\t,\t0\t;
+\tIscii-Bng
+\tIscii-Pnj
+\tJR>8o
+\tM\t$\tB\t,\t0\t;
+\tM\t0\t,\t>\t0\t;
+\tM\t0\t5\t>\t0\t;
+\t\fen_AU
+\t\t$\tM\t$\t0\t 
+\t\t\n\n\v\v\f\f\f\f\r\r\r\r
+\t\t\t\n\t\v\t\f\t\r\t
+\t\t\t\t\t\n\v\v\v\v\v\v\v\v\v\n
+\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\v \v!\v"\v#\v$\v%\v&\v'\v(\v)\v*\v+\v,\v-\v.\v/\v0\v1\v2\v3\v4\v5\v6\v7\v8\v9\v:\v;\v<\v=\v>\v?\v@\vA\vB\vC\vD\vE\vF\vG\vH\vI\vJ\vK\vL\vM\vN\vO\vP\vQ\vR\vS\vT\vU\vV\vW\vX\vY\vZ\v[\v\\v]\v^\v_\v`\va\vb\vc\vd\ve\vf\vg\vh\vi\vj\vk\vl\vm\vn\vo\vp\vq\vr\vs\vt\vu\vv\vw\vx\vy\vz\v{\v|\v}\v~\v
+\v \v#\v&\v)\v,\v/\v2\v
+\v(\v*\v0\v2\v3\v6\v9\v=\v=\v\\v]\v_\va\v
+\v*\v*\v9\v@\vG\vP\vP\ve\vk\vk\vx\vx\vx\v
+\v*\vM\v0\vG\v2\v;
+\v<\v<\v>\vC\vG\vH\vK\vM\vV\vW\v
+\vA\v0\vA\v,\v>\v0\v;
+\vG\v.\vM\v,\v0\v;
+\vIscii-Tlg
+\vIscii-Tml
+\vM\v0\v,\v>\v0\v;
+\vNHSo
+\v\t\v\n\v\v\v\f\v\r\v
+\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v
 ] ]-]:]U]U]U]q]q]{]{]{]
-]%^%_%`%a%
-])6M>&
 ]/qNnN
-]0IcC
-]>)2X
-]PIcC
-]PIc{
-]PMcc
-]XHc{
-]XIc{
-]XL9'
 ]]]]><![CDATA[>
-]_D8u_M
-]wE9s
-^ H;^ t0
-^ H;^ tmL
 ^&^7^7^>^C^S^g^
-^(H;^(@
 ^(`(b(d(f(h(
-^RfN>
 ^Volume\{([a-z]|[0-9]|-)+\}\\
 ^oEZ_
 _,_,_,_5_>_F_F_F_F_F_M_M_T_h_h_n_x_
-_0)w8
-_0I;_0
 __based(
 __cdecl
 __clrcall
@@ -11222,12 +9449,10 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
-_oD>Kg
 _q_animationFinished()
 _q_canReadStandardError()
 _q_canReadStandardOutput()
@@ -11248,22 +9473,10 @@ _q_start()
 _q_startupNotification()
 _q_uncontrolledAnimationFinished()
 _qt_autotest_force_engine_
-_w~<H
-` AUH
-` AVH
 `(`7`L`L`j`p`
-`+!]?
-`.rdata
-`>n>w%
-`A\_]
-`A\_^
-`A\_^[]
-`A]A\_^]
-`A^A]A\_^[]
-`A^A]A\_^][
-`A_A^A]A\_^]
-`A_^]
+`65g
 `RTTI
+`\vc\vf\vi\vk\vn\vp\vs\vv\vy\v|\v
 `adjustor{
 `anonymous namespace'
 `copy constructor closure'
@@ -11275,7 +9488,6 @@ _w~<H
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -11310,9 +9522,11 @@ _w~<H
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
-a L9a0u
 a,a<a<aSaSafayaya
+a.bg
+a.se
 aa.no
+aaht
 aarborte.no
 ab.ca
 abcdefghijklmnopqrstuvwxyz
@@ -11354,6 +9568,7 @@ aca.pro
 academy.museum
 accident-investigation.aero
 accident-prevention.aero
+acol
 act.au
 act.edu.au
 act.gov.au
@@ -11366,12 +9581,14 @@ adler32
 adler32_combine
 adler32_combine64
 adm.br
+adnk
 adult.ht
 adv.br
 advapi32
 adygeya.ru
 ae.org
 aejrie.no
+aero
 aero.mv
 aero.tt
 aerobatic.aero
@@ -11383,6 +9600,7 @@ afnrtv
 ag.it
 agdenes.no
 agents.aero
+agil
 agr.br
 agrar.hu
 agriculture.museum
@@ -11451,6 +9669,7 @@ andria-trani-barletta.it
 andriabarlettatrani.it
 andriatranibarletta.it
 anghke.no
+anif
 animated
 annefrank.museum
 anthro.museum
@@ -11460,6 +9679,7 @@ ao.it
 aosta.it
 aoste.it
 ap.it
+apos
 application/x-color
 application/x-qabstractitemmodeldatalist
 application/x-qt-image
@@ -11473,7 +9693,6 @@ ar.com
 ar.it
 ar.us
 ar_DZ
-ar_EG
 ar_IQ
 ar_LY
 ar_MA
@@ -11513,6 +9732,8 @@ ascoli-piceno.it
 ascolipiceno.it
 ase.no
 aseral.no
+asia
+asin
 asker.no
 askim.no
 askoy.no
@@ -11542,6 +9763,7 @@ astrakhan.ru
 astronomy.museum
 at-band-camp.net
 at.it
+atan
 atan2
 ath.cx
 atlanta.museum
@@ -11563,22 +9785,28 @@ author.aero
 auto.pl
 automotive.museum
 av.it
+aved
 avellino.it
+aver
 averoy.no
 aviation.museum
 avocat.fr
 avoues.fr
 awake()
 axis.museum
+ayro
 az.us
 b%c%d%e%f%g%h%i%j%k%l%
-b-S-M-;
 b-S-M-b-S-c-;
-b-S-O-;
 b-S-O-b-S-;
+b.bg
+b.br
+b.se
 b/b6b@bObVbybyb
-b?^Cy
 b@J7<
+b\fp\v0
+b\rVBP
+b\vp\nP
 ba.it
 babia-gora.pl
 bad char class syntax
@@ -11605,6 +9833,7 @@ balsfjord.no
 baltimore.museum
 bamble.no
 bar.pro
+bara
 barcelona.museum
 bardu.no
 bari.it
@@ -11656,9 +9885,11 @@ bible.museum
 bielawa.pl
 biella.it
 bieszczady.pl
+biev
 bievat.no
 bilbao.museum
 bill.museum
+bind
 bindal.no
 bio.br
 bir.ru
@@ -11690,6 +9921,7 @@ blogdns.com
 blogdns.net
 blogdns.org
 blogsite.org
+blue
 bmd.br
 bmer.no
 bn.it
@@ -11705,6 +9937,7 @@ bolt.hu
 bolzano.it
 bomlo.no
 bonn.museum
+bool
 boston.museum
 botanical.museum
 botanicalgarden.museum
@@ -11756,14 +9989,12 @@ bytes
 bytesWritten(qint64)
 bytom.pl
 bz.it
-c AUH
-c UAUAVI
-c f;S
-c%Q%W%]%
-c0&>`
+c.bg
+c.la
+c.se
 c4c>c>c>c>c>c>c>cHc
-c8f;S(r
-c?FA@s}
+c>F2
+cO~j
 ca.it
 ca.na
 ca.us
@@ -11861,6 +10092,7 @@ cc.wy.us
 cci.fr
 ce.it
 cechire.com
+ceil
 celtic.museum
 center.museum
 certification.aero
@@ -11869,6 +10101,7 @@ cesenaforli.it
 ch.it
 chambagri.fr
 championship.aero
+char
 char 
 charset
 charset=
@@ -12123,6 +10356,7 @@ contemporary.museum
 contemporaryart.museum
 control.aero
 convent.museum
+coop
 coop.br
 coop.ht
 coop.km
@@ -12134,6 +10368,8 @@ corporation.museum
 correios-e-telecomunica
 corvette.museum
 cosenza.it
+cosf
+cosh
 costume.museum
 council.aero
 countryestate.museum
@@ -12151,6 +10387,7 @@ cremona.it
 crew.aero
 crimea.ua
 crotone.it
+crys
 cs.it
 csHPRoman8
 csIBM866
@@ -12182,6 +10419,7 @@ currentTime
 currentValue
 curveShape
 cv.ua
+cyan
 cyber.museum
 cymru.museum
 cyrillic
@@ -12189,46 +10427,11 @@ cz.it
 czech
 czeladz.pl
 czest.pl
-d$ E3
-d$ H;
-d$ IcD$
-d$ UH
-d$(D+i
-d$(IcD$
-d$(ff
-d$0;S
-d$0E3
-d$0Ic
-d$0IcD$
-d$0Lc
-d$8A3
-d$8E3
-d$8H+
-d$8IcD$
-d$8t.H
-d$@E3
-d$@IcD$
-d$@Lc
-d$@tI
-d$HE3
-d$HIcD$
-d$LfD
-d$PMk
-d$TfD
-d$XIcD$
-d$`D;
-d$`E3
-d$`H;
-d$`IcD$
-d$hE3
-d$hIcD$
-d$pA;
-d$pIcD$
-d$pfffff
-d$xH+{
-d$xIcD$
 d-d:dHdHdHdYddd{d{d{d
-d?000000`?
+d.bg
+d.se
+dQy/
+dX&L
 daegu.kr
 daejeon.kr
 dagestan.ru
@@ -12241,6 +10444,7 @@ darkGreen
 darkMagenta
 darkRed
 darkYellow
+data
 data error
 dataChanged(QModelIndex,QModelIndex)
 database.museum
@@ -12248,12 +10452,12 @@ davvenj
 davvenjarga.no
 davvesiida.no
 dc.us
+dddd
 dddd, MMMM dd, yyyy
 ddr.museum
 de.com
 de.no
 de.us
-de_AT
 de_CH
 de_LI
 de_LU
@@ -12292,6 +10496,7 @@ destroyed(QObject*)
 detroit.museum
 device
 devices
+dg'g
 dgca.aero
 dielddanuorri.no
 dingen.no
@@ -12337,11 +10542,6 @@ drammen.no
 drangedal.no
 drobak.no
 dsherad.no
-dt D:
-dt"fD;
-dt%fD;
-dtfD:
-dtwfD;
 dudinka.ru
 duration
 durham.museum
@@ -12375,14 +10575,9 @@ dyroy.no
 e+000
 e-burg.ru
 e-e-e:eIeIe`ewe
+e.bg
+e.se
 e164.arpa
-e8A_A^A]A\_^[]
-e8IcD$
-e@M9|$8tWA
-ePIcD$
-eXIcD$
-eXM9g
-e`IcD$
 easingCurve
 eastafrica.museum
 eastcoast.museum
@@ -12394,6 +10589,7 @@ ed.ci
 ed.cr
 ed.jp
 ed.pw
+edit
 edu.ac
 edu.af
 edu.al
@@ -12494,7 +10690,6 @@ education.museum
 educational.museum
 educator.aero
 edunet.tn
-egIcD$
 egersund.no
 egyptian.museum
 eid.no
@@ -12516,7 +10711,6 @@ emp.br
 empty
 en.it
 en.no
-en_AU
 en_CA
 en_GB
 en_IE
@@ -12561,7 +10755,6 @@ entomology.museum
 enum 
 environment.museum
 environmentalconservation.museum
-epIcD$
 epilepsy.museum
 epocroot
 equipment.aero
@@ -12594,15 +10787,15 @@ etnedal.no
 eu.com
 eu.int
 eun.eg
+even
 evenassi.no
 evenes.no
 eventSource
 eventType
 evje-og-hornnes.no
-ewIcD$
-ewffff
 ewh/?y
 exchange.aero
+exec
 execute()
 exeter.museum
 exhibition.museum
@@ -12615,100 +10808,13 @@ experts-comptables.fr
 expiryTimeout
 express.aero
 extern "C" 
-f!C<fA
-f!D$:H
-f!D$BH
-f%g%h%i%j%
 f'f0fIfRfRf]f]ffflfwfwfwfwf
-f+D$Pf
-f+D$pf;D$hw
-f94Au
-f9<Ht
-f9D$$
-f9D$$u
-f9EHt5H
-f9EHtNH
-f9EXt/H
-f9EXtHH
-f9\$0uo@
-f;.h"
-f;D$ w
-f;D$@uD
-f;D$@ug
-f;D$hu+H;
-f;D$hu,I;
-f;D$hw
-f;D$xu
-f;E@s(
-f;E@s*
-f;EPr
-f;G"r
-f;G:v
-f;J@r
-f;JXr
-f;L$8u
-f;P@r
-f;QXr
-f;U8s
-f;l$0
-f;|$4r<H
-f;|$8r<H
-fA9,@u8f
-fA9,Pu$;
-fA90u
-fA91u
-fA93t:H
-fA9:u
-fA9<Bu
-fA9<Bu	A
-fA9L$
-fA;D$@s-
-fA;D$Pr
-fA;T$8s
-fA;|I
-fB94h
-fB9DE
-fC9TQ
-fD	k<H
-fD!d$:H
-fD!l$:H
-fD!l$ZH
-fD9 L
-fD9 t
-fD9 u
-fD9 v
-fD9!u
-fD9"u
-fD9#tSH
-fD9#u
-fD9#v
-fD9$8uGfD9|8
-fD9*u
-fD9,H
-fD94Fu
-fD95Z
-fD96u	E
-fD98u
-fD9:r
-fD9:t
-fD9<Au
-fD9<Fu
-fD9t$b
-fD9tH
-fD9|F
-fD;A s%A
-fD;C(r
-fD;J@s
-fD;JXs
-fD;K(s#f
-fD;]8s
-fD;d$0
-fD;t$(
-fD;|$4
-fE9!u
-fE99u
-fE;TK
-fJBGo
+f.bg
+f.se
+fGa>
+fP~V
+f\fn\nr\rt\tv\v""??''\\
+fabs
 false
 fam.pk
 family.museum
@@ -12730,9 +10836,6 @@ ferp@
 ferrara.it
 fet.no
 fetsund.no
-fffff
-ffffff
-fffffff
 fg.it
 fghijklmno
 fh.se
@@ -12746,6 +10849,7 @@ fie.ee
 field.museum
 figueres.museum
 filatelia.museum
+file
 file error
 fileChanged(QString)
 fileChanged(QString,bool)
@@ -12761,6 +10865,7 @@ finished()
 finished(int)
 finished(int,QProcess::ExitStatus)
 finland.museum
+finn
 finnoy.no
 firenze.it
 firm.co
@@ -12775,6 +10880,7 @@ fjell.no
 fjord.no
 fl.us
 fla.no
+flah
 flakstad.no
 flanders.museum
 flatanger.no
@@ -12784,6 +10890,7 @@ flight.aero
 float
 flog.br
 floor
+flor
 flora.no
 florence.it
 florida.museum
@@ -12792,6 +10899,7 @@ flushStream()
 fm.br
 fm.it
 fm.no
+fmod
 fnd.br
 foggia.it
 folkebibl.no
@@ -12816,7 +10924,6 @@ fot.br
 foundation.museum
 fr.it
 fr_BE
-fr_CA
 fr_CH
 fr_LU
 frameChanged(int)
@@ -12896,6 +11003,8 @@ frosta.no
 froya.no
 fst.br
 ftpaccess.cc
+ftsp
+fu`z
 fuel.aero
 fuettertdasnetz.de
 func:
@@ -12904,12 +11013,14 @@ fuoisku.no
 fuossko.no
 furniture.museum
 fusa.no
+fvba
+fwlb
 fylkesbibl.no
 fyresdal.no
-g	f	;
-g	g	;
-g	h	;
 g(g0gEgEgKgYgggugugugugugug
+g.bg
+g.no
+g.se
 g12.br
 ga.us
 gaivuotna.no
@@ -12954,18 +11065,14 @@ german-swiss
 get_crc_table
 getmyip.com
 gets-it.net
-gfffA
-gfffffffH
-gfffffffH+
-gfffffffI
-gfffffffL+
-gfffffffM+
-gfffi
 ggf.br
 giehtavuoatna.no
 giessen.museum
+gilc
+gild
 gildesk
 gildeskal.no
+gilr
 gilr@
 giske.no
 gjemnes.no
@@ -12980,8 +11087,11 @@ gliwice.pl
 globalRestorePolicy
 glogow.pl
 gloppen.no
+gmQ;
 gmina.pl
+gnah
 gne.no
+gneb
 gniezno.pl
 go.ci
 go.cr
@@ -13128,6 +11238,7 @@ gov.vc
 gov.vn
 gov.ws
 government.aero
+gqr<
 gr.it
 gr.jp
 grajewo.pl
@@ -13136,6 +11247,7 @@ grandrapids.museum
 grane.no
 granvin.no
 gratangen.no
+gray
 graz.museum
 great britain
 greek
@@ -13175,7 +11287,6 @@ gs.va.no
 gs.vf.no
 gsm.pl
 gstad.no
-gu E3
 gu.no
 gu.us
 guernsey.museum
@@ -13218,16 +11329,14 @@ gztell64
 gzungetc
 gzwrite
 h h h h h-h-h-h7hUh^h^hehlhlhlh
-h>1my
-hA]A\_^[]
-hA]A\_^][
-hA_A]
-hA_A^A]A\_^[]
-hA_A^A]A\_^][
+h.bg
+h.se
 hEvent
-hT	N;
+hJuA
+hPU3
+hS*g
+hT\tN;
 hTmQ;
-h_^][
 ha.cn
 ha.no
 habmer.no
@@ -13295,8 +11404,10 @@ hki.no
 hkker
 hl.cn
 hl.no
+hlRO
 hm.no
 hn.cn
+hnis
 hobby-site.com
 hobby-site.org
 hobol.no
@@ -13306,6 +11417,7 @@ hol.no
 hole.no
 holland
 holmestrand.no
+holt
 holt.no
 holtalen.no
 home.dyndns.org
@@ -13333,6 +11445,8 @@ hoylandet.no
 hp-roman8
 hppi.no
 hs.kr
+hsxD
+http
 http-equiv=
 http://
 http://www.w3.org/2000/xmlns/
@@ -13344,11 +11458,18 @@ hurdal.no
 hurum.no
 hvaler.no
 hwnd(0x%p) 
+hwsc
+hxUr
 hyllestad.no
-i H9i0u
-i+D$hLc
+i.bg
+i.no
+i.ph
+i.se
 i8i8i?iMiSidi
+i91k
+i]Wb
 ia.us
+iaht
 iamallama.com
 ibestad.no
 id.ir
@@ -13413,6 +11534,7 @@ inflateSetDictionary
 inflateSync
 inflateSyncPoint
 inflateUndermine
+info
 info.at
 info.az
 info.bb
@@ -13440,6 +11562,7 @@ initialState
 installTranslator
 insufficient memory
 insurance.aero
+int 
 int.az
 int.bo
 int.ci
@@ -13597,17 +11720,15 @@ ivgu.no
 ivuotna.no
 iz.hr
 izhevsk.ru
-j(l(n(
+j.bg
 j0j6j6j6j?jNjNj^jgjgjgjgjxj
-j>>A?1
-j?V()
-j?{$*
 jamal.ru
 jamison.museum
 jan-mayen.no
 jar.ru
 jaworzno.pl
 jddar.no
+jeTb
 jefferson.museum
 jeju.kr
 jelenia-gora.pl
@@ -13622,6 +11743,7 @@ jewishart.museum
 jfk.museum
 jgora.pl
 jl.cn
+jobs
 jobs.tt
 jogasz.hu
 johka.no
@@ -13642,11 +11764,11 @@ juif.museum
 jur.pro
 jus.br
 jx.cn
-k VATAUAVAWH
-k VWATH
-k WATAUH
 k kDkRkRkakikikikik
 k-uralsk.ru
+k.bg
+k.no
+k.se
 k12.ak.us
 k12.al.us
 k12.ar.us
@@ -13703,7 +11825,8 @@ k12.wa.us
 k12.wi.us
 k12.wv.us
 k12.wy.us
-k>4	F
+k>4\tF
+kU'9
 kafjord.no
 kalisz.pl
 kalmykia.ru
@@ -13716,6 +11839,7 @@ karate.museum
 karelia.ru
 karikatur.museum
 karlsoy.no
+karm
 karmoy.no
 karpacz.pl
 kartuzy.pl
@@ -13728,8 +11852,10 @@ kchr.ru
 kemerovo.ru
 kepno.pl
 ker.no
+kerg
 kernel32
 ketrzyn.pl
+keys
 kg.kr
 kh.ua
 khabarovsk.ru
@@ -13747,6 +11873,7 @@ kill()
 kirkenes.no
 kirov.ru
 kirovograd.ua
+kjO}
 klabu.no
 klepp.no
 klodzko.pl
@@ -13808,94 +11935,12 @@ kviteseid.no
 kvits
 kvitsoy.no
 ky.us
-l!;b	F
-l$ ATH
-l$ D!
-l$ E3
-l$ HcE
-l$ VATAUH
-l$ VAUAVE3
-l$ VH
-l$ VWATAUAVH
-l$ VWATH
-l$ VWAUH
-l$ WATAUAVAWH
-l$ WATAUH
-l$ WAUAVH
-l$ WH
-l$ fA
-l$ fD
-l$$3|$
-l$$E3
-l$(3D$4A
-l$(E3
-l$(HcE
-l$(LcnlL
-l$(fD
-l$*H;
-l$,@2
-l$,A3
-l$0A3
-l$0A;
-l$0D;
-l$0E3
-l$0HcE
-l$0IcE
-l$4fA
-l$8A^A]^
-l$8E3
-l$8Hc
-l$8HcE
-l$8IcE
-l$8t7D9
-l$<A#
-l$@9h
-l$@@2
-l$@H;
-l$@HcE
-l$@IcE
-l$@tz3
-l$DfD
-l$HA;
-l$HD)h
-l$HD3|$ A3
-l$HHco A
-l$HIcO
-l$HfD
-l$NE3
-l$PD;
-l$PE3
-l$PH;
-l$PIcH
-l$PMcE
-l$Pff
-l$Pfff
-l$Pfffff
-l$Pt9A
-l$VE3
-l$XD+a
-l$XD+i
-l$XH;8H
-l$XHcE
-l$XfA;
-l$Xffff
-l$ZfD
-l$\fD
-l$^E3
-l$`A;
-l$`H;
-l$`Hc
-l$`HcE
-l$bfD
-l$hIc
-l$hL;
-l$pHcE
-l$pL9
-l$pMc
-l$xE+
-l$xHcE
+l.bg
+l.no
+l.se
 l6lBlTl`l`l`l`lnlnlnltltl{l{l
 l6qnk
+lDa>
 la-spezia.it
 la.no
 la.us
@@ -13904,6 +11949,7 @@ labor.museum
 labour.museum
 laheadju.no
 lahppi.no
+lahv
 lajolla.museum
 lakas.hu
 lanbib.se
@@ -13914,6 +11960,7 @@ landes.museum
 langev
 langevag.no
 lans.museum
+lapv
 lapy.pl
 laquila.it
 lardal.no
@@ -13957,6 +12004,7 @@ leksvik.no
 lel.br
 len.no
 lenvik.no
+ler.
 ler.hedmark.no
 lerdal.no
 lesja.no
@@ -14032,6 +12080,7 @@ lillehammer.no
 lillesand.no
 limanowa.pl
 lincoln.museum
+lind
 lindas.no
 lindesnes.no
 lingen.no
@@ -14040,8 +12089,10 @@ lipetsk.ru
 living.museum
 livinghistory.museum
 livorno.it
+lmat
 ln.cn
 lo.it
+loab
 loabat.no
 loadHints
 local
@@ -14053,6 +12104,7 @@ logistics.aero
 lom.no
 lomza.pl
 london.museum
+long
 long 
 long long
 lookbehinds not supported, see QTBUG-2371
@@ -14060,10 +12112,12 @@ loopCount
 loppa.no
 lorenskog.no
 losangeles.museum
+losi
 loten.no
 louvre.museum
 lowicz.pl
 loyalist.museum
+lryc
 lselv.no
 lster.no
 lt.it
@@ -14087,10 +12141,9 @@ lviv.ua
 lyngdal.no
 lyngen.no
 m#m)m4m@mFmPmPmgmmmzm
-m@@8q(
-mXL9mHu
-m`A9E
-m`H;~0u	@
+m.bg
+m.se
+mO-B
 ma.us
 macerata.it
 macintosh
@@ -14100,6 +12153,7 @@ magadan.ru
 magazine.aero
 magenta
 magnitka.ru
+mago
 mail.pl
 mailto
 maintenance.aero
@@ -14185,7 +12239,6 @@ messina.it
 met internal limit
 meta 
 method
-mgt^H
 mi.it
 mi.th
 mi.us
@@ -14252,7 +12305,6 @@ misconfused.org
 missile.museum
 missing left delim
 missoula.museum
-mj>zjZ
 mjondalen.no
 mk.ua
 mli.no
@@ -14265,6 +12317,7 @@ mo.cn
 mo.it
 mo.us
 moareke.no
+mobi
 mobi.gp
 mobi.na
 mobi.tt
@@ -14275,6 +12328,7 @@ modelReset()
 modelling.aero
 modena.it
 modern.museum
+modf
 modum.no
 molde.no
 moma.museum
@@ -14290,6 +12344,7 @@ monzaebrianza.it
 monzaedellabrianza.it
 mordovia.ru
 moscow.museum
+mosj
 mosjoen.no
 moskenes.no
 mosreg.ru
@@ -14302,6 +12357,7 @@ mragowo.pl
 ms.it
 ms.kr
 ms.us
+msec
 msecs
 msk.ru
 mskog.no
@@ -14311,6 +12367,7 @@ muenchen.museum
 muenster.museum
 mulhouse.museum
 muncie.museum
+muos
 muosat.no
 murmansk.ru
 mus.br
@@ -14324,15 +12381,14 @@ museumcenter.museum
 museumvereniging.museum
 music.museum
 mx.na
-mxthH
+mylm
 mypets.ws
 myphotos.cc
 mytis.ru
-n H9k t/
 n%n%n?nKnKnKnKnKn\nwnwn}n}n
-n(fD9k
-nD34$A
-n]?iJ
+n.bg
+n.se
+n\ro\ro&o8o8o8oWohohoto
 na.it
 na.no
 naamesjevuemie.no
@@ -14340,6 +12396,7 @@ nakhodka.ru
 naklo.pl
 nalchik.ru
 namdalseid.no
+name
 name.az
 name.eg
 name.hr
@@ -14390,6 +12447,7 @@ ne.pw
 ne.tz
 ne.ug
 ne.us
+ne\ny
 neat-url.com
 nebraska.museum
 nedre-eiker.no
@@ -14517,6 +12575,7 @@ ngo.lk
 ngo.ph
 ngo.pl
 nh.us
+nhka
 nic.im
 nic.in
 nic.tj
@@ -14531,9 +12590,11 @@ nkz.ru
 nl.ca
 nl.no
 nl_BE
+nlah
 nland.no
 nm.cn
 nm.us
+nmra
 nna.no
 nnov.ru
 no error occurred
@@ -14576,6 +12637,7 @@ nov.ru
 novara.it
 novosibirsk.ru
 nowaruda.pl
+nrkv
 nrw.museum
 ns.ca
 ns.museum
@@ -14591,6 +12653,7 @@ nt.edu.au
 nt.gov.au
 nt.no
 nt.ro
+ntal
 ntr.br
 nu.ca
 nu.it
@@ -14603,10 +12666,9 @@ ny.us
 nyc.museum
 nyny.museum
 nysa.pl
-o&o8o8o8oWohohoto
+o.bg
+o.se
 o0q0r0t0u0w0x0z0{0}0
-oI>O7
-oXH9kXt0
 objectDestroyed(QObject*)
 objectName
 oceanographic.museum
@@ -14636,10 +12698,14 @@ olsztyn.pl
 oluokta.no
 omaha.museum
 omasvuotna.no
+omjl
+omjt
+omjv
 omsk.ru
 on-the-web.tv
 on.ca
 online.museum
+onst
 ontario.museum
 openair.museum
 operator
@@ -14804,7 +12870,6 @@ ostroleka.pl
 ostrowiec.pl
 ostrowwlkp.pl
 ot.it
-ot>fA
 otago.museum
 other.nf
 out of memory
@@ -14816,17 +12881,19 @@ oxford.museum
 oyer.no
 oygarden.no
 oystre-slidre.no
-p WATAUAVAWH
-p WATAUH
 p%r%t%v%x%z%|%~%
 p(r(t(v(x(z(|(
+p.bg
+p.se
+p2*g
+p4Bf
 p6pRpYpYpipupup
 p>.G1
-pA\_]
-pA\_^[]
-pA]A\_^]
-pA^A]A\_^[]
-pA_A^A]A\_^]
+p>Y3
+pO~j
+pP*g
+pZ*g
+p\nq2q>qFqXqeqeq
 pa.gov.pl
 pa.it
 pa.us
@@ -14852,6 +12919,7 @@ paroch.k12.ma.us
 parti.se
 pasadena.museum
 passenger-association.aero
+path
 path,removed
 pause()
 paused
@@ -14904,6 +12972,7 @@ plc.co.im
 plc.ly
 plo.ps
 plugins
+pmcc
 pmir.no
 pn.it
 po.gov.pl
@@ -14921,6 +12990,7 @@ poltava.ua
 pomorskie.pl
 pomorze.pl
 pordenone.it
+pors
 porsanger.no
 porsangu.no
 porsgrunn.no
@@ -14931,6 +13001,7 @@ portlligat.museum
 portuguese-brazilian
 posts-and-telecommunications.museum
 potenza.it
+powf
 powiat.pl
 poznan.pl
 pp.az
@@ -14993,7 +13064,6 @@ pt.it
 pt_BR
 ptz.ru
 pu.it
-pu=fE;$wu6fA;
 pub.sa
 publ.pt
 public.museum
@@ -15006,13 +13076,11 @@ pvt.ge
 pvt.k12.ma.us
 pyatigorsk.ru
 pz.it
-p}nA+
-q2q>qFqXqeqeq
+q.bg
 q>F,3
 qAppName
 qCompress: Data is null
 qCompress: Z_MEM_ERROR: Not enough memory
-qS>g?h3
 qUncompress: Data is null
 qUncompress: Input data is corrupted
 qUncompress: Z_DATA_ERROR: Input data is corrupted
@@ -15060,18 +13128,17 @@ quint64
 quint8
 quit()
 qulonglong
-r fE;B
+quot
 r#r4r4r4r4r@r@rFrLrLrbrbrvrvrvr
-r&D8g
-r'Hc@
 r-aurdal.no
 r-fron.no
 r-odal.no
 r-varanger.no
-r4Hc@
-r8fE;B(r
+r.bg
+r.no
+r.se
+r?RJ
 rNm>)
-rUHcA
 ra.it
 rade.no
 radio.br
@@ -15090,6 +13157,7 @@ randaberg.no
 rauma.no
 ravenna.it
 rawa-maz.pl
+rbeh
 rc.it
 rd.no
 rdal.no
@@ -15158,19 +13226,24 @@ riodejaneiro.museum
 risor.no
 rissa.no
 rjjat.no
+rjug
 rl.no
 rland.no
 rm.it
+rmhk
+rmym
 rn.it
 rnd.ru
 rnrt.tn
 rns.tn
 rnu.tn
+rnur
 ro.it
 roan.no
 rochester.museum
 rockart.museum
 rodoy.no
+roeg
 rofshikabnynbezvunbm
 rollag.no
 roma.it
@@ -15200,6 +13273,7 @@ rs.ba
 rshei.no
 rskog.no
 rsta.no
+ru&o
 ru.com
 rubtsovsk.ru
 rum.no
@@ -15210,15 +13284,10 @@ ryazan.ru
 rybnik.pl
 rygge.no
 rzeszow.pl
-s WATAUAVAWH
 s+s8sIsIsUs[shshsus
-s-fA;
-s0fff
-s1ffff
-s4fA;
-s5ffffff
-s\HcL$HH
-s\fffff
+s.bg
+s.no
+s.se
 sa.au
 sa.com
 sa.cr
@@ -15238,6 +13307,7 @@ salvadordali.museum
 salzburg.museum
 samara.ru
 samnanger.no
+sand
 sande.m
 sande.more-og-romsdal.no
 sande.vestfold.no
@@ -15323,6 +13393,7 @@ sender
 senderObject
 seoul.kr
 seral.no
+serp
 servebbs.com
 servebbs.net
 servebbs.org
@@ -15339,7 +13410,6 @@ settlers.museum
 sex.hu
 sex.pl
 sf.no
-sgfff
 sh.cn
 shacknet.nu
 shell.museum
@@ -15364,9 +13434,12 @@ siljan.no
 silk.museum
 simbirsk.ru
 simple-url.com
+sinf
 singleShot
+sinh
 siracusa.it
 sirdal.no
+size
 sk.ca
 skanit.no
 skanland.no
@@ -15392,6 +13465,7 @@ slattum.no
 sld.do
 sld.pa
 slg.br
+slot
 slovak
 slupsk.pl
 smola.no
@@ -15467,6 +13541,7 @@ spjelkavik.no
 sport.hu
 spy.museum
 spydeberg.no
+sqrt
 square.museum
 sr.gov.pl
 sr.it
@@ -15533,6 +13608,7 @@ stream error
 string too long
 struct 
 stryn.no
+stsp
 student.aero
 stuff-4-sale.org
 stuff-4-sale.us
@@ -15555,6 +13631,7 @@ suwalki.pl
 sv.it
 sv_FI
 svalbard.no
+svba
 sveio.no
 svelvik.no
 svizzera.museum
@@ -15564,6 +13641,7 @@ swidnica.pl
 swiebodzin.pl
 swinoujscie.pl
 swiss
+swlb
 sx.cn
 sydney.museum
 sykkylven.no
@@ -15572,218 +13650,17 @@ szczecin.pl
 szczytno.pl
 szex.hu
 szkola.pl
-t	D8+
-t	H9A
-t	HcS0H
-t	HcW0H
-t	IcU0H
-t	L98t
-t D;@
-t D;H
-t fff
-t ffff
-t!fff
-t!ffff
-t!fffff
-t"fffff
-t"ffffff
-t#fffff
-t#ffffff
-t$ @80
-t$ ATAUAVH
-t$ ATH
-t$ E3
-t$ H;
-t$ HcF
-t$ IcF
-t$ UH
-t$ UWATAUAWH
-t$ WATAUAVAW
-t$ WATAUAVAWH
-t$ WATAUAVL
-t$ WATAUH
-t$ WH
-t$ fA;
-t$ fD
-t$ ff
-t$$D3t$
-t$(E3
-t$(H;
-t$(Hcs
-t$(I+
-t$(IcF
-t$(LcvlL
-t$(Mc
-t$(fD
-t$(z,u*
-t$03<$A
-t$0A3
-t$0E3
-t$0Hc
-t$0HcF
-t$0IcF
-t$0L9
-t$0Mc
-t$0f;D$Du{A
-t$0fff
-t$0t	H
-t$8A+C
-t$8Hc
-t$8HcF
-t$8HcM
-t$8Hch
-t$8I);H
-t$8IcF
-t$8fA
-t$8fG
-t$<A3
-t$@)h
-t$@3EH
-t$@9A
-t$@A)k
-t$@E3
-t$@H9
-t$@H;
-t$@Hc
-t$@HcF
-t$@I96t`
-t$@IcF
-t$@M;wX
-t$@u_H
-t$D@2
-t$DD;
-t$H99t
-t$HA+
-t$HD;
-t$HHc
-t$HHcF
-t$HHcQ
-t$HHcp
-t$P9\$0|%Ic
-t$PE3
-t$PH;
-t$PH;]
-t$PHc
-t$PHcF
-t$PHcN
-t$PIc
-t$PLc
-t$X9w
-t$X;n
-t$XE3
-t$XHc
-t$XfD
-t$`HcF
-t$`ffffff
-t$fff
-t$ffff
-t$fffffff
-t$hH+
-t$hHc
-t$hfA;
-t$htG
-t$pD+d$HD+
-t$pE3
-t$pHcF
-t$pfffff
-t$xE+
-t$xE;
-t$xHc
-t$xHcF
-t%LcA
-t%fff
-t%fffff
-t%ffffff
 t&1Zs
-t'D;a
-t'HcU0H
-t'McH
-t'fff
-t(D;h
-t(Hc\$0H
-t(ffff
-t)D;`
-t*;OT|%
-t*D;i
-t*H9k
-t*HcO
-t*ffff
-t+D;Q
-t+ffff
-t,<a|
-t,D;A
-t,D;q
-t,fff
-t,fffff
-t-ffff
-t-fffffff
-t.HcB
-t.fffff
-t.fffffff
-t0<@t
-t0A88t+
-t1D;A
-t1D;I
-t1D;Q
-t1LcI
-t1fffffff
-t2fff
+t.bg
+t.no
+t.se
 t2t2t2t<tAtAtRt]tctct
-t3H99u.L
-t3HcB
-t3ffffff
-t4Hc?
-t6D;A
-t7H9o
-t8L9-Mq
-t8fA;
-t9M9,$t3
-t:D;a
-t>HcB
-t?ffff
-t?ffffff
-t@H9w
-t@ffff
-t@fffffff
-tAA;m
-tAA;}
-tBffffff
-tDHcA
-tEfffff
-tFD9nxu
-tHE;e
-tHfE;A
-tKH9r
-tKfff
-tLfff
-tNH9x
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tOLc@
-tPfffff
-tPfffffff
-tQffff
-tSHcBlL
-tSIc@lM
-tSIcAlM
-tSfffffff
-tUH97t
-tUHcBlL
-tUfff
-tVHcBlL
-tWHcP
 tXT9bq^F
-tXffffff
-tYH+{
-tYHcBlL
-tYL9b
-t\HcD$4D
-t]fffff
-t^H99t
-t^Lcw
 ta.it
 tambov.ru
 tana.no
 tananger.no
+tanh
 tank.museum
 taranto.it
 targetObject
@@ -15797,9 +13674,10 @@ tas.gov.au
 tatarstan.ru
 taxi.aero
 taxi.br
-tb<A|M<P
+tbit
+tcjc
 tcm.museum
-tdfff
+tcpc
 te.it
 te.ua
 teaches-yoga.com
@@ -15816,6 +13694,7 @@ terminate()
 terminated()
 terni.it
 ternopil.ua
+tesm
 test.ru
 test.tj
 texas.museum
@@ -15825,15 +13704,13 @@ text/plain;
 text/plain;charset=US-ASCII
 text/uri-list
 textile.museum
-tf<a|
-tfL9l
 tgory.pl
-thHcQ
 th_brk
 th_next_cell
 th_render_cell_mac
 th_render_cell_tis
 th_render_cell_win
+thai
 the host is empty, but not the path
 theater.museum
 thruhere.net
@@ -15845,14 +13722,15 @@ timeSetEvent
 timekeeping.museum
 timeout()
 tingvoll.no
+tini
 tinn.no
 tj.cn
-tjHcQ
-tjLcClL
 tjeldsund.no
 tjome.no
-tkH9;t
-tlapt<E
+tkun
+tlac
+tlah
+tlav
 tm.fr
 tm.hu
 tm.km
@@ -15862,11 +13740,9 @@ tm.no
 tm.pl
 tm.ro
 tm.se
-tmE9h
 tmp.br
 tn.it
 tn.us
-tnLcV
 to.it
 toggleDirection()
 togglePaused()
@@ -15888,6 +13764,7 @@ tourism.tn
 town.museum
 tozsde.hu
 tp.it
+tq\n$S
 tr.it
 tr.no
 tra.kp
@@ -15895,6 +13772,7 @@ trader.aero
 trading.aero
 traeumtgerade.de
 trainer.aero
+tran
 trana.no
 tranby.no
 trani-andria-barletta.it
@@ -15924,6 +13802,7 @@ troms
 tromsa.no
 tromso.no
 trondheim.no
+true
 trust.museum
 trustee.museum
 trvguzdavff
@@ -15933,6 +13812,7 @@ tsaritsyn.ru
 tsfjord.no
 tsk.ru
 tta-v
+tter
 tula.ru
 tur.br
 turek.pl
@@ -15944,132 +13824,34 @@ tv.bo
 tv.br
 tv.it
 tv.na
-tvLcEpI
 tvedestrand.no
 tver.ru
 tw.cn
-twHcB
 tx.us
-txfffffff
 tychy.pl
 tydal.no
 tynset.no
 type:
 tysfjord.no
 tysnes.no
+tysv
 tysvar.no
 tyumen.ru
-tz< t
-u	A!A
-u	D;-%
-u	D;-vM1
-u	L9-M
-u HcD$4L
-u!HcF
-u!IcE
-u!IcF
-u!IcG
-u"E9Q t
-u"HcC
-u"HcF
-u"HcG
-u"fD9~
-u#IcD$
-u%HcC
-u%fA;
-u&D;p
-u'8D$@t
-u'HcUHH
-u'Hc\$8H
-u'L;s
-u(HcC
-u)HcC
-u+Hc\$8H
-u+fA;
-u,HcP
 u,u=uDuDuOuxu
-u-fE;
-u0D;p
-u0HcF
-u1!D$0
-u1HcF
-u5E9Q t
-u5HcF
-u68Q	u/8Q
-u7A8D$ t
-u8D9n`u
-u8HcF
-u8fD9|N
-u9HcF
-u9L;\$@t2I
-u:HcF
-u:IcE
-u;HcF
-u<8Q	u58Q
-u=D8U
-u=HcF
-u>HcG
-u?H;T$8t8H
-u?HcE
-u@HcF
-uBHcF
-uBfA9I
-uCHcF
-uD@8i
-uDHcF
-uEHcD$4H
-uEHcF
-uG8E8
-uHHcA(L
-uHHcF
-uIfE9Q
-uIfE9}
-uLffff
-uMHcF
-uNHcA
-uNM9u
-uOIcF
-uPHcF
-uPfA;
-uQI91tLH
-uT8C:tAL
-uWL9b
-uXHcE
-uYH;T$@tRH
-uZHcA
-u[HcA
-u\HcC
-u]9D$xuU
-u]I9t$0u*I
-u]L9j
-u_D9u
-u_IcE
-u`H9u
-u`HcA
-u`HcF
-u`HcH
-u`HcJ
-u`IcE
-uaHcH
-ucHcH
+u.bg
+u.se
 uchar
 ud.it
 udine.it
 udm.ru
 udmurtia.ru
-uffA;
 ug.gov.pl
-ugHcF
-uhHcH
 uhren.museum
-uiH;]
-uiHcE
-uiHcH
-ujA9H
+uint
 uk.com
 uk.net
-ulIcE
 ulan-ude.ru
+ulet
 ullensaker.no
 ullensvang.no
 ulm.museum
@@ -16077,8 +13859,6 @@ ulong
 ulsan.kr
 ulvik.no
 um.gov.pl
-umA9H
-un8Q	u/8Q
 unbi.ba
 unbind
 uncompress
@@ -16105,14 +13885,13 @@ unsigned int
 unsigned long
 unsigned long long
 unsigned short
-uoA9H
-uoD9m
 updateInterval
 upow.gov.pl
 urbino-pesaro.it
 urbinopesaro.it
 uri.arpa
 urn.arpa
+urug
 us.com
 us.na
 usa.museum
@@ -16130,33 +13909,25 @@ ushuaia.museum
 uslivinghistory.museum
 ustka.pl
 ut.us
-ut7fA
 utah.museum
+utav
 utazas.hu
 utf-8
 utsira.no
 uvic.museum
 uw.gov.pl
-uwH99u
 uy.com
-uyHc}
-uzA9H
-uzHc}
 uzhgorod.ua
-u{A9H
-u|HcF
-v H97t.
-v HcU
 v w>wOwYwcwiw|w
 v'v'v>v>v>vJv_v
-v/fffff
-v4fA;
-vEfff
+v.bg
+vH7B
 vQO+t
 va.it
 va.no
 va.us
 vaapste.no
+vads
 vadso.no
 vaga.no
 vagan.no
@@ -16172,6 +13943,7 @@ valueChanged(qreal)
 vang.no
 vantaa.museum
 vanylven.no
+vard
 vardo.no
 varese.it
 varggat.no
@@ -16234,6 +14006,7 @@ vladivostok.ru
 vlog.br
 vn.ua
 voagat.no
+void
 void 
 void*
 volatile
@@ -16245,7 +14018,6 @@ vologda.ru
 voronezh.ru
 voss.no
 vossevangen.no
-vpHc~lH
 vr.it
 vre-eiker.no
 vrn.ru
@@ -16255,13 +14027,13 @@ vt.us
 vuotna.no
 vv.it
 vyatka.ru
-v}`[>
-w)y){)})
 w+OQvr
-w+fA;
 w,h(%4d,%4d) showmode(%s)
-wDA9W0s	
+w.bg
+w.se
+w3Xc
 wParam(0x%p) lParam(0x%p)
+wXR\r
 wa.au
 wa.edu.au
 wa.gov.au
@@ -16313,7 +14085,6 @@ windows-1258
 winmm
 wlocl.pl
 wloclawek.pl
-wmfff
 wn>Jj
 wodzislaw.pl
 wolomin.pl
@@ -16321,7 +14092,6 @@ workinggroup.aero
 works.aero
 workshop.museum
 worse-than.tv
-wpL9up
 writesthisblog.com
 wroc.pl
 wroclaw.pl
@@ -16329,24 +14099,17 @@ ws.na
 wv.us
 www.ro
 wy.us
-x ATAUAVH
-x ATAUAWH
-x ATH
 x'x'x'x'x.x.xExNxUxcxcxux
-x(H9~(t,
-x(fA;
 x,y(%4d,%4d)
 x,y(%4d,%4d) Virtual Keys(%s)
 x,y(%4d,%4d) w,h(%4d,%4d) className(%s) windowName(%s) parent(0x%p) style(%s) exStyle(%s)
 x,y(%4d,%4d) w,h(%4d,%4d) flags(%s) hwndAfter(%s)
-xA]A\_^[]
-xA_A^A\]
-xA_A^A]A\_^[]
-xGfffff
-xSIc@$H
-xSIcH
-x_^[]
-x_^][
+x.bg
+x.se
+x5*g
+xQ*g
+xW*g
+xa&g
 xj.cn
 xmlns
 xn--mgbaam7a8h
@@ -16354,14 +14117,17 @@ xn--mgberp4a5d4ar
 xn--wgbh1c
 xppwpp
 xpxxxx
-xs;=w
-xt0fA
+xu(g
 xz.cn
+y#uL
+y.bg
+y.no
 y.nordland.no
+y.se
 y3y3y3y3y>yKysy
-y?ffffff
-y@D9w
-yE>}-
+y9*O
+yZ\n8
+y\fy\fy\fy\fy
 ya.no
 yakutia.ru
 yamal.ru
@@ -16386,20 +14152,14 @@ yrvik.no
 ystre-slidre.no
 ysund.no
 yuzhno-sakhalinsk.ru
+yyyy
 z#z3z@z@z@zFzMzMzMzXzjz
-z$u"H
-z%u#3
-z%u#fD
-z(fE;
-z)u'H
-z)u'I
 z)zR88
-z.u,A
-z1u/A
-z>@G'h
+z.bg
+z.se
+z>h4
 z?aUY
 zError
-zY;>u:m	
 za.com
 za.net
 za.org
@@ -16413,7 +14173,6 @@ zgora.pl
 zgorzelec.pl
 zgrad.ru
 zh_CN
-zh_HK
 zh_SG
 zh_TW
 zhitomir.ua
@@ -16425,140 +14184,10 @@ zoological.museum
 zoology.museum
 zp.ua
 zt.ua
-zux!l$ E3
-{&1q>
-{(H9{(t/
-{-{>{H{O{
 {FL!m
 {flat}
 {for 
-{hH9s(t
-|$ A;
-|$ ATAUAVAW
-|$ ATAUAVH
-|$ ATAUAVL
-|$ ATD
-|$ ATH
-|$ E3
-|$ H;
-|$ Hc
-|$ HcB
-|$ HcJ
-|$ HcX
-|$ L9/t
-|$ UATAUAVAWH
-|$ UH
-|$ fA
-|$ fD
-|$(A\
-|$(HcA
-|$0-H
-|$09k$~pL
-|$09{$u@
-|$0D;@
-|$0H9
-|$0H;]
-|$0IcC
-|$0Lc
-|$0_t
-|$0u"H
-|$4Hc
-|$4fA
-|$83D$
-|$8A^A]A\
-|$8H9
-|$8H;
-|$8Hc
-|$8I;
-|$8Ic
-|$8IcG
-|$8Lc
-|$@-D
-|$@-H
-|$@9s
-|$@;9|"
-|$@E3
-|$@E;
-|$@Hc|$8H
-|$@I;
-|$@IcG
-|$@Lc
-|$@fA3
-|$@ff
-|$DA;
-|$DD9d$X
-|$DE3
-|$H;n
-|$HA;
-|$HE3
-|$HH;
-|$HHc
-|$HHcJ
-|$HI9
-|$HfA
-|$Hff
-|$P;9|"
-|$PA+
-|$PE3
-|$PH;
-|$Pffffff
-|$TA;
-|$XA;
-|$XD+a
-|$XE3
-|$hE3
-|$hH;
-|$hHcA
-|$nfD
-|$pA+
-|$pD;
-|$pMc
-|$xMc
-|0D8A
+{kHw
 |3|:|A|K|W|
-|4fff
-|<ho'r
-|=IcF
-|>fj;
-|ju%A
-} H9} t/
-} H9~ tA
-}"ffff
-}#fff
-}(A+Q
-}(fff
 }(}A}A}A}R}R}R}h}z}
-}+ffff
-}6ffff
-}@fff
-}Tfff
-}`HcG
-}cHcP
-}cffff
-~	H;C
-~ ffffff
-~!ffffff
-~"H;B
-~"ffff
-~%ffffff
 ~&~B~I~I~W~^~^~x~
-~)IcC
-~,fffff
-~/8\$vt)H
-~3f;|$0t
-~5ffff
-~:fD9
-~>fffff
-~>fffffff
-~@ffff
-~ID;c
-~Pfffff
-~Rfffff
-~THcE
-~`HcE H
-~`ffff
-~gSUVH
-~mfB9\h
-~qffffff
-~w;Hc
-~wffff

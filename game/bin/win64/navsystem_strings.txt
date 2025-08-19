@@ -1,215 +1,29 @@
-	IcD$
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZVScript
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %02d. %-30s  %s
- 'L>[
- 9(X`
- A]A\_^[
- A^A\]
- A^A\_
- A^A]A\^[
- A^][
- A^_]
- A^_^
- A_A^A\
- A_A^A\H
- A_A^A\_^
- A_A^A\_^][
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^[
- A_A^_
- A_][
- A_^]
- A__[
- A__^
+ %02d. %-30s  %s\n
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- Hc2L
- Hc9H
- HcyH3
- Lc9L
  Type Descriptor'
  delete
  delete[]
- new[]
- t?D9
- tDE3
- took %0.3f sec, produced %d polys
- vJH+
-!,X< w
-!>6'Y
-"pA3Q
-$A;\$
-$s=M;
+ new
+ took %0.3f sec, produced %d polys\n
 %i %i %i %i
-%s: string format requested %d chars
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
+%lld
+%llu
+%s: string format requested %d chars\n
+&Sgw
 ( 8PX
-(A_A^
-(D$ H
-(D$0D
-(D$0H
-(D$PD
-(D$`H
-(D$pr
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(HcA\
-(L$ H
-(L$0D
-(L$0H
-(L$@D
-(L$PD
-(L$`D
-(L$pD
 (Output drawable)
-(T$ D
-(T$ H
-(T$0D
-(T$@D
-(T$PD
-(T$PI
-(T$`D
-(T$pD
-(\$ D
-(\$0D
-(\$0H
-(\$@D
-(\$PD
-(d$ D
-(d$ H
-(d$0D
-(d$0L
-(d$@D
-(d$pD
-(l$ D
-(l$ H
-(l$0D
-(l$0H
-(l$PL
-(l$`D
-(l$`L
 (null)
-(o:R	
-(t$ 3
-(t$ D
-(t$ H
-(t$ L
-(t$0H
-(t$@D
-(t$@H
-(t$@L
-(t$PD
-(t$PH
-(t$PL
-(t$`H
-(t$`I
-(t$`L
-(t$pL
-(|$ D
-(|$ H
-(|$0D
-(|$0E
-(|$0H
-(|$0I
-(|$@D
-(|$@H
-(|$@L
-(|$PI
-(|$PL
-(|$`D
-(|$`I
-(|$pL
-)4$H;
-)>6{1n
-)D$ H
-)D$0A
-)D$0D
-)D$0H
-)D$0L
-)D$@D
-)D$@H
-)D$PA
-)D$`A
-)D$`D
-)D$pA
-)D$pD
-)L$ D
-)L$ HcA
-)L$0Lc
-)L$@A
-)L$PD
-)L$PL
-)L$`A
-)L$`D
-)L$`H
-)L$pH
-)L$pM
-)T$ D
-)T$PA
-)\$@D
-)\$@H
-)\$PD
-)\$`I
-)d$ H
-)d$0D
-)d$@D
-)d$pE
-)l$ D
-)l$0D
-)l$0L
-)l$PD
-)l$`;
-)l$`A
-)t$ I
-)t$ L
-)t$0A
-)t$0H
-)t$0L
-)t$@%
-)t$@D
-)t$@H
-)t$PE
-)t$PH
-)t$`E
-)t$`H
-)t$`M
-)t$`Mc
-)t$pE
-)|$0H
-)|$@D
-)|$@L
-)|$P3
-)|$PA
-)|$PD
-)|$PE
-)|$pD
-)|$pE
-*Hc3;s
-*Hc_ ;_0u
-*Hc_ A
-*IcP,I
 *StO9>T
-+D$LD
-+M<7>
-+f)>0'
-+h->|
-,/<-w
-,HD;C
-,I<%w
-,|%)v
++inf
+-avx
+-inf
 -sse2
 -sse3
 -sse4
@@ -321,15 +135,12 @@ $s=M;
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$pu
-.D$xu
-.IcR(
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -340,254 +151,96 @@ $s=M;
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
 .xdata$x
-/=$!6
-/>58d%
-/D> w=D
-/F waH
-/I rTH
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 0 = watershed, 1 = monotone, 2 = layers
 0.0000001f
 0.00001f
 0.001f
 0.01f
+0.1f
+0.5f
 0.75f
-061110000000Z
-0A\_]
-0A^A\_
-0A^^[
-0A^_^
-0A_A\_][
-0A_A]A\_]
-0A_A]A\_^][
-0A_A^A\
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^_
-0A_A^_^]
-0A__]
-0A__^
-0Hc;;{
-0Hc_X;_hu
-0Hcz4E3
 0iN>/
-0v0b1
 1#IND
 1#QNAN
 1#SNAN
+1.0f
+1.5f
 10.0f
 10000.0f
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
+11Y@
 1DBlend
-200929173111Z0#
 2048.0f
-211007120000Z0M1
-211110000000Z0b1
 24.0f
-241022000000Z0G1
-281022120000Z0r1
-2Hc;;{
-2Hc_ ;_0u
-2Hc_ A
-2Hc_X;_hu
-2Hc_XE
-2HcwX;whu
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
 5default
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-80tWD
 88.0f
-8A^A\_^
-8A_A^
-8A_A^A]A\_^][
 8Ccosf
-9(~KH
-9)t/A
 900.0f
-93~RI
-98t8H
-98~tL
-99~-H
-9D$`D
-9Q(~#D
-9X@u4
-9XXtPH
-9_p~$
-9t$Hu
-9|$ t
-:Hc3;s
-:HcwX;whu
-:HcwXA
 ;1#INF
-;D$0u
-;D$@@
-;E_~+HcF
-;H9>&X
-;L$0u
-;L$Hu
-;L$Pu
-;T$P|
-;T$p|
-;\$$|
-;\$0u
-;\$@u 
-;l$0|
-;l$`|
-;t$\~
-;|$@|
-<	u"H
-<	w	@
-< t;<	t7
-<@Lc4
-<QfD;
-<[E;u
+;1cb
 <deferred>
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <unconnected>
+=1cb
+=87M
+=cQ6
 =imb;D
->>NAVGEN: -- End --
->>NAVGEN: -- Start --
->>NAVGEN: -- clipped v %d = (%0.2f, %0.2f, %0.2f)
->>NAVGEN: -- v %d = (%0.2f, %0.2f, %0.2f)
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip section failed
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip section poly
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip to clip section boundaries failed
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clipped
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: poly eliminated by clipping to clip section
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: split along clip section, back
->>NAVGEN: ClipPolysToHullClearanceInternalProcessList: split along clip section, front
->>NAVGEN: pass %d/%d: orig tris %d
+>>NAVGEN: -- End --\n
+>>NAVGEN: -- Start --\n
+>>NAVGEN: -- clipped v %d = (%0.2f, %0.2f, %0.2f)\n
+>>NAVGEN: -- v %d = (%0.2f, %0.2f, %0.2f)\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip section failed\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip section poly\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clip to clip section boundaries failed\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: clipped\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: poly eliminated by clipping to clip section\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: split along clip section, back\n
+>>NAVGEN: ClipPolysToHullClearanceInternalProcessList: split along clip section, front\n
+>>NAVGEN: pass %d/%d: orig tris %d\n
 >>NAVGEN: stage %02d / %02d: 
->>NAVGEN: stage %02d / %02d: %s, disabled
->Ic/H
+>>NAVGEN: stage %02d / %02d: %s, disabled\n
+>cQ6
 >jtm}S
 ?1.0e-2f
 ?333333
-?5zlO
 ?7zQ6$
-?:kP<
-?<?t[
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMutex@@QEAA@XZ
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?StartsWith@CBufferString@@QEAA_NPEBD@Z
-?TestBoxHullForClipDir - polyBack is empty
+?TestBoxHullForClipDir - polyBack is empty\n
 ?UUUUUU
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
+?qBJ
 ?vmdlkeys0
-@.data
-@.gfids
-@.tls
-@0E9D$,
-@81u/H
-@8|$^t
-@>%>b
-@A^A]A\
-@A^A]A\^]
-@A^_^
-@A^_^][
-@A_A^A\
-@A_A^A\_^
-@A_A^A]A\_
-@A_A^A]_^][
-@A_A^[
-@A_A^_
-@E89}
-@SATAUAVAWH
-@SAVAWH
-@SAWH
-@SUATH
-@SUAVH
-@SUAWH
-@SUVWATAUAVAWH
-@SUVWH
-@SUWH
-@SVATAUAVH
-@SVAVH
-@SVWATAUAVAWH
-@SVWATAUH
-@SVWH
-@SWAWH
-@UATAUAVAWH
-@UATAVH
-@UATH
-@UAUAWH
-@UAUH
-@UAVAWH
-@UAWH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVH
-@USVWH
-@USWH
-@UVAWH
-@UVWATAUAVAWH
-@UVWH
-@UWAVH
-@UWAWH
-@WATAVH
-@b;zO]
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A90~%
-A9<2t&A
-A9>~tH
-A;@`}
-A;A`}
-A;Q`}
-A;^,~
-A;_,~
+?ysB
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
@@ -623,64 +276,15 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVH
-ATAVAWH
-ATAVH
-ATAWH
-AUAVAWH
-AUAWH
-AVAWH
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 AVOID
-A]A\[]H
-A]A\_
-A]A\_[
-A]A\_^[
-A]A\_^]
-A]^[]
-A]_^]
-A]_^][
-A^A\]
-A^A\_^[]
-A^A]A\_]
-A^A][
-A^A]]
-A^A]^[]
-A^A]_
-A^A]_^[
-A^A]_^[]
-A^_[]
-A^_][
-A^_^[]
-A_A]A\_^[]
-A_A][
-A_A]]
-A_A]^
-A_A^A\
-A_A^A\]
-A_A^A\^[
-A_A^A\_[]
-A_A^A\_]
-A_A^A\_^
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]^]
-A_A^A]_[]
-A_A^A]_]
-A_A^A]_]H
-A_A^[]
-A_A^]
-A_A^_
-A_A^_^]
 AbsolutePoseControl
 AddJumps
 AddLayer
 Align
 Always false
 Always true
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -713,22 +317,14 @@ AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 August
-AuthE
 AutoLayer
-B(HcQ
-B(HcS
-B(I9A(
-B8|09
-BA9	A
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
@@ -736,17 +332,13 @@ BlendLayerPoseParam
 BlendList
 BodyGroup
 BodyGroupChoice
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
 Buffer to add to agent radius before passing to nav gen
-BuildMesh took %0.3f sec
-BuildMesh...
-C(HcC$H
-C-yh/
-C8<(u
-C8H!o
-CA< t(<#t
+BuildMesh took %0.3f sec\n
+BuildMesh...\n
 CAnimMotorList
 CAnimMovementManager
 CGlobalConfigValueRegistry::HookUpConfigValue
@@ -766,17 +358,16 @@ CParticleSystemDefinition
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
 CThreadedJob
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<class std::shared_ptr<class TRQuadricEdge>,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<class std::shared_ptr<class TRQuadricEdge>,int>,int> >::AllocInternal
 CUtlLinkedList<class std::shared_ptr<class TRQuadricFace>,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<class std::shared_ptr<class TRQuadricFace>,int>,int> >::AllocInternal
 CUtlLinkedList<class std::shared_ptr<class TRQuadricVtx>,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<class std::shared_ptr<class TRQuadricVtx>,int>,int> >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<class std::shared_ptr<class TRQuadricEdge>,int,bool (__cdecl*)(class std::shared_ptr<class TRQuadricEdge> const &,class std::shared_ptr<class TRQuadricEdge> const &),class CUtlMemory<struct UtlRBTreeNode_t<class std::shared_ptr<class TRQuadricEdge>,int>,int> >::NewNode
 CUtlString::FormatV
-CX@8<
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -863,9 +454,8 @@ C_OP_StopAfterCPDuration
 C_OP_TwistAroundAxis
 C_OP_WorldTraceConstraint
 C_class
-C`@8<
 ClipPolysToHullClearance
-ClipPolysToHullClearanceInternal - too many non-reducing passes
+ClipPolysToHullClearanceInternal - too many non-reducing passes\n
 CloseHandle
 ClothShapeCapsule
 ClothShapeList
@@ -874,8 +464,8 @@ CommandLine
 CommandProcedure
 CommandProcedureList
 Compact Heightfield
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -885,173 +475,17 @@ CreateFileW
 CreateInterface
 CreateNewThreadPool
 CycleOverride
-D$ !>;
-D$ 9yXH
-D$ ;i,
-D$ E3
-D$ E;
-D$ Hc
-D$ Lc
-D$ N&B:H
-D$ P-
-D$ d=
-D$ r|
-D$$;^
-D$(;C
-D$(D;
-D$(E3
-D$(E;
-D$(H;
-D$(Hc
-D$(fD
-D$(fff
-D$0D;
-D$0D;f
-D$0E3
-D$0HcH
-D$0IcE
-D$0mp
-D$0r|
-D$49C
-D$4Hc
-D$8A;
-D$8D;@
-D$8H;
-D$8Hc
-D$8L9
-D$8L;
-D$8fD
-D$8ff
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@D;
-D$@D;H
-D$@E3
-D$@H+
-D$@H;G
-D$@ff
-D$@mp
-D$@r|
-D$HA+
-D$HD;
-D$HE3
-D$HE;
-D$HH;
-D$HHc
-D$Hff
-D$P I
-D$P!0
-D$P"ZF
-D$PA;
-D$PD;i
-D$PE3
-D$PH+
-D$PHc
-D$PI;
-D$Pk@_aH
-D$Pmp
-D$WE3
-D$X!0
-D$X+D$\H
-D$XA;
-D$XH;
-D$XHc
-D$XIcE
-D$XL;
-D$`9yXH
-D$`E#
-D$`E3
-D$`E;
-D$`H;
-D$`Hc
-D$`L;
-D$`Ll
-D$`r|
-D$gE3
-D$hA;
-D$hE3
-D$hE;u
-D$hHc
-D$hI;
-D$p 69
-D$p<L{
-D$p@2
-D$pA;o
-D$pE3
-D$pH;
-D$pHK8
-D$pHc
-D$pIc
-D$wE3
-D$x*>
-D$xLc
-D08@t	
-D18 t
-D6pD98~NI
-D8-y	
-D82u&H
-D85;q
-D8=?|
-D8`I;
-D8d$H
-D8d$Ht
-D8d$ht
-D8ept
-D8l$ht
-D8s	t"H
-D8t$Ht
-D91~&E
-D99~*E
-D9?txH
-D9c t
-D9{8|9H
-D9{P|9H
-D9{h|9H
-D9|$ 
-D;'}sL
-D;d$8
-D;uW}RE
-D;v(u
-D<P0I
-DD$$H
-DD$hH
 DebugTextureInfo001
 December
 Default
 DeleteCriticalSection
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DotaCardGameClient_001
 DynamicConfigList
-E 98t-
-E+BHI
-E0C07
-E0HcE`
-E0HcH
-E0Lcx
-E8}	t
-E8}	t$I
-E9<$~8A
-E9t$(~YE3
-E:4(u
-E;4$|
-E;M,|
-E;f(|
-E;t$(|
-E;~(H
-EP*?@
-EPD;6
-EPD;s
-EPHcE
+E3d:
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
-E\HcV
 EconItemToolModel_001
 EditorDynamicConfig
-EgD9}
 EmptyAnim
 Enable/disable overhang detection
 EncodePointer
@@ -1059,9 +493,8 @@ EngineServiceMgr001
 EnterCriticalSection
 EventSystem001
 ExitProcess
-F 90t;H
-FATAL ERROR: unable to register all schema data: %s
-FHNcL
+FATAL ERROR: unable to register all schema data: %s\n
+FEMh\f
 February
 FindClose
 FindFirstFileExA
@@ -1077,13 +510,12 @@ FontManager_001
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G0Hc	H
+GCTL
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
 GenerateConnections
 GenericGameData
-Genu3
 GetACP
 GetCPInfo
 GetCPUInformation
@@ -1111,69 +543,10 @@ GetStartupInfoW
 GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
-H SVWH
-H UATH
-H UVWATAUH
-H!D$ E
-H!T$0D
-H+\$h+
-H+\$hIc<$H
-H0F08
-H9=~R
-H9D$P~*f
-H9]ot	H
-H9l$Xt
-H9uot	H
-H;D$P|
-H;L$@
-H;L$h
-H;XXs
-H;\$P|
-H;t$p
-H;xXu9
-H;|$(
-H;|$0
-HA_A\
-HA_A]A\_^[
 HH:mm:ss
-HHcL$
 HammerMapLoader001
-Hc+;k
-Hc.;n
-Hc/;o
-Hc7;w
-Hc;;{
-HcA$H
-HcC H
-HcD$ H
-HcD$0D
-HcD$tA;
-HcG$H
-HcG(H
-HcH<H
-HcK ;
-HcK H
-HcL$ H
-HcL$0L;
-HcL$@H
-HcT$DA
-Hc]`M
-Hc_ ;_0u
-Hc_X;_hu
-HckHL
-Hcl$0A
-Hcl$HH
-Hcs M
-Hct$8
-Hct$8L
-HcwX;whu
 HelpSystem_001
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
-I0IcD$
-I9}(t9H
-IIc>H
 IKChain
 IKChainOld
 IKData
@@ -1182,16 +555,6 @@ IKRigBiped
 IKRigBug
 IKRigSimple
 IQuickTime001
-Ic4$A;t$
-Ic<$A;|$
-Ic<$H
-Ic>;s0u
-Ic?A;
-IcE,3
-IcF(I
-IcL$,3
-IcP,C
-IcQ,I
 If true, nav areas will be placed flush with the ground when split.
 IkLockLocal
 InitializeConditionVariable
@@ -1202,7 +565,7 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 IsDebuggerPresent
@@ -1210,115 +573,29 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IslandRemoval
 January
-K&>.yC
+July
+June
 KERNEL32.dll
+KL2H
 Keep this many backup copies of nav files.
 KeyValueCache001
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L$ A;
-L$ E3
-L$ E;
-L$ Hc
-L$ SAUH
-L$ SUVWAUAVAWH
-L$ UVWATAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$$;{
-L$&@8t$&t0@8q
-L$(D;
-L$(t&E3
-L$0D:
-L$0H+
-L$0H;
-L$0Lc
-L$4E9L$
-L$4E;L$
-L$4HcD$0H
-L$8A+
-L$8A;
-L$8D;
-L$8E3
-L$8E;
-L$8H3
-L$@;|
-L$@A;
-L$@E3
-L$@E;C,
-L$@H3
-L$@H9
-L$@t%H
-L$DE3
-L$HD;G,
-L$LMcu
-L$PE+
-L$PH9
-L$XA9
-L$XA;U
-L$XE3
-L$XE;
-L$XH9
-L$\D;
-L$\D;w
-L$`9yXH
-L$`D;
-L$`L;l$0
-L$`Lc9A
-L$dE3
-L$hE3
-L$hH9
-L$hfff
-L$lE3
-L$pE;
-L$xE3
-L$xE;
-L$xL9
-L9`8tA
-L9m(t	H
-L9ugt	H
-L;d$8
-L;l$`
+L>ev
 LCMapStringEx
 LCMapStringW
 LOG_GENERAL
-Lc'D;g
-Lc)E3
-Lc,;M
-Lc/E3
-Lc3D;s
-Lc7D;w
-Lc9@2
-Lc?D;
-LcA<E3
-LcCPH
-LcMX3
-LcT$03
-LcT$h3
-Lcj43
-Lcl$ A
-Lcl$DJ
-Lct$0fff
-Lc|$`
 LeaveCriticalSection
 Level of validation for nav system.  Higher will be slower.
 LimitMaxPolyEdgeLen
 LimitMaxPolyEdges
 LinearDelta
-Lj[;>
 LoadLibraryExW
 LocaleNameToLCID
 Localize_001
 LoggingSystem_IsChannelEnabled
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-Lt$`D
-M ;M0}#
-M H1E
 MATCHFRAMEWORK_001
-MLc3D;s
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
@@ -1327,18 +604,13 @@ March
 MatchPolysToGround
 MaterialUtils_001
 MathLib_Init
-Mc,$D
-Mc4$H
-McD$,3
-Mce4L
+MbP?
 MergePolys
 MeshSystem001
 MeshUtils001
 ModelDocUtils001
 Monday
 MultiByteToWideChar
-N&B:H
-N0Hci
 NAN(IND)
 NAN(SNAN)
 NONAV
@@ -1374,33 +646,17 @@ NetworkSystemVersion001
 NoPoseControl
 Non reducible polys
 November
-O(t(H
-O0HcQ
+OZQ%
 October
 Offset
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Original polys
-OutputMesh...
-P HcK
-P Hc{
-P Ic.I
-P IcN
-P IcO
-P L;0u
-P(D8s	t
-P(E8}	t
-P(Hc7H
-P(L90t
-P(L90t#H
+OutputMesh...\n
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA\][
-PA_A^A]A\_^]
-PA_A^_^]
-PE;pH
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -1436,32 +692,30 @@ Plat_GetEnv
 Plat_IsInDebugSession
 Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
+Po5H
 Polyclip : Adding Jumps...
 Polyclip : Generating connections...
 Polyclip : Optimising to Quads...
-Polyclip pipeline: 
+Polyclip pipeline: \n
 PostProcessingSystem_001
-PpHcL$8H
-PpLc>H
 PreviewAttachmentModel
 PreviewBoneAttachedModel
 PreviewBoneMergedModel
 PreviewPreset
 PreviewPresetList
 PropertyEditorSystem_001
-QIcQ,H
 QueryPerformanceCounter
 QueuedLoaderVersion001
 RSDSvx.Ly
 RaiseException
 Recast
 Recast: 
-Reduce mesh stopped at cost %f
-ReduceMesh took %0.3f sec
-ReduceMesh...
+Reduce mesh stopped at cost %f\n
+ReduceMesh took %0.3f sec\n
+ReduceMesh...\n
 Reduced polys
 Reducible polys
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Release
 RemoveBoneAndChildren
@@ -1487,29 +741,9 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S,, <Zw
-SAUAVH
-SAUAWH
+S+Ot
+S9>H
 SSE and SSE2 are required.
-SUATH
-SUAUH
-SUVWATAUAVAWH
-SUVWATAUAWH
-SUVWATAVAWH
-SUVWAUH
-SUVWAVH
-SUWATAWH
-SUWAVH
-SVATAVAWH
-SVATAWH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATAUH
-SVWAUAVH
-SVWAUH
-SWATAUH
-SWATH
-SWAWH
 Saturday
 SceneSystem_002
 SceneUtils_001
@@ -1555,31 +789,6 @@ StatsService_001
 SteamAudio001
 Subtract
 Sunday
-T$ A;
-T$ E3
-T$ Ic
-T$(Hc
-T$0E3
-T$0Hc
-T$1Hc
-T$4E3
-T$8E9S,
-T$8E;C
-T$8Hc
-T$@A;
-T$@D9W
-T$@D;W
-T$@E3
-T$@H;
-T$HD;
-T$HL;t$h
-T$PE3
-T$`;AH
-T$`E3
-T$`HcL
-T$`M+
-T$pE3
-T$pHc
 TUUUU
 TerminateProcess
 TestFormatA
@@ -1596,56 +805,21 @@ TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
-Too much Recast debug data; skipping tile
+Too much Recast debug data; skipping tile\n
 ToolFramework2_002
 ToolSceneNodeFactory_001
 ToolScriptManager001
 ToolService_001
-TriSimplify Input: %d positions, %d faces
-TriSimplify Output: %d positions, %d faces
-TriSimplify took %0.3f sec
+TriSimplify Input: %d positions, %d faces\n
+TriSimplify Output: %d positions, %d faces\n
+TriSimplify took %0.3f sec\n
 Tuesday
 Two Bone
-UATAUAVAWH
-UATAVAWH
-UAUAVAWH
-UAUAVH
-UAVAWH
 UPDATE_STRING_TOKEN_DATABASE
-USATAUH
-USAUH
-USAVAWH
-USVAUAVH
-USVAUH
-USVWATAUAVAWH
-USVWATAUAWH
-USVWAUAVH
-USVWAVH
-USVWH
-USVWI
-USWATAVAWH
-USWAUAVAWH
-USWAVH
 UUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVAUAVAWH
-UVAVI
-UVAWH
-UVWATAUAVAWH
-UVWAUH
-UVWAVAWH
-UWATAUAWH
-UWAUAVAWH
-UWAUH
-UWAVH
-UWAWH
 UnhandledExceptionFilter
 Unknown exception
 UserInfoChangeService_001
-V6E>`"(5
-VAUAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -1677,16 +851,6 @@ VSNAPFile
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VUUUA
-VUUUD
-VUUUH
-VWATAVAW
-VWATAVAWH
-VWATAVH
-VWAUAVAWH
-VWAUH
-VWAVH
-VWAWH
 V_atof
 V_atofloat32
 V_atofloat64
@@ -1706,18 +870,12 @@ V_vsnprintf
 V_vsnprintfSize
 V_wcstod
 V_wcstoi64
-Valve0
-Valve1
 VisBuilder_001
 WALKABLESEED
-WATAUAVAWH
-WATAUH
-WAUAVH
-WAVAWH
 WaitForSingleObjectEx
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 Wednesday
 WeightList
 WeldVertices
@@ -1727,59 +885,12 @@ WorldRendererBuilderMgr001
 WorldRendererMgr001
 WriteConsoleW
 WriteFile
-Wu4E3
-X SVWH
-X USWH
-X!t5~
-XA_A^A]A\_^[]
-XA_A^A]A\_^][
-XD$$f
-XL$HA9
-Xl$`Ic
-YT$@A
-Yt$HA
+X/4B
 [aOni*{
-\$ ATAVAWH
-\$ H;
-\$ Hi
-\$ Ic
-\$ UATAVH
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ WH
-\$(Hc
-\$(Hc|$ H
-\$(L#
-\$0A+
-\$0E3
-\$0H;
-\$0Ic
-\$0L+
-\$4E3
-\$@;]
-\$@@8=
-\$@H;
-\$@Hc
-\$@I+
-\$HE3
-\$XtUL
-\$`9yXH
-\$`E3
-\$`fA
-\$xHc
-\$xtUL
-\B(Lc
-\D$0f
-\T$`f
-\l$HHc
-\t$hMc'
-\|$(f
-]0HcL
+\nCwf\r
+\tcQr
+\tkE>fvw
 ^<V7w
-^\$0fA
 _V_strncpy
 __based(
 __cdecl
@@ -1794,12 +905,6 @@ __thiscall
 __unaligned
 __vectorcall
 _test_conversion_counter
-` UAVAWH
-`.rdata
-`A^A]A\^]
-`A_A^A\^[
-`A_A^A]A\[
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -1810,7 +915,6 @@ _test_conversion_counter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -1860,15 +964,16 @@ bad function call
 blendamount
 blockLOS
 body_type
+bone
 bone_name
 bone_names
 bonemerge
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 buildNavigation: Could not build compact data.
 buildNavigation: Could not build detail mesh.
 buildNavigation: Could not build distance field.
@@ -1890,9 +995,6 @@ buildNavigation: Out of memory 'solid'.
 buildPolyDetail: Could not triangulate polygon (%d verts).
 burst_randomize
 burst_scale
-c [1>H'
-c(>\,
-c*<Q	
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
 c:\buildslave\hlvr_rel_win64\build\src\navlib\nav_gen_recast.cpp
@@ -1904,7 +1006,6 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\configvalue.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
-cAMDD
 cable
 canRemoveVertex: Out of memory 'edges' (%d).
 cantdie
@@ -1921,17 +1022,7 @@ collision_prop
 composite
 control_point
 create_particle
-d$ Hc
-d$ UAVAWH
-d$(Lc
-d$0E3
-d$@u%H
-d$PH;
-d$PHc
-d$XD;
-d$`E3
-d$`Hc
-d$pHc
+d8L2
 damage
 dddd, MMMM dd, yyyy
 debris
@@ -1945,11 +1036,10 @@ dmg.fire
 duration
 dynamic_interaction
 e+000
-e0A_A^A]A\]
+eF>t
 eLK(w
 emitFromWorld
 enable_limit
-entiA
 erodeWalkableArea: Out of memory 'dist / relX / relY' (%d).
 error
 event_class
@@ -1961,20 +1051,8 @@ explosion_delay
 explosion_type
 explosive_damage
 explosive_radius
-f9<NL
-fD9,9urD
-fD90t
-fD94BL
-fD94Fu
-fD96u
-fD9t$b
-fD9|M
-fE98t;
 faceMergeAngle
 false
-fffff
-ffffff
-fffffff
 force
 frame
 friction
@@ -1983,84 +1061,34 @@ g_pThreadPool
 game_class
 game_keys
 generic
-gfffA
-gfffE
-gfffH
-gfffL
-gfffffffH
-gfffffffH+
-gfffffffI
-gfffffffI+
+glow
 gravity
-hA;,$|
-hA]_^[
-hA^A\
-hA_A\^[
-hA_A^A]A\_^][
-hE;,$
-hIc83
+h0'D
 handindex
 headtype
 health
 health_override
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
-iYZG(
 ikdata
 ikrig
-ineIA
 invalid_parameter
 invert_orientation
 is_debris
-iu+-,
-k HcKX;
-k0i0$
-k@_aH
-l$ 9Q
-l$ 9k
-l$ D9l$0|LH
-l$ E3
-l$ H;
-l$ M;
-l$ VH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WAVAWH
-l$ WH
-l$$fD
-l$(E3
-l$(Ic
-l$,Hc
-l$0H+
-l$0Hc
-l$4fA
-l$8HcO
-l$8L;
-l$@A;
-l$PH;
-l$PIc
-l$XA+
-l$XE;
-l$`fff
-l$`~bD
-l$xA9
-l8pfH
-l=!L:
+k=yI
 last_sniff
+lcQe
 length
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
-m D9m0
-m0k0$
+mG4>
+mXr4
+m\nXo
 m_Bone
 m_ChainData
 m_Children
@@ -2191,6 +1219,7 @@ mergeAndFilterRegions: Out of memory 'regions' (%d).
 mergeHoles: Failed to find merge points for %p and %p.
 mergeHoles: Failed to merge contours %p and %p.
 mergeRegionHoles: Failed to allocated diags %d.
+mesh
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
 mesh_calculate_curvature_smooth_weight
@@ -2228,6 +1257,8 @@ modeldoc8
 modeldoc9
 multiplayer_break
 n03>Pu
+n\f"pA3Q
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -2277,22 +1308,13 @@ nav_split_place_on_ground
 nav_validate
 navsystem
 navsystem.dll
-ntelE
 numsegments
 obwQ4
 operator
 operator "" 
 origin_max_delta
 origin_relative
-ot$ H
-p AVH
-p AWH
-p0n05
-p1f3q>
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_A^_^]
-pHcY 3
+owM&
 parent_bone
 particle
 particles/
@@ -2310,10 +1332,7 @@ position
 preferred_carryangles
 prop_data
 purecall
-r	Vr.>T
-r 9_ t
-r:D8v
-r?Hc;D
+r\tVr.>T
 radius
 radius used to raise/lower corners in nearby areas when raising/lowering corners.
 radius0
@@ -2387,129 +1406,41 @@ removeVertex: Out of memory 'tverts' (%d).
 removeVertex: Too many polygons %d (max:%d).
 removeVertex: triangulate() returned bad results.
 restrict(
-ri9V vdH
 rootNode
-s4+sP+
-sAfff
-sTfE;
-sXfA;
+sHF'
 secondary
 sequence_name
 sequence_number
 shapeType
+size
 source_filename
 spawn_motion_disabled
 speed
-stfE;
-stgE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
 suppress
 surface_prop
-t"<.u
-t$ 9yXH
-t$ A;
-t$ AVH
-t$ E3
-t$ I;
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$(D9E
-t$(D9s
-t$(E2
-t$(E3
-t$(H+
-t$(Hc;;{
-t$0D9t$@|LH
-t$89YH
-t$8H+
-t$8I;
-t$8Ic
-t$8Lc
-t$8Lk
-t$8ff
-t$@9{
-t$@D8s	t
-t$@E3
-t$@Hc
-t$@uPH
-t$HE3
-t$PE3
-t$PE;
-t$Pu"f
-t$Pu#H
-t$XE3
-t$XIk
-t$Xfff
-t$`A;
-t$`H+
-t$`Hc
-t$`I;
-t$h9yXH
-t$hA+
-t$hH;
-t$hHc
-t$pLcG
-t$xA9
-t$xD;F
-t$xHc
-t$xfff
-t'fA;
-t(E;E
-t)E;E
-t*D8#t
-t+x)fA;
-t.@8:t)
-t/D83t*
-t0@87t+
-t0D8;t+
-t4McF
-t9H9=
-tBD;O
-tCHcP
-tDxBI
-tWIc@
-tXLcQ
-t]<-u
 test_angles_relative
 texturescale
 tier0.dll
-trD8(tmH
 tr_do_reduce
 tr_epsilon_t_junction
 tr_max_acceptable_edge_length
 tr_openedge_penalty
-ttIcF
+true
 turn_rate
-t~Hc3;s
-u	@8=
-u)D9|
-u+Hc+;k
-u3HcH<H
-uID9|
-udLc7D;w
-ueIc>A;~
-uf!T$(H!T$ 
 uniform_burst
 use_additional_offset
 uzKs@>
-u}Hc\$p;]
-u~Hc\$P;\$`u
-v0t08
 v2!L.2
-v8Lc+D;k
 value
 vanmgrph
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -2539,99 +1470,8 @@ vpcf9
 vr_carry_type
 vsnap
 vstdlib.dll
-w(HcL3
-wLc/D;o
-wPD8s	t
-wPHcO
 width
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcG
-x	HcQ
-x ATAVAWH
-x AUAVAWH
-x AV3
-x AVH
-x AWH
-x!HcI
-x!HcK
-x0v0$
-x?D;F
-xA_A^A]A\_^][
-xA_A^A]]
-xFD;C
-xRHcQ
-x_^][
 xpxxxx
-x}HcA
-y\PD>!
 yaw_end
 yaw_start
-z0x0:
-z<r;^uZ
-{Mc,$E;l$
 {YIN?
-|#tAM
-|$ A;
-|$ ATAVAWH
-|$ AV
-|$ AVA
-|$ AVAWHc*3
-|$ AVH
-|$ AWH
-|$ D!
-|$ E3
-|$ L+
-|$ UATAUAVAWH
-|$ UAVAWH
-|$(A^
-|$(D+
-|$(I;
-|$(Mc
-|$(t_L
-|$0A_A^
-|$0D9|$4
-|$0E3
-|$0H+
-|$0Hc
-|$0Ic
-|$0s-
-|$0uGH
-|$8;3
-|$8D;(
-|$@-D
-|$@-H
-|$@H;
-|$@Hcyp;
-|$@L;
-|$@fff
-|$DL+
-|$H;AH
-|$HD;
-|$HH+
-|$HH;
-|$PA;^ u
-|$PE3
-|$PHc
-|$Pff
-|$XIc
-|$XuFA
-|$\.u
-|$`Lc
-|$`fD
-|$`ff
-|$hA+
-|$pff
-|$xE3
-|$xHc
-|b=})>
-})D8Z
-}@D9>
-}tD;Q$
-~ $s%r
-~ fE9,Au
-~!A;~
-~4fff
-~9LcL$8H
-~offf

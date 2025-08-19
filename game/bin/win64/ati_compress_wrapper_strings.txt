@@ -1,129 +1,19 @@
-					
-	+uVA
-	-uKA
-	0uaA
-	0ue@
-	0ueA
-	0|uH
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A\_^
- A]A\_
- A^A]A\
- A^A]A\_^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]^]
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- HcD$`LcT$hf
- LcD$pIc
  Type Descriptor'
  delete
  delete[]
- new[]
- t?D9
-!This program cannot be run in DOS mode.
-!\$0!\$(!\$ L
-!t$(H!t$ A
-!t$(H!t$ H
-!|$DHc
-!|$XI
-$ffffff
-%UUUU
-%UUUU#
-%UUUU;
+ new
 ( 8PX
 ('8PW
-(D$0A
-(D$0H
-(D$0L
-(D$@H
-(D$@f
-(D$Pf
-(L$ D
-(L$`f
-(_^][
 (null)
-(t$ D
-(t$ H
-(t$ L
-(t$0A
-(t$0D
-(t$0H
-(t$@H
-(t$@I
-(t$@L
-(t$PH
-(t$PI
-(t$PL
-(t$`I
-(t$`L
-(t$pH
-(|$ H
-(|$ I
-(|$@L
-(|$`E
-(|$pL
-)D$0A
-)D$0D
-)D$0H
-)D$0L
-)D$0M
-)D$@H
-)D$@M
-)D$PD
-)D9|$`t
-)L$ D
-)L$@H
-)T$PLc
-)\$PD
-)\$`D
-)d$@D
-)d$PD
-)d$PH
-)d$pD
-)l$0D
-)l$0E
-)l$@D
-)l$`D
-)t$ D
-)t$ H
-)t$ f
-)t$0A
-)t$0D
-)t$0H
-)t$0f
-)t$@D
-)t$@H
-)t$@M
-)t$PD
-)t$PI
-)t$`H
-)t$pE
-)|$ @
-)|$ H
-)|$@D
-)|$@L
-)|$`D
-+D$@+L$0
-+T$$+
-+T$DA+
-,D$PA
-,D$TA
 -64OS
--u)L;
 .?AUctype_base@std@@
 .?AV?$ctype@D@std@@
 .?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
@@ -187,18 +77,9 @@ $ffffff
 .?AVruntime_error@std@@
 .?AVsystem_error@std@@
 .?AVtype_info@@
-.pdata
-.text
 0123456789abcdef
 0123456789abcdefABCDEF
 0123456789abcdefghijklmnopqrstuvwxyz
-0A\_^
-0A]A\_
-0A^A]A\
-0A_A]A\
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
 1#IND
 1#INF
 1#QNAN
@@ -206,203 +87,32 @@ $ffffff
 33s?33s?33s?33s?
 700PP
 700WP
-7;|$0t,
-80tVD
-8A\_^[
-8A_A^A]A\_^][
-8D$8t
-8_^][
-9D$Du
-9D$Ttg
-9t$P~98\$vt3H
-;.uAL
-;7sUH
-;\$p|
-< tG<	tC
-<$-Hc
-<+t <-t
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
-<0uAH
-<0ueA
-<0|}H
-<Et	H
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-<xt(<Xu(
-?CuND8g
 ?sqrt
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
 @ADEPQTU
-@A\_^
-@A]A\]
-@A]A\_^]
-@A]_[
-@A^A\_
-@A^A]A\_^
-@A_A^A]A\_
-@A_A^A]A\_^]
-@SAUD
-@SAUH
-@SUAUAVAW
-@SUVATAUH
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATAUH
-@SUVWATH
-@SUVWH
-@SUWATAU
-@SUWATAUH
-@SVATAUAVH
-@SVWATAUAVAWH
-@SVWATAUH
-@SVWATAWH
-@SVWAVAWH
-@SVWH
-@SWAUAVAWH
-@SWAV
-@SWAWH
-@UATAUAVAWH
-@UATAUH
-@UATAVAWH
-@UATAVH
-@USVWATAUAVAWH
-@USVWATAUAWH
-@USVWH
-@UVWATAUAVAWH
-@UVWAWH
-@UVWH
-@VATAUAVH
-@WAUD
-@WAUH
-A;1~	I
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAUAVH
-ATAUAWH
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-A\_][
-A\_^[]
-A\_^][
-A]A\]
-A]A\^][
-A]A\_
-A]A\_][
-A]A\_^[
-A]A\_^[]
-A]A\_^]
-A]A\_^][
-A^A\]
-A^A]A\
-A^A]A\^
-A^A]A\^[
-A^A]A\_^
-A^A]A\_^][
-A^A]]
-A^A]^
-A^A]^]
-A^A]_
-A^_^]
-A_A\_^[
-A_A]A\
-A_A]A\_^[]
-A_A^A\]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]][
-A_A^A]^
-A_A^A]_[
-A_A^[
-A_A^]
-A_A^_^
-A_A^_^[
 April
 Arg list too long
 August
 Bad address
 Bad file descriptor
-Bfffff
 Broken pipe
-CHH90t!H
-CHL9(t"H
-C`90~
-C`D9(~
 CloseHandle
 Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
 CorExitProcess
 CreateFileW
 CreateThread
-D$ @8
-D$ D;
-D$ E2
-D$ Hc
-D$&8\$&t-8X
-D$(E3
-D$(Hc
-D$0H+
-D$0L+
-D$1H+
-D$2H+
-D$8Hc
-D$8HcH
-D$8L+
-D$@H9D$8t
-D$@L+
-D$DE3
-D$HD9T$\
-D$LfD
-D$P%H
-D$P0A
-D$PH9D$@t
-D$PHcT$XH
-D$PL+
-D$PL9oXt
-D$Pfffff
-D$Q+H
-D$XE3
-D$Xfff
-D$`%H
-D$`H+
-D$`ffff
-D$a+H
-D$hE;
-D$p H
-D$pD;
-D$pI+
-D$tD;
-D$xA;
-D$xfA
-D$xfD
-D$|fD
-D+L$<+\$4D+\$,E
-D+T$8+T$(E
-D1:Hc
-D8"u%H
-D8d$Ht
-D9d$ 
-D9|$`
-D;+t1
 December
 DecodePointer
 DeleteCriticalSection
 Directory not empty
 Domain error
-E9,$~T3
-E;,$|
-E\$0H
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
-EwD9E
 Exec format error
 ExitProcess
-F0HcH
 February
 File exists
 File too large
@@ -415,8 +125,6 @@ FlushFileBuffers
 FreeEnvironmentStringsW
 Friday
 Function not implemented
-G	<0|
-G0Hc	H
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -448,25 +156,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H ATH
-H WATAUAVAWH
-H!\$ H
-H!|$ L
-H(H9J(u
-H+L$ x;H
-H+L$ xFH
-H+M0x
-H9L$Xt'H
-H9|$Ht
-HA\_^[
-HA__^]
 HH:mm:ss
-HcC H
-HcD$HH;
-HcH<H
-HcM H
-HcO H
-Hct$@H
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -474,8 +165,6 @@ HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
-IcqHH
-IcqHI
 Illegal byte sequence
 Improper link
 Inappropriate I/O control operation
@@ -491,54 +180,9 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocale
 January
-K0LcY
+July
+June
 KERNEL32.dll
-L!l$HL!l$@
-L$ H3
-L$ SUVWH
-L$ SWAUH
-L$ UVWH
-L$ WATAUAVAWH
-L$(H3
-L$0A+
-L$0H3
-L$0H9_
-L$0H9{
-L$0H;
-L$0L+
-L$0fff
-L$1L+
-L$4H+
-L$4L+
-L$89B
-L$8A;p
-L$8H3
-L$8fff
-L$:fD
-L$@;|
-L$@A;P
-L$@A;X
-L$@E3
-L$@H3
-L$HA;X
-L$HH3
-L$PA;X
-L$PH3
-L$XH3
-L$`H3
-L$`H;
-L$hA+
-L$hA;X
-L$hH3
-L$pA;
-L$pH3
-L$pHc
-L$pfD
-L$tA+
-L$xH3
-L0	A:
-L09A:
-L0:A:
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -546,15 +190,15 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
 LeaveCriticalSection
 LoadLibraryW
 MM/dd/yy
 March
-Mc,$E
+MbP?
 MessageBoxW
 Monday
 MultiByteToWideChar
+NKeb
 No child processes
 No error
 No locks available
@@ -567,20 +211,11 @@ Norwegian-Nynorsk
 Not a directory
 Not enough space
 November
-O0HcQ
 October
 Operation not permitted
-PA]A\[
-PA^A]A\_^][
-PA^A][
-PA^A]_
-PA_A\[
-PA_A\^
-PA_A^A]A\_^]
-PA__]
-PA__^
 Permission denied
 QueryPerformanceCounter
+RSDS
 RaiseException
 Read-only file system
 ReadFile
@@ -588,24 +223,12 @@ Resource deadlock avoided
 Resource device
 Resource temporarily unavailable
 Result too large
-Rich^
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-SATAUH
-SATAWH
-SAUAVH
-SAVAWH
-SUVWATAUAVAWH
-SUWATH
-SUWAVH
-SUWAWH
-SVATH
-SVWATAUAVAWH
-SVWATAUH
-SVWATH
+S;uD
 Saturday
 September
 SetFilePointer
@@ -615,87 +238,24 @@ SetStdHandle
 SetUnhandledExceptionFilter
 Sleep
 Sunday
-T$(fffff
-T$0E3
-T$5H+
-T$<fD
-T$HE3
-T$Hfff
-T$Hffffff
-T$PE3
-T$`E3
-T$`fD
-T$dH+
-T$pD;
 TerminateProcess
 Thursday
 Too many links
 Too many open files
 Too many open files in system
 Tuesday
-UATAUAVAWH
-UATAUH
-UATAVH
-UAUAVH
-UAVAWH
-USVWATAUAVAWH
-USVWATAUH
-USVWATI
-UUUUA
-UUUUD
+UUUU
 UUUUUUUUUUUUUUUU`
-UVAUAVAWH
-UVAUAVI
-UVWATAUAVAWH
-UVWATAUH
-UVWAVI
-UWATH
-UWAWH
 UnhandledExceptionFilter
 Unknown error
 Unknown exception
-VATAWH
-VAUAVAWH
-VAUAVH
-VUUUA
-VUUULc
-VWATAUAVH
-VWATH
-VWAVAWH
-VWAWH
-VWSUH
 Visual C++ CRT: Not enough memory to complete call to strerror.
-WATAUAVAWH
-WATAUH
-WATAVH
-WAUAVH
 WaitForMultipleObjects
 Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-XA_A^A]A\_^[]
-XA__][
-[ UVWH
-\$ A+
-\$ D;
-\$ H!
-\$ UVWATAUAVAWH
-\$ UVWH
-\$$A;
-\$0D;
-\$0H;
-\$4D;
-\$5L+
-\$6L+
-\$8D;
-\$8L3
-\$8fA
-\$@@8=
-\$LA;
-\$`A+
-\$pA;}
-\$~fD
+\r\f\v\v\n\n\t\t\t\t\t
 __based(
 __cdecl
 __clrcall
@@ -711,11 +271,6 @@ _cabs
 _hypot
 _logb
 _nextafter
-` AUH
-` AVH
-`.rdata
-`A\_]
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -726,7 +281,6 @@ _nextafter
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -754,10 +308,13 @@ _nextafter
 `vftable'
 `virtual displacement map'
 abcdefghijklmnopqrstuvwxyz
+acos
 america
 american
 american english
 american-english
+asin
+atan
 atan2
 ati_compress_wrapper.dll
 australian
@@ -768,22 +325,15 @@ bad locale name
 belgian
 britain
 canadian
+ceil
 china
 chinese
 chinese-hongkong
 chinese-simplified
 chinese-singapore
 chinese-traditional
+cosh
 czech
-d$ A;
-d$ UH
-d$0A^_[
-d$4A;
-d$8H+
-d$@D;
-d$PMk
-d$dA;
-d$hA+
 d:\clients\source2_main\src\tools\ati_compress_wrapper\x64\Release\ati_compress_wrapper.pdb
 dddd, MMMM dd, yyyy
 dutch-belgian
@@ -802,18 +352,11 @@ english-trinidad y tobago
 english-uk
 english-us
 english-usa
-f;D$@uD
-f;D$@ug
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
+fabs
 false
-fffff
-ffffff
-fffffff
 floor
 floorf
+fmod
 french-belgian
 french-canadian
 french-luxembourg
@@ -824,12 +367,7 @@ german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 great britain
-h VWATH
-hA^_][
-h_^][
 holland
 hong-kong
 invalid string position
@@ -840,44 +378,23 @@ iostream
 iostream stream error
 irish-english
 italian-swiss
-l$ ATAUAVH
-l$ ATAUAVLc\$@LcT$Hf
-l$ D!
-l$ D;
-l$ VWATH
-l$ WATAUH
-l$ WH
-l$8A;w
-l$8A^A]A\
-l$8D;
-l$8E3
-l$DD;
-l$HD+
-l$HD;
-l$pA+
+kU'9
 ldexp
 log10
+modf
 new-zealand
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
 operator
-p WATAUH
-pA_A^A]A\_^]
+p\rP\f0
 portuguese-brazilian
 pr china
 pr-china
 puerto-rico
-r&D8g
+r\vpL
 raB3G
-s	D;A
-s WATAUAVAWH
-s(D;A
-s*D;A
-s+D;A
-s,D;A
-sDD;A
-s\HcL$HH
+sinh
 slovak
 south africa
 south korea
@@ -907,94 +424,12 @@ string too long
 swedish-finland
 swiss
 system
-t"ffff
-t$ ATH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WAUAVH
-t$ WH
-t$#H+
-t$0A;w
-t$0D;
-t$4A;
-t$4D;
-t$4H+
-t$5H+
-t$8A+
-t$8E3
-t$@D+
-t$@E3
-t$DD;
-t$HA;
-t$HA;]
-t$HA;o
-t$HD;
-t$HfD
-t$LA;
-t$LD;
-t$PA;
-t$PE3
-t$Pt=
-t$hD;
-t$hE+
-t$hH+
-t$hI+
-t$pD+d$HD+
-t$xH+
-t*HcO
-t*ffffff
-t,fffff
-t4fff
-t^Lcw
-tnLcV
-toH91uj
+tanh
 trinidad & tobago
-t~H91uy
-u	A!A
+true
 united-kingdom
 united-states
-x ATAUAVH
-x ATAUAWH
-x ATH
-x UATAUAVAWH
-xA_A^_^
-x_^][
 xppwpp
 xpxxxx
 z?aUY
 zc%C1
-zux!l$ E3
-{ ATH
-|$ ATAUAVAWA
-|$ ATAUAVH
-|$ ATD
-|$ ATH
-|$ D;
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ UH
-|$($|
-|$0-H
-|$4D;
-|$4E;
-|$6E3
-|$9H+
-|$;H+
-|$@-D
-|$@-H
-|$@A;
-|$@A_A^A]A\
-|$@D+
-|$@D;
-|$@fff
-|$DD9d$X
-|$DD;
-|$HA+
-|$HfA
-|$PA;
-|$X-H
-|$X-u
-||HcL$XH
-~/8\$vt)H
-~ID;c

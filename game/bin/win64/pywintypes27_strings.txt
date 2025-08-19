@@ -1,57 +1,20 @@
-    Exception.__init__(self, *args, **kw)
-    else: self.argerror = None
-    else: self.excepinfo = None
-    else: self.funcname = None
-    else: self.hresult = None
-    else: self.strerror = None
-    else: self.winerror = None
-    if nargs > 0: self.hresult = args[0]
-    if nargs > 0: self.winerror = args[0]
-    if nargs > 1: self.funcname = args[1]
-    if nargs > 1: self.strerror = args[1]
-    if nargs > 2: self.excepinfo = args[2]
-    if nargs > 2: self.strerror = args[2]
-    if nargs > 3: self.argerror = args[3]
-    nargs = len(args)
-  def __init__(self, *args, **kw):
- A\][
- A\][H
- A\_^
- A^A\^
- A^A]A\^]
- A_A^A]
 !GetDateFormat failed (%ld)!
 !GetTimeFormat failed (%ld)!
-!This program cannot be run in DOS mode.
 !illegal internal value!
 %s not supported by this version of Windows
 %s: unable to allocated %d bytes
-'+?2LF
-(A_A^A]]
 (BBBBBB)
 (bbbbbb)O:SID
 (bbbbbb)b:Initialize
 (iNN)
 (ll)lN
 (ll)lNNN
-(t$ H
-)t$ f
 -np1A
 .?AU_object@@
 .?AVPyHANDLE@@
 .?AVPyHKEY@@
 .?AVtype_info@@
-.pdata
-.text
-0;|$pr
-0A]A\_
-0A^A]A\
-0A^^]
-0A_A^A]A\_^]
 0x%02hx%02hx%02hx%02hx%02hx%02hx
-8A\_^[
-8A^A\
-9t$@w	H
 :Close
 :CreateGuid
 :Detach
@@ -69,7 +32,6 @@
 :OVERLAPPED
 :SECURITY_ATTRIBUTES
 :WAVEFORMATEX
-;t$Xr
 <%hs at %Id (%Id)>
 <Error getting traceback - cStringIO.StringIO() failed>
 <Error getting traceback - cant find cStringIO.StringIO>
@@ -81,7 +43,6 @@
 <Error getting traceback - getvalue() did not return a string>
 <Error getting traceback - getvalue() failed.>
 <Error getting traceback - traceback.print_exception() failed>
-<NULL!!>
 <PyTime:%s %s>
 ??0PyACL@@QEAA@HH@Z
 ??0PyACL@@QEAA@PEAU_ACL@@@Z
@@ -440,31 +401,10 @@
 ?tp_new@PyDEVMODEW@@SAPEAU_object@@PEAU_typeobject@@PEAU2@1@Z
 ?unaryFailureFunc@PyHANDLE@@SAPEAU_object@@PEAU2@@Z
 ?unaryFailureFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
-@&L9D$8~ H
-@.data
-@.reloc
-@A\_^
-@FL9D$8~ H
 @None is not a valid string in this context
-@SUATH
-@SUVH
-@UAUAVAWH
-@USATH
-@USVH
-@USWH
-@UVATAUAVH
-@UVAVH
-@UVWATH
-@VATAVH
-@WATAUAVH
 A Python object, representing a SECURITY_ATTRIBUTES structure
 ACLType
 ADVAPI32.dll
-ATAVH
-AUAWH
-A]A\_
-A^A]A\^]
-A_A^A]A\_
 AccessMode
 AccessPermissions
 Ace type %d is not supported yet
@@ -500,8 +440,6 @@ BitsPerPel
 Block alignment, in bytes. The block alignment is the minimum atomic unit of data for the wFormatTag format type. If wFormatTag is WAVE_FORMAT_PCM, nBlockAlign should be equal to the product of nChannels and wBitsPerSample divided by 8 (bits per byte).
 Buffer cannot be None
 Buffer length can be at most %d characters
-C$u!H
-CDu!H
 CLSIDFromProgID
 CLSIDFromString
 COM Error 0x%x
@@ -521,11 +459,6 @@ Copies
 CopySid
 Could not initialise the error objects
 CreateGuid
-D$ -l
-D$0E3
-D$0t/H
-D$hE3
-D;L$Xr
 DEVMODE structure of size %d greater than supported size of %d
 DEVMODEAType
 DEVMODEType
@@ -613,16 +546,10 @@ GetSystemTimeAsFileTime
 GetTickCount
 GetTimeFormatA
 GetTimeZoneInformation
-H9=D0
-H9D$0~bH
 HANDLE
 HANDLE must be a PyHKEY
 HANDLEType
-HA^A]A\_
-HcD$@HcL$0H
-HcD$@Lc\$0I
-HcH<H
-HcT$@H
+HKEY
 ICMIntent
 ICMMethod
 IIDType
@@ -649,11 +576,7 @@ IsValidAcl
 IsValidSecurityDescriptor
 IsValidSid
 KERNEL32.dll
-L$ SUVATAUAVAWH
-L$HE3
-L$PH;
 LARGE_INTEGER must be 'int', or '(int, int)'
-LcA<E3
 LeaveCriticalSection
 Length of DriverData cannot be longer that DriverExtra (%d bytes)
 LoadLibraryA
@@ -699,7 +622,6 @@ Orientation
 OtherOperationCount
 OtherTransferCount
 Out of memory allocating thread state.
-PA\[]
 POINT must be a tuple of 2 ints (x,y)
 PanningHeight
 PanningWidth
@@ -821,7 +743,6 @@ Py_FatalError
 Py_InitModule4_64
 Py_MakePendingCalls
 QueryPerformanceCounter
-R0I9<$@
 RECT must be a tuple of 4 ints (left, top, right, bottom)
 RSDSK
 ReadOperationCount
@@ -835,14 +756,11 @@ Reserved1
 Reserved2
 Resource id/name must be string or int in the range 0-65536
 Resource id/name must be unicode or int in the range 0-65536
-S-%lu-
 SECURITY_ATTRIBUTES
 SECURITY_ATTRIBUTESType
 SECURITY_DESCRIPTOR
 SECURITY_DESCRIPTORType
 SIDType
-SVAWH
-SVWATH
 Sample rate in seconds
 Scale
 Security descriptor created from a buffer must be self relative
@@ -865,6 +783,7 @@ SetSecurityDescriptorOwner
 SetSecurityDescriptorSacl
 SetSubAuthority
 Should always be set to DM_SPECVERSION
+Size
 Size of structure
 Sleep
 SpecVersion
@@ -875,10 +794,7 @@ StringFromGUID2
 StringIO
 Support for passing 2 integers to create a 64bit value is deprecated - pass a long instead
 SystemTimeToFileTime
-T$0E3
-T$HE3
-T$PE3
-T$pE3
+TRUE
 TTOption
 The index is out of range
 The object is not a PyACL object
@@ -890,6 +806,7 @@ The object is not a PySID object
 The object is not a PyWAVEFORMATEX object
 The object must be a string or unicode object (got '%s')
 The string is too long
+Time
 TimeType
 TimeZoneInfo
 TlsAlloc
@@ -904,22 +821,17 @@ TrusteeForm not yet supported
 TrusteeType
 ULARGE_INTEGER must be 'int', or '(int, int)'
 USER32.dll
-UVWATAUAVAWH
 Unable to allocate %d bytes
 Unable to convert %s to pointer-sized value
-Unhandled exception detected before entering Python.
+Unhandled exception detected before entering Python.\n
 Unicode
 UnicodeFromRaw
 UnicodeType
 Use 0 if PaperWidth and PaperLength are set, otherwise win32con.DMPAPER_* constant
 VDEST
-VWATH
-VWAVH
 VariantTimeToSystemTime
 Version nbr assigned to printer driver by vendor
 Vertical printer resolution in DPI - if this is set, PrintQuality indicates horizontal DPI
-WATAUAVAWH
-WATAUH
 WAVEFORMATEX
 WAVEFORMATEXType
 WAVE_FORMAT_PCM
@@ -927,10 +839,11 @@ WPARAM must be a String, int, or buffer object (got %s)
 WriteOperationCount
 WriteTransferCount
 YResolution
-\$ VH
-\$ WH
-\$ taH
-\$8L3
+\fCPf
+\nCPf
+\rCPf
+\tCPf
+\vCPf
 _Py_HashPointer
 _Py_NoneStruct
 _Py_NotImplementedStruct
@@ -942,10 +855,8 @@ __CxxFrameHandler3
 __builtin__
 __builtins__
 __clean_type_info_names_internal
-__dict__
 __dllonexit
 __iob_func
-__name__
 _amsg_exit
 _encoded_null
 _initterm
@@ -958,11 +869,6 @@ _onexit
 _snwprintf
 _strdup
 _unlock
-` AUAVAWH
-`.rdata
-`A^_^
-`A_A^A]A\^][
-`A_^[
 accessing non-existent IID segment
 accessing non-existent SID segment
 allocating BSTR
@@ -973,19 +879,22 @@ cStringIO
 can't delete OVERLAPPED attributes
 can't delete SECURITY_ATTRIBUTES attributes
 can't format dates this early
-class com_error(Exception):
-class error(Exception):
+class error(Exception):\n  def __init__(self, *args, **kw):\n    nargs = len(args)\n    if nargs > 0: self.winerror = args[0]\n    else: self.winerror = None\n    if nargs > 1: self.funcname = args[1]\n    else: self.funcname = None\n    if nargs > 2: self.strerror = args[2]\n    else: self.strerror = None\n    Exception.__init__(self, *args, **kw)\nclass com_error(Exception):\n  def __init__(self, *args, **kw):\n    nargs = len(args)\n    if nargs > 0: self.hresult = args[0]\n    else: self.hresult = None\n    if nargs > 1: self.strerror = args[1]\n    else: self.strerror = None\n    if nargs > 2: self.excepinfo = args[2]\n    else: self.excepinfo = None\n    if nargs > 3: self.argerror = args[3]\n    else: self.argerror = None\n    Exception.__init__(self, *args, **kw)\n
 close
 com_error
 dword
 error
+fX]r
 fileno
 fprintf
+free
 getvalue
-hA\_^]
 hEvent
 handle
+hour
+i(Lc
 i:GetSubAuthority
+iNzz
 iOi:SetSacl
 iOi:SetSecurityDescriptorDacl
 ignore
@@ -994,9 +903,8 @@ illegal internal value
 illegal time value
 initpywintypes
 items
+k\ftS
 kkkO:AddMandatoryAce
-l$ VWATH
-l$PE3
 l:DeleteAce
 l:GetAce
 lNNNNNNNss
@@ -1009,12 +917,14 @@ llO:AddAccessAllowedAce
 llO:AddAccessDeniedAce
 llOii:AddAuditAccessAce
 llO|Ol
+lllO
 lllO:AddAccessAllowedAceEx
 lllO:AddAccessDeniedAceEx
 lllOOO:AddAccessAllowedObjectAce
 lllOOO:AddAccessDeniedObjectAce
 lllOOOii:AddAuditAccessObjectAce
 lllOii:AddAuditAccessAceEx
+llll
 llll;RECT must be a tuple of 4 ints (left, top, right, bottom)
 lstrlenA
 malloc
@@ -1023,6 +933,7 @@ memcpy
 memset
 minute
 month
+msec
 nAvgBytesPerSec
 nBlockAlign
 nChannels
@@ -1030,31 +941,23 @@ nSamplesPerSec
 object
 object must be a read-buffer to read the CLSID bytes
 ole32.dll
-pA_A^A]A\_^]
 print_exception
 python27.dll
 pywintypes
 pywintypes27.dll
 pywintypes: can not setup interpreter state, as current state is invalid
-rZH9}
 realloc
 s#:SID
-s<Lcf
 second
 strftime
 string too small - must be at least %d bytes (got %d)
 strncpy
 sub authorities must be a sequence of integers.
 sub authorities sequence size must be <= 8
-t$ WH
-t$@fD
-t$@t$H
-t$@uKH
-tZfff
+time
 time tuple must have at least 6 elements
 timetuple
 traceback
-uRA8D$
 wBitsPerSample
 wFormatTag
 wcsncpy
@@ -1063,14 +966,11 @@ win32con.DMMEDIA_*, can also be a printer-specific value greater then DMMEDIA_US
 win32timezone
 wsprintfA
 wsprintfW
-xA_A]
+year
 year out of range
 {s:N,s:N,s:N,s:N,s:N,s:N}
 {s:O,s:l,s:l,s:l,s:N}
 {s:l,s:l,s:l,s:N}
-|$ ATAUAVH
-|$ ATH
-|$0Hc
 |O:Format
 |O:HANDLE
 |O:HANDLERegistry
@@ -1078,3 +978,4 @@ year out of range
 |ii:ACL
 |l:SECURITY_DESCRIPTOR
 |llllllll:SID
+~iGt

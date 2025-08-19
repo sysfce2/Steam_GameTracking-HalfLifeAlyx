@@ -1,51 +1,21 @@
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- 9(X`
- A^_^
- A_A^A\
- A_A^A\_^
- A_A^A]A\^
- A_A^A]A\_
- A_A^_
  Base Class Array'
  Base Class Descriptor at (
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- new[]
- tDE3
- tQD8c:u0M
- t^D9
- vJH+
-!,X< w
-!>6'Y
-!t)Sa8y
+ new
 %02d:%02d:%02d
 %04d%02d%02d%02d%02d%02d
-%s%c%s
-%s\%s
+%llu
+&Sgw
 ( 8PX
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
 (null)
-(o:R	
-(t$PH
-)>6{1n
 *StO9>T
-+M<7>
-+f)>0'
-+h->|
-,/<-w
-,0<	w
-,I<%w
-,|%)v
--uNI;
 .00cfg
 .?AV?$CCallResult@VCAddAppDependencyResult_t_result@@UAddAppDependencyResult_t@@@@
 .?AV?$CCallResult@VCAddUGCDependencyResult_t_result@@UAddUGCDependencyResult_t@@@@
@@ -144,10 +114,10 @@
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -164,155 +134,57 @@
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
 .xdata
 .xdata$x
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
 0123456789ABCDEF
-061110000000Z
-0A^_^
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]][
-0A_A^_
-0A_A^_^]
 0iN>/
-0v0b1
+0pB;
+0qB;
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-131022120000Z
-141022000000Z
-181004000000Z
-191114173227Z0#
-1<.	/>:
-1RKgH
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
+11Y@
+37>k
 3>N;kU
 3>fvw
-4g/PU
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5488455P
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+4pB;
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-80tWD
-8A^_^[
-8A_A^A]A\_^][
-8\$pt
-8\$xt
-9X ufA
-9t$Xt
-;=u~H
-;H9>&X
-;I9}(tiH
-<	w	@
-< t;<	t7
-<htr<jtb<lt6<tt&<wt
+8oB;
+8pB;
+8uB;
+=87M
+=cQ6
 =imb;D
+>cQ6
 >jtm}S
-?*u8H
-?5zlO
 ?7zQ6$
-?:kP<
-?H33H
-?QY^&
 ?UUUUUU
 ?f`Y4
-@.data
-@.reloc
-@.rsrc
-@80u#H
-@848u
-@8y:t
-@8|$PtN
-@8|$PtP
-@8|$^t
-@>%>b
-@A^_^
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^^
-@A_A^_
-@HcC(H
-@SUAUAVAWH
-@SUVAVH
-@SUVWATAUAVAWH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@UATAVH
-@USVWATAUAVAWH
-@USVWAVAWH
-@VAWH
-@b;zO]
-A81t@@8r
-A84.u
-A86taH
-A;H }
+?qBJ
+?ysB
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ADVAPI32.dll
-ATAVAWH
-AUAVAWH
-A^A\]
-A^^][
-A^_^[]
-A_A^A\
-A_A^A\_]
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^]
-A_A^_^[]
-A_A^_^]
 April
 AreFileApisANSI
 August
-AuthD
-B(I9A(u
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
-Bellevue1
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 Breakpad_SteamMiniDumpInit
 Breakpad_SteamSetAppID
 Breakpad_SteamSetSteamID
 Breakpad_SteamWriteMiniDumpSetComment
 Breakpad_SteamWriteMiniDumpUsingExceptionInfoWithBuildId
-C-yh/
-C8<(u
-CA< t(<#t
 CAddAppDependencyResult_t_RemoveCallResult
 CAddAppDependencyResult_t_SetCallResult
 CAddUGCDependencyResult_t_RemoveCallResult
@@ -449,86 +321,20 @@ CUserStatsReceived_t_RemoveCallResult
 CUserStatsReceived_t_RemoveCallback
 CUserStatsReceived_t_SetCallResult
 CUserStatsReceived_t_SetCallback
-Calling BreakpadMiniDumpSystemInit
+Calling BreakpadMiniDumpSystemInit\n
 CloseHandle
 CorExitProcess
 CreateEventW
 CreateFileW
 CreateInterface
-D$ E3
-D$(H;
-D$0HcH
-D$49C
-D$8A;
-D$8L9
-D$@E3
-D$@H+
-D$@H;G
-D$HE3
-D$P I
-D$PA#
-D$PH+
-D$PHc
-D$PI;
-D$XD8p
-D$XD90}
-D$`E3
-D$`H;
-D$`Hc
-D$hA+
-D$xfD
-D(8Ht}
-D08@t	
-D18 t
-D82u&H
-D848u
-D88Ht!
-D88Hte
-D8<.u
-D8</u
-D8<0u
-D8<1u
-D8<8u
-D8<9u
-D8Y:uEH
-D8a:uDH
-D8c:u
-D8d$H
-D8d$Ht
-D8d$ht
-D8l$ht
-D8t$Ht
-D8u`twH
-D8|$Pt
-D98Ht;H
-D9@ }
-D9A }
-D9c t
-D9|$ 
-D;A }
-D;B }
-D<P0I
-DD$$H
-DD$`3
 December
 DeleteCriticalSection
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
-E+BHI
-E0C07
-E0HcH
-E0Lcx
-E8>t#L
-E8>t=H
-EP*?@
-Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.
+DpB;
+ET5>
 EncodePointer
 EnterCriticalSection
 ExitProcess
+FEMh\f
 February
 FindClose
 FindFirstFileExA
@@ -538,11 +344,10 @@ FlsFree
 FlsGetValue
 FlsSetValue
 FlushFileBuffers
-Forcing breakpad minidump interfaces to load
+Forcing breakpad minidump interfaces to load\n
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G0Hc	H
 GetACP
 GetCPInfo
 GetCommandLineA
@@ -573,28 +378,20 @@ GetStartupInfoW
 GetStdHandle
 GetStringTypeW
 GetSystemTimeAsFileTime
-H!D$ E
-H!T$0D
-H0F08
-H9A u
-H;XXs
-H;xXu5
-H;{ s
-HA_A]A\_^[
 HH:mm:ss
+HKCR
+HKCU
 HKEY_CLASSES_ROOT
 HKEY_CURRENT_USER
 HKEY_LOCAL_MACHINE
-HcC H
-HcC0H
-HcG(H
-HcK H
-Hc]`M
+HKLM
 HeapAlloc
 HeapFree
 HeapReAlloc
 HeapSize
-Ht)I;
+HoB;
+HpB;
+HrB;
 IND)ind)
 INITY
 InitializeConditionVariable
@@ -608,60 +405,34 @@ IsDebuggerPresent
 IsProcessorFeaturePresent
 IsValidCodePage
 January
-K&>.yC
+July
+June
 KERNEL32.dll
-K~Je#>!
-L!|$(L!
-L$ SVWH
-L$ WATAUAVAWH
-L$ WH
-L$&@8t$&t0@8q
-L$0H;
-L$0H;K
-L$0M;
-L$8H3
-L$8Lc
-L$@;|
-L$@H3
-L$D;L$T
-L$DE3
-L$P+L$8
-L$P+L$H
-L$XE3
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L9@ s
-L9J(t]
-L9`8u'L
-L;C s
+L>ev
 LCMapStringEx
 LCMapStringW
-LcA<E3
 LeaveCriticalSection
-Lj[;>
 LoadLibraryExA
 LoadLibraryExW
 LocaleNameToLCID
-Looking up breakpad interfaces from steamclient
-M H1E
-M90u/
+Looking up breakpad interfaces from steamclient\n
+LpB;
 MM/dd/yy
 March
 Monday
 MultiByteToWideChar
-N#}qi
 NAN(IND)
 NAN(SNAN)
 November
-O0HcQ
-O0LcQ
+OZQ%
 October
 OpenProcess
 OutputDebugStringA
-PADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+PpB;
+PqB;
+PsB;
 QueryPerformanceCounter
+RSDS
 RaiseException
 ReadConsoleW
 ReadFile
@@ -674,13 +445,9 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S,, <Zw
+S9>H
 SHELL32.dll
 SNAN)
-SUVWATAUAVAWH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWAVH
 Saturday
 September
 SetEndOfFile
@@ -690,7 +457,7 @@ SetFilePointerEx
 SetLastError
 SetStdHandle
 SetUnhandledExceptionFilter
-Setting breakpad minidump AppID = %u
+Setting breakpad minidump AppID = %u\n
 ShellExecuteW
 SleepConditionVariableCS
 Software\Valve\Steam
@@ -1539,75 +1306,51 @@ Steam_GetHSteamUserCurrent
 Steam_RegisterInterfaceFuncs
 Steam_ReleaseThreadLocalMemory
 Steam_RunCallbacks
-Steam_SetMinidumpSteamID:  Caching Steam ID:  %lld [API loaded %s]
-Steam_SetMinidumpSteamID:  Setting Steam ID:  %lld
+Steam_SetMinidumpSteamID:  Caching Steam ID:  %lld [API loaded %s]\n
+Steam_SetMinidumpSteamID:  Setting Steam ID:  %lld\n
 Sunday
-T$ A;
-T$8A+
-T$<D;
-T$PD+
-T$PE3
+TTD;
 TUUUU
-TUUUUUU
 TerminateProcess
 Thursday
 TlsAlloc
 TlsFree
 TlsGetValue
 TlsSetValue
+TpB;
 Tuesday
-UATAUAVAWH
-UAVAWH
-USVWAVH
 UTF-16LEUNICODE
 UTF-8
 UUUUUU
-UVWATAUAVAWH
-UVWAVAWH
-UWAVH
 UnhandledExceptionFilter
 Unknown exception
-Using breakpad crash handler
-V6E>`"(5
-VATAUAVAWH
-VAVAWH
-VWATAVAW
-VWATAVAWH
-VWAVH
-Valve0
-Valve1
-WATAUAVAWH
-WAVAWH
+Using breakpad crash handler\n
 WaitForSingleObjectEx
 WakeAllConditionVariable
 Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
+X/4B
+XTD;
+XoB;
+XpB;
+XuB;
 [S_API FAIL] SteamAPI_Init() failed; connect to global user failed.
 [S_API FAIL] SteamAPI_Init() failed; create pipe failed.
-[S_API FAIL] SteamAPI_Init() failed; no appID found.
-[S_API FAIL] SteamAPI_Init() failed; unable to locate interface factory in %s.
-[S_API FAIL] Tried to access Steam interface %s before SteamAPI_Init succeeded.
-[S_API] SteamAPI_Init(): Could not determine Steam client install directory.
-[S_API] SteamAPI_Init(): Loaded '%s' OK.
-[S_API] SteamAPI_Init(): Loaded '%s' OK.  (First tried local '%s')
-[S_API] SteamAPI_Init(): Loaded local '%s' OK.
-[S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.
-[S_API] SteamAPI_Init(): Sys_LoadModule failed to load: %s
+[S_API FAIL] SteamAPI_Init() failed; no appID found.\nEither launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.\n
+[S_API FAIL] SteamAPI_Init() failed; unable to locate interface factory in %s.\n
+[S_API FAIL] Tried to access Steam interface %s before SteamAPI_Init succeeded.\n
+[S_API] SteamAPI_Init(): Could not determine Steam client install directory.\n
+[S_API] SteamAPI_Init(): Loaded '%s' OK.  (First tried local '%s')\n
+[S_API] SteamAPI_Init(): Loaded '%s' OK.\n
+[S_API] SteamAPI_Init(): Loaded local '%s' OK.\n
+[S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.\n
+[S_API] SteamAPI_Init(): Sys_LoadModule failed to load: %s\n
 [aOni*{
-\$ E3
-\$ H;
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ WH
-\$0H;
-\$8A+
-\$<A;
-\$@@8=
-\$@H;
 \steam.exe
+\tcQr
+\tkE>fvw
 ^<V7w
 __based(
 __cdecl
@@ -1622,8 +1365,6 @@ __swift
 __thiscall
 __unaligned
 __vectorcall
-`.rdata
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -1634,7 +1375,6 @@ __vectorcall
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `local static guard'
 `local static thread guard'
 `local vftable constructor closure'
@@ -1665,67 +1405,40 @@ bad allocation
 bad array new length
 bad exception
 bin\clientui.dll
-bp(=>?g
-c [1>H'
-c(>\,
 c:\buildslave\steam_rel_client_win64\build\src\steam_api\win64\Release\steam_api64.pdb
+d8L2
 dddd, MMMM dd, yyyy
+dpB;
 e+000
-e0A_A^A]A\]
+eF>t
 eLK(w
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fE9<@I
-fE9<@t
-fffff
-ffffff
-fffffff
 g_pSteamClientGameServer
 gameoverlayrenderer64.dll
-gfffA
-gfffffffH
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
+h0'D
+hoB;
+hpB;
+hrB;
 inity
-iu+-,
-k0i0$
-l$ E3
-l$ VWATAVAWH
-l$ WAVAWH
+k=yI
 log10
-m0k0$
-m8L9c
+lpB;
+mG4>
+m\nXo
 map/set<T> too long
 n03>Pu
 nan(ind)
 nan(snan)
-ntelD
 obwQ4
 operator
 operator "" 
 operator co_await
-ot$ H
-p AWH
-p0n05
-p1f3q>
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-q0@80u
-r	Vr.>T
-r:D8v
+owM&
+ppB;
+pqB;
+ptB;
+r\tVr.>T
 restrict(
-ri9O vdH
-s WAVAWH
-s4+sP+
 snan)
-stCD;
-stED;
-st`D;
 steam2.dll
 steam://run/%u
 steam://run/%u//
@@ -1735,67 +1448,12 @@ steamclient.dll
 steamclient64.dll
 steamconsole64.dll
 steamui.dll
-stfE;
-stgE;
-sthE;
-t	H9s
-t	L9c
-t"<.u
-t$ A;
-t$ AVH
-t$ E3
-t$ UH
-t$ UWATAVAWH
-t$ WAVAWH
-t$ WH
-t$(I;
-t$0LcG
-t$8H+
-t/D8e
-t5HcP
-t<ffff
-tI@8{:t
-tK@8{:t
-tRLcY
-ttIcF
-u HcA<H
-u"A9X }
-u#H9x s
-u3HcH<H
-u4I9}(
-u=L;k
-uAfff
-uf!T$(H!T$ 
+toB;
+tpB;
 uzKs@>
-v0D8eou\H
-v0t08
 v2!L.2
 win64\audio.dll
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x ATAVAWH
-x AV3
-x AVH
-x AWH
-x0v0$
+xpB;
 xpxxxx
-y\PD>!
-z0x0:
-|$ ATAVAWH
-|$ AVH
-|$ D!
-|$ E3
-|$ UATAUAVAWH
-|$(A^
-|$(I;
-|$0A+
-|$0s-
-|$8;3
-|$@-D
-|$@-H
-|$@H;
-|$\.u
-|$`Ic
-|b=})>
-~ $s%r
+xrB;
+xsB;

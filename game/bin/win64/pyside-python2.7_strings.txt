@@ -1,39 +1,7 @@
-	?indexOf@QByteArray@@QEBAHDH@Z
-	?indexOfMethod@QMetaObject@@QEBAHPEBD@Z
-	?indexOfProperty@QMetaObject@@QEBAHPEBD@Z
-	?indexOfSignal@QMetaObject@@QEBAHPEBD@Z
-	?indexOfSlot@QMetaObject@@QEBAHPEBD@Z
-	uCIcA
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
- A\^]
- A\_^
- A]_^
- A^A]A\_^
- A_A^A]
- A_A^A]A\_
- Hcq(3
- Hc|$pM
- L9d$(
-!This program cannot be run in DOS mode.
-$HcD$XH
-$Lc\$XMcJ
-$u%IcD$
-$u<IcD$
-$uAIcD$
-$uBIcD$
-$uEIcD$
-$uFIcD$
+%\f?number@QString@@SA?AV1@_KH@Z
 %s only accepts %d arguments, %d given!
-%s(%s)
 '%s' is not a Qt property or a signal
 (void)
-.+\((.*)\)
 .?AUExternalRefCountData@QtSharedPointer@@
 .?AUExternalRefCountWithDestroyFn@QtSharedPointer@@
 .?AVDestroyListener@PySide@@
@@ -43,28 +11,13 @@ $uFIcD$
 .?AVbad_alloc@std@@
 .?AVexception@std@@
 .?AVtype_info@@
-.pdata
-.text
-0A\_^
-0A\_^][
-0A]A\_
-0A]A\_^]
-0A]][
-0A]_[
-0A^A]A\
-0A^A]A\_^
-0A_A^A]A\_
-0H;](u
-0H;} u
-0_^[H
 1__receiverDestroyed__(QObject*)
 1onObjectDestroyed(QObject*)
 2destroyed(QObject*)
-8A\_^[
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
-<8(u~H
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
->	?grow@QVectorData@@SAHHHH_N@Z
+<\r?qstrcmp@@YAHAEBVQByteArray@@0@Z
+=\r?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
+>\r?qstrcmp@@YAHPEBD0@Z
+>\t?grow@QVectorData@@SAHHHH_N@Z
 ??0DestroyListener@PySide@@AEAA@PEAVQObject@@@Z
 ??0GilState@Shiboken@@QEAA@XZ
 ??0PyObjectWrapper@PySide@@QEAA@AEBV01@@Z
@@ -125,7 +78,6 @@ $uFIcD$
 ??BQByteRef@@QEBA?BDXZ
 ??_7DestroyListener@PySide@@6B@
 ??_V@YAXPEAX@Z
-?I;4$u
 ?QStringList_join@QtPrivate@@YA?AVQString@@PEBVQStringList@@AEBV2@@Z
 ?_Xlength_error@std@@YAXPEBD@Z
 ?_Xout_of_range@std@@YAXPEBD@Z
@@ -231,61 +183,25 @@ $uFIcD$
 ?instance@SignalManager@PySide@@SAAEAV12@XZ
 ?isPropertyType@Property@PySide@@YA_NPEAU_object@@@Z
 ?isQtSignal@Signal@PySide@@YA_NPEBD@Z
-?isReadable@QMetaProperty@@QEBA_NXZ
 ?isUserType@Object@Shiboken@@YA_NPEAU_object@@@Z
 ?isValid@Object@Shiboken@@YA_NPEAUSbkObject@@_N@Z
-?left@QByteArray@@QEBA?AV1@H@Z
 ?len@String@Shiboken@@YA_JPEAU_object@@@Z
 ?listen@DestroyListener@PySide@@QEAAXPEAVQObject@@@Z
 ?m_instance@DestroyListener@PySide@@0PEAV12@EA
-?maybeSpace@QDebug@@QEAAAEAV1@XZ
 ?metaObject@DestroyListener@PySide@@UEBAPEBUQMetaObject@@XZ
-?metacall@QMetaObject@@SAHPEAVQObject@@W4Call@1@HPEAPEAX@Z
-?method@QMetaObject@@QEBA?AVQMetaMethod@@H@Z
-?methodCount@QMetaObject@@QEBAHXZ
-?methodIndex@QMetaMethod@@QEBAHXZ
-?methodOffset@QMetaObject@@QEBAHXZ
-?methodType@QMetaMethod@@QEBA?AW4MethodType@1@XZ
-?mid@QByteArray@@QEBA?AV1@HH@Z
-?name@QMetaProperty@@QEBAPEBDXZ
 ?newObject@MetaFunction@PySide@@YAPEAUPySideMetaFunction@@PEAVQObject@@H@Z
 ?newObject@Object@Shiboken@@YAPEAU_object@@PEAUSbkObjectType@@PEAX_N2PEBD@Z
 ?newObject@QFlags@PySide@@YAPEAUPySideQFlagsObject@@JPEAU_typeobject@@@Z
 ?newObject@Signal@PySide@@YAPEAUPySideSignal@@PEBDZZ
 ?newObjectFromMethod@Signal@PySide@@YAPEAUPySideSignalInstance@@PEAU_object@@AEBV?$QList@VQMetaMethod@@@@@Z
-?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
 ?nextQObjectMemoryAddr@PySide@@YAPEAXXZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
-?node_delete@QMapData@@QEAAXQEAPEAUNode@1@HPEAU21@@Z
-?normalizedSignature@QMetaObject@@SA?AVQByteArray@@PEBD@Z
-?normalizedType@QMetaObject@@SA?AVQByteArray@@PEBD@Z
 ?notifyGlobalReceiver@SignalManager@PySide@@QEAAXPEAVQObject@@@Z
-?number@QByteArray@@SA?AV1@HH@Z
-?number@QByteArray@@SA?AV1@_JH@Z
-?number@QString@@SA?AV1@_KH@Z
 ?onObjectDestroyed@DestroyListener@PySide@@QEAAXPEAVQObject@@@Z
-?parameterTypes@QMetaMethod@@QEBA?AV?$QList@VQByteArray@@@@XZ
 ?pointerToPython@Conversions@Shiboken@@YAPEAU_object@@PEAUSbkConverter@@PEBX@Z
-?prepend@QByteArray@@QEAAAEAV1@D@Z
-?prepend@QByteArray@@QEAAAEAV1@PEBD@Z
-?prepend@QListData@@QEAAPEAPEAXXZ
-?property@QMetaObject@@QEBA?AVQMetaProperty@@H@Z
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
-?propertyCount@QMetaObject@@QEBAHXZ
 ?pythonTypeIsObjectType@Conversions@Shiboken@@YA_NPEAUSbkConverter@@@Z
-?qFree@@YAXPEAX@Z
-?qHash@@YAIAEBVQByteArray@@@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
-?qWarning@@YA?AVQDebug@@XZ
-?qWarning@@YAXPEBDZZ
-?qstrcmp@@YAHAEBVQByteArray@@0@Z
-?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
-?qstrcmp@@YAHPEBD0@Z
 ?qt_metacall@DestroyListener@PySide@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@SignalManager@PySide@@SAHPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacast@DestroyListener@PySide@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?qt_static_metacall@DestroyListener@PySide@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?realloc@QByteArray@@AEAAXH@Z
 ?realloc@QListData@@QEAAXH@Z
@@ -354,60 +270,14 @@ $uFIcD$
 ?visitAllPyObjects@BindingManager@Shiboken@@QEAAXP6AXPEAUSbkObject@@PEAX@Z1@Z
 ?what@exception@std@@UEBAPEBDXZ
 ?willGrow@QHashData@@QEAA_NXZ
-@.data
-@.reloc
-@.rsrc
-@A\_^
-@A_A^A]A\_^]
-@SUAUH
-@SUVWATH
-@SWAUH
-@UATH
-@UAUAVH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USWH
-@UVATH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@VWATAUAVH
-@VWATH
-@VWAUH
-@WATAUAVAWH
-@WATAUH
 A constant property cannot have a WRITE method or a NOTIFY signal.
-A9|$(
-A;|$(|
-A]A\_
-A^A]A\_]
-A^A]A\_^[]
-A^A]]
-A^A]_
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
 Attibute read only
-C(HcK(H
 Can't call meta function because I have no idea how to handle %s
 Can't find converter for '%s' to call Python meta method.
 ClassInfo
-D$ E3
-D$(HcH
-D$(LcA
-D$0H;
-D$8E3
-D$XE3
-D+qpI
 DecodePointer
 DisableThreadLibraryCalls
 EncodePointer
-EoHcH
-EoLcA
-EwH9E
-F IcN(H
-F(IcN(
 Failed to connect signal %s, to python callable object.
 Failed to connect signal %s.
 Failed to disconnect signal %s.
@@ -417,36 +287,6 @@ GetCurrentProcessId
 GetCurrentThreadId
 GetSystemTimeAsFileTime
 GetTickCount
-H9D$0tH
-H9D$8tFH
-H;;t%f
-H;;t(f
-H;;t,f
-H;](t
-H;](t0
-H;_(t
-H;_(t&
-H;_(u
-H;} t
-H;} t-
-HA\_^[
-H_^][
-HcD$8H
-HcD$HH
-HcD$XH
-HcH<H
-HcK(H
-HcT$8McJ
-Hc^lH
-HculH
-Hc|$HMcJ
-Hc}gL
-Hc}lD
-Hc~lH
-Ict$lH
-Ic~DH
-IhuVH
-IhuXH
 Invalid Signal signature:
 Invalid property getter agument.
 Invalid property setter agument.
@@ -454,27 +294,12 @@ Invalid property type or type name.
 Invalid property usage.
 Invalid property: %s.
 IsDebuggerPresent
-Jhu	H
 KERNEL32.dll
-KhuFH
-L$ SUH
-L$(HcQ
-L$0H;
-L$`HcA
-LcA<E3
-Lc\$8HcJ
-Lc\$8McJ
-Lc\$XMcJ
 MSVCP100.dll
 MSVCR100.dll
 MetaFunction
-MoHcA
-MoHcQ
-N@HcA
 O|O:SignalInstance
 O|OOOOsObbbbbb:QtCore.QProperty
-PA_A^A]A\_^]
-PH;;u
 Property
 PyArg_ParseTupleAndKeywords
 PyBaseObject_Type
@@ -570,13 +395,9 @@ Q_LLONG
 Q_ULLONG
 QtCore4.dll
 QueryPerformanceCounter
-RichA
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
-SUVWATH
-SUVWH
-SVWATH
 SbkEnumType_Type
 SbkObject_Type
 SetUnhandledExceptionFilter
@@ -584,47 +405,52 @@ Signal
 SignalInstance
 Signature %s not found for signal: %s
 Sleep
+Slot
 Stream operator for PyObject called without python interpreter.
 Sub class of QObject not inheriting QObject!? Crash will happen when using %s.
-T$@L9
 TerminateProcess
-UATAUAVAWH
-UAUAVH
-USVWATAUAVAWH
-USVWATAUAVH
-UVWATAUAVAWH
-UWATAUAVH
 UnhandledExceptionFilter
 Unknown global slot, id:
 Unknown signal argument type: %s
 Unknown type used to call meta function (that may be a signal): %s
 Unsupported meta invocation type.
 Use the function PySide.QtCore.SIGNAL on signals
-V@IcV@H
-VWATAUAVH
-VWATH
 Value types used on meta functions (including signals) need to be registered on meta type: %s
-WATAUAVAWH
-WATAUH
-\$ H;
-\$ VH
-\$$A;
-\$(HcC
-\$0HcJ
-\$0L+
-\$8L3
-\$8L9
-\$@HcJ
-\$@ff
-\$HD+a
-\$HIcS
-\$PHcJ
-\$XIcK
-\$`H;
-\s*,\s*
-]wH9]
-_(H;_(
-_(H;_(t
+X\f?parameterTypes@QMetaMethod@@QEBA?AV?$QList@VQByteArray@@@@XZ
+\f?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?node_delete@QMapData@@QEAAXQEAPEAUNode@1@HPEAU21@@Z
+\f?number@QByteArray@@SA?AV1@HH@Z
+\f?number@QByteArray@@SA?AV1@_JH@Z
+\f?prepend@QByteArray@@QEAAAEAV1@D@Z
+\f?prepend@QByteArray@@QEAAAEAV1@PEBD@Z
+\f?prepend@QListData@@QEAAPEAPEAXXZ
+\f?property@QMetaObject@@QEBA?AVQMetaProperty@@H@Z
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?propertyCount@QMetaObject@@QEBAHXZ
+\f?qFree@@YAXPEAX@Z
+\f?qHash@@YAIAEBVQByteArray@@@Z
+\f\f?normalizedType@QMetaObject@@SA?AVQByteArray@@PEBD@Z
+\n?isReadable@QMetaProperty@@QEBA_NXZ
+\r?qWarning@@YA?AVQDebug@@XZ
+\r?qWarning@@YAXPEBDZZ
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\t?indexOf@QByteArray@@QEBAHDH@Z
+\t?indexOfMethod@QMetaObject@@QEBAHPEBD@Z
+\t?indexOfProperty@QMetaObject@@QEBAHPEBD@Z
+\t?indexOfSignal@QMetaObject@@QEBAHPEBD@Z
+\t?indexOfSlot@QMetaObject@@QEBAHPEBD@Z
+\v?left@QByteArray@@QEBA?AV1@H@Z
+\v?metacall@QMetaObject@@SAHPEAVQObject@@W4Call@1@HPEAPEAX@Z
+\v?method@QMetaObject@@QEBA?AVQMetaMethod@@H@Z
+\v?methodCount@QMetaObject@@QEBAHXZ
+\v?methodIndex@QMetaMethod@@QEBAHXZ
+\v?methodOffset@QMetaObject@@QEBAHXZ
+\v?methodType@QMetaMethod@@QEBA?AW4MethodType@1@XZ
+\v?mid@QByteArray@@QEBA?AV1@HH@Z
+\v?name@QMetaProperty@@QEBAPEBDXZ
+\v\f?normalizedSignature@QMetaObject@@SA?AVQByteArray@@PEBD@Z
 _CxxThrowException
 _PyObject_New
 _PySideInvalidatePtr
@@ -653,87 +479,58 @@ _onexit
 _slots
 _strdup
 _unlock
-` AUAVAWH
-`.rdata
-`A^A]A\_^[]
+bool
 connect
 constant
-d	?hasShrunk@QHashData@@QEAAXXZ
-d$(IcD$
-d$`E2
-d$`IcD$
+d\t?hasShrunk@QHashData@@QEAAXXZ
 designable
 destroyed(QObject*)
 disconnect
 double
 dumps
-eoIcD$
-fffff
-ffffff
+emit
+fdel
+fget
 final
+free
 freset
+fset
 getter
-hA_A^A]A\_^[]
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 invalid string position
-l$(IcE
 loads
+long
 malloc
 memcmp
 memcpy
 memmove
 memset
+name
 native Qt signal is not callable
 notify
+o\v?maybeSpace@QDebug@@QEAAAEAV1@XZ
 object
 onObjectDestroyed(QObject*)
-p WATAUAVAWH
 pickle
 pyside-python2.7.dll
 python27.dll
 qreal
-rZH9}
+read
 realloc
 result
-s-ffffff
 scriptable
 setter
 shiboken-python2.7.dll
+slot
 staticMetaObject
 stored
 string too long
 strncmp
 strstr
-t$ ATAUAVH
-t$ WAUAVH
-t$ WH
-t$0IcL$
-t+fff
-t-fffff
-t1fff
-t7fffff
-tMfffff
-tOfffff
-tPffff
 toupper
-u"Lc@
-u#HcE
-u#HcF
-u#HcG
-u2HcF
-u6HcF
-u<HcF
-u?HcF
-u@HcC
-u@HcF
-uHHcF
+type
+user
+void
 write
-x ATH
-y@IcA
-|$ ATH
-|$(fff
-|$0u0H
-|$XHcA
 |s:QtCore.Signal
 |sO:QtCore.Slot
-} H;} uvH
-~<fff

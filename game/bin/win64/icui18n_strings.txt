@@ -1,100 +1,3 @@
-	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	[	\	]	^	_	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	
-	<	=	M	N	Q	U	
-	JR>8o
-	LcA(D;A,}
-	\$4H
-	f9(t
-	fD9&td
-	kE>fvw
-	ulist_addItemBeginList_58
-	ulist_addItemEndList_58
-	ulist_close_keyword_values_iterator_58
-	ulist_containsString_58
-	ulist_count_keyword_values_58
-	ulist_createEmptyList_58
-	ulist_deleteList_58
-	ulist_next_keyword_value_58
-	ulist_removeString_58
-	ulist_resetList_58
-	ulist_reset_keyword_values_iterator_58
-	uprv_fabs_58
-	uprv_floor_58
-	uprv_fmod_58
-	uprv_free_58
-	uprv_getCharNameCharacters_58
-	uprv_getInfinity_58
-	uprv_getMaxCharNameLength_58
-	uprv_getNaN_58
-	uprv_getStaticCurrencyName_58
-	uprv_getUTCtime_58
-	uprv_isInfinite_58
-	uprv_isInvariantUString_58
-	uprv_isNaN_58
-	uprv_isNegativeInfinity_58
-	uprv_isPositiveInfinity_58
-	uprv_itou_58
-	uprv_log_58
-	uprv_malloc_58
-	uprv_maxMantissa_58
-	uprv_max_58
-	uprv_min_58
-	uprv_parseCurrency_58
-	uprv_pow_58
-	uprv_realloc_58
-	uprv_round_58
-	uprv_sortArray_58
-	uprv_strdup_58
-	uprv_stricmp_58
-	uprv_strndup_58
-	uprv_timezone_58
-	uprv_toupper_58
-	uprv_trunc_58
-	uprv_tzname_58
-	uprv_tzname_clear_cache_58
-	uprv_tzset_58
-	ures_close_58
-	ures_getAllItemsWithFallback_58
-	ures_getBinary_58
-	ures_getByIndex_58
-	ures_getByKeyWithFallback_58
-	ures_getByKey_58
-	ures_getFunctionalEquivalent_58
-	ures_getIntVector_58
-	ures_getInt_58
-	ures_getKey_58
-	ures_getKeywordValues_58
-	ures_getLocaleByType_58
-	ures_getNextResource_58
-	ures_getNextString_58
-	ures_getSize_58
-	ures_getStringByIndex_58
-	ures_getStringByKeyWithFallback_58
-	ures_getStringByKey_58
-	ures_getString_58
-	ures_getType_58
-	ures_getVersionByKey_58
-	ures_hasNext_58
-	ures_initStackObject_58
-	ures_openDirect_58
-	ures_openNoDefault_58
-	ures_open_58
-	ures_resetIterator_58
-	uscript_getCode_58
-	uscript_getName_58
-	uscript_getScriptExtensions_58
-	uscript_getScript_58
-	uscript_getShortName_58
-	uset_addRange_58
-	uset_add_58
-	uset_applyPattern_58
-	w)Hc
-	wsHc
- 	uloc_addLikelySubtags_58
-     
-      
-       
-         
-          
             
                
                    
@@ -109,214 +12,54 @@
                          abcdefghijklmnopqrstuvwxyz      abcdefghijklmnopqrstuvwxyz                                               
                          abcdefghijklmnopqrstuvwxyz      abcdefghijklmnopqrstuvwxyz                                                          
                          abcdefghijklmnopqrstuvwxyz      abcdefghijklmnopqrstuvwxyz                                                                      
- !"#$
  !"#$%&'()*+,-./01
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- / _ 
- :&;&
- A^A\_
- A^A]A\
- A^_^
- A_A^A\
- A_A^A\H
- A_A^A\_^
- A_A^A]
- A_A^A]A\_
- A_A^A]A\_H
- A_A^A]A\_^]
- A_A^A]_^
- A_A^]
- A_A^_
- A_A^_H
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Copyright (C) 2016 and later: Unicode, Inc. and others. License & terms of use: http://www.unicode.org/copyright.html 
- H3E H3E
- HcAlH
- HcY0E3
- HcYPE3
- Ic8H
  Type Descriptor'
  delete
  delete[]
- new[]
- t(<#t
- tDE3
+ new
  throw(
- u0E3
- vJH+
  volatile
-!	uloc_canonicalize_58
-!,X< w
-!>6'Y
-!D$ L
-!D$8I
-!D$HH
-!D$PD
-!Rich
-!This program cannot be run in DOS mode.
-!\$ L
-!\$(!\$ 
-!\$4M
-!\$@M
-!\$xH
-!t$ L
-!t$8E3
-!|$ L
-!|$,I
-"	uloc_countAvailable_58
 "e?<<<<<<l?
-#	uloc_forLanguageTag_58
-#H;WP~
-#ucL;
-$	uloc_getAvailable_58
-$@8}ot[H
 $Ib?s
-$wpt$
-$~#E3
-%	uloc_getBaseName_58
 %%CollationBin
-%+1.*e
 %1.15e
-%D8d$@t
-%GoU?*
 %Translit%
 %Translit%%
 &?PPPPPPP?
-'	uloc_getCountry_58
-(	uloc_getDefault_58
+&Sgw
 ( 8PX
 ('8PW
 (?m)^[ \t]*([0-9A-Fa-f]+)[ \t]+;[ \t]*([0-9A-Fa-f]+(?:[ \t]+[0-9A-Fa-f]+)*)[ \t]*;\s*(?:(SL)|(SA)|(ML)|(MA))[ \t]*(?:#.*?)?$|^([ \t]*(?:#.*?)?)$|^(.*?)$
-(D$ @
-(D$ H
-(D$ f
-(D$0H
-(D$0f
-(D$0fA
-(D$@H
-(D$@f
-(D$PD
-(D$PH
-(D$PL
-(D$PL9t$0t6H
-(L$0D
-(L$@D
-(T$ H
-(T$0D
-(T?j?Y
 (null)
-(t$ +
-(t$ H
-(t$0A
-(t$0D
-(t$0H
-(t$@H
-(t$@I
-(t$@L
-(t$PH
-(t$PL
-(t$`E
-(t$`H
-(t$`L
-(t$pH
-(|$ H
-(|$ I
-(|$ f
-(|$03
-(|$0H
-(|$0I
-(|$0L
-(|$@D
-(|$@I
-(|$@L
-(|$PH
-(|$PI
-(|$`D
-(|$pL
-)/o>	
-)>6{1n
-)D$@H
-)D$TL
-)L$0D
-)L;q`~#A
-)T$ D
-)T$ M
-)l$@D
-)t$ 3
-)t$ A
-)t$ H
-)t$ H#
-)t$ I
-)t$03
-)t$0D
-)t$0H
-)t$0I
-)t$0L
-)t$@3
-)t$@E
-)t$@H
-)t$@I
-)t$PH
-)t$PI
-)t$PL
-)t$`I
-)t$pH
-)|$ H
-)|$0H
-)|$PH
-)|$`H
-)|B?d!
+)yIx
 *StO9>T
-*t$8f
-+Cx+CtL
-+D$0E
-+EPD;
 +Infinity
-+M<7>
 +Normal
 +Subnormal
 +Zero
-+\$,H
-+\$0H
-+\$8;\$4~
-+f)>0'
-+h->|
-,!|$ L
-,$E+*A
-,$HcT$pH
-,/<-w
-,0<	w
-,0<	w!A
-,0<	wGA
 ,<ellipsis>
 ,HR>O
-,HfA;
-,I<%w
-,L$0H
-,^-_-
 -2147483648
 -9223372036854775808
 -BH>t
--D	c0
 -Infinity
 -Normal
 -Subnormal
 -Zero
+-inf
 -narrow
 -short
--~ Hc
 .*000K0L0
-..om?
-.;D$h~
-.;]Pu
-.>PJ;I:qE>
+.>\rfJBGo
 .?AUAllowedHourFormatsSink@?A0xcad7e3d9@icu_58@@
 .?AUAppendItemFormatsSink@DateTimePatternGenerator@icu_58@@
 .?AUAppendItemNamesSink@DateTimePatternGenerator@icu_58@@
@@ -652,212 +395,60 @@ $~#E3
 .?AVpairNode@@
 .?AVpcharNode@@
 .?AVtype_info@@
-.D$hz
-.i?0@I
-.pdata
-.text
 .xJ>Hf
 /2GG>!B
-/>58d%
-/D$HM
 /DateTimePatterns
-/t$XH
-/t$Xv
-/t$xv2
-/v8Hc
 0.6931471805599453094172321214581765680755
 0123456789abcdefghijklmnopqrstuvwxyz
-08L$0t
-09t$Lt
-0><[cZUg^>
-0A^A]A\_^
-0A^_^
-0A_A\_
-0A_A]A\
-0A_A^A\
-0A_A^A\_]
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^]
-0A_A^_
-0A_A^_^]
+0E>X
 0X8b?~
-0ffffff
 0iN>/
-0t{A+
-0~%Hc
 1#IND
 1#INF
 1#QNAN
 1#SNAN
+11UT
+11Y@
 1234...........IXO..SN..LU......
-1<.	/>:
 1W[X[
 2.302585092994045684017991454684364207601
 2147483647
-2]fQ	?
-39sDu
+2\n0y
+2\vpy
+3333
+37>k
 3>N;kU
 3>fvw
-3Hc\$8I
-4/;qT
-4}2HcI
-5	uloc_getKeywordValue_58
-5E94$~
-6HcS(;S,}
+44sV
+51>W
+6NK>
+6\fXO>\ntA
 6m4A2
-7	uloc_getLanguage_58
 700PP
 700WP
-7D;)t
-8$u*E
-8*u;I
-8*uEI
-80tWD
-8>uJL
-8?u$H
-8@tJH
-8@tKH
-8@u<H
-8A_A^A]A\_^][
-8D$ u
-8G!t	L
-8I+@0
-8I+@8
-8Jt/A
-8K(t=
-8L$8t
-8L$Pt
-8T$@t
+7>I0
+7?GX
+7yp>
+7~xh
 8UUUUU
-8Xu6H
-8Zu H
-8\$,t
-8]8}KD
-8_^][
 8ke?;
-9	t	H
-9	tGH
-9	u1H
-9	uloc_getLocaleForLCID_58
 9223372036854775807
-9?uP3
-9D$,s
-9D$,}
-9D$@u
-9D$Lt
-9D$ds
-9D$hs
-9D8g)t"D
-9E$tKD;ePuEH
-9GTt	H
-9L$8t
-9L$Ls
-9\$ I
-9\$ u
-9\$(u+
-9\$0u
-9\$0~&3
-9\$0~QH
-9\$8A
-9\$Dt
-9\$D~4I
-9_0~'H
-9_HvKL
-9_puj
+9>70
 9g>@3
-9k uHD
-9k`~-3
-9l$8H
-9l$PH
-9mu&A
-9pxer
-9pxerH
-9pxeru
-9pxeru0H
-9pxeru8H
-9t$0~
-9t$<t
-9t$d~
-9t$d~*
-9u`~-D
-9uwtP
-9y`~$3
-9{Hv%H
-9{Hv.H
-9{Hv9H
-9|$0~"H
-9|$D~5A
-9|$`~4L
-9}`~83
-:>)*	v
-:>t6k'
-:D80u
-:w>t6
-;	uloc_getParent_58
-;.u1L
-;1~"D
-;9D$X|FH
-;B$tWI
-;Cdt!H
-;D$Dt
-;D$HtA
-;D$h}
-;D$xA
-;H9>&X
-;L$L~.
-;U8tM
-;WHs\L
-;X }-Hc
-;X0}-Hc
-;\$ |
-;\$0|
-;\$8|
-;\$8}
-;\$@~
-;\$D|
-;\$P|
-;\$p|
-;\$t}5I
-;t$$|
-;uxtuH
-;uxtwH
-;uxt{H
-;w0}2H
-<	u#H
-<	u'D
-<	uloc_getScript_58
-<	w	@
-<	w	A
-<	w*M
-< t;<	t7
-<1~-<3~ <4t5<5t
-<>#n2
-<?u7H
-<AfE;
-<HD;C
-<XuKH
-<^fA;
-<_u	H
-<_uoH
-<`t'!U
+;1cb
 <dummy>
 <ellipsis>
 <empty>
-<htr<jtb<lt6<tt&<wt
-<ow4@8{Lu.A9.t)A
 <unknown>
-<~7Hc
+=1cb
+=87M
+=cQ6
+=e2m
 =imb;D
->	uloc_getVariant_58
->:twA
+>cQ6
 >jtm}S
-?(|#L
+?1cb
 ?7zQ6$
-?:kP<
 ??0?$CacheKey@VDateFmtBestPattern@icu_58@@@icu_58@@QEAA@AEBV01@@Z
 ??0?$CacheKey@VDateFmtBestPattern@icu_58@@@icu_58@@QEAA@XZ
 ??0?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEAA@AEBV01@@Z
@@ -891,7 +482,6 @@ $~#E3
 ??0Bucket@AlphabeticIndex@icu_58@@QEAA@AEBV012@@Z
 ??0CECalendar@icu_58@@IEAA@AEBV01@@Z
 ??0CECalendar@icu_58@@IEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
-??0CacheKeyBase@icu_58@@QEAA@XZ
 ??0Calendar@icu_58@@IEAA@AEAW4UErrorCode@@@Z
 ??0Calendar@icu_58@@IEAA@AEBV01@@Z
 ??0Calendar@icu_58@@IEAA@AEBVTimeZone@1@AEBVLocale@1@AEAW4UErrorCode@@@Z
@@ -899,11 +489,6 @@ $~#E3
 ??0CalendarAstronomer@icu_58@@QEAA@N@Z
 ??0CalendarAstronomer@icu_58@@QEAA@NN@Z
 ??0CalendarAstronomer@icu_58@@QEAA@XZ
-??0CanonicalIterator@icu_58@@QEAA@AEBVUnicodeString@1@AEAW4UErrorCode@@@Z
-??0CharString@icu_58@@QEAA@AEBV01@AEAW4UErrorCode@@@Z
-??0CharString@icu_58@@QEAA@PEBDHAEAW4UErrorCode@@@Z
-??0CharString@icu_58@@QEAA@VStringPiece@1@AEAW4UErrorCode@@@Z
-??0CharString@icu_58@@QEAA@XZ
 ??0ChineseCalendar@icu_58@@IEAA@AEBVLocale@1@HPEBVTimeZone@1@AEAW4UErrorCode@@@Z
 ??0ChineseCalendar@icu_58@@QEAA@AEBV01@@Z
 ??0ChineseCalendar@icu_58@@QEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
@@ -966,7 +551,6 @@ $~#E3
 ??0DateFormatSymbols@icu_58@@QEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
 ??0DateFormatSymbols@icu_58@@QEAA@AEBVLocale@1@PEBDAEAW4UErrorCode@@@Z
 ??0DateFormatSymbols@icu_58@@QEAA@PEBDAEAW4UErrorCode@@@Z
-??0DateInterval@icu_58@@QEAA@NN@Z
 ??0DateIntervalFormat@icu_58@@AEAA@AEBVLocale@1@PEAVDateIntervalInfo@1@PEBVUnicodeString@1@AEAW4UErrorCode@@@Z
 ??0DateIntervalFormat@icu_58@@AEAA@XZ
 ??0DateIntervalFormat@icu_58@@IEAA@AEBV01@@Z
@@ -1062,15 +646,9 @@ $~#E3
 ??0GregorianCalendar@icu_58@@QEAA@HHHHHHAEAW4UErrorCode@@@Z
 ??0GregorianCalendar@icu_58@@QEAA@PEAVTimeZone@1@AEAW4UErrorCode@@@Z
 ??0GregorianCalendar@icu_58@@QEAA@PEAVTimeZone@1@AEBVLocale@1@AEAW4UErrorCode@@@Z
-??0Hashtable@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0Hashtable@icu_58@@QEAA@CAEAW4UErrorCode@@@Z
-??0Hashtable@icu_58@@QEAA@XZ
 ??0HebrewCalendar@icu_58@@QEAA@AEBV01@@Z
 ??0HebrewCalendar@icu_58@@QEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
 ??0Horizon@CalendarAstronomer@icu_58@@QEAA@NN@Z
-??0ICULocaleService@icu_58@@QEAA@AEBVUnicodeString@1@@Z
-??0ICUResourceBundleFactory@icu_58@@QEAA@AEBVUnicodeString@1@@Z
-??0ICUResourceBundleFactory@icu_58@@QEAA@XZ
 ??0ImmutableIndex@AlphabeticIndex@icu_58@@AEAA@PEAVBucketList@2@PEAVCollator@2@@Z
 ??0ImmutableIndex@AlphabeticIndex@icu_58@@QEAA@AEBV012@@Z
 ??0Importer@CollationRuleParser@icu_58@@QEAA@AEBV012@@Z
@@ -1081,12 +659,6 @@ $~#E3
 ??0IntDigitCountRange@icu_58@@QEAA@XZ
 ??0IslamicCalendar@icu_58@@QEAA@AEBV01@@Z
 ??0IslamicCalendar@icu_58@@QEAA@AEBVLocale@1@AEAW4UErrorCode@@W4ECalculationType@01@@Z
-??0Iterator@UCharsTrie@icu_58@@QEAA@PEB_WHAEAW4UErrorCode@@@Z
-??0ListFormatter@icu_58@@QEAA@AEBV01@@Z
-??0Locale@icu_58@@QEAA@AEBV01@@Z
-??0Locale@icu_58@@QEAA@PEBD000@Z
-??0Locale@icu_58@@QEAA@XZ
-??0LocaleKeyFactory@icu_58@@IEAA@H@Z
 ??0MarkupStyle@ScientificNumberFormatter@icu_58@@QEAA@$$QEAV012@@Z
 ??0MarkupStyle@ScientificNumberFormatter@icu_58@@QEAA@AEBV012@@Z
 ??0MarkupStyle@ScientificNumberFormatter@icu_58@@QEAA@AEBVUnicodeString@2@0@Z
@@ -1106,10 +678,7 @@ $~#E3
 ??0MessageFormat@icu_58@@QEAA@AEBVUnicodeString@1@AEAW4UErrorCode@@@Z
 ??0MessageFormat@icu_58@@QEAA@AEBVUnicodeString@1@AEBVLocale@1@AEAUUParseError@@AEAW4UErrorCode@@@Z
 ??0MessageFormat@icu_58@@QEAA@AEBVUnicodeString@1@AEBVLocale@1@AEAW4UErrorCode@@@Z
-??0MessagePattern@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0MessagePattern@icu_58@@QEAA@AEBV01@@Z
 ??0MoonAge@CalendarAstronomer@icu_58@@QEAA@N@Z
-??0Mutex@icu_58@@QEAA@PEAUUMutex@@@Z
 ??0NumberFormat@icu_58@@IEAA@AEBV01@@Z
 ??0NumberFormat@icu_58@@IEAA@XZ
 ??0NumberFormatFactory@icu_58@@QEAA@AEBV01@@Z
@@ -1118,9 +687,6 @@ $~#E3
 ??0NumberingSystem@icu_58@@QEAA@XZ
 ??0OlsonTimeZone@icu_58@@QEAA@AEBV01@@Z
 ??0OlsonTimeZone@icu_58@@QEAA@PEBUUResourceBundle@@0AEBVUnicodeString@1@AEAW4UErrorCode@@@Z
-??0ParsePosition@icu_58@@QEAA@AEBV01@@Z
-??0ParsePosition@icu_58@@QEAA@H@Z
-??0ParsePosition@icu_58@@QEAA@XZ
 ??0PluralAffix@icu_58@@QEAA@$$QEAV01@@Z
 ??0PluralAffix@icu_58@@QEAA@AEBV01@@Z
 ??0PluralAffix@icu_58@@QEAA@AEBVDigitAffix@1@@Z
@@ -1163,9 +729,6 @@ $~#E3
 ??0RelativeDateTimeFormatter@icu_58@@QEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
 ??0RelativeDateTimeFormatter@icu_58@@QEAA@AEBVLocale@1@PEAVNumberFormat@1@AEAW4UErrorCode@@@Z
 ??0RelativeDateTimeFormatter@icu_58@@QEAA@AEBVLocale@1@PEAVNumberFormat@1@W4UDateRelativeDateTimeFormatterStyle@@W4UDisplayContext@@AEAW4UErrorCode@@@Z
-??0Replaceable@icu_58@@IEAA@XZ
-??0ResourceBundle@icu_58@@QEAA@PEBDAEBVLocale@1@AEAW4UErrorCode@@@Z
-??0ResourceSink@icu_58@@QEAA@XZ
 ??0RuleBasedCollator@icu_58@@AEAA@PEBUCollationCacheEntry@1@@Z
 ??0RuleBasedCollator@icu_58@@QEAA@AEBV01@@Z
 ??0RuleBasedCollator@icu_58@@QEAA@AEBVUnicodeString@1@AEAUUParseError@@AEAV21@AEAW4UErrorCode@@@Z
@@ -1202,8 +765,6 @@ $~#E3
 ??0SharedCalendar@icu_58@@QEAA@PEAVCalendar@1@@Z
 ??0SharedDateFormatSymbols@icu_58@@QEAA@AEBVLocale@1@PEBDAEAW4UErrorCode@@@Z
 ??0SharedNumberFormat@icu_58@@QEAA@PEAVNumberFormat@1@@Z
-??0SharedObject@icu_58@@QEAA@AEBV01@@Z
-??0SharedObject@icu_58@@QEAA@XZ
 ??0SharedPluralRules@icu_58@@QEAA@PEAVPluralRules@1@@Z
 ??0SignificantDigitInterval@icu_58@@QEAA@XZ
 ??0SimpleDateFormat@icu_58@@AEAA@AEBVLocale@1@AEAW4UErrorCode@@@Z
@@ -1216,7 +777,6 @@ $~#E3
 ??0SimpleDateFormat@icu_58@@QEAA@AEBVUnicodeString@1@AEBVDateFormatSymbols@1@AEAW4UErrorCode@@@Z
 ??0SimpleDateFormat@icu_58@@QEAA@AEBVUnicodeString@1@AEBVLocale@1@AEAW4UErrorCode@@@Z
 ??0SimpleDateFormat@icu_58@@QEAA@AEBVUnicodeString@1@PEAVDateFormatSymbols@1@AEAW4UErrorCode@@@Z
-??0SimpleFormatter@icu_58@@QEAA@XZ
 ??0SimpleNumberFormatFactory@icu_58@@QEAA@AEBV01@@Z
 ??0SimpleNumberFormatFactory@icu_58@@QEAA@AEBVLocale@1@C@Z
 ??0SimpleTimeZone@icu_58@@QEAA@AEBV01@@Z
@@ -1226,9 +786,6 @@ $~#E3
 ??0SimpleTimeZone@icu_58@@QEAA@HAEBVUnicodeString@1@CCCHW4TimeMode@01@CCCH1HAEAW4UErrorCode@@@Z
 ??0Sink@CollationRuleParser@icu_58@@QEAA@AEBV012@@Z
 ??0Sink@CollationRuleParser@icu_58@@QEAA@XZ
-??0StringEnumeration@icu_58@@IEAA@XZ
-??0StringEnumeration@icu_58@@QEAA@AEBV01@@Z
-??0StringPiece@icu_58@@QEAA@PEBD@Z
 ??0StringSearch@icu_58@@QEAA@AEBV01@@Z
 ??0StringSearch@icu_58@@QEAA@AEBVUnicodeString@1@0AEBVLocale@1@PEAVBreakIterator@1@AEAW4UErrorCode@@@Z
 ??0StringSearch@icu_58@@QEAA@AEBVUnicodeString@1@0PEAVRuleBasedCollator@1@PEAVBreakIterator@1@AEAW4UErrorCode@@@Z
@@ -1269,47 +826,15 @@ $~#E3
 ??0TimeZoneTransition@icu_58@@QEAA@XZ
 ??0Transliterator@icu_58@@IEAA@AEBV01@@Z
 ??0Transliterator@icu_58@@IEAA@AEBVUnicodeString@1@PEAVUnicodeFilter@1@@Z
-??0UCharsTrieBuilder@icu_58@@QEAA@AEAW4UErrorCode@@@Z
 ??0UIterCollationIterator@icu_58@@QEAA@AEBV01@@Z
 ??0UIterCollationIterator@icu_58@@QEAA@PEBUCollationData@1@CAEAUUCharIterator@@@Z
-??0UStack@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0UStringEnumeration@icu_58@@QEAA@PEAUUEnumeration@@@Z
 ??0UTF16CollationIterator@icu_58@@IEAA@AEBV01@@Z
 ??0UTF16CollationIterator@icu_58@@QEAA@AEBV01@PEB_W@Z
 ??0UTF16CollationIterator@icu_58@@QEAA@PEBUCollationData@1@CPEB_W11@Z
 ??0UTF8CollationIterator@icu_58@@QEAA@AEBV01@@Z
 ??0UTF8CollationIterator@icu_58@@QEAA@PEBUCollationData@1@CPEBEHH@Z
-??0UVector32@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0UVector32@icu_58@@QEAA@HAEAW4UErrorCode@@@Z
-??0UVector64@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0UVector@icu_58@@QEAA@AEAW4UErrorCode@@@Z
-??0UVector@icu_58@@QEAA@HAEAW4UErrorCode@@@Z
-??0UVector@icu_58@@QEAA@P6AXPEAX@ZP6ACTUElement@@2@ZAEAW4UErrorCode@@@Z
-??0UVector@icu_58@@QEAA@P6AXPEAX@ZP6ACTUElement@@2@ZHAEAW4UErrorCode@@@Z
 ??0UnicodeReplacer@icu_58@@QEAA@AEBV01@@Z
 ??0UnicodeReplacer@icu_58@@QEAA@XZ
-??0UnicodeSet@icu_58@@QEAA@AEBV01@@Z
-??0UnicodeSet@icu_58@@QEAA@AEBVUnicodeString@1@AEAVParsePosition@1@IPEBVSymbolTable@1@AEAW4UErrorCode@@@Z
-??0UnicodeSet@icu_58@@QEAA@AEBVUnicodeString@1@AEAW4UErrorCode@@@Z
-??0UnicodeSet@icu_58@@QEAA@AEBVUnicodeString@1@IPEBVSymbolTable@1@AEAW4UErrorCode@@@Z
-??0UnicodeSet@icu_58@@QEAA@HH@Z
-??0UnicodeSet@icu_58@@QEAA@QEBGHW4ESerialization@01@AEAW4UErrorCode@@@Z
-??0UnicodeSet@icu_58@@QEAA@XZ
-??0UnicodeSetIterator@icu_58@@QEAA@AEBVUnicodeSet@1@@Z
-??0UnicodeString@icu_58@@QEAA@$$QEAV01@@Z
-??0UnicodeString@icu_58@@QEAA@AEBV01@@Z
-??0UnicodeString@icu_58@@QEAA@AEBV01@H@Z
-??0UnicodeString@icu_58@@QEAA@AEBV01@HH@Z
-??0UnicodeString@icu_58@@QEAA@CPEB_WH@Z
-??0UnicodeString@icu_58@@QEAA@H@Z
-??0UnicodeString@icu_58@@QEAA@HHH@Z
-??0UnicodeString@icu_58@@QEAA@PEA_WHH@Z
-??0UnicodeString@icu_58@@QEAA@PEBD@Z
-??0UnicodeString@icu_58@@QEAA@PEBDHW4EInvariant@01@@Z
-??0UnicodeString@icu_58@@QEAA@PEB_W@Z
-??0UnicodeString@icu_58@@QEAA@PEB_WH@Z
-??0UnicodeString@icu_58@@QEAA@XZ
-??0UnicodeString@icu_58@@QEAA@_W@Z
 ??0VTimeZone@icu_58@@AEAA@XZ
 ??0VTimeZone@icu_58@@QEAA@AEBV01@@Z
 ??0ValueFormatter@icu_58@@QEAA@XZ
@@ -1328,13 +853,9 @@ $~#E3
 ??1AnnualTimeZoneRule@icu_58@@UEAA@XZ
 ??1BasicTimeZone@icu_58@@UEAA@XZ
 ??1Bucket@AlphabeticIndex@icu_58@@UEAA@XZ
-??1ByteSink@icu_58@@UEAA@XZ
 ??1CECalendar@icu_58@@MEAA@XZ
-??1CacheKeyBase@icu_58@@UEAA@XZ
 ??1Calendar@icu_58@@UEAA@XZ
 ??1CalendarAstronomer@icu_58@@QEAA@XZ
-??1CanonicalIterator@icu_58@@UEAA@XZ
-??1CharString@icu_58@@QEAA@XZ
 ??1ChineseCalendar@icu_58@@UEAA@XZ
 ??1ChoiceFormat@icu_58@@UEAA@XZ
 ??1CollationBuilder@icu_58@@UEAA@XZ
@@ -1358,7 +879,6 @@ $~#E3
 ??1DateFmtBestPatternKey@icu_58@@UEAA@XZ
 ??1DateFormat@icu_58@@UEAA@XZ
 ??1DateFormatSymbols@icu_58@@UEAA@XZ
-??1DateInterval@icu_58@@UEAA@XZ
 ??1DateIntervalFormat@icu_58@@UEAA@XZ
 ??1DateIntervalInfo@icu_58@@UEAA@XZ
 ??1DateTimePatternGenerator@icu_58@@UEAA@XZ
@@ -1381,31 +901,21 @@ $~#E3
 ??1Formattable@icu_58@@UEAA@XZ
 ??1GenderInfo@icu_58@@UEAA@XZ
 ??1GregorianCalendar@icu_58@@UEAA@XZ
-??1Hashtable@icu_58@@QEAA@XZ
 ??1HebrewCalendar@icu_58@@UEAA@XZ
-??1ICULocaleService@icu_58@@UEAA@XZ
-??1ICUResourceBundleFactory@icu_58@@UEAA@XZ
 ??1ImmutableIndex@AlphabeticIndex@icu_58@@UEAA@XZ
 ??1Importer@CollationRuleParser@icu_58@@UEAA@XZ
 ??1InitialTimeZoneRule@icu_58@@UEAA@XZ
 ??1IslamicCalendar@icu_58@@UEAA@XZ
-??1Iterator@UCharsTrie@icu_58@@QEAA@XZ
-??1ListFormatter@icu_58@@UEAA@XZ
-??1Locale@icu_58@@UEAA@XZ
-??1LocaleKeyFactory@icu_58@@UEAA@XZ
 ??1MarkupStyle@ScientificNumberFormatter@icu_58@@UEAA@XZ
 ??1MatchInfoCollection@TimeZoneNames@icu_58@@UEAA@XZ
 ??1Measure@icu_58@@UEAA@XZ
 ??1MeasureFormat@icu_58@@UEAA@XZ
 ??1MeasureUnit@icu_58@@UEAA@XZ
 ??1MessageFormat@icu_58@@UEAA@XZ
-??1MessagePattern@icu_58@@UEAA@XZ
-??1Mutex@icu_58@@QEAA@XZ
 ??1NumberFormat@icu_58@@UEAA@XZ
 ??1NumberFormatFactory@icu_58@@UEAA@XZ
 ??1NumberingSystem@icu_58@@UEAA@XZ
 ??1OlsonTimeZone@icu_58@@UEAA@XZ
-??1ParsePosition@icu_58@@UEAA@XZ
 ??1PluralAffix@icu_58@@QEAA@XZ
 ??1PluralAvailableLocalesEnumeration@icu_58@@UEAA@XZ
 ??1PluralFormat@icu_58@@UEAA@XZ
@@ -1419,10 +929,6 @@ $~#E3
 ??1RegexPattern@icu_58@@UEAA@XZ
 ??1Region@icu_58@@UEAA@XZ
 ??1RelativeDateTimeFormatter@icu_58@@UEAA@XZ
-??1ReorderingBuffer@icu_58@@QEAA@XZ
-??1Replaceable@icu_58@@UEAA@XZ
-??1ResourceBundle@icu_58@@UEAA@XZ
-??1ResourceSink@icu_58@@UEAA@XZ
 ??1RuleBasedCollator@icu_58@@UEAA@XZ
 ??1RuleBasedNumberFormat@icu_58@@UEAA@XZ
 ??1RuleBasedTimeZone@icu_58@@UEAA@XZ
@@ -1435,18 +941,14 @@ $~#E3
 ??1SharedCalendar@icu_58@@UEAA@XZ
 ??1SharedDateFormatSymbols@icu_58@@UEAA@XZ
 ??1SharedNumberFormat@icu_58@@UEAA@XZ
-??1SharedObject@icu_58@@UEAA@XZ
 ??1SharedPluralRules@icu_58@@UEAA@XZ
 ??1SimpleDateFormat@icu_58@@UEAA@XZ
-??1SimpleFormatter@icu_58@@QEAA@XZ
 ??1SimpleNumberFormatFactory@icu_58@@UEAA@XZ
 ??1SimpleTimeZone@icu_58@@UEAA@XZ
 ??1Sink@CollationRuleParser@icu_58@@UEAA@XZ
-??1StringEnumeration@icu_58@@UEAA@XZ
 ??1StringSearch@icu_58@@UEAA@XZ
 ??1Style@ScientificNumberFormatter@icu_58@@UEAA@XZ
 ??1SuperscriptStyle@ScientificNumberFormatter@icu_58@@UEAA@XZ
-??1SymbolTable@icu_58@@UEAA@XZ
 ??1TextTrieMap@icu_58@@UEAA@XZ
 ??1TimeArrayTimeZoneRule@icu_58@@UEAA@XZ
 ??1TimeUnit@icu_58@@UEAA@XZ
@@ -1459,33 +961,17 @@ $~#E3
 ??1TimeZoneRule@icu_58@@UEAA@XZ
 ??1TimeZoneTransition@icu_58@@UEAA@XZ
 ??1Transliterator@icu_58@@UEAA@XZ
-??1UCharsTrie@icu_58@@QEAA@XZ
-??1UCharsTrieBuilder@icu_58@@UEAA@XZ
 ??1UIterCollationIterator@icu_58@@UEAA@XZ
-??1UObject@icu_58@@UEAA@XZ
-??1UStack@icu_58@@UEAA@XZ
-??1UStringEnumeration@icu_58@@UEAA@XZ
 ??1UTF16CollationIterator@icu_58@@UEAA@XZ
 ??1UTF8CollationIterator@icu_58@@UEAA@XZ
-??1UVector32@icu_58@@UEAA@XZ
-??1UVector64@icu_58@@UEAA@XZ
-??1UVector@icu_58@@UEAA@XZ
-??1UnicodeFunctor@icu_58@@UEAA@XZ
-??1UnicodeMatcher@icu_58@@UEAA@XZ
 ??1UnicodeReplacer@icu_58@@UEAA@XZ
-??1UnicodeSet@icu_58@@UEAA@XZ
-??1UnicodeSetIterator@icu_58@@UEAA@XZ
-??1UnicodeString@icu_58@@UEAA@XZ
-??1UnicodeStringAppendable@icu_58@@UEAA@XZ
 ??1VTimeZone@icu_58@@UEAA@XZ
 ??1ValueFormatter@icu_58@@UEAA@XZ
 ??1VisibleDigits@icu_58@@QEAA@XZ
 ??1VisibleDigitsWithExponent@icu_58@@QEAA@XZ
 ??1ZNStringPool@icu_58@@QEAA@XZ
 ??2DigitList@icu_58@@SAPEAX_KPEAXW4EStackMode@1@@Z
-??2UMemory@icu_58@@SAPEAX_K@Z
 ??3DigitList@icu_58@@SAXPEAX0W4EStackMode@1@@Z
-??3UMemory@icu_58@@SAXPEAX@Z
 ??4?$CacheKey@VDateFmtBestPattern@icu_58@@@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEAAAEBV01@AEBV01@@Z
 ??4?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEAAAEBV01@AEBV01@@Z
@@ -1585,7 +1071,6 @@ $~#E3
 ??4IntDigitCountRange@icu_58@@QEAAAEAV01@$$QEAV01@@Z
 ??4IntDigitCountRange@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4IslamicCalendar@icu_58@@QEAAAEAV01@AEBV01@@Z
-??4Locale@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4MarkupStyle@ScientificNumberFormatter@icu_58@@QEAAAEAV012@$$QEAV012@@Z
 ??4MarkupStyle@ScientificNumberFormatter@icu_58@@QEAAAEAV012@AEBV012@@Z
 ??4MatchInfoCollection@TimeZoneNames@icu_58@@QEAAAEAV012@AEBV012@@Z
@@ -1593,7 +1078,6 @@ $~#E3
 ??4MeasureFormat@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4MeasureUnit@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4MessageFormat@icu_58@@QEAAAEBV01@AEBV01@@Z
-??4MessagePattern@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4MoonAge@CalendarAstronomer@icu_58@@QEAAAEAV012@$$QEAV012@@Z
 ??4MoonAge@CalendarAstronomer@icu_58@@QEAAAEAV012@AEBV012@@Z
 ??4NumberFormat@icu_58@@IEAAAEAV01@AEBV01@@Z
@@ -1621,7 +1105,6 @@ $~#E3
 ??4ScriptSet@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4SearchIterator@icu_58@@IEAAAEAV01@AEBV01@@Z
 ??4SelectFormat@icu_58@@QEAAAEAV01@AEBV01@@Z
-??4SharedObject@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4SignificantDigitInterval@icu_58@@QEAAAEAV01@$$QEAV01@@Z
 ??4SignificantDigitInterval@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4SimpleDateFormat@icu_58@@QEAAAEAV01@AEBV01@@Z
@@ -1631,7 +1114,6 @@ $~#E3
 ??4SmallIntFormatter@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4StandardPlural@icu_58@@QEAAAEAV01@$$QEAV01@@Z
 ??4StandardPlural@icu_58@@QEAAAEAV01@AEBV01@@Z
-??4StringEnumeration@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4StringSearch@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4Style@ScientificNumberFormatter@icu_58@@QEAAAEAV012@$$QEAV012@@Z
 ??4Style@ScientificNumberFormatter@icu_58@@QEAAAEAV012@AEBV012@@Z
@@ -1650,8 +1132,6 @@ $~#E3
 ??4TimeZoneTransition@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4Transliterator@icu_58@@IEAAAEAV01@AEBV01@@Z
 ??4UnicodeReplacer@icu_58@@QEAAAEAV01@AEBV01@@Z
-??4UnicodeSet@icu_58@@QEAAAEAV01@AEBV01@@Z
-??4UnicodeString@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4VTimeZone@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4ZNStringPool@icu_58@@QEAAAEAV01@AEBV01@@Z
 ??4ZoneMeta@icu_58@@QEAAAEAV01@$$QEAV01@@Z
@@ -1687,12 +1167,10 @@ $~#E3
 ??8Format@icu_58@@UEBACAEBV01@@Z
 ??8Formattable@icu_58@@QEBACAEBV01@@Z
 ??8InitialTimeZoneRule@icu_58@@UEBACAEBVTimeZoneRule@1@@Z
-??8Locale@icu_58@@QEBACAEBV01@@Z
 ??8Measure@icu_58@@QEBACAEBVUObject@1@@Z
 ??8MeasureFormat@icu_58@@UEBACAEBVFormat@1@@Z
 ??8MeasureUnit@icu_58@@UEBACAEBVUObject@1@@Z
 ??8MessageFormat@icu_58@@UEBACAEBVFormat@1@@Z
-??8MessagePattern@icu_58@@QEBACAEBV01@@Z
 ??8NumberFormat@icu_58@@UEBACAEBVFormat@1@@Z
 ??8OlsonTimeZone@icu_58@@UEBACAEBVTimeZone@1@@Z
 ??8PluralFormat@icu_58@@UEBACAEBVFormat@1@@Z
@@ -1707,7 +1185,6 @@ $~#E3
 ??8SelectFormat@icu_58@@UEBACAEBVFormat@1@@Z
 ??8SimpleDateFormat@icu_58@@UEBACAEBVFormat@1@@Z
 ??8SimpleTimeZone@icu_58@@UEBACAEBVTimeZone@1@@Z
-??8StringEnumeration@icu_58@@UEBACAEBV01@@Z
 ??8StringSearch@icu_58@@UEBACAEBVSearchIterator@1@@Z
 ??8TimeArrayTimeZoneRule@icu_58@@UEBACAEBVTimeZoneRule@1@@Z
 ??8TimeUnitAmount@icu_58@@UEBACAEBVUObject@1@@Z
@@ -1717,9 +1194,6 @@ $~#E3
 ??8TimeZoneRule@icu_58@@UEBACAEBV01@@Z
 ??8TimeZoneTransition@icu_58@@QEBACAEBV01@@Z
 ??8UTF16CollationIterator@icu_58@@UEBACAEBVCollationIterator@1@@Z
-??8UVector32@icu_58@@QEAACAEBV01@@Z
-??8UnicodeSet@icu_58@@UEBACAEBV01@@Z
-??8UnicodeString@icu_58@@QEBACAEBV01@@Z
 ??8VTimeZone@icu_58@@UEBACAEBVTimeZone@1@@Z
 ??9?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@AEAA_NAEBV01@@Z
 ??9AlphabeticIndex@icu_58@@EEBACAEBV01@@Z
@@ -1752,7 +1226,6 @@ $~#E3
 ??9ScriptSet@icu_58@@QEBACAEBV01@@Z
 ??9SearchIterator@icu_58@@QEBACAEBV01@@Z
 ??9SelectFormat@icu_58@@UEBACAEBVFormat@1@@Z
-??9StringEnumeration@icu_58@@UEBACAEBV01@@Z
 ??9TimeArrayTimeZoneRule@icu_58@@UEBACAEBVTimeZoneRule@1@@Z
 ??9TimeUnitAmount@icu_58@@QEBACAEBVUObject@1@@Z
 ??9TimeUnitFormat@icu_58@@QEBACAEBVFormat@1@@Z
@@ -1761,11 +1234,9 @@ $~#E3
 ??9TimeZoneNames@icu_58@@QEBACAEBV01@@Z
 ??9TimeZoneRule@icu_58@@UEBACAEBV01@@Z
 ??9TimeZoneTransition@icu_58@@QEBACAEBV01@@Z
-??9UnicodeSet@icu_58@@QEBACAEBV01@@Z
 ??9VTimeZone@icu_58@@UEBACAEBVTimeZone@1@@Z
 ??A?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEAAAEAD_J@Z
 ??AFormattable@icu_58@@QEAAAEAV01@H@Z
-??AUnicodeString@icu_58@@QEBA_WH@Z
 ??B?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEBAPEAUdecNumber@@XZ
 ??CSharedBreakIterator@icu_58@@QEBAPEAVBreakIterator@1@XZ
 ??CSharedCalendar@icu_58@@QEBAPEBVCalendar@1@XZ
@@ -1775,7 +1246,6 @@ $~#E3
 ??DSharedCalendar@icu_58@@QEBAAEBVCalendar@1@XZ
 ??DSharedNumberFormat@icu_58@@QEBAAEBVNumberFormat@1@XZ
 ??DSharedPluralRules@icu_58@@QEBAAEBVPluralRules@1@XZ
-??Hicu_58@@YA?AVUnicodeString@0@AEBV10@0@Z
 ??_7?$CacheKey@VDateFmtBestPattern@icu_58@@@icu_58@@6B@
 ??_7?$LocaleCacheKey@VDateFmtBestPattern@icu_58@@@icu_58@@6B@
 ??_7AlphabeticIndex@icu_58@@6B@
@@ -1783,7 +1253,6 @@ $~#E3
 ??_7BasicTimeZone@icu_58@@6B@
 ??_7Bucket@AlphabeticIndex@icu_58@@6B@
 ??_7CECalendar@icu_58@@6B@
-??_7CacheKeyBase@icu_58@@6B@
 ??_7Calendar@icu_58@@6B@
 ??_7ChineseCalendar@icu_58@@6B@
 ??_7ChoiceFormat@icu_58@@6B@
@@ -1849,7 +1318,6 @@ $~#E3
 ??_7RegexPattern@icu_58@@6B@
 ??_7Region@icu_58@@6B@
 ??_7RelativeDateTimeFormatter@icu_58@@6B@
-??_7Replaceable@icu_58@@6B@
 ??_7RuleBasedCollator@icu_58@@6B@
 ??_7RuleBasedNumberFormat@icu_58@@6B@
 ??_7RuleBasedTimeZone@icu_58@@6B@
@@ -1881,19 +1349,14 @@ $~#E3
 ??_7TimeZoneTransition@icu_58@@6B@
 ??_7Transliterator@icu_58@@6B@
 ??_7UIterCollationIterator@icu_58@@6B@
-??_7UObject@icu_58@@6B@
 ??_7UTF16CollationIterator@icu_58@@6B@
 ??_7UTF8CollationIterator@icu_58@@6B@
 ??_7UnicodeReplacer@icu_58@@6B@
-??_7UnicodeString@icu_58@@6B@
-??_7UnicodeStringAppendable@icu_58@@6B@
 ??_7VTimeZone@icu_58@@6B@
 ??_7ValueFormatter@icu_58@@6B@
 ??_FEcliptic@CalendarAstronomer@icu_58@@QEAAXXZ
 ??_FEquatorial@CalendarAstronomer@icu_58@@QEAAXXZ
 ??_FHorizon@CalendarAstronomer@icu_58@@QEAAXXZ
-??_UUMemory@icu_58@@SAPEAX_K@Z
-??_VUMemory@icu_58@@SAXPEAX@Z
 ?ALTERNATE_MASK@CollationSettings@icu_58@@2HB
 ?ALTERNATE_TIME_SEPARATOR@DateFormatSymbols@icu_58@@2_WB
 ?BACKWARD_SECONDARY@CollationSettings@icu_58@@2HB
@@ -1934,8 +1397,6 @@ $~#E3
 ?CONTRACT_TRAILING_CCC@Collation@icu_58@@2IB
 ?CONTR_CHAR_MASK@CollationFastLatin@icu_58@@2IB
 ?CONTR_LENGTH_SHIFT@CollationFastLatin@icu_58@@2IB
-?Cu0f9w
-?D8d$@
 ?DEFAULT_TIME_SEPARATOR@DateFormatSymbols@icu_58@@2_WB
 ?EOS@CollationFastLatin@icu_58@@2IB
 ?EXPANSION@CollationFastLatin@icu_58@@2IB
@@ -1945,11 +1406,9 @@ $~#E3
 ?FIRST_TRAILING_PRIMARY@Collation@icu_58@@2IB
 ?FIRST_UNASSIGNED_PRIMARY@Collation@icu_58@@2IB
 ?FULL_MOON@CalendarAstronomer@icu_58@@SA?BVMoonAge@12@XZ
-?Flush@ByteSink@icu_58@@UEAAXXZ
 ?HANGUL_NO_SPECIAL_JAMO@Collation@icu_58@@2IB
 ?HAS_BEFORE2@CollationBuilder@icu_58@@0HB
 ?HAS_BEFORE3@CollationBuilder@icu_58@@0HB
-?Hc|$8
 ?IDENTICAL_LEVEL_FLAG@Collation@icu_58@@2IB
 ?INDEX_MASK@CollationFastLatin@icu_58@@2IB
 ?IS_BUILDER_JAMO_CE32@CollationDataBuilder@icu_58@@1IB
@@ -1969,7 +1428,6 @@ $~#E3
 ?LONG_PRIMARY_CE32_LOW_BYTE@Collation@icu_58@@2EB
 ?LONG_PRIMARY_MASK@CollationFastLatin@icu_58@@2IB
 ?LOWER_CASE@CollationFastLatin@icu_58@@2IB
-?Lc7L
 ?MAX_EXPANSION_LENGTH@Collation@icu_58@@2HB
 ?MAX_INDEX@Collation@icu_58@@2HB
 ?MAX_INDEX@CollationBuilder@icu_58@@0HB
@@ -2024,7 +1482,6 @@ $~#E3
 ?QUAT_COMMON_MAX_COUNT@CollationKeys@icu_58@@0HB
 ?QUAT_COMMON_MIDDLE@CollationKeys@icu_58@@0IB
 ?QUAT_SHIFTED_LIMIT_BYTE@CollationKeys@icu_58@@0IB
-?QY^&
 ?R0I?
 ?SECONDARY_AND_CASE_MASK@Collation@icu_58@@2IB
 ?SECONDARY_LEVEL_FLAG@Collation@icu_58@@2IB
@@ -2088,7 +1545,6 @@ $~#E3
 ?_countAvailableTargets@Transliterator@icu_58@@KAHAEBVUnicodeString@2@@Z
 ?_countAvailableVariants@Transliterator@icu_58@@KAHAEBVUnicodeString@2@0@Z
 ?_format@SimpleDateFormat@icu_58@@AEBAAEAVUnicodeString@2@AEAVCalendar@2@AEAV32@AEAVFieldPositionHandler@2@AEAW4UErrorCode@@@Z
-?_get@UnifiedCache@icu_58@@AEBAXAEBVCacheKeyBase@2@AEAPEBVSharedObject@2@PEBXAEAW4UErrorCode@@@Z
 ?_getAvailableSource@Transliterator@icu_58@@KAAEAVUnicodeString@2@HAEAV32@@Z
 ?_getAvailableTarget@Transliterator@icu_58@@KAAEAVUnicodeString@2@HAEBV32@AEAV32@@Z
 ?_getAvailableVariant@Transliterator@icu_58@@KAAEAVUnicodeString@2@HAEBV32@0AEAV32@@Z
@@ -2099,7 +1555,6 @@ $~#E3
 ?_round@DecimalFormat@icu_58@@IEBAAEAVDigitList@2@AEBV32@AEAV32@AEACAEAW4UErrorCode@@@Z
 ?_transliterate@Transliterator@icu_58@@AEBAXAEAVReplaceable@2@AEAUUTransPosition@@PEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?absoluteDayToDayOfWeek@HebrewCalendar@icu_58@@CAHH@Z
-?acceptsListener@ICUService@icu_58@@MEBACAEBVEventListener@2@@Z
 ?add@?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEAAXW4UDateFormatBooleanAttribute@@@Z
 ?add@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEAAXW4UNumberFormatAttribute@@@Z
 ?add@AffixPattern@icu_58@@AEAAXW4ETokenType@12@E@Z
@@ -2111,12 +1566,6 @@ $~#E3
 ?add@CollationDataBuilder@icu_58@@QEAAXAEBVUnicodeString@2@0QEB_JHAEAW4UErrorCode@@@Z
 ?add@HebrewCalendar@icu_58@@UEAAXW4EDateFields@Calendar@2@HAEAW4UErrorCode@@@Z
 ?add@HebrewCalendar@icu_58@@UEAAXW4UCalendarDateFields@@HAEAW4UErrorCode@@@Z
-?add@UCharsTrieBuilder@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@HAEAW4UErrorCode@@@Z
-?add@UnicodeSet@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@@Z
-?add@UnicodeSet@icu_58@@QEAAAEAV12@H@Z
-?add@UnicodeSet@icu_58@@UEAAAEAV12@HH@Z
-?addAll@UnicodeSet@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@@Z
-?addAll@UnicodeSet@icu_58@@UEAAAEAV12@AEBV12@@Z
 ?addAttribute@FieldPositionHandler@icu_58@@UEAAXHHH@Z
 ?addCE32@CollationDataBuilder@icu_58@@IEAAHIAEAW4UErrorCode@@@Z
 ?addCE32@CollationDataBuilder@icu_58@@QEAAXAEBVUnicodeString@2@0IAEAW4UErrorCode@@@Z
@@ -2129,10 +1578,6 @@ $~#E3
 ?addContextTrie@CollationDataBuilder@icu_58@@IEAAHIAEAVUCharsTrieBuilder@2@AEAW4UErrorCode@@@Z
 ?addContractionEntry@CollationFastLatinBuilder@icu_58@@AEAAXH_J0AEAW4UErrorCode@@@Z
 ?addCurrency@AffixPattern@icu_58@@QEAAXE@Z
-?addElement@UVector32@icu_58@@QEAAXHAEAW4UErrorCode@@@Z
-?addElement@UVector64@icu_58@@QEAAX_JAEAW4UErrorCode@@@Z
-?addElement@UVector@icu_58@@QEAAXHAEAW4UErrorCode@@@Z
-?addElement@UVector@icu_58@@QEAAXPEAXAEAW4UErrorCode@@@Z
 ?addHighScriptRange@CollationData@icu_58@@AEBAHQEAEHH@Z
 ?addICUPatterns@DateTimePatternGenerator@icu_58@@AEAAXAEBVLocale@2@AEAW4UErrorCode@@@Z
 ?addIfAbsent@QuantityFormatter@icu_58@@QEAACPEBDAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
@@ -2140,16 +1585,13 @@ $~#E3
 ?addIndexExemplars@AlphabeticIndex@icu_58@@AEAAXAEBVLocale@2@AEAW4UErrorCode@@@Z
 ?addLabels@AlphabeticIndex@icu_58@@UEAAAEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?addLabels@AlphabeticIndex@icu_58@@UEAAAEAV12@AEBVUnicodeSet@2@AEAW4UErrorCode@@@Z
-?addListener@ICUNotifier@icu_58@@UEAAXPEBVEventListener@2@AEAW4UErrorCode@@@Z
 ?addLiteral@AffixPattern@icu_58@@QEAAXPEB_WHH@Z
 ?addLowScriptRange@CollationData@icu_58@@AEBAHQEAEHH@Z
-?addMatchSetTo@UnicodeSet@icu_58@@UEBAXAEAV12@@Z
 ?addMetaZone@MatchInfoCollection@TimeZoneNames@icu_58@@QEAAXW4UTimeZoneNameType@@HAEBVUnicodeString@3@AEAW4UErrorCode@@@Z
 ?addOnlyClosure@CollationBuilder@icu_58@@AEAAIAEBVUnicodeString@2@0QEB_JHIAEAW4UErrorCode@@@Z
 ?addPattern@DateTimePatternGenerator@icu_58@@QEAA?AW4UDateTimePatternConflict@@AEBVUnicodeString@2@CAEAV42@AEAW4UErrorCode@@@Z
 ?addPatternWithSkeleton@DateTimePatternGenerator@icu_58@@AEAA?AW4UDateTimePatternConflict@@AEBVUnicodeString@2@PEBV42@CAEAV42@AEAW4UErrorCode@@@Z
 ?addRecord@AlphabeticIndex@icu_58@@UEAAAEAV12@AEBVUnicodeString@2@PEBXAEAW4UErrorCode@@@Z
-?addRef@SharedObject@icu_58@@AEBAXC@Z
 ?addRelation@CollationBuilder@icu_58@@EEAAXHAEBVUnicodeString@2@00AEAPEBDAEAW4UErrorCode@@@Z
 ?addReset@CollationBuilder@icu_58@@EEAAXHAEBVUnicodeString@2@AEAPEBDAEAW4UErrorCode@@@Z
 ?addTailComposites@CollationBuilder@icu_58@@AEAAXAEBVUnicodeString@2@0AEAW4UErrorCode@@@Z
@@ -2204,39 +1646,28 @@ $~#E3
 ?allocateData@RegexCompile@icu_58@@AEAAHH@Z
 ?allocateStackData@RegexCompile@icu_58@@AEAAHH@Z
 ?append@AffixPattern@icu_58@@QEAAAEAV12@AEBV12@@Z
-?append@CharString@icu_58@@QEAAAEAV12@DAEAW4UErrorCode@@@Z
-?append@CharString@icu_58@@QEAAAEAV12@PEBDHAEAW4UErrorCode@@@Z
 ?append@DigitAffix@icu_58@@QEAAXAEBVUnicodeString@2@H@Z
 ?append@DigitAffix@icu_58@@QEAAXPEB_WHH@Z
 ?append@DigitList@icu_58@@QEAAXD@Z
 ?append@PluralAffix@icu_58@@QEAACAEBV12@HAEAW4UErrorCode@@@Z
 ?append@PluralAffix@icu_58@@QEAAXAEBVUnicodeString@2@H@Z
 ?append@PluralAffix@icu_58@@QEAAXPEB_WHH@Z
-?append@UnicodeString@icu_58@@QEAAAEAV12@H@Z
 ?appendCEsFromCE32@CollationIterator@icu_58@@IEAAXPEBUCollationData@2@HICAEAW4UErrorCode@@@Z
 ?appendDigitsTo@DigitList@icu_58@@QEBAXAEAVCharString@2@AEAW4UErrorCode@@@Z
 ?appendGroup@RegexMatcher@icu_58@@AEBA_JHPEAUUText@@AEAW4UErrorCode@@@Z
-?appendInvariantChars@CharString@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?appendNumber@ICU_Utility@icu_58@@SAAEAVUnicodeString@2@AEAV32@HHH@Z
 ?appendNumericCEs@CollationIterator@icu_58@@AEAAXICAEAW4UErrorCode@@@Z
 ?appendNumericSegmentCEs@CollationIterator@icu_58@@AEAAXPEBDHAEAW4UErrorCode@@@Z
 ?appendOffsetDigits@TimeZoneFormat@icu_58@@AEBAXAEAVUnicodeString@2@HE@Z
 ?appendOp@RegexCompile@icu_58@@AEAAXH@Z
 ?appendOp@RegexCompile@icu_58@@AEAAXHH@Z
 ?appendPadding@DigitAffixesAndPadding@icu_58@@AEBAAEAVUnicodeString@2@HAEAV32@@Z
-?appendReducedApostrophes@MessageImpl@icu_58@@SAXAEBVUnicodeString@2@HHAEAV32@@Z
 ?appendReplacement@RegexMatcher@icu_58@@UEAAAEAV12@AEAVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?appendReplacement@RegexMatcher@icu_58@@UEAAAEAV12@PEAUUText@@0AEAW4UErrorCode@@@Z
-?appendSubMessageWithoutSkipSyntax@MessageImpl@icu_58@@SAAEAVUnicodeString@2@AEBVMessagePattern@2@HAEAV32@@Z
 ?appendTail@RegexMatcher@icu_58@@UEAAAEAVUnicodeString@2@AEAV32@@Z
 ?appendTail@RegexMatcher@icu_58@@UEAAPEAUUText@@PEAU3@AEAW4UErrorCode@@@Z
-?appendToRule@ICU_Utility@icu_58@@SAXAEAVUnicodeString@2@AEBV32@CC0@Z
-?appendToRule@ICU_Utility@icu_58@@SAXAEAVUnicodeString@2@HCC0@Z
-?appendToRule@ICU_Utility@icu_58@@SAXAEAVUnicodeString@2@PEBVUnicodeMatcher@2@C0@Z
 ?appendUChar@DigitAffix@icu_58@@QEAAX_WH@Z
 ?appendUChar@PluralAffix@icu_58@@QEAAX_WH@Z
 ?appendUNTIL@VTimeZone@icu_58@@AEBAXAEAVVTZWriter@2@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?applyIntPropertyValue@UnicodeSet@icu_58@@QEAAAEAV12@W4UProperty@@HAEAW4UErrorCode@@@Z
 ?applyLocalizedPattern@DecimalFormat@icu_58@@UEAAXAEBVUnicodeString@2@AEAUUParseError@@AEAW4UErrorCode@@@Z
 ?applyLocalizedPattern@DecimalFormat@icu_58@@UEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?applyLocalizedPattern@SimpleDateFormat@icu_58@@UEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
@@ -2250,13 +1681,9 @@ $~#E3
 ?applyPattern@PluralFormat@icu_58@@QEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?applyPattern@SelectFormat@icu_58@@QEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?applyPattern@SimpleDateFormat@icu_58@@UEAAXAEBVUnicodeString@2@@Z
-?applyPattern@UnicodeSet@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?applyPatternMinMaxArguments@SimpleFormatter@icu_58@@QEAACAEBVUnicodeString@2@HHAEAW4UErrorCode@@@Z
 ?areSignificantDigitsUsed@DecimalFormat@icu_58@@QEBACXZ
 ?argNameMatches@MessageFormat@icu_58@@AEAACHAEBVUnicodeString@2@H@Z
 ?arrayCompare@DateFormatSymbols@icu_58@@CACPEBVUnicodeString@2@0H@Z
-?assign@UVector32@icu_58@@QEAAXAEBV12@AEAW4UErrorCode@@@Z
-?assign@UVector64@icu_58@@QEAAXAEBV12@AEAW4UErrorCode@@@Z
 ?assignArray@DateFormatSymbols@icu_58@@CAXAEAPEAVUnicodeString@2@AEAHPEBV32@H@Z
 ?attributeHasBeenSetExplicitly@RuleBasedCollator@icu_58@@AEBACH@Z
 ?autoQuoteApostrophe@MessageFormat@icu_58@@SA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
@@ -2280,7 +1707,6 @@ $~#E3
 ?buildMappings@CollationDataBuilder@icu_58@@IEAAXAEAUCollationData@2@AEAW4UErrorCode@@@Z
 ?buildOp@RegexCompile@icu_58@@AEAAHHH@Z
 ?buildTrie@TextTrieMap@icu_58@@AEAAXAEAW4UErrorCode@@@Z
-?buildUnicodeString@UCharsTrieBuilder@icu_58@@QEAAAEAVUnicodeString@2@W4UStringTrieBuildOption@@AEAV32@AEAW4UErrorCode@@@Z
 ?cacheExplicitFormats@MessageFormat@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?calendarFieldToIntervalIndex@DateIntervalInfo@icu_58@@CA?AW4IntervalPatternIndex@12@W4UCalendarDateFields@@AEAW4UErrorCode@@@Z
 ?canFormat@SmallIntFormatter@icu_58@@SACHAEBVIntDigitCountRange@2@@Z
@@ -2293,11 +1719,6 @@ $~#E3
 ?ceToJD@CECalendar@icu_58@@KAHHHHH@Z
 ?changeNodeNextIndex@CollationBuilder@icu_58@@CA_J_JH@Z
 ?changeNodePreviousIndex@CollationBuilder@icu_58@@CA_J_JH@Z
-?char32At@Replaceable@icu_58@@QEBAHH@Z
-?char32At@UnicodeString@icu_58@@QEBAHH@Z
-?charAt@Replaceable@icu_58@@QEBA_WH@Z
-?charAt@UnicodeSet@icu_58@@QEBAHH@Z
-?charAt@UnicodeString@icu_58@@QEBA_WH@Z
 ?checkAbuttingHoursAndMinutes@TimeZoneFormat@icu_58@@AEAAXXZ
 ?checkConsistency@TimeUnitFormat@icu_58@@AEAAXW4UTimeUnitFormatStyle@@PEBDAEAW4UErrorCode@@@Z
 ?checkIntSuffix@SimpleDateFormat@icu_58@@AEBAHAEBVUnicodeString@2@HHC@Z
@@ -2313,16 +1734,13 @@ $~#E3
 ?clear@DigitGrouping@icu_58@@QEAAXXZ
 ?clear@DigitInterval@icu_58@@QEAAXXZ
 ?clear@DigitList@icu_58@@QEAAXXZ
-?clear@MessagePattern@icu_58@@QEAAXXZ
 ?clear@SignificantDigitInterval@icu_58@@QEAAXXZ
-?clear@UnicodeSet@icu_58@@UEAAAEAV12@XZ
 ?clear@VisibleDigits@icu_58@@AEAAXXZ
 ?clear@VisibleDigitsWithExponent@icu_58@@QEAAXXZ
 ?clearBuckets@AlphabeticIndex@icu_58@@AEAAXXZ
 ?clearCEs@CollationIterator@icu_58@@QEAAXXZ
 ?clearCEsIfNoneRemaining@CollationIterator@icu_58@@QEAAXXZ
 ?clearCache@CalendarAstronomer@icu_58@@AEAAXXZ
-?clearCaches@ICUService@icu_58@@MEAAXXZ
 ?clearContexts@CollationDataBuilder@icu_58@@IEAAXXZ
 ?clearRecords@AlphabeticIndex@icu_58@@UEAAAEAV12@AEAW4UErrorCode@@@Z
 ?clearTransitionRules@OlsonTimeZone@icu_58@@AEAAXXZ
@@ -2349,7 +1767,6 @@ $~#E3
 ?clone@HebrewCalendar@icu_58@@UEBAPEAVCalendar@2@XZ
 ?clone@InitialTimeZoneRule@icu_58@@UEBAPEAV12@XZ
 ?clone@IslamicCalendar@icu_58@@UEBAPEAVCalendar@2@XZ
-?clone@Locale@icu_58@@QEBAPEAV12@XZ
 ?clone@MarkupStyle@ScientificNumberFormatter@icu_58@@UEBAPEAVStyle@23@XZ
 ?clone@Measure@icu_58@@UEBAPEAVUObject@2@XZ
 ?clone@MeasureFormat@icu_58@@UEBAPEAVFormat@2@XZ
@@ -2359,7 +1776,6 @@ $~#E3
 ?clone@PluralFormat@icu_58@@UEBAPEAVFormat@2@XZ
 ?clone@PluralRules@icu_58@@QEBAPEAV12@XZ
 ?clone@RegexPattern@icu_58@@UEBAPEAV12@XZ
-?clone@Replaceable@icu_58@@UEBAPEAV12@XZ
 ?clone@RuleBasedCollator@icu_58@@UEBAPEAVCollator@2@XZ
 ?clone@RuleBasedNumberFormat@icu_58@@UEBAPEAVFormat@2@XZ
 ?clone@RuleBasedTimeZone@icu_58@@UEBAPEAVTimeZone@2@XZ
@@ -2367,7 +1783,6 @@ $~#E3
 ?clone@SelectFormat@icu_58@@UEBAPEAVFormat@2@XZ
 ?clone@SimpleDateFormat@icu_58@@UEBAPEAVFormat@2@XZ
 ?clone@SimpleTimeZone@icu_58@@UEBAPEAVTimeZone@2@XZ
-?clone@StringEnumeration@icu_58@@UEBAPEAV12@XZ
 ?clone@StringSearch@icu_58@@QEBAPEAV12@XZ
 ?clone@SuperscriptStyle@ScientificNumberFormatter@icu_58@@UEBAPEAVStyle@23@XZ
 ?clone@TimeArrayTimeZoneRule@icu_58@@UEBAPEAV12@XZ
@@ -2378,16 +1793,11 @@ $~#E3
 ?clone@TimeZoneGenericNames@icu_58@@UEBAPEAV12@XZ
 ?clone@TimeZoneTransition@icu_58@@QEBAPEAV12@XZ
 ?clone@Transliterator@icu_58@@UEBAPEAV12@XZ
-?clone@UnicodeSet@icu_58@@UEBAPEAVUnicodeFunctor@2@XZ
-?clone@UnicodeString@icu_58@@UEBAPEAVReplaceable@2@XZ
 ?clone@VTimeZone@icu_58@@UEBAPEAVTimeZone@2@XZ
-?cloneAsThawed@UnicodeSet@icu_58@@QEBAPEAVUnicodeFunctor@2@XZ
 ?cloneBinary@RuleBasedCollator@icu_58@@QEBAHPEAEHAEAW4UErrorCode@@@Z
 ?cloneRuleData@RuleBasedCollator@icu_58@@QEBAPEAEAEAHAEAW4UErrorCode@@@Z
-?closeOver@UnicodeSet@icu_58@@QEAAAEAV12@H@Z
 ?closeOverComposites@CollationBuilder@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?combineDateAndTime@RelativeDateTimeFormatter@icu_58@@QEBAAEAVUnicodeString@2@AEBV32@0AEAV32@AEAW4UErrorCode@@@Z
-?compact@UnicodeSet@icu_58@@UEAAAEAV12@XZ
 ?compare@Collator@icu_58@@UEBA?AW4EComparisonResult@12@AEBVUnicodeString@2@0@Z
 ?compare@Collator@icu_58@@UEBA?AW4EComparisonResult@12@AEBVUnicodeString@2@0H@Z
 ?compare@Collator@icu_58@@UEBA?AW4EComparisonResult@12@PEB_WH0H@Z
@@ -2397,9 +1807,7 @@ $~#E3
 ?compare@RuleBasedCollator@icu_58@@UEBA?AW4UCollationResult@@AEBVUnicodeString@2@0AEAW4UErrorCode@@@Z
 ?compare@RuleBasedCollator@icu_58@@UEBA?AW4UCollationResult@@AEBVUnicodeString@2@0HAEAW4UErrorCode@@@Z
 ?compare@RuleBasedCollator@icu_58@@UEBA?AW4UCollationResult@@PEB_WH0HAEAW4UErrorCode@@@Z
-?compare@UnicodeString@icu_58@@QEBACAEBV12@@Z
 ?compareAffix@DecimalFormat@icu_58@@AEBAHAEBVUnicodeString@2@HCCPEBV32@CCPEA_W@Z
-?compareCodePointOrder@UnicodeString@icu_58@@QEBACAEBV12@@Z
 ?compareComplexAffix@DecimalFormat@icu_58@@AEBAHAEBVUnicodeString@2@0HCPEA_W@Z
 ?compareSimpleAffix@DecimalFormat@icu_58@@AEBAHAEBVUnicodeString@2@0HC@Z
 ?compareSimpleAffix@SimpleDateFormat@icu_58@@AEBAHAEBVUnicodeString@2@0H@Z
@@ -2422,9 +1830,6 @@ $~#E3
 ?compileInlineInterval@RegexCompile@icu_58@@AEAACXZ
 ?compileInterval@RegexCompile@icu_58@@AEAAXHH@Z
 ?compileSet@RegexCompile@icu_58@@AEAAXPEAVUnicodeSet@2@@Z
-?complement@UnicodeSet@icu_58@@UEAAAEAV12@HH@Z
-?complement@UnicodeSet@icu_58@@UEAAAEAV12@XZ
-?complementAll@UnicodeSet@icu_58@@UEAAAEAV12@AEBV12@@Z
 ?complete@Calendar@icu_58@@IEAAXAEAW4UErrorCode@@@Z
 ?complete@RuleBasedTimeZone@icu_58@@QEAAXAEAW4UErrorCode@@@Z
 ?completeConst@RuleBasedTimeZone@icu_58@@AEBAXAEAW4UErrorCode@@@Z
@@ -2453,17 +1858,10 @@ $~#E3
 ?contains@DigitInterval@icu_58@@QEBACH@Z
 ?contains@Region@icu_58@@QEBACAEBV12@@Z
 ?contains@ScriptSet@icu_58@@QEBACAEBV12@@Z
-?contains@UnicodeSet@icu_58@@UEBACH@Z
-?contains@UnicodeSet@icu_58@@UEBACHH@Z
-?containsAll@UnicodeSet@icu_58@@QEBACAEBVUnicodeString@2@@Z
-?containsAll@UnicodeSet@icu_58@@UEBACAEBV12@@Z
-?containsNone@UnicodeSet@icu_58@@QEBACHH@Z
-?copy@UnicodeString@icu_58@@UEAAXHHH@Z
 ?copyContractionsFromBaseCE32@CollationDataBuilder@icu_58@@IEAAHAEAVUnicodeString@2@HIPEAUConditionalCE32@2@AEAW4UErrorCode@@@Z
 ?copyData@CollationDataWriter@icu_58@@CAXQEBHHPEBXPEAE@Z
 ?copyData@DateFormatSymbols@icu_58@@AEAAXAEBV12@@Z
 ?copyFrom@CollationDataBuilder@icu_58@@QEAAXAEBV12@AEBVCEModifier@12@AEAW4UErrorCode@@@Z
-?copyFrom@UnicodeString@icu_58@@AEAAAEAV12@AEBV12@C@Z
 ?copyFromBaseCE32@CollationDataBuilder@icu_58@@IEAAIHICAEAW4UErrorCode@@@Z
 ?copyHash@CurrencyPluralInfo@icu_58@@AEAAXPEBVHashtable@2@PEAV32@AEAW4UErrorCode@@@Z
 ?copyHash@DateIntervalInfo@icu_58@@AEAAXPEBVHashtable@2@PEAV32@AEAW4UErrorCode@@@Z
@@ -2474,9 +1872,7 @@ $~#E3
 ?copyObjects@PluralFormat@icu_58@@AEAAXAEBV12@@Z
 ?copyReorderingFrom@CollationSettings@icu_58@@QEAAXAEBU12@AEAW4UErrorCode@@@Z
 ?copyRules@RuleBasedTimeZone@icu_58@@AEAAPEAVUVector@2@PEAV32@@Z
-?count@Hashtable@icu_58@@QEBAHXZ
 ?count@PluralAvailableLocalesEnumeration@icu_58@@UEBAHAEAW4UErrorCode@@@Z
-?count@UStringEnumeration@icu_58@@UEBAHAEAW4UErrorCode@@@Z
 ?countAvailableIDs@Transliterator@icu_58@@SAHXZ
 ?countAvailableSources@Transliterator@icu_58@@SAHXZ
 ?countAvailableTargets@Transliterator@icu_58@@SAHAEBVUnicodeString@2@@Z
@@ -2488,14 +1884,12 @@ $~#E3
 ?countChar32@DigitFormatter@icu_58@@AEBAHAEBVVisibleDigits@2@AEBVDigitInterval@2@AEBVSciFormatterOptions@2@@Z
 ?countChar32@DigitFormatter@icu_58@@QEBAHAEBVVisibleDigits@2@AEBVDigitGrouping@2@AEBVDigitFormatterOptions@2@@Z
 ?countChar32@DigitFormatter@icu_58@@QEBAHAEBVVisibleDigitsWithExponent@2@AEBVSciFormatterOptions@2@@Z
-?countChar32@UnicodeString@icu_58@@QEBAHHH@Z
 ?countChar32@ValueFormatter@icu_58@@QEBAHAEBVVisibleDigitsWithExponent@2@@Z
 ?countChar32ForExponent@DigitFormatter@icu_58@@AEBAHAEBVVisibleDigits@2@AEBVDigitFormatterIntOptions@2@@Z
 ?countChar32ForInfinity@DigitFormatter@icu_58@@AEBAHXZ
 ?countChar32ForNaN@DigitFormatter@icu_58@@AEBAHXZ
 ?countElements@Transliterator@icu_58@@QEBAHXZ
 ?countEquivalentIDs@TimeZone@icu_58@@SAHAEBVUnicodeString@2@@Z
-?countFactories@ICUService@icu_58@@IEBAHXZ
 ?countMembers@ScriptSet@icu_58@@QEBAHXZ
 ?countStartTimes@TimeArrayTimeZoneRule@icu_58@@QEBAHXZ
 ?countTailoredNodes@CollationBuilder@icu_58@@CAHPEB_JHH@Z
@@ -2505,7 +1899,6 @@ $~#E3
 ?countTransitionRules@VTimeZone@icu_58@@UEBAHAEAW4UErrorCode@@@Z
 ?create@DateFormat@icu_58@@CAPEAV12@W4EStyle@12@0AEBVLocale@2@@Z
 ?create@DateIntervalFormat@icu_58@@CAPEAV12@AEBVLocale@2@PEAVDateIntervalInfo@2@PEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?create@LocaleKeyFactory@icu_58@@UEBAPEAVUObject@2@AEBVICUServiceKey@2@PEBVICUService@2@AEAW4UErrorCode@@@Z
 ?create@MeasureUnit@icu_58@@CAPEAV12@HHAEAW4UErrorCode@@@Z
 ?create@TimeUnitFormat@icu_58@@AEAAXW4UTimeUnitFormatStyle@@AEAW4UErrorCode@@@Z
 ?createAcre@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
@@ -2562,7 +1955,6 @@ $~#E3
 ?createFoodcalorie@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createFoot@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createForLocale@DateFormatSymbols@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
-?createFromName@Locale@icu_58@@SA?AV12@PEBD@Z
 ?createFromRules@Transliterator@icu_58@@SAPEAV12@AEBVUnicodeString@2@0W4UTransDirection@@AEAUUParseError@@AEAW4UErrorCode@@@Z
 ?createFurlong@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createGForce@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
@@ -2598,8 +1990,6 @@ $~#E3
 ?createInstance@DateIntervalFormat@icu_58@@SAPEAV12@AEBVUnicodeString@2@AEBVLocale@2@AEBVDateIntervalInfo@2@AEAW4UErrorCode@@@Z
 ?createInstance@DateTimePatternGenerator@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createInstance@DateTimePatternGenerator@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
-?createInstance@ListFormatter@icu_58@@SAPEAV12@AEBVLocale@2@PEBDAEAW4UErrorCode@@@Z
-?createInstance@LocaleDisplayNames@icu_58@@SAPEAV12@AEBVLocale@2@W4UDialectHandling@@@Z
 ?createInstance@NumberFormat@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createInstance@NumberFormat@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?createInstance@NumberFormat@icu_58@@SAPEAV12@AEBVLocale@2@W4UNumberFormatStyle@@AEAW4UErrorCode@@@Z
@@ -2622,8 +2012,6 @@ $~#E3
 ?createJoule@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createKarat@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createKelvin@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
-?createKey@ICULocaleService@icu_58@@MEBAPEAVICUServiceKey@2@PEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?createKey@ICULocaleService@icu_58@@MEBAPEAVICUServiceKey@2@PEBVUnicodeString@2@HAEAW4UErrorCode@@@Z
 ?createKilobit@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createKilobyte@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createKilocalorie@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
@@ -2705,11 +2093,9 @@ $~#E3
 ?createScientificInstance@NumberFormat@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createScientificInstance@NumberFormat@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?createSecond@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
-?createSentenceInstance@BreakIterator@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?createSetForProperty@RegexCompile@icu_58@@AEAAPEAVUnicodeSet@2@AEBVUnicodeString@2@C@Z
 ?createSharedInstance@NumberFormat@icu_58@@SAPEBVSharedNumberFormat@2@AEBVLocale@2@W4UNumberFormatStyle@@AEAW4UErrorCode@@@Z
 ?createSharedInstance@PluralRules@icu_58@@SAPEBVSharedPluralRules@2@AEBVLocale@2@W4UPluralType@@AEAW4UErrorCode@@@Z
-?createSimpleFactory@ICUService@icu_58@@MEAAPEAVICUServiceFactory@2@PEAVUObject@2@AEBVUnicodeString@2@CAEAW4UErrorCode@@@Z
 ?createSouth@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createSquareCentimeter@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createSquareFoot@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
@@ -2739,7 +2125,6 @@ $~#E3
 ?createWeek@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createWest@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createWithLastResortData@DecimalFormatSymbols@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
-?createWordInstance@BreakIterator@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?createYard@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createYear@MeasureUnit@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?createZoneStrings@DateFormatSymbols@icu_58@@AEAAXPEBQEBVUnicodeString@2@@Z
@@ -2751,10 +2136,6 @@ $~#E3
 ?decodeEndRule@SimpleTimeZone@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?decodeRules@SimpleTimeZone@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?decodeStartRule@SimpleTimeZone@icu_58@@AEAAXAEAW4UErrorCode@@@Z
-?decompose@Hangul@icu_58@@SAHHQEA_W@Z
-?decompose@Normalizer2Impl@icu_58@@QEBAAEAVUnicodeString@2@AEBV32@AEAV32@AEAW4UErrorCode@@@Z
-?decompose@Normalizer2Impl@icu_58@@QEBAPEB_WPEB_W0PEAVReorderingBuffer@2@AEAW4UErrorCode@@@Z
-?decompose@Normalizer2Impl@icu_58@@QEBAXPEB_W0AEAVUnicodeString@2@HAEAW4UErrorCode@@@Z
 ?defaultCenturyStart@ChineseCalendar@icu_58@@MEBANXZ
 ?defaultCenturyStart@GregorianCalendar@icu_58@@UEBANXZ
 ?defaultCenturyStart@HebrewCalendar@icu_58@@MEBANXZ
@@ -2767,7 +2148,6 @@ $~#E3
 ?deleteHash@DateIntervalInfo@icu_58@@AEAAXPEAVHashtable@2@@Z
 ?deleteHash@TimeUnitFormat@icu_58@@AEAAXPEAVHashtable@2@@Z
 ?deleteHashForAffixPattern@DecimalFormat@icu_58@@AEAAXXZ
-?deleteIfZeroRefCount@SharedObject@icu_58@@QEBAXXZ
 ?deleteRules@RuleBasedTimeZone@icu_58@@AEAAXXZ
 ?deleteTransitionRules@OlsonTimeZone@icu_58@@AEAAXXZ
 ?deleteTransitionRules@SimpleTimeZone@icu_58@@AEAAXXZ
@@ -2783,22 +2163,9 @@ $~#E3
 ?dispose@RuleBasedNumberFormat@icu_58@@AEAAXXZ
 ?disposeZoneStrings@DateFormatSymbols@icu_58@@AEAAXXZ
 ?div@DigitList@icu_58@@QEAAXAEBV12@AEAW4UErrorCode@@@Z
-?doAppend@UnicodeString@icu_58@@AEAAAEAV12@AEBV12@HH@Z
-?doAppend@UnicodeString@icu_58@@AEAAAEAV12@PEB_WHH@Z
-?doCaseCompare@UnicodeString@icu_58@@AEBACHHAEBV12@HHI@Z
-?doCaseCompare@UnicodeString@icu_58@@AEBACHHPEB_WHHI@Z
 ?doCompare@RuleBasedCollator@icu_58@@AEBA?AW4UCollationResult@@PEBEH0HAEAW4UErrorCode@@@Z
 ?doCompare@RuleBasedCollator@icu_58@@AEBA?AW4UCollationResult@@PEB_WH0HAEAW4UErrorCode@@@Z
-?doCompare@UnicodeString@icu_58@@AEBACHHAEBV12@HH@Z
-?doCompare@UnicodeString@icu_58@@AEBACHHPEB_WHH@Z
-?doExtract@UnicodeString@icu_58@@AEBAXHHPEA_WH@Z
-?doHashCode@UnicodeString@icu_58@@AEBAHXZ
-?doIndexOf@UnicodeString@icu_58@@AEBAH_WHH@Z
-?doLastIndexOf@UnicodeString@icu_58@@AEBAH_WHH@Z
 ?doParseActions@RegexCompile@icu_58@@AEAACH@Z
-?doReplace@UnicodeString@icu_58@@AEAAAEAV12@HHAEBV12@HH@Z
-?doReplace@UnicodeString@icu_58@@AEAAAEAV12@HHPEB_WHH@Z
-?doReverse@UnicodeString@icu_58@@AEAAAEAV12@HH@Z
 ?dontCheckFCD@CollationSettings@icu_58@@QEBACXZ
 ?dstOffsetAt@OlsonTimeZone@icu_58@@AEBAHF@Z
 ?dtos@ChoiceFormat@icu_58@@CAAEAVUnicodeString@2@NAEAV32@@Z
@@ -2809,8 +2176,6 @@ $~#E3
 ?eclipticToEquatorial@CalendarAstronomer@icu_58@@QEAAAEAVEquatorial@12@AEAV312@N@Z
 ?eclipticToEquatorial@CalendarAstronomer@icu_58@@QEAAAEAVEquatorial@12@AEAV312@NN@Z
 ?eclipticToHorizon@CalendarAstronomer@icu_58@@QEAAAEAVHorizon@12@AEAV312@N@Z
-?elementAt@UVector@icu_58@@QEBAPEAXH@Z
-?elementAti@UVector@icu_58@@QEBAHH@Z
 ?enableFastLatin@CollationDataBuilder@icu_58@@QEAAXXZ
 ?encodeCEs@CollationDataBuilder@icu_58@@UEAAIQEB_JHAEAW4UErrorCode@@@Z
 ?encodeCharCEs@CollationFastLatinBuilder@icu_58@@AEAACAEAW4UErrorCode@@@Z
@@ -2826,9 +2191,6 @@ $~#E3
 ?end@RegexMatcher@icu_58@@UEBAHAEAW4UErrorCode@@@Z
 ?end@RegexMatcher@icu_58@@UEBAHHAEAW4UErrorCode@@@Z
 ?endZoneProps@VTimeZone@icu_58@@AEBAXAEAVVTZWriter@2@CAEAW4UErrorCode@@@Z
-?endsWith@UnicodeString@icu_58@@QEBACAEBV12@HH@Z
-?endsWith@UnicodeString@icu_58@@QEBACPEB_WH@Z
-?ensureCanonIterData@Normalizer2Impl@icu_58@@QEBACAEAW4UErrorCode@@@Z
 ?ensureCapacity@DigitList@icu_58@@QEAAXHAEAW4UErrorCode@@@Z
 ?ensureOwnedData@CollationTailoring@icu_58@@QEAACAEAW4UErrorCode@@@Z
 ?eq@PluralAffix@icu_58@@CACAEBVDigitAffix@2@0@Z
@@ -2849,23 +2211,17 @@ $~#E3
 ?equals@DigitGrouping@icu_58@@QEBACAEBV12@@Z
 ?equals@DigitInterval@icu_58@@QEBACAEBV12@@Z
 ?equals@FixedPrecision@icu_58@@QEBACAEBV12@@Z
-?equals@Hashtable@icu_58@@QEBACAEBV12@@Z
 ?equals@PluralAffix@icu_58@@QEBACAEBV12@@Z
 ?equals@SciFormatterOptions@icu_58@@QEBACAEBV12@@Z
 ?equals@ScientificPrecision@icu_58@@QEBACAEBV12@@Z
 ?equals@SignificantDigitInterval@icu_58@@QEBACAEBV12@@Z
 ?error@RegexCompile@icu_58@@AEAAXW4UErrorCode@@@Z
-?escapeUnprintable@ICU_Utility@icu_58@@SACAEAVUnicodeString@2@H@Z
 ?estimateDigitCount@SmallIntFormatter@icu_58@@SAHHAEBVIntDigitCountRange@2@@Z
 ?expandOffsetPattern@TimeZoneFormat@icu_58@@CAAEAVUnicodeString@2@AEBV32@AEAV32@AEAW4UErrorCode@@@Z
 ?expandToContain@DigitInterval@icu_58@@QEAAXAEBV12@@Z
 ?expandToContainDigit@DigitInterval@icu_58@@QEAAXH@Z
-?extract@UnicodeString@icu_58@@QEBAHHHPEADHW4EInvariant@12@@Z
-?extract@UnicodeString@icu_58@@QEBAHPEA_WHAEAW4UErrorCode@@@Z
-?extractBetween@UnicodeString@icu_58@@UEBAXHHAEAV12@@Z
 ?f`Y4
 ?fallbackFormat@DateIntervalFormat@icu_58@@AEBAAEAVUnicodeString@2@AEAVCalendar@2@0CAEAV32@AEAVFieldPosition@2@AEAW4UErrorCode@@@Z
-?fastCopyFrom@UnicodeString@icu_58@@QEAAAEAV12@AEBV12@@Z
 ?fetchCEs@CollationIterator@icu_58@@QEAAHAEAW4UErrorCode@@@Z
 ?fgCalendarFieldToLevel@SimpleDateFormat@icu_58@@0QBHB
 ?fgCalendarFieldToPatternLetter@DateIntervalFormat@icu_58@@0QB_WB
@@ -2881,7 +2237,6 @@ $~#E3
 ?find@RegexMatcher@icu_58@@UEAACAEAW4UErrorCode@@@Z
 ?find@RegexMatcher@icu_58@@UEAACXZ
 ?find@RegexMatcher@icu_58@@UEAAC_JAEAW4UErrorCode@@@Z
-?findAndReplace@UnicodeString@icu_58@@QEAAAEAV12@AEBV12@0@Z
 ?findBestMatch@TimeZoneGenericNames@icu_58@@QEBAHAEBVUnicodeString@2@HIAEAV32@AEAW4UTimeZoneFormatTimeType@@AEAW4UErrorCode@@@Z
 ?findCaseInsensitiveStarters@RegexCompile@icu_58@@SAXHPEAVUnicodeSet@2@@Z
 ?findCommonNode@CollationBuilder@icu_58@@AEBAHHH@Z
@@ -2909,7 +2264,6 @@ $~#E3
 ?finishTransliteration@Transliterator@icu_58@@UEBAXAEAVReplaceable@2@AEAUUTransPosition@@@Z
 ?first@SearchIterator@icu_58@@QEAAHAEAW4UErrorCode@@@Z
 ?firstCEWithPrimaryAtLeast@CollationRootElements@icu_58@@QEBA_JI@Z
-?firstForCodePoint@UCharsTrie@icu_58@@QEAA?AW4UStringTrieResult@@H@Z
 ?firstStringsInScript@AlphabeticIndex@icu_58@@AEAAPEAVUVector@2@AEAW4UErrorCode@@@Z
 ?fitsIntoInt64@DigitList@icu_58@@QEAACC@Z
 ?fitsIntoLong@DigitList@icu_58@@QEAACC@Z
@@ -2917,7 +2271,6 @@ $~#E3
 ?flag@?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@AEBAIW4UDateFormatBooleanAttribute@@@Z
 ?flag@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@AEBAIW4UNumberFormatAttribute@@@Z
 ?flags@RegexPattern@icu_58@@UEBAIXZ
-?foldCase@UnicodeString@icu_58@@QEAAAEAV12@I@Z
 ?following@SearchIterator@icu_58@@QEAAHHAEAW4UErrorCode@@@Z
 ?forData@CollationFastLatinBuilder@icu_58@@QEAACAEBUCollationData@2@AEAW4UErrorCode@@@Z
 ?forLocale@PluralRules@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
@@ -2973,8 +2326,6 @@ $~#E3
 ?format@DummyFormat@MessageFormat@icu_58@@UEBAAEAVUnicodeString@3@AEBVFormattable@3@AEAV43@PEAVFieldPositionIterator@3@AEAW4UErrorCode@@@Z
 ?format@Format@icu_58@@QEBAAEAVUnicodeString@2@AEBVFormattable@2@AEAV32@AEAW4UErrorCode@@@Z
 ?format@Format@icu_58@@UEBAAEAVUnicodeString@2@AEBVFormattable@2@AEAV32@PEAVFieldPositionIterator@2@AEAW4UErrorCode@@@Z
-?format@ListFormatter@icu_58@@QEBAAEAVUnicodeString@2@QEBV32@HAEAV32@AEAW4UErrorCode@@@Z
-?format@ListFormatter@icu_58@@QEBAAEAVUnicodeString@2@QEBV32@HAEAV32@HAEAHAEAW4UErrorCode@@@Z
 ?format@MarkupStyle@ScientificNumberFormatter@icu_58@@MEBAAEAVUnicodeString@3@AEBV43@AEAVFieldPositionIterator@3@0AEBVDecimalFormatStaticSets@3@AEAV43@AEAW4UErrorCode@@@Z
 ?format@MeasureFormat@icu_58@@UEBAAEAVUnicodeString@2@AEBVFormattable@2@AEAV32@AEAVFieldPosition@2@AEAW4UErrorCode@@@Z
 ?format@MessageFormat@icu_58@@AEBAAEAVUnicodeString@2@PEBVFormattable@2@PEBV32@HAEAV32@PEAVFieldPosition@2@AEAW4UErrorCode@@@Z
@@ -3020,15 +2371,11 @@ $~#E3
 ?format@SelectFormat@icu_58@@UEBAAEAVUnicodeString@2@AEBVFormattable@2@AEAV32@AEAVFieldPosition@2@AEAW4UErrorCode@@@Z
 ?format@SimpleDateFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAVCalendar@2@AEAV32@AEAVFieldPosition@2@@Z
 ?format@SimpleDateFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAVCalendar@2@AEAV32@PEAVFieldPositionIterator@2@AEAW4UErrorCode@@@Z
-?format@SimpleFormatter@icu_58@@QEBAAEAVUnicodeString@2@AEBV32@0AEAV32@AEAW4UErrorCode@@@Z
-?format@SimpleFormatter@icu_58@@QEBAAEAVUnicodeString@2@AEBV32@AEAV32@AEAW4UErrorCode@@@Z
 ?format@SmallIntFormatter@icu_58@@SAAEAVUnicodeString@2@HAEBVIntDigitCountRange@2@AEAV32@@Z
 ?format@SuperscriptStyle@ScientificNumberFormatter@icu_58@@MEBAAEAVUnicodeString@3@AEBV43@AEAVFieldPositionIterator@3@0AEBVDecimalFormatStaticSets@3@AEAV43@AEAW4UErrorCode@@@Z
 ?format@TimeZoneFormat@icu_58@@UEBAAEAVUnicodeString@2@AEBVFormattable@2@AEAV32@AEAVFieldPosition@2@AEAW4UErrorCode@@@Z
 ?format@TimeZoneFormat@icu_58@@UEBAAEAVUnicodeString@2@W4UTimeZoneFormatStyle@@AEBVTimeZone@2@NAEAV32@PEAW4UTimeZoneFormatTimeType@@@Z
 ?format@ValueFormatter@icu_58@@QEBAAEAVUnicodeString@2@AEBVVisibleDigitsWithExponent@2@AEAVFieldPositionHandler@2@AEAV32@@Z
-?formatAndAppend@SimpleFormatter@icu_58@@QEBAAEAVUnicodeString@2@PEBQEBV32@HAEAV32@PEAHHAEAW4UErrorCode@@@Z
-?formatAndReplace@SimpleFormatter@icu_58@@QEBAAEAVUnicodeString@2@PEBQEBV32@HAEAV32@PEAHHAEAW4UErrorCode@@@Z
 ?formatComplexSubMessage@MessageFormat@icu_58@@AEBAXHPEBXPEBVFormattable@2@PEBVUnicodeString@2@HAEAVAppendableWrapper@2@AEAW4UErrorCode@@@Z
 ?formatCustomID@TimeZone@icu_58@@CAAEAVUnicodeString@2@HHHCAEAV32@@Z
 ?formatCustomID@ZoneMeta@icu_58@@CAAEAVUnicodeString@2@EEECAEAV32@@Z
@@ -3069,7 +2416,6 @@ $~#E3
 ?foundNULTerminator@UTF16CollationIterator@icu_58@@MEAACXZ
 ?foundNULTerminator@UTF8CollationIterator@icu_58@@MEAACXZ
 ?freeTransliterators@CompoundTransliterator@icu_58@@AEAAXXZ
-?freeze@UnicodeSet@icu_58@@QEAAPEAVUnicodeFunctor@2@XZ
 ?freeze@ZNStringPool@icu_58@@QEAAXXZ
 ?fromString@StandardPlural@icu_58@@SA?AW4Form@12@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?fromString@StandardPlural@icu_58@@SA?AW4Form@12@PEBDAEAW4UErrorCode@@@Z
@@ -3077,10 +2423,8 @@ $~#E3
 ?fromUCollationElements@CollationElementIterator@icu_58@@SAPEBV12@PEBUUCollationElements@@@Z
 ?fromUCollator@Collator@icu_58@@SAPEAV12@PEAUUCollator@@@Z
 ?fromUCollator@Collator@icu_58@@SAPEBV12@PEBUUCollator@@@Z
-?fromUEnumeration@UStringEnumeration@icu_58@@SAPEAV12@PEAUUEnumeration@@AEAW4UErrorCode@@@Z
 ?fromUFormattable@Formattable@icu_58@@SAPEAV12@PEAPEAX@Z
 ?fromUFormattable@Formattable@icu_58@@SAPEBV12@PEBQEAX@Z
-?fromUTF8@UnicodeString@icu_58@@SA?AV12@VStringPiece@2@@Z
 ?gDefaultMaxIntegerDigits@NumberFormat@icu_58@@1HB
 ?gDefaultMinIntegerDigits@NumberFormat@icu_58@@1HB
 ?get2DigitYearStart@SimpleDateFormat@icu_58@@QEBANAEAW4UErrorCode@@@Z
@@ -3091,11 +2435,6 @@ $~#E3
 ?get@?$PluralMap@VDigitAffix@icu_58@@@icu_58@@QEBAAEBVDigitAffix@2@W4Category@PluralMapBase@2@@Z
 ?get@Calendar@icu_58@@QEBAHW4UCalendarDateFields@@AEAW4UErrorCode@@@Z
 ?get@FixedDecimal@icu_58@@QEBANW4tokenType@2@@Z
-?get@Hashtable@icu_58@@QEBAPEAXAEBVUnicodeString@2@@Z
-?get@ICULocaleService@icu_58@@QEBAPEAVUObject@2@AEBVLocale@2@HAEAW4UErrorCode@@@Z
-?get@ICULocaleService@icu_58@@QEBAPEAVUObject@2@AEBVLocale@2@HPEAV42@AEAW4UErrorCode@@@Z
-?get@ICULocaleService@icu_58@@QEBAPEAVUObject@2@AEBVLocale@2@PEAV42@AEAW4UErrorCode@@@Z
-?get@ResourceBundle@icu_58@@QEBA?AV12@PEBDAEAW4UErrorCode@@@Z
 ?get@SharedBreakIterator@icu_58@@QEBAPEAVBreakIterator@2@XZ
 ?get@SharedCalendar@icu_58@@QEBAPEBVCalendar@2@XZ
 ?get@SharedDateFormatSymbols@icu_58@@QEBAAEBVDateFormatSymbols@2@XZ
@@ -3111,7 +2450,6 @@ $~#E3
 ?getActualMinimum@GregorianCalendar@icu_58@@QEBAHW4EDateFields@Calendar@2@AEAW4UErrorCode@@@Z
 ?getActualMinimum@GregorianCalendar@icu_58@@UEBAHW4UCalendarDateFields@@AEAW4UErrorCode@@@Z
 ?getAlias@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEBAPEAUdecNumber@@XZ
-?getAliasUnicodeString@ResourceValue@icu_58@@QEBA?AVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?getAll@?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEBAIXZ
 ?getAll@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEBAIXZ
 ?getAllKeywordValues@PluralRules@icu_58@@QEAAHAEBVUnicodeString@2@PEANHAEAW4UErrorCode@@@Z
@@ -3119,7 +2457,6 @@ $~#E3
 ?getAlternateHandling@CollationSettings@icu_58@@QEBA?AW4UColAttributeValue@@XZ
 ?getAmPmStrings@DateFormatSymbols@icu_58@@QEBAPEBVUnicodeString@2@AEAH@Z
 ?getApostropheMode@MessageFormat@icu_58@@QEBA?AW4UMessagePatternApostropheMode@@XZ
-?getAppendBuffer@CharString@icu_58@@QEAAPEADHHAEAHAEAW4UErrorCode@@@Z
 ?getAppendFormatNumber@DateTimePatternGenerator@icu_58@@AEBA?AW4UDateTimePatternField@@PEBD@Z
 ?getAppendItemFormat@DateTimePatternGenerator@icu_58@@QEBAAEBVUnicodeString@2@W4UDateTimePatternField@@@Z
 ?getAppendItemName@DateTimePatternGenerator@icu_58@@QEBAAEBVUnicodeString@2@W4UDateTimePatternField@@@Z
@@ -3129,12 +2466,10 @@ $~#E3
 ?getArgName@MessageFormat@icu_58@@AEAA?AVUnicodeString@2@H@Z
 ?getArgTypeCount@MessageFormat@icu_58@@QEBAHXZ
 ?getArgTypeList@MessageFormat@icu_58@@AEBAPEBW4Type@Formattable@2@AEAH@Z
-?getArgumentLimit@SimpleFormatter@icu_58@@QEBAHXZ
 ?getArray@Formattable@icu_58@@QEBAPEBV12@AEAH@Z
 ?getArray@Formattable@icu_58@@QEBAPEBV12@AEAHAEAW4UErrorCode@@@Z
 ?getArrayLimit@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEBAPEADXZ
 ?getArrayStart@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEBAPEADXZ
-?getArrayStart@UnicodeString@icu_58@@AEBAPEB_WXZ
 ?getAttribute@DecimalFormat@icu_58@@UEBAHW4UNumberFormatAttribute@@AEAW4UErrorCode@@@Z
 ?getAttribute@RuleBasedCollator@icu_58@@UEBA?AW4UColAttributeValue@@W4UColAttribute@@AEAW4UErrorCode@@@Z
 ?getAttribute@SearchIterator@icu_58@@QEBA?AW4USearchAttributeValue@@W4USearchAttribute@@@Z
@@ -3147,8 +2482,6 @@ $~#E3
 ?getAvailableLocales@Collator@icu_58@@SAPEAVStringEnumeration@2@XZ
 ?getAvailableLocales@Collator@icu_58@@SAPEBVLocale@2@AEAH@Z
 ?getAvailableLocales@DateFormat@icu_58@@SAPEBVLocale@2@AEAH@Z
-?getAvailableLocales@ICULocaleService@icu_58@@UEBAPEAVStringEnumeration@2@XZ
-?getAvailableLocales@Locale@icu_58@@SAPEBV12@AEAH@Z
 ?getAvailableLocales@NumberFormat@icu_58@@SAPEAVStringEnumeration@2@XZ
 ?getAvailableLocales@NumberFormat@icu_58@@SAPEBVLocale@2@AEAH@Z
 ?getAvailableLocales@PluralRules@icu_58@@SAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
@@ -3158,7 +2491,6 @@ $~#E3
 ?getAvailableTarget@Transliterator@icu_58@@SAAEAVUnicodeString@2@HAEBV32@AEAV32@@Z
 ?getAvailableTypes@MeasureUnit@icu_58@@SAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
 ?getAvailableVariant@Transliterator@icu_58@@SAAEAVUnicodeString@2@HAEBV32@0AEAV32@@Z
-?getBaseName@Locale@icu_58@@QEBAPEBDXZ
 ?getBaseSkeleton@DateTimePatternGenerator@icu_58@@QEAA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?getBaseSkeletons@DateTimePatternGenerator@icu_58@@QEBAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
 ?getBasicTimeZone@Calendar@icu_58@@AEBAPEAVBasicTimeZone@2@XZ
@@ -3182,8 +2514,6 @@ $~#E3
 ?getBucketLabel@AlphabeticIndex@icu_58@@UEBAAEBVUnicodeString@2@XZ
 ?getBucketLabelType@AlphabeticIndex@icu_58@@UEBA?AW4UAlphabeticIndexLabelType@@XZ
 ?getBucketRecordCount@AlphabeticIndex@icu_58@@UEBAHXZ
-?getBuffer@UnicodeString@icu_58@@QEAAPEA_WH@Z
-?getBuffer@UnicodeString@icu_58@@QEBAPEB_WXZ
 ?getByCategory@PluralAffix@icu_58@@QEBAAEBVDigitAffix@2@AEBVUnicodeString@2@@Z
 ?getByCategory@PluralAffix@icu_58@@QEBAAEBVDigitAffix@2@PEBD@Z
 ?getByVariant@QuantityFormatter@icu_58@@QEBAPEBVSimpleFormatter@2@PEBD@Z
@@ -3209,7 +2539,6 @@ $~#E3
 ?getCalendar@DateFormat@icu_58@@UEBAPEBVCalendar@2@XZ
 ?getCalendarTypeFromLocale@Calendar@icu_58@@SAXAEBVLocale@2@PEADHAEAW4UErrorCode@@@Z
 ?getCalendarTypeToUse@DateTimePatternGenerator@icu_58@@AEAAXAEBVLocale@2@AEAVCharString@2@AEAW4UErrorCode@@@Z
-?getCanonStartSet@Normalizer2Impl@icu_58@@QEBACHAEAVUnicodeSet@2@@Z
 ?getCanonicalCLDRID@ZoneMeta@icu_58@@SAAEAVUnicodeString@2@AEBV32@AEAV32@AEAW4UErrorCode@@@Z
 ?getCanonicalCLDRID@ZoneMeta@icu_58@@SAPEB_WAEBVTimeZone@2@@Z
 ?getCanonicalCLDRID@ZoneMeta@icu_58@@SAPEB_WAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
@@ -3222,8 +2551,6 @@ $~#E3
 ?getCapitalizationContext@RelativeDateTimeFormatter@icu_58@@QEBA?AW4UDisplayContext@@XZ
 ?getCaseFirst@CollationSettings@icu_58@@QEBA?AW4UColAttributeValue@@XZ
 ?getCases@CollationFastLatin@icu_58@@CAIICI@Z
-?getChar32At@UnicodeString@icu_58@@MEBAHH@Z
-?getCharAt@UnicodeString@icu_58@@MEBA_WH@Z
 ?getCharIndex@CollationFastLatin@icu_58@@SAH_W@Z
 ?getChildNode@TextTrieMap@icu_58@@AEBAPEAUCharacterNode@2@PEAU32@_W@Z
 ?getChineseCalZoneAstroCalc@ChineseCalendar@icu_58@@AEBAPEBVTimeZone@2@XZ
@@ -3273,8 +2600,6 @@ $~#E3
 ?getDecimalFormatSymbols@DecimalFormat@icu_58@@UEBAPEBVDecimalFormatSymbols@2@XZ
 ?getDecimalFormatSymbols@RuleBasedNumberFormat@icu_58@@AEBAPEBVDecimalFormatSymbols@2@XZ
 ?getDecimalNumber@Formattable@icu_58@@QEAA?AVStringPiece@2@AEAW4UErrorCode@@@Z
-?getDecomposition@Normalizer2Impl@icu_58@@QEBAPEB_WHQEA_WAEAH@Z
-?getDefault@Locale@icu_58@@SAAEBV12@XZ
 ?getDefaultDateFormat@MessageFormat@icu_58@@AEBAPEBVDateFormat@2@AEAW4UErrorCode@@@Z
 ?getDefaultDayInMonth@Calendar@icu_58@@MEAAHHH@Z
 ?getDefaultInfinityRule@RuleBasedNumberFormat@icu_58@@AEBAPEBVNFRule@2@XZ
@@ -3295,9 +2620,6 @@ $~#E3
 ?getDisplayName@Collator@icu_58@@SAAEAVUnicodeString@2@AEBVLocale@2@0AEAV32@@Z
 ?getDisplayName@Collator@icu_58@@SAAEAVUnicodeString@2@AEBVLocale@2@AEAV32@@Z
 ?getDisplayName@CollatorFactory@icu_58@@UEAAAEAVUnicodeString@2@AEBVLocale@2@0AEAV32@@Z
-?getDisplayName@ICUService@icu_58@@QEBAAEAVUnicodeString@2@AEBV32@AEAV32@AEBVLocale@2@@Z
-?getDisplayName@Locale@icu_58@@QEBAAEAVUnicodeString@2@AEBV12@AEAV32@@Z
-?getDisplayName@LocaleKeyFactory@icu_58@@UEBAAEAVUnicodeString@2@AEBV32@AEBVLocale@2@AEAV32@@Z
 ?getDisplayName@TimeZone@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@@Z
 ?getDisplayName@TimeZone@icu_58@@QEBAAEAVUnicodeString@2@AEBVLocale@2@AEAV32@@Z
 ?getDisplayName@TimeZone@icu_58@@QEBAAEAVUnicodeString@2@CW4EDisplayType@12@AEAV32@@Z
@@ -3331,11 +2653,8 @@ $~#E3
 ?getDynamicClassID@Formattable@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@GregorianCalendar@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@HebrewCalendar@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@ICUResourceBundleFactory@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@InitialTimeZoneRule@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@IslamicCalendar@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@Locale@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@LocaleKeyFactory@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@Measure@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@MeasureFormat@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@MeasureUnit@icu_58@@UEBAPEAXXZ
@@ -3346,7 +2665,6 @@ $~#E3
 ?getDynamicClassID@PluralRules@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@RegexMatcher@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@RegexPattern@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@ResourceBundle@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@RuleBasedCollator@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@RuleBasedNumberFormat@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@RuleBasedTimeZone@icu_58@@UEBAPEAXXZ
@@ -3360,20 +2678,12 @@ $~#E3
 ?getDynamicClassID@TimeUnitFormat@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@TimeZoneFormat@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@TimeZoneTransition@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UObject@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UStringEnumeration@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UVector32@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UVector64@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UVector@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UnicodeSet@icu_58@@UEBAPEAXXZ
-?getDynamicClassID@UnicodeString@icu_58@@UEBAPEAXXZ
 ?getDynamicClassID@VTimeZone@icu_58@@UEBAPEAXXZ
 ?getEffectiveCurrency@DecimalFormat@icu_58@@MEBAXPEA_WAEAW4UErrorCode@@@Z
 ?getEffectiveCurrency@NumberFormat@icu_58@@MEBAXPEA_WAEAW4UErrorCode@@@Z
 ?getElement@Transliterator@icu_58@@QEBAAEBV12@HAEAW4UErrorCode@@@Z
 ?getEndIndex@FieldPosition@icu_58@@QEBAHXZ
 ?getEndYear@AnnualTimeZoneRule@icu_58@@QEBAHXZ
-?getEnglish@Locale@icu_58@@SAAEBV12@XZ
 ?getEpochDay@GregorianCalendar@icu_58@@MEAANAEAW4UErrorCode@@@Z
 ?getEquivalentID@TimeZone@icu_58@@SA?BVUnicodeString@2@AEBV32@H@Z
 ?getEquivalentReorderCodes@Collator@icu_58@@SAHHPEAHHAEAW4UErrorCode@@@Z
@@ -3385,8 +2695,6 @@ $~#E3
 ?getExemplarLocationName@TimeZoneNames@icu_58@@UEBAAEAVUnicodeString@2@AEBV32@AEAV32@@Z
 ?getExponent@VisibleDigitsWithExponent@icu_58@@QEBAPEBVVisibleDigits@2@XZ
 ?getFCD16@CollationData@icu_58@@QEBAGH@Z
-?getFCD16@Normalizer2Impl@icu_58@@QEBAGH@Z
-?getFCDInstance@Normalizer2Factory@icu_58@@SAPEBVNormalizer2@2@AEAW4UErrorCode@@@Z
 ?getFallbackIntervalPattern@DateIntervalInfo@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@@Z
 ?getField@FieldPosition@icu_58@@QEBAHXZ
 ?getFieldResolutionTable@Calendar@icu_58@@MEBAPEAY1M@7$$CBHXZ
@@ -3456,10 +2764,8 @@ $~#E3
 ?getInflowLabel@AlphabeticIndex@icu_58@@UEBAAEBVUnicodeString@2@XZ
 ?getInput@RegexMatcher@icu_58@@UEBAPEAUUText@@PEAU3@AEAW4UErrorCode@@@Z
 ?getInstance@GenderInfo@icu_58@@SAPEBV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
-?getInstance@Normalizer2@icu_58@@SAPEBV12@PEBD0W4UNormalization2Mode@@AEAW4UErrorCode@@@Z
 ?getInstance@Region@icu_58@@SAPEBV12@HAEAW4UErrorCode@@@Z
 ?getInstance@Region@icu_58@@SAPEBV12@PEBDAEAW4UErrorCode@@@Z
-?getInstance@UnifiedCache@icu_58@@SAPEAV12@AEAW4UErrorCode@@@Z
 ?getInt64@DigitList@icu_58@@QEAA_JXZ
 ?getInt64@Formattable@icu_58@@QEBA_JAEAW4UErrorCode@@@Z
 ?getInt64@Formattable@icu_58@@QEBA_JXZ
@@ -3473,18 +2779,13 @@ $~#E3
 ?getJamoCE32s@CollationDataBuilder@icu_58@@IEAACQEAIAEAW4UErrorCode@@@Z
 ?getJulianCentury@CalendarAstronomer@icu_58@@QEAANXZ
 ?getJulianDay@CalendarAstronomer@icu_58@@QEAANXZ
-?getKey@ICUService@icu_58@@QEBAPEAVUObject@2@AEAVICUServiceKey@2@PEAVUnicodeString@2@PEBVICUServiceFactory@2@AEAW4UErrorCode@@@Z
-?getKey@ICUService@icu_58@@UEBAPEAVUObject@2@AEAVICUServiceKey@2@PEAVUnicodeString@2@AEAW4UErrorCode@@@Z
-?getKeyAndValue@ResourceTable@icu_58@@QEBACHAEAPEBDAEAVResourceValue@2@@Z
 ?getKeyword@StandardPlural@icu_58@@SAPEBDW4Form@12@@Z
 ?getKeywordOther@PluralRules@icu_58@@QEBA?AVUnicodeString@2@XZ
-?getKeywordValue@Locale@icu_58@@QEBAHPEBDPEADHAEAW4UErrorCode@@@Z
 ?getKeywordValues@Collator@icu_58@@SAPEAVStringEnumeration@2@PEBDAEAW4UErrorCode@@@Z
 ?getKeywordValuesForLocale@Calendar@icu_58@@SAPEAVStringEnumeration@2@PEBDAEBVLocale@2@CAEAW4UErrorCode@@@Z
 ?getKeywordValuesForLocale@Collator@icu_58@@SAPEAVStringEnumeration@2@PEBDAEBVLocale@2@CAEAW4UErrorCode@@@Z
 ?getKeywords@Collator@icu_58@@SAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
 ?getKeywords@PluralRules@icu_58@@QEBAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
-?getLCID@Locale@icu_58@@QEBAIXZ
 ?getLabel@Bucket@AlphabeticIndex@icu_58@@QEBAAEBVUnicodeString@3@XZ
 ?getLabelType@Bucket@AlphabeticIndex@icu_58@@QEBA?AW4UAlphabeticIndexLabelType@@XZ
 ?getLastCommonSecondary@CollationRootElements@icu_58@@QEBAIXZ
@@ -3497,7 +2798,6 @@ $~#E3
 ?getLeastMaximum@Calendar@icu_58@@UEBAHW4UCalendarDateFields@@@Z
 ?getLeastSignificantInclusive@DigitInterval@icu_58@@QEBAHXZ
 ?getLength@CollationKey@icu_58@@AEBAHXZ
-?getLength@UnicodeString@icu_58@@MEBAHXZ
 ?getLevelFromChar@SimpleDateFormat@icu_58@@CAH_W@Z
 ?getLimit@Calendar@icu_58@@MEBAHW4UCalendarDateFields@@W4ELimitType@12@@Z
 ?getLimits@ChoiceFormat@icu_58@@UEBAPEBNAEAH@Z
@@ -3514,14 +2814,11 @@ $~#E3
 ?getLocale@DecimalFormatSymbols@icu_58@@QEBA?AVLocale@2@W4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
 ?getLocale@DecimalFormatSymbols@icu_58@@QEBA?AVLocale@2@XZ
 ?getLocale@Format@icu_58@@QEBA?AVLocale@2@W4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
-?getLocale@LocaleBased@icu_58@@QEBA?AVLocale@2@W4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
 ?getLocale@MeasureFormat@icu_58@@IEBA?AVLocale@2@AEAW4UErrorCode@@@Z
 ?getLocale@MessageFormat@icu_58@@UEBAAEBVLocale@2@XZ
-?getLocale@ResourceBundle@icu_58@@QEBAAEBVLocale@2@XZ
 ?getLocale@RuleBasedCollator@icu_58@@UEBA?AVLocale@2@W4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
 ?getLocaleID@Calendar@icu_58@@QEBAPEBDW4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
 ?getLocaleID@Format@icu_58@@QEBAPEBDW4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
-?getLocaleID@LocaleBased@icu_58@@QEBAPEBDW4ULocDataLocaleType@@AEAW4UErrorCode@@@Z
 ?getLocaleID@MeasureFormat@icu_58@@IEBAPEBDAEAW4UErrorCode@@@Z
 ?getLong@CurrencyAffixInfo@icu_58@@QEBAAEBVPluralAffix@2@XZ
 ?getLong@DigitList@icu_58@@QEAAHXZ
@@ -3584,10 +2881,6 @@ $~#E3
 ?getMutable@?$PluralMap@VDigitAffix@icu_58@@@icu_58@@QEAAPEAVDigitAffix@2@W4Category@PluralMapBase@2@AEAW4UErrorCode@@@Z
 ?getMutableAppendItemName@DateTimePatternGenerator@icu_58@@AEAAAEAVUnicodeString@2@W4UDateTimePatternField@@@Z
 ?getMutableWithDefault@?$PluralMap@VDigitAffix@icu_58@@@icu_58@@QEAAPEAVDigitAffix@2@W4Category@PluralMapBase@2@AEBV32@AEAW4UErrorCode@@@Z
-?getNFCImpl@Normalizer2Factory@icu_58@@SAPEBVNormalizer2Impl@2@AEAW4UErrorCode@@@Z
-?getNFCInstance@Normalizer2@icu_58@@SAPEBV12@AEAW4UErrorCode@@@Z
-?getNFDInstance@Normalizer2@icu_58@@SAPEBV12@AEAW4UErrorCode@@@Z
-?getNFKDInstance@Normalizer2@icu_58@@SAPEBV12@AEAW4UErrorCode@@@Z
 ?getName@NumberingSystem@icu_58@@QEBAPEBDXZ
 ?getName@TimeZoneRule@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@@Z
 ?getNameTypeAt@MatchInfoCollection@TimeZoneNames@icu_58@@QEBA?AW4UTimeZoneNameType@@H@Z
@@ -3612,7 +2905,6 @@ $~#E3
 ?getNumberOfRuleSetDisplayNameLocales@RuleBasedNumberFormat@icu_58@@UEBAHXZ
 ?getNumberOfRuleSetNames@RuleBasedNumberFormat@icu_58@@UEBAHXZ
 ?getNumericCode@Region@icu_58@@QEBAHXZ
-?getNumericValue@MessagePattern@icu_58@@QEBANAEBVPart@12@@Z
 ?getObject@Formattable@icu_58@@QEBAPEBVUObject@2@XZ
 ?getOffset@CollationElementIterator@icu_58@@QEBAHXZ
 ?getOffset@FCDUIterCollationIterator@icu_58@@UEBAHXZ
@@ -3656,7 +2948,6 @@ $~#E3
 ?getPatternUChars@DateFormatSymbols@icu_58@@SAPEB_WXZ
 ?getPerFormatter@MeasureFormat@icu_58@@AEBAPEBVSimpleFormatter@2@W4UMeasureFormatWidth@@AEAW4UErrorCode@@@Z
 ?getPluralFormatter@MeasureFormat@icu_58@@AEBAPEBVSimpleFormatter@2@AEBVMeasureUnit@2@W4UMeasureFormatWidth@@HAEAW4UErrorCode@@@Z
-?getPluralOffset@MessagePattern@icu_58@@QEBANH@Z
 ?getPluralRules@CurrencyPluralInfo@icu_58@@QEBAPEBVPluralRules@2@XZ
 ?getPluralRules@MeasureFormat@icu_58@@IEBAAEBVPluralRules@2@XZ
 ?getPositivePrefix@DecimalFormat@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@@Z
@@ -3676,9 +2967,6 @@ $~#E3
 ?getQuarters@DateFormatSymbols@icu_58@@QEBAPEBVUnicodeString@2@AEAHW4DtContextType@12@W4DtWidthType@12@@Z
 ?getQuaternaries@CollationFastLatin@icu_58@@CAIII@Z
 ?getRadix@NumberingSystem@icu_58@@QEBAHXZ
-?getRangeCount@UnicodeSet@icu_58@@UEBAHXZ
-?getRangeEnd@UnicodeSet@icu_58@@UEBAHH@Z
-?getRangeStart@UnicodeSet@icu_58@@UEBAHH@Z
 ?getRawOffset@OlsonTimeZone@icu_58@@UEBAHXZ
 ?getRawOffset@RuleBasedTimeZone@icu_58@@UEBAHXZ
 ?getRawOffset@SimpleTimeZone@icu_58@@UEBAHXZ
@@ -3688,7 +2976,6 @@ $~#E3
 ?getRecordData@AlphabeticIndex@icu_58@@UEBAPEBXXZ
 ?getRecordName@AlphabeticIndex@icu_58@@UEBAAEBVUnicodeString@2@XZ
 ?getRedundants@DateTimePatternGenerator@icu_58@@QEAAPEAVStringEnumeration@2@AEAW4UErrorCode@@@Z
-?getRefCount@SharedObject@icu_58@@QEBAHXZ
 ?getRegion@TimeZone@icu_58@@CAPEB_WAEBVUnicodeString@2@@Z
 ?getRegion@TimeZone@icu_58@@SAHAEBVUnicodeString@2@PEADHAEAW4UErrorCode@@@Z
 ?getRegion@TimeZone@icu_58@@SAPEB_WAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
@@ -3699,7 +2986,6 @@ $~#E3
 ?getReorderCodes@RuleBasedCollator@icu_58@@UEBAHPEAHHAEAW4UErrorCode@@@Z
 ?getRepeatedWallTimeOption@Calendar@icu_58@@QEBA?AW4UCalendarWallTimeOption@@XZ
 ?getRoot@CollationRoot@icu_58@@SAPEBUCollationTailoring@2@AEAW4UErrorCode@@@Z
-?getRoot@Locale@icu_58@@SAAEBV12@XZ
 ?getRootCacheEntry@CollationRoot@icu_58@@SAPEBUCollationCacheEntry@2@AEAW4UErrorCode@@@Z
 ?getRoundingIncrement@DecimalFormat@icu_58@@UEBANXZ
 ?getRoundingMode@DecimalFormat@icu_58@@UEBA?AW4ERoundingMode@12@XZ
@@ -3835,17 +3121,12 @@ $~#E3
 ?getString@Formattable@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@AEAW4UErrorCode@@@Z
 ?getString@Formattable@icu_58@@QEBAAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?getString@Formattable@icu_58@@QEBAAEBVUnicodeString@2@XZ
-?getString@UnicodeSetIterator@icu_58@@QEAAAEBVUnicodeString@2@XZ
-?getStringEx@ResourceBundle@icu_58@@QEBA?AVUnicodeString@2@HAEAW4UErrorCode@@@Z
-?getStringEx@ResourceBundle@icu_58@@QEBA?AVUnicodeString@2@PEBDAEAW4UErrorCode@@@Z
 ?getSubtype@MeasureUnit@icu_58@@QEBAPEBDXZ
 ?getSunLongitude@CalendarAstronomer@icu_58@@QEAANXZ
 ?getSunLongitude@CalendarAstronomer@icu_58@@QEAAXNAEAN0@Z
 ?getSunPosition@CalendarAstronomer@icu_58@@QEAAAEAVEquatorial@12@AEAV312@@Z
 ?getSunRiseSet@CalendarAstronomer@icu_58@@QEAANC@Z
 ?getSunTime@CalendarAstronomer@icu_58@@QEAANNC@Z
-?getSupportedIDs@ICUResourceBundleFactory@icu_58@@MEBAPEBVHashtable@2@AEAW4UErrorCode@@@Z
-?getSupportedIDs@LocaleKeyFactory@icu_58@@MEBAPEBVHashtable@2@AEAW4UErrorCode@@@Z
 ?getSupportedIDs@SimpleNumberFormatFactory@icu_58@@UEBAPEBVUnicodeString@2@AEAHAEAW4UErrorCode@@@Z
 ?getSymbol@CurrencyAffixInfo@icu_58@@QEBAAEBVUnicodeString@2@XZ
 ?getSymbol@DecimalFormatSymbols@icu_58@@QEBA?AVUnicodeString@2@W4ENumberFormatSymbol@12@@Z
@@ -3857,14 +3138,12 @@ $~#E3
 ?getTailoredSet@RuleBasedCollator@icu_58@@UEBAPEAVUnicodeSet@2@AEAW4UErrorCode@@@Z
 ?getTargetSet@CompoundTransliterator@icu_58@@UEBAAEAVUnicodeSet@2@AEAV32@@Z
 ?getTargetSet@Transliterator@icu_58@@UEBAAEAVUnicodeSet@2@AEAV32@@Z
-?getTerminatedBuffer@UnicodeString@icu_58@@QEAAPEB_WXZ
 ?getTertiaries@CollationFastLatin@icu_58@@CAIICI@Z
 ?getTertiaryAfter@CollationRootElements@icu_58@@QEBAIHII@Z
 ?getTertiaryBefore@CollationRootElements@icu_58@@QEBAIIII@Z
 ?getTertiaryBoundary@CollationRootElements@icu_58@@QEBAIXZ
 ?getTertiaryMask@CollationSettings@icu_58@@SAIH@Z
 ?getText@SearchIterator@icu_58@@QEBAAEBVUnicodeString@2@XZ
-?getTextWithNoArguments@SimpleFormatter@icu_58@@QEBA?AVUnicodeString@2@XZ
 ?getThreeBytePrimaryForOffsetData@Collation@icu_58@@SAIH_J@Z
 ?getTime@Calendar@icu_58@@QEBANAEAW4UErrorCode@@@Z
 ?getTime@CalendarAstronomer@icu_58@@QEAANXZ
@@ -3908,14 +3187,11 @@ $~#E3
 ?getUCAVersion@CollationTailoring@icu_58@@QEBAHXZ
 ?getUTC@TimeArrayTimeZoneRule@icu_58@@AEBANNHH@Z
 ?getUnderflowLabel@AlphabeticIndex@icu_58@@UEBAAEBVUnicodeString@2@XZ
-?getUnicodeString@ResourceValue@icu_58@@QEBA?AVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?getUniqueKeywordValue@PluralRules@icu_58@@QEAANAEBVUnicodeString@2@@Z
 ?getUnit@Measure@icu_58@@QEBAAEBVMeasureUnit@2@XZ
 ?getUnitDisplayName@MeasureFormat@icu_58@@QEBA?AVUnicodeString@2@AEBVMeasureUnit@2@AEAW4UErrorCode@@@Z
 ?getUnknown@TimeZone@icu_58@@SAAEBV12@XZ
 ?getUpperExponent@DigitList@icu_58@@QEBAHXZ
-?getValue@ResourceArray@icu_58@@QEBACHAEAVResourceValue@2@@Z
-?getValue@UCharsTrie@icu_58@@QEBAHXZ
 ?getVariableTop@RuleBasedCollator@icu_58@@UEBAIAEAW4UErrorCode@@@Z
 ?getVersion@RuleBasedCollator@icu_58@@UEBAXQEAE@Z
 ?getVisibleFractionDigitCount@FixedDecimal@icu_58@@QEBAHXZ
@@ -3929,7 +3205,6 @@ $~#E3
 ?getZodiacNames@DateFormatSymbols@icu_58@@QEBAPEBVUnicodeString@2@AEAHW4DtContextType@12@W4DtWidthType@12@@Z
 ?getZoneIdByMetazone@ZoneMeta@icu_58@@SAAEAVUnicodeString@2@AEBV32@0AEAV32@@Z
 ?getZoneStrings@DateFormatSymbols@icu_58@@QEBAPEAPEBVUnicodeString@2@AEAH0@Z
-?geti@Hashtable@icu_58@@QEBAHAEBVUnicodeString@2@@Z
 ?greater@Collator@icu_58@@QEBACAEBVUnicodeString@2@0@Z
 ?greaterOrEqual@Collator@icu_58@@QEBACAEBVUnicodeString@2@0@Z
 ?group@RegexMatcher@icu_58@@UEBA?AVUnicodeString@2@AEAW4UErrorCode@@@Z
@@ -3954,8 +3229,6 @@ $~#E3
 ?handleComputeMonthStart@GregorianCalendar@icu_58@@MEBAHHHC@Z
 ?handleComputeMonthStart@HebrewCalendar@icu_58@@MEBAHHHC@Z
 ?handleComputeMonthStart@IslamicCalendar@icu_58@@MEBAHHHC@Z
-?handleCreate@ICUResourceBundleFactory@icu_58@@MEBAPEAVUObject@2@AEBVLocale@2@HPEBVICUService@2@AEAW4UErrorCode@@@Z
-?handleCreate@LocaleKeyFactory@icu_58@@MEBAPEAVUObject@2@AEBVLocale@2@HPEBVICUService@2@AEAW4UErrorCode@@@Z
 ?handleCurrencySignInPattern@DecimalFormat@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?handleGetExtendedYear@ChineseCalendar@icu_58@@MEAAHXZ
 ?handleGetExtendedYear@GregorianCalendar@icu_58@@MEAAHXZ
@@ -3994,18 +3267,13 @@ $~#E3
 ?handleNextCE32@UTF8CollationIterator@icu_58@@MEAAIAEAHAEAW4UErrorCode@@@Z
 ?handleNonNumeric@FixedPrecision@icu_58@@CACAEAVDigitList@2@AEAVVisibleDigits@2@@Z
 ?handlePrev@StringSearch@icu_58@@MEAAHHAEAW4UErrorCode@@@Z
-?handleReplaceBetween@UnicodeString@icu_58@@UEAAXHHAEBV12@@Z
 ?handleTransliterate@CompoundTransliterator@icu_58@@MEBAXAEAVReplaceable@2@AEAUUTransPosition@@C@Z
-?handlesKey@LocaleKeyFactory@icu_58@@MEBACAEBVICUServiceKey@2@AEAW4UErrorCode@@@Z
 ?hasAnchoringBounds@RegexMatcher@icu_58@@UEBACXZ
 ?hasBackwardSecondary@CollationSettings@icu_58@@QEBACXZ
 ?hasCE32Tag@Collation@icu_58@@SACIH@Z
 ?hasEquivalentTransitions@BasicTimeZone@icu_58@@UEBACAEBV12@NNCAEAW4UErrorCode@@@Z
 ?hasLccc@CollationFCD@icu_58@@SACH@Z
 ?hasMappings@CollationDataBuilder@icu_58@@QEBACXZ
-?hasMetaData@Replaceable@icu_58@@UEBACXZ
-?hasMetaData@UnicodeString@icu_58@@UEBACXZ
-?hasMoreChar32Than@UnicodeString@icu_58@@QEBACHHH@Z
 ?hasMultipleVariants@PluralAffix@icu_58@@QEBACXZ
 ?hasNoMajorSolarTerm@ChineseCalendar@icu_58@@EEBACH@Z
 ?hasReordering@CollationSettings@icu_58@@QEBACXZ
@@ -4021,10 +3289,8 @@ $~#E3
 ?hashCode@CollationKey@icu_58@@QEBAHXZ
 ?hashCode@CollationSettings@icu_58@@QEBAHXZ
 ?hashCode@DateFmtBestPatternKey@icu_58@@UEBAHXZ
-?hashCode@Locale@icu_58@@QEBAHXZ
 ?hashCode@RuleBasedCollator@icu_58@@UEBAHXZ
 ?hashCode@ScriptSet@icu_58@@QEBAHXZ
-?hashCode@UnicodeSet@icu_58@@UEBAHXZ
 ?haveDefaultCentury@CECalendar@icu_58@@MEBACXZ
 ?haveDefaultCentury@ChineseCalendar@icu_58@@MEBACXZ
 ?haveDefaultCentury@GregorianCalendar@icu_58@@UEBACXZ
@@ -4052,11 +3318,6 @@ $~#E3
 ?indexFromString@StandardPlural@icu_58@@SAHPEBDAEAW4UErrorCode@@@Z
 ?indexFromTempCE32@CollationBuilder@icu_58@@CAHI@Z
 ?indexFromTempCE@CollationBuilder@icu_58@@CAH_J@Z
-?indexOf@UVector@icu_58@@QEBAHPEAXH@Z
-?indexOf@UnicodeString@icu_58@@QEBAHAEBV12@@Z
-?indexOf@UnicodeString@icu_58@@QEBAHAEBV12@H@Z
-?indexOf@UnicodeString@icu_58@@QEBAHPEB_WHH@Z
-?indexOf@UnicodeString@icu_58@@QEBAH_WH@Z
 ?indexOrNegativeFromString@StandardPlural@icu_58@@SAHAEBVUnicodeString@2@@Z
 ?indexOrNegativeFromString@StandardPlural@icu_58@@SAHPEBD@Z
 ?indexOrOtherIndexFromString@StandardPlural@icu_58@@SAHAEBVUnicodeString@2@@Z
@@ -4073,7 +3334,6 @@ $~#E3
 ?init@RegexMatcher@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?init@RegexPattern@icu_58@@AEAAXXZ
 ?init@RelativeDateTimeFormatter@icu_58@@AEAAXPEAVNumberFormat@2@PEAVBreakIterator@2@AEAW4UErrorCode@@@Z
-?init@ReorderingBuffer@icu_58@@QEAACHAEAW4UErrorCode@@@Z
 ?init@RuleBasedNumberFormat@icu_58@@AEAAXAEBVUnicodeString@2@PEAVLocalizationInfo@2@AEAUUParseError@@AEAW4UErrorCode@@@Z
 ?initBuckets@AlphabeticIndex@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?initCapitalizationContextInfo@RuleBasedNumberFormat@icu_58@@AEAAXAEBVLocale@2@@Z
@@ -4093,10 +3353,8 @@ $~#E3
 ?initHashForAffixPattern@DecimalFormat@icu_58@@AEAAPEAVHashtable@2@AEAW4UErrorCode@@@Z
 ?initHashtable@DateTimePatternGenerator@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?initLabels@AlphabeticIndex@icu_58@@AEBAXAEAVUVector@2@AEAW4UErrorCode@@@Z
-?initLocaleFromName@LocaleUtility@icu_58@@SAAEAVLocale@2@AEBVUnicodeString@2@AEAV32@@Z
 ?initMaxExpansions@RuleBasedCollator@icu_58@@AEBACAEAW4UErrorCode@@@Z
 ?initMeasureFormat@MeasureFormat@icu_58@@IEAAXAEBVLocale@2@W4UMeasureFormatWidth@@PEAVNumberFormat@2@AEAW4UErrorCode@@@Z
-?initNameFromLocale@LocaleUtility@icu_58@@SAAEAVUnicodeString@2@AEBVLocale@2@AEAV32@@Z
 ?initNumberFormatters@SimpleDateFormat@icu_58@@AEAAXAEBVLocale@2@AEAW4UErrorCode@@@Z
 ?initStartTimes@TimeArrayTimeZoneRule@icu_58@@AEAACQEBNHAEAW4UErrorCode@@@Z
 ?initTime@MeasureUnit@icu_58@@IEAAXPEBD@Z
@@ -4136,9 +3394,6 @@ $~#E3
 ?initializeSystemDefaultCentury@IslamicCalendar@icu_58@@CAXXZ
 ?input@RegexMatcher@icu_58@@UEBAAEBVUnicodeString@2@XZ
 ?inputText@RegexMatcher@icu_58@@UEBAPEAUUText@@XZ
-?insertElementAt@UVector32@icu_58@@QEAAXHHAEAW4UErrorCode@@@Z
-?insertElementAt@UVector64@icu_58@@QEAAX_JHAEAW4UErrorCode@@@Z
-?insertElementAt@UVector@icu_58@@QEAAXPEAXHAEAW4UErrorCode@@@Z
 ?insertNodeBetween@CollationBuilder@icu_58@@AEAAHHH_JAEAW4UErrorCode@@@Z
 ?insertOp@RegexCompile@icu_58@@AEAAXH@Z
 ?insertTailoredNodeAfter@CollationBuilder@icu_58@@AEAAHHHAEAW4UErrorCode@@@Z
@@ -4202,7 +3457,6 @@ $~#E3
 ?isDigit@CollationData@icu_58@@QEBACH@Z
 ?isEmpty@ScriptSet@icu_58@@QEBACXZ
 ?isEmpty@TextTrieMap@icu_58@@QEBAHXZ
-?isEmpty@UnicodeSet@icu_58@@UEBACXZ
 ?isEndOfPrimaryRange@CollationRootElements@icu_58@@CACI@Z
 ?isEquivalentTo@AnnualTimeZoneRule@icu_58@@UEBACAEBVTimeZoneRule@2@@Z
 ?isEquivalentTo@Calendar@icu_58@@UEBACAEBV12@@Z
@@ -4221,7 +3475,6 @@ $~#E3
 ?isGroupingEnabled@DigitGrouping@icu_58@@AEBACH@Z
 ?isGroupingUsed@DigitGrouping@icu_58@@QEBACXZ
 ?isGroupingUsed@NumberFormat@icu_58@@QEBACXZ
-?isIdentifier@PatternProps@icu_58@@SACPEB_WH@Z
 ?isIgnorable@CollationElementIterator@icu_58@@SACH@Z
 ?isInfinite@DigitList@icu_58@@QEBACXZ
 ?isInfinite@VisibleDigits@icu_58@@QEBACXZ
@@ -4278,7 +3531,6 @@ $~#E3
 ?isValidValue@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEBACH@Z
 ?isWeekend@Calendar@icu_58@@UEBACNAEAW4UErrorCode@@@Z
 ?isWeekend@Calendar@icu_58@@UEBACXZ
-?isWhiteSpace@PatternProps@icu_58@@SACH@Z
 ?isWordBoundary@RegexMatcher@icu_58@@AEAAC_J@Z
 ?isZero@DigitList@icu_58@@QEBACXZ
 ?iterator@AffixPattern@icu_58@@QEBAAEAVAffixPatternIterator@2@AEAV32@@Z
@@ -4295,16 +3547,11 @@ $~#E3
 ?kYearPrecedence@Calendar@icu_58@@1QAY1M@7$$CBHA
 ?last@SearchIterator@icu_58@@QEAAHAEAW4UErrorCode@@@Z
 ?lastCEWithPrimaryBefore@CollationRootElements@icu_58@@QEBA_JI@Z
-?lastElementi@UVector32@icu_58@@QEBAHXZ
-?lastIndexOf@UnicodeString@icu_58@@QEBAHPEB_WHH@Z
-?lastIndexOf@UnicodeString@icu_58@@QEBAH_WH@Z
 ?latinCE0FromCE32@Collation@icu_58@@SA_JI@Z
 ?latinCE1FromCE32@Collation@icu_58@@SA_JI@Z
 ?lcccBits@CollationFCD@icu_58@@0QBIB
 ?lcccIndex@CollationFCD@icu_58@@0QBEB
 ?length@DigitInterval@icu_58@@QEBAHXZ
-?length@Replaceable@icu_58@@QEBAHXZ
-?length@UnicodeString@icu_58@@QEBAHXZ
 ?lengthFromCE32@Collation@icu_58@@SAHI@Z
 ?lengthOfTable@CollationFastLatinBuilder@icu_58@@QEBAHXZ
 ?lengthOfWeight@CollationWeights@icu_58@@SAHI@Z
@@ -4331,7 +3578,6 @@ $~#E3
 ?makeCE32FromTagIndexAndLength@Collation@icu_58@@SAIHHH@Z
 ?makeCE@Collation@icu_58@@SA_JI@Z
 ?makeCE@Collation@icu_58@@SA_JIIII@Z
-?makeFCD@Normalizer2Impl@icu_58@@QEBAPEB_WPEB_W0PEAVReorderingBuffer@2@AEAW4UErrorCode@@@Z
 ?makeInstance@Calendar@icu_58@@SAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?makeInstance@Collator@icu_58@@CAPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
 ?makeInstance@NumberFormat@icu_58@@CAPEAV12@AEBVLocale@2@W4UNumberFormatStyle@@AEAW4UErrorCode@@@Z
@@ -4359,8 +3605,6 @@ $~#E3
 ?matches@RegexMatcher@icu_58@@UEAAC_JAEAW4UErrorCode@@@Z
 ?matches@RegexPattern@icu_58@@SACAEBVUnicodeString@2@0AEAUUParseError@@AEAW4UErrorCode@@@Z
 ?matches@RegexPattern@icu_58@@SACPEAUUText@@0AEAUUParseError@@AEAW4UErrorCode@@@Z
-?matches@UnicodeSet@icu_58@@UEAA?AW4UMatchDegree@2@AEBVReplaceable@2@AEAHHC@Z
-?matchesIndexValue@UnicodeSet@icu_58@@EEBACE@Z
 ?maxMatchLength@RegexCompile@icu_58@@AEAAHHH@Z
 ?mayHaveLccc@CollationFCD@icu_58@@SACH@Z
 ?maybeSetPrimaryRange@CollationDataBuilder@icu_58@@QEAACHHIHAEAW4UErrorCode@@@Z
@@ -4374,8 +3618,6 @@ $~#E3
 ?monthStart@IslamicCalendar@icu_58@@AEBAHHH@Z
 ?monthsInYear@HebrewCalendar@icu_58@@CAHH@Z
 ?moonAge@IslamicCalendar@icu_58@@CANNAEAW4UErrorCode@@@Z
-?moveFrom@UnicodeString@icu_58@@QEAAAEAV12@AEAV12@@Z
-?moveIndex32@UnicodeString@icu_58@@QEBAHHH@Z
 ?mult@DigitList@icu_58@@QEAAXAEBV12@AEAW4UErrorCode@@@Z
 ?needsPluralRules@DigitAffixesAndPadding@icu_58@@QEBACXZ
 ?newMoonNear@ChineseCalendar@icu_58@@EEBAHNC@Z
@@ -4383,15 +3625,10 @@ $~#E3
 ?newerField@Calendar@icu_58@@IEBA?AW4UCalendarDateFields@@W43@0@Z
 ?newestStamp@Calendar@icu_58@@IEBAHW4UCalendarDateFields@@0H@Z
 ?next@?$PluralMap@VDigitAffix@icu_58@@@icu_58@@QEBAPEBVDigitAffix@2@AEAW4Category@PluralMapBase@2@@Z
-?next@CanonicalIterator@icu_58@@QEAA?AVUnicodeString@2@XZ
 ?next@CollationElementIterator@icu_58@@QEAAHAEAW4UErrorCode@@@Z
 ?next@FieldPositionIterator@icu_58@@QEAACAEAVFieldPosition@2@@Z
-?next@Iterator@UCharsTrie@icu_58@@QEAACAEAW4UErrorCode@@@Z
 ?next@PluralAvailableLocalesEnumeration@icu_58@@UEAAPEBDPEAHAEAW4UErrorCode@@@Z
 ?next@SearchIterator@icu_58@@QEAAHAEAW4UErrorCode@@@Z
-?next@StringEnumeration@icu_58@@UEAAPEBDPEAHAEAW4UErrorCode@@@Z
-?next@UStringEnumeration@icu_58@@UEAAPEBDPEAHAEAW4UErrorCode@@@Z
-?next@UnicodeSetIterator@icu_58@@QEAACXZ
 ?nextBucket@AlphabeticIndex@icu_58@@UEAACAEAW4UErrorCode@@@Z
 ?nextCE32FromContraction@CollationIterator@icu_58@@AEAAIPEBUCollationData@2@IPEB_WIHAEAW4UErrorCode@@@Z
 ?nextCE32FromDiscontiguousContraction@CollationIterator@icu_58@@AEAAIPEBUCollationData@2@AEAVUCharsTrie@2@IHHAEAW4UErrorCode@@@Z
@@ -4405,9 +3642,6 @@ $~#E3
 ?nextCodePoint@UIterCollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
 ?nextCodePoint@UTF16CollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
 ?nextCodePoint@UTF8CollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
-?nextElement@Hashtable@icu_58@@QEBAPEBUUHashElement@@AEAH@Z
-?nextFCD16@Normalizer2Impl@icu_58@@QEBAGAEAPEB_WPEB_W@Z
-?nextForCodePoint@UCharsTrie@icu_58@@QEAA?AW4UStringTrieResult@@H@Z
 ?nextHasLccc@FCDUTF8CollationIterator@icu_58@@AEBACXZ
 ?nextIndexFromNode@CollationBuilder@icu_58@@CAH_J@Z
 ?nextMutable@?$PluralMap@VDigitAffix@icu_58@@@icu_58@@QEAAPEAVDigitAffix@2@AEAW4Category@PluralMapBase@2@@Z
@@ -4432,17 +3666,13 @@ $~#E3
 ?normalize@FCDUIterCollationIterator@icu_58@@AEAACAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?normalize@FCDUTF16CollationIterator@icu_58@@AEAACPEB_W0AEAW4UErrorCode@@@Z
 ?normalize@FCDUTF8CollationIterator@icu_58@@AEAACAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?normalize@Normalizer2@icu_58@@QEBA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?normalizeDir@CollationElementIterator@icu_58@@AEBACXZ
-?notifyChanged@ICUNotifier@icu_58@@UEAAXXZ
-?notifyListener@ICUService@icu_58@@MEBAXAEAVEventListener@2@@Z
 ?offsetMonth@ChineseCalendar@icu_58@@EEAAXHHH@Z
 ?optimize@CollationBuilder@icu_58@@EEAAXAEBVUnicodeSet@2@AEAPEBDAEAW4UErrorCode@@@Z
 ?optimize@CollationDataBuilder@icu_58@@QEAAXAEBVUnicodeSet@2@AEAW4UErrorCode@@@Z
 ?optimize@Sink@CollationRuleParser@icu_58@@UEAAXAEBVUnicodeSet@3@AEAPEBDAEAW4UErrorCode@@@Z
 ?orOtherFromString@StandardPlural@icu_58@@SA?AW4Form@12@AEBVUnicodeString@2@@Z
 ?orOtherFromString@StandardPlural@icu_58@@SA?AW4Form@12@PEBD@Z
-?orphanElementAt@UVector@icu_58@@QEAAPEAXH@Z
 ?orphanFilter@Transliterator@icu_58@@QEAAPEAVUnicodeFilter@2@XZ
 ?orphanOrClone@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEAAPEAUdecNumber@@HAEAH@Z
 ?orphanTimeZone@Calendar@icu_58@@QEAAPEAVTimeZone@2@XZ
@@ -4459,7 +3689,6 @@ $~#E3
 ?parse@MessageFormat@icu_58@@AEBAPEAVFormattable@2@HAEBVUnicodeString@2@AEAVParsePosition@2@AEAHAEAW4UErrorCode@@@Z
 ?parse@MessageFormat@icu_58@@UEBAPEAVFormattable@2@AEBVUnicodeString@2@AEAHAEAW4UErrorCode@@@Z
 ?parse@MessageFormat@icu_58@@UEBAPEAVFormattable@2@AEBVUnicodeString@2@AEAVParsePosition@2@AEAH@Z
-?parse@MessagePattern@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@PEAUUParseError@@AEAW4UErrorCode@@@Z
 ?parse@NumberFormat@icu_58@@UEBAXAEBVUnicodeString@2@AEAVFormattable@2@AEAW4UErrorCode@@@Z
 ?parse@RuleBasedNumberFormat@icu_58@@UEBAXAEBVUnicodeString@2@AEAVFormattable@2@AEAVParsePosition@2@@Z
 ?parse@SimpleDateFormat@icu_58@@UEBAXAEBVUnicodeString@2@AEAVCalendar@2@AEAVParsePosition@2@@Z
@@ -4473,8 +3702,6 @@ $~#E3
 ?parseAndBuild@CollationBuilder@icu_58@@QEAAPEAUCollationTailoring@2@AEBVUnicodeString@2@QEBEPEAVImporter@CollationRuleParser@2@PEAUUParseError@@AEAW4UErrorCode@@@Z
 ?parseArgument@ChoiceFormat@icu_58@@CANAEBVMessagePattern@2@HAEBVUnicodeString@2@AEAVParsePosition@2@@Z
 ?parseAsciiOffsetFields@TimeZoneFormat@icu_58@@CAHAEBVUnicodeString@2@AEAVParsePosition@2@_WW4OffsetFields@12@3@Z
-?parseChar@ICU_Utility@icu_58@@SACAEBVUnicodeString@2@AEAH_W@Z
-?parseChoiceStyle@MessagePattern@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@PEAUUParseError@@AEAW4UErrorCode@@@Z
 ?parseCurrency@CompactDecimalFormat@icu_58@@UEBAPEAVCurrencyAmount@2@AEBVUnicodeString@2@AEAVParsePosition@2@@Z
 ?parseCurrency@DecimalFormat@icu_58@@UEBAPEAVCurrencyAmount@2@AEBVUnicodeString@2@AEAVParsePosition@2@@Z
 ?parseCurrency@NumberFormat@icu_58@@UEBAPEAVCurrencyAmount@2@AEBVUnicodeString@2@AEAVParsePosition@2@@Z
@@ -4484,7 +3711,6 @@ $~#E3
 ?parseForCurrency@DecimalFormat@icu_58@@AEBACAEBVUnicodeString@2@AEAVParsePosition@2@AEAVDigitList@2@PEACPEA_W@Z
 ?parseInt@SimpleDateFormat@icu_58@@AEBAXAEBVUnicodeString@2@AEAVFormattable@2@AEAVParsePosition@2@CPEAVNumberFormat@2@@Z
 ?parseInt@SimpleDateFormat@icu_58@@AEBAXAEBVUnicodeString@2@AEAVFormattable@2@HAEAVParsePosition@2@CPEAVNumberFormat@2@@Z
-?parseNumber@ICU_Utility@icu_58@@SAHAEBVUnicodeString@2@AEAHC@Z
 ?parseObject@DateFormat@icu_58@@UEBAXAEBVUnicodeString@2@AEAVFormattable@2@AEAVParsePosition@2@@Z
 ?parseObject@DateIntervalFormat@icu_58@@UEBAXAEBVUnicodeString@2@AEAVFormattable@2@AEAVParsePosition@2@@Z
 ?parseObject@DummyFormat@MessageFormat@icu_58@@UEBAXAEBVUnicodeString@3@AEAVFormattable@3@AEAVParsePosition@3@@Z
@@ -4507,17 +3733,13 @@ $~#E3
 ?parseOffsetLocalizedGMTPattern@TimeZoneFormat@icu_58@@AEBAHAEBVUnicodeString@2@HCAEAH@Z
 ?parseOffsetPattern@TimeZoneFormat@icu_58@@CAPEAVUVector@2@AEBVUnicodeString@2@W4OffsetFields@12@AEAW4UErrorCode@@@Z
 ?parseOffsetShortLocalizedGMT@TimeZoneFormat@icu_58@@QEBAHAEBVUnicodeString@2@AEAVParsePosition@2@@Z
-?parsePattern@ICU_Utility@icu_58@@SAHAEBVUnicodeString@2@AEBVReplaceable@2@HH@Z
-?parsePattern@ICU_Utility@icu_58@@SAHAEBVUnicodeString@2@HH0PEAH@Z
 ?parsePattern@SimpleDateFormat@icu_58@@AEAAXXZ
-?parsePluralStyle@MessagePattern@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@PEAUUParseError@@AEAW4UErrorCode@@@Z
 ?parseRelationOperator@CollationRuleParser@icu_58@@AEAAHAEAW4UErrorCode@@@Z
 ?parseRelationStrings@CollationRuleParser@icu_58@@AEAAXHHAEAW4UErrorCode@@@Z
 ?parseReordering@CollationRuleParser@icu_58@@AEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?parseResetAndPosition@CollationRuleParser@icu_58@@AEAAHAEAW4UErrorCode@@@Z
 ?parseRuleChain@CollationRuleParser@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?parseScripts@ScriptSet@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?parseSelectStyle@MessagePattern@icu_58@@QEAAAEAV12@AEBVUnicodeString@2@PEAUUParseError@@AEAW4UErrorCode@@@Z
 ?parseSetting@CollationRuleParser@icu_58@@AEAAXAEAW4UErrorCode@@@Z
 ?parseShortZoneID@TimeZoneFormat@icu_58@@AEBAAEAVUnicodeString@2@AEBV32@AEAVParsePosition@2@AEAV32@@Z
 ?parseSingleLocalizedDigit@TimeZoneFormat@icu_58@@AEBAHAEBVUnicodeString@2@HAEAH@Z
@@ -4527,11 +3749,9 @@ $~#E3
 ?parseString@CollationRuleParser@icu_58@@AEAAHHAEAVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?parseTailoringString@CollationRuleParser@icu_58@@AEAAHHAEAVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?parseType@PluralFormat@icu_58@@AEBAXAEBVUnicodeString@2@PEBVNFRule@2@AEAVFormattable@2@AEAVFieldPosition@2@@Z
-?parseUnicodeIdentifier@ICU_Utility@icu_58@@SA?AVUnicodeString@2@AEBV32@AEAH@Z
 ?parseUnicodeSet@CollationRuleParser@icu_58@@AEAAHHAEAVUnicodeSet@2@AEAW4UErrorCode@@@Z
 ?parseUserAffixString@AffixPattern@icu_58@@SAAEAV12@AEBVUnicodeString@2@AEAV12@AEAW4UErrorCode@@@Z
 ?parseZoneID@TimeZoneFormat@icu_58@@AEBAAEAVUnicodeString@2@AEBV32@AEAVParsePosition@2@AEAV32@@Z
-?partSubstringMatches@MessagePattern@icu_58@@QEBACAEBVPart@12@AEBVUnicodeString@2@@Z
 ?pattern@RegexMatcher@icu_58@@UEBAAEBVRegexPattern@2@XZ
 ?pattern@RegexPattern@icu_58@@UEBA?AVUnicodeString@2@XZ
 ?patternText@RegexPattern@icu_58@@UEBAPEAUUText@@AEAW4UErrorCode@@@Z
@@ -4540,11 +3760,6 @@ $~#E3
 ?pinDayOfMonth@GregorianCalendar@icu_58@@IEAAXXZ
 ?pinField@Calendar@icu_58@@MEAAXW4UCalendarDateFields@@AEAW4UErrorCode@@@Z
 ?pointerToken@Transliterator@icu_58@@SA?ATToken@12@PEAX@Z
-?pop@UStack@icu_58@@QEAAPEAXXZ
-?popFrame@UVector64@icu_58@@QEAAPEA_JH@Z
-?popi@UStack@icu_58@@QEAAHXZ
-?popi@UVector32@icu_58@@QEAAHXZ
-?popi@UVector64@icu_58@@QEAA_JXZ
 ?preceding@SearchIterator@icu_58@@QEAAHHAEAW4UErrorCode@@@Z
 ?prepareFixedDecimalFormatting@ValueFormatter@icu_58@@QEAAXAEBVDigitFormatter@2@AEBVDigitGrouping@2@AEBVFixedPrecision@2@AEBVDigitFormatterOptions@2@@Z
 ?prepareGetActual@Calendar@icu_58@@MEAAXW4UCalendarDateFields@@CAEAW4UErrorCode@@@Z
@@ -4559,7 +3774,6 @@ $~#E3
 ?previousCodePoint@UIterCollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
 ?previousCodePoint@UTF16CollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
 ?previousCodePoint@UTF8CollationIterator@icu_58@@UEAAHAEAW4UErrorCode@@@Z
-?previousFCD16@Normalizer2Impl@icu_58@@QEBAGPEB_WAEAPEB_W@Z
 ?previousHasTccc@FCDUTF8CollationIterator@icu_58@@AEBACXZ
 ?previousIndexFromNode@CollationBuilder@icu_58@@CAH_J@Z
 ?previousSegment@FCDUIterCollationIterator@icu_58@@AEAACAEAW4UErrorCode@@@Z
@@ -4568,17 +3782,16 @@ $~#E3
 ?primaryFromLongPrimaryCE32@Collation@icu_58@@SAII@Z
 ?primaryOrder@CollationElementIterator@icu_58@@SAHH@Z
 ?processOverrideString@SimpleDateFormat@icu_58@@AEAAXAEBVLocale@2@AEBVUnicodeString@2@CAEAW4UErrorCode@@@Z
-?put@Hashtable@icu_58@@QEAAPEAXAEBVUnicodeString@2@PEAXAEAW4UErrorCode@@@Z
 ?put@TextTrieMap@icu_58@@QEAAXAEBVUnicodeString@2@PEAXAEAVZNStringPool@2@AEAW4UErrorCode@@@Z
 ?put@TextTrieMap@icu_58@@QEAAXPEB_WPEAXAEAW4UErrorCode@@@Z
 ?putImpl@TextTrieMap@icu_58@@AEAAXAEBVUnicodeString@2@PEAXAEAW4UErrorCode@@@Z
-?puti@Hashtable@icu_58@@QEAAHAEBVUnicodeString@2@HAEAW4UErrorCode@@@Z
+?qBJ
 ?quantize@DigitList@icu_58@@QEAAXAEBV12@AEAW4UErrorCode@@@Z
 ?quickInit@FixedDecimal@icu_58@@QEAACN@Z
+?rAj
 ?rawOffsetAt@OlsonTimeZone@icu_58@@AEBAHF@Z
 ?rbcFromUCollator@RuleBasedCollator@icu_58@@SAPEAV12@PEAUUCollator@@@Z
 ?rbcFromUCollator@RuleBasedCollator@icu_58@@SAPEBV12@PEBUUCollator@@@Z
-?reInitializeFactories@ICUService@icu_58@@MEAAXXZ
 ?read@CollationDataReader@icu_58@@SAXPEBUCollationTailoring@2@PEBEHAEAU32@AEAW4UErrorCode@@@Z
 ?readCE32@CollationData@icu_58@@SAIPEB_W@Z
 ?readFromCurrentLocale@TimeUnitFormat@icu_58@@AEAAXW4UTimeUnitFormatStyle@@PEBDAEBVUVector@2@AEAW4UErrorCode@@@Z
@@ -4596,40 +3809,19 @@ $~#E3
 ?registerAlias@Transliterator@icu_58@@SAXAEBVUnicodeString@2@0@Z
 ?registerFactory@Calendar@icu_58@@SAPEBXPEAVICUServiceFactory@2@AEAW4UErrorCode@@@Z
 ?registerFactory@Collator@icu_58@@SAPEBXPEAVCollatorFactory@2@AEAW4UErrorCode@@@Z
-?registerFactory@ICUService@icu_58@@UEAAPEBXPEAVICUServiceFactory@2@AEAW4UErrorCode@@@Z
 ?registerFactory@NumberFormat@icu_58@@SAPEBXPEAVNumberFormatFactory@2@AEAW4UErrorCode@@@Z
 ?registerFactory@Transliterator@icu_58@@SAXAEBVUnicodeString@2@P6APEAV12@0TToken@12@@Z1@Z
 ?registerInstance@Collator@icu_58@@SAPEBXPEAV12@AEBVLocale@2@AEAW4UErrorCode@@@Z
-?registerInstance@ICULocaleService@icu_58@@UEAAPEBXPEAVUObject@2@AEBVLocale@2@AEAW4UErrorCode@@@Z
-?registerInstance@ICULocaleService@icu_58@@UEAAPEBXPEAVUObject@2@AEBVLocale@2@HAEAW4UErrorCode@@@Z
-?registerInstance@ICULocaleService@icu_58@@UEAAPEBXPEAVUObject@2@AEBVLocale@2@HHAEAW4UErrorCode@@@Z
-?registerInstance@ICULocaleService@icu_58@@UEAAPEBXPEAVUObject@2@AEBVUnicodeString@2@CAEAW4UErrorCode@@@Z
 ?registerInstance@Transliterator@icu_58@@SAXPEAV12@@Z
-?releaseBuffer@UnicodeString@icu_58@@QEAAXH@Z
 ?releaseMemory@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@AEAAXXZ
 ?remove@?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEAAXW4UDateFormatBooleanAttribute@@@Z
 ?remove@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEAAXW4UNumberFormatAttribute@@@Z
 ?remove@AffixPattern@icu_58@@QEAAXXZ
 ?remove@DigitAffix@icu_58@@QEAAXXZ
-?remove@Hashtable@icu_58@@QEAAPEAXAEBVUnicodeString@2@@Z
 ?remove@PluralAffix@icu_58@@QEAAXXZ
-?remove@UnicodeSet@icu_58@@QEAAAEAV12@H@Z
-?remove@UnicodeSet@icu_58@@UEAAAEAV12@HH@Z
-?remove@UnicodeString@icu_58@@QEAAAEAV12@XZ
-?removeAll@Hashtable@icu_58@@QEAAXXZ
-?removeAll@UnicodeSet@icu_58@@UEAAAEAV12@AEBV12@@Z
-?removeAllElements@UVector32@icu_58@@QEAAXXZ
-?removeAllElements@UVector64@icu_58@@QEAAXXZ
-?removeAllElements@UVector@icu_58@@QEAAXXZ
-?removeAllStrings@UnicodeSet@icu_58@@UEAAAEAV12@XZ
-?removeElement@UVector@icu_58@@QEAACPEAX@Z
-?removeElementAt@UVector@icu_58@@QEAAXH@Z
-?removeListener@ICUNotifier@icu_58@@UEAAXPEBVEventListener@2@AEAW4UErrorCode@@@Z
-?removeRef@SharedObject@icu_58@@AEBAXC@Z
 ?reorder@CollationSettings@icu_58@@QEBAII@Z
 ?reorderEx@CollationSettings@icu_58@@AEBAII@Z
 ?reorderTableHasSplitBytes@CollationSettings@icu_58@@SACQEBE@Z
-?replace@UnicodeString@icu_58@@QEAAAEAV12@HHH@Z
 ?replaceAll@RegexMatcher@icu_58@@UEAA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?replaceAll@RegexMatcher@icu_58@@UEAAPEAUUText@@PEAU3@0AEAW4UErrorCode@@@Z
 ?replaceFieldTypes@DateTimePatternGenerator@icu_58@@QEAA?AVUnicodeString@2@AEBV32@0AEAW4UErrorCode@@@Z
@@ -4637,13 +3829,9 @@ $~#E3
 ?replaceFirst@RegexMatcher@icu_58@@UEAA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?replaceFirst@RegexMatcher@icu_58@@UEAAPEAUUText@@PEAU3@0AEAW4UErrorCode@@@Z
 ?requireEnd@RegexMatcher@icu_58@@UEBACXZ
-?resemblesPattern@UnicodeSet@icu_58@@SACAEBVUnicodeString@2@H@Z
-?reserveBlock@UVector64@icu_58@@QEAAPEA_JHAEAW4UErrorCode@@@Z
-?reset@CanonicalIterator@icu_58@@QEAAXXZ
 ?reset@CollationElementIterator@icu_58@@QEAAXXZ
 ?reset@CollationIterator@icu_58@@IEAAXXZ
 ?reset@CollationKey@icu_58@@AEAAAEAV12@XZ
-?reset@ICUService@icu_58@@UEAAXXZ
 ?reset@PluralAvailableLocalesEnumeration@icu_58@@UEAAXAEAW4UErrorCode@@@Z
 ?reset@PluralSelectorAdapter@PluralFormat@icu_58@@QEAAXXZ
 ?reset@PluralSelectorProvider@MessageFormat@icu_58@@QEAAXXZ
@@ -4655,7 +3843,6 @@ $~#E3
 ?reset@ScriptSet@icu_58@@QEAAAEAV12@W4UScriptCode@@AEAW4UErrorCode@@@Z
 ?reset@SearchIterator@icu_58@@UEAAXXZ
 ?reset@StringSearch@icu_58@@UEAAXXZ
-?reset@UStringEnumeration@icu_58@@UEAAXAEAW4UErrorCode@@@Z
 ?resetAll@ScriptSet@icu_58@@QEAAAEAV12@XZ
 ?resetBucketIterator@AlphabeticIndex@icu_58@@UEAAAEAV12@AEAW4UErrorCode@@@Z
 ?resetCEs@CollationFastLatinBuilder@icu_58@@AEAAXXZ
@@ -4673,8 +3860,6 @@ $~#E3
 ?resize@?$MaybeStackHeaderAndArray@UdecNumber@@D$0CI@@icu_58@@QEAAPEAUdecNumber@@HH@Z
 ?resolveFields@Calendar@icu_58@@IEAA?AW4UCalendarDateFields@@PEAY1M@7$$CBH@Z
 ?resolveUnitPerUnit@MeasureUnit@icu_58@@SAPEAV12@AEBV12@0@Z
-?retain@UnicodeSet@icu_58@@UEAAAEAV12@HH@Z
-?retainAll@UnicodeSet@icu_58@@UEAAAEAV12@AEBV12@@Z
 ?riseOrSet@CalendarAstronomer@icu_58@@QEAANAEAVCoordFunc@12@CNNN@Z
 ?roll@Calendar@icu_58@@QEAAXW4EDateFields@12@CAEAW4UErrorCode@@@Z
 ?roll@Calendar@icu_58@@QEAAXW4UCalendarDateFields@@CAEAW4UErrorCode@@@Z
@@ -4711,7 +3896,6 @@ $~#E3
 ?select@PluralSelectorProvider@MessageFormat@icu_58@@UEBA?AVUnicodeString@3@PEAXNAEAW4UErrorCode@@@Z
 ?selectPlural@QuantityFormatter@icu_58@@SA?AW4Form@StandardPlural@2@AEBVFormattable@2@AEBVNumberFormat@2@AEBVPluralRules@2@AEAVUnicodeString@2@AEAVFieldPosition@2@AEAW4UErrorCode@@@Z
 ?separated@AlphabeticIndex@icu_58@@CA?AVUnicodeString@2@AEBV32@@Z
-?serialize@UnicodeSet@icu_58@@QEBAHPEAGHAEAW4UErrorCode@@@Z
 ?set2DigitYearStart@SimpleDateFormat@icu_58@@UEAAXNAEAW4UErrorCode@@@Z
 ?set@?$EnumSet@W4UDateFormatBooleanAttribute@@$0A@$03@icu_58@@QEAAXW4UDateFormatBooleanAttribute@@H@Z
 ?set@?$EnumSet@W4UNumberFormatAttribute@@$0BAAA@$0BAAD@@icu_58@@QEAAXW4UNumberFormatAttribute@@H@Z
@@ -4729,7 +3913,6 @@ $~#E3
 ?set@Horizon@CalendarAstronomer@icu_58@@QEAAXNN@Z
 ?set@MoonAge@CalendarAstronomer@icu_58@@QEAAXN@Z
 ?set@ScriptSet@icu_58@@QEAAAEAV12@W4UScriptCode@@AEAW4UErrorCode@@@Z
-?set@UnicodeSet@icu_58@@QEAAAEAV12@HH@Z
 ?setAlgorithmic@NumberingSystem@icu_58@@AEAAXC@Z
 ?setAll@ScriptSet@icu_58@@QEAAAEAV12@XZ
 ?setAlternateHandling@CollationSettings@icu_58@@QEAAXW4UColAttributeValue@@HAEAW4UErrorCode@@@Z
@@ -4752,13 +3935,10 @@ $~#E3
 ?setCalendarLenient@DateFormat@icu_58@@UEAAXC@Z
 ?setCaseBits@CollationBuilder@icu_58@@AEAAXAEBVUnicodeString@2@AEAPEBDAEAW4UErrorCode@@@Z
 ?setCaseFirst@CollationSettings@icu_58@@QEAAXW4UColAttributeValue@@HAEAW4UErrorCode@@@Z
-?setCharAt@UnicodeString@icu_58@@QEAAAEAV12@H_W@Z
-?setChars@StringEnumeration@icu_58@@IEAAPEAVUnicodeString@2@PEBDHAEAW4UErrorCode@@@Z
 ?setChoices@ChoiceFormat@icu_58@@EEAAXPEBNPEBCPEBVUnicodeString@2@HAEAW4UErrorCode@@@Z
 ?setChoices@ChoiceFormat@icu_58@@UEAAXPEBNPEBCPEBVUnicodeString@2@H@Z
 ?setChoices@ChoiceFormat@icu_58@@UEAAXPEBNPEBVUnicodeString@2@H@Z
 ?setCollator@StringSearch@icu_58@@QEAAXPEAVRuleBasedCollator@2@AEAW4UErrorCode@@@Z
-?setComparer@UVector@icu_58@@QEAAP6ACTUElement@@0@ZP6AC00@Z@Z
 ?setContext@DateFormat@icu_58@@UEAAXW4UDisplayContext@@AEAW4UErrorCode@@@Z
 ?setContext@DecimalFormat@icu_58@@UEAAXW4UDisplayContext@@AEAW4UErrorCode@@@Z
 ?setContext@NumberFormat@icu_58@@UEAAXW4UDisplayContext@@AEAW4UErrorCode@@@Z
@@ -4775,7 +3955,6 @@ $~#E3
 ?setCustomArgStartFormat@MessageFormat@icu_58@@AEAAXHPEAVFormat@2@AEAW4UErrorCode@@@Z
 ?setDSTSavings@SimpleTimeZone@icu_58@@QEAAXHAEAW4UErrorCode@@@Z
 ?setData@FieldPositionIterator@icu_58@@AEAAXPEAVUVector32@2@AEAW4UErrorCode@@@Z
-?setData@UnicodeFilter@icu_58@@UEAAXPEBVTransliterationRuleData@2@@Z
 ?setDate@CalendarAstronomer@icu_58@@QEAAXN@Z
 ?setDate@Formattable@icu_58@@QEAAXN@Z
 ?setDateFormatSymbols@SimpleDateFormat@icu_58@@UEAAXAEBVDateFormatSymbols@2@@Z
@@ -4796,14 +3975,10 @@ $~#E3
 ?setDefault@TimeZone@icu_58@@SAXAEBV12@@Z
 ?setDefaultParseOptions@TimeZoneFormat@icu_58@@QEAAXI@Z
 ?setDefaultRuleSet@RuleBasedNumberFormat@icu_58@@UEAAXAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?setDeleter@UVector@icu_58@@QEAAP6AXPEAX@ZP6AX0@Z@Z
 ?setDesc@NumberingSystem@icu_58@@AEAAXVUnicodeString@2@@Z
 ?setDigit@DigitList@icu_58@@QEAAXHD@Z
 ?setDigitTags@CollationDataBuilder@icu_58@@IEAAXAEAW4UErrorCode@@@Z
 ?setDouble@Formattable@icu_58@@QEAAXN@Z
-?setElementAt@UVector32@icu_58@@QEAAXHH@Z
-?setElementAt@UVector64@icu_58@@QEAAX_JH@Z
-?setElementAt@UVector@icu_58@@QEAAXPEAXH@Z
 ?setEndIndex@FieldPosition@icu_58@@QEAAXH@Z
 ?setEndRule@SimpleTimeZone@icu_58@@QEAAXHHHAEAW4UErrorCode@@@Z
 ?setEndRule@SimpleTimeZone@icu_58@@QEAAXHHHHAEAW4UErrorCode@@@Z
@@ -4851,7 +4026,6 @@ $~#E3
 ?setIntervalPattern@DateIntervalInfo@icu_58@@QEAAXAEBVUnicodeString@2@W4UCalendarDateFields@@0AEAW4UErrorCode@@@Z
 ?setIntervalPatternInternally@DateIntervalInfo@icu_58@@AEAAXAEBVUnicodeString@2@W4UCalendarDateFields@@0AEAW4UErrorCode@@@Z
 ?setJulianDay@CalendarAstronomer@icu_58@@QEAAXN@Z
-?setKeywordValue@Locale@icu_58@@QEAAXPEBD0AEAW4UErrorCode@@@Z
 ?setLastModified@VTimeZone@icu_58@@QEAAXN@Z
 ?setLeadSurrogates@CollationDataBuilder@icu_58@@IEAAXAEAW4UErrorCode@@@Z
 ?setLeastSignificantInclusive@DigitInterval@icu_58@@QEAAXH@Z
@@ -4866,8 +4040,6 @@ $~#E3
 ?setLocale@PluralFormat@icu_58@@QEAAXAEBVLocale@2@AEAW4UErrorCode@@@Z
 ?setLocale@TimeUnitFormat@icu_58@@QEAAXAEBVLocale@2@AEAW4UErrorCode@@@Z
 ?setLocaleIDs@Format@icu_58@@IEAAXPEBD0@Z
-?setLocaleIDs@LocaleBased@icu_58@@QEAAXAEBVLocale@2@0@Z
-?setLocaleIDs@LocaleBased@icu_58@@QEAAXPEBD0@Z
 ?setLocales@Collator@icu_58@@UEAAXAEBVLocale@2@00@Z
 ?setLocales@RuleBasedCollator@icu_58@@MEAAXAEBVLocale@2@00@Z
 ?setLong@Formattable@icu_58@@QEAAXH@Z
@@ -4876,7 +4048,6 @@ $~#E3
 ?setMatchNotFound@SearchIterator@icu_58@@IEAAXXZ
 ?setMatchStart@SearchIterator@icu_58@@MEAAXH@Z
 ?setMax@SignificantDigitInterval@icu_58@@QEAAXH@Z
-?setMaxCapacity@UVector64@icu_58@@QEAAXH@Z
 ?setMaxLabelCount@AlphabeticIndex@icu_58@@UEAAAEAV12@HAEAW4UErrorCode@@@Z
 ?setMaxVariable@CollationSettings@icu_58@@QEAAXHHAEAW4UErrorCode@@@Z
 ?setMaxVariable@Collator@icu_58@@UEAAAEAV12@W4UColReorderCode@@AEAW4UErrorCode@@@Z
@@ -4952,9 +4123,6 @@ $~#E3
 ?setShortWeekdays@DateFormatSymbols@icu_58@@QEAAXPEBVUnicodeString@2@H@Z
 ?setSignificantDigitsUsed@DecimalFormat@icu_58@@QEAAXC@Z
 ?setSink@CollationRuleParser@icu_58@@QEAAXPEAVSink@12@@Z
-?setSize@UVector32@icu_58@@QEAAXH@Z
-?setSize@UVector64@icu_58@@QEAAXH@Z
-?setSize@UVector@icu_58@@QEAAXHAEAW4UErrorCode@@@Z
 ?setSkippedWallTimeOption@Calendar@icu_58@@QEAAXW4UCalendarWallTimeOption@@@Z
 ?setStackLimit@RegexMatcher@icu_58@@UEAAXHAEAW4UErrorCode@@@Z
 ?setStartRule@SimpleTimeZone@icu_58@@QEAAXHHHAEAW4UErrorCode@@@Z
@@ -4991,19 +4159,11 @@ $~#E3
 ?setTo@DigitAffix@icu_58@@QEAAXAEBVUnicodeString@2@H@Z
 ?setTo@MeasureUnit@icu_58@@AEAAXHH@Z
 ?setTo@TimeZoneTransition@icu_58@@QEAAXAEBVTimeZoneRule@2@@Z
-?setTo@UnicodeString@icu_58@@QEAAAEAV12@AEBV12@H@Z
-?setTo@UnicodeString@icu_58@@QEAAAEAV12@CPEB_WH@Z
-?setTo@UnicodeString@icu_58@@QEAAAEAV12@PEA_WHH@Z
-?setTo@UnicodeString@icu_58@@QEAAAEAV12@_W@Z
 ?setToBogus@CollationKey@icu_58@@AEAAAEAV12@XZ
-?setToBogus@Locale@icu_58@@QEAAXXZ
-?setToBogus@UnicodeString@icu_58@@QEAAXXZ
 ?setToZero@DigitList@icu_58@@QEAAXXZ
 ?setTrace@RegexMatcher@icu_58@@QEAAXC@Z
 ?setTransliterators@CompoundTransliterator@icu_58@@QEAAXQEBQEAVTransliterator@2@H@Z
 ?setUnderflowLabel@AlphabeticIndex@icu_58@@UEAAAEAV12@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?setValueComparator@Hashtable@icu_58@@QEAAP6ACTUElement@@0@ZP6AC00@Z@Z
-?setValueDeleter@Hashtable@icu_58@@QEAAP6AXPEAX@ZP6AX0@Z@Z
 ?setVariableTop@RuleBasedCollator@icu_58@@UEAAIAEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?setVariableTop@RuleBasedCollator@icu_58@@UEAAIPEB_WHAEAW4UErrorCode@@@Z
 ?setVariableTop@RuleBasedCollator@icu_58@@UEAAXIAEAW4UErrorCode@@@Z
@@ -5022,7 +4182,6 @@ $~#E3
 ?shiftLast@FieldPositionHandler@icu_58@@UEAAXH@Z
 ?shrinkToFitWithin@DigitInterval@icu_58@@QEAAXAEBV12@@Z
 ?size@MatchInfoCollection@TimeZoneNames@icu_58@@QEBAHXZ
-?size@UnicodeSet@icu_58@@UEBAHXZ
 ?skipBidiMarks@DecimalFormat@icu_58@@CAHAEBVUnicodeString@2@H@Z
 ?skipComment@CollationRuleParser@icu_58@@AEBAHH@Z
 ?skipPadding@DecimalFormat@icu_58@@AEBAHAEBVUnicodeString@2@H@Z
@@ -5032,12 +4191,6 @@ $~#E3
 ?skipUWhiteSpace@SimpleDateFormat@icu_58@@AEBAHAEBVUnicodeString@2@H@Z
 ?skipUWhiteSpaceAndMarks@DecimalFormat@icu_58@@CAHAEBVUnicodeString@2@H@Z
 ?skipWhiteSpace@CollationRuleParser@icu_58@@AEBAHH@Z
-?skipWhiteSpace@PatternProps@icu_58@@SAPEB_WPEB_WH@Z
-?skipWhitespace@ICU_Utility@icu_58@@SAHAEBVUnicodeString@2@AEAHC@Z
-?snext@StringEnumeration@icu_58@@UEAAPEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?snext@UStringEnumeration@icu_58@@UEAAPEBVUnicodeString@2@AEAW4UErrorCode@@@Z
-?sort@UVector@icu_58@@QEAAXP6ACTUElement@@0@ZAEAW4UErrorCode@@@Z
-?sortWithUComparator@UVector@icu_58@@QEAAXP6AHPEBX00@Z0AEAW4UErrorCode@@@Z
 ?sortsTertiaryUpperCaseFirst@CollationSettings@icu_58@@SACH@Z
 ?split@RegexMatcher@icu_58@@UEAAHAEBVUnicodeString@2@QEAV32@HAEAW4UErrorCode@@@Z
 ?split@RegexMatcher@icu_58@@UEAAHPEAUUText@@QEAPEAU3@HAEAW4UErrorCode@@@Z
@@ -5049,8 +4202,6 @@ $~#E3
 ?start@RegexMatcher@icu_58@@UEBAHAEAW4UErrorCode@@@Z
 ?start@RegexMatcher@icu_58@@UEBAHHAEAW4UErrorCode@@@Z
 ?startOfYear@HebrewCalendar@icu_58@@CAHHAEAW4UErrorCode@@@Z
-?startsWith@UnicodeString@icu_58@@QEBACAEBV12@@Z
-?startsWith@UnicodeString@icu_58@@QEBACPEB_WH@Z
 ?staticGetBaseSkeleton@DateTimePatternGenerator@icu_58@@SA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?staticGetSkeleton@DateTimePatternGenerator@icu_58@@SA?AVUnicodeString@2@AEBV32@AEAW4UErrorCode@@@Z
 ?strengthFromNode@CollationBuilder@icu_58@@CAH_J@Z
@@ -5073,33 +4224,23 @@ $~#E3
 ?switchToForward@FCDUTF8CollationIterator@icu_58@@AEAAXXZ
 ?synodicMonthsBetween@ChineseCalendar@icu_58@@EEBAHHH@Z
 ?syntaxError@Format@icu_58@@KAXAEBVUnicodeString@2@HAEAUUParseError@@@Z
-?t_v>
 ?tagFromCE32@Collation@icu_58@@SAHI@Z
 ?tcccBits@CollationFCD@icu_58@@0QBIB
 ?tcccIndex@CollationFCD@icu_58@@0QBEB
 ?tempCEFromIndexAndStrength@CollationBuilder@icu_58@@CA_JHH@Z
-?tempSubString@UnicodeString@icu_58@@QEBA?AV12@HH@Z
 ?tertiaryOrder@CollationElementIterator@icu_58@@SAHH@Z
 ?test@ScriptSet@icu_58@@QEBACW4UScriptCode@@AEAW4UErrorCode@@@Z
 ?timeOfAngle@CalendarAstronomer@icu_58@@QEAANAEAVAngleFunc@12@NNNC@Z
-?toArray@UVector@icu_58@@QEBAPEAPEAXPEAPEAX@Z
-?toCategory@PluralMapBase@icu_58@@SA?AW4Category@12@AEBVUnicodeString@2@@Z
-?toCategory@PluralMapBase@icu_58@@SA?AW4Category@12@PEBD@Z
 ?toCodePoints@TimeZoneFormat@icu_58@@CACAEBVUnicodeString@2@PEAHH@Z
 ?toIntegralValue@DigitList@icu_58@@QEAAXXZ
 ?toLocalizedPattern@DecimalFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@@Z
 ?toLocalizedPattern@SimpleDateFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@AEAW4UErrorCode@@@Z
-?toLower@UnicodeString@icu_58@@QEAAAEAV12@AEBVLocale@2@@Z
-?toMatcher@UnicodeFilter@icu_58@@UEBAPEAVUnicodeMatcher@2@XZ
-?toMatcher@UnicodeFunctor@icu_58@@UEBAPEAVUnicodeMatcher@2@XZ
 ?toPattern@ChoiceFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@@Z
 ?toPattern@DecimalFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@@Z
 ?toPattern@MessageFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@@Z
 ?toPattern@PluralFormat@icu_58@@QEAAAEAVUnicodeString@2@AEAV32@@Z
 ?toPattern@SelectFormat@icu_58@@QEAAAEAVUnicodeString@2@AEAV32@@Z
 ?toPattern@SimpleDateFormat@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@@Z
-?toPattern@UnicodeSet@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@C@Z
-?toReplacer@UnicodeFunctor@icu_58@@UEBAPEAVUnicodeReplacer@2@XZ
 ?toRules@CompoundTransliterator@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@C@Z
 ?toRules@Transliterator@icu_58@@UEBAAEAVUnicodeString@2@AEAV32@C@Z
 ?toScientific@DigitList@icu_58@@QEAAHHH@Z
@@ -5109,14 +4250,12 @@ $~#E3
 ?toString@Ecliptic@CalendarAstronomer@icu_58@@QEBA?AVUnicodeString@3@XZ
 ?toString@Equatorial@CalendarAstronomer@icu_58@@QEBA?AVUnicodeString@3@XZ
 ?toString@Horizon@CalendarAstronomer@icu_58@@QEBA?AVUnicodeString@3@XZ
-?toTitle@UnicodeString@icu_58@@QEAAAEAV12@PEAVBreakIterator@2@AEBVLocale@2@I@Z
 ?toUCollationElements@CollationElementIterator@icu_58@@QEAAPEAUUCollationElements@@XZ
 ?toUCollationElements@CollationElementIterator@icu_58@@QEBAPEBUUCollationElements@@XZ
 ?toUCollator@Collator@icu_58@@QEAAPEAUUCollator@@XZ
 ?toUCollator@Collator@icu_58@@QEBAPEBUUCollator@@XZ
 ?toUFormattable@Formattable@icu_58@@QEAAPEAPEAXXZ
 ?toUFormattable@Formattable@icu_58@@QEBAPEBQEAXXZ
-?toUpper@UnicodeString@icu_58@@QEAAAEAV12@AEBVLocale@2@@Z
 ?toUserString@AffixPattern@icu_58@@QEBAAEAVUnicodeString@2@AEAV32@@Z
 ?toVisibleDigitsWithExponent@ValueFormatter@icu_58@@QEBAAEAVVisibleDigitsWithExponent@2@AEAVDigitList@2@AEAV32@AEAW4UErrorCode@@@Z
 ?toVisibleDigitsWithExponent@ValueFormatter@icu_58@@QEBAAEAVVisibleDigitsWithExponent@2@_JAEAV32@AEAW4UErrorCode@@@Z
@@ -5130,29 +4269,19 @@ $~#E3
 ?transliterate@Transliterator@icu_58@@UEBAXAEAVReplaceable@2@AEAUUTransPosition@@AEBVUnicodeString@2@AEAW4UErrorCode@@@Z
 ?transliterate@Transliterator@icu_58@@UEBAXAEAVReplaceable@2@AEAUUTransPosition@@HAEAW4UErrorCode@@@Z
 ?trim@DigitList@icu_58@@QEAAXXZ
-?trim@UnicodeString@icu_58@@QEAAAEAV12@XZ
 ?trimMarksFromAffix@DecimalFormat@icu_58@@CAAEAVUnicodeString@2@AEBV32@AEAV32@@Z
-?trimWhiteSpace@PatternProps@icu_58@@SAPEB_WPEB_WAEAH@Z
 ?trueMonthStart@IslamicCalendar@icu_58@@AEBAHH@Z
-?truncate@UnicodeString@icu_58@@QEAACH@Z
 ?truncateOffsetPattern@TimeZoneFormat@icu_58@@CAAEAVUnicodeString@2@AEBV32@AEAV32@AEAW4UErrorCode@@@Z
 ?tzFormat@SimpleDateFormat@icu_58@@AEBAPEAVTimeZoneFormat@2@XZ
-?umtx_initImplPostInit@icu_58@@YAXAEAUUInitOnce@1@@Z
-?umtx_initImplPreInit@icu_58@@YACAEAUUInitOnce@1@@Z
-?unBogus@UnicodeString@icu_58@@AEAAXXZ
 ?unassignedCEFromCodePoint@Collation@icu_58@@SA_JH@Z
 ?unassignedPrimaryFromCodePoint@Collation@icu_58@@SAIH@Z
-?unescapeAt@UnicodeString@icu_58@@QEBAHAEAH@Z
-?unext@StringEnumeration@icu_58@@UEAAPEB_WPEAHAEAW4UErrorCode@@@Z
 ?unquote@TimeZoneFormat@icu_58@@CAAEAVUnicodeString@2@AEBV32@AEAV32@@Z
 ?unregister@Calendar@icu_58@@SACPEBXAEAW4UErrorCode@@@Z
 ?unregister@Collator@icu_58@@SACPEBXAEAW4UErrorCode@@@Z
-?unregister@ICUService@icu_58@@UEAACPEBXAEAW4UErrorCode@@@Z
 ?unregister@NumberFormat@icu_58@@SACPEBXAEAW4UErrorCode@@@Z
 ?unregister@Transliterator@icu_58@@SAXAEBVUnicodeString@2@@Z
 ?updateMetaData@MessageFormat@icu_58@@AEBAPEAVFieldPosition@2@AEAVAppendableWrapper@2@HPEAV32@PEBVFormattable@2@@Z
 ?updateTime@Calendar@icu_58@@AEAAXAEAW4UErrorCode@@@Z
-?updateVisibleIDs@LocaleKeyFactory@icu_58@@UEBAXAEAVHashtable@2@AEAW4UErrorCode@@@Z
 ?useAnchoringBounds@RegexMatcher@icu_58@@UEAAAEAV12@C@Z
 ?useDaylightTime@OlsonTimeZone@icu_58@@UEBACXZ
 ?useDaylightTime@RuleBasedTimeZone@icu_58@@UEBACXZ
@@ -5164,7 +4293,6 @@ $~#E3
 ?usesPercent@AffixPattern@icu_58@@QEBACXZ
 ?usesPermill@AffixPattern@icu_58@@QEBACXZ
 ?uspoof_getSkeletonUnicodeString_58@@YAAEAVUnicodeString@icu_58@@PEBUUSpoofChecker@@IAEBV12@AEAV12@PEAW4UErrorCode@@@Z
-?validateArgumentName@MessagePattern@icu_58@@SAHAEBVUnicodeString@2@@Z
 ?validateField@Calendar@icu_58@@AEAAXW4UCalendarDateFields@@HHAEAW4UErrorCode@@@Z
 ?validateField@Calendar@icu_58@@MEAAXW4UCalendarDateFields@@AEAW4UErrorCode@@@Z
 ?validateField@HebrewCalendar@icu_58@@MEAAXW4UCalendarDateFields@@AEAW4UErrorCode@@@Z
@@ -5172,9 +4300,6 @@ $~#E3
 ?validateFields@GregorianCalendar@icu_58@@AEBACXZ
 ?visible@CollatorFactory@icu_58@@UEBACXZ
 ?visible@SimpleNumberFormatFactory@icu_58@@UEBACXZ
-?w)Ic
-?w,Ic
-?w-Ic
 ?weekNumber@Calendar@icu_58@@IEAAHHH@Z
 ?weekNumber@Calendar@icu_58@@IEAAHHHH@Z
 ?weight16FromNode@CollationBuilder@icu_58@@CAI_J@Z
@@ -5209,80 +4334,11 @@ $~#E3
 ?yearLength@GregorianCalendar@icu_58@@IEBAHXZ
 ?yearStart@IslamicCalendar@icu_58@@AEBAHH@Z
 ?yearType@HebrewCalendar@icu_58@@AEBAHH@Z
+?ysB
 ?zap@RegexPattern@icu_58@@AEAAXXZ
 ?zeroPaddingNumber@SimpleDateFormat@icu_58@@AEBAXPEAVNumberFormat@2@AEAVUnicodeString@2@HHH@Z
 ?zoneOffsetAt@OlsonTimeZone@icu_58@@AEBAHF@Z
-@	uloc_minimizeSubtags_58
-@(H9G(t
-@.00cfg
-@.data
-@.gfids
-@.idata
-@.reloc
-@0fF9
-@8<)u
-@8>t H
-@8L$@t
-@8L9HHt
-@8l$8t
-@8l$Ht
-@8t$Ht
-@8wLt
-@8{Lu
-@8{LuN
-@8|$ 
-@8|$0
-@8|$@
-@8|$Pt
-@8|$Qt
-@8|$Qt5A
-@8|$Qt:
-@8|$QuC9}
-@8|$R
-@8|$Rt
-@8|$T
-@8|$^t
-@9L$`u
-@;|$`|
-@>%>b
-@@8|$Tt?A
-@A^_^
-@A_A]A\_^
-@A_A^A\
-@A_A^A\_]
-@A_A^A\_^[]
-@A_A^A]
-@A_A^A]A\_^]
-@A_A^A]_^
-@A_A^]
-@A_A^_
-@A_A^_^]
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATAVAWH
-@SUVWAUAVAWH
-@SUVWAVAWH
-@SUVWAVH
-@SUVWH
-@SUWATAVAWH
-@SVWAVH
-@SVWH
-@UATAUAVAWH
-@UAVAWH
-@USVWATAUAVAWH
-@USVWATAUAWH
-@USVWATAVAWH
-@USVWAUAVAWH
-@USVWAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWATAUAVAWH
-@USWAUAVAWH
-@USWH
-@XH9GXt
 @^8U)zj
-@b;zO]
 @calendar=Indian
 @calendar=buddhist
 @calendar=chinese
@@ -5293,110 +4349,15 @@ $~#E3
 @calendar=persian
 @calendar=roc
 @collation=
-@tB!_
-@xH9Fxt
-@~AIc
-A 9B uI
-A ;B t
-A A+P
-A D9B
-A HcH
-A L9D
-A$9B$uA
-A(D9B
-A03>A|
-A0fB9,@s
-A84.u
-A86taH
-A8;A@
-A8D9P
-A8L$	u
-A8L9XHt&H
-A8L9hHu
-A8L9xHu
-A8U	u
-A8W	u
-A8]	u*E9u
-A9.tD
-A94$~
-A99}(Hc
-A9<$u
-A9FH~EI
-A9Qd~"IcYdD
-A9ULt
-A9^L|!H
-A9^d~.L
-A:	uw
-A;3v-A
-A;8|6
-A;P,|
-A;Vd|
-A;^HA
-A;h,|
-A;|$ ~4A
-A>l$/
+@wKA
 A>pP&
-AA,A$
-AA< t(<#t
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AK>(v
-APH;BPu!H
-APH;BPuYH
-ATAUAVH
-ATAVAWH
-AXH;BXu
-AXH;BXuOH
-AXf9<PtP
-A^A\_
-A^A\_^[]
-A^A\_^]
-A^A]A\
-A^A]A\_^
-A^A]A\_^][
-A^A]_^]
-A^_^[
-A^_^[]
-A^_^][
-A_A\_
-A_A]A\_]
-A_A]A\_^[]
-A_A^A\
-A_A^A\^]
-A_A^A\_]
-A_A^A\_][
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_[]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_[]
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^[]
-A_A^A]_^][
-A_A^]
-A_A^_
-A_A^_^[
-A_A^_^[]
-A_A^_^]
-A_A^_^][
-A__^[]
 A`1w>
-A`H;B`u
-A`H;B`uEH
 Access violation - no RTTI data!
-AhH;Bhu
-AhH;Bhu;H
 AmPmMarkers
 AmPmMarkersAbbr
 AmPmMarkersNarrow
-ApH;Bpu1H
 AppPolicyGetProcessTerminationMethod
 AppPolicyGetShowDeveloperDiagnostic
 AppPolicyGetThreadInitializationType
@@ -5405,682 +4366,71 @@ April
 AreFileApisANSI
 Attempted a typeid of nullptr pointer!
 August
-AuthE
 AuxExemplarCharacters
-Ax+B|;
-AxH;Bxu'H
-B 9A 
-B$9A$u
-B(D9JTu"H
-B09A0
-B0fB94@s	A
-B0fD9
-B0fD9<Hs
-B0fF9
-B0fF9,@s
-B0fF9<@s
-B0fF9<@s	A
-B8L9hHu
-B8\(8
-B8\(9
-B@9A@
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
-BHH;GHu^H
-BP9AP
-BPH;GPuTH
-BXH;GXuJH
-B`9A`
-B`H;G`u@
 Bad dynamic_cast!
 Bad read pointer - no RTTI data!
-BhH;Ghu$H
-Bp9Ap
-BpH;Gpu
-Bx9Ax
-BxH;Gxu
-C @88u5H
-C$H9~(t
-C(D9?
-C,, <Zw
-C0H9G0u
-C0fD9
-C0t4H
-C5R?	
-C847u
-C8<(u
-CA,A$
-CA< t(<#t
-CH8GHu
-CH9CD
-CHD97
+Big5
+C5R?\t
 CL:>8
 CWD>~3
-C`9F`~
-C`ta3
 Clamped
-CloseHandle
 CollationBuilder fields initialization failed
 CollationBuilder initialization failed
 CompareStringEx
-CompareStringW
 Conversion syntax
 CorExitProcess
-CpD97
-CreateFileW
 Currencies
 CurrencyUnitPatterns
 Cy2@K>
-D	d$8A
-D	uloc_setKeywordValue_58
-D W?{W
-D!d$4H
-D!l$ L
-D!l$x@
-D!|$ 3
-D!|$ D
-D!|$(E3
-D!|$@
-D$	L;
-D$  H
-D$ !L$8L
-D$ 9G
-D$ 9\$ H
-D$ @H
-D$ D;
-D$ E3
-D$ E;
-D$ f;
-D$ fA
-D$ inf
-D$!Ic
-D$!fI
-D$$Ic
-D$$p	
-D$$tsH
-D$(;h
-D$(D;p
-D$(E+
-D$(E3
-D$(H9
-D$(H;
-D$(I;
-D$(L9
-D$(f9Q
-D$(f;
-D$(fD
-D$(pt
-D$,Ic
-D$,f;
-D$-f;
-D$0)L$8+
-D$0D+
-D$0D9
-D$0E3
-D$0H!L$ H
-D$0H#
-D$0H+
-D$0H;
-D$0H;C
-D$0Ic
-D$0L+
-D$0f;
-D$0fD
-D$0vG
-D$49C
-D$4A;
-D$4E3
-D$4f;
-D$8A+
-D$8D!d$8L
-D$8D8l$1u
-D$8D8t$8u_H
-D$8D; }\D
-D$8E+
-D$8E3
-D$8H!\$ H
-D$8HcJ
-D$8HcO(H
-D$8L9
-D$8f;
-D$@9D$P
-D$@9D$Pu	
-D$@A;
-D$@D8t$@t
-D$@E3
-D$@H+
-D$@H;C
-D$@Hc
-D$@HcD$HH
-D$@Ic
-D$@f;
-D$@fD
-D$@fE
-D$D?B
-D$DE9&
-D$H9D$ s"
-D$H9D$8~
-D$H9~`u
-D$H;D$8~/
-D$H;D$Pu%
-D$HD9+
-D$HD;
-D$HE3
-D$HE9,$~
-D$HLc
-D$Hf;
-D$L9D$Hu
-D$LD9i
-D$P I
-D$P9D$D
-D$P;D$@}NH
-D$PA+
-D$PA9@
-D$PA9]
-D$PD+
-D$PD;
-D$PE3
-D$PE9
-D$PH+
-D$PH;
-D$PHc@TH9
-D$PI+
-D$PI;
-D$PL;
-D$PLcr
-D$Pf;
-D$PfD
-D$PtAA
-D$S+D
-D$TA9D$
-D$TA;D$
-D$X90
-D$X9t$8
-D$XA+
-D$XA;
-D$XE;
-D$XH=
-D$XMc
-D$Xf;
-D$`9q`~[E3
-D$`D90}
-D$`E3
-D$`Hc
-D$`L;
-D$`f;
-D$`u>D;e
-D$dE;
-D$duO
-D$h+D$d
-D$h9E
-D$h9H
-D$hD9
-D$hD;
-D$hE3
-D$hMcd$PH
-D$hf;
-D$lA9E
-D$p9H
-D$pE3
-D$pLc
-D$pMcy
-D$pf;
-D$pfD
-D$pu,H
-D$t+E
-D$t8\$8t
-D$t;D$hu?;
-D$t?B
-D$tE3
-D$xA94$
-D$xE3
-D$xLc
-D$xf;
-D)t$dE
-D+AHH
-D+d$$H
-D+d$(H
-D+d$8H
-D+l$dD
-D+|$p
-D+|$xA
-D08@t	
-D2uwM
-D8$(u
-D8(t[H
-D8.tnH
-D82u&H
-D85sF
-D85{F
-D88tT3
-D8A	u(D9	u#
-D8A	uS
-D8D$@u8D
-D8D$`t	H
-D8F	u+
-D8IIt	A
-D8IYu
-D8L$8
-D8QYu
-D8R	u
-D8T$8t
-D8T$Pt
-D8Y t:L
-D8Y@t<L
-D8Y`t:L
-D8Y`tYL
-D8^	u
-D8`(t
-D8a u"
-D8c	u
-D8d$0@
-D8d$@t
-D8d$Xt
-D8d$`
-D8f0tNH
-D8f0u
-D8l$0
-D8l$0uS
-D8l$1t@I
-D8l$Xt
-D8l$ht
-D8p(t
-D8t$0tVH
-D8t$4
-D8t$8t
-D8t$Ht
-D8t$XuJ
-D8t$`t
-D8t$auwE3
-D8t$hD
-D8y<t
-D8|$ u
-D8~	u	
-D9+~.H
-D92~	E
-D97~=A
-D9:~/
-D9>~.I
-D9?~)3
-D9CXu
-D9D$(
-D9D$`
-D9G`H
-D9Itu
-D9L$@u
-D9L$Pu_H
-D9L$X~
-D9L$\
-D9L$\~
-D9L$tu
-D9Qtu
-D9T$d
-D9\$8u
-D9`0u
-D9d$ 
-D9d$ ~EH
-D9d$$s
-D9d$0
-D9d$@~
-D9d$P
-D9d$PtuA
-D9ewA
-D9g`~.I
-D9g`~aI
-D9ip~
-D9kt~I
-D9kx~CH
-D9l$ 
-D9l$0
-D9l$0~
-D9l$4
-D9l$@
-D9l$D
-D9l$DA
-D9l$Dt
-D9l$D~oL
-D9l$h
-D9mo~JH
-D9q0~XA
-D9t$0
-D9t$4
-D9t$4}
-D9t$4~
-D9t$@
-D9t$@ufLc|$HA
-D9t$D
-D9t$P~(
-D9t$h
-D9|$0
-D9|$PH
-D:L$X}
 D:\v\csgos1\thirdpartycode\v8\v8\out.gn\x64.release\icui18n.dll.pdb
-D;G8|
-D;GHr
-D;IP}
-D;J0|
-D;R,|
-D;T$4
-D;T$p
-D;d$ 
-D;d$0~
-D;l$0
-D;l$D|
-D;l$tu
-D;t$<A
-D;t$<|cD
-D;t$x
-D;t$x}NI
-D;uhtxH
-D;uo|
-D;|$$
-D;|$@
-D;|$l
-D<@A+
-D<P0I
-D\$$H
 DateTimePatterns
 Day-Of-Week
 December
-DeleteCriticalSection
 Division by zero
 Division impossible
 Division undefined
-Dt$DD
 DurationRules
-D|$pE
-D|$tf
-E(9sDu
-E(;E }R
-E+BHH
-E8_	u
-E9,$~
-E9.~	A
-E98~ 3
-E9XDA
-E9h|I
-E;A,|
-E;A0|
-E;H0|
-E;P0|
-E;P0|	
-E;Q0|
-E;Q0}
-E;X0|
-E;X0|	
-E;Y0|
-E;Z0|
 E>nEA
-EP*?@
+ET5>
 EUC-JP
 EUC-KR
-EXD9u@
-EnterCriticalSection
+E[\rn?gc
 EnumSystemLocalesEx
-EnumSystemLocalesW
-Et$d@8|$Qt3E
 EventRegister
 EventSetInformation
 EventUnregister
 EventWriteTransfer
-ExA9D$x
 ExemplarCharacters
 ExemplarCharactersIndex
 ExemplarCharactersPunctuation
-ExitProcess
-E|$0A
-E|A8D$|t*
-F(zJuH
-F0L9f(t
-F0t4H
 F>qUxv
-FPD9'
-F\E9&
-F`HcNpH
+FEMh\f
 February
-Fh:Ghuv
-FileTimeToSystemTime
-FindClose
-FindFirstFileExA
-FindFirstFileExW
-FindNextFileA
-FindNextFileW
+FfW?
 FlsAlloc
 FlsFree
 FlsGetValue
 FlsSetValue
-FlushFileBuffers
-FreeEnvironmentStringsW
-FreeLibrary
 Friday
-Ft4D+
-Fw[A;
-FxHc\$<
-G 8C u
-G 9F u
-G McH(E;H,}
-G(H+G
-G0H9w(t
-G0L9o(tHH
-G8D9x
-G@8z	u
-G@<>sx@
+G>US
 GB18030
-GH8FHuZ
-GH9FHu
-GI8FIuR
-GJ8FJuJ
-GL9FLu
-GL9FLuB
-GP9FPu:
-GP9FPu>HcVT;WTu5
-GPH9^Ht#
-GT9FTu
-GX8FXu*
-GX9FXu
-GY8FYu"
-GZ8FZu
-G\9F\u
-G`9F`u
-Gd9Fdu~
-Genu3
-GetACP
 GetActiveWindow
-GetCPInfo
-GetCommandLineA
-GetCommandLineW
-GetConsoleCP
-GetConsoleMode
-GetCurrencyFormatW
-GetCurrentProcess
-GetCurrentProcessId
-GetCurrentThread
-GetCurrentThreadId
 GetDateFormatEx
-GetDateFormatW
 GetEnabledXStateFeatures
-GetEnvironmentStringsW
-GetFileType
 GetLastActivePopup
-GetLastError
-GetLocaleInfoA
 GetLocaleInfoEx
-GetLocaleInfoW
-GetModuleFileNameA
-GetModuleFileNameW
-GetModuleHandleExW
-GetModuleHandleW
-GetNumberFormatW
-GetOEMCP
-GetProcAddress
-GetProcessHeap
 GetProcessWindowStation
-GetStartupInfoW
-GetStdHandle
-GetStringTypeW
-GetSystemTimeAsFileTime
 GetSystemTimePreciseAsFileTime
 GetTimeFormatEx
-GetTimeFormatW
-GetTimeZoneInformation
-GetUserDefaultLCID
 GetUserDefaultLocaleName
 GetUserObjectInformationW
 GetXStateFeaturesMask
-Gl9Flub
-Gp9Fpu2
 GrJoq>@
-Gt9Ftuj
-H SVWH
-H UVWATAUAVAWH
-H WATAUAVAWH
-H!D$ E
-H!D$ I
-H!T$0D
-H!\$ H
-H!{ @
-H(;y$u
-H+C x
-H+D$(
-H+Q x
-H+Q x4HcA
-H+\$8H
-H91|>
-H9A0u
-H9A0~
-H9A8H
-H9AHt
-H9D$PuCI
-H9FXt
-H9L$Ht?H
-H9P`uR
-H9Q u
-H9Q8u
-H9VPu
-H9Z(D
-H9\$P
-H9^Pt#
-H9_Pt
-H9_Xt
-H9w@u
-H9xpu
-H9~Pt!
-H9~Pt'E
-H9~hu$
-H;A0t
-H;Ax|/
-H;BHucH
-H;Cxt
-H;Cxt#E
-H;Cxt$A
-H;Cx}
-H;D$Pu
-H;D$`
-H;F`~"A
-H;F`~%A
-H;GP~
-H;Gxt"A
-H;Gxt-D
-H;Gx}=H
-H;Gx}FH
-H;NhtGA
-H;Ox}
-H;Qh|
-H;Wx}KA
-H;kPuXM
-H;kp~
-H;sp|OH;sx
-H;y0~
-H;{p~
-H;{x|
-H;|$0s
-HA^_^[
-HA_A^A]A\_^[]
-HA_A^A]A\_^][
-HH9/u
 HH:mm:ss
-H[><y5
-Hc	H+
-Hc@TH
-HcA 3
-HcA(;A
-HcA(;A,}
-HcA<H
-HcAP;BPu
-HcC(;C,}
-HcC8H
-HcD$0H
-HcD$0H=
-HcD$4
-HcD$@A
-HcD$@Hi
-HcD$@t	
-HcD$H
-HcD$P
-HcD$`3
-HcD$`H
-HcD$h
-HcD$lE3
-HcG(H
-HcG8I
-HcH<H
-HcITH
-HcJ Lc
-HcK,L
-HcL$4
-HcL$@
-HcL$D
-HcL$DH
-HcL$P
-HcL$`H
-HcL$h
-HcL$hH
-HcL$pM
-HcMPI
-HcN H
-HcN`H
-HcOTH
-HcS(;S,}
-HcS(A
-HcT$0A
-HcT$H
-HcT$L
-HcT$`
-HcT$p
-HcT$pE
-HcVdL
-Hc\$8
-Hc\$8I
-Hc\$dI
-Hc]`M
-Hc{HH
-Hc|$hA;
-Hc|$pH
-Hc|$xH
-HeapAlloc
-HeapFree
-HeapReAlloc
-HeapSize
-H}*M;
-I H+Q x
-I L9i u H
-I LcA
-I(L9]0
-I+H x
-I+H@H
-I+P x
-I0H;N
-I96t4H
-I96t:H
-I96tL3
-I96tn
-I9Vxt
-I9\$ ~@H
-I9mXt&
-I;H |SI;H(
-I;HP~
+Hour
 I;u>A
-IHc\$8;
 IND)ind)
 INFINITY
 INITY
@@ -6093,462 +4443,119 @@ ISO-8859-7
 ISO-8859-8
 ISO-8859-8-I
 ISO-8859-9
-IXH9KPt
-IXfA;
-Ic@|L+
-IcIdL
-IcQ H
 Il?333333c?
 Inexact
 Infinity
-InitializeCriticalSectionAndSpinCount
 InitializeCriticalSectionEx
-InitializeSListHead
 InstalledLocales
 Insufficient storage
-InterlockedFlushSList
-InterlockedPushEntrySList
 Invalid
 Invalid context
 Invalid operation
-IsDebuggerPresent
-IsProcessorFeaturePresent
-IsValidCodePage
-IsValidLocale
 IsValidLocaleName
-Iv)Hc
-J	ulocimp_getRegionForSupplementalData_58
-J `>,
-J8H9QHu
-J@fE;
 January
-K HcA(;A
-K HcQ(;Q
-K&>.yC
-K(9K,|
-K0H;H
-KERNEL32.dll
+July
+June
 KOI8-R
-KXHcS8
-Kf;\$xrIf;\$|s
-K~Je#>!
-L!d$ H
-L$ !D$ H
-L$ D+
-L$ E3
-L$ H+
-L$ Hc
-L$ I;
-L$ Ic
-L$ L#
-L$ L;
-L$ Lc
-L$ SH
-L$ SUVWH
-L$ USVWATAVAWH
-L$ UVWATAUAVAWH
-L$ VWAVH
-L$ WATAUAVAWH
-L$ WH
-L$ fA
-L$ fff
-L$ |+L;
-L$$D;
-L$&8\$&t-8Y
-L$(D;t$8t
-L$(E3
-L$(H3
-L$(Hc
-L$(Ic
-L$,A9
-L$0D9G
-L$0E3
-L$0E;
-L$0H3
-L$0H;
-L$0fD
-L$0fH
-L$0fI
-L$49L$0|wD
-L$4;L$0~
-L$4E3
-L$4E;
-L$8A+
-L$8D9i
-L$8E3
-L$8H3
-L$8Lc
-L$8Lcd$<
-L$8M;
-L$8eH
-L$9D;t$x}I
-L$<+L$4
-L$<+L$H
-L$<E3
-L$@9H
-L$@;L$T
-L$@D+
-L$@D9&
-L$@E2
-L$@E3
-L$@H3
-L$@I;
-L$@L;
-L$@uU
-L$D9L$P
-L$DE3
-L$HE3
-L$HH3
-L$P)D$XH
-L$PE+
-L$PE2
-L$PE3
-L$PE99
-L$PH3
-L$PHc
-L$PLc
-L$PLcD$4
-L$PfD
-L$PuY
-L$XE3
-L$XH3
-L$XHc
-L$`E3
-L$`H3
-L$`Hc}
-L$d;H
-L$dA;
-L$dL;
-L$hE3
-L$pD+
-L$pE3
-L$pH3
-L$x9L$0
-L$xA:
-L$xE3
-L$xH;
-L$xL!e
-L$|E;
-L$|t!"
-L+A H
-L+A x
-L9	tr9i
-L9!t"I
-L9"u&
-L9-FU
-L97t5H
-L97taH
-L98u&H
-L9:t?
-L9=Gk
-L9>te
-L9AHu
-L9d$p
-L9f(H
-L9iht$A
-L9l$p
-L;D$h
-L;GX|
-L;Gx}
+L>ev
 L?UUUUUUU?
 LCIDToLocaleName
 LCMapStringEx
-LCMapStringW
-LCX@8~
 LDML forbids tailoring to U+FFFF
-LcA L
-LcA<A
-LcA<E3
-LcA`3
-LcB(D;B,}
-LcB03
-LcD$0H
-LcD$HI
-LcGpH
-LcIxD;
-LcL$(Mc
-LcL$`
-LcL$xI
-LcT$0A
-Lc|$@A;
-LeaveCriticalSection
-Lj[;>
-LoadLibraryExW
+LWG>
+LWW>
+L\rPA
 LocaleNameToLCID
 LocateXStateFeature
-M 9sDu
-M H1E
-M LcH L
 M'y>0y
-M+BHH
-M0y,H
-M9.tqA
-M9/t,
 MM/dd/yy
 March
-Mc` A
 MeasurementSystem
 MessageBoxA
 MessageBoxW
 Minute
 Monday
 Month
-MultiByteToWideChar
 Multiple status
-N	umtx_lock_58
-N0I;O
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
+NQ?s
+NULL
 Names
 Narrow
 No status
 November
-NpfD9
 NumberElements
 NumberElements/latn
 NumberElements/latn/symbols
 NumberPatterns
 NumberingSystemRules
-O	umtx_unlock_58
-O ;1}
-O ;1}-
-O H+Q x
-O HcA(;A
-O HcQ(;Q
-O L9y u>H
-O0I;J
-OF>;^
+OD:A
+OZQ%
 October
-Ol$hE
 OrdinalRules
-OutputDebugStringA
-OutputDebugStringW
 Overflow
-P A97
-P HcZ
-P(A96~
-P0H;{h|
-P>q_Y~
-P@A9|$
-P@H;C`~qH
-P@H;GX
-P@H;Gx
-P@H;Gx}`C
-PA^_^[]
-PA^_^][
-PA_A^A\_^][
-PA_A^A]A\_^]
-PA_A^_^]
-PHD9+
-PHHcE
-PHLce
-PPA97
-PPD9&
-PPD9+
-PPD9.
-PX9l$HH
-P`9C,|U9s,
-P`D9}
+PD:A
 PaperSize
-Ph9t$@
-P|> ,o
 Q5rHg,>
-Q>.3Z<
+QAf?
+QD:A
 Quarter
-QueryPerformanceCounter
-QumE3
-QxA;P
-R A+E
-R(D9+A
-R(D9l$8~
-R09|$h
-R0;Q0~
 RBNFRules
-RaiseException
+RSDS
+R\vpy
 Regions
 RoInitialize
 RoUninitialize
 Rounded
-RtlCaptureContext
-RtlLookupFunctionEntry
-RtlPcToFileHeader
-RtlUnwindEx
-RtlVirtualUnwind
 RuleBasedTransliteratorIDs
 Rules
-S HcB(;B,}
-S LcB(D;B,}
-S,fA+
-S0H;Q
-S;\$0tH
+S9>H
 S>$hkDh$h>[2
-SD9SH}
-SL9SD}
 SNAN)
-SUVWATAUAVAWH
-SUVWATAVAWH
-SUVWAVAWH
-SUVWAVH
-SUVWH
-SVWAVAWH
 Saturday
 Second
 September
 Sequence
-SetConsoleCtrlHandler
-SetEnvironmentVariableA
-SetEnvironmentVariableW
-SetFilePointerEx
-SetLastError
-SetStdHandle
 SetThreadStackGuarantee
-SetUnhandledExceptionFilter
 Shift_JIS
 Short
 SpelloutRules
 Subnormal
 Sunday
 SystemFunction036
-SystemTimeToTzSpecificLocalTime
-T$ E3
-T$ H+
-T$ Hc
-T$ L9V(
-T$ f;
-T$"E2
-T$(E3
-T$(f;
-T$,E3
-T$0A+
-T$0D+
-T$0E3
-T$0Hc
-T$0I;
-T$0f;
-T$4E3
-T$5A+
-T$8D9&
-T$8E3
-T$8f;
-T$8t5L
-T$@A;
-T$@D+
-T$@D;
-T$@E3
-T$@Hc
-T$@f;
-T$DHc
-T$HA;
-T$HE3
-T$Hf;
-T$PD;
-T$PE2
-T$PE3
-T$PH3
-T$PHc
-T$Pf;
-T$XE3
-T$Xf;
-T$`D8p
-T$`E3
-T$`f;
-T$hE3
-T$hf;
-T$pf;
-T$xE3
-T$xH;
-T$xf;
 TUUUU
 TZVersion
-T_CString_toLowerCase_58
-TerminateProcess
 Thursday
 Timezone
-TlsAlloc
-TlsFree
-TlsGetValue
-TlsSetValue
 TransliteratorNamePattern
 Tuesday
-U(;U |
-U0D9M
 UA>N0Wl
-UATAUAVAWH
-UAVAWH
 UCARules
-UH9k tIH9
+UCol
 UNKNOWN
-USVWATAUAVAWH
-USVWATAUAWH
-USVWATAVAWH
-USVWATAVH
-USVWAVAWH
-USVWAVH
-USVWH
-USWATAUAVAWH
 UTF-16BE
 UTF-16LE
 UTF-32BE
 UTF-32LE
 UTF-8
+UUUU
 UUUUUU
-UVATAVAWH
-UVWATAUAVAWH
-UVWATAVH
-UVWAUAVH
-UVWAVAWH
-UWATAUAWH
-UWATAVAWH
-UWAVH
-UXD9m8
-U`fD9k
 Underflow
-UnhandledExceptionFilter
 Unknown exception
-V6E>`"(5
-VD$Pf
-VT$PD
-VUUUA
-VUUUu
-VUUUu5
-VUUUy 
-VWATAUAVAWL
-VWATAUAVH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUH
-VWAVH
-VWAWH
-W HcB(;B,}
-W LcB(D;B,}
-W LcJ(D;J,}
-W M9j uBH
-W0H;Q
-WATAUAVAWH
-WATAVH
-WATAWH
-WAVAWH
-WH;Ox
-WP9W@t
 WaNd?
 Wak>E
 Wednesday
-WideCharToMultiByte
-WriteConsoleW
-WriteFile
-W|;Wx}E
-X UVWATAUAVAWH
-X!t5~
-XA^_^[
-XL$ H
+Week
+X/4B
+Y8a:
 Y>kX>M
-YD$@f
-YZ[\]^
+Year
+ZSq>
 Z\>z8
-Zod(^?
 Zones
 ['\-.\:\u00B7\u0375\u058A\u05F3\u05F4\u06FD\u06FE\u0F0B\u200C\u200D\u2010\u2019\u2027\u30A0\u30FB]
 [*ncd>0
@@ -6560,65 +4567,28 @@ Zones
 [import langTag] failed
 [import langTag] is not supported
 [thunk]:
-\$ A9
-\$ E3
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ VWATAUAWH
-\$ VWAVH
-\$ WH
-\$$)G
-\$$9_
-\$$A;
-\$'Mc
-\$(E3
-\$(Hc
-\$(L+
-\$09t$h
-\$0A9
-\$0D+
-\$0D93
-\$0E3
-\$0H+
-\$0H;
-\$0Hc
-\$0eH
-\$89~`u6I
-\$8E3
-\$8I;
-\$8t6
-\$@E3
-\$@E;
-\$@H;
-\$DE3
-\$HD;
-\$HfA;
-\$PD;
-\$PfD
-\$\9\$P
-\$`fI
-\$gm?
-\$hE3
-\$lD;
-\$pE3
-\$pHcD$lMc
-\$pM;
-\$xE3
-\$xfA
 \5YyV
-\u!9sDu
-\v*Hc
-])6M>&
-]-?Z8
-]>)2X
-]PD9.
-^8U)zj
+\f \f!\f"\f#\f$\f%\f&\f'\f(\f)\f*\f+\f,\f-\f.\f/\f0\f1\f2\f3\f4\f5\f6\f7\f8\f9\f:\f;\f<\f=\f>\f?\f@\fA\fB\fC\fD\fE\fF\fG\fH\fI\fJ\fK\fL\fM\fN\fO\fP\fQ\fR\fS\fT\fU\fV\fW\fX\fY\fZ\f[\f\\f]\f^\f_\f`\fa\fb\fc\fd\fe\ff\fg\fh\fi\fj\fk\fl\fm\fn\fo\fp\fq\fr\fs\ft\fu\fv\fw\fx\fy\fz\f{\f|\f}\f~\f
+\f\t\f\n\f\v\f\f\f\r\f
+\n \n!\n"\n#\n$\n%\n&\n'\n(\n)\n*\n+\n,\n-\n.\n/\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n;\n<\n=\n>\n?\n@\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\n[\n\\n]\n^\n_\n`\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\nk\nl\nm\nn\no\np\nq\nr\ns\nt\nu\nv\nw\nx\ny\nz\n{\n|\n}\n~\n
+\n\t\n\n\n\v\n\f\n\r\n
+\nh?oT
+\nk>oB
+\r \r!\r"\r#\r$\r%\r&\r'\r(\r)\r*\r+\r,\r-\r.\r/\r0\r1\r2\r3\r4\r5\r6\r7\r8\r9\r:\r;\r<\r=\r>\r?\r@\rA\rB\rC\rD\rE\rF\rG\rH\rI\rJ\rK\rL\rM\rN\rO\rP\rQ\rR\rS\rT\rU\rV\rW\rX\rY\rZ\r[\r\\r]\r^\r_\r`\ra\rb\rc\rd\re\rf\rg\rh\ri\rj\rk\rl\rm\rn\ro\rp\rq\rr\rs\rt\ru\rv\rw\rx\ry\rz\r{\r|\r}\r~\r
+\r>\r?\rM\rN\rW\rX\r
+\r\t\r\n\r\v\r\f\r\r\r
+\t \t!\t"\t#\t$\t%\t&\t'\t(\t)\t*\t+\t,\t-\t.\t/\t0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t:\t;\t<\t=\t>\t?\t@\tA\tB\tC\tD\tE\tF\tG\tH\tI\tJ\tK\tL\tM\tN\tO\tP\tQ\tR\tS\tT\tU\tV\tW\tX\tY\tZ\t[\t\\t]\t^\t_\t`\ta\tb\tc\td\te\tf\tg\th\ti\tj\tk\tl\tm\tn\to\tp\tq\tr\ts\tt\tu\tv\tw\tx\ty\tz\t{\t|\t}\t~\t
+\t<\t=\tM\tN\tQ\tU\t
+\tJR>8o
+\t\t\t\n\t\v\t\f\t\r\t
+\tcQr
+\tkE>fvw
+\v \v!\v"\v#\v$\v%\v&\v'\v(\v)\v*\v+\v,\v-\v.\v/\v0\v1\v2\v3\v4\v5\v6\v7\v8\v9\v:\v;\v<\v=\v>\v?\v@\vA\vB\vC\vD\vE\vF\vG\vH\vI\vJ\vK\vL\vM\vN\vO\vP\vQ\vR\vS\vT\vU\vV\vW\vX\vY\vZ\v[\v\\v]\v^\v_\v`\va\vb\vc\vd\ve\vf\vg\vh\vi\vj\vk\vl\vm\vn\vo\vp\vq\vr\vs\vt\vu\vv\vw\vx\vy\vz\v{\v|\v}\v~\v
+\v<\v=\v>\v?\vM\vN\vV\vX\v
+\vA03>A|
+\v\t\v\n\v\v\v\f\v\r\v
 ^<V7w
 ^RfN>
-^fD9(H
-_X+_TL
 __based(
 __cdecl
 __clrcall
@@ -6636,25 +4606,11 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-__w64 
 _cabs
 _hypot
 _logb
 _nextafter
 _oD>Kg
-` AUAVAWH
-` AWL
-` UAVAWH
-`+!]?
-`.rdata
-`0L;qh|
-`0t|H
-`>n>w%
-`A^_^
-`A^_^[]
-`A^_^][
-`A_A^A]A\_^]
-`A_A^_^]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -6669,7 +4625,6 @@ _oD>Kg
 `eh vector vbase copy constructor iterator'
 `generic-class-parameter-
 `generic-method-parameter-
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -6705,11 +4660,14 @@ _oD>Kg
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
+a6>r
 abbreviated
 abcdefghijklmnopqrstuvwxyz
 acceleration
 account
 accountingFormat
+acos
+acre
 acre-foot
 after
 afterCurrency
@@ -6726,24 +4684,24 @@ appendItems
 application of [suppressContractions [set]] failed
 arc-minute
 arc-second
+area
+asin
 astronomical-unit
+atan
 atan2
 availableFormats
-b?^Cy
 backslash escape at the end of the rule string
 bad allocation
 bad array new length
 bcdecdf
 before
 beforeCurrency
-bp(=>?g
+bool
 buddhist
 bushel
-c [1>H'
-c(>\,
-c0&>`
+byte
+c>F2
 c?FA@s}
-cAMDD
 calendar
 calendar/
 calendar/default
@@ -6751,11 +4709,12 @@ calendar/gregorian/DateTimePatterns
 calendarPreferenceData
 calorie
 carat
+ceil
 celsius
 centiliter
 centimeter
 century
-cf;\$praf;\$ts
+char
 char 
 char16_t
 char32_t
@@ -6793,6 +4752,8 @@ contractions ending with conjoining Jamo L or L+V not supported
 contractions starting with conjoining Jamo L or V not supported
 coordinate
 coptic
+cosf
+cosh
 cubic-centimeter
 cubic-foot
 cubic-inch
@@ -6808,29 +4769,9 @@ currencyGroup
 currencyMatch
 currencySpacing
 cyclicNameSets
-d$ @8}ou	A;
-d$ D8d$(t#A
-d$ D9?~
-d$ E3
-d$ UAVAWH
-d$(A_
-d$(E3
-d$0E3
-d$8D9d$h
-d$8D;d$h}/D
-d$@D;
-d$DD9'~
-d$HE3
-d$PE3
-d$PM;
-d$dD;
-d$hD;`
-d$hE3
-d$hE94$
-d$lE;
-d$pE3
-d$pE;
+d8L2
 d?000000`?
+dRL>
 dangi
 day-format-except-narrow
 day-narrow
@@ -6849,28 +4790,25 @@ default
 degree
 delimiters
 deprecated
+desc
 digit
 digital
 direction
+dnam
 double
 duration
 durationUnits
 e+000
-e0A_A^A]A\]
-e0A_A^]
-e8A_A^A]A\_^[]
-eH;ux
-eHD;uh
+eF>t
 eLK(w
-eX;ux
-eXD;uh
+east
 electric
 energy
-entiA
 enum 
 era-abbr
 era-name
 era-narrow
+eras
 ethiopic
 ethiopic-amete-alem
 evening1
@@ -6881,136 +4819,15 @@ expected language tag in [import langTag]
 exponential
 extension string adds too many collation elements (more than 31 total)
 extern "C" 
-f+D$0E;
-f+QHf;QJ}
-f+QJL
-f9)u H
-f9)uTH
-f9,Ju
-f9,PI
-f9,pu
-f9,~u
-f94Bu
-f94Hs
-f9<Ju
-f9<Pu
-f9<iu
-f9D$PL
-f9t$bu
-f9|$^t&f
-f9|$`t
-f;L$8r
-f;L$8s
-f;L$<r
-f;L$<s
-f;L$@
-f;L$@s
-f;L$D
-f;L$Ds
-f;L$L
-f;L$Ls
-f;L$T
-f;L$Tr
-f;L$\
-f;QH}
-f;\$$
-f;\$$r
-f;\$$s
-f;\$(s
-f;\$,
-f;\$,r
-f;\$0
-f;\$4
-f;\$4r
-f;\$8s
-f;\$<
-f;\$<s
-f;\$@s
-f;\$D
-f;\$Ds
-f;\$H
-f;\$L
-f;\$Ls
-f;\$P
-f;\$Ts
-f;\$X
-f;\$\s
-f;\$`
-f;\$ds
-f;\$xs
-f;\$xs	D
-f;\$|s
-fA9,Au
-fA94@s
-fA94Ou
-fA94nu
-fA96tdH
-fA96u
-fA9:u
-fA9<Bu
-fA9<\u
-fA9DO
-fA9DW
-fA9LG
-fA9TG
-fA9|u
-fB9,Nu
-fB94Ou
-fB94ht	H
-fB9<@u
-fB9<@}eH
-fB9<Bu
-fB9<Hu
-fC94wu
-fC9<hu
-fD9	t
-fD9	t	H
-fD9	t(I
-fD9	tvH
-fD9 t
-fD9 tMH
-fD9!u
-fD9!u7A
-fD9$At/
-fD9$Hu
-fD9't
-fD9(uXH
-fD9,Au
-fD9,Hs
-fD9/u
-fD90t
-fD90u
-fD94Fu
-fD94pt	H
-fD96u
-fD97u
-fD99t
-fD9;L
-fD9;u
-fD9<Au
-fD9<Hs
-fD9<Xu
-fD9?t&
-fD9?u
-fD9L$pu
-fD9t$b
-fD;kh
-fD;{h
-fE98t'
-fF9$Ou
-fF9<Ou
-fF9<qu
-fG9$Ou
-fJBGo
+fD>b
+fGa>
+fWi?
+fabs
 fahrenheit
 fallback
 fallbackFormat
 fathom
 fetching root CEs for tailored string
-fffff
-ffffff
-fffffff
-fhfD;gh
 fields
 fields/day/relative
 finalRaw
@@ -7027,10 +4844,13 @@ first variable
 float
 floor
 fluid-ounce
+fmod
 foodcalorie
+foot
 format
 frequency
 frexp
+from
 furlong
 future
 g-force
@@ -7039,31 +4859,29 @@ gallon-imperial
 genderList
 generic
 generic-type-
-gfffA
-gfffffffH
-gfffffffI
-gfffffffIc
-gfffffffu
 gigabit
 gigabyte
 gigahertz
 gigawatt
 gmtFormat
 gmtZeroFormat
+gram
 gregorian
 group
 grouping
-h UAVAWH
+h0'D
 h>1my
-hA_A^A]A\_^[]
+hebr
 hebrew
 hectare
 hectoliter
 hectopascal
 hertz
 horsepower
+host
+hour
 hourFormat
-i	+2I
+hsz?
 icudt58l-coll
 icudt58l-curr
 icudt58l-lang
@@ -7072,18 +4890,17 @@ icudt58l-translit
 icudt58l-unit
 icudt58l-zone
 icui18n.dll
-icuuc.dll
 idValidity
 identical
-ihD9/
 in 'prefix|str', prefix and str must each start with an NFC boundary
+inch
 inch-hg
 indian
-ineIA
 infinity
 inity
 insertBetween
 inserting reset position for &[before n]
+int 
 intervalFormats
 islamic
 islamic-civil
@@ -7091,7 +4908,6 @@ islamic-rgsa
 islamic-tbla
 islamic-umalqura
 iso8601
-iu+-,
 izrule_clone_58
 izrule_close_58
 izrule_equals_58
@@ -7106,13 +4922,11 @@ izrule_getRawOffset_58
 izrule_getStaticClassID_58
 izrule_isEquivalentTo_58
 izrule_open_58
-j>>A?1
-j?V()
-j?{$*
 japanese
+jeTb
 joule
-k>4	F
-kD$D<A
+k=yI
+k>4\tF
 karat
 kelvin
 keyTypeData
@@ -7126,39 +4940,7 @@ kilometer
 kilometer-per-hour
 kilowatt
 kilowatt-hour
-l$ D;
-l$ E3
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAVH
-l$ WAVAWH
-l$ WH
-l$$D9l$ 
-l$$E3
-l$(A+
-l$(D+
-l$(E3
-l$(H9Q
-l$,E3
-l$0D8iMu+H
-l$0taH
-l$4@8|$0u1H
-l$8~1A
-l$<D9mw
-l$@te8]otAH
-l$HA_A^A]A\_^
-l$HD8d$0tUL
-l$HHc
-l$PE3
-l$XD;u uR3
-l$XE3
-l$XHc
-l$`;D$8s
-l$hE3
-l$hL;
-l$p;\$D
-l9\$p|f
-lL9J(u
+knot
 last implicit
 last primary ignorable
 last regular
@@ -7166,11 +4948,13 @@ last secondary ignorable
 last tertiary ignorable
 last trailing
 last variable
+latn
 ldexp
 length
 light
 light-year
 links
+list
 liter
 liter-per-100kilometers
 liter-per-kilometer
@@ -7179,12 +4963,19 @@ locales
 locales_ordinals
 log10
 log10f
+logf
+long
 long 
 lower
-mHE9)~
+m?H7
+mG4>
+mO-B
+m\nXo
 macroregion
 maleTaints
+many
 mapTimezones
+mass
 measurementData
 megabit
 megabyte
@@ -7205,6 +4996,7 @@ microgram
 micrometer
 microsecond
 midnight
+mile
 mile-per-gallon
 mile-per-gallon-imperial
 mile-per-hour
@@ -7226,6 +5018,7 @@ missing relation string
 missing root elements data, tailoring not supported
 missing starred-relation string
 mixedNeutral
+modf
 modifying collation elements
 month
 month-format-except-narrow
@@ -7236,11 +5029,6 @@ monthPatterns
 morning1
 morning2
 n03>Pu
-nD$@H
-nD$DH
-nL$HL
-nL$LL
-nLf;oL
 n]?iJ
 nan(ind)
 nan(snan)
@@ -7250,9 +5038,11 @@ narrow
 native
 nautical-mile
 neutral
+nfkc
 night1
 night2
 non-ignorable
+noon
 normalizing the relation extension
 normalizing the relation prefix
 normalizing the relation string
@@ -7261,42 +5051,27 @@ north
 not a valid UnicodeSet pattern
 not a valid setting/option
 not a valid special reset position
-ntelE
 number-spellout
 numberingSystems
 numbers
 numbers=
 numeric
+o?GS
 oI>O7
 obwQ4
 operator
 operator "" 
-ot$ H
-ot$0H
 other
 others
 ounce
 ounce-troy
-o|$0f
-p	uprv_asciitolower_58
-p AWH
-p WATAUAVAWH
-p WAVAWH
-p(L91u
+owM&
 p>.G1
-pA^_]
-pA^_^
-pA^_^[]
-pA^_^][
-pA_A^A\_^][
-pA_A^A]A\_^]
-pA_A^A]_^[]
-pA_A^A]_^][
-pA_A^_^]
-pD8Q	u
+p>Y3
 parseRegions
 parsec
 part-per-million
+past
 pattern
 patterns
 patternsLong
@@ -7306,12 +5081,14 @@ percentFormat
 percentSign
 persian
 picometer
+pint
 pint-metric
 plurals
 plusSign
 pound
 pound-per-square-inch
 power
+powf
 pressure
 primary
 primary tailoring gap too small
@@ -7320,12 +5097,8 @@ private-
 private: 
 protected: 
 public: 
-pulD+w
 punct
 pup7@
-pxerH
-pxerL
-q8;q<}+
 q>F,3
 qS>g?h3
 quart
@@ -7336,31 +5109,13 @@ quaternary tailoring gap too small
 quotationEnd
 quotationStart
 quoted literal text missing terminating apostrophe
-r	Vr.>T
-r	uprv_ceil_58
-r#f;\$ts
-r&f;\$ts
-r7f;\$l
-r9D8v
-r:f;\$l
-r<f;L$|
-r<f;L$|r
-rBD;uht<Ic
-rED;ext?Ic
-rKf;\$d
-rLf;L$tr
-rNf;\$d
 rNm>)
-rPf;L$t
-r\f;L$lr
-r_f;\$\
+r\tVr.>T
 radian
 radix
 range start greater than end in starred-relation string
 range without end in starred-relation string
 range without start in starred-relation string
-rbf;\$\
-rdf;L$l
 region
 regionFormat
 regular
@@ -7382,16 +5137,10 @@ reset-before strength followed by a stronger relation
 resource
 restrict(
 revolution
-rlf;L$dr
-rsf;\$T
+root
 rules
-rvf;\$T
-rxf;L$d
-r|f;L$\r
-s WATAUAVAWH
-s WAVAWH
-s)D8s(ti;
-s4+sP+
+sHF'
+sNaN
 scientificFormat
 search
 second
@@ -7402,10 +5151,13 @@ shifted
 short
 short 
 signed 
+sinf
+sinh
 snan)
 south
 space
 speed
+sqrt
 square-centimeter
 square-foot
 square-inch
@@ -7413,11 +5165,6 @@ square-kilometer
 square-meter
 square-mile
 square-yard
-stCD;
-stQD;
-stZD;
-st[D;
-staE;
 stand-alone
 standard
 starred-relation string is not all NFD-inert
@@ -7425,11 +5172,8 @@ starred-relation string range contains U+FFFD, U+FFFE or U+FFFF
 starred-relation string range contains a surrogate
 starred-relation string range is not all NFD-inert
 static 
-stbE;
-stcE;
 std::nullptr_t
 std::nullptr_t 
-stdE;
 stone
 string contains U+FFFD, U+FFFE or U+FFFF
 string contains an unpaired surrogate
@@ -7439,104 +5183,13 @@ supplementalData
 surroundingMatch
 symbol
 symbols
-s{@8{
-t	D96
-t	D;}
-t	y(A
 t u v w x y 
-t"<.u
-t"D9a
-t#H9/u
-t$	E8
-t$ 92
-t$ <`
-t$ A;
-t$ E3
-t$ UAVAWH
-t$ UH
-t$ UWATAVAWH
-t$ UWAUAVAWH
-t$ UWAVH
-t$ UWAWH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WH
-t$ f9
-t$(E3
-t$(I;
-t$0E"
-t$0E3
-t$0E91
-t$0taH
-t$8D9
-t$8D9&
-t$8E3
-t$8E90
-t$8H+
-t$8M;
-t$@A_A^A]A\_
-t$D8R	u
-t$HE3
-t$PA9_
-t$XD;
-t$XD;t$l
-t$XE3
-t$`E3
-t$`fD
-t$hD9
-t$hD9p
-t$pE3
-t$x9\$`D
-t$xfD
-t&8\$0t
-t&D8d$@t
-t&D9a
-t'<_t#
-t'fE9
-t(9\$8~"H
-t(<_t$H
-t*D9a
-t+HcC8H
-t-HcE
-t.D8D$pt'H
-t/;>}+D
-t39~`
-t5LcF
-t7A9Q
-t9HcG
-t9HcH H
-t9L!d$ H
-t=H!l$ H
-t?H95
-tA;B`u<H
-tC9Y8t
-tDHcK
-tDLcC
-tED9a
-tFD9>~AA
-tFHcE
-tG;D$duAL
-tH9YXuhH
-tHLcZ
-tIA;y
-tN@8|$UtGD
-tOH9=
-tPA;m
-tQfD9 tK
-tSf91tNH
-tVf91tQH
-tXA90
-tYHcB
-t_D8&tZL
-t_HcI
-t`H91u
-t`L9a0uZH
 tablespoon
 tailoring primary after ignorables not supported
 tailoring quaternary after tertiary ignorables not supported
 tailoring relative to an unassigned code point not supported
-tc@"}
+tanf
+tanh
 teaspoon
 temperature
 template-parameter-
@@ -7546,145 +5199,26 @@ territory
 territoryContainment
 tertiary
 tertiary tailoring gap too small
+ther
 timeData
 timeSeparator
 timezone
-tkD9d$PukH
-tn9STu
-tqiN(
 traditional
 trans
 transPost32
 transPre32
-tyfD9 tsH
 typeAlias
 typeMap
 typeOffsets
-tz9X|toH
 tzdbNames
-t{H9/tQL
-u	D8@
-u	H!C
-u	H9B
-u	H9k
-u	HcD
-u H9VPt
-u H;F
-u HcA
-u!A96
-u"HcMHH
-u$A96
-u%9Q`u A
-u%9X|~ 
-u%H+y
-u%fA;
-u&D;t$X}
-u'9;u#
-u'D;t$X} D
-u'E9.
-u)D;E
-u)H;Oxt#A
-u*A9Q`u$
-u*D;M
-u+;K(t&Hc
-u+H;K
-u+H;Oxt%E
-u+H;Wxt%E
-u,9;u(
-u,;uXu'
-u,H;Oxt&A
-u.H9>uBA
-u0D;E
-u0HcF
-u1!D$0H
-u1A;P
-u1H!D$ H
-u1H;Wxt+E
-u3D9L$`
-u3HcH<H
-u4D9~
-u4HcA
-u8H;Wxt2E
-u8IcB
-u9!\$0
-u9@8{
-u:!|$ L
-u:LcB
-u=H9_
-u?D8k
-u?E8\$	u
-uDL96~?L
-uFM9/tA
-uJ!D$ L
-uJ8]ouEH
-uLHcA
-uNH9{
-uPD9]
-uPI91tK
-uQE8F
-uRL;A
-uTHcF H
-uU<lu#
-uW!|$ L
-uXHcF
-u[L9%
-u\A9<$uV
-u]LcF
-u^D8A
-u_D8A
-u_UCharsToChars_58
-u_caseInsensitivePrefixMatch_58
-u_charDigitValue_58
-u_charFromName_58
-u_charName_58
-u_charType_58
-u_charsToUChars_58
-u_countChar32_58
-u_digit_58
-u_foldCase_58
 u_formatMessageWithError_58
 u_formatMessage_58
-u_getNumericValue_58
-u_getPropertyValueEnum_58
-u_hasBinaryProperty_58
-u_isIDPart_58
-u_isIDStart_58
-u_isUWhiteSpace_58
-u_isWhitespace_58
-u_iscntrl_58
-u_isdigit_58
-u_islower_58
-u_ispunct_58
-u_memcmp_58
-u_memcpy_58
 u_parseMessageWithError_58
 u_parseMessage_58
-u_strCompare_58
-u_strFromUTF8_58
-u_strToUTF8_58
-u_strchr_58
-u_strcmp_58
-u_strcpy_58
-u_strlen_58
-u_strncmp_58
-u_strncpy_58
-u_strstr_58
-u_terminateChars_58
-u_terminateUChars_58
-u_unescapeAt_58
 u_vformatMessageWithError_58
 u_vformatMessage_58
 u_vparseMessageWithError_58
 u_vparseMessage_58
-uaA91
-ub@8|$@u
-ubrk_close_58
-ubrk_following_58
-ubrk_isBoundary_58
-ubrk_open_58
-ubrk_setText_58
-uc!|$ L
-ucD9~
 ucadata
 ucal_add_58
 ucal_clearField_58
@@ -7731,16 +5265,6 @@ ucal_setGregorianChange_58
 ucal_setMillis_58
 ucal_setTimeZone_58
 ucal_set_58
-ucase_getSingleton_58
-ucase_getTypeOrIgnorable_58
-ucase_toFullFolding_58
-ucase_toFullLower_58
-ucase_toFullTitle_58
-ucase_toFullUpper_58
-ucln_registerCleanup_58
-ucnv_close_58
-ucnv_open_58
-ucnv_toUChars_58
 ucol_cloneBinary_58
 ucol_closeElements_58
 ucol_close_58
@@ -7820,11 +5344,6 @@ ucsdet_open_58
 ucsdet_setDeclaredEncoding_58
 ucsdet_setDetectableCharset_58
 ucsdet_setText_58
-ucurr_forLocale_58
-ucurr_getDefaultFractionDigitsForUsage_58
-ucurr_getName_58
-ucurr_getPluralName_58
-ucurr_getRoundingIncrementForUsage_58
 udat_adoptNumberFormatForFields_58
 udat_adoptNumberFormat_58
 udat_applyPatternRelative_58
@@ -7863,12 +5382,6 @@ udat_toPatternRelativeDate_58
 udat_toPatternRelativeTime_58
 udat_toPattern_58
 udat_unregisterOpener_58
-udata_close_58
-udata_getLength_58
-udata_getMemory_58
-udata_openChoice_58
-udata_printError_58
-udata_swapDataHeader_58
 udatpg_addPattern_58
 udatpg_clone_58
 udatpg_close_58
@@ -7894,12 +5407,6 @@ udatpg_setDecimal_58
 udtitvfmt_close_58
 udtitvfmt_format_58
 udtitvfmt_open_58
-uenum_close_58
-uenum_nextDefault_58
-uenum_openCharStringsEnumeration_58
-uenum_openFromStringEnumeration_58
-uenum_unextDefault_58
-uf!T$(H!T$ 
 ufieldpositer_close_58
 ufieldpositer_next_58
 ufieldpositer_open_58
@@ -7918,42 +5425,10 @@ ufmt_isNumeric_58
 ufmt_open_58
 ugender_getInstance_58
 ugender_getListGender_58
-uhash_close_58
-uhash_compareCaselessUnicodeString_58
-uhash_compareChars_58
-uhash_compareLong_58
 uhash_compareScriptSet_58
-uhash_compareUChars_58
-uhash_compareUnicodeString_58
-uhash_count_58
-uhash_deleteHashtable_58
 uhash_deleteScriptSet_58
 uhash_equalsScriptSet_58
-uhash_equals_58
-uhash_get_58
-uhash_geti_58
-uhash_hashChars_58
-uhash_hashLong_58
 uhash_hashScriptSet_58
-uhash_hashUChars_58
-uhash_hashUnicodeString_58
-uhash_iget_58
-uhash_igeti_58
-uhash_iput_58
-uhash_iputi_58
-uhash_nextElement_58
-uhash_openSize_58
-uhash_open_58
-uhash_put_58
-uhash_puti_58
-uhash_removeAll_58
-uhash_removeElement_58
-uhash_setKeyDeleter_58
-uhash_setValueDeleter_58
-uiter_next32_58
-uiter_previous32_58
-uiter_setUTF8_58
-ukD9{ te
 ulocdata_close_58
 ulocdata_getCLDRVersion_58
 ulocdata_getDelimiter_58
@@ -7965,8 +5440,6 @@ ulocdata_getNoSubstitute_58
 ulocdata_getPaperSize_58
 ulocdata_open_58
 ulocdata_setNoSubstitute_58
-um!D$ H
-umD9L$X
 umsg_applyPattern_58
 umsg_autoQuoteApostrophe_58
 umsg_clone_58
@@ -7981,6 +5454,7 @@ umsg_vformat_58
 umsg_vparse_58
 unbalanced UnicodeSet pattern brackets
 union 
+unit
 unit-narrow
 unit-short
 units
@@ -8026,7 +5500,6 @@ unumsys_isAlgorithmic_58
 unumsys_openAvailableNames_58
 unumsys_openByName_58
 unumsys_open_58
-uo8]Duj8]Eue
 uplrules_close_58
 uplrules_openForType_58
 uplrules_open_58
@@ -8111,7 +5584,6 @@ uprv_decNumberZero_58
 uprv_deleteConditionalCE32_58
 uprv_getWindowsTimeZoneInfo
 uprv_isInvariantUnicodeString
-uq9t$hu
 uregex_appendReplacementUText_58
 uregex_appendReplacement_58
 uregex_appendTailUText_58
@@ -8192,7 +5664,6 @@ ureldatefmt_combineDateAndTime_58
 ureldatefmt_formatNumeric_58
 ureldatefmt_format_58
 ureldatefmt_open_58
-usLcC E;
 usearch_close_58
 usearch_first_58
 usearch_following_58
@@ -8220,17 +5691,6 @@ usearch_setCollator_58
 usearch_setOffset_58
 usearch_setPattern_58
 usearch_setText_58
-uset_clear_58
-uset_close_58
-uset_getItemCount_58
-uset_getItem_58
-uset_getSerializedRangeCount_58
-uset_getSerializedRange_58
-uset_getSerializedSet_58
-uset_openEmpty_58
-uset_openPatternOptions_58
-uset_open_58
-uset_size_58
 uspoof_areConfusableUTF8_58
 uspoof_areConfusableUnicodeString_58
 uspoof_areConfusable_58
@@ -8267,30 +5727,10 @@ uspoof_setAllowedLocales_58
 uspoof_setAllowedUnicodeSet_58
 uspoof_setChecks_58
 uspoof_setRestrictionLevel_58
-uspoof_swap(): Spoof Data header is invalid.
-uspoof_swap(): data format %02x.%02x.%02x.%02x (format version %02x %02x %02x %02x) is not recognized
-uspoof_swap(): too few bytes (%d after ICU Data header) for spoof data.
+uspoof_swap(): Spoof Data header is invalid.\n
+uspoof_swap(): data format %02x.%02x.%02x.%02x (format version %02x %02x %02x %02x) is not recognized\n
+uspoof_swap(): too few bytes (%d after ICU Data header) for spoof data.\n
 uspoof_swap_58
-ustr_hashCharsN_58
-utLc7H
-utext_clone_58
-utext_close_58
-utext_current32_58
-utext_equals_58
-utext_extract_58
-utext_getNativeIndex_58
-utext_moveIndex32_58
-utext_nativeLength_58
-utext_next32_58
-utext_openConstUnicodeString_58
-utext_openUChars_58
-utext_openUnicodeString_58
-utext_previous32_58
-utext_replace_58
-utext_setNativeIndex_58
-utf8_back1SafeBody_58
-utf8_nextCharSafeBody_58
-utf8_prevCharSafeBody_58
 utmscale_fromInt64_58
 utmscale_getTimeScaleValue_58
 utmscale_toInt64_58
@@ -8315,30 +5755,15 @@ utrans_transUChars_58
 utrans_trans_58
 utrans_unregisterID_58
 utrans_unregister_58
-utrie2_close_58
-utrie2_enumForLeadSurrogate_58
-utrie2_enum_58
-utrie2_freeze_58
-utrie2_get32_58
-utrie2_isFrozen_58
-utrie2_openFromSerialized_58
-utrie2_open_58
-utrie2_serialize_58
-utrie2_set32ForLeadSurrogateCodeUnit_58
-utrie2_set32_58
-utrie2_setRange32_58
-uy;uxtqH
 uzKs@>
-u~H;{x}xH
-u~HcA
-v'E8Y	u
 v2!L.2
-vHfD;wH
 variableTop
 virtual 
+void
 void 
 volatile
 volatile 
+volt
 volume
 vzone_clone_58
 vzone_close_58
@@ -8365,12 +5790,13 @@ vzone_useDaylightTime_58
 vzone_writeFromStart_58
 vzone_writeSimple_58
 vzone_write_58
-v}`[>
-wTHcGT
-wVKcT
+watt
 wchar_t
+week
 weekData
 weekday
+west
+wide
 windows-1250
 windows-1251
 windows-1252
@@ -8380,58 +5806,16 @@ windows-1255
 windows-1256
 windowsZones
 writing collation elements
-wt.E3
-x	;|$$}
-x	uprv_deleteUObject_58
-x ATAUAVAWL
-x ATAUAVE3
-x ATAUAVH
-x ATAUAWH
-x ATAVAWA
-x ATAVAWH
-x ATAVAWIc
-x ATAVAWL
-x ATH
-x AUAVAW
-x AUAVAWH
-x AUAVD
-x AVA
-x AVAWE3
-x AVD
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x UAVAWH
-x!H;sp|
-x2D9C
-x:D;m
-xA^_^[
-xA_A^_^][
-xWI96tRI
-xXI96tSI
-x_^][
+xT?V
 xpxxxx
-xuBf;
 xwpwpp
-y	Cu#A
-y	fu#A
-y(I;HH}
-yA*t	H
-yB*t	H
-yBNu'
-y\PD>!
+yard
+year
 years
-z&u$L
-z&u$f
-z'u%L
-z+u)H
-z;u9H
-z>@G'h
-zTuRH
-zY;>u:m	
-z`u^H
+z>h4
+zero
 zodiacs
+zone
 zone-long
 zone-short
 zoneStrings
@@ -8457,93 +5841,5 @@ ztrans_open_58
 ztrans_setFrom_58
 ztrans_setTime_58
 ztrans_setTo_58
-zu^Hc
-{ ATAVAWH
-{ AUAVAWH
-{ AVH
-{ UATAUAVAWH
-{&1q>
-{D0uu
-{DEu	
-{H+Q x
-{XL9;
-{f;\$hryf;\$ls
 {flat}
 {for 
-|"D9C
-|#tAM
-|$ A+
-|$ AVH
-|$ AWH
-|$ E3
-|$ H;
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ fA
-|$ s1
-|$(A^
-|$(A_
-|$(E3
-|$(Hc
-|$0A;
-|$0A^A]
-|$0A_A^
-|$0E3
-|$0Hc
-|$0w-fD
-|$4D8l$0
-|$4E+
-|$89^
-|$8;3
-|$8A^A]A\
-|$8A_A^A\
-|$8A_A^A]
-|$8E3
-|$8IcFlM
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$@E3
-|$@H;
-|$HD9d$0
-|$HD9l$0
-|$HE3
-|$HE;
-|$P9G
-|$PE3
-|$XE3
-|$XF@
-|$XHc
-|$XHcU
-|$\.u
-|$^.u
-|$`;t$l
-|$`A;
-|$`CI
-|$`ss
-|$pE3
-|/9C$
-|>fj;
-|@McQ
-|b=})>
-}$;]X|
-}(D8x(
-}HM9'u
-}]E;}
-}gM;nxtv3
-}ucD+
-~ $s%r
-~!A8G
-~%HcOpH
-~'fA;
-~+A8(t&H
-~5Lci
-~E;>u
-~IHcG8I
-~JfD;
-~KD9+u
-~YD9+
-~bLcZ
-~gfA9Du
-~mL9I

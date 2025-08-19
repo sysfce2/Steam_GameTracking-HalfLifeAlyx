@@ -1,77 +1,28 @@
-	"Emit continuously" and "Emit noise" no longer support "scale emission to used control points".
-	"Position from control points" had a max control point added to it.
-	%4d -  %s
-	D;ClD
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZ
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %4i: 
- 'L>[
- 9(X`
- ?t$7?
- A;Kl
- A;{l
- A\_^
- A^A\_
- A^A]^
- A^][
- A^_[
- A^_]
- A^_^
- A_A]A\^[
- A_A]A\_[
- A_A^A\
- A_A^A]A\_
- A_A^A]A\_H
- A_A^A]A\_^]
- A_A^^
- A_A^_
- A_^[
- A_^]
- A__]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  Child collection: [%p]
  Child: 
  Class Hierarchy Descriptor'
  Complete Object Locator'
- D;~l
- E;Sl
- E;|$l
- H3E H3E
- Hc9H
- HcyH3
- Ic0I
- Ic8I
  Type Descriptor'
  delete
  delete[]
- new[]
- next: %p, parent: %p
- tDE3
+ new
+ next: %p, parent: %p\n
  throw(
- u=Hc+;k
- vJH+
  volatile
-!,X< w
-!4G(H
-!4G(L
-!>6'Y
-"Position within sphere random" no longer supports the "randomly distribute to highest supplied Control Point" feature
-"Remap control point orientation to rotation" does something approaching sanity for the cases I looked at.  If we have cases where this isn't appropriate, we can split out the behavior.
-"Remap control point orientation to rotation" rewritten to make more sense.
+"Position within sphere random" no longer supports the "randomly distribute to highest supplied Control Point" feature\n\t"Emit continuously" and "Emit noise" no longer support "scale emission to used control points".\n\t"Position from control points" had a max control point added to it.
+"Remap control point orientation to rotation" does something approaching sanity for the cases I looked at.  If we have cases where this isn't appropriate, we can split out the behavior.\n
+"Remap control point orientation to rotation" rewritten to make more sense.\n
 "Set control point rotation" pre-emission operator now correctly produces right-handed matrices [previously it would produce left-handed ones].
-"Twist around axis" force now rotates around the specified control point instead of control point 0.
-"pA3Q b
+"Twist around axis" force now rotates around the specified control point instead of control point 0.\n
 # of children to enable
 # of children to set
 # of control points to set
-#L9A0H
-$>!@v>
 $AMBIENTSCALE
 $COLORWARPINTENSITY
 $DETAIL2BLENDFACTOR
@@ -103,385 +54,39 @@ $SPECULARCOLOR
 $SPECULAREXPONENT
 $SPECULAREXPONENTBLENDTOFULL
 $SPECULARSCALE
-$tIAT	K
+$tIAT\tK
 %.15lf
+%02X
 %02x 
-%40s: Age: %6.2f, next sleep %6.2f NumActive: %3d, flags %d, Bounds Center: (%.2f,%.2f,%.2f) (0x%p)
+%40s: Age: %6.2f, next sleep %6.2f NumActive: %3d, flags %d, Bounds Center: (%.2f,%.2f,%.2f) (0x%p)\n
 %i %i %i %i
+%lld
+%llu
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
-%s allocation count overflow( %llu >= %llu )
-%s is trying to get CP object %d but the function read limit is %d
-%s is trying to get CP renderable %d but the function read limit is %d
-%s: %s
-%s: string format requested %d chars
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-'":|;
+%s allocation count overflow( %llu > %llu )\n
+%s allocation count overflow( %llu >= %llu )\n
+%s is trying to get CP object %d but the function read limit is %d\n
+%s is trying to get CP renderable %d but the function read limit is %d\n
+%s: string format requested %d chars\n
+&Sgw
 'Lighten blend mode
 ('8PW
-(4$fA
-(50/ 
-(5x,#
-(5}, 
-(@ Hc
-(A]A\][
-(A]A\^]
-(A^A]A\^
-(A^_^]
-(A_A\_^][
-(A_A^
-(A_A^_^][
-(C@fD
-(D$ @
-(D$ A
-(D$ D
-(D$ H
-(D$ I
-(D$ f
-(D$0D
-(D$0E
-(D$0H
-(D$0L
-(D$0f
-(D$0fA
-(D$@A
-(D$@D
-(D$@E2
-(D$@H
-(D$@Hc
-(D$PD
-(D$PH
-(D$PI
-(D$PL
-(D$PL9t$0t6H
-(D$`A
-(D$`D
-(D$`H
-(D$`L
-(D$pH
-(D$pL
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$ A
-(L$ D
-(L$ H
-(L$ I
-(L$0D
-(L$0H
-(L$@A
-(L$@D
-(L$@H
-(L$@I
-(L$PD
-(L$PH
-(L$`D
-(L$pA
-(L$pD
-(L$pE
 (None)
-(T$ A
-(T$ D
-(T$ H
-(T$ I
-(T$0A
-(T$0D
-(T$0H
-(T$@D
-(T$@H
-(T$PD
-(T$`D
-(T$`H
-(T$pD
-(\$ D
-(\$ H
-(\$ I
-(\$0A
-(\$0D
-(\$@D
-(\$@H
-(\$@L
-(\$PA
-(\$PD
-(\$PH
-(\$Pt
-(\$`D
-(\$`H
-(\$pA
-(\$pD
-(\$pL
-(\$pM
-(_^][
-(d$ D
-(d$ E
-(d$ H
-(d$ I
-(d$0D
-(d$0H
-(d$@D
-(d$@I
-(d$PD
-(d$PH
-(d$`D
-(d$pD
-(l$ A
-(l$ D
-(l$0D
-(l$@D
-(l$@H
-(l$PD
-(l$PE
-(l$PH
-(l$`D
-(l$`H
-(l$pD
-(l$pE
-(l$pL
 (null)
-(o:R	
-(t$ D
-(t$ H
-(t$ I
-(t$ L
-(t$ t
-(t$0A
-(t$0D
-(t$0E3
-(t$0H
-(t$0L
-(t$0u
-(t$@A
-(t$@D
-(t$@H
-(t$@L
-(t$PD
-(t$PH
-(t$PL
-(t$`;
-(t$`D
-(t$`H
-(t$`L
-(t$`Lc
-(t$pD
-(t$pH
-(t$pL
-(|$ A
-(|$ D
-(|$ H
-(|$ I
-(|$03
-(|$0A
-(|$0D
-(|$0H
-(|$0I
-(|$@D
-(|$@H
-(|$@I
-(|$@L
-(|$PD
-(|$PI
-(|$PL
-(|$`D
-(|$`H
-(|$`I
-(|$`L
-(|$pA
-(|$pD
-(|$pI
-(|$pL
-)4$H;
-)4$t,A
-)>6{1n
-)D$ A
-)D$ B
-)D$ D
-)D$ E
-)D$ H
-)D$ I
-)D$ L;
-)D$ f
-)D$ t
-)D$0A
-)D$0B
-)D$0D
-)D$0H
-)D$0tk
-)D$@A
-)D$@D
-)D$@L
-)D$@t
-)D$PA
-)D$PD
-)D$`A9vp
-)D$`D
-)D$`E
-)D$pA
-)D$pD
-)D$pH
-)G uu
-)L$ D
-)L$ fA
-)L$0A
-)L$0E
-)L$0L;
-)L$@D
-)L$@E
-)L$@L#
-)L$PA
-)L$PD
-)L$PE
-)L$PH
-)L$`A
-)L$`D
-)L$`E
-)M`D8
-)O uu
-)T$ E
-)T$ H
-)T$0D
-)T$0w
-)T$@D
-)T$PD
-)T$PH
-)T$`D
-)T$`F
-)T$`H
-)T$pB
-)T$pD
-)T$pF
-)\$ D
-)\$0D
-)\$0E
-)\$@A
-)\$@D
-)\$@L
-)\$PD
-)\$PE
-)\$`A
-)\$`D
-)\$`E
-)\$`L
-)\$pD
-)\$pH
-)\$pL
-)d$ D
-)d$ E
-)d$0D
-)d$@F
-)d$@L;
-)d$PD
-)d$PF
-)d$Pf
-)d$`D
-)d$`E
-)d$`H
-)d$pD
-)l$ D
-)l$ s
-)l$0D
-)l$0E
-)l$@D
-)l$@E
-)l$PD
-)l$PL
-)l$`D
-)l$`H
-)l$pA
-)l$pD
-)l$pE
-)t$ 2
-)t$ A
-)t$ D
-)t$ H
-)t$ I
-)t$ K
-)t$ L
-)t$ f
-)t$0A
-)t$0D
-)t$0E
-)t$0E3
-)t$0H
-)t$0I
-)t$0K
-)t$0L
-)t$0fff
-)t$0s
-)t$0|
-)t$@%
-)t$@3
-)t$@<	
-)t$@A
-)t$@D
-)t$@E
-)t$@E3
-)t$@H
-)t$@L
-)t$@L#
-)t$@Lc
-)t$PE
-)t$PH
-)t$PI
-)t$`A
-)t$`D
-)t$`E3
-)t$`F
-)t$`H
-)t$pD
-)t$pE
-)t$pH
-)t$pI
-)|$ A
-)|$ D
-)|$0A
-)|$0D
-)|$0E
-)|$0H
-)|$0Hc
-)|$@D
-)|$@L
-)|$@fA
-)|$PA
-)|$PD
-)|$PE
-)|$PL
-)|$PLc
-)|$Pv
-)|$`D
-)|$`H
-)|$`L
-)|$pA
-)|$pD
-)|$pE
-)|$pH
-)|$pL
 *StO9>T
-+A$Hc
-+B$Hc
-+C$Hc
-+F$Hc
-+G$Hc
-+M<7>
-+f)>0'
-+h->|
++inf
 +r_stereo_mode_crossed
-,/<-w
-,0<	w
-,0<	w!A
 ,<ellipsis>
-,>u"u?
-,I<%w
-,|%)v
-----------------------------
 -0.9629629
 -1 for all asleep, 1 for all awake
 -10 -10 -10
+-128
 -128 0 0
 -90.0f
+-BfF
+-avx
 -enable_2gb_morphs
+-inf
 -sse2
 -sse3
 -sse4
@@ -490,7 +95,6 @@ $tIAT	K
 .02 .02 .02
 .125 .125 .125
 .25 .25 .25
-.5 .5 .5
 .?AV<lambda_ad753c1e821d108e1a311dfa79cd9d31>@@
 .?AV?$CBaseAppSystem@VIParticleSystemMgr@@@@
 .?AV?$CKV3Transfer_UtlSymbolLargeInterface@V?$CUtlSymbolTableLargeBase@$0A@$0IAA@VCThreadNullMutex@@@@@@
@@ -1275,61 +879,37 @@ $tIAT	K
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
 .idata$5
 .idata$6
 .pdata
-.rPu(
 .rdata
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.sPu$A
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
-.v u3
-.v$u-
-.w$u(D
 .xJ>Hf
 .xdata
 .xdata$x
-.~0u'
-.~4u!H
-/=$!6
-/>58d%
-/A0vs
-/A4vb
-/A8vQ
-/A@sm
-/ADs\
-/AHsK
-/CPs 
-/EPs	
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-/sPsWH
-/sPv"
-/sPv4Hc
-/w$r5
 0 -128 0
 0 0 -800
 0 0 0
@@ -1337,214 +917,85 @@ $tIAT	K
 0 0 0 255
 0 0 1
 0 128 0
+0 20
 0 255
+0.00
 0.001
+0.01
 0.025
+0.0f
+0.25
 00000000-0000-0000-0000-000000000000
-061110000000Z
-0A\_]
-0A]A\_
-0A]A\_^]
-0A^A\_
-0A^^[
-0A^_]
-0A^_^
-0A_A]A\_]
-0A_A]^
-0A_A^A\
-0A_A^A]A\]
-0A_A^A]A\^
-0A_A^A]A\_
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^]
-0A_A^^
-0A_A^^H
-0A_A^_
-0A_A^_^]
-0A__]
-0A__^
-0D8y9tG
-0D8y9tJ
-0D;D$8~
-0H;\$Pu
 0iN>/
-0tt@:
-0t{A+
-0v0b1
 1 0 0
 1 1 1
 1 1000
 1#IND
 1#QNAN
 1#SNAN
+1.0f
+1.3f
+1.75
 1.85185185
 10 10 10
 100.0
+1000
 1000 1000 1000
 100000
 1000000
 100000000
 1000000000
+1024
+11Y@
 128 0 0
-131022120000Z
+1345
 137.508
-141022000000Z
-181004000000Z
-1<.	/>:
+15.0
 1DBlend
 2.791139
+2000
 200000.0
 200000000
-200616201419Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
 255 255 255 255
 256.0
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
+3.3f
+30.0
 33S@ff
-3;D$@wpA
-3;D$DwuA
+37>k
 3>N;kU
 3>fvw
 3L?Zb%
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-6WQEI
-6\? ]
+45.0
+4?Ku
+5000
+60.0
+64.0
 700PP
-7HcD$P
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8$u*E
-80tWD
-8?u$H
-8@tJH
-8@tKH
-8@u<H
-8A^A]^[
-8A_A\
-8A_A^
-8A_A^A]A\_^][
-8A_A^A]]
-8A_A^^]
-8Jt/A
-8L9g(H
-8Xu6H
-8Zu H
-8_^][
-9	t	H
-9	tGH
-9)~vH
-99C }
-99~-H
-99~3H
-99~CH
-9?uP3
-9D$ t
-9D$@t
-9Kl~eL
-9\$`~[
-9] ~WH
-9^P~4H
-9_p~$
-9ql~s
-9rl~`
-9sx~)H
-9yl~|H
-9zl~ffff
-9|$ ~3I
+75.0
+8f?D
 :???;???;???3776>????/?/????7'7&>?????????
-:Hc{h;{xu
 ;1#INF
-;A ~W
-;C ~M
-;D$0u
-;D$@@
-;D$XwrA
-;D$`u
-;D$hu
-;D$x|
-;E(s,H
-;H(}TH
-;H(}]H
-;H9>&X
-;L$0u
-;M`}a;Mx}\
-;SD|8
-;T$@u
-;XX}+H
-;\$ }#H
-;\$0}#H
-;\$8|
-;\$`|
-;\$l|
-;\$p|
-;^ u	H
-;d15H
-;h(}ZH
-;il}]H
-;kl}3L
-;kl}SH
-;l$ |
-;l$0|
-;pX}iH
-;s u	H
-;t$H|
-;uHVL
-;w u	H
-;|$@|
-;|$H}#H
-<	tWH
-<	u"H
-<	w	@
-<	w*M
-< t;<	t7
-<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->
+<!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
 <!-- schema 
-<1~-<3~ <4t5<5t
-<==9=-=)==
-<?u7H
-<XuKH
-<_uoH
-<`t'!U
 <deferred>
 <ellipsis>
 <elt type not set>
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <unconnected>
 <unimplemented>
 <unknown>
-=!@f>
-==)=-=9==<
-=Z.K>
+=2qg
+=87M
+=cQ6
 =imb;D
->!@6>
->!@F>
->;8d?
->??;???;??
->Ae@?
->E)u?|
->FixupResourceName: Illegal full path passed in ("%s")!
+>FixupResourceName: Illegal full path passed in ("%s")!\n
+>cQ6
 >jtm}S
-?	CDE3
-?	CDL
 ?/?????/?.>??????????????>>??;?/?+???;?/?**?/?;???+?/?;??>>??????????????>.?/?????/?
-?5zlO
 ?7zQ6$
-?:kP<
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMutex@@QEAA@XZ
-??;???;??>
 ?????????>&7'7????/?/????>6773???;???;???:
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?ConMsg@@YAXPEBDZZ
@@ -1554,14 +1005,12 @@ $tIAT	K
 ?ExitScope@CVProfile@@QEAAXXZ
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?Lock@CThreadMutex@@QEAAXPEBDH@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
 ?Replace@CBufferString@@QEAAHPEBD0_N@Z
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
@@ -1575,153 +1024,10 @@ $tIAT	K
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@_N@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
-?k+"?
-?nP{<
-?w&Hc7;w
-?w'Hc
-?w'Hc*;j
-?w'Hc+;k
-?w'Hc2;r
-?w'Hc3;s
-?w'Hc;;{
-?w(Ic(A;h
-?w(Ic0A;p
-?w(Ic8A;x
-?w*Hc
-?w*Hc+;k
-?w*Lc#D;c
-?w*Lc3D;s
-?w+Ic8A;x
-?w-Lc3D;s
-?w-Lc7D;w
-?w=Hc2;r
-?w~Hc3;s
-@.data
-@.gfids
-@.tls
-@81u/H
-@8i9u @
-@8l$`tZ@8l$htIH
-@8{8t
-@8|$^t
-@>%>b
-@A]A\^
-@A]_^
-@A^A]A\
-@A^A]A\^]
-@A^_^
-@A_A]A\_^
-@A_A]A\_^][
-@A_A]^
-@A_A^A\_^
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^[
-@A_A^]
-@A_A^_
-@A_A^_^]
-@A__^][
-@H9A@u
-@SAUH
-@SAVAWH
-@SAVH
-@SUATAUAWH
-@SUATAUH
-@SUAVH
-@SUVAVH
-@SUVWATAUAVAWH
-@SUVWAUAVH
-@SUVWAVH
-@SUVWAWH
-@SUVWH
-@SUWAVAWH
-@SVATAUAWH
-@SVAVH
-@SVAWH
-@SVWH
-@SWATAUAWH
-@SWAUH
-@SWAWH
-@UATAUAVAWH
-@UATAVH
-@UATH
-@UAUAVAWH
-@UAUH
-@UAVAWH
-@UAVH
-@UAWH
-@USATAUH
-@USAUAVH
-@USAVH
-@USVAVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAUAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWATAVH
-@USWATAWH
-@USWAWH
-@USWH
-@UVATAUH
-@UVAUAVH
-@UVAVAWH
-@UVAVH
-@UVAWH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWATH
-@UVWAVH
-@UVWH
-@UWAVH
-@UWAWH
-@VATAUAVAWH
-@VATAUAVH
-@VATAUH
-@VATH
-@VAUAWH
-@VAVH
-@VAWH
-@WATAUH
-@WATAVH
-@WATH
-@WAUAWH
-@WAVAWH
-@WAVH
-@b;zO]
-@lA9F
+?qBJ
+?ysB
 A minimum on particle simulation time, particle simulation happening more frequently than this will lerp.
-A(I;E
-A+F$D
-A+G$E
-A0I;E
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A90~5H
-A9<$~
-A9t$p
-A:(uiI
-A;@X}
-A;@`}
-A;@p}
-A;A`}
-A;BX}
-A;Q`}
-A;RX}
-A;Zl|
-A;^@|
-A;^l|
-A;t$p
-A;~l|
 A>pP&
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
@@ -1760,98 +1066,7 @@ ALPHA2
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
 ANIMATION_TYPE_MANUAL_FRAMES
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-ATAUAVAWH
-ATAUAVH
-ATAVAWH
-ATAVH
-ATAWH
-AVAWH
-A\_^[
-A\_^[]
-A\_^]
-A]A\[]
-A]A\^[]
-A]A\_][
-A]A\_^[
-A]A\_^[]
-A]A\_^]
-A]_[]
-A]_^[
-A]_^[]
-A^A\]
-A^A\^]
-A^A\_[]
-A^A\_^[]
-A^A]A\]
-A^A]A\^]
-A^A]A\_[]
-A^A]A\_]
-A^A]A\_^][
-A^A][]
-A^A]]
-A^A]^
-A^A]^]
-A^A]_[]
-A^A]_]
-A^A]_^[]
-A^A]_^]
-A^A]_^][
-A^^[]
-A^_[]
-A^_^[]
-A^_^][
-A_A\[]
-A_A\]
-A_A\^[]
-A_A\^]
-A_A\_[]
-A_A\_^
-A_A\_^[
-A_A\_^]
-A_A]A\[]
-A_A]A\^]
-A_A]A\_^[]
-A_A][]
-A_A]]
-A_A]^]
-A_A]_^
-A_A^A\
-A_A^A\]
-A_A^A\^]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A]A\]
-A_A^A]A\^][
-A_A^A]A\_
-A_A^A]A\_][
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^[]H
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]]
-A_A^A]^]
-A_A^A]_
-A_A^A]_[]
-A_A^A]_^[
-A_A^A]_^[]
-A_A^A]_^]
-A_A^[
-A_A^[]
-A_A^]
-A_A^^
-A_A^^[
-A_A^^]
-A_A^_
-A_A^_]
-A_A^_][
-A_A^_^[]
-A_A^_^]
-A__[]
-A__^[]
-A__^]
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 AbsolutePoseControl
 Acceleration
 Access violation - no RTTI data!
@@ -1864,11 +1079,10 @@ Add to Initial Value
 Add vector to vector
 AddLayer
 Additive alpha - write alpha during additive
-Address of m_Children.m_pHead: [%p]
+Address of m_Children.m_pHead: [%p]\n
 Age - Oldest
-Alfff
 Align
-All Particle Systems:
+All Particle Systems:\n
 Allocated Particles
 Alpha
 Alpha Alternate
@@ -1886,6 +1100,7 @@ Alpha random
 Alpha window threshold random
 Amount of simulation time that can elapse before new systems start falling back to cheaper versions
 Anchor point source
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -1919,6 +1134,7 @@ Apply fog to particle
 Apply global light to color
 Apply motion vectors
 April
+Aq?S
 Arc Duration Maximum
 Arc Speed
 AssertMsg_ConditionFailed
@@ -1932,34 +1148,27 @@ AssetBrowserSystem_001
 AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
-Attempt to read and write stencil at the same time on a particle system. Ignoring write state
+Attempt to read and write stencil at the same time on a particle system. Ignoring write state\n
 Attempted a typeid of nullptr pointer!
-Attempted to create particle system from RESOURCE_HANDLE_INVALID
-Attempted to create particle system from an empty name!
-Attempted to create unknown particle system type %s
-Attempting to use invalid particle definition "%s"!
+Attempted to create particle system from RESOURCE_HANDLE_INVALID\n
+Attempted to create particle system from an empty name!\n
+Attempted to create unknown particle system type %s\n
+Attempting to use invalid particle definition "%s"!\n
 August
-AuthE
 AutoLayer
 Average pixels form sequence 0 and 1 together
 Avg Actual Traces
 Avg Intersection Tests
 Avg. Render (us)
 Avg. Sim (us)
-Ax9Ah
-B'E<H
-B8|09
-B9|= 
-B;|= 
-B@9B0}\HcB0H
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BLURFILTER_BOX
 BLURFILTER_GAUSSIAN
 BONE_INDICES
 BONE_WEIGHTS
 Bad KV3 data (%s)
-Bad KV3 data for resource: %s
+Bad KV3 data for resource: %s\n
 Bad compression
 Bad dynamic_cast!
 Bad header (unrecognized encoding specifier)
@@ -1983,10 +1192,8 @@ BakedLODBuilderMgr001
 Base for falling back to cheaper effects under load.
 BaseIKRig
 BasePhysicsShape
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
@@ -1996,22 +1203,13 @@ Blobulator
 BlurFilterType_t
 BodyGroup
 BodyGroupChoice
+Bone
 Bone Indices
 Bone Weights
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-Browse to the particle in asset browser, right click and select Full Recompile.
 Bump Strength
-C(HcK0H
-C(I;A
-C-yh/
-C09C }6HcC H
-C0I;A
-C8<(u
-C8H!o
-C8HcS@H
-CA< t(<#t
 CAnimMotorList
 CAnimMovementManager
 CAuthPhysJoint
@@ -2022,7 +1220,6 @@ CEntityIndex
 CGeneralRandomRotation
 CGeneralSpin
 CGlobalConfigValueRegistry::HookUpConfigValue
-CHHcKPH
 CKV3FormatManager::RegisterFormatConversion
 CMemAllocSystemInitialize
 CNewParticleEffect
@@ -2032,7 +1229,7 @@ COLLISION_MODE_PER_FRAME_PLANESET
 COLLISION_MODE_PER_PARTICLE_TRACE
 COLLISION_MODE_USE_NEAREST_TRACE
 COLORCORRECTION_VERSION_1
-CONTENT ERROR: Unable to find %s '%s' in model '%s' referenced in particle system '%s'
+CONTENT ERROR: Unable to find %s '%s' in model '%s' referenced in particle system '%s'\n
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CP Entity to Ignore for Collisions
 CP movement tolerance
@@ -2041,13 +1238,13 @@ CP to set
 CP to trace from
 CP visibility maximum
 CP visibility minimum
-CParticleCollection::CParticleCollection [%p]
+CParticleCollection::CParticleCollection [%p]\n
 CParticleCollection::GenerateSortedIndexList
 CParticleCollection::InitializeNewParticles
 CParticleCollection::SetControlPointOrientationFLU
 CParticleCollection::SetNActiveParticles
-CParticleCollection::Term [%p]: %s
-CParticleCollection::~CParticleCollection [%p]
+CParticleCollection::Term [%p]: %s\n
+CParticleCollection::~CParticleCollection [%p]\n
 CParticleCollectionFloatInput
 CParticleCollectionVecInput
 CParticleFloatInput
@@ -2061,12 +1258,12 @@ CParticleFunctionPreEmission
 CParticleFunctionRenderer
 CParticleObjectDesc
 CParticleProperty
-CParticleSnapshot::%s - Invalid attribute mapping specified (must be one-to-one)!
+CParticleSnapshot::%s - Invalid attribute mapping specified (must be one-to-one)!\n
 CParticleSystemDefinition
 CParticleSystemMgr::CreateParticleCollection( Handle )
 CParticleSystemMgr::CreateParticleCollection( Name String )
 CParticleSystemMgr::FindParticleSystem
-CParticleSystemMgr::InitAttributeTable has an out-of-date attribute list! (element %d not set up)
+CParticleSystemMgr::InitAttributeTable has an out-of-date attribute list! (element %d not set up)\n
 CParticleTypeManager::GetErrorResource
 CParticleVecInput
 CParticleVisibilityInputs
@@ -2075,14 +1272,14 @@ CPerParticleFloatInput
 CPerParticleVecInput
 CPiecewiseCurveSchemaWrapper
 CREATION_TIME
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaClassInfo::ReportClassError
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
 CSpinUpdateBase
 CSplitScreenSlot
 CStrongHandle
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTransform
 CURVE_TANGENT_FREE
@@ -2090,10 +1287,10 @@ CURVE_TANGENT_LINEAR
 CURVE_TANGENT_MIRROR
 CURVE_TANGENT_SINE
 CURVE_TANGENT_SPLINE
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<class std::function<void __cdecl(void)>,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
 CUtlLeanVectorBase<class CParticleCollectionFloatInput *,short>::EnsureCapacity
 CUtlLeanVectorBase<class CParticleCollectionVecInput *,short>::EnsureCapacity
 CUtlLeanVectorBase<class CPerParticleFloatInput *,short>::EnsureCapacity
@@ -2104,10 +1301,10 @@ CUtlLeanVectorImpl<class CUtlLeanVectorBase<class CParticleCollectionVecInput *,
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<class CPerParticleFloatInput *,short>,class CPerParticleFloatInput *,short>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<class CPerParticleVecInput *,short>,class CPerParticleVecInput *,short>::AddToTailGetPtr
 CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct texture_use_info_t,256,short>,struct texture_use_info_t,short>::AddToTailGetPtr
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<short,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<short,unsigned short>,unsigned short> >::AllocInternal
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CUtlString
 CUtlString::FormatV
@@ -2142,14 +1339,14 @@ C_INIT_InheritVelocity
 C_INIT_InitFloat
 C_INIT_InitFloatCollection
 C_INIT_InitFromCPSnapshot
-C_INIT_InitFromCPSnapshot: CP %d - No snapshot specified for %s!
-C_INIT_InitFromCPSnapshot: CP: %d - "%s" snapshot for %s has no data!
-C_INIT_InitFromCPSnapshot: CP: %d - "%s" snapshot for %s missing attribute %s (or wrong type, not %d)!
-C_INIT_InitFromCPSnapshot: Unsupported attribute data type! (%d)
-C_INIT_InitFromCPSnapshot: cannot initialize PREV_XYZ - XYZ cannot be read!
-C_INIT_InitFromCPSnapshot: framerate unknown initializing PREV_XYZ! Defaulting to 30fps, but particle velocity may look wrong...
+C_INIT_InitFromCPSnapshot: CP %d - No snapshot specified for %s!\n
+C_INIT_InitFromCPSnapshot: CP: %d - "%s" snapshot for %s has no data!\n
+C_INIT_InitFromCPSnapshot: CP: %d - "%s" snapshot for %s missing attribute %s (or wrong type, not %d)!\n
+C_INIT_InitFromCPSnapshot: Unsupported attribute data type! (%d)\n
+C_INIT_InitFromCPSnapshot: cannot initialize PREV_XYZ - XYZ cannot be read!\n
+C_INIT_InitFromCPSnapshot: framerate unknown initializing PREV_XYZ! Defaulting to 30fps, but particle velocity may look wrong...\n
 C_INIT_InitFromParentKilled
-C_INIT_InitFromParentKilled: Unsupported attribute data type! (%d)
+C_INIT_InitFromParentKilled: Unsupported attribute data type! (%d)\n
 C_INIT_InitSkinnedPositionFromCPSnapshot
 C_INIT_InitVec
 C_INIT_InitVecCollection
@@ -2435,8 +1632,8 @@ C_OP_SetControlPointsToParticle
 C_OP_SetFloat
 C_OP_SetFloatCollection
 C_OP_SetFromCPSnapshot
-C_OP_SetFromCPSnapshot: cannot initialize PREV_XYZ - XYZ cannot be read!
-C_OP_SetFromCPSnapshot: framerate unknown initializing PREV_XYZ! Defaulting to 30fps, but particle velocity may look wrong...
+C_OP_SetFromCPSnapshot: cannot initialize PREV_XYZ - XYZ cannot be read!\n
+C_OP_SetFromCPSnapshot: framerate unknown initializing PREV_XYZ! Defaulting to 30fps, but particle velocity may look wrong...\n
 C_OP_SetParentControlPointsToChildCP
 C_OP_SetPerChildControlPoint
 C_OP_SetPerChildControlPointFromAttribute
@@ -2503,8 +1700,8 @@ Color random
 CommandLine
 CommandProcedure
 CommandProcedureList
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigAttachedModel
 ConfigurationSystem_001
 Confirm Collision Speed Threshold
@@ -2523,7 +1720,6 @@ Control Point for Orientation Amount
 Control point
 ControlPointReference_t
 CorExitProcess
-CpHcKxH
 Create External Particle Impulse
 Create vortices from parent particles
 CreateEventW
@@ -2543,285 +1739,6 @@ Cycle Scalar
 Cycle or diamond double-reference to '%s'
 Cycle time
 CycleOverride
-D$ 	E
-D$ !4G(
-D$ !>;
-D$ !SX
-D$ "4
-D$ "x
-D$ #%
-D$ (,
-D$ ){
-D$ *T
-D$ +/
-D$ -b
-D$ /3
-D$ 2"
-D$ 3[
-D$ 4u
-D$ 6nY
-D$ 7w
-D$ 9-		
-D$ ;>
-D$ ;d15
-D$ ;d15H
-D$ =4L3
-D$ =4L3L
-D$ =e}
-D$ >bx
-D$ AG:
-D$ Ac
-D$ B0L
-D$ BWe
-D$ BbUQ
-D$ E3
-D$ F"5P
-D$ F"5PL
-D$ F&
-D$ FI
-D$ H%=+
-D$ H%=+L
-D$ H;
-D$ Hc
-D$ J]t
-D$ L+
-D$ L4u
-D$ Ll
-D$ M;
-D$ MzA
-D$ N&B:H
-D$ O`
-D$ P-
-D$ R.
-D$ Ri
-D$ U;
-D$ Um
-D$ [m
-D$ \}0
-D$ ]O
-D$ ]c
-D$ `p
-D$ a W
-D$ b-
-D$ d=
-D$ eO
-D$ gH
-D$ h[)
-D$ jQ
-D$ jZ
-D$ kb
-D$ m%9
-D$ m(
-D$ nU
-D$ qA
-D$ r|
-D$ s$
-D$ t"6
-D$ w( 
-D$ x{
-D$ {SP_
-D$ {SP_H
-D$ {SP_L
-D$ }s
-D$ ~Av
-D$ ~B
-D$ ~W
-D$$Hc
-D$$Lc
-D$(9Zl
-D$(@8;t
-D$(A;
-D$(D9jl
-D$(E3
-D$(H;
-D$(Hc
-D$(I	
-D$(Lc
-D$(fA
-D$(u1H
-D$,A;
-D$0+D$`
-D$00\
-D$0;d15
-D$0;d15H
-D$0E3
-D$0H;
-D$0Hc
-D$0I;
-D$0Ic
-D$0L+
-D$0R.
-D$0f+
-D$0ff
-D$0mp
-D$0r|
-D$0t?
-D$49C
-D$8A;
-D$8D8t$8u_H
-D$8E3
-D$8H;
-D$8Hc
-D$8HcJ
-D$8Ic
-D$8L9
-D$8L;
-D$8r|
-D$8t.
-D$8t|H
-D$8u4H
-D$<9T$0wE9T$4w?9T$8w9;
-D$@;C
-D$@;D$8
-D$@A+
-D$@D;
-D$@E3
-D$@H#
-D$@H+
-D$@H9
-D$@H;
-D$@H;G
-D$@Hc
-D$@I	
-D$@L+
-D$@Lc
-D$@mp
-D$@r|
-D$@t?
-D$@tcE
-D$D+D$T
-D$D+D$THc
-D$DA+
-D$H!D$H
-D$HD8
-D$HE3
-D$HH;
-D$HHc
-D$HI;
-D$HIc
-D$Ht*fD
-D$Ht7
-D$Hw=
-D$LfD
-D$P I
-D$P"ZF
-D$P@2
-D$PA;
-D$PD;
-D$PE3
-D$PH+
-D$PH;
-D$PHc
-D$PI	
-D$PI;
-D$PLc
-D$Pk@_aH
-D$Pmp
-D$TE3
-D$THc
-D$XA+
-D$XD+
-D$XD9d$l~!
-D$XE;
-D$XH;
-D$XHc
-D$XIc
-D$`@2
-D$`A;
-D$`D;
-D$`E#
-D$`E3
-D$`H;
-D$`Hc
-D$`Ic
-D$`Lc
-D$`Ll
-D$`fE
-D$`r|
-D$`tT
-D$hE3
-D$hHc
-D$hIc
-D$hLc
-D$hff
-D$ls	
-D$lt*A9
-D$p 69
-D$p<L{
-D$pH+
-D$pHK8
-D$pHc
-D$pHi
-D$pL;
-D$pLc
-D$rfA
-D$tD;
-D$x*>
-D$xE3
-D$xLc
-D$xs[
-D$|fD
-D08@t	
-D18 t
-D8(t[H
-D8*u A
-D8.tnH
-D82u&H
-D85gZ
-D88tT3
-D8=:]
-D8?uKH
-D8L$`u;
-D8d$ht
-D8exu-I
-D8l$ht
-D8t$Ht
-D8t$XuJ
-D8y9tJ
-D8{=t:H
-D8{etHH
-D8}xt H
-D9,2H
-D96~~A
-D9Cl~/f
-D9D$pu
-D9Jl~2
-D9Kl~[
-D9L$t
-D9Rl~lLc
-D9`Xu
-D9d$p~&
-D9ewA
-D9fl~$A
-D9hXu
-D9jl~0A
-D9kP~M
-D9wlt
-D9|$ 
-D9~(~gM
-D9~@~gM
-D9~X~jM
-D9~p~gM
-D;A$|+H
-D;A(|
-D;C }
-D;Cl|
-D;D$0}
-D;Fl|
-D;I@|
-D;Kl|
-D;L$`~!Hc
-D;L$d~
-D;L$l~
-D;L$t~ZH
-D;Zl}cLc
-D;jp}
-D;t$(r
-D;t$x~1
-D;|$l
-D<P0I
-DATAH
-DD$$H
 DETAIL_2_COMBO_ADD
 DETAIL_2_COMBO_ADD_SELF_ILLUM
 DETAIL_2_COMBO_CROSSFADE
@@ -2833,7 +1750,6 @@ DETAIL_COMBO_ADD
 DETAIL_COMBO_ADD_SELF_ILLUM
 DETAIL_COMBO_MOD2X
 DETAIL_COMBO_OFF
-D\Hf;
 D_DETAIL
 D_DETAIL_2
 Darken
@@ -2850,12 +1766,6 @@ Depth feathering mode
 Detail2Combo_t
 DetailCombo_t
 Detect from CP's Object
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Disable to get a better look at what's happening offscreen
 Distance - Nearest
 Distance to Both of Two Control Points
@@ -2881,23 +1791,13 @@ Dual sequence controls
 Dump all new particles, optional name substring.
 Duration value for path point
 DynamicConfigList
-E+BHI
-E0C07
-E4;T$@u
-E;Fl|
-E;Hl|
-E;Sl|
-E;~(H
-ED$8E
-ED$xH
-EP*?@
-EPu1H
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ERROR: SweepRenderer::render_slices got into an infinite loop!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ERROR: SweepRenderer::render_slices got into an infinite loop!\n
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EditorDynamicConfig
-Elapsed time = %f
+Elapsed time = %f\n
 Emit continuously
 Emit instantaneously
 Emit noise
@@ -2912,9 +1812,9 @@ EngineServiceMgr001
 EnterCriticalSection
 Entire Path
 Entity Hitbox Cache Field (Requires Stick on Collision)
-Error in child list of particle system %s [%p], parent: %p
-Error initializing particle system %s
-Error: Sort failed
+Error in child list of particle system %s [%p], parent: %p\n
+Error initializing particle system %s\n
+Error: Sort failed\n
 EventSystem001
 ExitProcess
 Expected "="after member '%s'
@@ -2924,8 +1824,8 @@ Expected ',' or '%s'
 Expected '=' after member name '%s'
 Expected '['
 Expected '[' or '('
-Expected 'systems' or 'operators' as first argument to particle_profile
-Expected 'systems' or 'operators' as first argument to particle_profile_spike
+Expected 'systems' or 'operators' as first argument to particle_profile\n
+Expected 'systems' or 'operators' as first argument to particle_profile_spike\n
 Expected '{'
 Expected ( <count> )
 Expected <member name> after type
@@ -2941,11 +1841,11 @@ External game impulse force
 External generic forces
 External wind force
 Extra Arc Data Point
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
 FCVAR_NEVER_AS_STRING
-FIXME:A particle control point is trying to use an invalid slot %d! Only 64 are available. Ignoring for now, but a crash may happen later if this system is used.
+FEMh\f
+FIXME:A particle control point is trying to use an invalid slot %d! Only 64 are available. Ignoring for now, but a crash may happen later if this system is used.\n
 FORCE_SCALE
-FT&TL
 FX Light
 F_ADDRESS_V_CLAMP
 F_ADDSELF
@@ -2977,15 +1877,16 @@ F_SATURATE_COLOR_PRE_ALPHA_BLEND
 F_SELF_ILLUM_OVER_1
 F_SELF_ILLUM_PER_PARTICLE
 F_TINT_BY_FOW
+F_VR
 Factor to map size adjustment to alpha
 Fading and culling
 Failed to allocate an instance of class '%s'
 Failed to assign bool literal value
-Failed to convert KV3 to string; error: %s
+Failed to convert KV3 to string; error: %s\n
 Failed to determine polymorphic class name
-Failed to init snapshot data for resource '%s'
+Failed to init snapshot data for resource '%s'\n
 Failed to save unsupported class
-Failed to transfer KV3 data for resource '%s' - %s
+Failed to transfer KV3 data for resource '%s' - %s\n
 FeatureID
 February
 FindClose
@@ -2994,11 +1895,11 @@ FindNextFileA
 First control point to set
 First/Oldest Particle
 Fit Lifetime
-Fixed "Animation Type" in Sprite Renderer not working for non-particle normal alignment types.
-Fixed "Inherit Attribute from Parent Particles" not keeping parent particles in sync with children.
+Fixed "Animation Type" in Sprite Renderer not working for non-particle normal alignment types.\n
+Fixed "Inherit Attribute from Parent Particles" not keeping parent particles in sync with children.\n
 Fixed Rate
-Fixed bugs in "Position along path sequential" where it could incorrectly create too many particles at the last control point. Also fixed issues with control points specified in backward order in that operator as well as "Movement lock to saved position along path".
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+Fixed bugs in "Position along path sequential" where it could incorrectly create too many particles at the last control point. Also fixed issues with control points specified in backward order in that operator as well as "Movement lock to saved position along path".\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 Flip U or V texcoords if pitch or yaw go over PI
 FloatInputMaterialVariable_t
@@ -3011,25 +1912,18 @@ FontManager_001
 Force Control Point In Pet
 Force Scale
 Force based on distance from plane
-Frames Measured: %d
+Frames Measured: %d\n
+Free
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-Ft4D+
 Full 3-Axis Rotation
 Full Loop Increment Amount
-Function "%s" not found while loading particle system
+Function "%s" not found while loading particle system\n
 Function is disabled
-G@LcplM
-GD$8H
-GD$8I
-GD$HI
-GD$`H
+GCTL
 GLOW_ALPHA
 GLOW_RGB
-GT$HH
-GT$XH
-G\$hH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
@@ -3037,7 +1931,6 @@ Gamma-correct vertex colors
 Gaussian
 Generic
 GenericGameData
-Genu3
 GetACP
 GetCPInfo
 GetCPUInformation
@@ -3070,42 +1963,7 @@ Globally Scale Initial Attributes
 Glow Alpha
 Glow RGB
 Gravity
-G|$8H
-G|$HI
-H SUVWATAUAVAWH
-H USVATAWH
-H UVAUAVH
-H UVWAVAWH
-H VWAWH
-H!D$ E
-H!T$0D
-H#D$HH;
-H#EwH;
-H#L$0
-H+\$h+
-H+\$hIc<$H
-H0F08
-H3D$ Hi
-H9D$PuCI
-H9H0t
-H9\$8t
-H9]Xt'D
-H9uot	H
-H9|$8
-H;D$Pu
-H;D$`
-H;\$0|
-H;\$P|
-H;\$`uAE9
-H;|$8I
-H;|$P|
-H;|$h
-H;|$x
-H=vpcfu
-HAT	KAT	KAT	KAT	K
-HA^A\_]
-HA_A\
-HA_A]A\_^[
+HAT\tKAT\tKAT\tKAT\tK
 HH:mm:ss
 HITBOX_INDEX
 HITBOX_LERP_CONSTANT
@@ -3113,85 +1971,16 @@ HITBOX_LERP_LIFETIME
 HITBOX_RELATIVE_XYZ
 HSV Shift Control Point
 HSV Shift to control point
-H_^][
 HammerMapLoader001
-Hc.;n
-Hc/;o
-Hc3;s
-Hc<(L
-Hc=!^
-Hc=N	
-HcA(3
-HcAhHk
-HcApHk
-HcD$ H
-HcD$(K
-HcD$0I
-HcD$HH
-HcD$HI
-HcD$`L
-HcD$dH;
-HcD$dI;
-HcD$lI;
-HcD$tI;
-HcEPH
-HcG(H
-HcH0I
-HcH<H
-HcHHI
-HcH`I
-HcK ;
-HcK H
-HcKHM
-HcKx;
-HcL$ H
-HcL$(K
-HcL$P;
-HcL$`
-HcL$dH
-HcL$pH
-HcP@H
-HcRlL
-HcS@H
-HcT$0H
-HcT$0L
-HcT$TI
-HcU`H
-Hc\$@;\$Pu
-Hc\$`I;
-Hc\$tI
-Hc\$tL
-Hc]`M
-Hc_0L
-Hch(3
-HciX3
-HckHL
-HcklL
-Hcp(3
-HcqX3
-Hct$$I;
-Hct$,I;
-Hct$0
-Hct$PH
-Hct$tH
-Hcx(3
-HcxX3
-Hc{l3
-Hc|$HI
 HelpSystem_001
+High
 Hitbox Index
 Hitbox Offset Position
 HitboxLerpType_t
 Hitboxes fall back to render bounds
 HostStateMgr001
 How aggressive the switch to fallbacks will be depending on how far over the cl_particle_sim_fallback_threshold_ms the sim time is.  Higher numbers are more aggressive.
-Ht)I;
-Ht4<Xu[
-I A+I
 I cannot be refracted through refracting objects like water
-I#C(H;
-I0+KH
-I96tn
 IControlPointEditorData
 IKChain
 IKChainOld
@@ -3210,14 +1999,6 @@ IParticleCollection
 IParticleEffect
 IParticleSystemDefinition
 IQuickTime001
-Ic4$A;t$
-Ic>A+
-IcA<I
-IcH$H
-IcR I
-IcT$ I
-Ict$lI
-IfD9TB
 Ignore delta time (RenderTrails)
 IkLockLocal
 Imodel_default_preview_sequence_name
@@ -3228,9 +2009,10 @@ InfoForResourceTypeIParticleSnapshot
 InfoForResourceTypeIParticleSystemDefinition
 Inherit attribute from parent particle
 Inherit initial value from parent particle
+Init
 Init CP orientation to rotations
-Init Collection [%p]: %s
-Init Collection: FAILED due to invalid particle system definition '%s'.
+Init Collection [%p]: %s\n
+Init Collection: FAILED due to invalid particle system definition '%s'.\n
 Init Float
 Init Status Effect
 Init Status Effect (Citadel)
@@ -3251,14 +2033,13 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Instance Count:
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InterlockedPushEntrySList
 Interpolation
 Invalid Color Control Point
 Invalid compressed buffer size
-Invalid control point %d in %s
+Invalid control point %d in %s\n
 Invalid data for member '%s'
 Invalid data.
 Invalid header
@@ -3269,120 +2050,14 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsoSurface
 January
-K UVATAVI
-K UVAVAWH
-K UVAVAWI
-K UVAVH
-K UWAVAWI
-K&>.yC
-K8+C$
+July
+June
 KERNEL32.dll
+KL2H
 KeyValueCache001
 KeyValuesSystem
 Kill Particle
-K~Je#>!
-L#L$@A
-L$ AVH
-L$ E3
-L$ H;L$(
-L$ Hc
-L$ Ic
-L$ SH
-L$ SUH
-L$ SUVH
-L$ SUVWH
-L$ SVWATH
-L$ SVWH
-L$ SWH
-L$ UAVAWH
-L$ UAVH
-L$ UH
-L$ USVH
-L$ USWATAUAVAWH
-L$ UVATAUAWH
-L$ UVATAWH
-L$ UVAUAVH
-L$ UVH
-L$ UVWATAUAVAWH
-L$ UWATAVH
-L$ UWAVH
-L$ WATAUAVAWH
-L$ WH
-L$ fA
-L$ fI
-L$$Mc
-L$&@8t$&t0@8q
-L$(E3
-L$(Hc
-L$(HcD$ M
-L$(Ic
-L$(fH
-L$0E+
-L$0E3
-L$0H;
-L$0Hc
-L$0Ic
-L$0Lc
-L$0fI
-L$0u2
-L$4fA
-L$4t*E
-L$8A9Ol
-L$8A;Ol
-L$8E+
-L$8H3
-L$8Hc
-L$8Ic
-L$8Lc
-L$@9D$ t
-L$@E3
-L$@H3
-L$@Hc
-L$@}B
-L$DD8
-L$DE3
-L$Dt*D
-L$HE+
-L$PD;
-L$PE;gl
-L$PH;
-L$PHc
-L$PHk
-L$PI;
-L$PL#
-L$PLc
-L$PfA
-L$T+L$|D
-L$X+L$x
-L$X+L$|D
-L$`D;
-L$`Hc
-L$dA+
-L$dHc=
-L$hE3
-L$pD+
-L$pE3
-L$pE;
-L$pHc
-L$pfB
-L$tHc
-L$x9_l
-L$xA;
-L$xAi	
-L$xE3
-L$xHc
-L$xIc
-L97taH
-L9:t?
-L9>te
-L9A0H
-L9e0t	H
-L9m(t	H
-L9mot	H
-L9t$0t
-L9ugt	H
-L;D$8L
-L;|$H}
+L>ev
 LCMapStringEx
 LCMapStringW
 LIFE_DURATION
@@ -3391,27 +2066,6 @@ LOS Failure Scalar
 LOS Failure Scale
 LOS collision group
 Last/Newest Particle
-Lc3D;s
-LcA<E3
-LcCPH
-LcL$ 
-LcL$4M
-LcL$hI
-Lc\$@A
-Lca(3
-Lcl$ A
-LcpX3
-Lcsl@
-LcslH
-Lct$$I;
-LcuHD
-LcuPD
-Lcw$H
-Lcw(H
-Lcw,H
-Lcw<H
-Lc}XL
-Lc~ D;~0u	H
 LeaveCriticalSection
 Left Hand
 Lerp attribute to other attribue
@@ -3447,7 +2101,6 @@ Line segments
 Linear
 Linear Falloff
 LinearDelta
-Lj[;>
 LoadLibraryExW
 Local acceleration force
 LocaleNameToLCID
@@ -3458,11 +2111,6 @@ LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
-Ltxf;
-M H1E
-M4;T$@u
-M9.tqA
-M9/t,
 MANUAL_ANIMATION_FRAME
 MATCHFRAMEWORK_001
 MAX_PATTACH_TYPES
@@ -3472,7 +2120,6 @@ MDefaultString
 MISSING_PARENT_DO_NOTHING
 MISSING_PARENT_FIND_NEW
 MISSING_PARENT_KILL
-MLc3D;s
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
@@ -3499,7 +2146,7 @@ MPropertySortPriority
 MPropertySuppressField
 MVectorIsCoordinate
 MVectorIsSometimesCoordinate
-Made disabling operators + children actually fully work.
+Made disabling operators + children actually fully work.\n
 Manual Animation Frame
 MapListService_001
 March
@@ -3512,13 +2159,12 @@ Max Render (us)
 Max Sim (us)
 Maximum Count
 Maximum Trace Length
-Mc>Hc
-McClH
+MbP?
 Medium
 MemAlloc_AllocFunc
 MemAlloc_CallocFunc
 MemAlloc_FreeFunc
-Memory at [%p]:
+Memory at [%p]:\n
 MeshSystem001
 MeshUtils001
 Min Pullforce
@@ -3563,13 +2209,12 @@ MultiByteToWideChar
 Multiplier for falling back to cheaper effects under load.
 Multiply
 Multiply # of rendered particles by this for perf testing
-N IcN I
-N&B:H
-N0IcN0I
 NAN(IND)
 NAN(SNAN)
+NONE
 NONE/Disabled
 NORMAL
+NULL
 Named model body part random
 Named model mesh group random
 Named model sequence random
@@ -3581,7 +2226,7 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-New Particle Systems Matching '%s':
+New Particle Systems Matching '%s':\n
 Newline in string literal
 No Buffer
 No DATA block for resource 
@@ -3590,6 +2235,7 @@ NoPoseControl
 Noise animation time scale
 Noise scalar
 Noise vector
+None
 Normal
 Normal Mapping
 Normal align to CP
@@ -3601,8 +2247,7 @@ Not safe to 'new' this class due to alignment requirements
 November
 Number of Children to Use
 Numer of points along path
-O(t(H
-O8+G$
+OZQ%
 October
 Offscreen Time Before Decay
 Offset
@@ -3610,7 +2255,7 @@ Offset from control point
 Offset from control point for path end
 Offset from curve midpoint for curve center
 Offset from curve start point for path start
-Offset of m_Children.m_pHead: [%i]
+Offset of m_Children.m_pHead: [%i]\n
 Offset vector to vector
 Omni Light
 On (If Possible)
@@ -3618,7 +2263,7 @@ On (Required)
 Only Render in effects bloom pass
 Operator Fade
 Operator Name
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Oscillate scalar
 Oscillate scalar simple
 Oscillate vector
@@ -3628,8 +2273,7 @@ Output Scalar
 Output field 0-2 X/Y/Z
 Output vector
 Overlay
-P8H=vpcf
-P8H=vpcfu
+P8?2
 PARENT_PARTICLE_INDEX
 PARTICLEBLEND_DARKEN
 PARTICLEBLEND_DEFAULT
@@ -3712,12 +2356,6 @@ PATTACH_RENDERORIGIN_FOLLOW
 PATTACH_ROOTBONE_FOLLOW
 PATTACH_WATERWAKE
 PATTACH_WORLDORIGIN
-PA^^[
-PA_A]A\][
-PA_A][
-PA_A^]
-PA_A^_
-PA_^]
 PET_GROUND_GRID
 PET_GROUND_NONE
 PET_GROUND_PLANE
@@ -3759,10 +2397,7 @@ PF_TYPE_PARTICLE_SPEED
 PF_TYPE_PARTICLE_VECTOR_COMPONENT
 PF_TYPE_RANDOM_BIASED
 PF_TYPE_RANDOM_UNIFORM
-PHcApH
 PITCH
-PP;PT|*
-PPLcE
 PRECIPITATION
 PREV_XYZ
 PVEC_TYPE_COUNT
@@ -3781,8 +2416,8 @@ PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 Parent Particle Index
-Particle Error before emit: Effect %s, Function %s (%d, %d)
-Particle Error: Effect %s, Operator %s (%d, %d)
+Particle Error before emit: Effect %s, Function %s (%d, %d)\n
+Particle Error: Effect %s, Operator %s (%d, %d)\n
 Particle ID
 Particle Normal Align
 Particle Operator Perf
@@ -3791,10 +2426,10 @@ Particle Simulation
 Particle Speed
 Particle System
 Particle System Perf
-Particle effect %s setting count to %d
-Particle initializers always run. Previously, some initializers would silently be skipped.
-Particle needs recompiling: '%s'
-Particle texture descriptor array overflow!
+Particle effect %s setting count to %d\n
+Particle initializers always run. Previously, some initializers would silently be skipped.\n
+Particle needs recompiling: '%s'\nBrowse to the particle in asset browser, right click and select Full Recompile.
+Particle texture descriptor array overflow!\n
 Particle/Effect_Rendering
 ParticleAttachment_t
 ParticleAttributeIndex_t
@@ -3827,7 +2462,7 @@ ParticleSystemRequiredResources
 ParticleTopology_t
 ParticleVRHandChoiceList_t
 ParticleVecType_t
-Particlelib: Unsupported CPU or GPU for particle definition "%s"!
+Particlelib: Unsupported CPU or GPU for particle definition "%s"!\n
 Particlelight
 Particles
 Particles/Budget_ActualTraces
@@ -3874,6 +2509,7 @@ Plat_USTime
 Plat_UUIDFromString
 Plat_UUIDToString
 Play EndCap when Finished
+Po5H
 Point vector at next particle position
 PointDefinitionWithTimeValues_t
 PointDefinition_t
@@ -3914,28 +2550,21 @@ PreviewPreset
 PreviewPresetList
 Print debug message every time a particle collection is created
 Print out information on existing particle systems
-Problem loading error.vpcf, please validate your game install
+Problem loading error.vpcf, please validate your game install\n
 Profile particle
 Profile particle spike
 PropertyEditorSystem_001
 Pull towards control point
-Pv0Lc
-Q8D9Q(~
 QAngle
 Quadrilaterals
 Quantize Float
 Quaternion
 QueryPerformanceCounter
 QueuedLoaderVersion001
-Qx;Q||)
-R A;R$|5
 RADIUS
 REFCOUNTED_PTR
-RESLH
-RESLI
 RESOURCE_TYPE_PARTICLE_SNAPSHOT
 RESOURCE_TYPE_PARTICLE_SYSTEM
-RESSH
 RGB blend weight for sequence 0
 RGB blend weight for sequence 1
 ROTATION
@@ -3960,7 +2589,7 @@ RandomFloat
 Reduce rope popping on decay
 Ref Counted Pointer
 Refraction
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Reinitialize on endcap scalar random
 Relative probability
@@ -4064,7 +2693,9 @@ ResourceManifestRegistry001
 ResourceSystem013
 Restart effect after duration
 Right Hand
+Roll
 Roll Speed
+Rope
 Rope Spring constraint
 Rotate vector random
 Rotation basic
@@ -4083,9 +2714,8 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S,, <Zw
-S0;S4|)
-SAUAWH
+S+Ot
+S9>H
 SCALAR_EXPRESSION_ADD
 SCALAR_EXPRESSION_DIVIDE
 SCALAR_EXPRESSION_INPUT_1
@@ -4117,30 +2747,6 @@ SEQUENCE_COMBINE_MODE_WEIGHTED_BLEND
 SEQUENCE_NUMBER
 SEQUENCE_NUMBER1
 SSE and SSE2 are required.
-SUAWH
-SUVATAUAVAWH
-SUVWATAUAVAWH
-SUVWATAUAVH
-SUVWATAUAWH
-SUVWATAWH
-SUVWAVAWH
-SUVWAVH
-SUVWH
-SUWATAUAVAWH
-SUWATAUH
-SVAUAVH
-SVAVAWH
-SVAVH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATAUH
-SVWATAWH
-SVWAU
-SVWAUAVAWH
-SVWAUH
-SWAVH
-SWAWH
-SYMLH
 Saturate color pre alphablend
 Saturday
 Scalar random
@@ -4230,14 +2836,15 @@ SetLastError
 SetStdHandle
 SetUnhandledExceptionFilter
 Shadow Density
-Sim Time Average: %.2fms
-Sim Time Max: %.2fms
-Sim Time Min: %.2fms
+Sim Time Average: %.2fms\n
+Sim Time Max: %.2fms\n
+Sim Time Min: %.2fms\n
+Sine
 Skip rendering on mobile
 SleepConditionVariableCS
 SmoothLoop
 Snapshot Index T Value
-Snapshot load error for resource '%s': %s
+Snapshot load error for resource '%s': %s\n
 Snapshot start point
 Sort Method
 SoundOpSystem001
@@ -4277,58 +2884,10 @@ Subtract
 Sunday
 Synchronize particles
 System Name
-Systems Measured: %d
-T$ A;
-T$ A;T$$|1
-T$ E3
-T$ H;
-T$ Hc
-T$ Ic
-T$ Lc
-T$$D9
-T$$t+
-T$(E3
-T$(E;
-T$(HcD$ L
-T$(fA;
-T$0E3
-T$0H;
-T$0Lc
-T$0t5
-T$4;U
-T$4fD
-T$8+G$A
-T$8+G$H
-T$8D;
-T$8D;t$(r
-T$8I	
-T$@+G$A
-T$@E3
-T$@Hc
-T$@I	
-T$@Lc
-T$P;D$0
-T$P;ol|
-T$PI	
-T$QE3
-T$TI;
-T$XE3
-T$`Lc
-T$hA+
-T$hD;
-T$hE;
-T$lE;
-T$pA;
-T$pD;
-T$pE3
-T$pE;
-T$pHc
-T$puVL
-T$xE3
+Systems Measured: %d\n
 TEXTURE_REPETITION_PARTICLE
 TEXTURE_REPETITION_PATH
 TINT_RGB
-TPRGD
 TRAIL_LENGTH
 TUUUU
 Target color control point number
@@ -4367,7 +2926,7 @@ Total Render (us)
 Total Sim (us)
 Trace Caching
 Trace along particle normal
-Trace cache efficiency = %.2f%% (%d traces for %d tests)
+Trace cache efficiency = %.2f%% (%d traces for %d tests)\n
 Trail Length
 Trail forward shift (fraction)
 Trail length random
@@ -4383,75 +2942,13 @@ Twist amount (-1..1)
 Twist around axis
 Two Bone
 Two KV3 format GUIDs with the same human-friendly name ('%s')
-UATAUAVAWH
-UATAUAVH
-UATAVAWH
-UATAWI
-UAUAVAWH
-UAUAWH
-UAUAWI
-UAVAWH
 UNKNOWN
 UNUSED
 UPDATE_STRING_TOKEN_DATABASE
-USATAUAWH
-USATAWH
-USAUAVH
-USAUAWH
-USAUH
-USAVAWH
-USAWH
-USVATAUH
-USVWATAUAVAWH
-USVWATAUAWH
-USVWATAUH
-USVWATAVAWH
-USVWATH
-USVWAUAVAWH
-USVWAUAVH
-USVWAUH
-USVWAVAWH
-USVWAVH
-USVWI
-USWATAUAVH
-USWAUAVAWH
-USWAUAVH
-USWAUH
-USWAVH
 UUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVATAUAWH
-UVATAVAWH
-UVATH
-UVAUAVAWH
-UVAUAWI
-UVAUH
-UVAVAWH
-UVAVH
-UVAWH
-UVWATAUAVAW
-UVWATAUAVAWH
-UVWATAUH
-UVWATAWH
-UVWATH
-UVWAUAVAWH
-UVWAUAVH
-UVWAVAWH
-UVWAWH
-UWATAUAVH
-UWATAUAWH
-UWATAVAWH
-UWATI
-UWAUAVH
-UWAUH
-UWAVH
-UWAVI
-UWAWH
 Ultra
 Unable to determine buffer encoding.
-Unable to find a valid model handle for m_bModelFromRenderer in '%s'
+Unable to find a valid model handle for m_bModelFromRenderer in '%s'\n
 Underwater Explosion
 Unexpected end of file
 UnhandledExceptionFilter
@@ -4462,10 +2959,9 @@ Unrecognized type '%d'
 Unresolved object reference '%s'
 Unsupported binary encoding id.
 Unsupported text encoding id.
-UoD;Wl
 Update lights
-Usage: particle_profile <'systems'|'operators'> <num_frames>
-Usage: particle_profile_spike <'systems'|'operators'> <spike_threshold_ms>
+Usage: particle_profile <'systems'|'operators'> <num_frames>\n
+Usage: particle_profile_spike <'systems'|'operators'> <spike_threshold_ms>\n
 Use Next Parent Particle
 Use Quaternians Internally
 Use Random Children in Group
@@ -4475,10 +2971,6 @@ Use particle system topology
 Use scalar attribute for texture coordinate
 Use sequential CP pairs between start and end point
 UserInfoChangeService_001
-V6E>`"(5
-VATAUH
-VAUAVH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -4521,19 +3013,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VUUUD
-VUUUE3
-VUUUH
-VWATAUAVAWL
-VWATAUAWH
-VWATAVAW
-VWATAVAWH
-VWATAWH
-VWAUAVAWH
-VWAUAWH
-VWAUH
-VWAVH
-VWAWH
 V_GetFileExtension
 V_IsAbsolutePath
 V_RemoveDotSlashes
@@ -4576,8 +3055,6 @@ V_wcstod
 V_wcstoi64
 Value at end of cycle
 Value at start of cycle
-Valve0
-Valve1
 VecInputMaterialVariable_t
 Vector
 Vector Component
@@ -4602,22 +3079,16 @@ VisBuilder_001
 Visibility input dot use CP angles
 Visibility input dot use Camera angles
 VisibilityInputs
-WARNING: Discarding existing in-progress particle performance request.
-WARNING: Particle system '%s' was not precached correctly. Performing blocking load....
-WARNING: Particle system '%s' with missing path was not found in existing particle system list.
-WARNING: Removing circular reference to particle child '%s'.
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WAUAVAWH
-WAVAWH
-WD$ E
-WT$ A
-W\$pA
+WARNING: Discarding existing in-progress particle performance request.\n
+WARNING: Particle system '%s' was not precached correctly. Performing blocking load....\n
+WARNING: Particle system '%s' with missing path was not found in existing particle system list.\n
+WARNING: Removing circular reference to particle child '%s'.\n
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WaitForSingleObjectEx
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
-Warning: Missing fallback for particle system "%s"!
+Warning:  %s = '%s' is infinite, clamping value.\n
+Warning: Missing fallback for particle system "%s"!\n
 Wednesday
 WeightList
 WideCharToMultiByte
@@ -4631,141 +3102,30 @@ WorldRendererMgr001
 Write normal instead of rotation
 WriteConsoleW
 WriteFile
-Wu4E3
 X Dimension Count
 X Dimension Spacing
-X UVWATAUAVAWH
 X axis scaling scalar field
 X offset of center point
-X%YC#
-X%tA#
-X-|p"
-XD$PE
-XIcA<
-XL$ H
-XL$HD
-XT$dA
-XT$xH
+X/4B
 XY velocity only
-X\$0D
-Xd$DA
-Xl$`A
 X|(pc
 Y Dimension Count
 Y Dimension Spacing
 Y axis scaling scalar field
 Y offset of center point
-Y-BB 
-YD$HIc
-YHD9Y@~DE
-YL$@A
-YL$@E
-YL$xD
-YRdHc
-YT$4Lc
-Y\$@A
-Y\$HA
-Y\$pD
-Yd$ H
-Yl$`%
-Yt$`D
-Y|$XA
+Y?Mi
+Yz'x
 Z Dimension Count
 Z Dimension Spacing
 Z axis scaling scalar field
 [aOni*{
 [thunk]:
-\$ 9\$H
-\$ ATAVAWH
-\$ AVH
-\$ H+
-\$ H;
-\$ Hi
-\$ Ic
-\$ UH
-\$ UVAWH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWAW
-\$ UWATH
-\$ VH
-\$ VWATH
-\$ VWAWH
-\$ WATAVH
-\$ WAVAWH
-\$ WH
-\$ tG
-\$(Hc|$ H
-\$(L#
-\$0D;
-\$0E3
-\$0H+
-\$0H;
-\$0Hc
-\$0L+
-\$0t8H
-\$8A^A\_
-\$8Hc
-\$8fD
-\$8t$
-\$8tX
-\$@9\$8
-\$@9\$8~I
-\$@@8=)*	
-\$@A__^]
-\$@E3
-\$@H;
-\$@Hc
-\$@Ic
-\$@Mc
-\$@fA
-\$HHc
-\$HLc
-\$Ht	H
-\$Hta
-\$PA+
-\$PE3
-\$PLc
-\$PfD9
-\$Pfff
-\$Ptf
-\$XfA
-\$`D;L$l~
-\$`fD
-\$`fff
-\$hD;T$d~!Hc
-\$pD+
-\$pD;T$d~ Hc
-\$pLc
-\$tD;
-\$xHc
-\$xfA
-\D$(C
-\D$0I
-\D$@D
-\D$DA
-\D$HA
-\D$dD
-\D$pH
-\L$,K
-\L$PI
-\L$XA
-\T$DD
-\T$HD
-\T$dB
-\l$ D
-\l$DB
-\l$XH
-\l$pD
-\t$dH
-]4;L$@u
-]KPLc
-]T$dHc
-]pu"H
+\nCwf\r
+\n\n----------------------------\nInstance Count:\n
+\t%4d -  %s\n
+\tcQr
+\tkE>fvw
 ^<V7w
-^EdLc
-^T$dH
-^vdHc
 _V_strncmp
 _V_strncpy
 _V_strnicmp_fast
@@ -4788,18 +3148,9 @@ __temp_unserialization_member__
 __thiscall
 __unaligned
 __vectorcall
-__w64 
 _class
 _procedural_particle_snapshot.vsnap
 _test_conversion_counter
-` UAVAWH
-`.rdata
-`A^_]
-`A_A]_
-`A_A^A]A\_[]
-`A_A^A]A\_^]
-`A__[
-`E;t$
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -4925,6 +3276,7 @@ bakelightindex
 bakelightindexscale
 batch particle systems
 behavior if parent particle dies
+bias
 bias distance
 bias in local space
 bias in local system
@@ -4941,13 +3293,14 @@ blockLOS
 body part
 body_type
 bodygroup field
+bone
 bone_name
 bone_names
 bonemerge
+bool
 bouncecolor
 bounding box max
 bounding box min
-bp(=>?g
 break age
 break comparison control point 1
 break comparison control point 2
@@ -4959,12 +3312,10 @@ breakable_count
 breakable_model
 breakable_skin
 brush only
+bt3V
 bulge control 0=random 1=orientation of start pnt 2=orientation of end point
 burst_randomize
 burst_scale
-c [1>H'
-c(>\,
-c0u%A9
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\kv3lib\kv3format_manager.cpp
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
@@ -4988,7 +3339,6 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\mempool.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlbuffer.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
-cAMDD
 cable
 cable end cap offset amount
 cable end cap shape factor
@@ -4996,7 +3346,7 @@ cable_tesselation_ib
 cable_tesselation_vb
 cablevertices
 cache attribute to read from
-can't solve quadratic for light %f %f
+can't solve quadratic for light %f %f\n
 cantdie
 carry_type
 cast shadows
@@ -5005,6 +3355,7 @@ center
 center around control point
 center core radius
 center offset
+char
 char 
 char16_t
 char32_t
@@ -5132,26 +3483,7 @@ cylinder inner radius
 cylinder outer output
 cylinder outer radius
 cylinder top control point
-d$ Lc
-d$ UAVAWH
-d$ uAH
-d$(A+
-d$(E3
-d$(t2H
-d$0D;
-d$0Lc
-d$8D;
-d$@E8,$
-d$P+A$t
-d$PD;
-d$PHc
-d$`t=Lc
-d$hE2
-d$hIc
-d$pHc
-d$pLc
-d$tfff
-d$|fD
+d8L2
 damage
 dampen scale
 data_offset
@@ -5162,7 +3494,7 @@ decay delay
 decay time
 decibel level field
 decibel level scale
-def min cpu=%d system cpu=%d def gpu=%d system gpu=%d
+def min cpu=%d system cpu=%d def gpu=%d system gpu=%d\n
 default
 default text
 default value
@@ -5215,6 +3547,7 @@ dmg.club
 dmg.explosive
 dmg.fire
 double
+drag
 draw as opaque
 draw caps at each end of the cable
 dual sequence combine mode
@@ -5226,7 +3559,7 @@ duration scale
 dynamic control point count
 dynamic_interaction
 e+000
-e0A_A^A]A\]
+eF>t
 eLK(w
 ease in and out
 ease out
@@ -5270,7 +3603,6 @@ end value for soft edges for distance alpha
 ending control point
 ending force
 ensure line of sight
-entiA
 enum 
 environment map texture
 error
@@ -5292,11 +3624,6 @@ exponential falloff exponent
 expression
 extern "C" 
 f>KZ}
-fB9|H
-fD90t
-fD94Fu
-fD96u
-fD9t$b
 faceMergeAngle
 fade bias
 fade end time
@@ -5316,8 +3643,6 @@ falloff linearity
 falloff power
 falloff range
 false
-ffffff
-fffffff
 field to init
 field to read
 field to write
@@ -5373,11 +3698,10 @@ game_keys
 generate normals for cylinder
 generic
 generic-type-
-gfffA
-gfffffffH
 global center point
 global normal
 global origin
+glow
 glow_alpha
 glow_rgb
 golden angle (is 137.508)
@@ -5385,10 +3709,9 @@ gravity
 group ID to affect
 group emission times for new particles
 group id
-h UAVAWH
-hA^A\
-h_^][
+h0'D
 half-lambert normals
+hand
 hand control point number
 handindex
 haptic hand
@@ -5407,14 +3730,10 @@ hollow
 horizontal texture offset
 horizontal texture scale
 how long before a trail grows to its full length
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hue adjust
 hurt_me
 hurt_them
-iW!]4/
+iWy?
 ignore delta time
 ignore normal
 ignore radius
@@ -5422,7 +3741,6 @@ ikdata
 ikrig
 impulse type
 include water
-ineIA
 infinite bounds - don't cull
 inherit CP orientation
 inherit attribute from peer particle systems
@@ -5461,6 +3779,7 @@ input volume maximum in cubic units
 input volume minimum
 input volume minimum in cubic units
 instant jump threshold
+int 
 intensity
 internal error in particle system MapParticleOrientationIndexToShaderCombo()
 interploation distance tolerance cp
@@ -5479,68 +3798,14 @@ invert input from total particle count
 invert_orientation
 is_debris
 itemgroups
-iu+-,
-k HcKX;
-k WAVAWH
-k0i0$
-k?!@&>
-k@_aH
+k=yI
 kill on no collision
 kill particle on collision
 kill unused
-l$ 9Q
-l$ AUAVAWH
-l$ AVAW
-l$ AVH
-l$ D9l$0|LH
-l$ E3
-l$ H+
-l$ UAVAWH
-l$ VAUAVH
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$ VWAVH
-l$ WAVAWH
-l$ WH
-l$(E;
-l$0A_A^
-l$0D;
-l$0H+
-l$0Hc
-l$0Ic
-l$0Ic(A;h
-l$0L+
-l$0ff
-l$8H+
-l$@Hc
-l$@Lc
-l$HA_A^A]A\_^
-l$HfA
-l$HtY
-l$Ht`
-l$PE3
-l$TE3
-l$XA+
-l$XHcilH
-l$XHcnlH
-l$Xt`Hc
-l$`D;
-l$d;}
-l$hE3
-l$hHc
-l$hLc
-l$hMc
-l$lE9nl
-l$pD8
-l$pD;
-l$pH+
-l$pt&H
-l$tA;
-l$x@8
 last_sniff
 latency CP
 latency CP field
+lcQe
 length
 length max
 length min
@@ -5587,7 +3852,7 @@ light 4 type 0=point 1=spot
 light amplification amount
 light bias
 light cookie string
-light has _fifty_percent_distance of %f but no zero_percent_distance
+light has _fifty_percent_distance of %f but no zero_percent_distance\n
 light per vertex
 light priority
 light radius multiplier
@@ -5612,13 +3877,18 @@ local space scale
 lock rotation
 lockRotationAlpha
 log10
+long
 long 
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 low violence definition
-m0k0$
+lwK?
+mG4>
+mXr4
+m\nXo
 m_ActivityName
 m_AttachmentName
 m_Attenuation0
@@ -5632,7 +3902,7 @@ m_CenterOffset
 m_ChainData
 m_ChildRef
 m_Children
-m_Children.m_pHead: [%p]
+m_Children.m_pHead: [%p]\n
 m_CollisionGroupName
 m_Color
 m_ColorFade
@@ -6976,6 +5246,7 @@ maximum time step
 maximum trace length
 maximum velocity
 maximum visual size
+mesh
 mesh group
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
@@ -7059,14 +5330,14 @@ models
 motion vectors texture
 multiplayer_break
 n03>Pu
-nD$Hf
-nL$PH
+n?9a
+n\f"pA3Q b
+name
 names
 nan(ind)
 nan(snan)
 nav_attribute_avoid
 nav_data
-ngZ8L
 noise amount 0
 noise amount 1
 noise amount 2
@@ -7090,9 +5361,9 @@ normalize
 normalize fade times to endcap
 normalize output
 normalize output 0/1
-not obeying particle system stencil of failure to parse stencil comparison string %s
-not rendering particle system because of failure ot parse stencil write string %s
-ntelE
+not obeying particle system stencil of failure to parse stencil comparison string %s\n
+not rendering particle system because of failure ot parse stencil write string %s\n
+null
 num to emit
 num_particles
 numsegments
@@ -7160,7 +5431,6 @@ oscillation rate
 oscillation rate max
 oscillation rate min
 oscillation start phase
-ot$ H
 outer cone angle
 outerconeangle
 outline alpha
@@ -7196,16 +5466,8 @@ override CP 2 (X/Y/Z *= pitch/yaw/roll)
 override CP field
 override max velocity from this CP
 override translucent materials
-p AWH
-p UWATAVAWH
-p(?!@V>
-p0n05
-p1f3q>
-pA^^]
-pA_A^A\
-pA_A^^
-pA_^]
-p`9p t
+owM&
+p\r0\fP
 parent_bone
 particle
 particle density
@@ -7280,7 +5542,6 @@ pose_control
 pose_control_type
 position
 position cache attribute
-pp9p$t
 pre emission operators
 precomputedmaxrange
 preferred_carryangles
@@ -7307,10 +5568,8 @@ public:
 purecall
 pvec_color_black
 pvec_color_white
-q(@85
-qmMiL
-r	Vr.>T
-r:D8v
+quX?
+r\tVr.>T
 r_draw_particle_children_with_parents
 r_drawparticles
 r_freezeparticles
@@ -7407,9 +5666,9 @@ reverse order
 reverse point order
 reverse warp (0/1)
 reverse z-buffer test
-rhH;qht#H
 right eye first seq offset
 rigid lock
+roll
 rootNode
 rope shake
 rotate normals
@@ -7428,10 +5687,6 @@ rotation strength
 rotation_speed
 roughness texture
 roundness factor
-s"Hc}
-s$fff
-s&Hc}
-s4+sP+
 s_hRenderInputLayout
 saturation adjust
 save offset
@@ -7514,9 +5769,9 @@ sheet animation time scale
 short
 short 
 shuffle
-siN|L
 signed 
 simulation timescale
+size
 size at which to fade away
 size at which to start fading
 size0
@@ -7594,8 +5849,6 @@ std::nullptr_t
 std::nullptr_t 
 stencil test ID
 stencil write ID
-stfE;
-stgE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -7612,114 +5865,10 @@ suppress stop event
 suppress tinting of the model
 surface_prop
 systems
-t"<.u
-t#Hc+;k
-t$ ;k
-t$ <`
-t$ A;
-t$ AVH
-t$ AWH
-t$ E3
-t$ H+
-t$ Lc
-t$ Li
-t$ Mc
-t$ UH
-t$ UWATAUAVH
-t$ UWAVH
-t$ WATAUAVAWH
-t$ WATAVH
-t$ WAVAWH
-t$ WH
-t$ WL
-t$$A+
-t$(E3
-t$(H+
-t$,A+
-t$,ff
-t$0+A$t
-t$0D9t$@|LH
-t$0E3
-t$0Hc
-t$0Hc2
-t$0Hc3;s
-t$0Hcs
-t$0Ic0A;p
-t$0L;t$8}
-t$8H+
-t$8Hc
-t$8Hi
-t$8Ic
-t$8Lc
-t$8Lk
-t$8Mc
-t$@9{l
-t$@E3
-t$@Hc
-t$@Ic
-t$@Ic0A;p
-t$@Lc
-t$@Lc3D;s
-t$@Mc0E;p
-t$HD8{
-t$HE3
-t$HE;
-t$HHc1H
-t$HIc
-t$HLc
-t$HM+
-t$HM;
-t$PA;
-t$PE3
-t$PHc
-t$PLi
-t$XE3
-t$XfA
-t$Xt	H
-t$`A+
-t$`D8
-t$`E3
-t$`Hc
-t$`I;
-t$`Li
-t$`Lk
-t$hMc
-t$lA;vl
-t$pA+
-t$pE3
-t$pHc
-t$x;_@u
-t$xA;
-t$|A9vl
-t$|A;vl
-t&fff
-t(A8(t
-t*D8#t
-t.@8:t)
-t/D83t*
-t0@87t+
-t0@8;t+
-t0D8;t+
-t1Hc;;{
-t1LcI
-t7HcH
-t9H9=
-t9L;Cht(M
-t<D9V
-tBA8]=
-tCIcu
-tEIc/A
-tMD8{=t:H
-tMIc/A
-tOH9=
-tSIc/A
-tWD8{etDH
-t]<-u
 tail alpha scale
 tail color scale
 tail taper scale
 target layer ID for rendering
-te9wl~`H
 template-parameter-
 tes_index_buffer
 tesselation resolution scale factor
@@ -7727,6 +5876,7 @@ tessellation scale factor
 test direction
 test_angles_relative
 texcoord
+text
 texture
 texture UV horizontal Scale field
 texture UV vertical Scale field
@@ -7763,8 +5913,6 @@ tonemap weight scale
 total_frames
 total_render
 total_sim
-trD8(tmH
-trHcL$0L
 trace accuracy tolerance
 trace collision group
 trace direction override
@@ -7778,25 +5926,16 @@ travel time scale field
 treat distance between points as radius
 treat offset as scalar of particle radius
 treat offset as scale of total distance
-ttMcN
-ttfff
-tu+K$3
+true
 turn_rate
 twist axis
-u	@8=
-u3HcH<H
-u98D$`u;H
-uFM9/tA
-uPI91tK
-uf!T$(H!T$ 
+type
 uniform speed
 uniform_burst
 union 
 unknown
 unsigned 
 unused
-uo9rl
-uoA9E
 use additive blending
 use bones instead of hitboxes
 use continuous emission
@@ -7826,7 +5965,6 @@ use the derivative
 use velocity for test direction
 use_additional_offset
 uzKs@>
-v0t08
 v2!L.2
 value
 value to lerp to
@@ -7862,17 +6000,18 @@ visibility radius scale maximum
 visibility radius scale minimum
 visibility unsupported hardware fallback value
 visibility vr camera right eye
-vmatH
-vmdlH
+vmdl
 vmdlkeys0
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+void
 void 
 volatile
 volatile 
 volume field
 volume scale
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -7899,14 +6038,10 @@ vpcf6
 vpcf7
 vpcf8
 vpcf9
-vpcfH
-vpcfL
-vpcfM
 vr_carry_type
 vsnap
 vstdlib.dll
-vtexH
-wXD8Q
+w8#5
 wait for children to finish
 warp amount
 warp max
@@ -7923,155 +6058,16 @@ wrap input
 write stencil on z-buffer test failure
 write stencil on z-buffer test success
 written field
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x ATAVAWH
-x AV3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x UAUAWH
-x UAVAWH
-x";C }
-x'Hc+;k
-x'Hc3;s
-x(Ic(A;h
-x(Ic0A;p
-x(Ic8A;x
-x+Ic0A;p
-x0v0$
-xA^^][
-xA_A^
-xA_A^A]A\
-xA_A^A]A\_^[]
-xKHc+;k
-xMIc(A;h
-xRHcQ
-x\Ic(A;h
-x_^][
 xwpwpp
-y(A;}
-y7A;]
-y\PD>!
 yaw initial
 yaw offset max
 yaw offset min
 yaw random exponent
 yaw_end
 yaw_start
-z0x0:
 z:KCAuthPhysBody
-{ AVH
 {YIN?
 {flat}
 {for 
-{}[]()=&, 	
-{}[]=, 	
-|$ 9^@~#H
-|$ A+
-|$ A;
-|$ ATAVAW
-|$ ATAVAWH
-|$ AVD
-|$ AVH
-|$ AWH
-|$ E3
-|$ Lc:A
-|$ UATAUAVAWH
-|$ UAUAVH
-|$ UH
-|$$E3
-|$(9sl
-|$(A^
-|$(E3
-|$(Hc
-|$(I;
-|$,E3
-|$,ff
-|$09s
-|$0;\$ 
-|$0A+
-|$0A;
-|$0A^^
-|$0E3
-|$0E;
-|$0H;}
-|$0Hc
-|$0Ic
-|$0Ic8A;x
-|$0Lc
-|$0f9EPu
-|$0s-
-|$0w	
-|$8).H
-|$89^
-|$8;3
-|$8A;
-|$8A_A^A\
-|$8Hc
-|$8Hc{
-|$8Hi
-|$8Hk
-|$8L;
-|$@-D
-|$@-H
-|$@H;
-|$@Hc
-|$@Hcyp;
-|$@Hi
-|$@Lc
-|$@t	3
-|$@u6H
-|$@uKH
-|$HA+
-|$HE3
-|$HHc
-|$HHc7;w
-|$Ht#
-|$PA;^ u
-|$PE3
-|$PE;
-|$PHc
-|$PHc{@$
-|$PI;
-|$PIc
-|$XA+
-|$XHcU
-|$XIc
-|$\.u
-|$\D;m
-|$`@2
-|$`A+
-|$`Ic
-|$`Lc
-|$hA+
-|$hD+
-|$hE;
-|$hff
-|$lA+
-|$pA8M9H
-|$pD;
-|$pD;d$H
-|$pE3
-|$pHc
-|$xE3
-|$xH+
-|$xLc
-|${H+
-|0Hc7;w
-|b=})>
-}"f;y
-}=-<H
-}Hfff
-}^jIL
-~ $s%r
-~!A;~
-~#fff
-~,IcZ
-~28\$0t
-~4fff
-~Pfff
-~^>9cx
+{}[]()=&, \t\n'"*;
+{}[]=, \t\n'":|;

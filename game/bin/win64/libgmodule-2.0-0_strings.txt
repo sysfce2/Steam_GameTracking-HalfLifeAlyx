@@ -1,65 +1,16 @@
                           
-        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- A^_^
- A_A^A\
- A_A^A\^]
- A_A^A\_^
- tDE3
-!This program cannot be run in DOS mode.
-!t$(H!t$ I
-#fD9M
-'%s': 
 -64OS
-.pdata
-.text
-0A_A^A]
-0A_A^A]A\_
+.dll
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-80tVD
-8D$8t
-< tD<	t@
-</assembly>
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
-@.data
-@.reloc
-@.rsrc
-@A_A^A]A\_
-@A_A^]
-@SUVWATAVAWH
-@SUVWAVH
-@SUVWH
-@SVWH
-@UATAUAVAWH
-@UAVAWH
-@USVWH
-A81t@@8r
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-ATAVAWH
-AUAVAWH
-A^A\_
-A^_^][
-A_A^A\_^
-A_A^A]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^]
-A_A^_
 April
 August
-AuthA
 CloseHandle
 CloseThreadpoolTimer
 CloseThreadpoolWait
@@ -72,19 +23,6 @@ CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
 CreateToolhelp32Snapshot
-D!l$h3
-D$(E3
-D$0L9
-D$XD+
-D$p H
-D+moA
-D82u&H
-D8L$Ht
-D8t$Ht
-D95YQ
-D9l$`
-D9l$dtXH
-D9|$ 
 December
 DecodePointer
 DeleteCriticalSection
@@ -142,12 +80,8 @@ GetTickCount64
 GetTimeFormatEx
 GetUserDefaultLocaleName
 GetUserObjectInformationW
-H3E H3E
 HH:mm:ss
-HcD$PH;
-HcH<H
-HcM H
-Hct$@H
+HMXB
 HeapAlloc
 HeapFree
 HeapReAlloc
@@ -159,20 +93,11 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsValidLocaleName
 January
+July
+June
 KERNEL32.dll
-L$ SVWH
-L$0H;
-L$8H3
-L$@E3
-L$Df;
-L$HH3
-L$`H3
-L$hE3
-L$pH3
-L$xH3
 LCMapStringEx
 LCMapStringW
-LcA<E3
 LeaveCriticalSection
 LoadLibraryExW
 LoadLibraryW
@@ -183,16 +108,17 @@ Module32First
 Module32Next
 Monday
 MultiByteToWideChar
+NKeb
 November
 October
 OutputDebugStringW
-PA^_^
-PA_A^A\_^][
 QueryPerformanceCounter
+RSDS
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlUnwindEx
 RtlVirtualUnwind
+S;uD
 Saturday
 September
 SetDefaultDllDirectories
@@ -206,9 +132,6 @@ SetThreadpoolWait
 SetUnhandledExceptionFilter
 Sleep
 Sunday
-T$&@8t$&t9@8r
-T$PE3
-T$`E3
 TerminateProcess
 Thursday
 TlsAlloc
@@ -216,43 +139,20 @@ TlsFree
 TlsGetValue
 TlsSetValue
 Tuesday
-UVATAVAWH
-UVWATAUAVAWH
-UWAVH
 UnhandledExceptionFilter
-VWATAVAWH
-VWAVH
-WATAUAVAWH
-WATAVH
 WaitForThreadpoolTimerCallbacks
 Wednesday
 WideCharToMultiByte
 WriteConsoleW
 WriteFile
-\$ UH
-\$ UVWATAUAVAWH
-\$ WH
-\$0D9=
-\$0H3
-\$0H;
 \.libs
-^;q)G
-` AUAVAWH
-`.rdata
-`A^_]
 abcdefghijklmnopqrstuvwxyz
 bind-now-modules
 c:\buildslave\pango_win32\build\glib-2.42.0\build\win32\vs12\Release\x64\bin\libgmodule-2.0-0.pdb
-cAMDD
 dddd, MMMM dd, yyyy
 dlname
 e+000
-entiE
-fD90t
-fD93u
 failed to open libtool archive "%s"
-fffff
-fffffff
 g_ascii_strcasecmp
 g_file_test_utf8
 g_filename_display_name
@@ -289,45 +189,20 @@ g_strdup_printf
 g_strdup_vprintf
 g_utf8_to_utf16
 g_win32_error_message
-gfffA
-gfffffffH
 initialization check failed: 
 installed
-l$ VWATAVAWH
-l$XD+
+kU'9
 libdir
 libglib-2.0-0.dll
 libgmodule-2.0-0.dll
+main
 module != NULL
 module->ref_count > 0
 module_name != NULL
-ntelD
-p AWH
-r=D8v
 resident-modules
-sYHcL$HH
 symbol != NULL
 symbol_name != NULL
-t$ UH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$8H+
-t$8Hc0I
-t$@fA
-tcH95!
-u	A!B
 unable to access file "%s"
 unable to parse libtool archive "%s"
-x ATAVAWH
-x AUAVAWH
-x AVH
-x_^][
 z?aUY
 zc%C1
-|$ H;
-|$ UATAUAVAWH
-|$0-H
-|$@-D
-|$@-H
-|$PD;

@@ -1,61 +1,26 @@
-	6RtcZO"
-	D$0H
-	JR>8o
-	M9H v^L
-	Message: %s
-	Title: %s
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
          Sum (%s)
-    %s %d: proc %d (group %u:%u)
-    -press "Broadcast Minidump"
-    -type up a short description of what you were doing
+    %s %d: proc %d (group %u:%u)\n
    Avg Time/Call (%s)
    Avg Time/Frame (%s)
-  %02d: %u:0x%llx
-  %2u - proc %2u (grp %u:%-2u / phy %u / cor %u / smt %u): max freq %llu
-  %52.52s%12d%12.3f%12.3f%7.2f%12.3f%7.2f%12.3f%12.3f%12.3f%12.3f
-  %s slot %d combined mask %u:0x%llx
+  %02d: %u:0x%llx\n
+  %2u - proc %2u (grp %u:%-2u / phy %u / cor %u / smt %u): max freq %llu\n
+  %52.52s%12d%12.3f%12.3f%7.2f%12.3f%7.2f%12.3f%12.3f%12.3f%12.3f\n
+  %s slot %d combined mask %u:0x%llx\n
   ---------- --------  
   ------------ ----------  
   ------------ ------------  
-  ---------------------------------------------------- ----------- ----------- ----------- ------ ----------- ------ ----------- ----------- ----------- -----------
+  ---------------------------------------------------- ----------- ----------- ----------- ------ ----------- ------ ----------- ----------- ----------- -----------\n
   Count  
-  HEAP_ZERO_MEMORY is specified.
-  Peak   
-  Scope                                                      Calls Calls/Frame  Time+Child    Pct        Time    Pct   Avg/Frame    Avg/Call Avg-NoChild        Peak
- !"#$%&'()*+,-./0
+  HEAP_ZERO_MEMORY is specified.\n
+  Scope                                                      Calls Calls/Frame  Time+Child    Pct        Time    Pct   Avg/Frame    Avg/Call Avg-NoChild        Peak\n
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  %12.3f %12.2f
  %12s %12s
- 'L>[
- (%s: 
  (forced)
  (including user space up to 63 bits)
  -codemsg "
- .u%Hc
- 8}+M8
- 9(X`
- ;o\|
- A]A\_][
- A^A\_
- A^A]^][
- A^^]
- A^_^
- A_A^A\
- A_A^A\_^
- A_A^A\_^][H
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_]
- A_A^[
- A_A^]
- A_A^_
- A_A^_^]
- A__]
  B\kji2
  Base Class Array'
  Base Class Descriptor at (
@@ -63,57 +28,40 @@
  Class Hierarchy Descriptor'
  Complete Object Locator'
  File
- H3E H3E
  Type Descriptor'
  bytes
  delete
  delete[]
- new[]
- t38S<u
- t?D9
- tDE3
- tPD8k2u3H
- tQD8c:u0M
+ low
+ new
  throw(
- vJH+
  volatile
-!,X< w
-!>6'Y
-!\>G[
 "%s" +url_execute "%%1"
-"%s": 
-"></img>
 "e?<<<<<<l?
-"f9;t
 "name" of the file referenced by the symbolic link named /etc/malloc.conf
-"u*Hc
 #4o>w
+#9fm
 #Ib?AG
 $Ib?s
-%%%d%s
-%%-%d%s
-%%.%if
-%%.%if%s
-%.0f pct of time accounted for
-%0*llx bytes at %0*llx is the largest open user-space VA region%s
-%0*llx bytes of %s at %0*llx%s
-%0*llx: address after highest user-space virtual region
+%.0f pct of time accounted for\n
+%0*llx bytes at %0*llx is the largest open user-space VA region%s\n
+%0*llx bytes of %s at %0*llx%s\n
+%0*llx: address after highest user-space virtual region\n
 %2d.%03d
 %6.2f
-%8.4f / %9.2f:  %s
-%8.4f / %9.2f:  Writing profile data to '%s'
+%8.4f / %9.2f:  %s\n
+%8.4f / %9.2f:  Writing profile data to '%s'\n
 %8.8x-%4.4x-%4.4x-%2.2x%2.2x-%2.2x%2.2x%2.2x%2.2x%2.2x%2.2x
 %8x-%4x-%4x-%2x%2x-%2x%2x%2x%2x%2x%2x
-%GoU?*
 %SYSTEMROOT%\system32\dbghelp.dll
 %WINDIR%\system32\dbghelp.dll
-%d frames sampled for %.2f seconds
+%d frames sampled for %.2f seconds\n
 %d:%02d.%03d
 %d:%02d:%02d.%03d
-%llu,%u,%u,%s
-%s %i %s
-%s (%d)
+%llu
+%llu,%u,%u,%s\r\n
 %s (%d) : %s
+%s (%d) : %s\n
 %s (Build %d) version %d.%d (LimitedUser: %s)
 %s -contextstart %d -codefile "%s" -codeline %d
 %s test: multithread interleaved push/pop, %s
@@ -124,43 +72,40 @@ $Ib?s
 %s test: single thread push, multithread pop, %s
 %s test: single thread push/pop, in order... 
 %s test: single thread push/pop, interleaved... 
-%s total bytes in user-space regions (%s bytes in kernel-space regions)
+%s total bytes in user-space regions (%s bytes in kernel-space regions)\n
 %s%s_%d_%02d%02d_%02d%02d%02d_%d%s%s.mdmp
 %s(%d%%) %s
-%s():
 %s: Unable to get executable filename (%d byte buffer).
-%s: Unable to load SDL
-%s: added string size %d overflows (added to %d)
-%s: capacity request for %d can't be satisfied (max %d)
-%s: different number of names and flags
-%s: different number of names and pointers
-%s: invalid capacity %d requested
-%s: invalid flag byte count
-%s: invalid nBufferChars %d
-%s: invalid nByteIndex %d (string %d)
-%s: invalid nChars %d (index %d, string %d)
-%s: invalid nChars %d (string %d)
-%s: invalid nIndex %d (string %d)
-%s: invalid nNewChars %d
-%s: invalid nOldChars %d (string %d)
-%s: invalid nStart %d (string %d)
-%s: invalid pointer byte count
-%s: invalid string pointer (string chars %d)
-%s: requested conversion of %d chars
-%s: string format requested %d chars
-%s: string length overflows (is %d, adding %d)
-%s: unable to find %s in '%s'
-%s: unable to load '%s', error %d
+%s: Unable to load SDL\n
+%s: added string size %d overflows (added to %d)\n
+%s: capacity request for %d can't be satisfied (max %d)\n
+%s: different number of names and flags\n
+%s: different number of names and pointers\n
+%s: invalid capacity %d requested\n
+%s: invalid flag byte count\n
+%s: invalid nBufferChars %d\n
+%s: invalid nByteIndex %d (string %d)\n
+%s: invalid nChars %d (index %d, string %d)\n
+%s: invalid nChars %d (string %d)\n
+%s: invalid nIndex %d (string %d)\n
+%s: invalid nNewChars %d\n
+%s: invalid nOldChars %d (string %d)\n
+%s: invalid nStart %d (string %d)\n
+%s: invalid pointer byte count\n
+%s: invalid string pointer (string chars %d)\n
+%s: requested conversion of %d chars\n
+%s: string format requested %d chars\n
+%s: string length overflows (is %d, adding %d)\n
+%s: unable to find %s in '%s'\n
+%s: unable to load '%s', error %d\n
 %s\DefaultIcon
 %s\Shell\Open\Command
 %s_singleton_mutex
-%u MB address space used assuming maximum PageHeap overhead.
-%u MB allocated.
-%u MB memory used assuming maximum PageHeap overhead.
-%u lifetime allocations (%u delta).
-%u outstanding allocations (%d delta).
-&	$@06p
-&#039;
+%u MB address space used assuming maximum PageHeap overhead.\n
+%u MB allocated.\n
+%u MB memory used assuming maximum PageHeap overhead.\n
+%u lifetime allocations (%u delta).\n
+%u outstanding allocations (%d delta).\n
 &?PPPPPPP?
 &AElig;
 &Aacute;
@@ -186,6 +131,7 @@ $Ib?s
 &Oslash;
 &Otilde;
 &Ouml;
+&Sgw
 &THORN;
 &Uacute;
 &Ucirc;
@@ -268,138 +214,41 @@ $Ib?s
 &yacute;
 &yen;
 &yuml;
-'D8l$@
-'f?FO-
 ( 8PX
-(%=Y)
-(%oW)
 ('8PW
-(-OW)
-(=EW)
-(=]U)
-(=yX)
-(A^_][
-(A_A^
-(A_A^A\_
-(A_A^H
-(A_A^_]
-(A_]H
-(D$ @
-(D$ A
-(D$ H
-(D$ f
-(D$0H
-(D$0f
-(D$@H
-(D$PD
-(D$PH
-(D$PL9t$0t6H
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$@D
 (Missing)
-(T$0D
-(T$Pf
-(T$pf
-(T?j?Y
 (Unaccounted)
 (Unknown Cause)
-(\$ H
 (failed)%s
-(l$0I
 (null)
-(o:R	
-(t$ H
-(t$ I
-(t$0A
-(t$0H
-(t$0L
-(t$@D
-(t$@H
-(t$PH
-(t$`H
-(t$`L
-(t$pH
-(t$pL
-(t$pv*H
-(|$ I
-(|$03
-(|$0D
-(|$@H
-(|$PD
-(|$PI
-(|$`D
-(|$`I
-(|$pL
-)/o>	
-)>6{1n
-)D$@H
-)D$PE
-)D$PH
-)D87tf
-)T$ H#
-)T$Pf
-)t$ H
-)t$ H#
-)t$ I
-)t$0H
-)t$@3
-)t$@E
-)t$@H
-)t$PH#
-)t$PI
-)t$PM
-)t$p@
-)t$pH
-)t$pI
-)|$0D
-)|$0H
-)|$0f
-)|$@f
-)|$PH#
-)|$`H
-)|$`H#
-)|$`f
-)|B?d!
-***** OUT OF MEMORY! /+/ attempted allocation size: %llu ****
-******** BEGIN VPROF REPORT ********
-******** END VPROF REPORT ********
-*49h3
+(yaX
+)yIx
+***** OUT OF MEMORY! /+/ attempted allocation size: %llu ****\n
+******** BEGIN VPROF REPORT ********\n
+******** END VPROF REPORT ********\n
 *StO9>T
 *Vc>L
-+M<7>
-+f)>0'
-+h->|
-+t$pM9e 
++i9O
 +tPOu
 ,%03d
-,/$`,
-,/<-w
-,0<	v	
-,0<	w
-,0<	w!A
 ,<ellipsis>
 ,HR><y5
 ,HR>O
-,I<%w
-,|%)v
--&B'-
 -&apos;
--- Hierarchical Call Graph --
+-- Hierarchical Call Graph --\n
 -- Profile scopes sorted by average time (including children) --
 -- Profile scopes sorted by average time (without children) --
 -- Profile scopes sorted by peak --
 -- Profile scopes sorted by peak over average (including children) --
 -- Profile scopes sorted by time (including children) --
 -- Profile scopes sorted by time (without children) --
--- Summary --
---- End jemalloc statistics ---
----------
------------- Minidump diagnostic log (feel free to delete this file) ------------
--------------------------------------------
----------------------------------------------------------
--9D	/9a
--?[`/?291?
+-- Summary --\n
+--- End jemalloc statistics ---\n
+------------ Minidump diagnostic log (feel free to delete this file) ------------\n
+---------------------------------------------------------\nEncountered %s.\nWrote minidump to %s\n---------------------------------------------------------
+-------------------------------------------\n
+-2GB
+-9D\t/9a
 -BH>t
 -NOPROCESSHEAP
 -PROCESSHEAP
@@ -443,29 +292,20 @@ $Ib?s
 -nohibernate
 -noloaderlockprobe
 -nominidumps
--oX"'
 -phased_window_create
 -profile
 -retail
 -start_resource_profiling
 -stealthdebugger
 -testmode
--uNI;
 -vminidump_exception_code
 .%03d
 ............| 
 ...........| 
 ..........| 
 .........| 
-........| 
-.......| 
-......| 
-.....| 
-....| 
-...| 
-..om?
 .00cfg
-.>PJ;I:qE>
+.>\rfJBGo
 .?AV?$CStdMemAlloc@U?$MemConfig@$0A@$0A@UDefaultAdditionalProperties@@@@@@
 .?AV?$CStdMemAlloc@U?$MemConfig@$0A@$0A@URuntimeAdditionalProperties@@@@@@
 .?AV?$CStdMemAlloc_Data@U?$MemConfig@$0A@$0A@UDefaultAdditionalProperties@@@@@@
@@ -546,14 +386,13 @@ $Ib?s
 .CRT$XTA
 .CRT$XTZ
 .\LocalSystem
+.bss
 .data
 .data$r
+.dll
 .edata
-.ffffff
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -571,254 +410,123 @@ $Ib?s
 .rtc$TAA
 .rtc$TZZ
 .stls
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
+.txt
 .xJ>Hf
 .xdata
 .xdata$x
 /2GG>!B
-/=$!6
-/>58d%
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-/t8A;
-/u@E3
-/uCI;
-0'>0c*>
 0.0.0-0-g0000000000000000000000000000000000000000
 0123456789
 0123456789ABCDEF
 0123456789abcdef
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
-0<\t"</t
-0><[cZUg^>
-0A\_[
-0A^A]A\
-0A^A]_^]
-0A^^[
-0A^^]
-0A^_^
-0A_A][
-0A_A^A\
-0A_A^A\_^
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^^
-0A_A^_
-0A_A^_^]
-0A__[
-0A__]
-0A__^
+0E>X
 0X8b?~
-0ffffff
 0iN>/
-0t{A+
-0v0b1
 1#IND
 1#INF
 1#QNAN
 1#SNAN
-1111111111111111111111111111111111111111111111111111111111111111111111111111111
-11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-131022120000Z
-141022000000Z
-181004000000Z
-1<.	/>:
-200527194003Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2]fQ	?5!
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
+11UT
+11Y@
+2464
+3 FB
 3+5<t
-311110000000Z0e1
-33333333I
+3626
+37>k
 3>N;kU
 3>fvw
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+3?tr
+3\v534
+4\fE4t:
+4\tgA
+51>W
 5?INF
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
 5m8>8=t
-6L)=m
+6NK>
+6\fXO>
+6\fXO>\ntA
 700PP
 700WP
+7>I0
+7?GX
 7h>?8
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8$u*E
-80tWD
-80uPH
+7yp>
+7~xh
 82Pa8
-8?u$H
-8@tJH
-8@tKH
-8@u<H
-8A_A^A]A\_^][
 8BUUUUUU
 8Csinf
 8J;@ts
-8Jt/A
-8L$Pt
-8Q<u;H
-8Xu6H
-8Zu H
-8\$pt
-8\$xt
-8_^][
 8ke?;
 8powf
-9	t	H
-9	tGH
-9-uzH
-90tuH
-96ID3h*
 99jd9
-9:uUH
+9>70
 9>expf
-9?uP3
-9A0t@L
-9A\~ D
-9C v/M
-9X@u4
-9YH~$H
 9Z=K7
-9]t1L
-9_\~{H
+9a&g
+9a>d
 9g>@3
-9t$ u.
-9t$(u
-9t$Xt
-9u@u	H
-9|$,t$
-:.t5H
-:0t	H
 ::<lambda_
 ::_CAssertFastInternal::AssertionFailed
-:>	Q>>
-:>)*	v
-:>t6k'
-:u,f9Q
-:}62R
-;.uPA
-;:u"H
-;:uLH
-;=u~H
+;1cb
 ;BIb?
-;H9>&X
-;\$@},
-<	w	@
-<	w*M
-<	|%f
-< t&<#t
-< t;<	t7
-<"u	@
-<"u	A
-<"u>A
-<$H;\$0
-<(u3D
-<(uq<{u
-<*t*,0<	w63
-<*t3,0<	wQ3
-</h1>
-</pre>
-</t8<\t4A
-</u H;
-</u$A
-</u4A
-</ul>
-<1~-<3~ <4t5<5t
-<7~S,X
-<9xu	
-<;r$<
-<>#n2
-<?u7H
-<O@8l$pt
-<O@8t$pt
-<XuKH
-<\t	<.u	H
-<\t#</t
-<\t$</t H
-<\t1</t-<:E
-<\t2</t.<.t
-<\t3</t/<.t
-<\t5</t1<.t
-<\t6</t2A
-<\tE</tAE3
-<\tO</tK
-<_uoH
-<`t'!U
 <assertion dialog internal error>
 <ellipsis>
-<htr<jtb<lt6<tt&<wt
 <img src="
-<jemalloc>: %s: %.*s:%.*s
-<jemalloc>: -- Set conf value: %.*s:%.*s
-<jemalloc>: Abort (abort_conf:true) on invalid conf value (see above).
-<jemalloc>: Conf string ends with comma
-<jemalloc>: Conf string ends with key
-<jemalloc>: Error allocating TSD
-<jemalloc>: Error in VirtualFree(): %s
-<jemalloc>: Error in atexit()
-<jemalloc>: Error in malloc(): out of memory
-<jemalloc>: Error in realloc(): out of memory
-<jemalloc>: Error setting TSD
-<jemalloc>: Failure in mallctl("epoch", ...)
-<jemalloc>: Failure in xmallctl("%s", ...)
-<jemalloc>: Failure in xmallctlbymib()
-<jemalloc>: Failure in xmallctlnametomib("%s", ...)
-<jemalloc>: Malformed conf string
-<jemalloc>: Memory allocation failure in mallctl("epoch", ...)
-<jemalloc>: Reducing narenas to limit (%d)
-<jemalloc>: Unsupported system page size
-<jemalloc>: invalid configuration -- per physical CPU arena with odd number (%u) of CPUs (no hyper threading?).
-<jemalloc>: invalid tcache id (%u).
-<jemalloc>: malloc_conf #%u (%s): "%s"
-<jemalloc>: narenas w/ percpuarena beyond limit (%d)
-<jemalloc>: no MADV_HUGEPAGE support
-<jemalloc>: option background_thread currently supports pthread only
-<jemalloc>: perCPU arena getcpu() not available. Setting narenas to %u.
-<ltI,q<	w
+<jemalloc>: %s: %.*s:%.*s\n
+<jemalloc>: -- Set conf value: %.*s:%.*s\n
+<jemalloc>: Abort (abort_conf:true) on invalid conf value (see above).\n
+<jemalloc>: Conf string ends with comma\n
+<jemalloc>: Conf string ends with key\n
+<jemalloc>: Error allocating TSD\n
+<jemalloc>: Error in VirtualFree(): %s\n
+<jemalloc>: Error in atexit()\n
+<jemalloc>: Error in malloc(): out of memory\n
+<jemalloc>: Error in realloc(): out of memory\n
+<jemalloc>: Error setting TSD\n
+<jemalloc>: Failure in mallctl("epoch", ...)\n
+<jemalloc>: Failure in xmallctl("%s", ...)\n
+<jemalloc>: Failure in xmallctlbymib()\n
+<jemalloc>: Failure in xmallctlnametomib("%s", ...)\n
+<jemalloc>: Malformed conf string\n
+<jemalloc>: Memory allocation failure in mallctl("epoch", ...)\n
+<jemalloc>: Reducing narenas to limit (%d)\n
+<jemalloc>: Unsupported system page size\n
+<jemalloc>: invalid configuration -- per physical CPU arena with odd number (%u) of CPUs (no hyper threading?).\n
+<jemalloc>: invalid tcache id (%u).\n
+<jemalloc>: malloc_conf #%u (%s): "%s"\n
+<jemalloc>: narenas w/ percpuarena beyond limit (%d)\n
+<jemalloc>: no MADV_HUGEPAGE support\n
+<jemalloc>: option background_thread currently supports pthread only\n
+<jemalloc>: perCPU arena getcpu() not available. Setting narenas to %u.\n
 <pre>
 <unable to get local hostname>
 <unknown>
-<{u	D
-= {[8V
+=1cb
+=87M
+=cQ6
+=e2m
 =imb;D
->+>ZQ"v
+>0Av
 >::operator ()
->L)=^
->ffffff
+>cQ6
 >jtm}S
->uZ>`
 ?!5WOo
-?)tIf97t:
-?)tuf97tf
-?*u8H
-?+>^m
-?.tBE3
-?0,/1a,
+?1cb
+?3Fx
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8UUUUU
 ?8bunz8
-?:kP<
-?:uHM
 ??0BasicStatStructFieldDesc@@QEAA@$$QEAV0@@Z
 ??0BasicStatStructFieldDesc@@QEAA@AEBV0@@Z
 ??0BasicStatStructFieldDesc@@QEAA@W4BasicStatStructFieldTypes_t@@W4BasicStatStructFieldCombineMethods_t@@@Z
@@ -1009,7 +717,6 @@ $Ib?s
 ?DumpNodes@CVProfile@@IEAAXAEBUVProfReportSettings_t@@PEBVCVProfNode@@H_NAEBUCVProfSummingContext@@NN2@Z
 ?DuplicateReadLock@?$CEventRWLock_Debuggable@$00@@QEAAXAEAVCEventListNode@@@Z
 ?DuplicateReadLock@CEventRWLock@@QEAAXXZ
-?E=$% B
 ?EnableVTuneGroup@CVProfile@@QEAAXPEBD@Z
 ?EncodeAsNativePointer@CVirtualMachineCallStackTranslationEncoder@@QEAAPEAXPEBD0I@Z
 ?EncounteredComplexReadLockOperation@CThreadRWLock_FastRead@@IEAA_NI_NPEBDH@Z
@@ -1136,8 +843,7 @@ $Ib?s
 ?GetVPrevSibling@CVProfNode@@QEBAPEBV1@XZ
 ?GetVSibling@CVProfNode@@QEAAPEAV1@XZ
 ?GetVSibling@CVProfNode@@QEBAPEBV1@XZ
-?H33H
-?HEAP WARNING: memory block at %p appears to be corrupt
+?HEAP WARNING: memory block at %p appears to be corrupt\n
 ?HandleFirstWriteLockTransition@CEventRWLock@@IEAAXAEAVCEventListNode@@@Z
 ?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
 ?HandlerQueueHeartBeat@MiniDumpStandardData_t@@QEBAXXZ
@@ -1221,7 +927,6 @@ $Ib?s
 ?Purge@CBufferString@@QEAAXH@Z
 ?Purge@CVirtualMemorySnapshot@@QEAAXXZ
 ?PushGroup@CVProfile@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?ReachedZeroReferences@CFiber@@AEAAXXZ
 ?RegisterNumBudgetGroupsChangedCallBack@CVProfile@@QEAAXP6AXXZ@Z
@@ -1355,7 +1060,6 @@ $Ib?s
 ?SymSrvGetFileIndexes_@CDbgHelpFunctionsLoader@@QEAAHPEBDPEAU_GUID@@PEAK2K@Z
 ?SymSrvGetFileIndexes_@CDbgHelpFunctionsLoader@@QEAAHPEB_WPEAU_GUID@@PEAK2K@Z
 ?SymUnloadModule64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_K@Z
-?TY,>5
 ?Term@CVProfile@@QEAAXXZ
 ?Terminate@CThread@@QEAA_NH@Z
 ?TestMarkerAgainstCapturedStackIndex@CCallStackMarkerBase@@QEBA_NPEBQEBXHH@Z
@@ -1374,7 +1078,6 @@ $Ib?s
 ?TryLockForWrite@CThreadMutex@@QEAA_NPEBDH@Z
 ?TryLockForWrite@CThreadRWLock@@QEAA_NPEBDH@Z
 ?UUUUUU
-?U[y[
 ?UnicodeCaseConvert@CBufferString@@QEAAHHW4EStringConvertErrorPolicy@@@Z
 ?UnlinkFromLongJumpHierarchy@StackContext_StartData_t@@QEAAXXZ
 ?Unlock@CThreadFullMutex@@QEAAXPEBDH@Z
@@ -1437,7 +1140,6 @@ $Ib?s
 ?V_UnicodeValidate@@YA_NPEB_W@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?V_wcsistr@@YAPEB_WPEB_W0@Z
-?W(~N
 ?WUUUUU
 ?Wait@CThreadSyncObject@@QEAA_NI@Z
 ?WaitForCall@CWorkerThread@@QEAA_NIPEAI@Z
@@ -1452,186 +1154,48 @@ $Ib?s
 ?WaitForReadLockTransition@CEventRWLock@@IEAAXAEAVCEventListNode@@I@Z
 ?WaitForReply@CWorkerThread@@IEAAHIP6AIIPEAPEAVCThreadEvent@@HI@Z@Z
 ?WaitForReply@CWorkerThread@@QEAAHI@Z
-?XuYH
 ?Yield@CThread@@SAXXZ
+?\rz0w
+?\vxMW
 ?_FooHacked_DontEverCallMe@Hack_WatchWindow_t@@SAPEBU1@PEBX@Z
 ?f`Y4
+?id7
 ?kxG2)
+?lZE
+?qBJ
+?rAj
 ?s_iCurrentUniqueNodeID@CVProfNode@@1HA
-?t_v>
-?uZEeu
-?{Q}<
-@.data
-@.gfids
-@.reloc
-@.rsrc
-@.tls
-@80u#H
-@89t+
-@8<.u
-@8>u	E
-@8l$8t
-@8l$Ht
-@8l$PuF
-@8l$pt
-@8q u	I
-@8q2u;H
-@8q<u;H
-@8t$9t
-@8t$p@
-@8t$pt
-@8y2t
-@8y:t
-@8y<t
-@8|$PtE
-@8|$PtG
-@8|$PtH
-@8|$PtJ
-@8|$PtN
-@8|$PtP
-@8|$^t
-@>%>b
-@A]][
-@A^A\_
-@A^A\_^]
-@A^A]_
-@A^][
-@A^^]
-@A^_^
-@A^_^][
-@A_A^A\
-@A_A^A\H
-@A_A^A\_^
-@A_A^A\_^][
-@A_A^A]A\_
-@A_A^A]A\_^]
-@A_A^]
-@A_A^_
-@A_A^_^]
-@Hc9E3
-@HcC(H
-@SAVAWH
-@SAWH
-@SUATIc
-@SUAUH
-@SUAVAWH
-@SUAVH
-@SUVAUAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUWATAUH
-@SUWAVH
-@SUWH
-@SVAVH
-@SVWATAUAVAWH
-@SVWATAUH
-@SVWH
-@SWATH
-@SWAWH
-@UATAUAVAWH
-@UATAUAVH
-@UATAVH
-@UAVAW
-@UAVAWH
-@UAWH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWAVH
-@USVWH
-@USWH
-@UVAVH
-@UVWATAVH
-@UVWAVAWH
-@UVWH
-@UWATAVAWH
-@UWAUAVAWH
-@UWAWH
-@VATAUAWH
-@VAVH
-@WAVAWH
+?ysB
 @^8U)zj
-@acosf
-@b;zO]
-@ffffff
 @pn>6
-A03>A|
-A81t@@8r
-A84.u
-A86taH
-A8n(u
-A:(uiI
-A;]\})I
-A>l$/
 A>pP&
-A>}?E>
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ADVAPI32.dll
 AK>(v
-ATAUAVAWH
-ATAUAVH
-ATAVAWH
-AUAVAWH
-AUAVH
-AUAWH
 AUUUUUU
-AVAWH
-A\A]A^A_[^_]
-A]A\_[
-A^A\]
-A^A]A\]
-A^A]A\_^
-A^_][
-A^_^[
-A^_^[]
-A^_^][
-A_A]A\_^
-A_A][
-A_A]]
-A_A^A\
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_[]
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_^
-A_A^]
-A_A^_
-A_A^_^[
-A_A^_^]
-A_A^_^]H
-A_[^_]
 A`1w>
-AbortMessage({
 AcquireSRWLockExclusive
 AddVectoredExceptionHandler
 Advapi32.dll
-Affinity preferences: %d logical processors, limiting to %d
-Affinity preferences: %d speeds, preference split at sort index %d
-Affinity preferences: '%s' thread assigned to all-procs mask %u:0x%llx
-Affinity preferences: '%s' thread assigned to proc mask %u:0x%llx (index %d)%s, next proc mask %u:0x%llx (index %d)
-Affinity preferences: all-procs gather crossed group boundary
-Affinity preferences: disabled (%u physical procs, %u logical)
-Affinity preferences: explicitly disabled
-Affinity preferences: no logical processor speed variation
-Affinity preferences: no logical processor split fit
-Affinity preferences: no per-logical-processor information
-Affinity preferences: no preferences, skipping assignment
-Affinity preferences: no-pref all-procs does not set affinity
-Affinity preferences: only one logical processor
-Affinity preferences: turned off for internal reason
+Affinity preferences: %d logical processors, limiting to %d\n
+Affinity preferences: %d speeds, preference split at sort index %d\n
+Affinity preferences: '%s' thread assigned to all-procs mask %u:0x%llx\n
+Affinity preferences: '%s' thread assigned to proc mask %u:0x%llx (index %d)%s, next proc mask %u:0x%llx (index %d)\n
+Affinity preferences: all-procs gather crossed group boundary\n
+Affinity preferences: disabled (%u physical procs, %u logical)\n
+Affinity preferences: explicitly disabled\n
+Affinity preferences: no logical processor speed variation\n
+Affinity preferences: no logical processor split fit\n
+Affinity preferences: no per-logical-processor information\n
+Affinity preferences: no preferences, skipping assignment\n
+Affinity preferences: no-pref all-procs does not set affinity\n
+Affinity preferences: only one logical processor\n
+Affinity preferences: turned off for internal reason\n
 AllocConsole
 AllocateAndInitializeSid
 AllowGameDVR
 Always Ignore
-An assertion has failed!
+An assertion has failed!\r\n\r\nTo help diagnose the problem:\r\n    -type up a short description of what you were doing\r\n    -press "Broadcast Minidump"\r\n\r\nTo do nothing, press "Ignore For This Session"\r\n\r\n\r\nThe full assertion description is...\r\n\r\n%s
 Android
 Android 10.0
 Android 5.0
@@ -1653,43 +1217,32 @@ AssertMsg_ConditionFailed
 AssertMsg_ConditionFailed_ContextFunc
 AssertValidStringPtr
 AssertValidWStringPtr
-Assertion Dialog could not be created. Breaking in debugger.
-Assertion Dialog could not be created. Ignoring assertion. Run under the debugger to break instead.
+Assertion Dialog could not be created. Breaking in debugger.\n
+Assertion Dialog could not be created. Ignoring assertion. Run under the debugger to break instead.\n
 Assertion Failed
-Assertion Failed in function %s():
-Assertion Failure: %s (%d)
+Assertion Failed in function %s():\n%s
+Assertion Failure: %s (%d)\n\t%s\n
 Assertion Information
 AssertionDialog
 AssertionFailureListenerMiniDumpContext_t
 AttachConsole
 August
-AuthE
 AuthenticAMD
-Average %.2f fps, %.2f ms per frame
-B(I9A(
-B8|09
+Average %.2f fps, %.2f ms per frame\n
+B,fK
 BC1%M
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 BSQ_cache_reference
-Bad node link detected
+Bad node link detected\n
 BeginPaint
-Bellevue1
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 Break
 BroadcastAssertionMiniDumpContext_t
-BroadcastAssertionMiniDumpHandler - [Invoking crashdumpmailer]
-Broadcasting a minidump will also stop bothering you about this assertion for 24 hours.
+BroadcastAssertionMiniDumpHandler - [Invoking crashdumpmailer]\n
 Build-time option settings
 BuiltDebug
-C H;Ah
-C H;Ap
-C-yh/
-C5R?	
-C847u
-C8<(u
-CA< t(<#t
+C5R?\t
 CAssertGlobals::AssertDisableMutex
 CAssertGlobals::assertLock
 CBufferString::AppendConcat
@@ -1708,30 +1261,24 @@ CBufferString::ToLowerFast
 CBufferString::ToUpperFast
 CBufferString::TruncateAt
 CBufferString::UnicodeCaseConvert
-CL$0H
 CL:>8
 CLoggingSystem::AllocTag
-CLoggingSystem::AllocTag overflowed!
+CLoggingSystem::AllocTag overflowed!\n
 CLoggingSystem::RegisterLoggingChannel
 CMemAllocSystemInitialize
-CMiniDumpComment encountered an error while generating the comment
-CNF"D
-CNG"D
 COM_TimestampedLog
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl OrderedInit_Platform(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl OrderedInit_Platform(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl OrderedInit_Platform(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl OrderedInit_Platform(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 COrderedConstructor_Create<class CThreadLocalScope::CScopeCreatedOrDestroyedHandler,class CResolveOrderedFunc<class CThreadLocalScope::CScopeCreatedOrDestroyedHandler,&void __cdecl ResolveOrderedConstructor_ThreadCreationEventHandler_ThreadID(class COrderedConstructor_DependencyManagement<class CThreadLocalScope::CScopeCreatedOrDestroyedHandler> &)>,0>::AddRef
-CPHcK\H
-CRIMp3
 CSafeToLoadModulesTester::Test
 CStdMemAlloc<struct MemConfig<0,0,struct DefaultAdditionalProperties> >::NoteAlloc
 CStdMemAlloc<struct MemConfig<0,0,struct RuntimeAdditionalProperties> >::NoteAlloc
 CTSList
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<int,1>::CTSQueue
 CTSQueue<int,1>::Push
 CThread
@@ -1744,11 +1291,11 @@ CTimestampedEventLog::SetListener
 CWD>~3
 CWatchdogThread::M_BeginHangScope
 CWatchdogThread::M_EndHangScope
-Called Resume() on a thread that is not suspended!
+Called Resume() on a thread that is not suspended!\n
 Cannot flush timstamped event log with no listener!
 Cannot register two timestamped event listeners!
 Capture
-Captures data about the assertion failure and sends it out to the team for diagnosis.
+Captures data about the assertion failure and sends it out to the team for diagnosis.\r\n\r\nYou should do this for any new assertions you see. (Distinguished by "Location" and "Assert" above)\r\n\r\nBroadcasting a minidump will also stop bothering you about this assertion for 24 hours.
 CatchAndWriteContext_t::Invoke
 CatchAndWriteContext_t::Invoke with bogus argc/argv
 CatchAndWriteContext_t::Invoke with bogus void *ptr
@@ -1788,7 +1335,7 @@ ConDMsg
 Console
 Content Assertion Failed
 CorExitProcess
-Couldn't window icon! %s
+Couldn't window icon! %s\n
 CrackSmokingCompiler
 CreateCommandLine
 CreateCompatibleDC
@@ -1820,172 +1367,8 @@ CreateThreadpoolWork
 CreateWindowExA
 Csinhf
 Cy2@K>
-D W?{W
 D"A/oyu
-D$ .H+
-D$ 9B
-D$ ;B
-D$ E3
-D$ f;
-D$ fH
-D$ fI
-D$$f;
-D$(+D$ 
-D$(E3
-D$(H9
-D$(H;
-D$(L9
-D$,+D$$H
-D$,D9|$$u
-D$,f;
-D$0E3
-D$0H#
-D$0H9|$8r	H
-D$0H;
-D$0H;G
-D$0HcH
-D$0f;
-D$0fH
-D$2u	
-D$49C
-D$4f;
-D$8A;
-D$8D8t$8u_H
-D$8E3
-D$8H;
-D$8H=
-D$8L+
-D$8L9
-D$<f;
-D$@.H
-D$@@2
-D$@E3
-D$@H+
-D$@H+D$HH;
-D$@H;
-D$@H;G
-D$@H=@W
-D$@L;D$Hu
-D$@f;
-D$@ff
-D$D@89
-D$Df9
-D$Df;
-D$Dt7
-D$H@8.
-D$H@8/
-D$H@87
-D$HE3
-D$HH+D$PH
-D$HH;
-D$Hf9/
-D$L@81
-D$LHc
-D$Lf;
-D$P I
-D$P8QhtGH
-D$PA#
-D$PE2
-D$PE3
-D$PH%
-D$PH+
-D$PH;
-D$PHc
-D$PHcX H
-D$PI;
-D$PL;
-D$Pf;
-D$Tf;
-D$U,B<
-D$XD8p
-D$XD90}
-D$XE3
-D$Xf;
-D$XfH
-D$`E3
-D$`H;
-D$`Hc
-D$`I9
-D$`L;
-D$`M;
-D$`f;
-D$hA+
-D$hE3
-D$hH%
-D$hM+
-D$hf;
-D$lf;
-D$pE3
-D$pH;
-D$pM;
-D$pf;
-D$pfD
-D$xL+
-D$xfD
-D(8Ht}
-D+L$x
-D08@t	
-D18 t
-D8$2u
-D8(t[H
-D8.tnH
-D82u&H
-D83t	H
-D84+u
-D84;u
-D85'}
-D85/}
-D87t	H
-D88Ht!
-D88Hte
-D88tT3
-D8V!tD
-D8Y:uEH
-D8a:uDH
-D8c:u
-D8cPt
-D8d$@t
-D8d$H
-D8d$Ht
-D8d$ht
-D8gIt
-D8i2u;H
-D8k2u
-D8l$@t
-D8l$ht
-D8sIt
-D8t$8t
-D8t$Ht
-D8t$XuJ
-D8|$Pt
-D8}/t
-D93u"H
-D93u,H
-D93u-
-D93u.
-D93u2
-D93u3
-D93u5
-D93uQ
-D93uR
-D93uRH
-D93uSH
-D93uTH
-D93u[H
-D93u^H
-D93u_
-D98Ht;H
-D9C\~7A
-D9Y\~PH
-D9c t
-D9ewA
-D9t$x
-D9t$|
-D9|$ 
-D;C\|
-D<P0I
 DBGHELP_SERVICE=1
-DD$$H
 DEBUG_EXITPROCESS
 December
 DeclareCurrentThreadIsMainThread
@@ -2002,34 +1385,18 @@ DeveloperConsole
 DeveloperVerbose
 DeviceIoControl
 DialogBoxParamA
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
+Diff
 DispatchMessageA
 DoAssertDialog: invalid Assert response returned from dialog/vxconsole - breaking to debugger
 DoWaitForMultipleObjects
 DrawTextA
 DuplicateHandle
-E"CPA
-E+BHI
-E0C07
-E0HcH
-E0Lcx
-E80t;Hc
-E8G$H
 E>nEA
-ED$PI
-EL$pM
-EP*?@
-EP<0u
 ERROR: Alloc exceeded allocation limit /+/ %llu > %llu
-ERROR: Hang watchdog thread exceeded the maximum number of allowed nested scopes!
-ERROR: Hang watchdog thread scope underrun! (Did someone forget to call EndWatchdogHangScope?)
+ERROR: Hang watchdog thread exceeded the maximum number of allowed nested scopes!\n
+ERROR: Hang watchdog thread scope underrun! (Did someone forget to call EndWatchdogHangScope?)\n
 ERROR: Virtual reservation exceeded limit /+/ %llu > %llu
-ET$(H
+ET5>
 ETWBegin
 ETWEnd
 ETWGetRenderFrameNumber
@@ -2058,38 +1425,38 @@ ETWResourceFrameMark
 ETWSendPacket
 ETWSimFrameMark
 ETWThrottled
-EVNTp
-E\$0H
+E[\rn?gc
 EarlyInit_Tier0
+EiU>
+EiUL
 EnableWindow
 EncodePointer
-Encountered %s.
 EndDialog
 EndPaint
 EnterCriticalSection
 EnumerateLoadedModules64
 EnumerateLoadedModulesW64
 Error
-Error reading args file
+Error reading args file\n
 Error setting dss
-Et$(I
-Et$`L
 EventRegister
 EventUnregister
 EventWrite
 Exception
 Exit Process
 ExitProcess
-Exiting due to logging LR_ABORT request.
+Exiting due to logging LR_ABORT request.\n
 ExpandEnvironmentStringsA
-Expr: %s
 F>qUxv
-FAIL: !IsEmpty()
-FAIL: !Validate()
-FAIL: Not all items popped
+FAIL: !IsEmpty()\n
+FAIL: !Validate()\n
+FAIL: Not all items popped\n
+FEMh\f
+FF\n@acosf
 Fatal Error
 February
-File: %s
+FfW?
+File: %s\nLine: %i\nExpr: %s
 FileSystem
 FileTimeToSystemTime
 FindClose
@@ -2103,7 +1470,7 @@ FlsSetValue
 FlushFileBuffers
 FlushProcessWriteBuffers
 FormatMessageA
-Found Application AutoArgs file '%s'
+Found Application AutoArgs file '%s'\n
 Frame Boundary
 FreeCommandLine
 FreeEnvironmentStringsW
@@ -2111,32 +1478,13 @@ FreeLibrary
 FreeLibraryWhenCallbackReturns
 FreeSid
 Friday
-Ft4D+
-G(H9(t
-G0Hc	H
-GD$(H
-GD$88
-GD$8@88t#
-GD$8I
-GD$xH
+G>US
+GCTL
 GDI32.dll
-GL$8A
-GL$8H
-GL$8Ic
-GL$HH
-GL$XH
-GL$xH
-GT$8A
-GT$8H
-GT$XA
-GT$XH
-G\$8A
 GameDVR_Enabled
 General
 Generic_x86
-Genu3
 GenuineIntel
-Genuu;
 GetACP
 GetActiveAssertDialogHwnd
 GetAddressTranslationData
@@ -2232,62 +1580,21 @@ GetWindowLongPtrA
 GetWindowRect
 GetWindowThreadProcessId
 GfZ+?p
-Gl$HI
 GlobalMemoryStatusEx
 GrJoq>@
-Gt$(H
-G|$8H
-G|$hH
-H SVH
-H!D$ E
-H!T$0D
-H#D$0H
-H+C(H=
-H+D$H
-H+\$P
-H+\$`
-H+{0H
-H0F08
-H9)u!
-H9/t1H
-H9/t=H
-H91u"
-H9A A
-H9A u
-H9C s#H
-H9C s*H
-H9C@u
-H9H s
-H9L$xt
-H9P s
-H9Q(t
-H9Q8t
-H9l$@uK
-H9{(u
-H;8u0H
-H;>u7H
-H;K s/H
-H;K sA3
-H;Q r
-H;Q s
-H;XXs
-H;h@tBL
-H;xXu9
-H>*SL>
-HA_A]A\_^[
-HA_A^][
-HEAP WARNING: memory block at %p is unexpectedly allocated
-HEAP WARNING: memory block at %p is unexpectedly free
-HEAP WARNING: memory block at %p is unexpectedly unrecognized
-HEAP WARNING: memory pointer %p is invalid
+H$BQ
+H>r1
+HEAP WARNING: memory block at %p is unexpectedly allocated\n
+HEAP WARNING: memory block at %p is unexpectedly free\n
+HEAP WARNING: memory block at %p is unexpectedly unrecognized\n
+HEAP WARNING: memory pointer %p is invalid\n
 HH:MM:SS.z
 HH:mm:ss
-H[><y5
-H_^[]
+HOME
 Hang Detected
 Hang Detected: %.1fs
 Hang Detected: %s (%.1fs)
-Hang detected.
+Hang detected.\n
 Hang watchdog thread was requested, but is being suppressed due to the '-disablehangwatchdog' flag.
 Hang watchdog thread was requested, but is being suppressed due to the '-testmode' flag.
 HangWatchdog
@@ -2299,46 +1606,14 @@ HangWatchdog_SetHangImageRGBA
 HangWatchdog_SetMainThreadWindow
 HangWatchdog_Shutdown
 HasExpandedResources
-Hc-GG
-Hc;9E0t
-HcC H
-HcC0H
-HcD$0;
-HcD$@H
-HcD$H
-HcD$P
-HcE H+
-HcE8H
-HcG(H
-HcGHH
-HcH<H
-HcK H
-HcK(H
-HcL$H
-HcL$P
-HcL$X
-HcL$`
-HcL$p
-HcS\L
-HcW\L
-Hc\$XH
-Hc]`M
-Heap: process heap
-Heap: standard allocator
+Heap: process heap\n
+Heap: standard allocator\n
 HeapAlloc
 HeapFree
 HeapReAlloc
 HeapSetInformation
 HeapSize
 HeapValidate
-Ht)I;
-I96t4H
-I96t:H
-I96tn
-I9@ A
-I9}(t9H
-I;H s
-I;PPu	I
 I;u>A
 IAssertionFailureListener::AssertionFailure()
 IMemAlloc::DumpStats: could not open output file %s
@@ -2349,7 +1624,7 @@ Ignore
 Ignore All Asserts
 Ignore For 24 Hours
 Ignore This File
-Ignores this assertion for 24 hours.
+Ignores this assertion for 24 hours.\r\nThis can be undone by running with -clearassertstate on the command line.
 Ignores this assertion until you quit the program.
 Il?333333c?
 Illegal char string format specifier '%c' (%d) in '%s'
@@ -2364,7 +1639,7 @@ InitializeSListHead
 InitializeSRWLock
 InitializeSecurityDescriptor
 InstallProgressReportHandler
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 Interpolation
 Invalid conf pair
@@ -2372,155 +1647,42 @@ Invalid conf value
 Invalid settings for bin_shards
 Invalid settings for slab_sizes
 InvalidateRect
-InvokeMiniDump
 InvokeMiniDumpHandler
+InvokeMiniDump\n
 IsDebuggerPresent
 IsIconic
 IsProcessorFeaturePresent
 IsValidCodePage
 IsWow64Process
 IterateCapturedStackAnnotations
-J `>,
-J;D10t	H
 JE_MALLOC_CONF
-JH&iR
 JanFebMarAprMayJunJulAugSepOctNovDec
 January
 JmpToAlternateStack
 Jobs/Coroutines
-K SUWH
-K SVH
-K SVWAVH
-K SWH
-K&>.yC
+July
+June
 K32GetMappedFileNameW
 K32GetModuleInformation
 KERNEL32.dll
-KKG"D
 KM^bM
 Kernel32.dll
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L$ D+
-L$ E3
-L$ H;P
-L$ L+
-L$ SH
-L$ SUVH
-L$ SUVWH
-L$ SUWAVH
-L$ SVWAVAWH
-L$ SVWH
-L$ SWH
-L$ UATAVH
-L$ USVWATAUAVAWH
-L$ UVAVH
-L$ UVWATAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ f;
-L$ fI
-L$ fff
-L$$E3
-L$$f;
-L$$fA
-L$&@8t$&t0@8q
-L$(E3
-L$(H3
-L$(fH
-L$,@8l$$u
-L$,f;
-L$0)y
-L$0D+
-L$0E3
-L$0H;
-L$0H;K
-L$0Hc
-L$0I;
-L$0L;
-L$0M;
-L$0f;
-L$0fH
-L$0fI
-L$0|+L;
-L$4f;
-L$4t=
-L$4tD
-L$8E3
-L$8H3
-L$8H9L$0t-H
-L$8L+
-L$8Lc
-L$<f;
-L$@;|
-L$@D8C
-L$@E3
-L$@H3
-L$@Hc
-L$@f9
-L$@f;
-L$@uU
-L$D;L$T
-L$D@8s
-L$DE3
-L$Df;
-L$H@8s
-L$HH3
-L$HfA
-L$Lf;
-L$P+L$8
-L$P+L$H
-L$PE3
-L$Pf;
-L$XE3
-L$`f;
-L$pE3
-L$pHc
-L$xD;w\}
-L$xHc
-L(:A:
-L(;A:
-L(;E:
-L(<A:
 L-n>4
-L9&u'H
-L9&us
-L9*u&
-L948u
-L95x!
-L97taH
-L9:t?
-L9=qh	
-L9>te
-L9@ s
-L9B8u
-L9I sBL
-L9L$Pu
-L9`8tA
-L9s A
-L9s0A
-L9t$0uYM
-L9|$@
-L;B s
+L>ev
 L?UUUUUUU?
 LCMapStringEx
 LCMapStringW
-LEVL@
-LHcL$PH
 LOADING
 LOG_GENERAL
+LWG>
+LWW>
 Launch Debugger
-LcA<E3
-LcewA
-Lcw\H
-Lc}oA
 LdrLockLoaderLock
-LdrLockLoaderLock() probe error. Unable to unlock the loader lock. Please report this to Dave K. You can run with "-noloaderlockprobe" to work around this issue.
+LdrLockLoaderLock() probe error. Unable to unlock the loader lock. Please report this to Dave K. You can run with "-noloaderlockprobe" to work around this issue.\n
 LdrUnlockLoaderLock
 LeaveCriticalSection
 LengthOfMatchingPaths
-Line: %i
 Linux
 Linux 2.2
 Linux 2.4
@@ -2533,7 +1695,6 @@ Linux 4.0
 Linux 4.18
 Linux 4.5
 Linux 5.0
-Lj[;>
 LoadCursorA
 LoadIconA
 LoadImageA
@@ -2575,19 +1736,12 @@ LoggingSystem_SetChannelVerbosityByTag
 LoggingSystem_SetLoggingResponsePolicy
 LoggingSystem_TagName
 LoggingSystem_UnregisterLoggingListener
-M H1E
 M'y>0y
-M(f95
-M0H+M(H
-M9.tqA
-M9/t,
-M98u	
-M9>t0H
-M9~8M
+MGiI
 MINIDUMP_FULL
-MINIDUMP_WRAP_CODE: Entering [%s(%u):%s:]
-MINIDUMP_WRAP_CODE: In __except block
-MINIDUMP_WRAP_CODE: Wrapped execution
+MINIDUMP_WRAP_CODE: Entering [%s(%u):%s:]\n
+MINIDUMP_WRAP_CODE: In __except block\n
+MINIDUMP_WRAP_CODE: Wrapped execution\n
 MM/dd/yy
 Mac OS
 MacOS 10.10
@@ -2611,6 +1765,7 @@ Main thread
 MainThrd
 March
 Maximum thread-cached size class
+MbP?
 MemAllocScratch
 MemAlloc_AllocFunc
 MemAlloc_CallocFunc
@@ -2625,78 +1780,73 @@ MicroProfilerAddTS
 MiniDumpAdditionalStringData_t
 MiniDumpCommentEnsureOSDescription
 MiniDumpExceptionHandler
-MiniDumpExceptionHandler_Internal
+MiniDumpExceptionHandler_Internal\n
 MiniDumpRegisterForUnhandledExceptions
 MiniDumpWriteDump
 Minidump Notes
 Minidump summary missing
 MinidumpLog
 MinidumpSetMiniDumpComment
-MinidumpUnhandledExceptionFilter
+MinidumpUnhandledExceptionFilter\n
 MinidumpUserStreamInfoAppend
 MinidumpUserStreamInfoGet
 MinidumpUserStreamInfoSetHeader
-Module %s is a debug build
+Module %s is a debug build\n
 Monday
 MoveFileExW
 MoveFileW
 MultiByteToWideChar
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
-NOTE: this is the total bytes of the regions above, not the growth since the old snapshot
+NOTE: this is the total bytes of the regions above, not the growth since the old snapshot\n
 NO_GAME_ASSERT_DIALOG
+NPCs
+NQ?s
+NULL
+Name
 NavMesh
 Networking
 NextBot
 No THP support
-No samples
+No samples\n
 November
 NtAllocateVirtualMemory
 NtQuerySystemInformation
 Number of bin size classes
 Number of large size classes
 Number of thread-cache bin size classes
-O0HcQ
-OF>;^
-OPCOh
-OS memory stats:
-OS type: %s (%d)
-OS: %s
+OS type: %s (%d)\n
 OSR2 
 OSTypesAreCompatible
 OVERRIDE_MINIDUMP_PATH
+OZQ%
 October
 OpenEventA
 OpenFileMappingA
 OpenProcess
 OpenThread
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Other VScript
-Out of logging channels.
-Out of thread ids. Decrease the number of threads or increase MAX_RECYCLEABLE_THREAD_IDS so we can recycle more
+Out of logging channels.\n
+Out of thread ids. Decrease the number of threads or increase MAX_RECYCLEABLE_THREAD_IDS so we can recycle more\n
 Out-of-range conf value
 OutputDebugStringA
-P>q_Y~
-PA^A\]
-PA_A\^][
-PA_A^]
-PA_A^_
-PME Initialized.
-PME Uninitialized.
+PME Initialized.\n
+PME Uninitialized.\n
 Page size
-PageHeap is off. Memory use will be normal.
-PageHeap is on. Memory use will be larger than normal.
+PageHeap is off. Memory use will be normal.\n
+PageHeap is on. Memory use will be larger than normal.\n
 PageHeapFlags
-Parameter file '%s' not found, skipping...
+Parameter file '%s' not found, skipping...\n
 Particle Simulation
 Particle/Effect_Rendering
-Peak %.2f ms frame
-Peak resident virtual bytes: %s
-Peak total virtual bytes: %s
-Peak working set: %s
+Peak %.2f ms frame\n
+Peak resident virtual bytes: %s\n
+Peak total virtual bytes: %s\n
+Peak working set: %s\n
 PeekNamedPipe
 Plat_AlertUser
 Plat_AppendMiniDumpErrorString
@@ -2715,7 +1865,7 @@ Plat_CreateDirectory
 Plat_CreateGameInstanceMutex
 Plat_CreateUUIDImpl
 Plat_CreateWindow
-Plat_CreateWindow:  Could not create SDL window: %s
+Plat_CreateWindow:  Could not create SDL window: %s\n
 Plat_DebugPrint
 Plat_DebugPrintV
 Plat_DebugString
@@ -2728,9 +1878,9 @@ Plat_EnableCustomerMachineMode
 Plat_EnableHeadlessMode
 Plat_EndWatchdogTimer
 Plat_EnterHibernation
-Plat_EnterHibernation()
+Plat_EnterHibernation()\n
 Plat_ExitHibernation
-Plat_ExitHibernation()
+Plat_ExitHibernation()\n
 Plat_ExitProcess
 Plat_FastVerifyHardwareKey
 Plat_FileExists
@@ -2838,11 +1988,11 @@ Plat_LoadModuleRaw
 Plat_LoadOleAut
 Plat_LoadSDL
 Plat_LowMemoryWarning
-Plat_LowMemoryWarning()
+Plat_LowMemoryWarning()\n
 Plat_MSTime
 Plat_MSTime64
 Plat_MessageBox
-Plat_MessageBox() called in headless mode:
+Plat_MessageBox() called in headless mode:\n\tTitle: %s\n\tMessage: %s\n
 Plat_MicroSecTickDiff
 Plat_MicroSecTickDiffF
 Plat_MilliSecTickDiff
@@ -2946,19 +2096,17 @@ PropVariantCopy
 PushMiniProfilerTS
 PushPopThread
 PushThread
-P|> ,o
 Q5rHg,>
-Q>.3Z<
+QAf?
+QguI
 Qkkbal
 Qt_GetCustomAllocators
 Quantum size
 QueryPerformanceCounter
 QueryPerformanceFrequency
-R$fE;J*
-R(L97
-R0L97
 RD?4KF?=GH?9FJ?8HL?
 RSDSA
+R\v0\fh
 RaiseException
 ReadConsoleW
 ReadFile
@@ -2984,9 +2132,10 @@ RemoveMiniProfilerFromList
 RemoveVectoredExceptionHandler
 ReportProgress
 ResetEvent
-Resident virtual bytes: %s
+Resident virtual bytes: %s\n
 RestoreWin32ConsoleColor
 ResumeThread
+Root
 RtlCaptureContext
 RtlCaptureStackBackTrace
 RtlLookupFunctionEntry
@@ -2997,11 +2146,10 @@ Run-time option settings
 RunTSListTests
 RunTSQueueTests
 RunWithAlternateStack
-Running %s...
-S,, <Zw
+Running %s...\n
+S9>H
 S>$hkDh$h>[2
 S>T7W>
-SAUAWH
 SDL2.dll
 SDL_AudioStreamAvailable
 SDL_AudioStreamClear
@@ -3100,7 +2248,7 @@ SDL_RWFromFile
 SDL_RaiseWindow
 SDL_RestoreWindow
 SDL_SetClipboardText
-SDL_SetClipboardText failed: %s
+SDL_SetClipboardText failed: %s\n
 SDL_SetCursor
 SDL_SetHint
 SDL_SetRelativeMouseMode
@@ -3140,20 +2288,7 @@ SNAN)
 SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR
 SOFTWARE\Policies\Microsoft\Windows\GameDVR
 STUB_GetStatStructName
-SUVATAUAVAWH
-SUVATAWH
-SUVAVH
-SUVWATAUAVAWH
-SUVWATAVAWH
-SUVWAVH
-SVATH
-SVWATAUAVAWH
-SVWATAUAWH
-SVWATH
-SVWAUH
-SWATAUH
 SYSTEM
-S^>#/
 Saturday
 SelectObject
 SendActionToAssertDialog
@@ -3176,7 +2311,7 @@ SetConsoleCtrlHandler
 SetConsoleTextAttribute
 SetCurrentDirectoryW
 SetDefaultMiniDumpHandler
-SetDefaultMiniDumpHandler( %p )
+SetDefaultMiniDumpHandler( %p )\n
 SetDlgItemInt
 SetDlgItemTextA
 SetEndOfFile
@@ -3218,10 +2353,9 @@ SleepConditionVariableCS
 SleepConditionVariableSRW
 Software\Classes\%s
 Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\%s
-Sorry -- no stats saved to file memstats.txt when the heap allocator is enabled.
+Sorry -- no stats saved to file memstats.txt when the heap allocator is enabled.\n
 SoundMix
 SoundOperators
-SpH9Sx
 StackHelpers_GetLocalProcessHandle_NonPseudo
 StackHelpers_Windows_AllocateDbgHelpUniqueID
 StackHelpers_Windows_FreeDbgHelpUniqueID
@@ -3245,7 +2379,7 @@ StackTools_RemoveModuleMappingListener
 StackTools_VerifyLoadedModuleMappings
 StackWalk64
 Steam
-Stop has been called on %p
+Stop has been called on %p\n
 StretchBlt
 SubmitThreadpoolWork
 SunMonTueWedThuFriSat
@@ -3295,78 +2429,17 @@ SysStringByteLen
 SysStringLen
 SystemTimeToTzSpecificLocalTime
 System\GameConfigStore
-T$ A;
-T$ E3
-T$ L;
-T$$f;
-T$(H+
-T$0E3
-T$0H+
-T$0L;
-T$0})H
-T$4f;
-T$8A+
-T$8E3
-T$<D;
-T$@L;
-T$Df;
-T$H@87
-T$HL;
-T$Hf97
-T$Hfff
-T$PD+
-T$PD8-
-T$PE3
-T$PH3
-T$Pf;
-T$T9G\
-T$Tf;
-T$XL;
-T$Xf;
-T$\Hc
-T$`f;
-T$hD+
-T$hL;
-T$hf;
-T$lf;
-T$pf;
-T$pfff
-T$pkD$x<
-T$xE3
-T$xHc
-T=	Y)
-TASK8
-TASKD
-TASKl
-TASKt
-TEMP(
-TEMP,
-TEMP4
-TEMPL
-TEMPP
-TEMP`
-TEMPd
-TEMPh
-TSList cannot hold more that %d nodes
-TT$0f
-TT$@f
-TTBL$
-TTBLX
-TTBLt
+T9K<
+TSList cannot hold more that %d nodes\n
+TUUU
 TUUUU
-TUUUUUU
-T\$0f
-T\$@f
 Tahoma
 TerminateProcess
 TerminateThread
-Test bucket %d has an invalid value %d
-Testing %d threads:
+Test bucket %d has an invalid value %d\n
 Tests done, purging test memory...
-The full assertion description is...
-This can be undone by running with -clearassertstate on the command line.
-Thread failed to initialize
-Thread failed to respond, probably exited
+Thread failed to initialize\n
+Thread failed to respond, probably exited\n
 Thread(%p/%p)
 ThreadCloseProcess
 ThreadGetCurrentHandle
@@ -3407,18 +2480,20 @@ Tier0DebugDrawLockLines
 Tier0DebugDrawLockedQueryLine
 Tier0DebugDrawUnlockLines
 Tier0GenericMiniDumpHandler
-Tier0GenericMiniDumpHandler - Data segment attempt failed, trying smaller dump.
-Tier0GenericMiniDumpHandler - Full memory attempt failed, trying smaller dump.
+Tier0GenericMiniDumpHandler - Data segment attempt failed, trying smaller dump.\n
+Tier0GenericMiniDumpHandler - Full memory attempt failed, trying smaller dump.\n
 Tier0GenericMiniDumpHandlerEx
-Tier0GenericMiniDumpHandlerEx - CreateFile failed
-Tier0GenericMiniDumpHandlerEx - Failed to load DbgHelp.dll
-Tier0GenericMiniDumpHandlerEx - GetProcAddress failed for "MiniDumpWriteDump"
-Tier0GenericMiniDumpHandlerEx - Skipping due to MINIDUMP_ADDITIONAL_DONT_CATCH_EXCEPTIONS.
-Tier0GenericMiniDumpHandlerEx: %s
+Tier0GenericMiniDumpHandlerEx - CreateFile failed\n
+Tier0GenericMiniDumpHandlerEx - Failed to load DbgHelp.dll\n
+Tier0GenericMiniDumpHandlerEx - GetProcAddress failed for "MiniDumpWriteDump"\n
+Tier0GenericMiniDumpHandlerEx - Skipping due to MINIDUMP_ADDITIONAL_DONT_CATCH_EXCEPTIONS.\n
+Tier0GenericMiniDumpHandlerEx: %s\n
 Tier0GenericMiniDumpHandlerExError
-Tier0GenericMiniDumpHandlerUsingExceptionInfo - Writing dump "%s"
-Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Exiting process]
-Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Invoking crashdumpmailer]
+Tier0GenericMiniDumpHandlerEx\n
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - Writing dump "%s"\n
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Exiting process]\n
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Invoking crashdumpmailer]\n
+Tier0GenericMiniDumpHandler\n
 Tier0GenericMiniDumpHandler_SetFilenamePrefix
 Tier0GenericMiniDumpHandler_SetGetAdditionalFileAttachmentCallback
 Tier0GenericMiniDumpHandler_SetOptions
@@ -3433,56 +2508,34 @@ TlsFree
 TlsGetValue
 TlsSetValue
 To broadcast a minidump, you must provide a summary of what you were doing.
-To do nothing, press "Ignore For This Session"
-To help diagnose the problem:
 Tools
-Total virtual bytes: %s
+Total virtual bytes: %s\n
 TracingFlags
-Trailing space on executable name! This will cause Application Verifier and ETW Heap tracing to fail!
+Trailing space on executable name! This will cause Application Verifier and ETW Heap tracing to fail!\n
 TranslateMessage
 TranslateStackInfo
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
 Tuesday
-U8D83A
 UA>N0Wl
-UATAUAVAWH
-UAUAWH
-UAVAWH
 UCS-2
 UNKNOWN
 URL Protocol
 URL:%s protocol
+URdN
 USER32.dll
-USVWATAUAVAW
-USVWATAUAVAWH
-USVWAVH
-USWATAUAVAWH
 UTF-16LEUNICODE
 UTF-8
+UUUU
 UUUUU
 UUUUUU
-UUUUUUUUI
-UVAVH
-UVAWH
-UVWATAUAVAW
-UVWATAUAVAWH
-UVWAUAVH
-UVWAVAWH
-UWATAVAWH
-UWAUAVAWH
-UWAVAWH
-UWAVH
-UWAWH
-UWVSAWAVAUATH
-UWVSAWH
-Unable to create event, error %d
-Unable to create semaphore, error %d
-Unable to determine CPU Frequency
+Unable to create event, error %d\n
+Unable to create semaphore, error %d\n
+Unable to determine CPU Frequency\n
 Unable to get Version
-Unable to load COM
-Unable to load SDL2
-Unable to load oleaut32
+Unable to load COM\n
+Unable to load SDL2\n
+Unable to load oleaut32\n
 Unaccounted
 Unhandled WAIT_ABANDONED in WaitForMultipleObjects
 UnhandledExceptionFilter
@@ -3496,36 +2549,21 @@ UnknownOS
 UnregisterAssertionFailureListener
 UnregisterMobileEventListener
 UpdateWindow
-V6E>`"(5
 VALVE-MODULE-DEBUG-%08X
 VALVE_DISABLE_CLOCK_SPEED_CALCULATION
 VALVE_TESTMODE
-VATAUAVAWH
-VATAVAWH
-VAVAWH
 VCRT_isalnum
 VCRT_isalpha
 VCRT_isdigit
 VCRT_isprint
 VCRT_tolower
 VCRT_toupper
-VD$Pf
 VGAME
 VMINIDUMP_EXCEPTION_CODE
-VNA"T1
 VPROJECT
-VProf spike "%s" from %f to %f ms
-VT$PD
+VProf spike "%s" from %f to %f ms\n
 VTPause
 VTResume
-VUUUA
-VUUUH
-VWATAUAVH
-VWATAUAWH
-VWATAVAW
-VWATAVAWH
-VWAVH
-VWAWH
 V_AbbreviatePathInPlace
 V_AddBackSlashesToSpecialChars
 V_AreFileNamesEqual
@@ -3754,7 +2792,7 @@ V_undname
 V_vfprintf
 V_vscprintf
 V_vsnprintf
-V_vsnprintf truncated to %u without QUIET_TRUNCATION specified! String: "%s"
+V_vsnprintf truncated to %u without QUIET_TRUNCATION specified! String: "%s"\n
 V_vsnprintfRet
 V_vsnprintfSize
 V_vsnprintfWarnTrunc
@@ -3768,8 +2806,6 @@ V_wcstoi64
 V_wcstoui64
 ValidateStringFormatSpecifiers
 Valve input provider initialized.
-Valve0
-Valve1
 VariantClear
 VariantCopy
 VariantInit
@@ -3777,29 +2813,21 @@ VerSetConditionMask
 VerifyVersionInfoA
 VerifyVersionInfoW
 Version
-Virtual Memory %s Report for PID %u
-Virtual memory regions sorted by size:
+Virtual Memory %s Report for PID %u\n
+Virtual memory regions sorted by size:\n
 VirtualAlloc
 VirtualFree
 VirtualProtect
 VirtualQuery
-W H;V
+W 7x
 WARNING: Large alloc of %llu bytes of memory (limit %llu)
 WARNING: Large virtual reservation of %llu bytes of memory (limit %llu)
-WARNING: there were errors during information capture, this report may be incomplete
-WARNING: total wall clock time was %.2f seconds, results may be invalid
-WATAUAVAWH
-WATAVAWH
-WATAVH
-WAUAVH
-WAVAWH
-WD8l$@t
-WEVT 
-WEVT|
+WARNING: there were errors during information capture, this report may be incomplete\n
+WARNING: total wall clock time was %.2f seconds, results may be invalid\n
 WINMM.dll
 WS2_32.dll
 WaNd?
-WaitForMultiple: %d exceeded maximum of %d
+WaitForMultiple: %d exceeded maximum of %d\n
 WaitForMultipleObjects
 WaitForSingleObject
 WaitForSingleObjectEx
@@ -3808,9 +2836,9 @@ Wak>E
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning: Failed to initialize COM! HRESULT = 0x%X %s
-Warning: Fell out of small block heap!
-Warning: Found a reparse point (ntfs symlink) for %s but CreateFile failed
+Warning: Failed to initialize COM! HRESULT = 0x%X %s\n
+Warning: Fell out of small block heap!\n
+Warning: Found a reparse point (ntfs symlink) for %s but CreateFile failed\n
 Watchdog Window
 WatchdogThreadDataMutex
 WatchdogThreadWndClass
@@ -3846,37 +2874,25 @@ Windows Vista
 Windows XP
 Windows XP 
 Windows XP Professional x64 
-Working set: %s
+Working set: %s\n
 WriteConsoleW
 WriteFile
-Wrote minidump to %s
-Wu4E3
 X 843"8
-X fff
-X!t5~
-X5LT)
-X5MU)
-X5hW)
+X/4B
+X>0S
 X?fff?
-XA\_^[
-XA]_^[
-XA^A]A\]
-XA_A^A\^
-XA_A^A]A\
-XA_A^A]A\_^[]
 XS&Y+
-XboxDVRCheck: AllowGameDVR = 0x%08X (e0x%08X)
-XboxDVRCheck: AppCaptureEnabled = 0x%08X (e0x%08X)
-XboxDVRCheck: GameDVR_Enabled = 0x%08X (e0x%08X)
-Y(u+H
+XZHL
+XboxDVRCheck: AllowGameDVR = 0x%08X (e0x%08X)\n
+XboxDVRCheck: AppCaptureEnabled = 0x%08X (e0x%08X)\n
+XboxDVRCheck: GameDVR_Enabled = 0x%08X (e0x%08X)\n
+Y8a:
 Y>kX>
 Y>kX>M
-YD$@f
-YL$`H
-You should do this for any new assertions you see. (Distinguished by "Location" and "Assert" above)
 Z>w_F
+ZSq>
 Z\>z8
-Zod(^?
+Zjz\v
 ZwQueryInformationProcess
 [   func+child         func ]
 [   func+child       func ]
@@ -3884,10 +2900,7 @@ ZwQueryInformationProcess
 [*ncd>0
 [*ncd>TQ
 [/code]
-[/h1]
-[/img]
 [/list]
-[/url]
 [PID:%d TIME:%s EXE:%s CWD:%s] 
 [aOni*{
 [code]
@@ -3895,53 +2908,28 @@ ZwQueryInformationProcess
 [list]
 [thunk]:
 [url=
-\$ A^
-\$ E3
-\$ H;
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWAVH
-\$ VH
-\$ VWAVH
-\$ VWHc
-\$ W3
-\$ WH
-\$(E3
-\$0E3
-\$0H+
-\$0H9{
-\$0H;
-\$0L+
-\$0_^
-\$8A+
-\$<A;
-\$@@8=
-\$@H;
-\$@M+
-\$D@81
-\$P@8u
-\$`A+
-\$`H;=
-\$gm?
-\$pL95
-\$pM;
-\$xIc
-\>$hkDh$h>
 \D2%4
 \\.\GDPERF
 \\.\GDPERF.VXD
-\ffff
-])6M>&
-]-?Z8
-]>)2X
-]BD8uAtF
-^8U)zj
+\fp\vPD
+\n4Zv
+\nAbortMessage({
+\nOS memory stats:\n
+\nTesting %d threads:\n
+\n\nCMiniDumpComment encountered an error while generating the comment
+\nh?oT
+\nk>oB
+\t6RtcZO"
+\t9sv
+\tJR>8o
+\tcQr
+\tkE>fvw
+\vA03>A|
+\veBV
+]u9g
 ^<V7w
-^>&qN
 ^RfN>
-_@L9#s
+^axb
 _AssertValidReadPtr
 _AssertValidReadWritePtr
 _AssertValidWritePtr
@@ -3987,7 +2975,7 @@ _V_wcsncat_cch
 _V_wcsncpy_bytes
 _Warning_AlwaysSpewCallStack_Enable
 _Warning_AlwaysSpewCallStack_Length
-___ Begin jemalloc statistics ___
+___ Begin jemalloc statistics ___\n
 __based(
 __cdecl
 __clrcall
@@ -4005,19 +2993,12 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-__w64 
 _cabs
 _f>PH
 _hypot
 _logb
 _nextafter
 _oD>Kg
-`+!]?
-`.rdata
-`>n>w%
-`A_A^A]A\]
-`A_A^A]A\_^]
-`A_A^A]_]
 `RTTI
 `adjustor{
 `anonymous namespace'
@@ -4032,7 +3013,6 @@ _oD>Kg
 `eh vector vbase copy constructor iterator'
 `generic-class-parameter-
 `generic-method-parameter-
-`h````
 `h`hhh
 `local static destructor helper'
 `local static guard'
@@ -4068,6 +3048,7 @@ _oD>Kg
 `virtual displacement map'
 `vtordispex{
 `vtordisp{
+a6>r
 a?y#c?sIe?
 abandoned_vm
 abcdefghijklmnopqrstuvwxyz
@@ -4075,6 +3056,7 @@ abort
 abort_conf
 accessviolation
 aco-nz
+acos
 active
 alloc
 allocated
@@ -4099,25 +3081,26 @@ arenas.page
 arenas.quantum
 arenas.tcache_max
 arrayboundsexceeded
+asin
 asinf
 assert
 assertion
+atan
 atan2
+auto
 autoargs
-b?^Cy
 background_thread
 bad allocation
 bad array new length
 bad exception
+base
 batch_query
 bin\win64
 bin\win64\tier0.dll
 bin_shards
-bp(=>?g
+bins
+bool
 breakpoint
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
 c:\buildslave\hlvr_rel_win64\build\src\public\tier0\globallist.h
 c:\buildslave\hlvr_rel_win64\build\src\public\tier0\tslist.h
@@ -4132,7 +3115,7 @@ c:\buildslave\hlvr_rel_win64\build\src\tier0\hangwatchdogthread.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\hibernate.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\logging.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\mem_helpers.cpp
-c:\buildslave\hlvr_rel_win64\build\src\tier0\memprocessheap.cpp(379):***** OUT OF MEMORY! attempted allocation size: %I64d ****
+c:\buildslave\hlvr_rel_win64\build\src\tier0\memprocessheap.cpp(379):***** OUT OF MEMORY! attempted allocation size: %I64d ****\n
 c:\buildslave\hlvr_rel_win64\build\src\tier0\memstd.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\minidump.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\platform.cpp
@@ -4144,10 +3127,12 @@ c:\buildslave\hlvr_rel_win64\build\src\tier0\threadtools.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\tier0_strtools.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier0\vprof.cpp
 c:\source2_minidump_log.txt
-c>v	k
+c>F2
+c>v\tk
 c?FA@s}
-cAMDD
 cache_oblivious
+ceil
+char
 char 
 char16_t
 char32_t
@@ -4173,16 +3158,17 @@ confirm_conf
 const
 const 
 content_assertion
+cosf
+cosh
 crash
 create
 curlextents
 curregs
 curslabs
-d$ E3
-d$0E3
-d$0Lc
-d$pE3
+d8-t
+d8L2
 d?000000`?
+dRL>
 datatypemisalignment
 dbghelp.dll
 dbghelp\10\dbgcore.dll
@@ -4207,16 +3193,15 @@ dirty_purged
 disable
 disabled
 distributed...
+done\n
 double
-e A_A^A]A\]
-e A_A^A]A\_^]
+ds\fw
+dump
 e+000
-e0A_A^A]A\]
-e0A_A^A]A\_^]
-e8A_A^A]A\_^[]
+e>US
+eF>t
 eLK(w
 enabled
-entiA
 enum 
 epoch
 error
@@ -4232,53 +3217,13 @@ extents_dirty
 extents_muzzy
 extents_retained
 extern "C" 
-f9*u	H
-f9,pu
-f94Au
-f94Hu
-f;S8tDH;C
-f;T$(s
-f;U`s
-f;\$(
-f;\$(r
-f;\$0
-f;\$0r
-f;\$8
-f;\$@
-f;\$H
-f;\$T
-f;\$Tr
-f;\$\
-f;\$d
-f;\$ds
-f;\$ds	D
-f;\$l
-f;\$ps
-f;\$t
-f;\$ts
-f;\$x
-fA94nu
-fA96tdH
-fB94`t	H
-fC94wu
-fD9	t
-fD9	t(I
-fD9 u
-fD9(u
-fD90t
-fD91u
-fD94Fu
-fD94Gu
-fD96u
-fD9<Zu
-fD9t$b
-fHD9b
-fJBGo
+fD>b
+fGa>
+fWi?
+fabs
 failed to load DbgHelp.dll.
 false
-fffff
-ffffff
-fffffff
+fill
 float
 floor
 fltdenormaloperand
@@ -4289,9 +3234,11 @@ fltoverflow
 fltstackcheck
 fltunderflow
 flush
+fmod
 fmodf
 forced
-forced dump
+forced dump\n
+free
 frexp
 g9@x!8
 g_Mathlib_GammaToLinearByteTable
@@ -4317,70 +3264,43 @@ g_pLastMiniProfiler
 g_pMemAlloc
 g_pPerfTraceDepot
 g_pRootMiniProfiler
+game
 game\
 game\..\autoargs
 game\bin
 game\bin\win64
 gamemode.dll
+gd>Z
 gdump
 generic-type-
-gfffA
-gfffffffH
-gfffffffH+
-gfffffffI
-h WATAUAVAWH
+h0'D
 h>1my
-hA^^][
-hA_A^A]A\_^[]
+high
 higher
 hj>>d
 hooks
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
-iW!]4/
+i>VF
+i]Wb
 ignored_assertions.txt
-ineIA
-ineIu#
 initialized
 inity
 install
+int 
 intdividebyzero
 internal
 interval
 intoverflow
 invalid string position
 invalid_parameter
-iu+-,
-j(fA;
-j>>A?1
-j?V()
-j?{$*
+jeTb
 jemalloc
-k0i0$
-k>4	F
+junk
+k=yI
+k>4\tF
+k>RU
 kernel32
 kernel32.dll
-l$ E3
-l$ VAVAWH
-l$ VH
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ WAVAWH
-l$ WH
-l$(E3
-l$(E;
-l$0eH
-l$8E3
-l$@E3
-l$@fff
-l$H@8
-l$TE3
-l$XA+
-l$pHi
-l$xD8w	u#
-l$|E3
+lWi]
 large
 lazy_lock
 ldexp
@@ -4397,14 +3317,16 @@ log10
 log10f
 log_start
 log_stop
+logf
+long
 long 
 lookup
 lower
-m0_$@
-m0k0$
-m8L9c
 m?H5p?
-m`H9{
+m?H7
+mG4>
+mO-B
+m\nXo
 macos
 malloc_conf
 map/set<T> too long
@@ -4416,6 +3338,7 @@ memstats_%d.txt
 message
 metadata
 metadata_thp
+modf
 mutex
 mutexes
 muzzy_bytes
@@ -4425,9 +3348,9 @@ muzzy_npurge
 muzzy_purged
 n03>Pu
 n>log2
-nD$ f
 nTries < 10000000
 n]?iJ
+name
 nan(ind)
 nan(snan)
 narenas
@@ -4455,8 +3378,6 @@ nshards
 nslabs
 ntdll
 ntdll.dll
-ntelE
-ntelu/
 nthreads
 num_ops
 num_owner_switch
@@ -4464,10 +3385,10 @@ num_runs
 num_spin_acq
 num_threads
 num_wait
-oD$ H
-oD$ fH
-oD$@H
+o9sp
+o?GS
 oI>O7
+oI>b
 obwQ4
 ole32.dll
 oleaut32.dll
@@ -4506,25 +3427,14 @@ opt.utrace
 opt.xmalloc
 opt.zero
 opt_safety_checks
-ot$ H
-ot$0H
 oversize_threshold
-oypfD
-o|$0f
-p AWH
-p WATAUAVAWH
-p0n05
-p1f3q>
+owM&
 p>.G1
-p@8t$8t
-pA]A\_^[
-pA^_^
-pA_A^A]A\^][
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_A^_
+p>Y3
 pactive
 pactivep
+page
+pass\n
 pb>pAf>
 pdirty
 percpu
@@ -4535,6 +3445,7 @@ pmuzzy
 primary
 private: 
 privinstruction
+prof
 prof.active
 prof.lg_sample
 prof.thread_active_init
@@ -4552,49 +3463,15 @@ psapi.dll
 public: 
 purecall
 purge
-q0@80u
 q>F,3
 qS>g?h3
 quantum
 query
-queue force advance
-queue max wait
-r	Vr.>T
-r 9_ t
-r!f;U
-r""\\
-r"D8F
-r#f;\$\s
-r#f;\$hs
-r%f;U
-r&f;M
-r&f;\$\s
-r*f;\$hs#
-r/f;M
-r3f;U
-r7f;\$L
-r7f;\$X
-r:D8v
-r:f;\$L
-r;f;U
-r<f;M
-r>f;\$X
-rA=. 
-rAf;M
-rEf;U
-rKf;\$<
-rKf;\$H
-rNf;\$<
+queue force advance\n
+queue max wait\n
+r9T6
 rNm>)
-rQf;U
-rRf;M
-rRf;\$H
-rSf;M
-rWf;U
-r_f;\$,
-r_f;\$8
-rbf;\$,
-ref;M
+r\tVr.>T
 remove
 reset
 resident
@@ -4603,24 +3480,10 @@ retain
 retain_grow_limit
 retained
 retained_bytes
-rff;\$8
-rgf;U
-rhf;M
-ri9V vdH
-rif;U
-rsf;\$ 
-rsf;\$(
 rtree
 run_interval
-rvf;\$ 
-rwf;M
-rzf;\$(
-r{f;U
-r}f;U
-r~f;M
-s WAVAWH
-s4+sP+
-sCH9_
+s3o\
+sHF'
 sVwES
 secondary
 shell32.dll
@@ -4628,14 +3491,14 @@ short
 short 
 signed 
 singlestep
+sinh
+size
 slab_size
 slab_sizes
 small
 snan)
 source2_minidump_log.txt
-stCD;
-stED;
-st`D;
+sqrt
 static 
 stats
 stats.mapped
@@ -4645,95 +3508,12 @@ std::nullptr_t
 std::nullptr_t 
 steam://openurl/
 steam://openurl_external/
-stfE;
-stgE;
-sthE;
 string pointed to by the global variable malloc_conf
 string specified via --with-malloc-conf
 string too long
 struct 
-t	H9s
-t	L9c
-t	L9g
-t	L9s8t
-t	L9{
-t H9;u
-t H;B
-t HcD$0;
-t"<.u
-t"@8t$8t
-t"HcM`H
-t#H9z
-t#HcL$`H
-t$ <`
-t$ @2
-t$ A;
-t$ ATAVAWH
-t$ AVH
-t$ AWE3
-t$ A^
-t$ E3
-t$ I3
-t$ UH
-t$ UWATAVAWH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$(E3
-t$(H+
-t$(H90
-t$(I+
-t$(I;
-t$0A;
-t$0E3
-t$8	|
-t$8E2
-t$8H+
-t$8H;
-t$8Mi
-t$@A:
-t$@Li
-t$@t1H
-t$Hff
-t$Hfff
-t$Pfff
-t$Pt.H
-t$X<-u
-t$XE3
-t$Xt.H
-t$huyA
-t$pE3
-t$xE3
-t%</t!<\t
-t&< t
-t&< ~
-t'fE9
-t(<\t
-t(A8(t
-t)D8l$@t
-t/D8e
-t/D8}
-t4McF
-t7HcF
-t=fD9
-t@@8{<t
-tB@8{<t
-tC@8{2t
-tCHcP
-tE@8{2t
-tHfA;
-tI@8{:t
-tK@8{:t
-tMD;%
-tOH9=
-tPH95
-tQ</t
-tVf9p
-tX9x0tO
-tXLcQ
-tY@8p
-t[fD9I
-t\<\t
+tanf
+tanh
 tcache
 tcache_bytes
 tcache_list
@@ -4748,61 +3528,17 @@ timeBeginPeriod
 timestamped.log
 tooltips_class32
 total_wait_time
+true
 tsd_nominal_tsds_lock
-ttIcF
-t{H9/tQL
-u!@8-
-u!@85	
-u"H;_Pt
-u"HcMHH
-u#H9H s
-u&fA;
-u*fff
-u,D857
-u-L9L$Pu&
-u/L;o
-u1!D$0H
-u38D$Xu-@
-u3@8s
-u3HcH<H
-u7L9L$Pu0H
-u<;|$`}T
-u<Hc	
-u=L;k
-u@L9L$Pu9H
-uA;\$D}M
-uAiD$@
-uC<0u?A
-uD;\$@}P
-uD;\$D}P
-uDL9L$`u=
-uE;\$@}Q
-uFM9/tA
-uIH;=
-uOL9L$PuH
-uP;l$@}\
-uPH9{
-uPI91tK
-uQ8D$@uK@
-uR;\$p}^H
-uSfD9Z
-uXHkB
-uZEeu
-uZHkB
-ubfD9A
-uf!T$(H!T$ 
+ugc:
 ujGs?
-uk	/A
 union 
 unknown
 unsigned 
-upfD9I
 uptime
 utilization
 utrace
-uwHcE
 uzKs@>
-v0t08
 v2!L.2
 value of the environment variable MALLOC_CONF
 valve.org
@@ -4812,108 +3548,32 @@ vfbasics.dll
 virtual 
 visualstudioautomation.exe -appverifier_setup %d
 visualstudioautomation.exe -attachtoprocessid %d
+void
 void 
 volatile
 volatile 
+vpk:
 vrfcore
 vrfcore.dll
 vsjitdebugger.exe -p %d
 vtune
 vtuneapi.dll
-v}`[>
-w"fA+
-w`HcE H
+w!hy
 warning
 wchar_t
 windows
 winhttp.dll
 wn>Jj
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x ATAVAWH
-x AV3
-x AVH
-x AWH
-x UATAUAVAWH
-x UAVAWH
-x0v0$
-x8}0	9
-x9Ow5,
-xA_A]
-xA_A]A\^
-xWI96tRI
+wo=N
+x8}0\t9
+xT?V
 xmalloc
 xpxxxx
 xwpwpp
-y0f98u	
-yBNu'
 yE>cb
-y\PD>!
-z0x0:
-z>@G'h
-zY;>u:m	
+z>h4
+z\r8Pf
 z`%1Is}
-{ AVH
-{&1q>
+zero
 {flat}
 {for 
-{puIH
-{w8&-
-|#tAM
-|$ ATAUAVAW3
-|$ ATAVAWH
-|$ AVAW
-|$ AVAWD
-|$ AVD
-|$ AVH
-|$ AVHc
-|$ D!
-|$ E3
-|$ UATAUAVAWH
-|$ t 
-|$":uq
-|$$;=
-|$(A^
-|$(E3
-|$(I;
-|$,ff
-|$0A+
-|$0A_A^
-|$0D;
-|$0E3
-|$0s-
-|$0uX
-|$8;3
-|$8A_A^A\
-|$8H+
-|$8Ic
-|$@-D
-|$@-H
-|$@A_A^A]A\
-|$@H;
-|$@Ic
-|$@fff
-|$@tTH
-|$DHc
-|$HZud
-|$HtGf
-|$P@2
-|$PA82
-|$PM9>t
-|$UAu3H
-|$\.u
-|$`Ic
-|$pH;
-|$xH;1t
-|(tFM
-|>fj;
-|b=})>
-}%fff
-}1D85
-}tg<(u
-~ $s%r
-~ HcE
-~0D85
-~0D85`E
-~0D8=

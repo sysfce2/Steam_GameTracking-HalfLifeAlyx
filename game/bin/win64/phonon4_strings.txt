@@ -1,46 +1,20 @@
-	?insert@QListData@@QEAAPEAPEAXH@Z
-	?instance@QPluginLoader@@QEAAPEAVQObject@@XZ
-	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
                           
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
-      </requestedPrivileges>
-      <requestedPrivileges>
-    </security>
-    <security>
-  </trustInfo>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  ?paletteChange@QWidget@@MEAAXAEBVQPalette@@@Z
- A\_^
- A]A\]
- A]A\_
- A]_^
- A^A]A\
- A^A]A\_^
- A_A^A]A\_
- A_A^A]A\_^]
  Base Class Array'
  Base Class Descriptor at (
- C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
  Type Descriptor'
- data
  delete
  delete[]
- new[]
- t?D9
+ new
  throw(
  volatile
 !,?setRange@QAbstractSlider@@QEAAXHH@Z
 !?pixmap@QIcon@@QEBA?AVQPixmap@@AEBVQSize@@W4Mode@1@W4State@1@@Z
-!D$8!D$HM
-!D$8I
-!This program cannot be run in DOS mode.
-!t$(H!t$ A
-!t$(H!t$ H
 ",?setRange@QDoubleSpinBox@@QEAAXNN@Z
 "?qt_metacall@QSlider@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QSpinBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -49,86 +23,43 @@
 "?qt_metacast@QCheckBox@@UEAAPEAXPEBD@Z
 "?qt_metacast@QComboBox@@UEAAPEAXPEBD@Z
 "?qt_metacast@QDoubleSpinBox@@UEAAPEAXPEBD@Z
-"e?<<<<<<l?
 #?qt_metacast@QHBoxLayout@@UEAAPEAXPEBD@Z
 #?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
 $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
-$HcD$XH
-$Ib?s
-$Lc\$XMcJ
-$uBIcD$
 %?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z
-%GoU?*
-&?PPPPPPP?
+%\v?load@QPluginLoader@@QEAA_NXZ
+&\v?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 '#?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
 ',?setRange@QSpinBox@@QEAAXHH@Z
 '?setBuddy@QLabel@@QEAAXPEAVQWidget@@@Z
 '?setChecked@QAbstractButton@@QEAAX_N@Z
 (?setDirection@QBoxLayout@@QEAAXW4Direction@1@@Z
-(D$ H
-(D$@H
-(D$pH
-(D$pf
-(H91t	H
-(H99t
-(H99t	H
-(L$pH
-(L$pf
-(T?j?Y
-(l$ H
-(l$0H
-(l$0f
-(l$@f
-(l$PH
-(l$`f
-(l$pH
-(t$ H
-(t$0H
-(t$@D
-(t$@H
-(t$PH
-(t$`H
-) to 
 ), but different name/description. This is a bug in the Phonon backend.
 )?setEnabled@QWidget@@QEAAX_N@Z
 )?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z
-)t$ A
-)t$ H
-)t$ f
-)t$0I
-)t$0f
-)t$@E
-)t$@f
-)t$Pf
-)t$`A
-)|B?d!
 **?setIcon@QAbstractButton@@QEAAXAEBVQIcon@@@Z
 *?setMargin@QLayout@@QEAAXH@Z
 *?setMaximum@QAbstractSlider@@QEAAXH@Z
 +?setOrientation@QAbstractSlider@@QEAAXW4Orientation@Qt@@@Z
 +?setPageStep@QAbstractSlider@@QEAAXH@Z
 +?setPixmap@QLabel@@QEAAXAEBVQPixmap@@@Z
++\f?objectName@QObject@@QEBA?AVQString@@XZ
 ,<ellipsis>
 ,?setSingleStep@QAbstractSlider@@QEAAXH@Z
 ,?setSingleStep@QDoubleSpinBox@@QEAAXN@Z
 ,?setSizePolicy@QWidget@@QEAAXVQSizePolicy@@@Z
 ,?setSliderPosition@QAbstractSlider@@QEAAXH@Z
 ,?setSpacing@QBoxLayout@@QEAAXH@Z
-,HR>O
 -"?qt_metacall@QCheckBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 -64OS
--9D	/9a
 -?setText@QLabel@@QEAAXAEBVQString@@@Z
 -?setTickInterval@QSlider@@QEAAXH@Z
 -?setTickPosition@QSlider@@QEAAXW4TickPosition@1@@Z
 -?setToolTip@QWidget@@QEAAXAEBVQString@@@Z
 -?setTracking@QAbstractSlider@@QEAAX_N@Z
--BH>t
 . It seems a KioMediaStream will not help here, trying anyway.
 ..\3rdparty\phonon\phonon\backendcapabilities.cpp
 ..\3rdparty\phonon\phonon\factory.cpp
-..om?
-.>PJ;I:qE>
 .?AVAbstractAudioOutput@Phonon@@
 .?AVAbstractAudioOutputPrivate@Phonon@@
 .?AVAbstractMediaStream@Phonon@@
@@ -199,42 +130,18 @@ $uBIcD$
 .?AVexception@std@@
 .?AVtype_info@@
 .?setValue@QAbstractSlider@@QEAAXH@Z
-.?setValue@QDoubleSpinBox@@QEAAXN@Z
-.?setValue@QSpinBox@@QEAAXH@Z
 .?show@QWidget@@QEAAXXZ
 .?showEvent@QAbstractSpinBox@@MEAAXPEAVQShowEvent@@@Z
 .?showEvent@QComboBox@@MEAAXPEAVQShowEvent@@@Z
 .?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z
 .?showPopup@QComboBox@@UEAAXXZ
-.i?0@I
-.pdata
-.text
-/2GG>!B
 /?singleStep@QAbstractSlider@@QEBAHXZ
 /?sliderValueFromPosition@QStyle@@SAHHHHH_N@Z
 /?spacerItem@QLayoutItem@@UEAAPEAVQSpacerItem@@XZ
-/L9\$ t
 /phonon_backend/
 /phonon_platform/
-0><[cZUg^>
 0?staticMetaObject@QSlider@@2UQMetaObject@@B
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
-0A\^]
-0A\_^
-0A\_^][
-0A]A\_
-0A]A\_^]
-0A^A]A\
-0A^A]A\_^
-0A^A]A\_^[]
-0A^A]A\_^][
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0H9sHt,
-0X8b?~
-0_^[H
 1#IND
 1#INF
 1#QNAN
@@ -317,86 +224,31 @@ $uBIcD$
 3?textFromValue@QDoubleSpinBox@@UEBA?AVQString@@N@Z
 3?textFromValue@QSpinBox@@MEBA?AVQString@@H@Z
 3AudioOutputInterface.phonon.kde.org
-3BG5w#)fw#)fw#)f~[
 3PlatformPlugin.phonon.kde.org
 4.4.0
-4IcD$
 5/?sizeHint@QCheckBox@@UEBA?AVQSize@@XZ
 63?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
 6?triggerAction@QAbstractSlider@@QEAAXW4SliderAction@1@@Z
+6\r?qgetenv@@YA?AVQByteArray@@PEBD@Z
 7*?setIconSize@QAbstractButton@@QEAAXAEBVQSize@@@Z
 7/?sizeHint@QComboBox@@UEBA?AVQSize@@XZ
-7;|$0t,
 7?validate@QDoubleSpinBox@@UEBA?AW4State@QValidator@@AEAVQString@@AEAH@Z
 7?validate@QSpinBox@@MEBA?AW4State@QValidator@@AEAVQString@@AEAH@Z
 7?valueFromText@QDoubleSpinBox@@UEBANAEBVQString@@@Z
 7?valueFromText@QSpinBox@@MEBAHAEBVQString@@@Z
-7h>?8
-8$u,D
-8$u.D
-80tVD
-80|'A
 83?timerEvent@QAbstractSlider@@MEAAXPEAVQTimerEvent@@@Z
-8?u$H
-8?u-H
 8?winEvent@QWidget@@MEAA_NPEAUtagMSG@@PEAJ@Z
 8?windowActivationChange@QWidget@@MEAAX_N@Z
 8?windowFlags@QWidget@@QEBA?AV?$QFlags@W4WindowType@Qt@@@@XZ
 8?windowState@QWidget@@QEBA?AV?$QFlags@W4WindowState@Qt@@@@XZ
-8@tJH
-8@txH
-8@u!H
-8@u<H
-8A\_^[
-8A_A^A]A\_^[]
-8D$8t
-8D$XL
-8Ft0A
-8Ht*A
-8L$8t
-8QupI
-8Xu3H
-8Zu"H
-8^`t-H
-8_^][
-8_uNH
-8ke?;
-9	t	H
-9	tmH
-91~O3
 93?timerEvent@QAbstractSpinBox@@MEAAXPEAVQTimerEvent@@@Z
-9?uPH
-9\$@v_H
-9t$P~98\$vt3H
 :'?setAlignment@QLayout@@QEAA_NPEAVQWidget@@V?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-:>)*	v
-:>t6k'
-;.uAL
-;7sUH
-;?tJA
-;\$@r
-;\$p|
-< tG<	tC
-<$-Hc
-</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
-<0|/<9
-<1~1<3~$<4t9<5t
-<>#n2
-<?u7H
-<A|2<P
-<Et	H
-<_uyI
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <ellipsis>
 <html>Switching to the audio playback device <b>%1</b><br/>which has higher preference or is specifically configured for this stream.</html>
 <html>Switching to the audio playback device <b>%1</b><br/>which just became available and has higher preference.</html>
 <html>The audio playback device <b>%1</b> does not work.<br/>Falling back to <b>%2</b>.</html>
 <unknown>
-<z~$<A|
 ?.?setVisible@QWidget@@UEAAX_N@Z
-?7zQ6$
-?8bunz8
-?:kP<
 ??0AbstractAudioOutput@Phonon@@IEAA@AEAVAbstractAudioOutputPrivate@1@PEAVQObject@@@Z
 ??0AbstractMediaStream@Phonon@@IEAA@AEAVAbstractMediaStreamPrivate@1@PEAVQObject@@@Z
 ??0AbstractMediaStream@Phonon@@IEAA@PEAVQObject@@@Z
@@ -616,24 +468,15 @@ $uBIcD$
 ??_FVideoWidget@Phonon@@QEAAXXZ
 ??_FVolumeFaderEffect@Phonon@@QEAAXXZ
 ??_FVolumeSlider@Phonon@@QEAAXXZ
-?@En[vP
-?CuND8g
 ?QStringList_contains@QtPrivate@@YA?AVQBool@@PEBVQStringList@@AEBVQString@@W4CaseSensitivity@Qt@@@Z
-?QY^&
-?R0I?
-?UUUUUU
 ?_k_stateChanged@MediaObjectPrivate@Phonon@@IEAAXW4State@2@0@Z
 ?aboutToFinish@MediaObject@Phonon@@IEAAXXZ
 ?absoluteFilePath@QFileInfo@@QEBA?AVQString@@XZ
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
 ?addDestructionHandler@MediaNodePrivate@Phonon@@QEAAXPEAVMediaNodeDestructionHandler@2@@Z
 ?addGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
 ?addInputPath@MediaNodePrivate@Phonon@@QEAAXAEBVPath@2@@Z
-?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
-?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 ?addOutputPath@MediaNodePrivate@Phonon@@QEAAXAEBVPath@2@@Z
-?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 ?allocate@QVectorData@@SAPEAU1@HH@Z
 ?allocateNode@QHashData@@QEAAPEAXH@Z
 ?angleChanged@MediaController@Phonon@@IEAAXH@Z
@@ -682,20 +525,11 @@ $uBIcD$
 ?canReadLine@QIODevice@@UEBA_NXZ
 ?category@AudioOutput@Phonon@@QEBA?AW4Category@2@XZ
 ?categoryToString@Phonon@@YA?AVQString@@W4Category@1@@Z
-?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QAbstractSpinBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
 ?changePersistentIndexList@QAbstractItemModel@@IEAAXAEBV?$QList@VQModelIndex@@@@0@Z
 ?chapterChanged@MediaController@Phonon@@IEAAXH@Z
-?checkStateSet@QCheckBox@@MEAAXXZ
-?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
 ?clear@MediaObject@Phonon@@QEAAXXZ
-?clear@QAbstractSpinBox@@UEAAXXZ
 ?clearQueue@MediaObject@Phonon@@QEAAXXZ
 ?clearStreamCache@PulseSupport@Phonon@@QEAAXVQString@@@Z
 ?close@QFile@@UEAAXXZ
@@ -796,7 +630,6 @@ $uBIcD$
 ?exists@QFileInfo@@QEBA_NXZ
 ?exitFullScreen@VideoWidget@Phonon@@QEAAXXZ
 ?expandingDirections@QBoxLayout@@UEBA?AV?$QFlags@W4Orientation@Qt@@@@XZ
-?f`Y4
 ?fadeCurve@VolumeFaderEffect@Phonon@@QEBA?AW4FadeCurve@12@XZ
 ?fadeIn@VolumeFaderEffect@Phonon@@QEAAXH@Z
 ?fadeOut@VolumeFaderEffect@Phonon@@QEAAXH@Z
@@ -875,15 +708,12 @@ $uBIcD$
 ?isMuteVisible@VolumeSlider@Phonon@@QEBA_NXZ
 ?isMuted@AudioOutput@Phonon@@QEBA_NXZ
 ?isNull@QIcon@@QEBA_NXZ
-?isOpen@QIODevice@@QEBA_NXZ
 ?isPaused@VideoPlayer@Phonon@@QEBA_NXZ
 ?isPlaying@VideoPlayer@Phonon@@QEBA_NXZ
 ?isSeekable@MediaObject@Phonon@@QEBA_NXZ
-?isSequential@QFile@@UEBA_NXZ
 ?isValid@MediaNode@Phonon@@QEBA_NXZ
 ?isValid@ObjectDescriptionData@Phonon@@QEBA_NXZ
 ?isValid@Path@Phonon@@QEBA_NXZ
-?isValid@QUrl@@QEBA_NXZ
 ?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z
 ?k_func@AbstractAudioOutput@Phonon@@AEAAPEAVAbstractAudioOutputPrivate@2@XZ
 ?k_func@AbstractAudioOutput@Phonon@@AEBAPEBVAbstractAudioOutputPrivate@2@XZ
@@ -923,17 +753,12 @@ $uBIcD$
 ?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
 ?languageChange@QWidget@@MEAAXXZ
 ?layout@QLayout@@UEAAPEAV1@XZ
-?layoutAboutToBeChanged@QAbstractItemModel@@IEAAXXZ
-?layoutChanged@QAbstractItemModel@@IEAAXXZ
 ?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z
-?libraryPaths@QCoreApplication@@SA?AVQStringList@@XZ
-?load@QPluginLoader@@QEAA_NXZ
 ?load@VideoPlayer@Phonon@@QEAAXAEBVMediaSource@2@@Z
 ?maximum@QAbstractSlider@@QEBAHXZ
 ?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ
 ?maximumValue@EffectParameter@Phonon@@QEBA?AVQVariant@@XZ
 ?maximumVolume@VolumeSlider@Phonon@@QEBANXZ
-?maybeSpace@QDebug@@QEAAAEAV1@XZ
 ?mediaObject@SeekSlider@Phonon@@QEBAPEAVMediaObject@2@XZ
 ?mediaObject@VideoPlayer@Phonon@@QEBAPEAVMediaObject@2@XZ
 ?metaData@MediaObject@Phonon@@QEBA?AV?$QMultiMap@VQString@@V1@@@XZ
@@ -957,11 +782,8 @@ $uBIcD$
 ?metaObject@QCheckBox@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QComboBox@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QDoubleSpinBox@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QFile@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QHBoxLayout@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QLabel@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QMimeData@@UEBAPEBUQMetaObject@@XZ
-?metaObject@QObject@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QSlider@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QSpinBox@@UEBAPEBUQMetaObject@@XZ
 ?metaObject@QVBoxLayout@@UEBAPEBUQMetaObject@@XZ
@@ -1011,21 +833,14 @@ $uBIcD$
 ?name@AudioOutput@Phonon@@QEBA?AVQString@@XZ
 ?name@EffectParameter@Phonon@@QEBAAEBVQString@@XZ
 ?name@ObjectDescriptionData@Phonon@@QEBA?AVQString@@XZ
-?nameFilters@QDir@@QEBA?AVQStringList@@XZ
 ?needData@StreamInterface@Phonon@@QEAAXXZ
 ?nextCheckState@QCheckBox@@MEAAXXZ
-?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
 ?nextTitle@MediaController@Phonon@@QEAAXXZ
-?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
 ?notifier@BackendCapabilities@Phonon@@YAPEAVNotifier@12@XZ
-?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
-?number@QString@@SA?AV1@HH@Z
 ?objectDescriptionChanged@PulseSupport@Phonon@@IEAAXW4ObjectDescriptionType@2@@Z
 ?objectDescriptionIndexes@PulseSupport@Phonon@@QEBA?AV?$QList@H@@W4ObjectDescriptionType@2@@Z
 ?objectDescriptionProperties@PulseSupport@Phonon@@QEBA?AV?$QHash@VQByteArray@@VQVariant@@@@W4ObjectDescriptionType@2@H@Z
 ?objectIndexesByCategory@PulseSupport@Phonon@@QEBA?AV?$QList@H@@W4ObjectDescriptionType@2@W4Category@2@@Z
-?objectName@QObject@@QEBA?AVQString@@XZ
-?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?orientation@QAbstractSlider@@QEBA?AW4Orientation@Qt@@XZ
 ?orientation@SeekSlider@Phonon@@QEBA?AW4Orientation@Qt@@XZ
 ?orientation@VolumeSlider@Phonon@@QEBA?AW4Orientation@Qt@@XZ
@@ -1044,29 +859,19 @@ $uBIcD$
 ?play@MediaObject@Phonon@@QEAAXXZ
 ?play@VideoPlayer@Phonon@@QEAAXAEBVMediaSource@2@@Z
 ?play@VideoPlayer@Phonon@@QEAAXXZ
-?pos@QFile@@UEBA_JXZ
 ?possibleValues@EffectParameter@Phonon@@QEBA?AV?$QList@VQVariant@@@@XZ
 ?prefinishMark@MediaObject@Phonon@@QEBAHXZ
 ?prefinishMarkReached@MediaObject@Phonon@@IEAAXH@Z
-?prepend@QListData@@QEAAPEAPEAXXZ
 ?previousTitle@MediaController@Phonon@@QEAAXXZ
 ?property@ObjectDescriptionData@Phonon@@QEBA?AVQVariant@@PEBD@Z
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
 ?propertyNames@ObjectDescriptionData@Phonon@@QEBA?AV?$QList@VQByteArray@@@@XZ
-?qAddPostRoutine@@YAXP6AXXZ@Z
-?qDebug@@YA?AVQDebug@@XZ
-?qFatal@@YAXPEBDZZ
-?qFree@@YAXPEAX@Z
-?qHash@@YAIAEBVQByteArray@@@Z
 ?qHash@Phonon@@YAIAEBVEffectParameter@1@@Z
-?qMemSet@@YAPEAXPEAXH_K@Z
 ?qObject@MediaNodePrivate@Phonon@@QEBAPEBVQObject@@XZ
 ?qObject@MediaNodePrivate@Phonon@@UEAAPEAVQObject@@XZ
 ?q_func@AbstractMediaStreamPrivate@Phonon@@AEAAPEAVAbstractMediaStream@2@XZ
 ?q_func@AbstractMediaStreamPrivate@Phonon@@AEBAPEBVAbstractMediaStream@2@XZ
 ?q_func@MediaNodePrivate@Phonon@@AEAAPEAVMediaNode@2@XZ
 ?q_func@MediaNodePrivate@Phonon@@AEBAPEBVMediaNode@2@XZ
-?qgetenv@@YA?AVQByteArray@@PEBD@Z
 ?qt_metacall@AbstractAudioOutput@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@AbstractMediaStream@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@AudioDataOutput@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -1076,9 +881,6 @@ $uBIcD$
 ?qt_metacall@MediaController@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@MediaObject@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@PulseSupport@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QFile@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QMimeData@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@SeekSlider@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@VideoPlayer@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_metacall@VideoWidget@Phonon@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -1098,10 +900,6 @@ $uBIcD$
 ?qt_metacast@MediaController@Phonon@@UEAAPEAXPEBD@Z
 ?qt_metacast@MediaObject@Phonon@@UEAAPEAXPEBD@Z
 ?qt_metacast@PulseSupport@Phonon@@UEAAPEAXPEBD@Z
-?qt_metacast@QAbstractListModel@@UEAAPEAXPEBD@Z
-?qt_metacast@QFile@@UEAAPEAXPEBD@Z
-?qt_metacast@QMimeData@@UEAAPEAXPEBD@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
 ?qt_metacast@SeekSlider@Phonon@@UEAAPEAXPEBD@Z
 ?qt_metacast@VideoPlayer@Phonon@@UEAAPEAXPEBD@Z
 ?qt_metacast@VideoWidget@Phonon@@UEAAPEAXPEBD@Z
@@ -1122,7 +920,6 @@ $uBIcD$
 ?qt_static_metacall@VolumeFaderEffect@Phonon@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?qt_static_metacall@VolumeSlider@Phonon@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
 ?queue@MediaObject@Phonon@@QEBA?AV?$QList@VMediaSource@Phonon@@@@XZ
-?read@QIODevice@@QEAA?AVQByteArray@@_J@Z
 ?readData@QFile@@MEAA_JPEAD_J@Z
 ?readLineData@QFile@@MEAA_JPEAD_J@Z
 ?realloc@QListData@@QEAAXH@Z
@@ -1389,75 +1186,10 @@ $uBIcD$
 ?writeData@AbstractMediaStream@Phonon@@IEAAXAEBVQByteArray@@@Z
 ?writeData@AbstractMediaStreamPrivate@Phonon@@MEAAXAEBVQByteArray@@@Z
 ?writeData@QFile@@MEAA_JPEBD_J@Z
-?{Q}<
-@ A9@
 @"?qt_metacall@QDoubleSpinBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-@.data
-@.reloc
-@.rsrc
-@8t$8t
-@8|$8t
-@A\_^
-@A\_^][
-@A]A\]
-@A]A\_
-@A]A\_^]
-@A^A\_
-@A^A]A\
-@A^A]A\_]
-@A_A^A]A\_
-@A_A^A]A\_^]
-@SUVWATAUAVAWH
-@SUVWATAUAVH
-@SUVWATAUH
-@SUVWATH
-@SUVWH
-@SVWATAUAVAWH
-@SVWH
-@UATAUAVAWH
-@UATAUH
-@USVWATAUAVAWH
-@USVWATAUAVH
-@USVWH
-@UVATH
-@UVWATAUAVAWH
-@UVWATAUH
-@UVWH
-@UWATAUAVH
-@VWATAUAVH
-@VWATH
-@VWAUH
-@WATAUH
-@_^[H
-@text
-A03>A|
-A9	u<A
-A9	uxA
-A;1~	I
-A>l$/
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-AK>(v
 ALBUM
 ARTIST
-ATAUAVH
-A\_^[]
-A\_^][
-A]A\_
-A]A\_^[]
-A]A\_^]
-A^A]A\
-A^A]A\_]
-A^A]A\_^
-A^A]A\_^[]
-A^A]A\_^][
-A^A]]
-A_A]A\
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
 Access violation - no RTTI data!
 Accessibility
 AddonInterface0.2.phonon.kde.org
@@ -1474,77 +1206,31 @@ AudioDeviceFallback
 AudioOutputDevice
 AudioOutputInterface2.phonon.kde.org
 August
-B(HcH
-B(I9A(u
 BackendInterface3.phonon.kde.org
 Bad dynamic_cast!
 Bad read pointer - no RTTI data!
-C0HcH
-C5R?	
 C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\phonon4.pdb
-CL:>8
-CWD>~3
+C\f?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 Category_
 CenterChannel
 Channel
 Chapters
 Communication
 CorExitProcess
-D W?{W
-D$&8\$&t-8X
-D$(D;l$ s
-D$(E3
-D$0HcH
-D$8+D$0
-D$8E3
-D$8HcH
-D$8fA
-D$<+D$4
-D$@A9C
-D$DE3
-D$PH#
-D$PL9oXt
-D$X/L
-D$XE3
-D$XLcA
-D$`HcK
-D$p H
-D$pH;
-D$pLcX
-D80tEH
-D80tTH
-D86tuH
-D8\$(u|H
-D8\$8t
-D8\$8t#H
-D8d$Ht
-D8t$ t
-D9d$ 
-D;+t1
+DATE
 DESCRIPTION
 December
 DecodePointer
 DeleteCriticalSection
 E,?setRepeatAction@QAbstractSlider@@IEAAXW4SliderAction@1@HH@Z
 E8?wheelEvent@QAbstractSlider@@MEAAXPEAVQWheelEvent@@@Z
-E9,$~T3
-E94$t
-E9A u
-E9A u#I
-E9Y t
-E;,$|
-E>nEA
-E@HcH
-E@HcP
 ERROR:
 EffectInterface0.phonon.kde.org
 EncodePointer
 EnterCriticalSection
 EnumSystemLocalesA
 ExitProcess
-F0HcH
 F8?wheelEvent@QAbstractSpinBox@@MEAAXPEAVQWheelEvent@@@Z
-F>qUxv
 Fade12Decibel
 Fade3Decibel
 Fade6Decibel
@@ -1562,12 +1248,10 @@ FlsSetValue
 FreeEnvironmentStringsW
 FreeLibrary
 Friday
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G(HcH
-G0Hc	H
 G8?wheelEvent@QComboBox@@MEAAXPEAVQWheelEvent@@@Z
 GENRE
 GNOME_DESKTOP_SESSION_ID
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 Games
 General
 GetACP
@@ -1600,41 +1284,8 @@ GetTickCount
 GetUserDefaultLCID
 GetUserObjectInformationW
 GetVersion
-H(H9J(u
-H(HcA
-H+M0x
-H+T$0JcL8
-H9)t	H
-H91tL
-H99t$
-H99t&
-H99t)
-H9D$8ubI
-H9L$Xt'H
-H9X t
-H9X u6
-H9X u6H
-H9_H~&H
-H9sxt
-H9yXt.
-H;C@t0H
-H;D$xu
-H;G8t.H
-H;K@t.H
-HA]A\_^][
 HH:mm:ss
-H[><y5
-Hc	H+
-HcC H
-HcD$8H
-HcD$HH
-HcD$XH
-HcH<H
-HcO H
-HcT$8McJ
-Hct$@H
-Hc|$HMcJ
-Hc}lH
+HMXB
 HeapAlloc
 HeapCreate
 HeapDestroy
@@ -1643,53 +1294,16 @@ HeapReAlloc
 HeapSetInformation
 HeapSize
 HideAdvancedDevices
-I94$tt
-I9F t
-IcqHH
-IcqHI
-Il?333333c?
 InitializeCriticalSectionAndSpinCount
 IsDebuggerPresent
 IsValidCodePage
 IsValidLocale
-J(HcA
 January
-Jhu	H
-K(HcA
+July
+June
 K/?sizeHint@QLabel@@UEBA?AVQSize@@XZ
-K0HcQ
-K0LcY
 KDE_FULL_SESSION
 KERNEL32.dll
-L!l$HL!l$@
-L$ E3
-L$ H3
-L$ SUVWH
-L$0<`t
-L$0E3
-L$0H;
-L$0HcA
-L$0u8
-L$8H3
-L$@;|
-L$@E3
-L$HH3
-L$PE3
-L$PH3
-L$PfH
-L$PfI
-L$XH3
-L$XHcA
-L$XHcQ
-L$`H3
-L$`uT
-L$hE3
-L$pH3
-L$pt:
-L$xE3
-L$|E3
-L9kpt
-L?UUUUUUU?
 LCMapStringW
 LC_ALL
 LC_COLLATE
@@ -1697,25 +1311,14 @@ LC_CTYPE
 LC_MONETARY
 LC_NUMERIC
 LC_TIME
-LcA<E3
-Lc\$8HcJ
-Lc\$8McJ
-Lc\$XMcJ
 LeaveCriticalSection
 LeftChannel
 LeftSurroundChannel
 LoadLibraryW
-M fff
 M.?setWhatsThis@QWidget@@QEAAXAEBVQString@@@Z
-M9.t=H
-M94$tiA
-M94$t|A
 MM/dd/yy
-MPHcA
 MUSICBRAINZ_DISCID
-MXHcA
 March
-Mc,$E
 MediaNode
 MediaObjectInterface3.phonon.kde.org
 MessageBoxW
@@ -1723,23 +1326,12 @@ Monday
 MultiByteToWideChar
 Music
 Muted
-N(HcA
-N0HcA
-N3`d?
-N>O=I9
+NKeb
+NULL
 Norwegian-Nynorsk
 Notifications
 November
-O(HcA
-O0HcQ
-OF>;^
 October
-P(HcJ
-P>q_Y~
-PA\_^
-PA\_^][
-PA^A]A\_^[]
-PA^A]A\_^][
 PHONON_PLATFORMPLUGIN
 Phonon::
 Phonon::AbstractAudioOutput
@@ -1772,7 +1364,6 @@ Phonon::VideoWidget
 Phonon::VolumeFaderEffect
 Phonon::VolumeSlider
 Phonon::createPath: Cannot connect 
-Q5rHg,>
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
 QList<Phonon::AudioChannelDescription>
 QList<Phonon::SubtitleDescription>
@@ -1785,6 +1376,7 @@ QtCore4.dll
 QtGui4.dll
 Qt_GetCustomAllocators
 QueryPerformanceCounter
+RSDS
 RaiseException
 Revert back to device '%1'
 RightChannel
@@ -1795,13 +1387,7 @@ RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
-S>$hkDh$h>[2
-SUVWATAUAVAWH
-SUVWATAUAVH
-SUVWATAUH
-SUVWATH
-SVWATAUAVAWH
-SVWATH
+S;uD
 Same index (
 Saturday
 ScaleAndCrop
@@ -1816,42 +1402,20 @@ SubwooferChannel
 Sunday
 SystemFunction036
 T#?qt_metacast@QSlider@@UEAAPEAXPEBD@Z
-T$0E3
-T$0H#
-T$PE3
-T$pH3
 TITLE
 TRACKNUMBER
-TUUUU
 TerminateProcess
 The backend objects are not deleted as was requested.
 Thursday
 Titles
 Tuesday
-U	?hasFormat@QMimeData@@UEBA_NAEBVQString@@@Z
 U ?paintEvent@QAbstractSpinBox@@MEAAXPEAVQPaintEvent@@@Z
-UA>N0Wl
-UATAUAVAWH
-UATAUH
-UAUAVH
 UNKNOWN
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAUH
-USVWATH
-UUUUUU
-UVWATAUAVAWH
-UVWATAUH
-UWATAUAVH
-UWATH
+U\t?hasFormat@QMimeData@@UEBA_NAEBVQString@@@Z
 UnhandledExceptionFilter
 Unknown exception
 Use this slider to adjust the volume. The leftmost position is 0%. The rightmost is %1%
 V ?paintEvent@QCheckBox@@MEAAXPEAVQPaintEvent@@@Z
-VD$pf
-VT$pD
-VWATAUAVH
-VWATH
 Video
 VideoWidgetInterface3.phonon.kde.org
 VideoWidgetInterface44.phonon.kde.org
@@ -1860,49 +1424,53 @@ VolumeFaderInterface4.phonon.kde.org
 W ?paintEvent@QComboBox@@MEAAXPEAVQPaintEvent@@@Z
 W#?qt_metacast@QSpinBox@@UEAAPEAXPEBD@Z
 WARNING:
-WATAUAVAWH
-WATAUH
-WATAVH
-WaNd?
 Wednesday
 WideCharToMultiByte
 WriteFile
-XA]A\_^][
-XA_A^A]A\_^][
 Y(?setCurrentIndex@QComboBox@@QEAAXH@Z
-Y>kX>M
-YD$0H
-YD$`f
 Z/?sizeHint@QSlider@@UEBA?AVQSize@@XZ
-Z\>z8
-Zod(^?
 ['?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
-[*ncd>0
 [thunk]:
-\$ UVWATAUAVAWH
-\$ WH
-\$(I;
-\$0H;
-\$0HcA
-\$0HcJ
-\$0IcH
-\$0L+
-\$8L3
-\$8fA
-\$@HcJ
-\$HH;
-\$PHcJ
-\$PMc
-\$PfD
-\$`H;
-\$`Hc
-\$gm?
-])6M>&
-]>)2X
-]PHcK
-]XHcC
+\f?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+\f?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+\f?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z
+\f?number@QString@@SA?AV1@HH@Z
+\f?pos@QFile@@UEBA_JXZ
+\f?prepend@QListData@@QEAAPEAPEAXXZ
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?qAddPostRoutine@@YAXP6AXXZ@Z
+\f?qDebug@@YA?AVQDebug@@XZ
+\f?qFatal@@YAXPEBDZZ
+\f?qFree@@YAXPEAX@Z
+\f?qHash@@YAIAEBVQByteArray@@@Z
+\f\v?layoutChanged@QAbstractItemModel@@IEAAXXZ
+\n.?setValue@QDoubleSpinBox@@QEAAXN@Z
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\n?isSequential@QFile@@UEBA_NXZ
+\n?isValid@QUrl@@QEBA_NXZ
+\r.?setValue@QSpinBox@@QEAAXH@Z
+\r?checkStateSet@QCheckBox@@MEAAXXZ
+\r?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+\r?clear@QAbstractSpinBox@@UEAAXXZ
+\r?qt_metacast@QAbstractListModel@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QFile@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QMimeData@@UEAAPEAXPEBD@Z
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r?read@QIODevice@@QEAA?AVQByteArray@@_J@Z
+\r\r?qMemSet@@YAPEAXPEAXH_K@Z
+\t?insert@QListData@@QEAAPEAPEAXH@Z
+\t?instance@QPluginLoader@@QEAAPEAVQObject@@XZ
+\t?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+\v?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+\v?libraryPaths@QCoreApplication@@SA?AVQStringList@@XZ
+\v?metaObject@QFile@@UEBAPEBUQMetaObject@@XZ
+\v?metaObject@QMimeData@@UEBAPEBUQMetaObject@@XZ
+\v?metaObject@QObject@@UEBAPEBUQMetaObject@@XZ
+\v?nameFilters@QDir@@QEBA?AVQStringList@@XZ
+\v\v?layoutAboutToBeChanged@QAbstractItemModel@@IEAAXXZ
 ^8?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ
-^RfN>
+_\r?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
+_\r?qt_metacall@QFile@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 __based(
 __cdecl
 __clrcall
@@ -1919,7 +1487,6 @@ __restrict
 __stdcall
 __thiscall
 __unaligned
-__w64 
 _cabs
 _hypot
 _k_aboutToFinish()
@@ -1949,16 +1516,8 @@ _k_tick(qint64)
 _k_volumeChanged(qreal)
 _logb
 _nextafter
-_oD>Kg
-` AUH
-`+!]?
-`.rdata
-`A\_]
-`A]A\_^]
-`A^A]A\_^][
-`A_A^A]A\_^]
 `RTTI
-`X@SH
+`\r?changeEvent@QAbstractSlider@@MEAAXPEAVQEvent@@@Z
 `adjustor{
 `anonymous namespace'
 `copy constructor closure'
@@ -2004,8 +1563,10 @@ _oD>Kg
 `vtordispex{
 `vtordisp{
 a"?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+a\r?changeEvent@QAbstractSpinBox@@MEAAXPEAVQEvent@@@Z
 abcdefghijklmnopqrstuvwxyz
 aboutToFinish()
+acos
 america
 american
 american english
@@ -2013,7 +1574,9 @@ american-english
 angleChanged(int)
 angleNumber
 application/x-phonon-objectdescription
+asin
 aspectRatio
+atan
 atan2
 australian
 available
@@ -2028,7 +1591,6 @@ availableSubtitlesChanged()
 availableTitles
 availableTitlesChanged(int)
 b ?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z
-b?^Cy
 backend MediaObject reached ErrorState after 
 backendChanged()
 backendComment
@@ -2038,17 +1600,18 @@ backendVersion
 backendWebsite
 bad exception
 belgian
+bool
 bool __cdecl Phonon::FactoryPrivate::createBackend(void)
 brightness
 britain
 bufferStatus(int)
-c AUH
-c0&>`
-c?FA@s}
+c\r?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
 canadian
 capabilitiesChanged()
+ceil
 chapterChanged(int)
 chapterNumber
+char
 char 
 checked
 china
@@ -2066,19 +1629,11 @@ cointerface
 const
 const 
 contrast
+cosh
 currentSourceChanged(Phonon::MediaSource)
 curve
 czech
-d$ UH
-d$8H+
-d$@IcD$
-d$HIcD$
-d$PIcD$
-d$XIcD$
-d$`IcD$
-d$pIcD$
-d$xIcD$
-d?000000`?
+data
 dataReady(QMap<Phonon::AudioDataOutput::Channel,QVector<qint16> >)
 dataSize
 dddd, MMMM dd, yyyy
@@ -2086,9 +1641,6 @@ description
 double
 dutch-belgian
 e+000
-e@IcD$
-eHIcD$
-eXIcD$
 endOfMedia(int)
 england
 english-american
@@ -2107,98 +1659,76 @@ english-usa
 enterFullScreen()
 enum 
 exitFullScreen()
+expf
 extern "C" 
-f!D$JH
-f%#)fl
 f%?resizeEvent@QAbstractSpinBox@@MEAAXPEAVQResizeEvent@@@Z
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
-f6#)fl
-fD9 t
-fD9#u
-fD9:r
-fD9t$b
-fJBGo
+f\r?qt_metacall@QMimeData@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+fabs
 fadeCurve
 fadeIn(int)
 fadeOut(int)
 fadeTime
 fadeTo(float,int)
-fffff
-ffffff
-fffffff
 finished()
 float
 floor
-fr#)fw#(fG!)fl
+fmod
 french-belgian
 french-canadian
 french-luxembourg
 french-swiss
 frexp
-fu#)fl
 fullScreen
 fullscreen
-fv#)fRichw#)f
-fv#)fl
-fx#)fl
 generic-type-
 german-austrian
 german-lichtenstein
 german-luxembourg
 german-swiss
-gfffA
-gfffffffH
 globalBCPrivate
 globalFactory
 gnome.*
 great britain
 h'?setAutoRaise@QToolButton@@QEAAX_N@Z
-h>1my
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 hasVideo
 hasVideoChanged(bool)
 holland
 hong-kong
 i%?resizeEvent@QComboBox@@MEAAXPEAVQResizeEvent@@@Z
+icon
 iconSize
 iconVisible
 identifier
+int 
 irish-english
 isAdvanced
 isHardwareDevice
 isSeekable
 italian-swiss
-j>>A?1
-j?V()
-j?{$*
+kU'9
 kde.*
 kde.org
-l$ D!
-l$ HcE
-l$ VWATH
-l$ WH
-l$@@2
-l$XHcM
-l$`HcE
-l$`IcE
-l$pHcE
-l$pHcM
 l.?setWindowFlags@QWidget@@QEAAXV?$QFlags@W4WindowType@Qt@@@@@Z
+l\r?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
 ldexp
 libphonon
 load(Phonon::MediaSource)
 log10
 log10f
+logf
+long
 long 
-m8IcE
 maximumVolume
 metaDataChanged()
+modf
 msecToEnd
+mute
 muteVisible
 muted
 mutedChanged(bool)
-n HcE
-n(IcE
-n]?iJ
+name
 new-zealand
 newAudioOutputDevice
 newName
@@ -2213,20 +1743,18 @@ no objectName
 norwegian
 norwegian-bokmal
 norwegian-nynorsk
-oI>O7
+null
+o\n?isOpen@QIODevice@@QEBA_NXZ
+o\v?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+o\v?maybeSpace@QDebug@@QEAAAEAV1@XZ
 objectDescriptionChanged(ObjectDescriptionType)
 objectDestroyed(QObject*)
 operator
 orientation
-ot$@H
 outputDevice
 outputDeviceChanged(Phonon::AudioOutputDevice)
 p ?paintEvent@QSlider@@MEAAXPEAVQPaintEvent@@@Z
-p WATAUAVAWH
-p WATAUH
 p"?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-pA^A]A\_^[]
-pA_A^A]A\_^]
 pageStep
 pause()
 percentFilled
@@ -2238,6 +1766,7 @@ player-time
 player-volume
 player-volume-muted
 portuguese-brazilian
+powf
 pr china
 pr-china
 prefinishMark
@@ -2247,13 +1776,10 @@ private:
 protected: 
 public: 
 puerto-rico
-qS>g?h3
 qint32
-qrc://
 qreal
+r\f0h
 remainingSamples
-s WATAUAVAWH
-s\HcL$HH
 sampleRate
 saturation
 scaleMode
@@ -2292,6 +1818,8 @@ short
 short 
 signed 
 singleStep
+sinh
+size
 slovak
 source
 south africa
@@ -2317,6 +1845,7 @@ spanish-peru
 spanish-puerto rico
 spanish-uruguay
 spanish-venezuela
+sqrt
 stateChanged
 stateChanged(Phonon::State,Phonon::State)
 static 
@@ -2326,61 +1855,27 @@ streamUuid,device
 struct 
 swedish-finland
 swiss
-t$ @80
-t$ ATH
-t$ UH
-t$ WATAUAVAWH
-t$ WATAUH
-t$ WH
-t$@H3
-t$PE3
-t$`HcF
-t$hHcF
-t*HcO
-t-fff
-t0<@t
-t0L9#t
-tIfff
-tO<_t<<$t8<<t4<>t0<-t,<a|
-tb<A|M<P
+tanh
 template-parameter-
 tick(qint64)
 tickInterval
 tier0.dll
+time
 titleChanged(int)
 titleNumber
-tnLcV
 totalTimeChanged(qint64)
 tracking
 transitionTime
 trinidad & tobago
-u	A!A
-u"E9Q t
-u#HcE
-u#HcF
 u/?sizePolicy@QWidget@@QEBA?AVQSizePolicy@@XZ
-u1!D$0
-u5E9Q t
-u6HcF
-u?HcE
-uHHcF
-uLffff
-uNM9u
-uQI91tLH
-uTHcA
-uXHcF
-u_D9u
-ubHcA
-udHcE
 union 
 united-kingdom
 united-states
 unsigned 
-upHcH
 usingDevice(QString,int)
-uxA9H
 value
 virtual 
+void
 void 
 volatile
 volatile 
@@ -2388,45 +1883,15 @@ volume
 volume,fadeTime
 volumeChanged(qreal)
 volumeDecibel
-v}`[>
 w)?setFocusProxy@QWidget@@QEAAXPEAV1@@Z
 wchar_t
-x ATAUAVH
-x ATAUAWH
-x ATH
-x7I9X
-x_^][
 y/?sliderChange@QAbstractSlider@@MEAAXW4SliderChange@1@@Z
 z?aUY
-zY;>u:m	
 zc%C1
-zux!l$ E3
 { ?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z
 {.?setWindowState@QWidget@@QEAAXV?$QFlags@W4WindowState@Qt@@@@@Z
 {flat}
 {for 
-{w8&-
-|$ ATAUAVH
-|$ ATH
-|$ E3
-|$ H;
-|$ HcJ
-|$ UATAUAVAWH
-|$ UH
-|$0-H
-|$89^
-|$@-D
-|$@-H
-|$@E3
-|$HfA
-|$hHcA
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
 ~#?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
-~/8\$vt)H
-~4ffff
-~7fff
-~?fffffff
-~ID;c
-~_HcH
-~pffffff
-~|fff

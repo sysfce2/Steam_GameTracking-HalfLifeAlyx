@@ -1,51 +1,22 @@
-					
-	!?pixmap@QLabel@@QEBAPEBVQPixmap@@XZ
-	!s99
-	?intersected@QRect@@QEBA?AV1@AEBV1@@Z
-	Display As: %s
-	From: %s
-	Repository: %s
-	Submit: %s
-	To:   %s
-	User:       %s
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- %41g
- 'L>[
  (?setColumnWidth@QTableView@@QEAAXHH@Z
  /?size@QPixmap@@QEBA?AVQSize@@XZ
- 0@P`p
  ?palette@QWidget@@QEBAAEBVQPalette@@XZ
  ?paletteChange@QWidget@@MEAAXAEBVQPalette@@@Z
- A^_[
- A^_^
- A_A^A\
- A_A^A\_^
- A_A^A]A\_
- A_A^_
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
  Type Descriptor'
  delete
  delete[]
- new[]
- t?D9
- tDE3
- vJH+
+ new
 !#?qt_metacast@QIntValidator@@UEAAPEAXPEBD@Z
 !1AQaq
-!>6'Y
-!hn7!
 !m_bNeedsSort
-""""UUUU
 "2BRbr
 "?qt_metacall@QPlainTextEdit@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 "?qt_metacall@QPushButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
@@ -58,6 +29,7 @@
 "?qt_metacast@QCheckBox@@UEAAPEAXPEBD@Z
 "?qt_metacast@QComboBox@@UEAAPEAXPEBD@Z
 "?qt_metacast@QDialog@@UEAAPEAXPEBD@Z
+"\r?canInsertFromMimeData@QPlainTextEdit@@MEBA_NPEBVQMimeData@@@Z
 "e?<<<<<<l?
 #&?save@QPixmap@@QEBA_NPEAVQIODevice@@PEBDH@Z
 #3CScs
@@ -76,33 +48,27 @@ $?releaseDC@QPaintDevice@@UEBAXPEAUHDC__@@@Z
 $?releaseDC@QWidget@@UEBAXPEAUHDC__@@@Z
 $?removeRow@QTableWidget@@QEAAXH@Z
 $Ib?s
+$\r?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
 %/?size@QWidget@@QEBA?AVQSize@@XZ
 %5EUeu
-%?removeTab@QTabWidget@@QEAAXH@Z
 %?resizeEvent@QTextEdit@@MEAAXPEAVQResizeEvent@@@Z
 %?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z
 %?restoreGeometry@QWidget@@QEAA_NAEBVQByteArray@@@Z
 %?restoreOverrideCursor@QApplication@@SAXXZ
 %?row@QTableWidget@@QEBAHPEBVQTableWidgetItem@@@Z
 %?rowCount@QTableWidget@@QEBAHXZ
-%GoU?*
 %d Files, %s
-%dx%d
+%dx%d\nClick For Options.
 %i %i %i %i
+%lld
 %s KB
-%s%s%s
 %s%s_%04d%s
 %s, From Changelist: %s
-%s/%i
-%s/%s
-%s: string format requested %d chars
-%s://
-%s=%s&
+%s: string format requested %d chars\n
 &"?qt_metacall@QAction@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 &+?setModel@QTableWidget@@EEAAXPEAVQAbstractItemModel@@@Z
 &6FVfv
 &?PPPPPPP?
-&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
 &?rowsInserted@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
 &?scrollContentsBy@QPlainTextEdit@@MEAAXHH@Z
 &?scrollContentsBy@QTableView@@MEAAXHH@Z
@@ -115,15 +81,14 @@ $Ib?s
 &?selectionChanged@QTableView@@MEAAXAEBVQItemSelection@@0@Z
 &?selectionCommand@QAbstractItemView@@MEBA?AV?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@AEBVQModelIndex@@PEBVQEvent@@@Z
 &?selectionModel@QAbstractItemView@@QEBAPEAVQItemSelectionModel@@XZ
+&\v?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
 '#?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
-',=?k
 '7GWgw
 '?setAcceptDrops@QWidget@@QEAAX_N@Z
 '?setCheckable@QAction@@QEAAX_N@Z
 '?setChecked@QAbstractButton@@QEAAX_N@Z
 '?setChecked@QAction@@QEAAX_N@Z
 '?setClickable@QHeaderView@@QEAAX_N@Z
-(*%s*), 
 (8HXhx
 (?setColor@QPalette@@QEAAXW4ColorRole@1@AEBVQColor@@@Z
 (?setColumnCount@QTableWidget@@QEAAXH@Z
@@ -131,18 +96,9 @@ $Ib?s
 (?setData@QTableWidgetItem@@UEAAXHAEBVQVariant@@@Z
 (?setDefaultAlignment@QHeaderView@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 (?setDefaultSectionSize@QHeaderView@@QEAAXH@Z
-(A^_^[
-(T?j?Y
 (Unknown)
-(f*^[0
-(t$ H
-(t$@H
-(t$PH
-(t$`H
-(t$`L
-(|$@H
+(\v?addLayout@QGridLayout@@QEAAXPEAVQLayout@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 )9IYiy
-)>6{1n
 )?setEditTriggers@QAbstractItemView@@QEAAXV?$QFlags@W4EditTrigger@QAbstractItemView@@@@@Z
 )?setEnabled@QAction@@QEAAX_N@Z
 )?setEnabled@QWidget@@QEAAX_N@Z
@@ -150,20 +106,16 @@ $Ib?s
 )?setFrameStyle@QFrame@@QEAAXH@Z
 )?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z
 )?setGeometry@QGridLayout@@UEAAXAEBVQRect@@@Z
-)t$ H
-)t$pH
-)|B?d!
+)yIx
 *#?qt_metacast@QLineEdit@@UEAAPEAXPEBD@Z
 *0?staticMetaObject@QComboBox@@2UQMetaObject@@B
 *8?visualRect@QTableView@@UEBA?AVQRect@@AEBVQModelIndex@@@Z
-*9Z9N
 *:JZjz
 *?setHorizontalHeaderLabels@QTableWidget@@QEAAXAEBVQStringList@@@Z
 *?setLineWidth@QFrame@@QEAAXH@Z
 *?setLineWrapMode@QPlainTextEdit@@QEAAXW4LineWrapMode@1@@Z
 *?setLineWrapMode@QTextEdit@@QEAAXW4LineWrapMode@1@@Z
 *StO9>T
-+;K[k{
 +?setMinimumSize@QWidget@@QEAAXAEBVQSize@@@Z
 +?setMinimumWidth@QWidget@@QEAAXH@Z
 +?setModal@QDialog@@QEAAX_N@Z
@@ -172,15 +124,6 @@ $Ib?s
 +?setPixmap@QClipboard@@QEAAXAEBVQPixmap@@W4Mode@1@@Z
 +?setPixmap@QLabel@@QEAAXAEBVQPixmap@@@Z
 +?setPlainText@QPlainTextEdit@@QEAAXAEBVQString@@@Z
-+C$Hc
-+M<7>
-+Xt@(
-+f)>0'
-+h->|
-+o'q)}
-,/<-w
-,0<	w
-,<L\l|
 ,?setSelection@QTableView@@MEAAXAEBVQRect@@V?$QFlags@W4SelectionFlag@QItemSelectionModel@@@@@Z
 ,?setSelectionBehavior@QAbstractItemView@@QEAAXW4SelectionBehavior@1@@Z
 ,?setSelectionMode@QAbstractItemView@@QEAAXW4SelectionMode@1@@Z
@@ -190,11 +133,9 @@ $Ib?s
 ,?setSortIndicatorShown@QHeaderView@@QEAAX_N@Z
 ,?setSortingEnabled@QTableWidget@@QEAAX_N@Z
 ,HR>O
-,W5y+
 -"?qt_metacall@QCheckBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
------ Log Capture Snip. See attachments for entire log capture. -----
----------------------------------------------------------------------
--=M]m}
+----- Log Capture Snip. See attachments for entire log capture. -----\n
+---------------------------------------------------------------------\n
 -?setText@QLabel@@QEAAXAEBVQString@@@Z
 -?setText@QLineEdit@@QEAAXAEBVQString@@@Z
 -?setText@QTableWidgetItem@@QEAAXAEBVQString@@@Z
@@ -202,6 +143,7 @@ $Ib?s
 -?setToolTip@QWidget@@QEAAXAEBVQString@@@Z
 -BH>t
 -auto
+-avx
 -bugdebug
 -category
 -component
@@ -215,10 +157,8 @@ $Ib?s
 -sse3
 -sse4
 -title
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AV?$CBaseAppSystem@VIExternalSubTool@@@@
 .?AV?$CTier0AppSystem@VIExternalSubTool@@@@
 .?AV?$CTier1AppSystem@VIExternalSubTool@@$0A@@@
@@ -315,12 +255,12 @@ $Ib?s
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
+.bss
 .data
 .data$r
 .edata
 .gfids$x
 .gfids$y
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
@@ -331,17 +271,16 @@ $Ib?s
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xJ>Hf
@@ -349,40 +288,24 @@ $Ib?s
 .xdata$x
 /2GG>!B
 /8?visualRegionForSelection@QTableView@@MEBA?AVQRegion@@AEBVQItemSelection@@@Z
-/>58d%
-/?O_o
 /?sortByColumn@QTableView@@QEAAXHW4SortOrder@Qt@@@Z
 /?spacerItem@QLayoutItem@@UEAAPEAVQSpacerItem@@XZ
 /?startDrag@QAbstractItemView@@MEAAXV?$QFlags@W4DropAction@Qt@@@@@Z
+/\f?averageCharWidth@QFontMetrics@@QEBAHXZ
 0#?qt_metacast@QMenu@@UEAAPEAXPEBD@Z
+0000
 00003333
 0123456789ABCDEF
 0123456789abcdefghijklmnopqrstuvwxyz
-0><[cZUg^>
 0?staticMetaObject@QTabWidget@@2UQMetaObject@@B
 0?staticMetaObject@QTextEdit@@2UQMetaObject@@B
 0?staticMetaObject@QWidget@@2UQMetaObject@@B
-0A^][
-0A^^[
-0A^_[
-0A^_^
-0A_A^A\
-0A_A^A\_^
-0A_A^A]
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^_
-0A_A^_^]
-0A_A^_^]H
+0E>X
 0X8b?~
-0_^]H
 0iN>/
-0w0c1
-0}0i1
 1/?sizeHint@QAbstractScrollArea@@UEBA?AVQSize@@XZ
+11Y@
 123456789
-130801120000Z
-1<.	/>:
 1?styleChange@QWidget@@MEAAXAEAVQStyle@@@Z
 1FileSelectionChanged( const QItemSelection &, const QItemSelection & )
 1OnAccept()
@@ -422,37 +345,26 @@ $Ib?s
 1OnTextChanged()
 1OnTitleChanged()
 1OnUseComponentOwner()
-1b<B/
 1eaB@
 1map()
 2"?qt_metacall@QComboBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 2,?setReadOnly@QLineEdit@@QEAAX_N@Z
 2.?setVisible@QDialog@@UEAAX_N@Z
-210429000000Z
-211007000000Z
-220323000000Z
-220329000000Z
-220506231924Z0/
-241009235959Z0a1
-2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
 2?tabsClosable@QTabWidget@@QEBA_NXZ
 2?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z
 2?takeAt@QGridLayout@@UEAAPEAVQLayoutItem@@H@Z
 2?text@QLineEdit@@QEBA?AVQString@@XZ
 2?text@QTableWidgetItem@@QEBA?AVQString@@XZ
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
-2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
 2SIG_PreviewImage( int )
 2SIG_TabAdded()
 2SIG_TabClosed()
 2SIG_TabImageChanged( int )
 2SIG_TakeScreenshot( int )
+2\vp0
 2changed( QClipboard::Mode )
 2clicked()
 2currentChanged( int )
 2currentIndexChanged( int )
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
-2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
 2mapped(int)
 2selectionChanged( const QItemSelection &, const QItemSelection & )
 2tabCloseRequested( int )
@@ -461,37 +373,34 @@ $Ib?s
 2textChanged()
 2toggled( bool )
 2triggered()
-2xJK7*L
+3 FB
 3-?setStretchLastSection@QHeaderView@@QEAAX_N@Z
 3/?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ
 30?staticMetaObject@QDialog@@2UQMetaObject@@B
-330314235959Z0L1
-360428235959Z0i1
-370322235959Z0c1
-380115120000Z0b1
+3333
+37>k
 38?warning@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z
 3>N;kU
 3>fvw
-3L9t$@t
-3mq+<
+3?tr
 4,?setReadOnly@QTextEdit@@QEAAX_N@Z
 5/?sizeHint@QCheckBox@@UEBA?AVQSize@@XZ
+51>W
 58?warning@QMessageBox@@SAHPEAVQWidget@@AEBVQString@@1HHH@Z
-5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
-6*f(_
 63?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
-6I]Dc
-6OB,n_
+6NK>
+6\fXO>\ntA
 7%?reset@QAbstractItemView@@UEAAXXZ
 7/?sizeHint@QComboBox@@UEBA?AVQSize@@XZ
-70503
-7?underMouse@QWidget@@QEBA_NXZ
+7>I0
+7?GX
 7?updateGeometries@QTableView@@MEAAXXZ
 7?validate@QIntValidator@@UEBA?AW4State@QValidator@@AEAVQString@@AEAH@Z
 7?verticalHeader@QTableView@@QEBAPEAVQHeaderView@@XZ
 7?verticalOffset@QTableView@@MEBAHXZ
 7?verticalScrollbarAction@QTableView@@MEAAXH@Z
 7?verticalScrollbarValueChanged@QAbstractItemView@@MEAAXH@Z
+7~xh
 8'?setAlignment@QLabel@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 8?viewOptions@QTableView@@MEBA?AVQStyleOptionViewItem@@XZ
 8?viewportEvent@QAbstractItemView@@MEAA_NPEAVQEvent@@@Z
@@ -502,57 +411,38 @@ $Ib?s
 8?write@QTableWidgetItem@@UEBAXAEAVQDataStream@@@Z
 8?x@QWidget@@QEBAHXZ
 8?y@QWidget@@QEBAHXZ
-8C)t8
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
-8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
 8ke?;
-99C }
+9>70
 9>powf
-9>~oL
-9C |K
-9D$4t
-9L$0u	
-9X@u4
-9_p~$
+9\f?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 :(?setContentsMargins@QWidget@@QEAAXHHHH@Z
-:/x2	
-:>)*	v
-:>t6k'
 ;"?qt_metacall@QDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ;/?sizeHint@QDialog@@UEBA?AVQSize@@XZ
-;A ~W
-;C ~M
-;D$@@
-;H9>&X
-;t$@|
+;1cb
 ;wait 50;setpause bug
-;{ ~@
-< t;<	t7
 <+?setMovable@QHeaderView@@QEAAX_N@Z
-<0:08
-<>#n2
 <NULL>
 <deferred>
+<exp
 <no failure reason set>
 <null>
 <unconnected>
+=1cb
+=cQ6
+=e2m
 =imb;D
-=rIQU
 >&?scaled@QPixmap@@QEBA?AV1@HHW4AspectRatioMode@Qt@@W4TransformationMode@3@@Z
 >+?setMovable@QTabWidget@@QEAAX_N@Z
->Mp$d
 >WIN32
->ffffff
+>cQ6
 >jtm}S
 ?!5WOo
-?+>^m
 ?.?setVisible@QWidget@@UEAAX_N@Z
 ?3?timerEvent@QMenu@@MEAAXPEAVQTimerEvent@@@Z
 ?49HoKC
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
 ??0QAction@@QEAA@AEBVQIcon@@AEBVQString@@PEAVQObject@@@Z
 ??0QAction@@QEAA@AEBVQString@@PEAVQObject@@@Z
 ??0QBuffer@@QEAA@PEAVQByteArray@@PEAVQObject@@@Z
@@ -634,67 +524,24 @@ $Ib?s
 ?@En[vP
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?Relinquish@CBufferString@@QEAAPEADW4EAllocationOption_t@1@@Z
 ?SetLength@CBufferString@@QEAAPEADH_NPEAH@Z
 ?SetPtr@CBufferString@@QEAAXPEADHH_N1@Z
 ?StripExtension@CBufferString@@QEAAPEBDXZ
-?TY,>5
 ?UUUUUU
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@_N@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-?accept@QDialog@@UEAAXXZ
-?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
-?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
 ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
-?activateWindow@QWidget@@QEAAXXZ
-?addAction@QWidget@@QEAAXPEAVQAction@@@Z
-?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
-?addItem@QComboBox@@QEAAXAEBVQString@@AEBVQVariant@@@Z
-?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
-?addLayout@QBoxLayout@@QEAAXPEAVQLayout@@H@Z
-?addLayout@QGridLayout@@QEAAXPEAVQLayout@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addSeparator@QMenu@@QEAAPEAVQAction@@XZ
-?addStretch@QBoxLayout@@QEAAXH@Z
-?addTab@QTabWidget@@QEAAHPEAVQWidget@@AEBVQString@@@Z
-?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
-?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 ?append@QListData@@QEAAPEAPEAXXZ
 ?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
-?averageCharWidth@QFontMetrics@@QEBAHXZ
 ?blockSignals@QObject@@QEAA_N_N@Z
-?canInsertFromMimeData@QPlainTextEdit@@MEBA_NPEBVQMimeData@@@Z
-?canInsertFromMimeData@QTextEdit@@MEBA_NPEBVQMimeData@@@Z
 ?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
-?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QPlainTextEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QTabWidget@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
-?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
-?checkStateSet@QAbstractButton@@MEAAXXZ
-?checkStateSet@QCheckBox@@MEAAXXZ
-?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
-?clear@QClipboard@@QEAAXW4Mode@1@@Z
-?clear@QComboBox@@QEAAXXZ
-?clear@QLabel@@QEAAXXZ
-?clear@QLineEdit@@QEAAXXZ
-?clear@QPlainTextEdit@@QEAAXXZ
-?clear@QTextEdit@@QEAAXXZ
-?clearContents@QTableWidget@@QEAAXXZ
 ?clearSelection@QAbstractItemView@@QEAAXXZ
 ?clipboard@QApplication@@SAPEAVQClipboard@@XZ
 ?clone@QTableWidgetItem@@UEBAPEAV1@XZ
@@ -889,6 +736,7 @@ $Ib?s
 ?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
 ?keyboardSearch@QAbstractItemView@@UEAAXAEBVQString@@@Z
 ?kxG2)
+?lZE
 ?languageChange@QWidget@@MEAAXXZ
 ?layout@QLayout@@UEAAPEAV1@XZ
 ?leaveEvent@QMenu@@MEAAXPEAVQEvent@@@Z
@@ -967,15 +815,11 @@ $Ib?s
 ?move@QWidget@@QEAAXHH@Z
 ?moveCursor@QTableView@@MEAA?AVQModelIndex@@W4CursorAction@QAbstractItemView@@V?$QFlags@W4KeyboardModifier@Qt@@@@@Z
 ?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z
-?moveTo@QRect@@QEAAXAEBVQPoint@@@Z
 ?nextCheckState@QAbstractButton@@MEAAXXZ
 ?nextCheckState@QCheckBox@@MEAAXXZ
-?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
 ?openUrl@QDesktopServices@@SA_NAEBVQUrl@@@Z
-?property@QObject@@QEBA?AVQVariant@@PEBD@Z
-?qFree@@YAXPEAX@Z
-?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+?qBJ
+?rAj
 ?scale@QSize@@QEAAXHHW4AspectRatioMode@Qt@@@Z
 ?sender@QObject@@IEBAPEAV1@XZ
 ?setProperty@QObject@@QEAA_NPEBDAEBVQVariant@@@Z
@@ -996,77 +840,17 @@ $Ib?s
 ?tr@QMetaObject@@QEBA?AVQString@@PEBD0@Z
 ?urls@QMimeData@@QEBA?AV?$QList@VQUrl@@@@XZ
 ?userType@QVariant@@QEBAHXZ
-?{Q}<
-@ A+@
-@.data
-@.gfids
-@.tls
-@84:u
-@8k*H
-@8k+H
-@8t$H
-@8x+t
-@8|$^t
-@>%>b
-@A^^]
-@A^_]
-@A^_^
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_^]H
-@A_A^_
-@Lc:E3
-@SAVH
-@SUAVH
-@SVAVH
-@SVWATAUAVAWH
-@SVWAVH
-@SVWH
-@SWAVH
-@UATAUAVAWH
-@UATAVH
-@UAVAWH
-@USAVH
-@USVAUH
-@USVWAVH
-@UVWH
-@UWATH
-@VAVAWH
-@VWAVH
-@WAVAWH
+?ysB
 @^8U)zj
-@fE9|
-A03>A|
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A>l$/
 A>pP&
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 AK>(v
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
-AUAVAWH
-A^A\]
-A^A]A\[]
-A^_^[]
-A_A^A\_^
-A_A^A]A\]
-A_A^A]A\]H
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^]
-A_A^^
-A_A^_
-A_A^_^]
-Abandon bug report?
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 Accept
 AcquireSRWLockExclusive
 Add Additional Image
 Add File
 Add an additional image to report.
-AjEB#AZ
 AnimGraphEditorUtils001
 AnimationSystemUtils_001
 AnimationSystem_001
@@ -1080,52 +864,43 @@ Attach Files
 Attach Files (%d)...
 Attach Files...
 August
-AuthE
 Auto Attachments
 Auto Attachments (%d)...
 Auto Attachments...
 Auto Attachments: %s
 Auto-truncate Console Log
 B#?qt_metacast@QPlainTextEdit@@UEAAPEAXPEBD@Z
-B(I9A(
 B3?timerEvent@QPlainTextEdit@@MEAAXPEAVQTimerEvent@@@Z
-B8|09
-BC?>6t9^	c:>
+BC?>6t9^\tc:>
 BF>^G
 Bad expression operator: '%c%c', expected C style boolean expression operator.
 Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
 Bad expression token: %c
 BakedLODBuilderMgr001
-Bellevue1
 BenchmarkService001
 BinaryProperties_GetValue
 Bug Reporter
 Bug Reporter (%1 Configuration) - %2
 Bug Reporter Error
-Bug Reporter: Bug submission failed!
-Bug Reporter: Bug submission succeeded!
-Bug Reporter: Committing %s...
-Bug Reporter: Committing...
-Bug Reporter: Could not load UI defaults from '%s'.
-Bug Reporter: Intialization Failure! Bug Reporting Not Available!
-Bug Reporter: Intialization Success.
-Bug Reporter: JPEG Support not available.
-Bug Reporter: PNG Support not available.
-Bug Reporter: Upload attachment %s : %s...
-Bug Reporter: Upload screenshot %s : %s...
-Bug Reporter: UploadDataFile: Unable to read file '%s'
-Bug Reporter: UploadDataFile: Unable to write file '%s'
-Bug Reporter: Uploading (%s)...
-Bug submission failed!
-BugBait Initialization failed!
+Bug Reporter: Bug submission failed!\n
+Bug Reporter: Bug submission succeeded!\n
+Bug Reporter: Committing %s...\n
+Bug Reporter: Committing...\n
+Bug Reporter: Could not load UI defaults from '%s'.\n
+Bug Reporter: Intialization Failure! Bug Reporting Not Available!\n
+Bug Reporter: Intialization Success.\n
+Bug Reporter: JPEG Support not available.\n
+Bug Reporter: PNG Support not available.\n
+Bug Reporter: Upload attachment %s : %s...\n
+Bug Reporter: Upload screenshot %s : %s...\n
+Bug Reporter: UploadDataFile: Unable to read file '%s'\n
+Bug Reporter: UploadDataFile: Unable to write file '%s'\n
+Bug Reporter: Uploading (%s)...\n
 BugReporter005
 Build:
-C0HcF
-C5R?	
-C8<(u
-CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
-CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
-CGUBH
+C5R?\t
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!\n
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!\n
 CGlobalConfigValueRegistry::HookUpConfigValue
 CL:>8
 CMemAllocSystemInitialize
@@ -1166,7 +941,7 @@ CQScreenshotPreviewPopup
 CQScreenshotsTab
 CQTextEditWithFocusOutSignal
 CSchemaRegistration::RegisterAllModuleData
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<struct CUtlMap<class IVConsoleDevice *,class CQBugReporterWidget *,unsigned short,bool (__cdecl*)(class IVConsoleDevice * const &,class IVConsoleDevice * const &)>::Node_t,unsigned short,class CUtlMap<class IVConsoleDevice *,class CQBugReporterWidget *,unsigned short,bool (__cdecl*)(class IVConsoleDevice * const &,class IVConsoleDevice * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class IVConsoleDevice *,class CQBugReporterWidget *,unsigned short,bool (__cdecl*)(class IVConsoleDevice * const &,class IVConsoleDevice * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
 CUtlSortVector<char const *,class CStringLess,class CUtlVector<char const *,class CUtlMemory<char const *,int> > >::FindLessOrEqual
 CUtlSortVector<char const *,class CStringLess,class CUtlVector<char const *,class CUtlMemory<char const *,int> > >::InsertIfNotFound
@@ -1177,8 +952,6 @@ CWD>~3
 Category:
 Clear
 Clear Form
-Clear bug report?
-Click For Options.
 Close
 CloseHandle
 CloseThreadpoolTimer
@@ -1187,21 +960,19 @@ CloseThreadpoolWork
 CommandLine
 CompareStringEx
 Component:
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigurationSystem_001
 ConnectInterfaces
 Console Log
 Console Log Limit MB (0 for none):
-Console Log: Removed %d lines (%d remaining), %llu bytes (%llu bytes remaining)
+Console Log: Removed %d lines (%d remaining), %llu bytes (%llu bytes remaining)\n
 ContextPriority
 ContextStackSize
 Copy Image
 Copyright (c) by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
 CorExitProcess
-Could not Load Module on '%s'.
-Could not load Bug Configuration defaults from '%s'.
 Courier New
 CreateEventExW
 CreateEventW
@@ -1213,46 +984,11 @@ CreateSymbolicLinkW
 CreateThreadpoolTimer
 CreateThreadpoolWait
 CreateThreadpoolWork
-D W?{W
-D$ E3
-D$(9D$ 
-D$(E3
-D$(H;
-D$,9D$$
-D$0E3
-D$0H#
-D$0HcH
-D$8+C$H
-D$8A;
-D$8E3
-D$8L9
-D$<9T$0wE9T$4w?9T$8w9;
-D$@E3
-D$@H+
-D$@csm
-D$PE3
-D$PH+
-D$PH;
-D$PI;
-D$PL;
-D$XE3
-D$`H;
-D$`Hc
-D$`L;
-D08@t	
-D18 t
 D3?timerEvent@QTableView@@MEAAXPEAVQTimerEvent@@@Z
-D82t	H
-D82u&H
 D8?wheelEvent@QAbstractScrollArea@@MEAAXPEAVQWheelEvent@@@Z
-D8t$Ht
-D98~ f
-D9c t
-D9|$ 
-D;t$`
-D;t$`}
-DD$$H
+DDDD
 DDDDUUUU
+DEMO
 Data Is Binary. No Preview Available. Size: %s
 DebugTextureInfo001
 December
@@ -1260,26 +996,15 @@ DecodePointer
 Default
 DeleteCriticalSection
 Description:
-DigiCert Inc1
-DigiCert Timestamp 2022 - 20
-DigiCert Trusted Root G40
-DigiCert, Inc.1$0"
-DigiCert, Inc.1;09
-DigiCert, Inc.1A0?
 DotaCardGameClient_001
 DynamicProgressFeedback
 E-?setStyleSheet@QWidget@@QEAAXAEBVQString@@@Z
-E0HcH
-E0Lcx
-E8F)H
-E8F*H
-E8F+H
 E>nEA
-EL$8H
-EP*?@
+ET5>
 EXPORTSYSTEM_INTERFACE_VERSION_001
-E\$@H
+E[\rn?gc
 EconItemToolModel_001
+EiUL
 EncodePointer
 EngineServiceMgr001
 EnterCriticalSection
@@ -1289,11 +1014,10 @@ ExitProcess
 F/?sizeHint@QGridLayout@@UEBA?AVQSize@@XZ
 F3?timerEvent@QTextEdit@@MEAAXPEAVQTimerEvent@@@Z
 F>qUxv
-FATAL ERROR: unable to register all schema data: %s
-Failed to read '%s'
-Failed to serialize buffer to '%1'!
-Failed to serialize screenshot '%1' to '%2'!
+FATAL ERROR: unable to register all schema data: %s\n
+Failed to read '%s'\n
 February
+FfW?
 FileSelectionChanged(QItemSelection,QItemSelection)
 FindClose
 FindFirstFileExA
@@ -1310,15 +1034,14 @@ FreeEnvironmentStringsW
 FreeLibrary
 FreeLibraryWhenCallbackReturns
 Friday
-G	?handler@QVariant@@1PEBUHandler@1@EB
-G0Hc	H
 G8?wheelEvent@QComboBox@@MEAAXPEAVQWheelEvent@@@Z
-G8Hc@
+G>US
 GAMECONSOLE
+GCTL
+G\t?handler@QVariant@@1PEBUHandler@1@EB
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-Genu3
 GetACP
 GetCPInfo
 GetCPUInformation
@@ -1355,43 +1078,13 @@ GetThreadTimes
 GetTickCount64
 GetWindowLongPtrA
 GetWindowTextA
-H!D$ E
-H!T$0D
-H3\$HH
-H97t<
-H9=8E
-H9=Qm
-H9\$@t
-H9sXH
-H;XXs
-H;xXu9
-HA_A]A\_^[
 HH:mm:ss
 HIGHDPI
-H[><y5
 HammerMapLoader001
-Hc+;k
-Hc7;w
-HcAHH
-HcB H;
-HcC H
-HcD$PH
-HcH8H
-HcH8L
-HcH<H
-HcK H
-HcY8K
-Hc]`M
 HelpSystem_001
 HostStateMgr001
-Ht)I;
 I!?pos@QCursor@@SA?AVQPoint@@XZ
-I9}(t9H
-IGUBH
-IGUBtjA
 IQuickTime001
-IfG9t
-Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
 Il?333333c?
 Image
 Image%d
@@ -1405,7 +1098,7 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 InvokeMiniDumpHandler
 IsDebuggerPresent
@@ -1413,60 +1106,31 @@ IsProcessorFeaturePresent
 IsValidCodePage
 IsWindowEnabled
 IsWindowVisible
-J>@G_
+JPEG
 January
+July
+June
 K#?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z
-K&>.yC
 K/?sizeHint@QLabel@@UEBA?AVQSize@@XZ
 KERNEL32.dll
 KV Conditional Evaluation Error
 Keep Submitted Screenshots
 KeyValueCache001
-KeyValues Error: %s in file %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues Error: %s in file %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-K}*n:	
-K~Je#>!
-L!|$(L!
-L$ SH
-L$ USVWATAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$&@8t$&t0@8q
-L$0E3
-L$0H;
-L$0fH
-L$0fI
-L$8H3
-L$@;|
-L$@H3
-L$@uU
-L$XE3
-L$`E3
 L/?sizeHint@QLineEdit@@UEBA?AVQSize@@XZ
-L9`8tA
-L9m(t	H
-L9mwt	H
-L9t$Pt
-L9|$Pt
-L9|$Pu
-L9}wt	H
+L>ev
 L?UUUUUUU?
-L?n(Zy&
 LCMapStringEx
 LCMapStringW
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
-LcA<E3
-LcCPH
-LcL$PH
-LcT$p3
+LWG>
+LWW>
 LeaveCriticalSection
-Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
 Live Clipboard Updates
-Lj[;>
 LoadFromBuffer: expected '{', found '%s'
 LoadLibraryExW
 LocalContextCacheSize
@@ -1476,13 +1140,12 @@ Log Capture
 LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
-M H1E
 M8?wheelEvent@QMenu@@MEAAXPEAVQWheelEvent@@@Z
 MATCHFRAMEWORK_001
-MB(iVR
 MM/dd/yy
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
+Map:
 MapListService_001
 March
 MaterialUtils_001
@@ -1491,19 +1154,18 @@ MaxConcurrency
 MaxPolicyElementKey
 MeshSystem001
 MeshUtils001
-Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
-Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0>
 MinConcurrency
-Missing '%s' interface for '%s'.
-Missing interface '%s' for '%s'.
 ModelDocUtils001
 Monday
 MultiByteToWideChar
 N ?paintEngine@QPixmap@@UEBAPEAVQPaintEngine@@XZ
-N0Hci
 N3`d?
 N8?wheelEvent@QPlainTextEdit@@MEAAXPEAVQWheelEvent@@@Z
 N>O=I9
+N>VF
+NQ?s
+NULL
+Name
 NavSystem001
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -1512,13 +1174,11 @@ NetworkServerService_001
 NetworkService_001
 NetworkSystemUtilsVersion001
 NetworkSystemVersion001
-No Screenshot Available.
+No Screenshot Available.\nClick For Options.
 November
 O'?setAlternatingRowColors@QAbstractItemView@@QEAAX_N@Z
-O0HcQ
 O2?tabBar@QTabWidget@@IEBAPEAVQTabBar@@XZ
-OF>;^
-OGUBH
+OZQ%
 October
 OnAccept()
 OnAddAdditionalImage()
@@ -1558,14 +1218,12 @@ OnTakeScreenshot(int)
 OnTextChanged()
 OnTitleChanged()
 OnUseComponentOwner()
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orientation:
 Owner:
 P/?sizeHint@QMenu@@UEBA?AVQSize@@XZ
 P2?tabButton@QTabBar@@QEBAPEAVQWidget@@HW4ButtonPosition@1@@Z
 P8?wheelEvent@QTextEdit@@MEAAXPEAVQWheelEvent@@@Z
-P>q_Y~
-PAq=?Mp#
 PLATFORM
 POSIX
 PanoramaTextServices001
@@ -1574,7 +1232,6 @@ PanoramaUIEngine001
 ParticleSystemMgr003
 Paste Image
 Pause
-Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
 Physics2 Interface Old v0.5
 PhysicsBuilderMgr001
 Plat_DebugPrint
@@ -1600,9 +1257,9 @@ Primary Image
 Priority:
 Product:
 PropertyEditorSystem_001
-Pz}b!
 Q5rHg,>
 Q8?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
+QAf?
 QTableWidgetItem
 QtCore4.dll
 QtGui4.dll
@@ -1618,12 +1275,10 @@ RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
 Refresh
 Refresh Log Capture
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 Release
 ReleaseSRWLockExclusive
 Remove File
-Remove this image from the bug report?
-Remove this tab's data from the bug report?
 RenderDevice003
 RenderDeviceMgr001
 RenderHardwareConfig002
@@ -1642,21 +1297,15 @@ RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
 S ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
-S0Q0O
+S9>H
 S>$hkDh$h>[2
-SA|X=G
-SGUBH
 SIG_PreviewImage(int)
 SIG_TabAdded()
 SIG_TabClosed()
 SIG_TabImageChanged(int)
 SIG_TakeScreenshot(int)
 SSE and SSE2 are required.
-SUAVH
-SVATAUH
-SVATH
-SVWATAUAVAWH
-SVWATAUAWH
+S\v?addSeparator@QMenu@@QEAAPEAVQAction@@XZ
 Saturday
 Save:
 SaveGame
@@ -1679,6 +1328,7 @@ SetThreadpoolTimer
 SetThreadpoolWait
 SetUnhandledExceptionFilter
 Severity:
+Size
 Size: %s
 SleepConditionVariableCS
 SleepConditionVariableSRW
@@ -1703,17 +1353,12 @@ SteamAudio001
 SteamVR System Report
 Submit
 Submit Compressed (Preferred)
-Submit as somebody else?
 SubmitThreadpoolWork
 Submitter:
 Sunday
 System Report
-T$ A;
-T$ Lc
-T$PE3
-T$PH3
+TEMP
 TUUUU
-Tab "%1" has unsubmitted data.
 Take Application Screenshot
 TargetOversubscriptionFactor
 TerminateProcess
@@ -1721,7 +1366,6 @@ TestScriptMgr001
 TextLayout_001
 TextMessageMgr_001
 The Console Log is using %.1f MB, truncate to %.1f MB?
-This tab has unsubmitted image data.
 Thursday
 Title:
 TlsAlloc
@@ -1736,18 +1380,10 @@ TryAcquireSRWLockExclusive
 Tuesday
 U/?sizeHint@QPushButton@@UEBA?AVQSize@@XZ
 UA>N0Wl
-UATAUAVAWH
-USATAUAVH
+URL:
 USER32.dll
-USVWATAUAVAWH
-USVWAVH
-USVWH
+UUUU
 UUUUUU
-UVAVH
-UVWATAUAVAWH
-UVWAVAWH
-UWAVH
-Unable to see '%s', check permissions and network connectivity.
 UnhandledExceptionFilter
 Unknown exception
 UnknownUser
@@ -1756,8 +1392,6 @@ Use "Add File" or Drag/Drop Files to populate.
 Use Component Owner
 UserInfoChangeService_001
 V ?paintEvent@QCheckBox@@MEAAXPEAVQPaintEvent@@@Z
-V6E>`"(5
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
@@ -1765,7 +1399,6 @@ VBaseFileSystem011
 VBik001
 VConComm001
 VConsole_SubTool_001_BugReporterTool
-VD$Pf
 VDebugService_001
 VEngineCvar007
 VFileSystem017
@@ -1791,11 +1424,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VWATAVAW
-VWATAVAWH
-VWAVH
-VWAWH
 V_FixSlashes
 V_GetErrno
 V_GetFileExtensionSafe
@@ -1816,13 +1444,8 @@ V_strtod
 V_strtoi64
 V_vsnprintfSize
 V_wcstoi64
-V_~]	,
-Valve Corp.0
-Valve Corp.1
 VisBuilder_001
 W ?paintEvent@QComboBox@@MEAAXPEAVQPaintEvent@@@Z
-WATAUAVAWH
-WAVAWH
 WINDOWS
 WINXP
 WaNd?
@@ -1831,8 +1454,7 @@ WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
-Washington1
+Warning:  %s = '%s' is infinite, clamping value.\n
 Wednesday
 WideCharToMultiByte
 WinRTInitialization
@@ -1841,45 +1463,70 @@ WorldRendererBuilderMgr001
 WorldRendererMgr001
 WriteConsoleW
 WriteFile
-Wu4E3
-X	?hasImage@QMimeData@@QEBA_NXZ
-X!t5~
-XA]A\^[
+X360
+X\t?hasImage@QMimeData@@QEBA_NXZ
 Y(?setCurrentIndex@QComboBox@@QEAAXH@Z
 Y)?setFixedPitch@QFont@@QEAAX_N@Z
-Y9"SD
+Y8a:
 Y>kX>M
-YD$@f
-You have unsubmitted data in this bug report.
-Your are submitting as '%1', but your Bug Reporter user name is '%2'.
 Z2?tabInserted@QTabWidget@@MEAAXH@Z
 Z\>z8
-Zod(^?
+Z\v?addStretch@QBoxLayout@@QEAAXH@Z
 ['?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
 [*ncd>0
-[K]taM?
-\$ ATAVAWH
-\$ H;
-\$ UH
-\$ UVWATAUAVAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ WH
-\$0H;
-\$8E3
-\$@H;
-\$@f;
-\$@uPH
-\$PuPH
-\$X@2
-\$gm?
 \)?setFixedWidth@QWidget@@QEAAXH@Z
 \\fileserver\bugs
-\ffff
+\f?property@QObject@@QEBA?AVQVariant@@PEBD@Z
+\f?qFree@@YAXPEAX@Z
+\n7?underMouse@QWidget@@QEBA_NXZ
+\n?actionEvent@QMenu@@MEAAXPEAVQActionEvent@@@Z
+\n?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+\n?activateWindow@QWidget@@QEAAXXZ
+\n?addAction@QWidget@@QEAAXPEAVQAction@@@Z
+\nBug submission failed!\n
+\nBugBait Initialization failed!\n
+\nCould not Load Module on '%s'.\n
+\nCould not load Bug Configuration defaults from '%s'.\n
+\nFailed to serialize buffer to '%1'!\n
+\nFailed to serialize screenshot '%1' to '%2'!\n
+\nMissing '%s' interface for '%s'.\n
+\nMissing interface '%s' for '%s'.\n
+\nTab "%1" has unsubmitted data.\nRemove this tab's data from the bug report?\n
+\nThis tab has unsubmitted image data.\nRemove this image from the bug report?\n
+\nUnable to see '%s', check permissions and network connectivity.\n
+\nYou have unsubmitted data in this bug report.\nAbandon bug report?\n
+\nYou have unsubmitted data in this bug report.\nClear bug report?\n
+\nYour are submitting as '%1', but your Bug Reporter user name is '%2'.\n\nSubmit as somebody else?
+\nh?oT
+\nk>oB
+\r%?removeTab@QTabWidget@@QEAAXH@Z
+\r&?rowsAboutToBeRemoved@QAbstractItemView@@MEAAXAEBVQModelIndex@@HH@Z
+\r2?supportedDropActions@QTableWidget@@MEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+\r?checkStateSet@QAbstractButton@@MEAAXXZ
+\r?checkStateSet@QCheckBox@@MEAAXXZ
+\r?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+\r?clear@QClipboard@@QEAAXW4Mode@1@@Z
+\r?clear@QComboBox@@QEAAXXZ
+\r?clear@QLabel@@QEAAXXZ
+\r?clear@QLineEdit@@QEAAXXZ
+\r?clear@QPlainTextEdit@@QEAAXXZ
+\r?clear@QTextEdit@@QEAAXXZ
+\r?clearContents@QTableWidget@@QEAAXXZ
+\r?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+\r\f\v\v\n\n\t\t\t\t\t
+\t!?pixmap@QLabel@@QEBAPEBVQPixmap@@XZ
+\t?intersected@QRect@@QEBA?AV1@AEBV1@@Z
+\tDisplay As: %s\n
+\tRepository: %s\n
+\tSubmit: %s\n
+\tUser:       %s\n
+\tkE>fvw
+\v?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+\v?addItem@QComboBox@@QEAAXAEBVQString@@AEBVQVariant@@@Z
+\v?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z
+\v?moveTo@QRect@@QEAAXAEBVQPoint@@@Z
+\vA03>A|
 ]%?resize@QWidget@@QEAAXHH@Z
-])6M>&
-]>)2X
-]J<0"0i3
 ^"?qt_metacall@QGridLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 ^,?setRootIndex@QTableView@@UEAAXAEBVQModelIndex@@@Z
 ^8?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ
@@ -1889,6 +1536,7 @@ _V_ComposeFileName
 _V_strncat
 _V_strncmp
 _V_strncpy
+_\r?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
 __Buffer
 __based(
 __cdecl
@@ -1902,12 +1550,7 @@ __stdcall
 __thiscall
 __unaligned
 __vectorcall
-_gUT^
 _oD>Kg
-`+!]?
-`.rdata
-`A^_^[]
-`A_A^A]A\_^]
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -1944,6 +1587,7 @@ _oD>Kg
 `vftable'
 `virtual displacement map'
 a"?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+a6>r
 abcdefghijklmnopqrstuvwxyz
 address family not supported
 address in use
@@ -1957,14 +1601,13 @@ autoattachments_geometry
 b ?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z
 b&?screenGeometry@QDesktopWidget@@QEBA?BVQRect@@AEBVQPoint@@@Z
 b/?sizeHint@QTabWidget@@UEBA?AVQSize@@XZ
-b?^Cy
+b\v?addTab@QTabWidget@@QEAAHPEAVQWidget@@AEBVQString@@@Z
 bad address
 bad allocation
 bad exception
 bad file descriptor
 bad message
 borrow
-bp(=>?g
 broken pipe
 bug_%04d_%02d_%02d_%02d_%02d_%02d_%s
 bug_submitter_override
@@ -1974,9 +1617,6 @@ bugreporter_subtool.dll
 build
 built_from_cl
 c ?paintEvent@QLineEdit@@MEAAXPEAVQPaintEvent@@@Z
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
 c:\buildslave\hlvr_rel_win64\build\src\mathlib\mathlib.cpp
 c:\buildslave\hlvr_rel_win64\build\src\public\ordered_constructor.h
@@ -1987,7 +1627,7 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\vconsole2\subtools\bugreporter\Retail\win64\bugreporter_subtool.pdb
 c?FA@s}
-cAMDD
+c\r?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z
 category
 clipboardMode
 component
@@ -2001,64 +1641,48 @@ consolelog
 consolelog_auto_truncate
 consolelog_max_megabytes
 cross device link
-d$ E3
-d$ fC
-d$1D9t$`
 d$?raise@QWidget@@QEAAXXZ
-d$`E3
 d%?resizeEvent@QAbstractItemView@@MEAAXPEAVQResizeEvent@@@Z
 d2?tabRemoved@QTabWidget@@MEAAXH@Z
 d8?widget@QTabWidget@@QEBAPEAVQWidget@@H@Z
 d?000000`?
+dRL>
 dddd, MMMM dd, yyyy
 delete
 destination address required
 device or resource busy
 directory not empty
 e*?setItem@QTableWidget@@QEAAXHHPEAVQTableWidgetItem@@@Z
-e,>~^
-e0A_A^A]A\]
-entiA
+eF>t
 error
 executable format error
-f	?hasText@QMimeData@@QEBA_NXZ
 f'?setAutoFillBackground@QWidget@@QEAAX_N@Z
 f/?sizeHint@QWidget@@UEBA?AVQSize@@XZ
-fC,"KnqS
-fD90t
-fD94Fu
-fD96u
-fD9t$b
-fE94(t/E
-fJBGo
+fD>b
+fWi?
+f\t?hasText@QMimeData@@QEBA_NXZ
 failed
-fffff
-ffffff
-fffffff
 file exists
 file too large
 filename too long
 font-weight : bold
 function not supported
-g	?hasUrls@QMimeData@@QEBA_NXZ
 g ?paintEvent@QMenu@@MEAAXPEAVQPaintEvent@@@Z
 g#?qt_metacast@QTabWidget@@UEAAPEAXPEBD@Z
+g\t?hasUrls@QMimeData@@QEBA_NXZ
 g_pMemAlloc
 geometry
 h>1my
-hA]^[]
+h\r?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+high
 host unreachable
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0X
-http://ocsp.digicert.com0\
-http://www.digicert.com/CPS0
 i ?paintEvent@QPlainTextEdit@@MEAAXPEAVQPaintEvent@@@Z
 i#?qt_metacast@QTableWidget@@UEAAPEAXPEBD@Z
 i%?resizeEvent@QComboBox@@MEAAXPEAVQResizeEvent@@@Z
+i\r?changeEvent@QFrame@@MEAAXPEAVQEvent@@@Z
 identifier removed
 illegal byte sequence
 inappropriate io control operation
-ineIA
 info.txt
 interrupted
 invalid argument
@@ -2068,40 +1692,23 @@ io error
 is a directory
 j"?qt_metacall@QIntValidator@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 j-?setTabStopWidth@QPlainTextEdit@@QEAAXH@Z
-j>>A?1
-j?V()
-j?{$*
-jj@0HK4
 k ?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z
-k H9k
 k,?setRowCount@QTableWidget@@QEAAXH@Z
 k-?setTabStopWidth@QTextEdit@@QEAAXH@Z
 k0?staticMetaObject@QLabel@@2UQMetaObject@@B
-k0i0$
 keepscreenshots
-l$ ATAVAWH
-l$ AVH
-l$ E2
-l$ VH
-l$ VWATAVAWH
-l$ WAVAWH
-l$ WH
-l$ fff
-l$0@:
-l$0A+
-l$0Hc
-l$8fE;
-l$HHcJ
-l$XE3
-l$`E3
 l%?resizeEvent@QDialog@@MEAAXPEAVQResizeEvent@@@Z
 l.?setWindowFlags@QWidget@@QEAAXV?$QFlags@W4WindowType@Qt@@@@@Z
+l\r?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
 launch_url
 liveclipboard
 log10
 m-?setTabText@QTabWidget@@QEAAXHAEBVQString@@@Z
 m/?sizeHintForColumn@QTableView@@MEBAHH@Z
 m2?tabText@QTabWidget@@QEBA?AVQString@@H@Z
+m?H7
+mG4>
+m\r?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z
 map()
 mapped(QObject*)
 mapped(QString)
@@ -2149,15 +1756,18 @@ no such device
 no such device or address
 no such file or directory
 no such process
+none
 not a directory
 not a socket
 not a stream
 not connected
 not enough memory
 not supported
-ntelE
 o.?setWindowIcon@QWidget@@QEAAXAEBVQIcon@@@Z
+o?GS
 oI>O7
+o\r?changeEvent@QMenu@@MEAAXPEAVQEvent@@@Z
+o\v?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 operation canceled
 operation in progress
 operation not permitted
@@ -2165,20 +1775,12 @@ operation not supported
 operation would block
 operator
 operator "" 
-ot$ H
 owner
 owner dead
-oypfD
-o|$0f
-p AWH
-p WAVAWH
 p"?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
 p#?qt_metacast@QTextEdit@@UEAAPEAXPEBD@Z
 p)?setFocus@QWidget@@QEAAXW4FocusReason@Qt@@@Z
 p-?setTabToolTip@QTabWidget@@QEAAXHAEBVQString@@@Z
-pA\_]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
 permission denied
 position
 priority
@@ -2188,26 +1790,27 @@ protocol not supported
 purecall
 q/?sizeHintForRow@QTableView@@MEBAHH@Z
 qS>g?h3
-r	Vr.>T
-r 9_ t
 r$?read@QTableWidgetItem@@UEAAXAEAVQDataStream@@@Z
-r:D8v
 rLp>B
+r\r?changeEvent@QPlainTextEdit@@MEAAXPEAVQEvent@@@Z
+r\tVr.>T
+r\v?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 read only file system
 resource deadlock would occur
 resource unavailable try again
 resource/bugreporter.res
 restrict(
 result out of range
-ri9V vdH
 s"?qt_metacall@QLineEdit@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+sHF'
+s\v?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
 savefile
-say Bug Reporter Activated [%s]%s
+say Bug Reporter Activated [%s]%s\n
 say Bug Reporter Cancelled.
 say Bug Submitted [%s]: %s
-say Bug submitter overridden to: [%s]
+say Bug submitter overridden to: [%s]\n
 selected,deselected
-setpause bug
+setpause bug\n
 severity
 source2
 state not recoverable
@@ -2216,37 +1819,7 @@ steamvr_system_report.txt
 stream timeout
 submitter
 succeeded
-t	D88
 t ?paintEvent@QTabWidget@@MEAAXPEAVQPaintEvent@@@Z
-t!McY
-t"<.u
-t$ AVH
-t$ E3
-t$ WH
-t$(E3
-t$0+A$t
-t$0E3
-t$0H;
-t$8@8i)H
-t$8H+
-t$@fE;
-t$HHc
-t$Hf;
-t$HxLf
-t$Xt	H
-t$XtOH
-t$X~=H
-t$`u"H
-t$fE;
-t(@8:t#H
-t/@88t*H
-t4McF
-t9H9=
-t:LcM
-tCHcP
-tTD8?tOL
-tXLcQ
-tefff
 text file busy
 tier0.dll
 timed out
@@ -2261,88 +1834,35 @@ toolimages:common/snapshot_sm.png
 tools/bugreporter/config.txt
 tools/bugreporter/sdk_config.txt
 triage*
-ttIcF
-tu+K$3
-u	@8==
 u ?paintEvent@QTableView@@MEAAXPEAVQPaintEvent@@@Z
-u.fE;
-u0Hc^
 u3?toPlainText@QPlainTextEdit@@QEBA?AVQString@@XZ
-u3HcH<H
-uAHc^
-uFfD;
-uGfD;
-uMHcE
-uT<0uP
-uf!T$(H!T$ 
-unpause bug
-unpause bug;wait 50;%s
+unpause bug;wait 50;%s\n
+unpause bug\n
 update
 url_name
-uuHcF
 uzKs@>
 v%?resizeEvent@QPlainTextEdit@@MEAAXPEAVQResizeEvent@@@Z
 v,?setRowStretch@QGridLayout@@QEAAXHH@Z
 v.?setWindowModality@QWidget@@QEAAXW4WindowModality@Qt@@@Z
-v=Y]Bv
 value too large
 version
 vrmonitor://open/systemreport/s2bug
 vstdlib.dll
-v}`[>
 w ?paintEvent@QTextEdit@@MEAAXPEAVQPaintEvent@@@Z
 w7?updateEditorData@QAbstractItemView@@MEAAXXZ
-wPu^H
+w\r?changeEvent@QTabWidget@@MEAAXPEAVQEvent@@@Z
 wrong protocol type
-www.digicert.com1!0
-x ATAVAWH
-x AV3
-x AVH
-x$fff
 x-?setTabsClosable@QTabWidget@@QEAAX_N@Z
 x7?updateEditorGeometries@QAbstractItemView@@MEAAXXZ
-x]~\6
-xuJE3
+xT?V
+x\r?changeEvent@QTextEdit@@MEAAXPEAVQEvent@@@Z
 y"?qt_metacall@QMenu@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
-y\PD>!
-zY;>u:m	
 { ?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z
 {-?setText@QAbstractButton@@QEAAXAEBVQString@@@Z
-{un'%
-{}()':
-|	?imageData@QMimeData@@QEBA?AVQVariant@@XZ
-|#tAM
-|$ AVH
-|$ D!
-|$ E3
-|$ UATAUAVAWH
-|$(A^
-|$(I;
-|$0A;
-|$0fff
-|$8;3
-|$8E3
-|$@H;
-|$@t	3
-|$@t/H
-|$HHc^
-|$HtVH
-|$H~73
-|$PE3
-|$Pt*H
-|$\.u
-|$`A;
-|$`Lc
-|$`ff
-|$huaE
 |2?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
-|Lu?c
-|b=})>
+|\r?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+|\t?imageData@QMimeData@@QEBA?AVQVariant@@XZ
 }(?setCursorPosition@QLineEdit@@QEAAXH@Z
-}LuHO
-}QfA;
-}_t!H
 ~#?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
 ~%?resizeEvent@QTabWidget@@MEAAXPEAVQResizeEvent@@@Z
-~8fff
-~t&LN
+~\n?accept@QDialog@@UEAAXXZ

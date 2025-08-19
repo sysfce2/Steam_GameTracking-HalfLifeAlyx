@@ -1,77 +1,19 @@
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZUPDATE_STRING_TOKEN_DATABASE
- 9(X`
- A^][
- A^_^
- A_A^A\
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^_
- A_^]
- A__^
  Fade
- Hc9H
- HcyH3
  Not Depth Pre-passed
- vJH+
-"pA3Q(
-#K1kI
-#K1kL
 %f %f %f %f
 %i %i %i %i
+%lld
+%llu
 %s (mat_fullbright: %d)
 %s allocation count overflow
-%s allocation count overflow( %llu > %llu )
-%s allocation count overflow( %llu >= %llu )
-%s: string format requested %d chars
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
-&YA1f
-(A_A^
-(D$ H
-(D$0H
-(D$0f
-(D$@f
-(D$PH
-(D$Pf
-(D$`H
-(D$`f
-(D$pf
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(o:R	
-(t$ H
-(t$ L
-(t$0H
-(t$@H
-(t$PL
-(|$0H
-(|$@D
-(|$@H
-(|$@I
-(|$PD
-(|$PH
-)4$H;
-)D$0H
-)D$@E
-)t$ H
-)t$ I
-)t$0D
-)t$0L
-)t$@%
-)t$PH
-)t$PI
-)t$`H
-)t$pE
-)|$ D
-)|$@H
-)|$@L
-)|$pD
-,|%)v
+%s allocation count overflow( %llu > %llu )\n
+%s allocation count overflow( %llu >= %llu )\n
+%s: string format requested %d chars\n
++inf
+-avx
 -enable_2gb_morphs
+-inf
 -sse2
 -sse3
 -sse4
@@ -146,10 +88,10 @@
 .CRT$XTA
 .CRT$XTZ
 .P6AXPEAVCSceneObject@@@Z
+.bss
 .data
 .data$r
 .edata
-.http://www.digicert.com/ssl-cps-repository.htm0
 .idata$2
 .idata$3
 .idata$4
@@ -160,90 +102,33 @@
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
-.text
 .text$di
 .text$mn
 .text$x
 .text$yd
+.tls
 .tls$
 .tls$ZZZ
 .xdata
-/=$!6
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
-061110000000Z
 0=Off, 1=All AlphaTested, 2=only AlphaTested with PrepassAlphaTest enabled
 0=Off, 1=DebugWireframe, 2=DebugSolidBlink
-0A\_]
-0A^A\_
-0A^^[
-0A^_^
-0A_A]A\_]
-0A_A^A\
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]_^
-0A_A^_
-0A__]
-0v0b1
 1 = bloom output, 2 = quarter res downsample
-131022120000Z
-141022000000Z
-181004000000Z
 1DBlend
-200613003511Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
 3D Skybox
 3D Skybox Procedural
 3DSkybox Depth Prepass
 3DSkybox Translucent Forward
 3DSkyboxForward
 3DSkyboxLightBinnerVr
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
-8A_A^
-99~-H
-9XXtO
-9_p~$
-9t$Pt
-9t$Tu
-9xKHc
-9y(~0H
-;D$0u
-;D$@@
-;L$0u
-;T$x};Hc
-;T$x}J
-;T$x}P
-;l$0|
-;|$@|
-<	u"H
+60.0
 <deferred>
 <no failure reason set>
 <null>
 <unconnected>
-<}\vE3
-<}\vH
-?5zlO
-?8\$bH
-?8\$i
 ??0CThreadMutex@@QEAA@PEBD@Z
 ??1CThreadMutex@@QEAA@XZ
 ?AppendFormatV@CBufferString@@QEAAHPEBDPEAD@Z
 ?Concat@CBufferString@@QEAAPEBDPEBD0ZZ
-?D8D$bH
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDD@Z
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
@@ -260,49 +145,6 @@
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
 ?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@_N@Z
 ?V_stristr_fast@@YAPEBDPEBD0@Z
-@.data
-@.tls
-@81u/H
-@85KC
-@8t$h
-@8t$ht,@8u
-@8t$l
-@8|$`tPH
-@8|$bt
-@A^A]A\
-@A^A]A\^]
-@A_A^A\_^
-@A_A^A]A\_
-@A_A^[
-@A_A^]
-@A_A^_
-@A_A^_^]
-@SAVAWH
-@SAWH
-@SUAVH
-@SUVWH
-@SVAVH
-@UAUH
-@UAVAWH
-@UAWH
-@USAVH
-@USVAVAWH
-@USVWATAUAVAWH
-@USVWATAVH
-@USVWAUAVAWH
-@USVWAVH
-@USVWAWH
-@USVWH
-@USWH
-@UVWATAUAVAWH
-@UVWH
-@UWAWH
-@WATAVH
-A8H	P(
-A8vxt/H
-A;@`}
-A;A`}
-A;Q`}
 ABGR8888
 AE_ACTION_SET_TURN_RATE_SCALE
 AE_BLIND_ZOMBIE_SNIFF
@@ -338,33 +180,12 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
-ATAUAVH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
-AVAWH
-A\_[]
-A^A\_^[]
-A^A]A\_]
-A^A]_^[]
-A^_^[]
-A_A\_]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^]H
-A_A^A]_]
-A_A^A]_^[]
-A_A^]
-A_A^^[]
-A_A^_
-A__^[]
 AbsolutePoseControl
 AcquireSRWLockExclusive
 AddLayer
@@ -378,6 +199,7 @@ Ambient Occlusion Proxies Downsample Depth
 Ambient Occlusion Proxies: Texture Barrier
 AmbientOcclusionDepth
 Aname
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -412,6 +234,7 @@ AssetPreviewSystem_001
 AssetSystem001
 AssetSystemTest001
 AutoLayer
+BC6H
 BGR565
 BGR888
 BGR888_BLUESCREEN
@@ -428,10 +251,8 @@ BakedLODBuilderMgr001
 BaseIKRig
 BasePhysicsShape
 BeforeTranslucent
-Bellevue1
 BenchmarkService001
 BentNormalData
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 BinaryProperties_GetValue
 BlendLayer
 BlendLayerBase
@@ -441,12 +262,10 @@ BloomBuffer
 BloomManifest
 BodyGroup
 BodyGroupChoice
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
-C-yh/
-C8H!o
-C8u	H
 CAnimMotorList
 CAnimMovementManager
 CGlobalConfigValueRegistry::HookUpConfigValue
@@ -458,13 +277,13 @@ COLLISION_MODE_USE_NEAREST_TRACE
 COLORCORRECTION_VERSION_1
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CParticleSystemDefinition
-CPostProcessRenderer needs to use a layer which has had a render attribute called "ColorBuffer" set!
+CPostProcessRenderer needs to use a layer which has had a render attribute called "ColorBuffer" set!\n
 CRenderingPipelinePostProcess::AddLayersToView expects 'tonemapRenderer' attribute! (Explicitly set to NULL to disable tonemapping.)
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
 CUtlLeanVectorBase<class std::function<void __cdecl(class ISceneView const *,float,int)>,short>::EnsureCapacity
 CUtlLeanVectorImpl<class CUtlLeanVectorBase<class std::function<void __cdecl(class ISceneView const *,float,int)>,short>,class std::function<void __cdecl(class ISceneView const *,float,int)>,short>::AddToTailGetPtr
-CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
 CVrQuadRenderer
 C_INIT_AddVectorToVector
@@ -564,8 +383,8 @@ ClothShapeSphere
 CommandLine
 CommandProcedure
 CommandProcedureList
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -576,49 +395,6 @@ CreateInterface
 CreatePerViewConstantBuffer
 CustomClearColor
 CycleOverride
-D$ !>;
-D$ E3
-D$ L;
-D$ N&B:H
-D$ P-
-D$ d=
-D$ r|
-D$(E3
-D$0E3
-D$0H3L$0H3
-D$0mp
-D$0r|
-D$8H;
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@AB
-D$@E3
-D$@mp
-D$@r|
-D$HE3
-D$HH;
-D$P"ZF
-D$PE3
-D$Pk@_aH
-D$Pmp
-D$Tx%
-D$XE3
-D$XH;
-D$`D;|$x
-D$`E#
-D$`H;
-D$`Ll
-D$`r|
-D$aE3
-D$eE3
-D$hE3
-D$hZ]
-D$p 69
-D$p6=
-D$p<L{
-D$pHK8
-D$t^p
-D$x*>
 D15S1
 D16_SHADOW
 D24FS8
@@ -626,47 +402,12 @@ D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8- (
-D8-!$
-D8-!'
-D8-#!
-D8-&&
-D8-))
-D8-*0
-D8-/.
-D8-2+
-D8-3*
-D8-4,
-D8-6-
-D8-</
-D8-A1
-D8-n0
-D8-r"
-D8-s%
-D8-t$
-D8-t'
-D8-u&
-D8-v!
-D8-v(
-D8-z 
-D8-{#
-D8D$gH
-D8u`u	H	
-D8vQt
-D8vRteH	
-D9&t\I
-D9@XA
-D9l$XE
-D9l$\E
-D9l$`u
-D9pXt
-D9pXtKH
-D;l$X
-D;t$TuTH
-D;t$puTH
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
-D_ENABLE_VOLUMETRIC_FOG is set, but cannot find CVolumetricFog via "VolumetricFog"
+D_ENABLE_VOLUMETRIC_FOG is set, but cannot find CVolumetricFog via "VolumetricFog"\n
 DebugDraw
 DebugDrawObjects
 DebugTextureInfo001
@@ -689,12 +430,6 @@ DepthPrePass
 DepthPrePassDecals
 DepthPrePassNormals
 DepthPrepass
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 DisableThreadLibraryCalls
 DotaCardGameClient_001
 DownsampleDepth
@@ -706,19 +441,8 @@ Dynamic Opaque Forward
 DynamicAmbientOcclusion
 DynamicConfigList
 DynamicGBuffer
-E H	C8H
-E ^I'
-E$K0]
-E,^I'
-E0C07
-E8K0]
-E9.t^I
-E;~(H
-E@D8pC
-E@^I'
-EL^bI
-ERROR! Cannot load RenderingPipelineVrStartup resource manifest for the vr render pipeline!
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+ERROR! Cannot load RenderingPipelineVrStartup resource manifest for the vr render pipeline!\n
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EconItemToolModel_001
 EditorDynamicConfig
@@ -736,9 +460,9 @@ Engine2/RenderingPipeline/ToolsVisModes
 EngineServiceMgr001
 EnvironmentalInteractionLayer
 EventSystem001
-FATAL ERROR: unable to register all schema data: %s
-FixupResourceName: Illegal full path passed in ("%s")!
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+FATAL ERROR: unable to register all schema data: %s\n
+FixupResourceName: Illegal full path passed in ("%s")!\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 FogObjects
 FogVolume
@@ -753,6 +477,7 @@ GBufferNormal
 GBufferSSAO
 GBufferSSAOTemp
 GBuffer_Expensive
+GCTL
 GCUtlString::FormatV
 GSFailure
 GameOverlay
@@ -773,41 +498,17 @@ GetResourceManifestCount
 GetResourceManifests
 GetSystemTimeAsFileTime
 GroundFog
-H	C8A
-H	C8H
-H	C8L
-H	F8A
-H	G8H
-H	G8H9
-H	G8L
-H	H8H	
-H+\$h+
-H+\$hIc<$H
-H0F08
-H1D$0
-H9u8t	H
-H9uot	H
-H;\$P|
-HA_A\
 HDRBloom
 HDRColorBuffer
 HDRColorBufferCopy
 HDRPostProcess
 HammerMapLoader001
-Hc.;n
-Hc/;o
-HcD$ H
-HcH<H
-HcK ;
-HcL$ H
-HckHL
-Hcl$0I
 HelpSystem_001
 Hologram Depth
 Hologram Fast Fresnel
 Hologram Wireframe
 HostStateMgr001
-Ht4<Xu[
+IA88
 IKChain
 IKChainOld
 IKData
@@ -816,7 +517,6 @@ IKRigBiped
 IKRigBug
 IKRigSimple
 IQuickTime001
-Ic4$A;t$
 IkLockLocal
 InitializeSListHead
 InnerSky
@@ -824,32 +524,18 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 InterlockedFlushSList
 IntermediateOutputColorResolved
 InvalidBubble
 InvokeMiniDumpHandler
 KERNEL32.dll
-KHH	C8I
-KHH	C8M
+KL2H
 KeyValueCache001
 KeyValuesSystem
 Kick Dependent Views
 Kick Dependent Views View
 Kicks off creation of dependent views early in the frame
-L$ SH
-L$ UVWATAUAVAWH
-L$ WATAUAVAW
-L$ WH
-L$ fI
-L$0E+
-L$@E3
-L$@H1D$0
-L9e@t	H
-L9m(t	H
-L9m@t	H
-L9u@t	H
-L9ugt	H
 LE_BGRA8888
 LE_BGRX8888
 LINEAR_ABGR8888
@@ -864,22 +550,17 @@ LINEAR_RGB888
 LINEAR_RGBA16161616
 LINEAR_RGBA8888
 LOG_GENERAL
-Lc3D;s
-LcA<E3
-LcCPH
-Lcl$ A
 LightBinnerVr
 LightSetup
 Lightmaps are out of date !!! - Please re-bake. Rendering as FULLBRIGHT
 LinearDelta
 Localize_001
-LockDynamicConstantBuffer failed in CreatePerViewConstantBuffer!!!
+LockDynamicConstantBuffer failed in CreatePerViewConstantBuffer!!!\n
 LoggingSystem_IsChannelEnabled
 LoggingSystem_Log
 LoggingSystem_RegisterLoggingChannel
 LrwcE
 MATCHFRAMEWORK_001
-MLc3D;s
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MSAA Resolve
@@ -887,11 +568,11 @@ MapListService_001
 MaterialSystem2/ShaderIDColors
 MaterialUtils_001
 MathLib_Init
+MbP?
 MeshSystem001
 MeshUtils001
 ModelDocUtils001
 Monitor
-N&B:H
 NV_DST16
 NV_DST24
 NV_INTZ
@@ -910,12 +591,11 @@ No-Wipe Opaque Forward
 NoDecalGBuffer
 NoOpPostprocess
 NoPoseControl
-O(t(H
 OcclusionQueryIssueLayer
 Offset
 Opaque
 OpaqueForward
-Ordered constructor wrapped type has no default constructor.
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 OuterSky
 Overtop Menu Procedural
 OvertopMenu
@@ -924,14 +604,11 @@ OvertopMenuForward
 OvertopMenuLightBinnerVr
 OvertopMenuRender
 OvertopMenuRendererTemplate
-P(D8vPu
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA_A^A]A\_^]
-PA_A^_
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -954,7 +631,6 @@ PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
 ParticleSystemMgr003
-Ph8\$h
 Physics
 Physics2 Interface Old v0.5
 PhysicsBodyMarkup
@@ -977,6 +653,7 @@ Plat_IsInDebugSession
 Plat_NeedsLowFragmentation
 Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
+Po5H
 PostDecalForwardDynamic
 PostDecalForwardNoDecals
 PostDecalPrepassDynamic
@@ -1001,7 +678,9 @@ QuarterResEffectsColor
 QueryPerformanceCounter
 QueuedLoaderVersion001
 R11_EAC
+R16F
 R16F_EXPAND
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
@@ -1028,11 +707,12 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
+RSDS
 RaiseException
 RandomFloat
 ReflectionTemplate
 ReflexSightsLayer
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 Release
 ReleaseSRWLockExclusive
@@ -1071,6 +751,8 @@ RetinaBurnRt1
 RetinaBurnSplat
 RtlPcToFileHeader
 RtlUnwindEx
+S+Ot
+SSAO
 SSAOBlurH
 SSAOBlurV
 SceneSystem/DisableShadowFullSort
@@ -1121,17 +803,6 @@ Static World Overlays
 StatsService_001
 SteamAudio001
 Subtract
-T$ E3
-T$ H;
-T$ Ic
-T$ Lc
-T$055
-T$0E3
-T$0H;
-T$@E3
-T$hE3
-T$pE3
-T$xE3
 TestFormatA
 TestFormatB
 TestFormatC
@@ -1148,44 +819,44 @@ ToolScriptManager001
 ToolService_001
 ToolsUtil Opaque
 ToolsUtil Translucent
-ToolsVisMode: ALBEDO								
-ToolsVisMode: BAKED_LIGHT_AMBIENT				
-ToolsVisMode: BAKED_LIGHT_AMBIENT_OCCLUSION		
-ToolsVisMode: BAKED_LIGHT_COUNT					
-ToolsVisMode: BAKED_LIGHT_DIFFUSE				
-ToolsVisMode: BAKED_LIGHT_LIGHT_CHART			
-ToolsVisMode: BAKED_LIGHT_LIGHT_COLOR			
-ToolsVisMode: BAKED_LIGHT_LIGHT_DIRECTION		
-ToolsVisMode: BAKED_LIGHT_RESULT					
-ToolsVisMode: BAKED_LIGHT_SPECULAR				
-ToolsVisMode: BAKED_LIGHT_SPECULAR_WITH_PROBES	
-ToolsVisMode: BENT_GEOMETRIC_NORMAL_WS			
-ToolsVisMode: BENT_NORMAL_WS						
-ToolsVisMode: CUBEMAP_REFLECTIONS				
-ToolsVisMode: CURVATURE							
-ToolsVisMode: DIFFUSE_AMBIENT_OCCLUSION			
-ToolsVisMode: DIFFUSE_LIGHTING					
-ToolsVisMode: EYES/MOUTH MASK					
-ToolsVisMode: FULLBRIGHT							
-ToolsVisMode: GEOMETRIC_NORMAL_WS				
-ToolsVisMode: GEOMETRIC_ROUGHNESS				
-ToolsVisMode: INDEXED_LIGHT_COUNT				
-ToolsVisMode: LIGHTING_COMPLEXITY				
-ToolsVisMode: NORMAL_TS							
-ToolsVisMode: NORMAL_WS							
-ToolsVisMode: REFLECTANCE						
-ToolsVisMode: REFLECTIVITY						
-ToolsVisMode: ROUGHNESS							
-ToolsVisMode: SHADER_ID_COLOR					
-ToolsVisMode: SHOW_UVS							
-ToolsVisMode: SPECULAR_AMBIENT_OCCLUSION			
-ToolsVisMode: SPECULAR_LIGHTING					
-ToolsVisMode: TANGENT_U_WS						
-ToolsVisMode: TANGENT_V_WS						
-ToolsVisMode: TOOLS_VIS_MODE_TEXTURE_MIP_USAGE	
-ToolsVisMode: TRANSMISSIVE_LIGHTING				
+ToolsVisMode: ALBEDO\t\t\t\t\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_AMBIENT\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_AMBIENT_OCCLUSION\t\t
+ToolsVisMode: BAKED_LIGHT_COUNT\t\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_DIFFUSE\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_LIGHT_CHART\t\t\t
+ToolsVisMode: BAKED_LIGHT_LIGHT_COLOR\t\t\t
+ToolsVisMode: BAKED_LIGHT_LIGHT_DIRECTION\t\t
+ToolsVisMode: BAKED_LIGHT_RESULT\t\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_SPECULAR\t\t\t\t
+ToolsVisMode: BAKED_LIGHT_SPECULAR_WITH_PROBES\t
+ToolsVisMode: BENT_GEOMETRIC_NORMAL_WS\t\t\t
+ToolsVisMode: BENT_NORMAL_WS\t\t\t\t\t\t
+ToolsVisMode: CUBEMAP_REFLECTIONS\t\t\t\t
+ToolsVisMode: CURVATURE\t\t\t\t\t\t\t
+ToolsVisMode: DIFFUSE_AMBIENT_OCCLUSION\t\t\t
+ToolsVisMode: DIFFUSE_LIGHTING\t\t\t\t\t
+ToolsVisMode: EYES/MOUTH MASK\t\t\t\t\t
+ToolsVisMode: FULLBRIGHT\t\t\t\t\t\t\t
+ToolsVisMode: GEOMETRIC_NORMAL_WS\t\t\t\t
+ToolsVisMode: GEOMETRIC_ROUGHNESS\t\t\t\t
+ToolsVisMode: INDEXED_LIGHT_COUNT\t\t\t\t
+ToolsVisMode: LIGHTING_COMPLEXITY\t\t\t\t
+ToolsVisMode: NORMAL_TS\t\t\t\t\t\t\t
+ToolsVisMode: NORMAL_WS\t\t\t\t\t\t\t
+ToolsVisMode: REFLECTANCE\t\t\t\t\t\t
+ToolsVisMode: REFLECTIVITY\t\t\t\t\t\t
+ToolsVisMode: ROUGHNESS\t\t\t\t\t\t\t
+ToolsVisMode: SHADER_ID_COLOR\t\t\t\t\t
+ToolsVisMode: SHOW_UVS\t\t\t\t\t\t\t
+ToolsVisMode: SPECULAR_AMBIENT_OCCLUSION\t\t\t
+ToolsVisMode: SPECULAR_LIGHTING\t\t\t\t\t
+ToolsVisMode: TANGENT_U_WS\t\t\t\t\t\t
+ToolsVisMode: TANGENT_V_WS\t\t\t\t\t\t
+ToolsVisMode: TOOLS_VIS_MODE_TEXTURE_MIP_USAGE\t
+ToolsVisMode: TRANSMISSIVE_LIGHTING\t\t\t\t
 ToolsVisMode: UNKNOWN
-ToolsVisMode: WRINKLE							
+ToolsVisMode: WRINKLE\t\t\t\t\t\t\t
 Tools_Opaque
 Tools_PreTranslucent
 Tools_Translucent
@@ -1195,27 +866,11 @@ Translucent No-Wipe
 TranslucentDebugDraw
 TranslucentViewModel
 Two Bone
-UATAUAVAWH
 UNKNOWN
-USVWATAUAVAWH
-USVWAUAVH
-USVWAWH
-USWATI
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWAVAWH
 UVWQ8888
-UWATAUAWH
-UWATAWI
-UWAUAVAWI
-UWAUI
-UWAVH
-UWAWH
-Unsupported MSAA sample count for custom MSAA resolve
+Unsupported MSAA sample count for custom MSAA resolve\n
 Update PerViewConstantBufferVR_t (%s)
 Use compute shaders for bloom on Vulkan
 UserInfoChangeService_001
@@ -1254,11 +909,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VWATAVAWH
-VWAUAVAWH
-VWAVH
-VWAWH
-V]_E3
 V_GetFileExtension
 V_GetRtSupportFunctions
 V_IsAbsolutePath
@@ -1284,8 +934,6 @@ V_stricmp_fast
 V_tanf
 V_vsnprintfSize
 V_wcstoi64
-Valve0
-Valve1
 VertexPostProcess_t
 ViewModelForward
 ViewModelGBuffer
@@ -1308,18 +956,17 @@ VrWriteStencilMaskLeftEye
 VrWriteStencilMaskRightEye
 VrWriteSubviewStencilMaskLeftEye
 VrWriteSubviewStencilMaskRightEye
-WARNING: Trying to create a CRenderContextPtr without a valid context.
-WATAUAVAWH
-WAVAWH
+WARNING: Trying to create a CRenderContextPtr without a valid context.\n
 WakeAllConditionVariable
 Warning
-Warning:  %s = '%s' is infinite, clamping value.
+Warning:  %s = '%s' is infinite, clamping value.\n
 WaterBottomShading
 WaterSurface
 WaterSurfaceGBuffer
 WaterSurfaceGBuffer2
 WaterSurfaceStencil
 WeightList
+Wipe
 Wireframe Decal
 Wireframe Opaque
 Wireframe Translucent
@@ -1329,24 +976,10 @@ WorldRendererMgr001
 X360_DST16
 X360_DST24
 X360_DST24F
-YT$TL
-\$ ATAVAWH
-\$ Hi
-\$ Ic
-\$ UVWH
-\$ UWATH
-\$ WH
-\$(Hc|$ H
-\$(L#
-\$0L+
-\$0t	H
-\$8;>
-\$`E3
-\T$83
+\nCwf\r
 _V_strncpy
 _class
 _test_conversion_counter
-`.rdata
 ai_model_info
 allowstatic
 anchor_angles
@@ -1367,6 +1000,7 @@ bUpdate
 blendamount
 blockLOS
 body_type
+bone
 bone_name
 bone_names
 bonemerge
@@ -1375,6 +1009,7 @@ break_uniform_burst
 breakable_count
 breakable_model
 breakable_skin
+bt3V
 burst_randomize
 burst_scale
 c:\buildslave\hlvr_rel_win64\build\src\interfaces\interfaces.cpp
@@ -1437,7 +1072,6 @@ explosive_damage
 explosive_radius
 faceMergeAngle
 false
-ffffff
 fogAccumulation
 force
 frame
@@ -1447,19 +1081,14 @@ g_pMemAlloc
 game_class
 game_keys
 generic
+glow
 gravity
-hA^A\
 handindex
 headtype
 health
 health_override
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-iW!]4/
 ikdata
 ikrig
 intermediate_color_stereo_rt
@@ -1467,28 +1096,16 @@ intermediate_depth_stereo_rt
 invalid_parameter
 invert_orientation
 is_debris
-k HcKX;
-k0i0$
-k@_aH
-kJ2\w
-l$ 9Q
-l$ D9l$0|LH
-l$ VH
-l$ VWAVH
-l$ WH
-l$0H+
-l$0Hc
-l$8fD
-l$@E3
-l$XA+
 last_sniff
+lcQe
 length
 lockRotationAlpha
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
-m0k0$
+mXr4
 m_Bone
 m_ChainData
 m_Children
@@ -1647,6 +1264,7 @@ materialsystem2
 maxHullVertices
 maxVerticesPerHull
 max_angle
+mesh
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
 mesh_calculate_curvature_smooth_weight
@@ -1684,25 +1302,16 @@ modeldoc7
 modeldoc8
 modeldoc9
 multiplayer_break
-n4oiDYz
-nD$hH
-nL$\H
-nL$dL
-n_ E3
+n\f"pA3Q(
 nav_attribute_avoid
 nav_data
-nt$\A
 numsegments
-n|$`A
 origin_max_delta
 origin_relative
 outputColor
 outputDepth
 overlay
 overrideIntermediateColor
-p0n05
-p1f3q>
-pA_A^A]A\_^]
 parent_bone
 particle
 particles/
@@ -1781,6 +1390,7 @@ secondary
 sequence_name
 sequence_number
 shapeType
+size
 source_filename
 spawn_motion_disabled
 speed
@@ -1791,34 +1401,6 @@ stop_instantly
 stop_on_seq_change
 suppress
 surface_prop
-t K5D9l$TE
-t K5H
-t$ A;
-t$ AVH
-t$ UH
-t$ UWATAUAVH
-t$ WATAUAVAWH
-t$ WAVAWH
-t$ WH
-t$0D9t$@|LH
-t$8Ic
-t$@Hc
-t$XE3
-t$`Hc
-t$`I;
-t$pE3
-t*D8#t
-t.@8:t)
-t/D83t*
-t0@87t+
-t0D8;t+
-t9H9=
-t?Hc}
-tNfff
-tOD9l$\uHD9l$`uAE3
-tYfff
-t[HcT$h
-t]<-u
 test_angles_relative
 texcoord
 textures/dev/albedo_chart.vtex
@@ -1828,21 +1410,18 @@ textures/dev/ggx_integrate_brdf_lut_schlick.vtex
 textures/dev/reflectivity_scale.vtex
 texturescale
 tier0.dll
-tn8\$buhH
-trD8(tmH
+true
 turn_rate
-t}p}W
-u	@8=
-ukD9l$TudD9l$Xu]E
 uniform_burst
 use_additional_offset
-v0t08
 value
 vanmgrph
+vmdl
 vmdlkeys0
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -1912,29 +1491,7 @@ vr_warp
 vr_warp_debug
 vsnap
 vstdlib.dll
-vtexH
 width
-wn+:H
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcQ
-x0v0$
-xRHcQ
-x_^][
 yaw_end
 yaw_start
-z0x0:
 {YIN?
-|$ A;
-|$ ATAVAWH
-|$ AVH
-|$ UATAUAVAWH
-|$0Hc
-|$0Ic
-|$@Hcyp;
-|$P5<
-|$PA;^ u
-|$`Lc
-|$hA+
-~!A;~

@@ -1,28 +1,19 @@
-					
-						
-								
-																									
-	#jT$
-	D8r4
-	NAN encountered in element '%s' guid %s attribute '%s'!
-	You must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.
-	kE>fvw
                           
                 AAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZUPDATE_STRING_TOKEN_DATABASE
         %3d %3d %3d %3d %3d %3d %3d %3d
         %4u %4u %4u %4u %4u %4u %4u %4u
-    %u iterated blocks
-    %u unfinished blocks
+    %u iterated blocks\n
+    %u unfinished blocks\n
     Component %d: %dhx%dv q=%d
     Component %d: dc=%d ac=%d
     with %d x %d thumbnail image
-  Bad Fax Lines: %lu
-  Consecutive Bad Fax Lines: %lu
-  Fax DCS: %s
+  Bad Fax Lines: %lu\n
+  Consecutive Bad Fax Lines: %lu\n
+  Fax DCS: %s\n
   Fax Data:
-  Fax Receive Parameters: %08lx
-  Fax Receive Time: %lu secs
-  Fax SubAddress: %s
+  Fax Receive Parameters: %08lx\n
+  Fax Receive Time: %lu secs\n
+  Fax SubAddress: %s\n
   Group 3 Options:
   Group 4 Options:
   Predictor: 
@@ -30,76 +21,16 @@
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
- 'L>[
- (%lu = 0x%lx)
- (%u = 0x%x)
- * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"
- - pos
- - rot
+ (%lu = 0x%lx)\n
+ (%u = 0x%x)\n
+ * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"\n
  -testmode
- 0@P`p
- 9(X`
- 9D$pu/L
- ;_h|
- @SUATAUAWH
- @SUH
- A]A\_
- A]_[
- A]_^
- A]_^][
- A^A\_
- A^A]A\
- A^A][
- A^][
- A^^]
- A^_[
- A^_^
- A_A]A\
- A_A]A\][
- A_A]A\_^
- A_A]^
- A_A^A\
- A_A^A\^[
- A_A^A\^]
- A_A^A\_^
- A_A^A\_^][
- A_A^A]
- A_A^A]A\^
- A_A^A]A\_
- A_A^A]A\_^]
- A_A^A]_]
- A_A^A]_^
- A_A^]
- A_A^^
- A_A^_
- A_A^_^[
- A_A^_^]
- A_][
- A_^[
- A_^]
- A__[
- A__]
- A__^
  Base Class Array'
  Base Class Descriptor at (
  C>TQ
  Class Hierarchy Descriptor'
  Complete Object Locator'
- H3E H3E
- Hc1H
- HcD$
- HcD$\I
- HcD$hLcD$pI
- Hc\$`A
- HciHH
- Hcq 3
- Hcq83
- HcqX3
- Hcq|
- Hct$PM
- HcyH3
  LZWSetupDecode
- Lc	M
  ReadToken overflow
  Type Descriptor'
  [ %f %f %f %f  %f %f %f %f  %f %f %f %f  %f %f %f %f ]
@@ -108,43 +39,23 @@
  clean
  delete
  delete[]
- new[]
+ new
  receiver regenerated
- t:f;w
- t?D9
- tDE3
- tQD8c:u0M
  uncorrected errors
- vJH+
-!!!!!!
-!!!!!!!!
-!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!
-!,X< w
 !1AQaq
-!>6'Y
-!LcK@
-!T$(H!T$ 
-""""UUUU
-"%s" 
-"%s" "
-"%s" "%.10f"
-"%s" "%d"
-"%s" "%f"
-"%s" "%s"
-"%s" "%s" 
-"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"
-"%s" "[ %f %f %f %f ]"
-"%s" "[ %f %f %f ]"
-"%s" "[ %f %f ]"
-"%s" "{ %d %d %d }"
+!AxU
+"%s" "%.10f"\n
+"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"\n
+"%s" "[ %f %f %f %f ]"\n
+"%s" "[ %f %f %f ]"\n
+"%s" "[ %f %f ]"\n
+"%s" "{ %d %d %d }"\n
 "%s": Bad mode
 "%s": Information lost writing value (%g) as (unsigned) RATIONAL
 "2BRbr
-"ActBusy.txt"
+"ActBusy.txt"\n
 "Predictor" value %d not supported
-"Proxies"
+"Proxies"\n
 "channels" attribute not found in the header.
 "compression" attribute not found in the header.
 "dataWindow" attribute not found in the header or invalid.
@@ -152,11 +63,10 @@
 "e?<<<<<<l?
 "id" "elementid" 
 "lineOrder" attribute not found in the header.
-"pA3Q
 "pixelAspectRatio" attribute not found in the header.
 "screenWindowCenter" attribute not found in the header.
 "screenWindowWidth" attribute not found in the header.
-# of channels is zero.
+# of channels is zero.\n
 #3CScs
 #bML"
 #base
@@ -167,40 +77,41 @@ $4DTdt
 $Ib?s
 $prefix_attribute$
 $prefix_element$
-%-40s	%6d	%9d		%5.2f
+%-40s\t%6d\t%9d\t\t%5.2f
 %.04f
 %.100s: Can not read TIFF directory
-%05d,     0x%p,     %5d,      '%s'
+%01d
+%02d
+%03d
+%04d
+%05d
+%05d,     0x%p,     %5d,      '%s'\n
+%06d
+%1t7
 %5EUeu
-%GoU?*
-%d %d %d
 %d %d %d %d
-%d,%d
-%d,%d,%d
 %d,%d,%d,%d
 %d_%lld_%x.dmx
 %d_%lld_%x_in.dmx
-%f %f
-%f %f %f
 %f %f %f %f
 %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
 %i %i %i %i
 %ld%c
+%lld
+%llu
+%llx
 %lu: Row out of range, max %lu
 %lu: Sample out of range, max %lu
 %s %s decoding is not implemented
 %s %s encoding is not implemented
 %s (%s -> %s)
 %s (%s) = remove( pos %i, count %i )
-%s - %s
 %s channel
 %s compression support is not configured
-%s encoding %s %d format %s %d %s
-%s(%d) : %s
-%s(%s)
+%s encoding %s %d format %s %d %s\n
+%s(%d) : %s\n
 %s(%s) = %s
 %s2-d encoding
-%s: %s
 %s: %s at line %u of %s %u (got %u, expected %u)
 %s: Bad code word at line %u of %s %u (x %u)
 %s: Bad field type %d for "%s"
@@ -213,7 +124,7 @@ $prefix_element$
 %s: Cannot modify tag "%s" while writing
 %s: Data buffer too small to hold strip %lu
 %s: Decoding error at scanline %d, %s
-%s: Element uses unknown element type %s
+%s: Element uses unknown element type %s\n
 %s: Encoder error: %s
 %s: Error writing SubIFD directory link
 %s: Failed to allocate space for list of custom values
@@ -246,257 +157,61 @@ $prefix_element$
 %s: cannot handle zero strip size
 %s: cannot handle zero tile size
 %s: invalid TIFF directory; tags are not sorted in ascending order
-%s: string format requested %d chars
+%s: string format requested %d chars\n
 %s: unknown field with tag %d (0x%x) encountered
 %s: wrong data type %d for "%s"; tag ignored
 %s: zlib error: %s
-%s:%s
 %sEOL padding
 %s\%s%i.txt
 %suncompressed data
-%u (0x%x)
 &6FVfv
 &?PPPPPPP?
-&D;j0u
-&YA1D
-&YA1E2
-&YA1H
-&YA1I
-&YA1L
+&Sgw
 '7GWgw
-'D8l$@
 ( 8PX
-(%d,%d
-(%d,%d,%d
 (%d,%d,%d,%d
 ('8PW
-(*%s*), 
 (8HXhx
-(A]A\
-(A]A\^]
-(A^A\
-(A^A]_[H
-(A^A]_^
-(A^^][
-(A_A]][
-(A_A^
-(A_A^A][
-(A_A^_[
-(A_A^_^][
-(D$ A
-(D$ H
-(D$ f
-(D$0A
-(D$0D
-(D$0H
-(D$0z	u
-(D$@D
-(D$PD
-(D$`H
-(DigiCert SHA2 Assured ID Code Signing CA
-(DigiCert SHA2 Assured ID Code Signing CA0
-(L$ D
-(L$ H
-(L$0D
-(L$@I
-(L$PD
-(L$`D
-(L$pD
-(T$ D
-(T$ H
-(T$0H
-(T$@D
-(T$PD
-(T$PI
-(T$`D
-(T$`L
-(T$pD
-(T?j?Y
-(\$0D
-(\$@D
-(\$PD
-(\$`D
-(\$pH
-(^n]k
-(d$ D
-(d$ L
-(d$0D
-(d$@D
-(d$PD
-(d$pL
-(l$ D
-(l$0D
-(l$@D
 (null)
-(o:R	
-(t$ D
-(t$ H
-(t$ L
-(t$0@
-(t$0D
-(t$0H
-(t$0L
-(t$@H
-(t$@L
-(t$PE
-(t$PH
-(t$PL
-(t$Ps
-(t$`A
-(t$`H
-(t$`L
-(t$pD
-(t$pH
-(|$ D
-(|$ H
-(|$ L
-(|$ s.L
-(|$0D
-(|$0H
-(|$0I
-(|$@D
-(|$@E
-(|$@H
-(|$@I
-(|$PD
-(|$PH
-(|$`H
-(|$pL
-)4$H;
-)9C }
 )9IYiy
-)<$E3
-)>6{1n
-)D$ L
-)D$0A
-)D$0D
-)D$0H
-)D$0L
-)D$@D
-)D$PD
-)D$PE
-)D$PH
-)D$pD
-)L$ D
-)L$0D
-)L$0E
-)L$@D
-)L$@I9vxu"H
-)L$PE
-)L$`D
-)L$pD
-)T$ D
-)T$0Hc
-)T$pD
-)\$`vFD
-)\ZEo^m/
-)d$PE
-)d$`D
-)d$pD
-)l$0D
-)l$0z
-)l$@D
-)l$PD
-)l$`D
-)t$ 9A
-)t$ A
-)t$ D
-)t$ E3
-)t$ H
-)t$ H+
-)t$ I
-)t$ t
-)t$ u
-)t$0A
-)t$0C
-)t$0D
-)t$0E
-)t$0H
-)t$0L
-)t$@%
-)t$@A
-)t$@H
-)t$@L
-)t$@f
-)t$PA
-)t$PD
-)t$PH
-)t$PL
-)t$`A
-)t$`H
-)t$p3
-)t$pE
-)t$pH
-)|$ D
-)|$ t
-)|$0H
-)|$@L
-)|$PD
-)|$`D
-)|$`E
-)|$pD
-)|B?d!
-*** Converter error - element "%s" already has a non-int attribute "%s"!
-*** Element "%s" has attribute "%s" with an unexpected type!
-*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!
-*** Log "%s" is missing attribute "%s"!
-*** Problem in converter encountered!
-*** Problem in file encountered!
-*** Setting new attribute "%s" to 0
-*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!
-*** TimeFrame "%s" is missing attribute "%s"!
-*** Unable to find or add attribute "%s" to element "%s"!
-*** line %d: Bad command "%s"!
-*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!
-*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!
-*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!
-*** line error: incompatible packmode change when %d sequences already defined!
-*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!
+)yIx
+*** Converter error - element "%s" already has a non-int attribute "%s"!\n
+*** Element "%s" has attribute "%s" with an unexpected type!\n
+*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!\n
+*** Log "%s" is missing attribute "%s"!\n
+*** Problem in converter encountered!\n
+*** Problem in file encountered!\n
+*** Setting new attribute "%s" to 0\n
+*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!\n
+*** TimeFrame "%s" is missing attribute "%s"!\n
+*** Unable to find or add attribute "%s" to element "%s"!\n
+*** line %d: Bad command "%s"!\n
+*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!\n
+*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!\n
+*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!\n
+*** line error: incompatible packmode change when %d sequences already defined!\n
+*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!\n
+*5KS
 *:JZjz
 *StO9>T
-+;K[k{
-+C$Hc
-+D$ fE
-+F$Hc
-+J$D8M@
-+L$0A
-+M<7>
-+T$4E
-+f)>0'
-+h->|
-+|$XD
++inf
 , channels = 
 , height = 
-,.D;(
-,/<-w
-,/D;(
-,/D;)
-,/D;*
-,0<	w
-,7D;(
-,7D;)
-,<L\l|
 ,HR>O
-,I<%w
-,Ic|$
-,LcD$HH
-,t0D9J0v*L
-,|%)v
----- dmxconvert cmdline ----
----- dmxconvert output ----
----------------------------
--=M]m}
+---- dmxconvert cmdline ----\n
+---- dmxconvert output ----\n
+---------------------------\n
 -BH>t
+-avx
+-inf
 -noassert
+-rgb
 -rgba
 -sse2
 -sse3
 -sse4
--uNI;
-..om?
 .00cfg
-.>N^n~
-.>PJ;I:qE>
+.>\rfJBGo
 .?AU?$_InitialTaskHandle@XV<lambda_5a9ef80d79df7873994019ff15dceae5>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_60c5de84e69e46aa92419d47e2f3ad51>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
 .?AU?$_InitialTaskHandle@XV<lambda_85226a1ade6d27c19b16702c44b1a394>@@U_TypeSelectorNoAsync@details@Concurrency@@@?$task@E@Concurrency@@
@@ -1044,114 +759,73 @@ $prefix_element$
 .CRT$XPZ
 .CRT$XTA
 .CRT$XTZ
-.D$ z)u'
-.D$ z7u5
-.D$$z
-.D$$z)u'
-.D$(z
-.D$,z
-.D$Hz
-.D$Lz
-.D$Tz
-.D$Xz
+.bss
 .data
 .data$r
 .edata
+.exr
 .gfids$x
 .gfids$y
-.http://www.digicert.com/ssl-cps-repository.htm0
-.i?0@I
 .idata$2
 .idata$3
 .idata$4
 .idata$5
 .idata$6
+.jpg
 .pdata
+.pfm
+.png
+.psd
 .rdata
 .rdata$T
 .rdata$r
 .rdata$zzzdbg
-.reloc
 .rtc$IAA
 .rtc$IZZ
 .rtc$TAA
 .rtc$TZZ
-.text
 .text$di
 .text$mn
 .text$mn$00
 .text$x
 .text$yd
+.tga
+.tif
+.tls
 .tls$
 .tls$ZZZ
 .vmat
 .xJ>Hf
 .xdata
 .xdata$x
-// 						"BA_INT_AMBUSH"		someone please define this - I have no idea what it does
-// 						"BA_INT_COMBAT"		break out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached
-// 						"BA_INT_DANGER"		break out of this anim only if threatened
-// 						"BA_INT_NONE"		break out only when time runs out. No external influence will break me out.
-// 						"BA_INT_PLAYER"		break out of this anim if I can see the player, or I'm threatened
-// 	"busy_anim"			"Activity Name".
-// 	"busy_sequence"		"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.
-// 	"entry_anim"		"Activity Name"
-// 	"entry_sequence"	"Sequence Name". If specified, this is used over the entry anim.
-// 	"exit_anim"			"Activity Name"
-// 	"exit_sequence"		"Sequence Name". If specified, this is used over the exit anim.
-// 	"interrupts"		One of:
-// 	"max_time"			"Maximum time to spend in this busy anim"	0 = only stop when interrupted by external event
-// 	"min_time"			"Minimum time to spend in this busy anim"
-// "act busy name"		This is the name that a mapmaker must specify in the hint node.
+// "act busy name"\t\tThis is the name that a mapmaker must specify in the hint node.\n
+// \t"busy_anim"\t\t\t"Activity Name".\n
+// \t"busy_sequence"\t\t"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.\n
+// \t"entry_anim"\t\t"Activity Name"\n
+// \t"entry_sequence"\t"Sequence Name". If specified, this is used over the entry anim.\n
+// \t"exit_anim"\t\t\t"Activity Name"\n
+// \t"exit_sequence"\t\t"Sequence Name". If specified, this is used over the exit anim.\n
+// \t"interrupts"\t\tOne of:\n
+// \t"max_time"\t\t\t"Maximum time to spend in this busy anim"\t0 = only stop when interrupted by external event\n
+// \t"min_time"\t\t\t"Minimum time to spend in this busy anim"\n
+// \t\t\t\t\t\t"BA_INT_AMBUSH"\t\tsomeone please define this - I have no idea what it does\n
+// \t\t\t\t\t\t"BA_INT_COMBAT"\t\tbreak out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached\n
+// \t\t\t\t\t\t"BA_INT_DANGER"\t\tbreak out of this anim only if threatened\n
+// \t\t\t\t\t\t"BA_INT_NONE"\t\tbreak out only when time runs out. No external influence will break me out.\n
+// \t\t\t\t\t\t"BA_INT_PLAYER"\t\tbreak out of this anim if I can see the player, or I'm threatened\n
 /2GG>!B
-/=$!6
-/>58d%
-/?O_o
-/F4v2H
+/P8i
 /TF<)VGy#WH
-/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
-/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+/yQA
 0 0 0
+0000
 00003333
 0123456789ABCDEF
 0123456789ABCDEFundefined
 0123456789abcdefghijklmnopqrstuvwxyz
-061110000000Z
-0><[cZUg^>
-0A\_]
-0A]^[
-0A]^]
-0A]_[
-0A^A\]
-0A^A\_
-0A^A][
-0A^A]]
-0A^^[
-0A^_[
-0A^_^
-0A_A]A\_]
-0A_A]_][
-0A_A^A\
-0A_A^A\_^
-0A_A^A\_^][
-0A_A^A]
-0A_A^A]A\]
-0A_A^A]A\_
-0A_A^A]A\_^[
-0A_A^A]A\_^]
-0A_A^A]_^
-0A_A^A]_^][
-0A_A^]
-0A_A^^
-0A_A^_
-0A_A^_^]
-0A__[
-0A__]
-0Hc9H
+0E>X
 0X8b?~
-0_^[H
 0iN>/
-0v0b1
 0x%llx
 1#IND
 1#INF
@@ -1161,242 +835,74 @@ $prefix_element$
 1.2.7
 1.5.13
 1.5.2
+11Y@
 123456789
-131022120000Z
-141022000000Z
 16-byte data pool
-181004000000Z
-1<.	/>:
 1A26b
-1D;Ew|
 1DBlend
 1eaB@
 1wsHp
-200327174055Z0#
-211007120000Z0M1
-211110000000Z0b1
-241022000000Z0G1
-281022120000Z0r1
 2DARRAY
-2I9FPt
-2http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl08
-2http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl0w
-311110000000Z0e1
-33333333H+
+2\vpH
+3 FB
+3333
+37>k
 3>N;kU
 3>fvw
-3A8A#
+3?tr
 4-byte data pool
-4HA;x
-4ND;{
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0:
-4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0
-4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
-5@8|$"t.9|
-5http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt0
+51>W
+52F*
+5\fE5
 5sfm_v8
 64 283 0
+6NK>
+6\fXO>\ntA
 700PP
 700WP
-7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+7>I0
+7?GX
+7~8A
+7~xh
+8&Kx
 8-byte data pool
-80tWD
-8A^A\][
-8A^A]_^][
-8A^^][
-8A^_^[
-8A_A]A\[
-8A_A^
-8A_A^A]A\^]
-8A_A^A]A\_^][
-8A_A^^[
-8A_A^_[
-8A_A^_]
-8D$ u+I
 8DmeElement
-8GbthH
-8L$`t
-8L$tH
-8Y0t]
-8\$`t
-8\$pt
-8\$xt
-8_^][
 8b  16-May-2010
-8fF9|
 8ke?;
-91t0H
-91~/E3
-98~03
-99C }
-99~-H
-9;~<ff
+9>70
 9>powf
-9C |K
-9D$ u
-9D$(}y
-9D$`u
-9D$x~
-9G$vAD
-9GXu2Lc
-9GXuCHc
-9Gdr:
-9HXu*H
-9P$u.9
-9Sxv'L
-9W8~j
-9WP~GM
-9WP~HM
-9WP~KM
-9X@u4
-9YD~/3
-9Yh~WH
-9^<~.
-9^<~0f
-9^<~1
-9^<~2
-9^<~3
-9^<~5
-9_8~h
-9_<~DH
-9_<~HH
-9_<~LH
-9_<~fH
-9_D~/3
-9_D~H3
-9_P~OE3
-9_p~$
-9i<~O
-9i@~VH
-9k8~FH
-9k8~QH
-9k8~_H
-9k@~dH
-9o@~^H
-9oP~2E3
-9oP~3E3
-9q|~2H
-9s@~DH
-9s@~HH
-9s@~IH
-9s@~JH
-9s@~Xfff
-9s@~bH
-9sHva
-9sLv|
-9t	A;
-9t$@~7H
-9t$P~58
-9w@~IH
-9w@~QH
-9wP~IL
-9y8~YM
-9y@~ZL
-9{\~9H
-9|$`u
-9}@~HH
-9~@~3
-9~@~7
-9~@~;
-9~P~3
-9~P~7
-9~P~;
-:#u0A
-:>)*	v
-:>t6k'
-:vsb"
-:~^Qo
-;.u1L
-;A ~W
-;B$vUH
-;B$vvI
-;C ~M
-;Ct~EH
-;Ct~MH
-;Ct~ZH
-;Ct~bH
-;Cxr(H
-;CxsR
-;D$0u
-;D$@@
-;D$`@
-;G$u5
-;H9>&X
-;L$0u
-;SL|3
-;Vl}fD
-;\$ |
-;\$@|
-;\$p|
-;l$0|
-;l$hr
-;t$Xu 
-;|$ |
-;|$@|
-<	u"H
-<	vN<
-<	vO<
-<	w	@
-< t;<	t7
-< tH<	tD<
+9a&g
+;1cb
 <!-- DMXVersion
-<!-- dmx
-<"uBD
-<$E;Q
-<0|C<9
-<;CL}_Ic
-<>#n2
-<DuBfff
 <NULL>
-<atc<r
 <deferred>
-<dt <it
-<dtk<itg<uu
-<ft_<lu
-<htr<jtb<lt6<tt&<wt
 <no failure reason set>
 <null>
 <sqrt
 <unconnected>
-<uuNI
-<xuCA
-<}wWH
-======
-=SPB8
+=1cb
+=87M
+=cQ6
+=e2m
 =imb;D
->CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
->FixupResourceName: Illegal full path passed in ("%s")!
->ffffff
+>CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!\n
+>FixupResourceName: Illegal full path passed in ("%s")!\n
+>cQ6
 >jtm}S
 ?!5WOo
-?*u8H
-?*u:H
-?+>^m
 ?49HoKC
-?5zlO
 ?7zQ6$
-?7{KV
+?7{KV\nU
 ?8bunz8
-?:kP<
-?<!t	3
-?<!u*H
-?<!uEH
-?<!uQH
-?<"t>H
-?<%u	H
 ?@En[vP
 ?ComposeFileName@CBufferString@@QEAAPEBDPEBD0D@Z
 ?ConColorMsg@@YAXAEBVColor@@PEBDZZ
 ?ConMsg@@YAXPEBDZZ
-?Cu0f9w
 ?DevMsg@@YAXPEBDZZ
-?E=$% B
 ?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
 ?ExitScope@CVProfile@@QEAAXXZ
 ?FixSlashes@CBufferString@@QEAAPEBDD@Z
 ?FixupPathName@CBufferString@@QEAAPEBDXZ
-?H33H
 ?Insert@CBufferString@@QEAAPEBDHPEBDH_N@Z
 ?Lock@CThreadFastMutex@@AECAXPEBDHII@Z
 ?Lock@CThreadMutex@@QEAAXPEBDH@Z
@@ -1404,7 +910,6 @@ $prefix_element$
 ?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@PEBDZZ
 ?Physics
 ?Purge@CBufferString@@QEAAXH@Z
-?QY^&
 ?R0I?
 ?RemoveAt@CBufferString@@QEAAPEBDHH@Z
 ?RemoveDotSlashes@CBufferString@@QEAAPEBDD@Z
@@ -1412,7 +917,6 @@ $prefix_element$
 ?Set@CThreadMultiWaitEvent@@QEAAXXZ
 ?SetExtension@CBufferString@@QEAAPEBDPEBD@Z
 ?ShortenPath@CBufferString@@QEAAPEBD_N@Z
-?TY,>5
 ?ToLowerFast@CBufferString@@QEAAXH@Z
 ?UUUUUU
 ?Unlock@CThreadMutex@@QEAAXPEBDH@Z
@@ -1420,200 +924,16 @@ $prefix_element$
 ?V_stristr_fast@@YAPEBDPEBD0@Z
 ?f`Y4
 ?kxG2)
+?lZE
+?qBJ
+?rAj
 ?sqrtf
-?u='@
-?vhE3
-?{Q}<
-@%.10f
-@%w	D
-@(A+@4;
-@.data
-@.gfids
-@.tls
-@09D$0
-@8,2u
-@80t9H
-@80u#H
-@81u/H
-@8l$8t
-@8x tF@8
-@8x u
-@8y:t
-@8{Xu
-@8{Yt
-@8{Yu
-@8{ht
-@8{pt
-@8{qt
-@8{rH
-@8|$Pt
-@8|$PtN
-@8|$PtP
-@8|$^t
-@8|$ju2H
-@8|$ku	H
-@;k@|
-@>%>b
-@@H9(t%I
-@A\^]
-@A]^[
-@A]_^][
-@A^A\]
-@A^A\^
-@A^A\_^]
-@A^A]A\
-@A^A]A\^]
-@A^A]A\_^
-@A^A]]
-@A^_[
-@A^_^
-@A^_^][
-@A_A\_
-@A_A]^][
-@A_A^A\
-@A_A^A\_^
-@A_A^A\_^[]
-@A_A^A\_^][
-@A_A^A]
-@A_A^A]A\]
-@A_A^A]A\_
-@A_A^A]A\_H
-@A_A^A]A\_^]
-@A_A^[
-@A_A^]
-@A_A^_
-@A_A^_^]
-@A__^
+?ysB
 @CDependencyGraph::Reset
-@HcC(H
 @Integer overflow in %s
-@Lc:E3
-@SAUAVAWH
-@SAUAVH
-@SAUH
-@SAVAWH
-@SAVH
-@SAWH
-@SUATAUH
-@SUATAVH
-@SUAUAWH
-@SUAUH
-@SUAVH
-@SUAWH
-@SUVAUAWH
-@SUVAVH
-@SUVH
-@SUVWATAUAVAWH
-@SUVWATAVAWH
-@SUVWAUH
-@SUVWAVAWH
-@SUVWH
-@SUWH
-@SVATAUAVH
-@SVATAVAWH
-@SVAUH
-@SVAVAWH
-@SVAVH
-@SVAWH
-@SVWATAUAVAWH
-@SVWATAVH
-@SVWAVAWH
-@SVWAVH
-@SVWAWH
-@SVWH
-@SWATAVH
-@SWAUAVH
-@SWAUH
-@SWAVAWH
-@SWAVH
-@SWAWH
-@UATAUAVAWH
-@UATAVH
-@UATAWH
-@UAUAWH
-@UAUH
-@UAV3
-@UAVAWH
-@UAVH
-@UAWH
-@USAUH
-@USAVH
-@USVWATAUAVAWH
-@USVWATAVAWH
-@USVWATAVH
-@USVWAUH
-@USVWAVH
-@USVWH
-@USWATAUAWH
-@USWATAVH
-@USWAVH
-@USWH
-@UVATAUH
-@UVATAVAW
-@UVAUH
-@UVAVH
-@UVWATAUAVAWH
-@UVWH
-@UWATAVH
-@UWATH
-@UWAWH
-@VATAVH
-@VWATAUAVH
-@VWATAVAWH
-@VWAVH
-@WATAUAVAWH
-@WATAVH
-@WAVAWH
-@WAWH
-@X9CXu
 @^8U)zj
-@b;zO]
-@t#fA
 A!;I2
-A$+A,t[3
-A(9B(D
-A)|$HA
-A+F$H
-A+F$Hc
-A+G$Hc
-A+U$H
-A+n H
-A,A9A(v&L
-A,fA;
-A,u+H
-A03>A|
-A0H9P
-A0H9i8u
-A81t@@8r
-A84.u
-A86taH
-A8H	P(
-A8Zxt
-A9D$|s[
-A9FHt
-A9FHtQI
-A9L$H
-A9U8tCMc]<McE@Lc
-A9Z<~bL
-A:(uiI
-A;6}#I
-A;@X}
-A;@`}
-A;A`}
-A;BX}
-A;H$s
-A;H$v}H
-A;L$0v#A
-A;Q`}
-A;RX}
-A;Z<|
-A;}(u
-A;~(|
-A>l$/
 A>pP&
-A@H98t%H
-AA,A$
-AA<Fu
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ABGR8888
 AE_ACTION_SET_TURN_RATE_SCALE
@@ -1650,94 +970,16 @@ AE_ZOMBIE_TOGGLE_HEAD
 AIWalkable
 AK>(v
 ALIGN_TYPE is wrong, please fix
-AMAgu
 ANIMATION_TYPE_FIT_LIFETIME
 ANIMATION_TYPE_FIXED_RATE
-APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 ARGB8888
-ATAUAVH
-ATAUAWH
-ATAUH
-ATAVAWH
-ATAVH
-ATAWH
 ATI1N
 ATI2N
 ATI_DST16
 ATI_DST24
 ATI_TC_CalculateBufferSize_Wrapper
 ATI_TC_ConvertTexture_Wrapper
-AUAVAWH
-AUAWH
-AVAWH
-AX9CXu
-AX9GXu
-A\_^[
-A]A\[
-A]A\]
-A]A\][
-A]_^[]
-A]_^]
-A^A\]
-A^A\^]
-A^A\_[]
-A^A\_]
-A^A\_^[
-A^A\_^[]
-A^A\_^]
-A^A]A\_
-A^A]A\_]
-A^A]A\_][
-A^A]A\_^[
-A^A]A\_^[]
-A^A]]
-A^A]^]
-A^A]_[]
-A^A]_^[]
-A^^][
-A^_^[
-A^_^[]
-A^_^]
-A^_^][
-A_A\_[
-A_A\_^]
-A_A]A\[
-A_A]A\[]
-A_A]A\^
-A_A]A\_^
-A_A]]
-A_A]^
-A_A]^]
-A_A^A\
-A_A^A\]
-A_A^A\^]
-A_A^A\_]
-A_A^A\_^
-A_A^A\_^[]
-A_A^A\_^][
-A_A^A]
-A_A^A]A\
-A_A^A]A\[]
-A_A^A]A\]
-A_A^A]A\_
-A_A^A]A\_^[]
-A_A^A]A\_^]
-A_A^A]A\_^][
-A_A^A]_]
-A_A^A]_^
-A_A^A]_^[]
-A_A^A]_^]
-A_A^]
-A_A^^
-A_A^^[]
-A_A^_
-A_A^_[]
-A_A^_]
-A_A^_^[
-A_A^_^]
-A_A^_^][
-A__^[
-A`D9L8
 AbsolutePoseControl
 Access violation - no RTTI data!
 AcquireSRWLockExclusive
@@ -1745,17 +987,17 @@ ActBusy Script File
 ActBusyList
 ActiveArea
 AddLayer
-AddUndoElement '%s'
+AddUndoElement '%s'\n
 Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
 AdobeDeflate
 Ahd=<c]^7if1Rjg
-AjfD;
 Align
 Alpha Fade In Random
 Alpha Fade Out Random
 Alpha Fade and Decay
 Alpha Random
 AnalogBalance
+Anim
 AnimAddLayer
 AnimAlign
 AnimAutoLayer
@@ -1790,6 +1032,7 @@ Application transferred too few scanlines
 Application transferred too many scanlines
 April
 Arithmetic table 0x%02x was not defined
+Arms
 Artist
 AsShotICCProfile
 AsShotNeutral
@@ -1802,28 +1045,23 @@ AssetSystem001
 AssetSystemTest001
 At marker 0x%02x, recovery action %d
 Attachments
-Attempted to add different size/format images to the image array!
-Attempted to add two format updaters with the same file format (%s)!
-Attempted to add two legacy updaters with the same file format (%s)!
-Attempted to add two serializers with the same file encoding (%s)!
-Attempted to read an attribute ("%s") of an inappropriate type %s!
-Attempted to read an attribute ("%s") of an inappropriate type!
-Attempted to read an attribute ("%s") of unknown type %s!
-Attempted to serialize an unsupported shader parameter type %s (%s)
-Attempting to set %s when there is no current sequence!
-Attempting to set name when there is no current sequence!
-AuFHc
+Attempted to add different size/format images to the image array!\n
+Attempted to add two format updaters with the same file format (%s)!\n
+Attempted to add two legacy updaters with the same file format (%s)!\n
+Attempted to add two serializers with the same file encoding (%s)!\n
+Attempted to read an attribute ("%s") of an inappropriate type %s!\n
+Attempted to read an attribute ("%s") of an inappropriate type!\n
+Attempted to read an attribute ("%s") of unknown type %s!\n
+Attempted to serialize an unsupported shader parameter type %s (%s)\n
+Attempting to set %s when there is no current sequence!\n
+Attempting to set name when there is no current sequence!\n
 August
-AuthE
 AutoLayer
-B channel not found!
-B(I9A(
+B channel not found!\n
 B.f?y
-B0E8XAt
-B4u"A
-B8|09
 BA_INT_NONE
-BC?>6t9^	c:>
+BC6H
+BC?>6t9^\tc:>
 BF>^G
 BGR565
 BGR888
@@ -1836,7 +1074,6 @@ BGRA8888_LINEAR
 BGRX5551
 BGRX8888
 BGRX8888_LINEAR
-BGRsu
 BKbhTb~XBK!;
 Backing store not supported
 Bad dynamic_cast!
@@ -1851,14 +1088,12 @@ BaselineExposure
 BaselineNoise
 BaselineSharpness
 BayerGreenSplit
-Bellevue1
 BenchmarkService001
 BentNormalData
 BestQualityScale
-Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
 Binary
 Binary (deterministic sequential ids)
-Binary: Element uses unknown element type %s
+Binary: Element uses unknown element type %s\n
 BinaryProperties_GetValue
 Bits/sample must be 1 for Group 3/4 encoding/decoding
 BitsPerSample
@@ -1871,6 +1106,7 @@ BlendLayer
 BlendLayerBase
 BlendLayerPoseParam
 BlendList
+Body
 BodyGroup
 BodyGroupChoice
 Bogus DAC index %d
@@ -1885,40 +1121,15 @@ Bogus marker length
 Bogus message code %d
 Bogus sampling factors
 Bogus virtual array access
+Bone
 BreakCommand
 BreakPieceEmbedded
 BreakPieceExternal
 BrowInV
 Buffer error in compressed datastream
 Buffer passed to JPEG library is too small
-C$u	H
-C(9C u&
-C(D;C
-C(L9p
-C,9C$u
-C,;C(~6H
-C-yh/
-C0;C,s
-C0@u3H
-C0D9p<t
-C0D9p<tN
-C0H9C(r
-C0H9K8u
-C0HcF
-C0L9p
-C0L9p 
-C0L9p0
-C4;C,A
-C4D+@ H
-C5R?	
-C8<(u
-C8D9(
-C8H!o
-C940t%G
-C9|)$u?C
-C@H90t%H
-C@L90t%H
-CA< t(<#t
+C-Yn
+C5R?\t
 CAnimMotorList
 CAnimMovementManager
 CCIR601 sampling not implemented yet
@@ -1926,30 +1137,29 @@ CCITT Group 3
 CCITT Group 4
 CCITT RLE
 CCITT RLE/W
-CD$XD
-CDataModel:  %i elements left in memory!!!
-CDataModel: Invalid DMX encoding hint '%s' for file %s
-CDataModel: Unable to determine DMX encoding for file %s
-CDataModel: Unable to generate full path for file %s
-CDataModel: Unable to open file "%s"
-CDataModel: Unable to open file %s
-CDataModel: Unable to open file '%s'
-CDataModel: Unable to overwrite readonly file %s
-CDataModel::DisplayMemoryStats with invalid handle %u
-CDataModel::FindAndDeleteOrphanedElements() took %llums 
+CDataModel:  %i elements left in memory!!!\n
+CDataModel: Invalid DMX encoding hint '%s' for file %s\n
+CDataModel: Unable to determine DMX encoding for file %s\n
+CDataModel: Unable to generate full path for file %s\n
+CDataModel: Unable to open file "%s"\n
+CDataModel: Unable to open file %s\n
+CDataModel: Unable to open file '%s'\n
+CDataModel: Unable to overwrite readonly file %s\n
+CDataModel::DisplayMemoryStats with invalid handle %u\n
+CDataModel::FindAndDeleteOrphanedElements() took %llums \n
 CDependencyGraph::Cleanup
 CDependencyGraph::FindAttrNode
 CDmAttribute pool
 CDmElement CUtlMemoryPool
 CDmExtraVertexStream
-CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'
-CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'
-CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'
-CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'
-CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!
-CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'
-CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...
+CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'\n
+CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'\n
+CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'\n
+CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!\n
+CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'\n
+CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...\n
 CDmeAmalgamatedTexture
 CDmeAmalgamatedTexture CUtlMemoryPool
 CDmeDotaTileGrid
@@ -1981,7 +1191,6 @@ CGlobalConfigValueRegistry::HookUpConfigValue
 CHammerMesh
 CImagePlaneNode
 CL:>8
-CLD;CP|
 CManifestInstance
 CMapCordon
 CMapDotaTileGrid
@@ -2010,16 +1219,17 @@ CONTENT
 COrderedConstructor_Create<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,class CResolveOrderedFunc<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>,&void __cdecl _ORDERED_INIT_SHUTDOWN_WRAPPER_RESOLVEFUNC<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)>(class COrderedConstructor_DependencyManagement<class COrderedInitShutdownRefWrapper<&void __cdecl EarlyInit_Common(bool,class COrderedConstructor_DependencyManagement<void> &)> > &)>,0>::AddRef
 CParticleSystemDefinition
 CRC error
-CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!\n
 CSchemaRegistration::RegisterAllModuleData
 CSolveIKChainAnimNode
-CTSListBase: Misaligned list
+CTSListBase: Misaligned list\n
 CTSListBase::CTSListBase
 CTSQueue corruption
-CTSQueue: Misaligned queue
+CTSQueue: Misaligned queue\n
 CTSQueue<class CFunctor *,0>::CTSQueue
 CTSQueue<class CFunctor *,0>::Push
 CTerrainSelection
+CUBE
 CUBEARRAY
 CUndoArrayAttributeSetMultipleValueElement
 CUndoArrayAttributeSetValueElement
@@ -2035,17 +1245,17 @@ CUndoDestroyElement
 CUndoManager::GetUndoDescInternal
 CUndoManager::Redo
 CUndoManager::Undo
-CUtlBlockMemory overflow!
+CUtlBlockMemory overflow!\n
 CUtlBlockMemory<struct UtlRBTreeNode_t<struct CDmElementSerializationDictionary::ElementInfo_t,int>,int>::ChangeSize
 CUtlBuffer::VaPrintf
-CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
-CUtlFixedMemory overflow!
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]\n
+CUtlFixedMemory overflow!\n
 CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> >::Grow
-CUtlLinkedList overflow! (exhausted index range)
-CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)\n
+CUtlLinkedList overflow! (exhausted memory allocator)\n
 CUtlLinkedList<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> > >::AllocInternal
 CUtlMemoryPoolBase::CUtlMemoryPoolBase
-CUtlRBTree overflow with %u elements!
+CUtlRBTree overflow with %u elements!\n
 CUtlRBTree<class CDmAttribute *,unsigned short,bool (__cdecl*)(class CDmAttribute * const &,class CDmAttribute * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmAttribute *,unsigned short>,unsigned short> >::NewNode
 CUtlRBTree<class CDmElement *,int,bool (__cdecl*)(class CDmElement * const &,class CDmElement * const &),class CUtlMemory<struct UtlRBTreeNode_t<class CDmElement *,int>,int> >::NewNode
 CUtlRBTree<class IDmeOperator *,unsigned short,bool (__cdecl*)(class IDmeOperator * const &,class IDmeOperator * const &),class CUtlMemory<struct UtlRBTreeNode_t<class IDmeOperator *,unsigned short>,unsigned short> >::NewNode
@@ -2057,11 +1267,10 @@ CUtlRBTree<struct CUtlMap<class CUtlSymbolLarge,struct DmMemoryInfo_t,unsigned s
 CUtlRBTree<struct CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::Node_t,int,class CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<enum DmElementHandle_t,enum DmElementHandle_t,int,bool (__cdecl*)(enum DmElementHandle_t const &,enum DmElementHandle_t const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<struct CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::Node_t,int,class CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CUtlSymbolLarge,int,bool (__cdecl*)(int const &,int const &)>::Node_t,int>,int> >::NewNode
 CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
-CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer\n
 CUtlString::FormatV
 CVisibilityMgr
 CWD>~3
-CXHc8H
 C_INIT_AddVectorToVector
 C_INIT_AgeNoise
 C_INIT_CreateFromCPs
@@ -2155,10 +1364,10 @@ CameraCalibration1
 CameraCalibration2
 CameraSerialNumber
 Can not read scanlines from a tiled image
-Can't find EnvMapBake rendering pipeline, falling back to tools
+Can't find EnvMapBake rendering pipeline, falling back to tools\n
 Can't set both read_data_fn and write_data_fn in the same structure
 Cannot handle different per-sample values for field "%s"
-Cannot load world!
+Cannot load world!\n
 Cannot quantize more than %d color components
 Cannot quantize to fewer than %d colors
 Cannot quantize to more than %d colors
@@ -2207,9 +1416,9 @@ Compression
 Compression algorithm does not support random access
 Compression scheme %u %s decoding is not implemented
 Compression scheme %u %s encoding is not implemented
-ConVar(%s) defined with infinite float value (%s)
-ConVarRef %s doesn't point to an existing ConVar
-Conditional Error: %s
+ConVar(%s) defined with infinite float value (%s)\n
+ConVarRef %s doesn't point to an existing ConVar\n
+Conditional Error: %s\n
 ConfigAttachedModel
 ConfigurationSystem_001
 ConnectInterfaces
@@ -2226,7 +1435,6 @@ Corrupt JPEG data: bad Huffman code
 Corrupt JPEG data: bad arithmetic code
 Corrupt JPEG data: found marker 0x%02x instead of RST%d
 Corrupt JPEG data: premature end of data segment
-Cp9Sxv(L
 Create In Hierarchy
 CreateEventExW
 CreateEventW
@@ -2244,288 +1452,23 @@ CreateTimerQueue
 CreateTimerQueueTimer
 CreateUmsCompletionList
 CreateUmsThreadContext
-Creating default cubemap at (%.1f, %.1f, %.1f) radius %f
+Creating default cubemap at (%.1f, %.1f, %.1f) radius %f\n
 Cull Random
 CurrentICCProfile
 CurrentPreProfileMatrix
-Cx9S8~'H
 CycleOverride
-D W?{W
-D#C|D
-D#G|D
-D#K|D
-D$ !>;
-D$ !\$$H
-D$ 3A
-D$ 9F
-D$ ;V
-D$ A;
-D$ D;
-D$ E3
-D$ H;
-D$ Hc(H
-D$ Hc0H
-D$ I;
-D$ L9d$(t
-D$ L;
-D$ N&B:H
-D$ P-
-D$ d=
-D$ fD
-D$ fH
-D$ r|
-D$ t.
-D$$9D$(u
-D$$A;
-D$$E;
-D$(D;
-D$(E3
-D$(H9
-D$(H;
-D$(Hc
-D$(L9
-D$(fI
-D$(fff
-D$)fD
-D$,D;
-D$0,M
-D$00u
-D$09(tSH
-D$09\$<
-D$0< u
-D$0C+D0(
-D$0D9
-D$0E3
-D$0H#
-D$0H+
-D$0H9t$8t
-D$0H;
-D$0H;A t
-D$0H;G
-D$0Hc
-D$0HcC(I
-D$0HcH
-D$0I;
-D$0Ic
-D$0L;
-D$0f;UPu
-D$0fD
-D$0ff
-D$0mp
-D$0r|
-D$0t5
-D$0t9
-D$0tbA
-D$0xL
-D$4+D$8A
-D$49C
-D$4D;
-D$4I;
-D$8+C$H
-D$8;D$@
-D$8A+
-D$8A;
-D$8D;
-D$8E3
-D$8H;
-D$8HcJ
-D$8Ic
-D$8L9
-D$8L;
-D$8fD
-D$8fH
-D$8ff
-D$8r|
-D$<9T$0wE9T$4w?9T$8w9;
-D$@%I
-D$@A;^
-D$@D;G
-D$@E3
-D$@H+
-D$@H;
-D$@H;G
-D$@Hc
-D$@Ic
-D$@L;
-D$@csm
-D$@fD
-D$@mp
-D$@r|
-D$A+L
-D$DE3
-D$DHc
-D$H;D$`
-D$HE3
-D$HH+
-D$HH;
-D$HHc
-D$HL+
-D$HL;
-D$P I
-D$P"ZF
-D$P9A
-D$P;C
-D$P;L$H
-D$P;L$L
-D$PA;
-D$PD;
-D$PE3
-D$PE;
-D$PE;O
-D$PH+
-D$PH;
-D$PHc
-D$PI;
-D$PIc
-D$PL;
-D$Pk@_aH
-D$Pmp
-D$TD;
-D$XD8p
-D$XD90}
-D$XH;
-D$XHc
-D$XHc>
-D$XL+
-D$\A;
-D$\Hc
-D$`9D$Hs$H
-D$`A+
-D$`E#
-D$`E3
-D$`H9t$ht
-D$`H;
-D$`Hc
-D$`L+
-D$`L;
-D$`LcL$lHcT$xHcL$tH
-D$`Ll
-D$`r|
-D$`xxx
-D$dfff
-D$hA+
-D$hA;
-D$hD;
-D$hE3
-D$hE;
-D$hL;
-D$hu4D
-D$p 69
-D$p;G
-D$p<L{
-D$pA;F
-D$pD;
-D$pE3
-D$pHK8
-D$pHc
-D$pMc
-D$tA9D$|
-D$x*>
-D$xHc
-D$xI;
-D$xL+
-D$xfD
-D$|A;D$pr
-D$|fE
-D(8Ht}
-D);A+
-D)p(H
-D+D$8
-D08@t	
 D15S1
 D16_SHADOW
-D18 t
 D24FS8
 D24S8
 D24X4S4
 D24X8
 D24X8_SHADOW
-D8&t!
-D8&t4H
-D8't(Ic
-D8-Z3
-D82u&H
-D88Ht!
-D88Hte
-D8M@t
-D8M@t^
-D8Y:uEH
-D8a:uDH
-D8c&t
-D8c:u
-D8d$8t
-D8d$H
-D8d$Ht
-D8d$ht
-D8l$@t
-D8l$`
-D8l$ht
-D8m!u0H
-D8m"u	H
-D8m(u-Lc3D;s
-D8sAt
-D8s`A
-D8s`D
-D8t$8t
-D8t$Ht
-D8{&t
-D8|$Pt
-D90u	9X
-D98Ht;H
-D98tT
-D9B,t
-D9G$s5
-D9IL}sL
-D9J,w
-D9T$8
-D9c t
-D9d$ ~-I
-D9d$(u
-D9f@~0Hc
-D9pXu
-D9s(t)H
-D9s,u
-D9t$@~\I
-D9wXt
-D9x(uiE
-D9xXL
-D9{(u
-D9|$ 
-D;%&4
-D;-R.
-D;8}aH
-D;Cx|
-D;D$(|
-D;D$(}:J
-D;D$8|
-D;D$8};J
-D;G8|
-D;K4u
-D;O u=
-D;T$8}
-D;[ D
-D;d$T
-D;j0v
-D;k ~=
-D;s ~
-D;s8|
-D;sXu
-D;t$du
-D;u0u
-D;wXu
-D;z,u
-D;z,v
-D;z,v(A
-D;{8|
-D;{Lr
-D;|$H
-D;|$Hu'A
-D<P0I
 DCT coefficient out of range
 DCT scaled block size %dx%d not supported
-DD$$H
+DDDD
 DDDDUUUU
-DGKbu
+DEMO
 DMX Model
 DMX Model Pipeline Animation Script File
 DMX Model Pipeline Bone Mask Script File
@@ -2538,18 +1481,20 @@ DMX Model Pipeline Physics Script File
 DMX Model Pipeline Preprocess File
 DMX Model Pipeline Root Script File
 DMX_MODEL_SOURCE_UNKNOWN
-DNEIu
 DNGBackwardVersion
 DNGPrivateData
 DNGVersion
+DXT1
 DXT1_ONEBITALPHA
+DXT3
+DXT5
 DXT5_NM
 Da\">c]$8c^
 Dampen Movement Relative to Control Point
 Data error in compressed datastream
 DataModel needs the file system to function
 DataType
-Datamodel symbol table: %d entries %llu bytes
+Datamodel symbol table: %d entries %llu bytes\n
 DatamodelSymbols
 DateTime
 DebugTextureInfo001
@@ -2572,18 +1517,11 @@ DeleteTimerQueueTimer
 DeleteUmsCompletionList
 DeleteUmsThreadContext
 DequeueUmsCompletionListItems
-Did you forget to surround the vector with "s?
 Didn't expect more than one scan
-DigiCert Assured ID CA-1
-DigiCert Assured ID CA-10
-DigiCert Assured ID Root CA0
-DigiCert Inc1
-DigiCert Timestamp Responder0
-DigiCert1%0#
 Distance Between Control Points Scale
 Distance to Control Points Scale
-Dm Memory usage: type				count	totalsize	wastage %%	outer		inner		datamodel	refs		tree		atts		data	(att count)
-Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!
+Dm Memory usage: type\t\t\t\tcount\ttotalsize\twastage %%\touter\t\tinner\t\tdatamodel\trefs\t\ttree\t\tatts\t\tdata\t(att count)\n
+Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!\n
 DmAttributeAddedListenerInfo_t CUtlMemoryPool
 DmAttributeChangedListenerInfo_t CUtlMemoryPool
 DmAttributeList_t CUtlMemoryPool
@@ -2707,48 +1645,25 @@ Duplicate tRNS chunk
 DuplicateHandle
 DynamicConfigList
 DynamicProgressFeedback
-E(9p(u
-E)l$HL
-E+BHI
-E+H(A
-E0C07
-E0HcH
-E0Lcx
-E8A8_
-E8H+EHH
-E8X@t8A
-E8l$ ueI
-E;Bl}NE
-E;F$w
-E;|$4sP
-E;~(H
 E>nEA
-E@9GXu7Lc
-E@A8_
-E@t	H
-EL$pfA
-EMItu
-EP*?@
-EPHc@
-ERROR! LoadFromJPG( %s ) failed!
-ERROR! LoadFromPNG( %s ) failed!
-ERROR! TiffReadFile( %s ) failed!
-ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
-ERROR: Sequence %d already specified!
-ERROR: Sequence %d is missing, total of %d sequences!
-ERROR: Sequence number %d is too big!
-ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!
-ET$(H
-ETLPu
-ETLPu?
+ERROR! LoadFromJPG( %s ) failed!\n
+ERROR! LoadFromPNG( %s ) failed!\n
+ERROR! TiffReadFile( %s ) failed!\n
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!\n
+ERROR: Sequence %d already specified!\n
+ERROR: Sequence %d is missing, total of %d sequences!\n
+ERROR: Sequence number %d is too big!\n
+ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!\n
+ET5>
 EXIFIFDOffset
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EXRHeader variable is not initialized.
+E[\rn?gc
 EconItemToolModel_001
 EditGameClassProps
 EditorDynamicConfig
-Egv3A
-Element uses unknown element type %s
+EiUL
+Element uses unknown element type %s\n
 Empty JPEG image (DNL not supported)
 Empty input file
 EmptyAnim
@@ -2768,22 +1683,20 @@ EnumSystemLocalesW
 EnvironmentMapBuilder
 EnvironmentMapBuilder::Build
 EnvironmentMapBuilder_001
-Eo9GXu6Lc
-Ep<fu
 Error
 Error fetching data for field "%s"
 Error fetching directory count
 Error fetching directory link
 Error flushing data before directory write
-Error importing actbusy element %s
-Error importing txt file! %s
-Error importing vmt shader parameter %s
-Error in .VMT file: error parsing vector element "%s" in "%s"
-Error in the undo system! Grab a programmer!
+Error importing actbusy element %s\n
+Error importing txt file! %s\n
+Error importing vmt shader parameter %s\n
+Error in .VMT file: error parsing vector element "%s" in "%s"\n
+Error in the undo system! Grab a programmer!\n
 Error post-encoding before directory write
 Error reading attribute "%s"
 Error reading in array attribute "%s" element %d
-Error reading texture compile settings file "%s"!
+Error reading texture compile settings file "%s"!\n
 Error writing TIFF header
 Error writing data for field "%s"
 Error writing directory contents
@@ -2809,30 +1722,20 @@ Expecting quoted attribute value for attribute "%s", didn't find one!
 Extra compressed data
 Extra compression data
 ExtraSamples
-F +F(
-F 9F(r
-F @8{ru
-F()h(H
-F(@8{Yu)H
-F(D)p(H
-F(D9p(u
-F(LcF I
-F0LcFDI
-F8D98
-F8HcNDI
 F>qUxv
-FATAL ERROR: unable to register all schema data: %s
+FATAL ERROR: unable to register all schema data: %s\n
+FEMh\f
 Facial Animation File
-Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)
+Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)\n
 Fail to schedule the chore!
-Failed resolve content path for override environment map %s, rendering instead.
+Failed resolve content path for override environment map %s, rendering instead.\n
 Failed to allocate field info array
 Failed to allocate memory for %s (%ld elements of %ld bytes each)
-Failed to compute channel layout.
+Failed to compute channel layout.\n
 Failed to create temporary file %s
-Failed to load override environment map %s, rendering instead.
-Failed to parse channel info.
-Failed to read attribute.
+Failed to load override environment map %s, rendering instead.\n
+Failed to parse channel info.\n
+Failed to read attribute.\n
 Fax3Decode1D
 Fax3Decode2D
 Fax3DecodeRLE
@@ -2845,8 +1748,9 @@ FaxRecvParams
 FaxRecvTime
 FaxSubAddress
 February
+FfW?
 FieldOfViewCotangent
-File has not been opened!
+File has not been opened!\n
 File not open for reading
 FillAttr
 FillOrder
@@ -2856,27 +1760,27 @@ FindNextFileA
 Fingers
 Fingers_L
 Fingers_R
-Finished %d Blocks out of %d
-FixupResourceName: Illegal path, missing extension passed in ("%s")!
+Finished %d Blocks out of %d\n
+FixupResourceName: Illegal path, missing extension passed in ("%s")!\n
 FlattenedSerializersVersion001
 Float Bitmap Failure
 FloatBitMap::DownsampleNiceFiltered
 FloatBitMap::QuarterSize
 FloatBitMap_t::ConvertGammaToLinear
-FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!
-FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
-FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
-FloatBitMap_t::LoadFromFile(2486): Error calling TGALoader::GetInfo( %s )
-FloatBitMap_t::LoadFromFile(2497): Error loading %s
-FloatBitMap_t::LoadFromFile(2520): Error! Unknown file type for %s
-FloatBitMap_t::LoadFromFile(2539): Error! Slice %d format %dx%dx%d Attr(%d) != previous slices of %dx%d Attr(%d) for %s
-FloatBitMap_t::LoadFromFloatBitmap: Received improper bitmap size, skipping!
-FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!
-FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
-FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!
-FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
-FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!
-FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::ConvertGammaToLinear(338): Conversion not supported yet!\n
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!\n
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!\n
+FloatBitMap_t::LoadFromFile(2486): Error calling TGALoader::GetInfo( %s )\n
+FloatBitMap_t::LoadFromFile(2497): Error loading %s\n
+FloatBitMap_t::LoadFromFile(2520): Error! Unknown file type for %s\n
+FloatBitMap_t::LoadFromFile(2539): Error! Slice %d format %dx%dx%d Attr(%d) != previous slices of %dx%d Attr(%d) for %s\n
+FloatBitMap_t::LoadFromFloatBitmap: Received improper bitmap size, skipping!\n
+FloatBitMap_t::WriteToBuffer(901): Unsupported color format "%s", skipping!\n
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!\n
+FloatBitMap_t::WriteToBufferDXT(1004): Unsupported output color format "%s"!\n
+FloatBitMap_t::WriteToBufferDXT(1013): Error! Allocated %llu bytes when ATI's lib requires %d bytes!\n
+FloatBitMap_t::WriteToBufferDXT(1021): Error %d returned from ATI_TC_ConvertTexture()!\n
+FloatBitMap_t::WriteToBufferDXT(939): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!\n
 Floating point "Predictor" not supported with %d data format
 FlsAlloc
 FlsFree
@@ -2898,29 +1802,22 @@ Freed EMS handle %u
 Freed XMS handle %u
 Friday
 Fsfm_v3
-G H9F
-G channel not found!
-G$;G,
-G(9G0|
-G0Hc	H
-G8Hc@
+G channel not found!\n
+G>US
 GAMECONSOLE
 GCDmeSheetSequence CUtlMemoryPool
+GCTL
 GGXCubeMapBlur
 GPSIFDOffset
-GT$8A
-GT$HD
-GT$HH
 GameResourceServiceClientV001
 GameResourceServiceServerV001
 GameUIService_001
-Generating %d Environment Maps:
-Generating %d Environment Maps: initial dry run to stream everything in.
+Generating %d Environment Maps: initial dry run to stream everything in.\n
+Generating %d Environment Maps:\n
 Generic DMX
 Generic MovieObjects
 Generic SFM
 GenericGameData
-Genu3
 GetACP
 GetActiveWindow
 GetCPInfo
@@ -3006,197 +1903,20 @@ GrayResponseCurve
 GrayResponseUnit
 Group3Options
 Group4Options
-G|$HH
-H SVH
-H SVWH
-H!D$ E
-H!T$0D
-H!\$(L
-H!\$03
-H!u H
-H#L$8H
-H#t$0tB
-H$E+H,toA
+H$6t
 H*0"ZOW
-H+C H=
-H+D$hH+D$P3
-H+G H=
-H+L$HH
-H+\$h+
-H+\$hIc<$H
-H+|$@H
-H0F08
-H3\$HH
-H97t<
-H98t%H
-H98tPA
-H98u	H
-H99u{
-H9A u
-H9A(s
-H9Ahs
-H9BhuTH
-H9CPt
-H9D$PuCI
-H9GPu
-H9J t1
-H9K u
-H9KPu
-H9L$H
-H9L$Ht?H
-H9L$`t
-H9OPu
-H9Qhv
-H9\$X
-H9] uO
-H9^ u
-H9^ uJD9oXuDIc
-H9_ u
-H9_ht0H
-H9s@u
-H9uot	H
-H9~Pu
-H;@0u
-H;@Xu
-H;A t
-H;C t
-H;D$Pu
-H;D$`
-H;T$`}9H
-H;XXs
-H;YXt 
-H;\$P|
-H;xXu9
-H;|$0
-H;|$0}
-HA\_^[
-HA]_][
-HA^A]A\]
-HA^A]_^][
-HA^_[]
-HA_A\
-HA_A]A\_^[
-HA_A^A]A\_^][
-HA_A^^]
 HH:mm:ss
-HHcY0H
 HIGHDPI
-HL;l$Ht
-HXA9NX
-HXA9OXt
-H[><y5
-H_^][
 HalftoneHints
 Hammer temp export
 HammerMapLoader001
-Hc+;k
-Hc.;n
-Hc/;o
-Hc3;s
-Hc7;w
-Hc;;{
-Hc;HcK
-Hc<0H
-Hc>;~
-HcA$H
-HcC H
-HcC$H
-HcC(A
-HcC0A
-HcC0H
-HcCxH;
-HcCxL;
-HcD$ H
-HcD$ HcT$
-HcD$,HcT$(I
-HcD$8HcT$4I
-HcD$@
-HcD$@HcT$PI
-HcD$HE+
-HcD$HHcU
-HcD$X
-HcD$pA
-HcD$pH
-HcD$|
-HcF0A
-HcFTL
-HcFxH
-HcG(H
-HcGl;Gh}
-HcH<H
-HcI8;
-HcI@H
-HcIXH
-HcK ;
-HcK H
-HcK8H
-HcKHE3
-HcKhH
-HcKxH
-HcL$ H
-HcL$$I
-HcL$0I
-HcL$<I
-HcL$HI
-HcL$LI
-HcN(;
-HcQ(Mc
-HcR4L
-HcS@H
-HcS\LcU
-HcT$@I
-HcT$DHcL$PIc
-HcT$LL
-HcU0H
-HcV0H
-HcWxL
-Hc\$@H
-Hc]`M
-Hc]wD
-Hc]wE3
-Hc]wH
-Hc]wL
-Hc]wL;
-Hc_ ;_0u
-Hc_0L
-Hc_8;_Hu
-HckHL
-HckHM
-Hcl$0H
-HcoHM
-Hct$ H
-Hct$0
-Hct$8H
-Hcy0L
-Hc{H;{Xu
-Hc{HB
-Hc|$ 3
-Hc}HE3
-Hc}gH
-Hc}pH
-Hc}wMc
 HelpSystem_001
 Horizontal differencing "Predictor" not supported with %d-bit samples
 HostComputer
 HostStateMgr001
-Ht)I;
-Ht4<Xu[
 Huffman code size table overflow
 Huffman table 0x%02x was not defined
-I HcH
-I9@Pt~H
-I9EPu
-I9FPt
-I9\$ ~@H
-I9^ u4D9oXu.Lc
-I9^ u:
-I9^ u>
-I9^ u?
-I9^ u@D9oXu:Lc
-I9^ uED9oXu?Lc
-I9^ uGD9oXuALc
-I9_ uI9wXuDMc
-I9}(t9H
+IA88
 ICC Profile
 IKChain
 IKChainOld
@@ -3210,13 +1930,6 @@ IND)ind)INF
 INITY
 IQuickTime001
 ISO JBIG
-Ic4$A;t$
-Ic>A;~
-IcA(H
-IcE<H
-IcExH
-IcI A
-IcW,H
 Ignoring PLTE chunk in grayscale PNG
 Ignoring attempt to set cHRM RGB triangle with zero area
 Ignoring attempt to set negative chromaticity value
@@ -3242,7 +1955,6 @@ Image width exceeds user limit in IHDR
 Image width is zero in IHDR
 ImageDepth
 ImageDescription
-ImageFmtH
 ImageFullLength
 ImageFullWidth
 ImageLength
@@ -3264,8 +1976,8 @@ Incorrect sBIT chunk length
 Incorrect sRGB chunk length
 Incorrect tIME chunk length
 Incorrect tRNS chunk length
-Index      Address       References   String
-Infinite recursion in patch file?
+Index      Address       References   String\n
+Infinite recursion in patch file?\n
 Inherit Velocity
 InitCCITTFax3
 InitOnceExecuteOnce
@@ -3285,11 +1997,11 @@ InputService_001
 InputStackSystemVersion001
 InputSystemVersion001
 InstallSchemaBindings
-Insufficient data length.
-Insufficient data size for attributes.
+Insufficient data length.\n
+Insufficient data size for attributes.\n
 Insufficient data size in offset table.
-Insufficient data size.
-Insufficient header/data size.
+Insufficient data size.\n
+Insufficient header/data size.\n
 Insufficient memory (case %d)
 Insufficient memory for hIST chunk data
 Insufficient memory for pCAL parameter
@@ -3301,7 +2013,7 @@ Insufficient memory to process iCCP profile
 Insufficient memory to process text chunk
 Insufficient memory to store iTXt chunk
 Insufficient memory to store zTXt chunk
-Intentionally vague touch behavior for %p
+Intentionally vague touch behavior for %p\n
 Interlace handling should be turned on when using png_read_image
 InterlockedFlushSList
 InterlockedPopEntrySList
@@ -3333,7 +2045,7 @@ Invalid color type in IHDR
 Invalid color type/bit depth combination in IHDR
 Invalid component ID %d in SOS
 Invalid crop request
-Invalid data found when decoding pixels.
+Invalid data found when decoding pixels.\n
 Invalid data height value
 Invalid data width or data height: 
 Invalid data width value
@@ -3372,7 +2084,7 @@ Invalid sCAL width
 Invalid sPLT after IDAT
 Invalid sRGB after IDAT
 Invalid scan script at entry %d
-Invalid sequence type.
+Invalid sequence type.\n
 Invalid tRNS after IDAT
 Invalid tile size x : 
 Invalid tile size y : 
@@ -3387,172 +2099,32 @@ JFIF extension marker: JPEG-compressed thumbnail image, length %u
 JFIF extension marker: RGB thumbnail image, length %u
 JFIF extension marker: palette thumbnail image, length %u
 JFIF extension marker: type 0x%02x, length %u
+JPEG
 JPEG datastream contains no image
 JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
 JPEGMEM
 January
-K 9N v@H
-K ATAUAVAWH
-K H9K0u
-K H9y
-K SUATAUH
-K SVWAVAWH
-K&>.yC
-K,D9s(A
-K0u,H
-K4A+H 
-K8+C$
+JawD
+JawH
+JawV
+July
+June
 KERNEL32.dll
+KL2H
+KNQ\rMO
 KV Conditional Evaluation Error
 KeyValueCache001
 KeyValues
-KeyValues Error: %s in file %s
+KeyValues Error: %s in file %s\n
 KeyValues2
 KeyValues2 (flat)
 KeyValues2 (no ids)
-KeyValues: Can't serialize attribute of type %s into KeyValues files!
-KeyValues: Element uses unknown element type %s
-KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues: Can't serialize attribute of type %s into KeyValues files!\n
+KeyValues: Element uses unknown element type %s\n
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s\n
 KeyValuesSystem
-K~Je#>!
-L!|$(L!
-L$ ATAUAVAWH
-L$ E3
-L$ H9\$(t
-L$ H;
-L$ Hc
-L$ Lc
-L$ Lc9H
-L$ SATAUAWH
-L$ SH
-L$ SUVAVH
-L$ SUVWATAUAVAWH
-L$ SUVWATAVAWH
-L$ SUVWH
-L$ SVWH
-L$ UATAUAVAWH
-L$ UATAVH
-L$ USVAVAWH
-L$ UVWATAUAVAWH
-L$ UWAUAVAWH
-L$ WATAUAVAWH
-L$ WH
-L$ fI
-L$ iM
-L$$D;
-L$$E+
-L$&@8t$&t0@8q
-L$(Ai
-L$(E+
-L$(E3
-L$(H3
-L$(fH
-L$(fI
-L$(iM
-L$,=)#
-L$0D;
-L$0E+
-L$0E3
-L$0E;
-L$0H+
-L$0H3
-L$0H;
-L$0H;K
-L$0I;
-L$0Lc
-L$0M;
-L$0fH
-L$0fI
-L$8;L$0
-L$8E3
-L$8H3
-L$8Lc
-L$@;|
-L$@A;
-L$@D9
-L$@D9c<
-L$@D;V$
-L$@E3
-L$@H3
-L$@H;
-L$@H=
-L$@Lc
-L$@Lc9M
-L$@uU
-L$D9S$
-L$D;L$T
-L$DD+
-L$DE3
-L$H;H(s	D
-L$H;H8s	D
-L$HA;
-L$HD;
-L$HD;D$0
-L$HE3
-L$HE;
-L$HH3
-L$HH;
-L$HHc
-L$HI;
-L$HLc
-L$LA;
-L$P+L$8
-L$P+L$H
-L$PD;
-L$PE3
-L$PE;
-L$PH3
-L$PfD
-L$X;V
-L$XA;
-L$XE3
-L$XfD
-L$`A;
-L$`D;N
-L$`D;O
-L$`E3
-L$`E;
-L$`H3
-L$`fD
-L$`fff
-L$`tcA
-L$hA;
-L$hE3
-L$hI;
-L$lD;
-L$pD9w8
-L$pD;w8
-L$pE2
-L$pE3
-L$pE;
-L$pH3
-L$pJc
-L$xD+
-L$|fA
-L(:A:
-L(;A:
-L(;E:
-L(<A:
-L9*u&
-L93u_
-L93uc
-L9Ahs
-L9`8tA
-L9d$8t
-L9m(t	H
-L9t$@t
-L9ugt	H
-L9w t#H
-L9~ t
-L9~PtgL9~`taL9~ht[H
-L;D$8v7H
-L;EHt
-L;d$8|
-L;l$Ht
-L;t$h
+L>ev
 L?UUUUUUU?
-LACpu
-LACsu
 LCIDToLocaleName
 LCMapStringEx
 LCMapStringW
@@ -3572,6 +2144,8 @@ LINEAR_RGBA8888
 LINUX
 LOG_GENERAL
 LOWVIOLENCE
+LWG>
+LWW>
 LZWDecode: Bogus encoding, loop in the code table; scanline %d
 LZWDecode: Corrupted LZW table at scanline %d
 LZWDecode: Not enough data at scanline %d (short %ld bytes)
@@ -3582,34 +2156,11 @@ LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
 LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
 LZWPreDecode
 LZWSetupEncode
-Last two rows as percentage of total size %f %%:
-Lc3D;s
-LcA<E3
-LcCLC
-LcCP3
-LcCPH
-LcD$|3
-LcFDI
-LcF`D
-LcG$H
-LcGP3
-LcK$A;
-LcK<L
-LcK\LcU
-LcQ|M+
-LcT$p3
-LcUw3
-Lcew3
-Lcl$ A
-Lcl$xfff
-LcsHH
-Lct$8A
-LcwHI
-Lc|$hH
-Lc|$hI
-Leaking %i elements
+Last two rows as percentage of total size %f %%:\n
+Leaking %i elements\n
 LeaveCriticalSection
 LeftFingers
+Legs
 LensInfo
 Lifespan Decay
 Lifespan from distance to world
@@ -3626,12 +2177,11 @@ LinearizationTable
 LipLoV
 LipUpV
 LipsV
-Lj[;>
 Lkh9Fgc^A
 LoadAtiCompress
-LoadEXRImageFromMemory failed! Error message: %s
+LoadEXRImageFromMemory failed! Error message: %s\n
 LoadFromBuffer: expected '{', found '%s'
-LoadFromInMemoryEXR( %s ) failed.
+LoadFromInMemoryEXR( %s ) failed.\n
 LoadISPCTexComp
 LoadLibraryExW
 LoadLibraryW
@@ -3652,17 +2202,16 @@ LoggingSystem_RegisterLoggingChannel
 LoggingSystem_RegisterLoggingListener
 LoggingSystem_SetLoggingResponsePolicy
 LrwcE
-M H1E
-M9}ht
+M8MF
 MATCHFRAMEWORK_001
 MAX_ALLOC_CHUNK is wrong, please fix
-MLc3D;s
+MGiI
 MM/dd/yy
 MNG features are not allowed in a PNG datastream
 MODEL_PROCESSING_SCRIPT_INTERFACE_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MQC,ARD
-MRHcu
+Make
 Make sheet file
 MakerNoteSafety
 Malformed iCCP chunk
@@ -3684,11 +2233,8 @@ MaxConcurrency
 MaxPolicyElementKey
 MaxSampleValue
 Maximum supported image dimension is %u pixels
+MbP?
 Mbp?333333
-Mc,$M
-Mc<$L
-McH(E
-McsLA
 MemAlloc_AllocFunc
 MemAlloc_FreeFunc
 Memory allocation failed while processing sCAL
@@ -3741,16 +2287,14 @@ Movement Match Particle Velocities
 Movement Max Velocity
 MovieSettings
 MultiByteToWideChar
-N u_I;
-N&B:H
-N(9i(u
-N(D9q(u
-N0Hci
 N3`d?
 N>O=I9
+N>VF
 NAN(IND)
 NAN(SNAN)
 NJ2"v
+NQ?s
+NULL
 NULL row buffer
 NV_DST16
 NV_DST24
@@ -3758,6 +2302,7 @@ NV_INTZ
 NV_NULL
 NV_RAWZ
 NavSystem001
+NeXT
 NeXTDecode: Not enough data for scanline %ld
 NetworkClientService_001
 NetworkMessagesVersion001
@@ -3791,6 +2336,7 @@ No support for converting user data format to LogLuv
 NoPoseControl
 Noise Scalar
 Noise Vector
+None
 Nonstandard tile length %d, convert file
 Nonstandard tile width %d, convert file
 NoseV
@@ -3808,16 +2354,8 @@ Not enough memory to process zTXt chunk
 Not implemented yet
 November
 NumberOfInks
-NxD9eP~1I
-O H+O
-O(t(H
 O*9y]
-O,D9O(vcH
-O0HcQ
-O8+G$
-OF>;^
-OX9JXt
-OX9KXu
+OZQ%
 OZw3(?
 Obtained EMS handle %u
 Obtained XMS handle %u
@@ -3827,11 +2365,11 @@ Old-style JPEG
 Old-style LZW codes, convert file
 OldSubfileType
 One of the client procedures is NULL pointer.
-Only DXT1/DXT5 online texture compression supported.
+Only DXT1/DXT5 online texture compression supported.\n
 OpenClipboard
 Opened temporary file %s
-Operator cycle found during dependency graph traversal!
-Ordered constructor wrapped type has no default constructor.
+Operator cycle found during dependency graph traversal!\n
+Ordered constructor wrapped type has no default constructor.\n\tYou must construct it with ORDERED_CONSTRUCT macro in the dependency resolution function.\n
 Orient Rotation to 2D Direction
 Orientation
 OriginalRawFileData
@@ -3855,30 +2393,11 @@ Out of place tIME chunk
 Out of range gamma value ignored
 Output file write error --- out of disk space?
 OutputDebugStringW
-P Lc}
-P(Hcu
-P(Lc}
-P>q_Y~
 PARTICLE_DEPTH_FEATHERING_OFF
 PARTICLE_DEPTH_FEATHERING_ON_OPTIONAL
 PARTICLE_SET_REPLACE_VALUE
 PARTICLE_SET_SCALE_CURRENT_VALUE
 PARTICLE_SET_SCALE_INITIAL_VALUE
-PA]_[
-PA^A]A\
-PA^A]A\^[
-PA^_]
-PA^_^
-PA_A\[
-PA_A\_^]
-PA_A]A\
-PA_A^A]A\_^]
-PA_A^[
-PA_A^]
-PA_A^_
-PA_A^_^]
-PA_^]
-PCCiu
 PF_BIAS_TYPE_EXPONENTIAL
 PF_MAP_TYPE_MULT
 PF_MAP_TYPE_REMAP
@@ -3890,7 +2409,7 @@ PF_TYPE_PARTICLE_AGE_NORMALIZED
 PF_TYPE_RANDOM_UNIFORM
 PNG file corrupted by ASCII conversion
 PNG fixed point integer out of range
-PNG load error %s
+PNG load error %s\n
 PNG unsigned integer out of range
 POSIX
 PVEC_TYPE_LITERAL
@@ -3903,9 +2422,10 @@ PageNumber
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
-ParseEXRHeaderFromMemory failed! Error message: %s
+ParseEXRHeaderFromMemory failed! Error message: %s\n
 Particle Configuration File
 ParticleSystemMgr003
+Pe6^
 Photometric tag is missing, assuming data is YCbCr
 Photometric tag value assumed incorrect, assuming data is YCbCr instead of RGB
 PhotometricInterpretation
@@ -3940,6 +2460,7 @@ Plat_LoadModule
 Plat_MessageBox
 Plat_SetDenormalsAreZero
 Plat_ShouldCollectMiniDumpsForFatalErrors
+Po5H
 Position Along Path Random
 Position Along Path Sequential
 Position From Parent Particles
@@ -3971,11 +2492,10 @@ Procedural
 Profile size field missing from iCCP chunk
 PropertyEditorSystem_001
 Proxies
-Q,A3P
 Q2XXR
 Q5rHg,>
+QAf?
 Qkkbal
-Ql;QD
 Quantization table 0x%02x was not defined
 Quantizing to %d = %d*%d*%d colors
 Quantizing to %d colors
@@ -3986,16 +2506,15 @@ QueryPerformanceFrequency
 QueryUmsThreadInformation
 QueueUserWorkItem
 QueuedLoaderVersion001
-R channel not found!
-R(A9P4A
-R0E8XAt
+R channel not found!\n
 R11_EAC
+R16F
 R16F_EXPAND
 R1h58
+R32F
 R32_UINT
 R8G8B8A8_ETC2_EAC
 R8G8B8_ETC2
-RDHIu
 RG11_EAC
 RG1616
 RG1616F
@@ -4019,7 +2538,6 @@ RGBA8888
 RGBA8888_LINEAR
 RGBX555
 RGBX8888
-RH@8t$@
 RPCRT4.dll
 RSDS=
 RST%d
@@ -4043,10 +2561,11 @@ RecursiveLoadFromBuffer:  got conditional between key and value
 RecursiveLoadFromBuffer:  got empty keyname
 RecursiveLoadFromBuffer:  got } in key
 RecursiveLoadFromBuffer:  recursion overflow
+Redo\n======\n
 ReductionMatrix1
 ReductionMatrix2
 ReferenceBlackWhite
-RegisterConfigValue: Unknown error constructing config value "%s"!
+RegisterConfigValue: Unknown error constructing config value "%s"!\n
 RegisterStringToken
 RegisterTraceGuidsW
 RegisterWaitForSingleObject
@@ -4068,7 +2587,7 @@ RenderService_001
 RenderSkyView
 RenderSystemSurface001
 RenderUtils_001
-Rendering env_cubemap %s at %.1f, %.1f, %.1f
+Rendering env_cubemap %s at %.1f, %.1f, %.1f\n
 Requested feature was omitted at compile time
 ResetEvent
 ResolutionUnit
@@ -4087,6 +2606,7 @@ RigRoot
 RightFingers
 RoInitialize
 RoUninitialize
+Root
 RootSelectionSet
 Rotation Basic
 Rotation Orient to 2D Direction
@@ -4105,15 +2625,9 @@ RtlLookupFunctionEntry
 RtlPcToFileHeader
 RtlUnwindEx
 RtlVirtualUnwind
-S(9C8sq
-S,, <Zw
-S,fA+
-S89SD|
-S;\$0tH
+S+Ot
+S9>H
 S>$hkDh$h>[2
-SATAUH
-SATAWH
-SAUAVH
 SFM Session
 SFM Settings
 SFM TrackGroup
@@ -4123,38 +2637,10 @@ SGILog compression supported only for %s, or raw data
 SGILog24
 SGILogDataFmt
 SGILogEncode
+SKyu
 SMaxSampleValue
 SMinSampleValue
 SNAN)
-SNRtu
-SUAWH
-SUHcl$@L
-SUVAVH
-SUVWATAUAVAWH
-SUVWAUAVAWH
-SUVWAUAVH
-SUVWAUH
-SUVWAVAWH
-SUVWAVH
-SUVWH
-SUWATAUAVH
-SUWATAUAWH
-SUWAUAWH
-SUWAUH
-SVATAUH
-SVAUH
-SVWATAUAVAWH
-SVWATAUAVH
-SVWATAUAWH
-SVWATAVAWH
-SVWATAVH
-SVWATH
-SVWAVH
-SVWAWH
-SWATAUAWH
-SWATAWH
-SWAUH
-SWAWH
 SampleFormat
 SamplesPerPixel
 SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 1
@@ -4175,14 +2661,14 @@ Seek error at scanline %lu
 Seek failed on temporary file
 Selected %d colors for quantization
 September
-Sequence %d out of order (@position %d).
+Sequence %d out of order (@position %d).\n
 Sequence Random
 Sequence Two Random
 SequenceMarkup
 SequenceMarkupList
-Serialize: File encoding %s is undefined!
-Serialize: File encoding '%s' is undefined!
-Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer
+Serialize: File encoding %s is undefined!\n
+Serialize: File encoding '%s' is undefined!\n
+Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer\n
 SerializedEntitiesVersion001
 Serializing(%d root elements)
 ServerUploadGameStats001
@@ -4202,7 +2688,7 @@ SetUnhandledExceptionFilter
 Setting up field info failed
 ShadowScale
 SignalObjectAndWait
-Skipping environment map build - environment maps not supported.
+Skipping environment map build - environment maps not supported.\n
 Sleep
 SleepConditionVariableCS
 SleepConditionVariableSRW
@@ -4242,67 +2728,7 @@ Subtract
 Sunday
 Suspension not allowed here
 SwitchToThread
-Symbol table:  %d entries %llu bytes
-T$ A3
-T$ A;
-T$ E+
-T$ E3
-T$ E;
-T$ H;
-T$ Ic
-T$ Lc
-T$ Mc
-T$$ff
-T$(;B
-T$(D+
-T$(D;
-T$0D;
-T$0E3
-T$0H;
-T$0Hc
-T$4E9
-T$8+G$A
-T$8+G$H
-T$8;B
-T$8A+
-T$8E3
-T$8H;T$@
-T$<D;
-T$@@2
-T$@A;
-T$@E3
-T$@H+
-T$@H;
-T$@Ic
-T$HA;
-T$HD;
-T$HE3
-T$HHc
-T$LD9R$
-T$LE;
-T$PA;
-T$PE3
-T$PH3
-T$PIc
-T$X9q
-T$XA;
-T$XE3
-T$XLc
-T$`D+
-T$`fA
-T$pD+
-T$pE3
-T$pH;
-T$pM+
-T$pfD
-T$xH;
-T$xLc
-T$xff
-TADIt	
-TADIu
-TADIu.
-TADIuT
-TIBsu
+Symbol table:  %d entries %llu bytes\n
 TIFFAppendToStrip
 TIFFClientOpen
 TIFFFetchDirectory
@@ -4324,9 +2750,8 @@ TIFFSetField
 TIFFTileRowSize
 TIFFVStripSize
 TIFFVTileSize
-TLPsu
-TSIhu
 TUUUU
+Tag 
 Tag %d
 Tag Value
 TargetOversubscriptionFactor
@@ -4344,7 +2769,7 @@ Texture Configuration File
 TextureFormat
 TextureWrapModes
 This function cannot be called on a default constructed task
-This is a BigTIFF file.  This format not supported
+This is a BigTIFF file.  This format not supported\nby this version of libtiff.
 ThreadGetCurrentProcessId
 Threshholding
 ThunderDecode: %s data at scanline %ld (%lu != %lu)
@@ -4378,90 +2803,40 @@ Totals
 TraceEvent
 Trail Length Random
 TransferFunction
-Tried to rename from '%s' to '%s', but '%s' already exists
+Tried to rename from '%s' to '%s', but '%s' already exists\n
 Truncated iTXt chunk
 Truncated zTXt chunk
 Truncating incorrect info tRNS chunk length
 Truncating incorrect tRNS chunk length
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
-Trying to add a frame when there is no current sequence.
+Trying to add a frame when there is no current sequence.\n
 Tuesday
 Two Bone
+U4tT
 UA>N0Wl
-UATAUAVAWH
-UATAUAVH
-UATAUH
-UATAVAWH
-UAUAVH
-UAUAVI
-UAVAWH
 UNKNOWN
-UPA8]Xt
-UPH;Uh
-USATAUAVAWH
-USATAUAWH
-USATAUH
-USAUAVH
-USAUH
-USAVH
-USAVI
 USER32.dll
-USVWATAUAVAWH
-USVWATAUAVH
-USVWATAVAWH
-USVWAUAVAWH
-USVWAUAVH
-USVWAVH
-USVWH
-USWATAUH
-USWAUAVH
-USWAUAVI
-USWAVAWH
+UUUU
 UUUUUU
-UUUUUUU
-UUUUUUUUH
-UUUUUUUUL
-UVATAUAVAWH
-UVATAUAVH
-UVATAVAWH
-UVATAVH
-UVAUAVH
-UVAUAWI
-UVAVAWH
-UVAVH
-UVAWH
+UV88
 UVLX8888
-UVWATAUAVAWH
-UVWATAVH
-UVWATAWH
-UVWAUAVAWH
-UVWAUH
-UVWAVAWH
-UVWAVH
 UVWQ8888
-UWATAUAWH
-UWATAVAWH
-UWATH
-UWAUAVAWH
-UWAVAWH
-UWAVH
-UWAWH
-Ugx	H
 UmsThreadYield
-Unable find required entry points in %s
-Unable to create new frame.
-Unable to create new sequence.
-Unable to create unknown element %s!
-Unable to load %s, error %d
-Unable to read file %s
+Unable find required entry points in %s\n
+Unable to create new frame.\n
+Unable to create new sequence.\n
+Unable to create unknown element %s!\n
+Unable to load %s, error %d\n
+Unable to read file %s\n
 Unable to set packing mode.
-Unable to set type unless you're creating untyped elements!
-Unabled to parse frame images.
+Unable to set type unless you're creating untyped elements!\n
+Unabled to parse frame images.\n
 Unaccounted
+Undo\n======\n
 Unexpected EOF in quoted string
 Unexpected marker 0x%02x
-Unhandled proxy keyvalues type (proxy %s var %s)
+Unhandled proxy keyvalues type (proxy %s var %s)\n
 UnhandledExceptionFilter
 Uninitialized row
 UniqueCameraModel
@@ -4486,20 +2861,20 @@ Unrecognized equation type for pCAL chunk
 UnregisterTraceGuids
 UnregisterWait
 UnregisterWaitEx
-Unserialize: Cannot determine encoding from file, and no encoding provided!
-Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!
-Unserialize: DMX file encoding %s is undefined!
-Unserialize: DMX header was present but contained no encoding name!
-Unserialize: Encoding expects DMX header but it doesn't exist!
-Unserialize: File format newer than executable's!
-Unserialize: Unable to open dmxconvert temp file "%s"
-Unserialize: Unable to start dmxconvert process
-Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'
-Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'
-Unsupported ETC image format %d.
+Unserialize: Cannot determine encoding from file, and no encoding provided!\n
+Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!\n
+Unserialize: DMX file encoding %s is undefined!\n
+Unserialize: DMX header was present but contained no encoding name!\n
+Unserialize: Encoding expects DMX header but it doesn't exist!\n
+Unserialize: File format newer than executable's!\n
+Unserialize: Unable to open dmxconvert temp file "%s"\n
+Unserialize: Unable to start dmxconvert process\n
+Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'\n
+Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'\n
+Unsupported ETC image format %d.\n
 Unsupported JPEG data precision %d
 Unsupported JPEG process: SOF type 0x%02x
-Unsupported PSD color mode!
+Unsupported PSD color mode!\n
 Unsupported color conversion request
 Unsupported marker type 0x%02x
 UokOP
@@ -4508,21 +2883,12 @@ UserInfoChangeService_001
 UuidCreate
 UuidFromStringA
 UuidToStringA
-UwH;U
-V(D9r(u
-V0;Ct~ZH
-V6E>`"(5
-VATAUAVAWH
-VATAUAWH
-VAUAWH
-VAVAWH
 VApplication001
 VAvi001
 VBAllocTracker001
 VBaseFileSystem011
 VBik001
 VConComm001
-VD$Pf
 VDataModelVersion001
 VDebugService_001
 VDmElementFrameworkVersion001
@@ -4552,22 +2918,6 @@ VScript
 VScriptDbg
 VScriptManager010
 VStringTokenSystem001
-VT$PD
-VUUUA
-VUUUH
-VWATAUAVAWL
-VWATAUAVH
-VWATAUAWH
-VWATAUH
-VWATAVAW
-VWATAVAWH
-VWAUAVAWH
-VWAUAVH
-VWAUH
-VWAVAWH
-VWAVH
-VWAWH
-V_:X1:
 V_CopyMemory3D
 V_FixSlashes
 V_GetErrno
@@ -4613,13 +2963,11 @@ V_vsnprintfSize
 V_vsnprintfWarnTrunc
 V_wcstod
 V_wcstoi64
-V`;Ct~bH
 Valve Make Sheet File
 Valve Map File
 Valve Material File
 Valve Texture Configuration File
-Valve0
-Valve1
+Vc0a
 VeaFOfb
 Velocity Inherit from Control Point
 Velocity Noise
@@ -4634,14 +2982,7 @@ VirtualFree
 VirtualProtect
 Virual volume texture file
 VisBuilder_001
-W!t/H
-W8HcH
 W=vmdlkeys0
-WATAUAVAWH
-WATAUAVH
-WATAUH
-WAVAWH
-WD8l$@t
 WIN32
 WINDOWS
 WINXP
@@ -4651,9 +2992,9 @@ WaitForThreadpoolTimerCallbacks
 WakeAllConditionVariable
 WakeConditionVariable
 Warning
-Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.
-Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".
-Warning:  %s = '%s' is infinite, clamping value.
+Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.\n
+Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".\nDid you forget to surround the vector with "s?\n
+Warning:  %s = '%s' is infinite, clamping value.\n
 Warning: thumbnail image size does not match data length %u
 Warning: unknown JFIF revision number %d.%02d
 Wednesday
@@ -4663,8 +3004,8 @@ WhitePoint
 WideCharToMultiByte
 Width is too large for libpng to process pixels
 WinRTInitialization
-WipeRedo '%s'
-WipeUndo '%s'
+WipeRedo '%s'\n
+WipeUndo '%s'\n
 WorkshopSetup001
 World Files
 World Node Files
@@ -4679,42 +3020,27 @@ WriteConsoleW
 WriteFile
 Wrong JPEG library version: library is %d, caller expects %d
 Wrote symbol stats to file: %s
-Wu4E3
-X E9z
-X!t5~
-X(D9y(
+X/4B
+X360
 X360_DST16
 X360_DST24
 X360_DST24F
-XA]A\^[
-XA^A\_[
-XA_A]
-XA_A^A\_^[
-XA_A^^[
-XA__^[
 XClipPathUnits
-XL$tL
 XMLPacket
 XPosition
 XResolution
 XYZ, Luv
-X_^][
-X|$ A
-X|$8E
-Y$D;R
-Y0t>H
+XsBI
+Y8a:
 Y>kX>M
 YCbCrCoefficients
 YCbCrPositioning
 YCbCrSubsampling
 YClipPathUnits
-YD$@f
 YPosition
 YResolution
 YpU_Z
-Z(D9Z
-Z* ,	
-Z@&LHA'
+Z@&LHA'\r:C(
 ZFP compression is not supported.
 ZIPDecode
 ZIPEncode
@@ -4724,94 +3050,29 @@ ZIPSetupEncode
 ZIPVSetField
 Z\>z8
 Zero length tRNS chunk
-Zod(^?
+Zjz\v
 Zpm"U
-[ UWAVH
-[%d] Aborting undo '%s'
-[%d] Popping undo '%s'
-[%d] Pushing undo '%s'
+[%d] Aborting undo '%s'\n
+[%d] Popping undo '%s'\n
+[%d] Pushing undo '%s'\n
 [*ncd>0
-[-&LMb#{'
-[0Hc3;s
-[@fE#
 [aOni*{
-\$ ATAVAWH
-\$ E3
-\$ H;
-\$ Hi
-\$ I;
-\$ Ic
-\$ UATAVH
-\$ UAVAWH
-\$ UH
-\$ UVATH
-\$ UVWATAUAVAWH
-\$ UVWAUAWH
-\$ UVWAVAWH
-\$ UVWH
-\$ UWATH
-\$ UWAWH
-\$ VH
-\$ VWAUAVAWH
-\$ VWAVH
-\$ WAVAWH
-\$ WH
-\$(D;
-\$(Hc
-\$(Hc|$ H
-\$(I;
-\$(L#
-\$(fD;
-\$0)p(H
-\$09^
-\$09i8
-\$0;^
-\$0A;
-\$0E3
-\$0H;
-\$0Hc
-\$0HcH
-\$0L+
-\$0Lc
-\$4E;O
-\$8A+
-\$<A;
-\$@;B
-\$@@8=M:
-\$@H+
-\$@H;
-\$@Hc
-\$@f;
-\$@u$M
-\$@u+M
-\$@uFM
-\$Hfff
-\$L;u$
-\$PA_A^A]A\_^]
-\$PE3
-\$PE;
-\$PfD
-\$XA;
-\$XH;y
-\$XHc
-\$XIc
-\$`E3
-\$`Hc
-\$gm?
-\$hE;
-\$hHc
-\$hHcZ@H
-\$pA;
-\$pE3
-\ffff
-])6M>&
-]>)2X
-]@fff
+[h1R
+\nCwf\r
+\nh?oT
+\nk>oB
+\r\f\v\v\n\n\t\t\t\t\t
+\rmj>zjZ
+\tN1a
+\tNAN encountered in element '%s' guid %s attribute '%s'!\n
+\t\t\n\n\v\v\f\f\f\f\r\r\r\r
+\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\v\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+\tcQr
+\tkE>fvw
+\vA03>A|
 ^<V7w
 ^RfN>
-^fD9+t
 ^oEZ_
-_8tDH
 _TIFFMergeFieldInfo
 _TIFFSetupFieldInfo
 _TIFFVGetField
@@ -4850,26 +3111,6 @@ _logb
 _name
 _nextafter
 _oD>Kg
-` UAVAWH
-`+!]?
-`.rdata
-`;k8|
-`A;m8
-`A;n8
-`A^A]A\_^
-`A_A\]
-`A_A]A\_[
-`A_A]_^]
-`A_A^A]A\_^]
-`A_A^]
-`A_A^_^[
-`A_A^_^]
-`A_][
-`D;K8|
-`D;e8|
-`D;{8
-`LcA H
-`LcQ H
 `RTTI
 `copy constructor closure'
 `default constructor closure'
@@ -4880,7 +3121,6 @@ _oD>Kg
 `eh vector destructor iterator'
 `eh vector vbase constructor iterator'
 `eh vector vbase copy constructor iterator'
-`h````
 `h`hhh
 `local static guard'
 `local static thread guard'
@@ -4907,7 +3147,9 @@ _oD>Kg
 `vector vbase copy constructor iterator'
 `vftable'
 `virtual displacement map'
+a6>r
 abcdefghijklmnopqrstuvwxyz
+acos
 actBusy
 actBusyList
 actbusy
@@ -4938,6 +3180,7 @@ anchor_angles
 anchor_position
 angle
 angles_relative
+anim
 animSetList
 anim_duration
 anim_frameRate
@@ -4959,7 +3202,8 @@ anisotropic
 aoB>"
 argument list too long
 argument out of domain
-at=<rt!<wt5L
+asin
+atan
 atan2
 ati_compress_wrapper.dll
 attach
@@ -4972,8 +3216,8 @@ attenuation1
 attenuation2
 audioTarget
 auto_unragdoll_duration
+axis
 axisSystem
-b?^Cy
 bUpdate
 background
 backgroundMap
@@ -5004,6 +3248,8 @@ binary
 binary_array
 binary_seqids
 binary_v
+bind
+bits
 blendColor
 blendMaxPathOpacity
 blendTransition
@@ -5015,13 +3261,16 @@ blendweights$0
 blendweights$0Indices
 blockLOS
 bloomScale
+blue
 body_type
+bone
 bone_name
 bone_names
 bonemask
 bonemerge
 bookmarkSets
 bookmarks
+bool
 bool log
 bool_array
 boolean
@@ -5032,7 +3281,6 @@ box_maxs
 box_mins
 boxproject_maxs
 boxproject_mins
-bp(=>?g
 break_create_joint_revolute
 break_uniform_burst
 breakable_count
@@ -5041,16 +3289,13 @@ breakable_skin
 brightness
 broken pipe
 broken promise
+bt3V
 buffer error
 bumpScale
 burst_randomize
 burst_scale
 busy_anim
 busy_sequence
-by this version of libtiff.
-c [1>H'
-c(>\,
-c0&>`
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ati_compress_loader.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\floatbitmap.cpp
 c:\buildslave\hlvr_rel_win64\build\src\bitmap\ispc_compressor_loader.cpp
@@ -5072,12 +3317,12 @@ c:\buildslave\hlvr_rel_win64\build\src\tier1\utlstring.cpp
 c:\buildslave\hlvr_rel_win64\build\src\tier2\schemabindings.cpp
 c:\buildslave\hlvr_rel_win64\build\src\utils\environmentmapbuilder\Retail\win64\environmentmapbuilder.pdb
 c?FA@s}
-cAMDD
 cable
 cannot read TIFF_ANY type %d for field "%s"
 cantdie
 carry_type
 castshadows
+ceil
 cellConfiguration
 cellsNodeID
 center
@@ -5143,6 +3388,7 @@ control_point
 controlpoint_light
 controls
 coordSys
+cosh
 count
 create from parent particles
 create_particle
@@ -5153,31 +3399,12 @@ cubemapsize
 curve info
 curvetypes
 custom
-d$ D9d$0|SH
-d$ E3
-d$ UAVAWH
-d$ fC
-d$(E3
-d$8E3
-d$@D;e
-d$DE;
-d$HA;
-d$HLc
-d$P+A$t
-d$PfD
-d$XE;h
-d$XE;k
-d$`D;o
-d$`E3
-d$`E;
-d$`H;
-d$h9s
-d$hE3
-d$pE3
-d$pM+
-d$xE3
+d8L2
 d?000000`?
+dQy/
+dRL>
 damage
+data
 data error
 data height too large.
 data width or data height is negative.
@@ -5234,20 +3461,13 @@ drawToolRenderablesMask
 dummyfilename.tif
 duration
 durationTime
+dxt5
 dynamic_interaction
-e A_A^A]A\]
-e A_A^A]A\_^]
-e(A_A^A]A\_^[]
 e+000
-e0A_A^A]A\]
-e0A_A^]
-e8u~f
-e@A_A^]
+eF>t
 eLK(w
-ePA_A^]
-eXA_A^A]A\_^[]
 editorType
-effortblocks = %d
+effortblocks = %d\n
 element
 elementList
 element_array
@@ -5257,12 +3477,11 @@ emissionStopTime
 emitFromWorld
 emitting
 enable_limit
-encoding %s %d format %s %d
+encoding %s %d format %s %d\n
 endFrame
 endTime
 endframe
 ent_dota_lightinfo
-entiA
 entity
 entity_properties
 entry_anim
@@ -5293,52 +3512,11 @@ explosive_radius
 exportTags
 exporttags
 extreme cHRM chunk cannot be converted to tristimulus values
-f9)u H
-f9)uTH
-f9,Ju
-f9,~u
-f9<Au
-f9<Bu
-f9G`u1H
-f9G`uCH
-f9\$bu
-f9u"v
-fA9,Au
-fA9<\u
-fB9,Nu
-fB94Ou
-fB9<@u
-fB9<Bu
-fB9<Hu
-fD9	t(I
-fD9 t
-fD9 tMH
-fD9 u
-fD9$Hu
-fD9,Au
-fD9,Cu
-fD9,Ku
-fD9,Pu
-fD90t
-fD90u
-fD94Fu
-fD96u
-fD9;u
-fD9<Au
-fD9<Xu
-fD9?t&
-fD9Ab
-fD9t$b
-fD9tE
-fD;C s#A
-fD;I:v
-fE9,Du
-fE9,tu
-fE98t'
-fF9<qu
-fG9$Ou
-fG9,wu
-fJBGo
+eyes
+fD>b
+fP~V
+fWi?
+fabs
 faceMergeAngle
 facial_animation
 fadeIn
@@ -5349,9 +3527,6 @@ falloff_left
 falloff_right
 false
 fbx2dmx
-fffff
-ffffff
-fffffff
 file error
 file exists
 file too large
@@ -5361,12 +3536,14 @@ filesystem_stdio
 filterType
 filterclass
 flags
+flat
 flipVCoordinates
 float
 float log
 float_array
 floating point predictor 
 floor
+fmod
 fog_lighting
 fogcontributionstrength
 for "ReferenceBlackWhite" array
@@ -5389,6 +3566,7 @@ frexp
 friction
 fromAttribute
 fromElement
+fu`z
 function not supported
 functionName
 future
@@ -5406,17 +3584,15 @@ gameunitclass
 gamma
 gamma table being rebuilt
 generic
-gfffA
-gfffffffH
+glow
+gqr<
 gravity
 green
 gridspacing
 groupColor
+h0'D
 h>1my
-hA^A\
-hA_A]A\_[]
-hA_A]A\_][
-hE<NA]PS
+hPU3
 hammer
 handindex
 hcrop
@@ -5434,14 +3610,10 @@ hold_right
 horizontal differencing 
 host unreachable
 houdini
-http://ocsp.digicert.com0A
-http://ocsp.digicert.com0C
-http://ocsp.digicert.com0N
-https://www.digicert.com/CPS0
 hurt_me
 hurt_them
-i H9i0u
-iW!]4/
+i91k
+i]Wb
 identifier removed
 ikdata
 ikrig
@@ -5457,7 +3629,6 @@ incorrect count for field "%s" (%u, expecting %u); tag trimmed
 incorrect data check
 incorrect header check
 incorrect length check
-ineIA
 influenceradius
 info_particle_system
 inity
@@ -5513,30 +3684,14 @@ isOrientation
 isPosition
 is_debris
 ispc_texcomp.dll
-iu+-,
 j'Vlk
-j>>A?1
-j?V()
-j?{$*
 jointIndices
 jointIndicesIndices
 jointList
 jointTransforms
 jointWeights
 jointWeightsIndices
-k HcKX;
-k0i0$
-k0t$I
-k<9s@~;L
-k<9s@~>L
-k<9s@~?L
-k<9s@~@L
-k<9s@~DL
-k<9s@~EL
-k<9{@~:L
-k<9{@~EL
-k<9{@~FL
-k@_aH
+k=yI
 keyvalues
 keyvalues file
 keyvalues2
@@ -5544,91 +3699,13 @@ keyvalues2_flat
 keyvalues2_flat_v
 keyvalues2_noids
 keyvalues2_v
-kxu/H
-l!;b	F
-l$ 9Q
-l$ AVH
-l$ D9l$0|LH
-l$ E3
-l$ E;G|
-l$ VAUAWH
-l$ VAVAWH
-l$ VH
-l$ VWATAUAVAWE3
-l$ VWATAUAWH
-l$ VWATAVAWH
-l$ VWAUAVAWH
-l$ VWAUH
-l$ VWAVH
-l$ VWAWH
-l$ W3
-l$ WATAUAVAWH
-l$ WAVAWH
-l$ WH
-l$$9L$(
-l$$D;
-l$(D;
-l$(E3
-l$(Hc
-l$(LcI
-l$0A_A^A]A\
-l$0E3
-l$0H+
-l$0Hc
-l$0Hc*
-l$0HcA
-l$0ff
-l$0v=fA
-l$0~8H
-l$4I;
-l$8A2
-l$8A;
-l$8H+
-l$8HcG
-l$8HcH
-l$8HcO
-l$8Hi
-l$@9k
-l$@@2
-l$@A3
-l$@A;
-l$@D9s8~YH
-l$@E3
-l$@Hc
-l$@I;
-l$H@2
-l$HA_A]A\_^
-l$HA_A^A]A\_^
-l$HLc
-l$HLcH
-l$H~&E
-l$PA_A^A]A\_^
-l$PD30A
-l$PD;
-l$PLc
-l$Pu,L;
-l$XA+
-l$XD;a
-l$XD;|$
-l$XE;
-l$XHc
-l$`C9,
-l$`E9j
-l$`E;j
-l$`Mc?H
-l$`u$H
-l$hHcH
-l$hI;
-l$hL;
-l$hM;
-l$hff
-l$pE3
-l$pHc
-l$x@2
 l6qnk
+lDa>
 last_sniff
 layers
+lcQe
 ldexp
+left
 leftEdgeActive
 leftEdgeCurveType
 leftEdgeValue
@@ -5666,13 +3743,16 @@ localaxis
 lock to bone
 lockRotationAlpha
 log10
+loop
 loop_break_on_damage
 loop_break_on_flashlight
 loop_in_action
 looping
 lower_hemisphere_is_black
-m0k0$
-m8L9c
+m?H7
+mG4>
+mXr4
+m\nXo
 m_Attenuation0
 m_Attenuation1
 m_Attenuation2
@@ -5887,18 +3967,20 @@ maxVerticesPerHull
 max_angle
 max_size_multiplier
 max_time
+maya
+mesh
 mesh_calculate_curvature_smooth_invert
 mesh_calculate_curvature_smooth_pass_count
 mesh_calculate_curvature_smooth_weight
 meshes
 message size
-mgfff
 midpoint
 min_angle
 min_time
 mipLevels
 mipmapType
-mj>zjZ
+mips
+mode
 model
 model_attachment
 model_bone
@@ -5933,6 +4015,8 @@ modeldoc6
 modeldoc7
 modeldoc8
 modeldoc9
+modf
+modo
 movieSettings
 movieobjects
 mp_anim
@@ -5951,14 +4035,13 @@ multilevel
 multilevelchannel
 multiplayer_break
 must be either LogLUV or LogL
-n D9e
+n$Kx
 n03>Pu
-nD$`fD
 nLayoffState
-nN0fA
-nT$dfA
 nTries < 10000000
+n\f"pA3Q
 n]?iJ
+name
 nan(ind)
 nan(snan)
 nav_attribute_avoid
@@ -6013,12 +4096,10 @@ not connected
 not enough memory
 not supported
 npcclass
-ntelE
 numchannels
 numsegments
-oD$ H
+o?GS
 oI>O7
-oO0fI
 obwQ4
 offset
 offsetTime
@@ -6036,30 +4117,12 @@ origin_max_delta
 origin_relative
 oscillate_scalar
 oscillate_vector
-ot$ H
 outerconeangle
 overridetexture
+owM&
 owner dead
 ownerlog
-oypfD
-o|$0f
-p ATAVAWH
-p AWH
-p UAVAWH
-p0n05
-p1f3q>
-pA]A\_[]
-pA^[]
-pA^^]
-pA^_^
-pA^_^][
-pA_A]A\_]
-pA_A^A]A\_^[
-pA_A^A]A\_^]
-pA_][
-pA__[
 pContext
-pD	s0
 pEvents
 pExecutionResource
 pScheduler
@@ -6070,7 +4133,7 @@ parentConstraint
 parent_bone
 particle
 particles/
-pass %u
+pass %u\n
 patch
 permission denied
 pfmscale
@@ -6116,6 +4179,7 @@ presetGroups
 presetRemap
 presets
 priority
+proc
 procedural
 processors
 promise already satisfied
@@ -6127,22 +4191,13 @@ proxies
 proxyType
 pseudo-
 purecall
-q(9YD~tE3
-q0@80u
 qS>g?h3
 qangle
 qangle_array
 quaternion
 quaternion_array
-r	Vr.>T
-r	uOD;d$(uH
-r 9_ t
-r'Hc.;n
-r(D;u
-r(D;v
-r:D8v
-rBu/H
 rLp>B
+r\tVr.>T
 radius
 radius0
 radius1
@@ -6178,7 +4233,7 @@ result out of range
 result_left
 result_right
 rgb+a
-ri9V vdH
+rgba
 rightEdgeActive
 rightEdgeCurveType
 rightEdgeTime
@@ -6189,6 +4244,7 @@ right_edge_curvetype
 right_edge_value
 rightedgetime
 rightvaluechannel
+root
 rootControlGroup
 rootGroup
 rootNode
@@ -6198,20 +4254,13 @@ rotation_random
 rotation_speed_random
 rotation_spin
 rotation_spin yaw
-s	A9;A
-s WATAUAVAWH
-s%D;k
-s4+sP+
-s<9s@~XL
-s@t%@
+ru&o
 sAmTb
 sCAL chunk too short
-sFFou
+sHF'
 sPLT chunk has bad length
 sPLT chunk requires too much memory
 sPLT chunk too long
-sYHpu
-s]D9(tXI
 saturation
 scale
 scaleColor
@@ -6269,10 +4318,13 @@ showCameraFrustum
 showFocalPlane
 showViewTargets
 shutterSpeed
+side
 sidelist
 simulating
 simulationTime
 simulationTimeScale
+sinh
+size
 size0
 size1
 skeleton
@@ -6301,10 +4353,8 @@ srcCropXEnd
 srcCropXStart
 srcCropYEnd
 srcCropYStart
+srgb
 ssBump
-stCD;
-stED;
-st`D;
 staggerinterval
 standard
 start
@@ -6315,9 +4365,6 @@ state not recoverable
 stereo
 stereoSingleFile
 stereoscopic
-stfE;
-stgE;
-sthE;
 stop_immediately
 stop_instantly
 stop_on_seq_change
@@ -6335,182 +4382,15 @@ suppress
 surface_prop
 switchState
 syncEngineFramerate
-t	H9s
-t	L9c
-t H9X8tN
-t!+S$L
-t"<.u
-t$ ;C ~
-t$ @2
-t$ A;
-t$ ATAVAWH
-t$ AVAWH
-t$ AVAWL
-t$ AVE3
-t$ AVH
-t$ AWH
-t$ E2
-t$ E3
-t$ E;
-t$ Hc
-t$ UAVAWH
-t$ UH
-t$ UWATAUAVH
-t$ UWATAVAWH
-t$ WATAUAVAWD
-t$ WATAUAVAWH
-t$ WATAUAVD
-t$ WATAVH
-t$ WATAWH
-t$ WAV
-t$ WAVA
-t$ WAVAWH
-t$ WE3
-t$ WH
-t$(A^
-t$(D;
-t$(E3
-t$(H;l$@
-t$(Lc
-t$(Mc
-t$0+A$t
-t$0A;
-t$0A^_
-t$0A_A^
-t$0D;
-t$0E3
-t$0H+
-t$0H;
-t$0Hc
-t$0Hc2
-t$0Hcq@H
-t$0Hcs
-t$0Hcs@;sPu
-t$0HcsX;shu
-t$0M;
-t$0ff
-t$8E2
-t$8E3
-t$8H+
-t$8H;
-t$8Ic
-t$8Lc
-t$<Hc
-t$<Lc
-t$@9Y8
-t$@;_
-t$@A^A]A\_
-t$@E3
-t$@Hc
-t$@Hcu
-t$@tsLcK<L
-t$@ttLcK<L
-t$@twLcK<L
-t$@u(H
-t$@u/H;
-t$@u_H
-t$H9r$
-t$H;^Xt
-t$HA_A^A]A\_
-t$HE3
-t$HHc
-t$HI;
-t$Hff
-t$LD;
-t$PL+
-t$Pt!
-t$Pu1H
-t$XE3
-t$XE8
-t$Xff
-t$\D;
-t$`9w
-t$`;w
-t$`E3
-t$`Hc
-t$`I;
-t$`Mcm
-t$`uDH
-t$h9~
-t$hI;
-t$hfI
-t$hff
-t$pHcH
-t$ptiHcK<L
-t$ptkLcK<L
-t$ptsLcK<L
-t$x;_@u
-t$xH9
-t&H;y
-t'B;| 
-t'fE9
-t(A8(t
-t(D9&}#H
-t(fD;
-t(fff
-t)D8l$@t
-t)D96}$H
-t*D8#t
-t*H9X8u$@8
-t+H;G
-t.8\$P
-t.@8:t)
-t.D9s
-t/D83t*
-t/D8e
-t0+O$H
-t09+u,9s
-t0@87t+
-t0D8;t+
-t1+O$H
-t4McF
-t4fff
-t5LcF
-t9H9=
-t:D9s
-t:LcM
-t;A9;
-t=+O$H
-t?fff
-tBHc/
-tCHcP
-tCfff
-tD+O$H
-tDD9V
-tDD9~Xt>H
-tDLcC
-tEL9t$hu>
-tGH;~XtA
-tI@8{:t
-tIf9wbH
-tK@8{:t
-tP@8|$!u4@8|$"t-
-tPfE;
-tQfD9 tK
 tRNS chunk has out-of-range samples for bit_depth
 tRNS chunk not allowed with alpha channel
-tSK;D
-tSf91tNH
-tVf91tQH
-tX<]tp<}tPH
-tXEtu
-tXLcQ
-tXTiu
-tXTzu
-tY@8{XuSH
-t[H;J
-t\HcL$`H
-t];Cxr
-t]<-u
-t]fff
-t^D;@
-t_D9s
 tag_list
 tag_list_dynamic
 tangent$0
 tangent$0Indices
 tangents
 tangentsIndices
+tanh
 targetGroup
 targetGroupNodeID
 targetName
@@ -6521,12 +4401,11 @@ target_destination
 target_name_or_class
 target_source
 targetname
-tbD9R
-tbHc~
 test_angles_relative
 tex_source1
 texcoord$0
 texcoord$0Indices
+text
 text compression mode is out of range
 text file busy
 text_block
@@ -6539,15 +4418,13 @@ textureFrame
 textureType
 texturescale
 tier0.dll
+tile
 tiles
+time
 timeFrame
 time_array
 timed out
 times
-tl+K$3
-tlLcA
-tlMcH
-tmLc\$0
 to fetch array of rationals
 to fetch per-sample values
 to fetch strip tag
@@ -6562,77 +4439,17 @@ too many files open in system
 too many length or distance symbols
 too many links
 too many symbolic link levels
-tqHct$ ;t$0u
-trD8(tmH
-trH9}
-trLcJ
 trail_length_random
 transform
 transparency
 treeColor
 trilinear
-ttIcF
-tu+K$3
+true
 turn_rate
-tvHcE
-tvLcK
-twH;^XtH3
-txH99us
-tyfD9 tsH
-tzLcK<L
-u	9w$
-u	@8=}
-u f;N
-u!!D$(H
-u"D;{
-u"IcF8
-u$@8z
-u%!D$@H
-u%HcWxH
-u)!t$(H
-u-Hc}P;}`u
-u1!D$0H
-u2A8D
-u2HcB
-u2fff
-u3HcH<H
-u4D9~
-u9Hc3;s
-u:E9n
-u:Hc3;s
-u:Lc@
-u=Hc3;s
-u=L;k
-u@A9l$
-u@E9n
-uEHc3;s
-uFE9n
-uGA9l$
-uHfA;
-uLE9n
-uMHcE
-uMfA9h uFfA9h0u?fA9h@u8fA9hPu1fA9h`u*fA9hpu#A
-uNA9l$
-uRE9n
-uT<0uP
-uUA9l$
-uVfE9M uOfE9M0uHfE9M@uAfE9MPu:fE9M`u3fE9Mpu,A
-uXE9n
-uYfA9h uRfA9h0uKfA9h@uDfA9hPu=fA9h`u6fA9hpu/A
-u[HcI
-u\A9l$
-u`HcL
-ucA9l$
-ueHcS
-uf!T$(H!T$ 
-uh@8|$!t,
-uhIc4
-uiD9~
 uint64
 uint64_array
 uint8
 uint8_array
-umfE9H uffE9H0u_fE9H@uXfE9HPuQfE9H`uJfE9HpuCA
 unexpected count for field "%s", %u, expected 2; ignored
 uniform_burst
 unknown
@@ -6642,18 +4459,13 @@ unknown error
 unknown exception
 unknown header flags set
 unnamed
-unrecognized option in text file - %s
+unrecognized option in text file - %s\n
 upAxis
-urHc~
 useEdgeInfo
 use_additional_offset
 usecurvetypes
 useedgeinfo
-uuHcF
-uxHcOP
 uzKs@>
-v A9~ w
-v0t08
 v2!L.2
 vQO+t
 value
@@ -6691,15 +4503,20 @@ videoTarget
 virtualvolumetexture
 visbility
 visible
+vmap
+vmat
+vmdl
 vmdlkeys1
 vmdlkeys2
 vmdlkeys3
 vmesh
+vmks
 vmtFallback
 vmtProxy
 volumeTextureDepth
 volumefogenabled
 volumetexture
+vpcf
 vpcf1
 vpcf10
 vpcf11
@@ -6732,23 +4549,19 @@ vr_carry_type
 vsDmxIO SketchUpScene
 vsDmxIO houdiniSceneIO
 vsUtils.py
+vsky
 vsnap
 vstdlib.dll
 vsutils_py
+vtex
+vvtx
 vwnod
 vwrld
-v}`[>
-w fA;
 w+OQvr
-w1kK0
-w4kK0
-w7tAA
-w:fA;
-w?fD;
-wAfD;
+w3Xc
+wXR\r
 weightweight$0
 weightweight$0Indices
-wg}o1E
 width
 wn>Jj
 world
@@ -6760,205 +4573,18 @@ wrinkle$0
 wrinkle$0Indices
 wrinkleIndices
 wrong protocol type
-www.digicert.com1!0
-www.digicert.com1$0"
-www.digicert.com110/
-x	HcM
-x	HcQ
-x A;@X}
-x ATAVA
-x ATAVAWH
-x AUAVAWH
-x AV3
-x AVE2
-x AVE3
-x AVH
-x AVHcA
-x AWH
-x UATAUAVAWH
-x UAVAWH
-x!HcI
-x!HcK
-x$H9-
-x.HcAhL;
-x0v0$
-x9H;H
-x9HcGhH;
-x9HcS
-xA]A\[]
-xA]A\_^
-xA^A][]
-xA_A^A]A\_^][
-xA_A^_^
-xEH;^
-xMHcM
-xMHcQ
-xRHcQ
-xSH;H
-xZH;A
-xZH;Q
-x^j=|
-x_^][
+xT?V
 xcoord
 xpxxxx
-xuJE3
 xwpwpp
-y899u
-yBNu'
-y\PD>!
+y9*O
 yaw_end
 yaw_start
 ycoord
-z/u-A
-z/u-E
-z0x0:
-zY;>u:m	
+zero
 zlib memory error
 zlib stream error
 zlib version error
-{ ATAVAWH
-{ AVH
-{(H9n
 {YIN?
-|#tAM
-|$ A;
-|$ ATAUAVAW
-|$ ATAUAVAWL
-|$ ATAVAWH
-|$ AUAVAWH
-|$ AV
-|$ AVAW
-|$ AVAWD
-|$ AVAWH
-|$ AVE3
-|$ AVH
-|$ AWH
-|$ D!
-|$ E3
-|$ E9
-|$ H;
-|$ Hc
-|$ Lc
-|$ UATAUAVAWH
-|$ UAVAWH
-|$ UH
-|$ ff
-|$$M+
-|$(A;
-|$(A^
-|$(E3
-|$(I;
-|$09{P~FH
-|$0@"
-|$0A+
-|$0A;
-|$0A^A\
-|$0A_A^
-|$0B+
-|$0E3
-|$0H;
-|$0Hc
-|$0Hc{
-|$0Hc{0;{@u
-|$0Ic
-|$0L;
-|$0fD
-|$0ff
-|$0fff
-|$0s-
-|$4E;
-|$89^
-|$8;3
-|$8@8h
-|$8B8
-|$8H+
-|$8t,H
-|$<;{0
-|$@-D
-|$@-H
-|$@@"
-|$@A_A^A]A\
-|$@H;
-|$@Hc
-|$@HcL$<H
-|$@Hcyp;
-|$@Lc
-|$@t	3
-|$DD;~
-|$HA#
-|$HA;
-|$HHc
-|$HHcK
-|$Hff
-|$Ht#
-|$HtwI
-|$PA;^ u
-|$PD;c
-|$PE3
-|$PHc
-|$PI;
-|$Pfff
-|$XA+
-|$XE+
-|$XE;c
-|$XHc
-|$XHcU
-|$XLc
-|$\.u
-|$`30
-|$`CI
-|$`E3
-|$`Ic
-|$`Lc
-|$h9i
-|$hA+
-|$hE3
-|$hM;
-|$pE3
-|$pH;
-|$pHc
-|$xLc
-|b=})>
-} Hcu`H
-} u,H
-}%;Q|
-}&f;{
-}(D8o
-}0;_|
-}:fA;
-}?fA;
-}IfA;
-}UfD	
-}_t!H
-}iD;K$
-~ $s%r
-~ fff
-~!A;~
-~!fff
-~"fff
-~(HcNDI
-~*9y0
-~*9yP
-~:fD9,
-~BLcK0E3
-~EI9|$
-~FHc+;k
-~IHc+;k
-~L@8~8u
-~P~%3
-~QLc]
-~XHcD$pL
-~\ u&I9
-~]Lc]
-~`8A!t
-~`LcM
-~aLcM
-~bLcM
-~cLcM
-~cfff
-~eLcM
-~fLcM
-~jLcM
-~nfff
-~offf
-~tfff
+{kHw
+|BPt
